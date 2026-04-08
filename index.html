@@ -1,0 +1,1205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pathwell — Story Wiki</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=JetBrains+Mono:wght@400;500&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #1a1915;
+  --bg-surface: #21201b;
+  --bg-raised: #2a2923;
+  --bg-hover: #33322b;
+  --border: #3d3c34;
+  --border-light: #4a493f;
+  --text: #e8e4d9;
+  --text-dim: #a09b8c;
+  --text-faint: #706c60;
+  --accent: #d4a857;
+  --accent-dim: #b08a3a;
+  --accent-glow: #d4a85722;
+  --red: #c47a6c;
+  --green: #8cb87a;
+  --blue: #7a9ec4;
+  --mono: 'JetBrains Mono', monospace;
+  --serif: 'Crimson Pro', Georgia, serif;
+  --sans: 'DM Sans', system-ui, sans-serif;
+  --sidebar-w: 280px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { font-size: 16px; scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  line-height: 1.7;
+  display: flex;
+  min-height: 100vh;
+}
+
+/* ── Sidebar ── */
+.sidebar {
+  width: var(--sidebar-w);
+  min-width: var(--sidebar-w);
+  background: var(--bg-surface);
+  border-right: 1px solid var(--border);
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+}
+
+.sidebar-header {
+  padding: 28px 24px 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.sidebar-title {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  font-weight: 300;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+}
+
+.sidebar-subtitle {
+  font-size: 0.72rem;
+  color: var(--text-faint);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-top: 4px;
+}
+
+.sidebar-nav {
+  padding: 16px 0;
+  flex: 1;
+}
+
+.nav-group-label {
+  padding: 14px 24px 6px;
+  font-size: 0.65rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  font-weight: 600;
+}
+
+.nav-link {
+  display: block;
+  padding: 6px 24px 6px 32px;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  border-left: 2px solid transparent;
+}
+
+.nav-link:hover {
+  color: var(--text);
+  background: var(--bg-hover);
+}
+
+.nav-link.active {
+  color: var(--accent);
+  border-left-color: var(--accent);
+  background: var(--accent-glow);
+}
+
+/* ── Mobile toggle ── */
+.menu-toggle {
+  display: none;
+  position: fixed;
+  top: 16px;
+  left: 16px;
+  z-index: 200;
+  background: var(--bg-raised);
+  border: 1px solid var(--border);
+  color: var(--accent);
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: #000a;
+  z-index: 90;
+}
+
+/* ── Main content ── */
+.main {
+  margin-left: var(--sidebar-w);
+  flex: 1;
+  min-width: 0;
+}
+
+.content {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 48px 40px 120px;
+}
+
+/* ── Typography ── */
+.page-title {
+  font-family: var(--serif);
+  font-size: 2.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  color: var(--text);
+  margin-bottom: 8px;
+  line-height: 1.2;
+}
+
+.page-lead {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--text-dim);
+  margin-bottom: 36px;
+  line-height: 1.6;
+}
+
+h2 {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--text);
+  margin: 48px 0 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  font-family: var(--sans);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin: 32px 0 10px;
+  letter-spacing: 0.02em;
+}
+
+h4 {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  margin: 20px 0 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+p { margin-bottom: 14px; }
+
+strong { color: var(--text); font-weight: 600; }
+
+em { font-style: italic; color: var(--text-dim); }
+
+blockquote {
+  border-left: 3px solid var(--accent);
+  padding: 14px 20px;
+  margin: 20px 0;
+  background: var(--accent-glow);
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  color: var(--text);
+  line-height: 1.7;
+}
+
+blockquote p:last-child { margin-bottom: 0; }
+
+/* ── Tables ── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0 24px;
+  font-size: 0.9rem;
+}
+
+th {
+  text-align: left;
+  padding: 10px 14px;
+  background: var(--bg-raised);
+  border-bottom: 2px solid var(--border-light);
+  font-weight: 600;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  color: var(--text-dim);
+}
+
+td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+tr:hover td { background: var(--bg-surface); }
+
+/* ── Warning boxes ── */
+.warning {
+  background: #2a231a;
+  border: 1px solid #5a4020;
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  padding: 14px 18px;
+  margin: 18px 0;
+  font-size: 0.9rem;
+}
+
+.warning-label {
+  font-weight: 600;
+  color: var(--accent);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+/* ── Status badges ── */
+.status {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 2px 10px;
+  border-radius: 3px;
+  letter-spacing: 0.04em;
+}
+.status-done { background: #1e2e1a; color: var(--green); }
+.status-wip { background: #2a2a1a; color: var(--accent); }
+.status-draft { background: #1a1e2a; color: var(--blue); }
+
+/* ── Internal links ── */
+.internal-link {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--accent-dim);
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+.internal-link:hover { border-bottom-style: solid; }
+
+/* ── Numbered principles ── */
+.principle {
+  margin: 24px 0;
+  padding-left: 0;
+}
+
+.principle-num {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--accent-dim);
+  margin-bottom: 2px;
+}
+
+.principle-title {
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.principle-body {
+  color: var(--text-dim);
+  font-size: 0.92rem;
+}
+
+/* ── Ladder rungs ── */
+.rung {
+  margin: 24px 0;
+  padding-left: 20px;
+  border-left: 2px solid var(--border);
+  position: relative;
+}
+
+.rung::before {
+  content: attr(data-num);
+  position: absolute;
+  left: -14px;
+  top: 0;
+  width: 26px;
+  height: 26px;
+  background: var(--bg-raised);
+  border: 2px solid var(--accent-dim);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.rung-title {
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.rung-body {
+  color: var(--text-dim);
+  font-size: 0.92rem;
+}
+
+/* ── Section page (hidden by default) ── */
+.page { display: none; }
+.page.active { display: block; }
+
+/* ── Search ── */
+.search-box {
+  padding: 12px 24px 12px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 8px 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.search-input::placeholder { color: var(--text-faint); }
+.search-input:focus { border-color: var(--accent-dim); }
+
+/* ── Responsive ── */
+@media (max-width: 840px) {
+  .menu-toggle { display: flex; }
+  .sidebar { transform: translateX(-100%); }
+  .sidebar.open { transform: translateX(0); }
+  .sidebar-overlay.open { display: block; }
+  .main { margin-left: 0; }
+  .content { padding: 60px 20px 100px; }
+  .page-title { font-size: 1.8rem; }
+}
+</style>
+</head>
+<body>
+
+<button class="menu-toggle" onclick="toggleSidebar()" aria-label="Menu">☰</button>
+<div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <div class="sidebar-title">Pathwell</div>
+    <div class="sidebar-subtitle">Story Reference Wiki</div>
+  </div>
+  <div class="search-box">
+    <input type="text" class="search-input" placeholder="Search pages…" oninput="filterNav(this.value)">
+  </div>
+  <nav class="sidebar-nav">
+    <div class="nav-group-label">Overview</div>
+    <a class="nav-link active" data-page="home" onclick="go('home')">Home</a>
+    <a class="nav-link" data-page="thesis" onclick="go('thesis')">Thesis & Controlling Ideas</a>
+    <a class="nav-link" data-page="revision" onclick="go('revision')">Revision Status</a>
+
+    <div class="nav-group-label">Characters</div>
+    <a class="nav-link" data-page="elizabeth" onclick="go('elizabeth')">Elizabeth</a>
+    <a class="nav-link" data-page="pathwell-char" onclick="go('pathwell-char')">Pathwell</a>
+    <a class="nav-link" data-page="shade" onclick="go('shade')">Shade</a>
+    <a class="nav-link" data-page="stansbury" onclick="go('stansbury')">Stansbury</a>
+    <a class="nav-link" data-page="supporting" onclick="go('supporting')">Supporting Characters</a>
+
+    <div class="nav-group-label">Worldbuilding</div>
+    <a class="nav-link" data-page="magic" onclick="go('magic')">Magic System</a>
+    <a class="nav-link" data-page="pruning" onclick="go('pruning')">Pruning</a>
+    <a class="nav-link" data-page="blobs" onclick="go('blobs')">Blobs</a>
+    <a class="nav-link" data-page="locations" onclick="go('locations')">Locations</a>
+
+    <div class="nav-group-label">Story Structure</div>
+    <a class="nav-link" data-page="plot" onclick="go('plot')">Plot Structure</a>
+    <a class="nav-link" data-page="ladder" onclick="go('ladder')">Agency Ladder</a>
+    <a class="nav-link" data-page="scenes" onclick="go('scenes')">Non-Negotiable Scenes</a>
+    <a class="nav-link" data-page="mirrors" onclick="go('mirrors')">Mirrors & Echoes</a>
+
+    <div class="nav-group-label">Craft</div>
+    <a class="nav-link" data-page="principles" onclick="go('principles')">Writing Principles</a>
+    <a class="nav-link" data-page="diagnostic" onclick="go('diagnostic')">Quick Diagnostic</a>
+    <a class="nav-link" data-page="risks" onclick="go('risks')">Structural Risks</a>
+    <a class="nav-link" data-page="discoveries" onclick="go('discoveries')">Key Discoveries</a>
+    <a class="nav-link" data-page="questions" onclick="go('questions')">Open Questions</a>
+
+    <div class="nav-group-label">Reference</div>
+    <a class="nav-link" data-page="reading" onclick="go('reading')">Reading List</a>
+  </nav>
+</aside>
+
+<main class="main">
+<div class="content">
+
+<!-- ════════════════════════════════════════ HOME ════════════════════════════════════════ -->
+<div class="page active" id="page-home">
+  <h1 class="page-title">Pathwell</h1>
+  <p class="page-lead">An urban fantasy novel about choice, determinism, and what it costs to matter.</p>
+
+  <table>
+    <tr><td style="width:140px;color:var(--text-faint)">Length</td><td>~37,000 words (target)</td></tr>
+    <tr><td style="color:var(--text-faint)">Genre</td><td>Urban fantasy</td></tr>
+    <tr><td style="color:var(--text-faint)">Audience</td><td>Older young adults, accessible to adults</td></tr>
+    <tr><td style="color:var(--text-faint)">POV</td><td>Third-person limited (Elizabeth)</td></tr>
+    <tr><td style="color:var(--text-faint)">Voice</td><td>Conversational, irreverent — dry, precise, slightly absurdist. Treats the extraordinary as unremarkable.</td></tr>
+    <tr><td style="color:var(--text-faint)">Manuscripts</td><td><code>BCMWriter.txt</code> (discovery draft) · <code>Pathwell_Working.txt</code> (active revision)</td></tr>
+  </table>
+
+  <h2>The Elevator Pitch</h2>
+  <p>A passive woman who has stopped making choices gets dragged into a magical world by a charming ancient man who treats his own future like loose change. She discovers that the magic system runs on other people's emotions — but she's the only person who can use her own. The story asks whether agency comes from power or from choosing to act, and answers it when Elizabeth runs through a burning archive with nothing but her legs and her will.</p>
+
+  <h2>The Thesis</h2>
+  <blockquote>Control is not competence. When you treat "future possibility" as leverage, you eventually destroy your ability to choose — and other people pay for your convenience.</blockquote>
+  <p><strong>Elizabeth matters without any power source.</strong> She proves this by running through the archive fire with no magic, no weapon, no leverage. If Elizabeth uses magic — including her own emotions as magic — the thesis collapses into empowerment fantasy.</p>
+
+  <h2>Personal Origin</h2>
+  <p>The author's experience of not feeling like he mattered until becoming a parent. The fear of living a life devoid of choices — not the wrong choices, but <em>no</em> choices at all. The realization that purpose comes from mattering to someone, including yourself.</p>
+
+  <h2>How Themes Land</h2>
+  <p>Through dramatic action, not speeches or realizations. Characters demonstrate the theme by what they do under pressure. No preaching. No moments of understanding. Behavior, consequence, change.</p>
+</div>
+
+<!-- ════════════════════════════════════════ THESIS ════════════════════════════════════════ -->
+<div class="page" id="page-thesis">
+  <h1 class="page-title">Thesis & Controlling Ideas</h1>
+  <p class="page-lead">The argument the story makes, and how each character carries it.</p>
+
+  <h2>The Controlling Idea</h2>
+  <blockquote>Control is not competence. When you treat "future possibility" as leverage, you eventually destroy your ability to choose — and other people pay for your convenience.</blockquote>
+
+  <h2>The Argument (as a sentence)</h2>
+  <blockquote>Freedom is preserved when a person chooses to act despite uncertainty, because the act of choosing — not the outcome — is what makes you human.</blockquote>
+  <p>Every scene argues for or against this. <a class="internal-link" onclick="go('elizabeth')">Elizabeth</a>'s arc argues for it. <a class="internal-link" onclick="go('shade')">Shade</a>'s existence argues against it. <a class="internal-link" onclick="go('pathwell-char')">Pathwell</a> sits in the middle, proving both — he chose freely once, and now he's losing the ability to choose. The climax settles the argument through action, not words.</p>
+
+  <h2>The Novel's Thesis</h2>
+  <p><strong>Elizabeth matters without any power source.</strong> She proves this by running through the archive fire with no magic, no weapon, no leverage.</p>
+  <div class="warning">
+    <div class="warning-label">Critical Constraint</div>
+    If Elizabeth uses magic — including her own emotions <em>as</em> magic — the thesis collapses into empowerment fantasy. The diary is a tether to her past self, not a weapon. It burns in the archive fire and she runs past it.
+  </div>
+
+  <h2>How Each Character Carries the Theme</h2>
+  <table>
+    <tr><th>Character</th><th>Relationship to Theme</th></tr>
+    <tr><td><strong><a class="internal-link" onclick="go('elizabeth')">Elizabeth</a></strong></td><td>Proves the thesis. Her choices matter without power. She acts under uncertainty with nothing.</td></tr>
+    <tr><td><strong><a class="internal-link" onclick="go('pathwell-char')">Pathwell</a></strong></td><td>IS the controlling idea made flesh. His need to manage everything destroys what he's trying to protect.</td></tr>
+    <tr><td><strong><a class="internal-link" onclick="go('shade')">Shade</a></strong></td><td>The endpoint — what happens when all choices are sold. The Lie made manifest.</td></tr>
+    <tr><td><strong><a class="internal-link" onclick="go('stansbury')">Stansbury</a></strong></td><td>The uncomfortable middle ground. Agency isn't always pretty. He chose his morally questionable path with open eyes.</td></tr>
+  </table>
+
+  <h2>The Test</h2>
+  <p>If a character says the theme out loud, you've failed. Theme emerges from the pattern of choices and consequences across the whole story. The reader discovers the theme. The writer doesn't announce it.</p>
+</div>
+
+<!-- ════════════════════════════════════════ ELIZABETH ════════════════════════════════════════ -->
+<div class="page" id="page-elizabeth">
+  <h1 class="page-title">Elizabeth</h1>
+  <p class="page-lead">The protagonist. Passive → Active.</p>
+
+  <table>
+    <tr><td style="width:140px;color:var(--text-faint)">Start state</td><td>Passive, directionless, numb</td></tr>
+    <tr><td style="color:var(--text-faint)">Core want</td><td>To matter — to anyone, including herself</td></tr>
+    <tr><td style="color:var(--text-faint)">Core flaw</td><td>She drifts. Comfort is her trap.</td></tr>
+    <tr><td style="color:var(--text-faint)">Lie</td><td>"My choices don't matter."</td></tr>
+    <tr><td style="color:var(--text-faint)">Truth</td><td>"Every choice matters." / "Choosing is what makes you human."</td></tr>
+    <tr><td style="color:var(--text-faint)">Arc</td><td>Positive change. Someone life happens to → someone who happens to life.</td></tr>
+  </table>
+
+  <h2>Starting Condition</h2>
+  <p>She didn't care enough to be phased by a man breaking into her apartment. She had a routine and didn't notice the world around her. She isn't frozen by fear of choosing wrong — she's frozen by the belief that her choices don't change anything. She doesn't think she matters. She's suppressing the need to be significant.</p>
+
+  <h2>Voice</h2>
+  <p>Focuses on the wrong thing under pressure. Her bizarre priorities ARE her characterization.</p>
+  <p>"You better plan on cleaning all this up" — while something slams against the door.<br>
+  "Do you mind?" — to an intruder.</p>
+
+  <h2>The Agency Ladder</h2>
+  <p>Each rung costs more than the last. See <a class="internal-link" onclick="go('ladder')">Agency Ladder</a> for the full breakdown.</p>
+  <div class="rung" data-num="1"><div class="rung-title">Lo mein (Ch2)</div><div class="rung-body">Chooses to stay. Costs nothing material.</div></div>
+  <div class="rung" data-num="2"><div class="rung-title">Books on the stack, through the door (Ch3)</div><div class="rung-body">Chooses uncomfortable over comfortable. Costs her job, meeting, routine.</div></div>
+  <div class="rung" data-num="3"><div class="rung-title">Cookbook to heal Mama Baga (Camp)</div><div class="rung-body">Costs her grandmother's love. Permanent.</div></div>
+  <div class="rung" data-num="4"><div class="rung-title">Uses her own diary as a weapon</div><div class="rung-body">Costs reliving every moment she felt invisible.</div></div>
+  <div class="rung" data-num="5"><div class="rung-title">Runs past the burning cookbook to save children</div><div class="rung-body">An action, not a realization. No magic, no weapon, no leverage.</div></div>
+  <div class="rung" data-num="6"><div class="rung-title">"Are you ready?" (Ending)</div><div class="rung-body">She initiates. The roles have flipped.</div></div>
+
+  <h2>Elizabeth and Magic</h2>
+  <p>In a world where everyone uses OTHER people's emotions as power, Elizabeth is the only person who uses her own. Her diary — her own anger, fear, hurt — becomes her weapon. Everyone else borrows. She doesn't.</p>
+  <div class="warning">
+    <div class="warning-label">Thesis Constraint</div>
+    Elizabeth matters <em>without</em> any power source. The diary is a tether to her past self, not a weapon. It burns in the archive fire and she runs past it.
+  </div>
+
+  <h2>Elizabeth CANNOT</h2>
+  <p>Skip rungs on the agency ladder. Jump from passive to heroic. Have magic systems or fortune tellers reveal her true desires. Learn lessons through realization instead of action. Go back to comfort without losing her arc.</p>
+
+  <h2>Relationships</h2>
+  <p><strong><a class="internal-link" onclick="go('pathwell-char')">Pathwell</a></strong> dragged her into this. Took her cookbook. Brought danger to her door. Every cost she pays traces back to his choices.</p>
+  <p><strong><a class="internal-link" onclick="go('shade')">Shade</a></strong> cracks her faith in Pathwell with the diner accusation. She stays with him because at least he's honest about what she is to him.</p>
+  <p><strong><a class="internal-link" onclick="go('stansbury')">Stansbury</a></strong> tries to keep her safe by limiting her involvement. She pushes back — she's tired of being managed.</p>
+</div>
+
+<!-- ════════════════════════════════════════ PATHWELL CHAR ════════════════════════════════════════ -->
+<div class="page" id="page-pathwell-char">
+  <h1 class="page-title">Pathwell</h1>
+  <p class="page-lead">Free → Constrained. The charming man who treats his future like loose change.</p>
+
+  <table>
+    <tr><td style="width:140px;color:var(--text-faint)">Core flaw</td><td>Hubris/control. Believes he's smarter than the system.</td></tr>
+    <tr><td style="color:var(--text-faint)">Core want</td><td>To stay in control and remain the competent protector/provider.</td></tr>
+    <tr><td style="color:var(--text-faint)">Lie</td><td>"I can always trade a little more."</td></tr>
+    <tr><td style="color:var(--text-faint)">Truth</td><td>"Some things, once given, don't come back."</td></tr>
+    <tr><td style="color:var(--text-faint)">Arc</td><td>Negative/cautionary, unless he changes. Sharpened, not softened.</td></tr>
+  </table>
+
+  <h2>What He Is</h2>
+  <p>Charming but hollow. Centuries of pragmatic choices have hollowed him out. He optimizes for survival and getting through, not for living fully. He IS the <a class="internal-link" onclick="go('thesis')">controlling idea</a>: control is not competence. His need to manage everything destroys the things he's trying to protect.</p>
+
+  <h2>What He's Been Doing</h2>
+  <p>Running. For centuries. Selling his futures via <a class="internal-link" onclick="go('pruning')">Pruning</a> for survival, getting more deterministic with each transaction, and refusing to face what that's cost him and the people around him.</p>
+
+  <h2>What Breaks Him</h2>
+  <p>Pruning cancels when he doubts his own control. He cannot tolerate the loss of leverage.</p>
+
+  <h2>Voice</h2>
+  <p>Irreverent, quick, charming. Uses humor as deflection. Occasionally drops into seriousness that reveals how ancient and tired he is. Mentions things from centuries ago casually. "I love this part." Snaps his fingers. Uses nicknames ("Lizzy"). Perceptive without being sentimental — the sigh and "Oh fine, you can have a dumpling" instead of "are you okay?"</p>
+
+  <h2>Arc Beats</h2>
+  <table>
+    <tr><th>#</th><th>Beat</th></tr>
+    <tr><td>1</td><td>Confident pruning works (early casual prune + dramatic tree ritual)</td></tr>
+    <tr><td>2</td><td><strong>Crisis:</strong> pruning cancels because he doubts his control</td></tr>
+    <tr><td>3</td><td>Forces it by injecting anger from intense text → tear → archive ignites</td></tr>
+    <tr><td>4</td><td>Archive burns — his actions cost the people around him</td></tr>
+    <tr><td>5</td><td>Denial</td></tr>
+    <tr><td>6</td><td>Private retry at The Space Between: prune to buy back cookbook → fails → <em>relief</em></td></tr>
+    <tr><td>7</td><td>Crack of humility</td></tr>
+    <tr><td>8</td><td>Offhand admission to Elizabeth — not a speech, not a breakdown — <em>offhand</em></td></tr>
+    <tr><td>9</td><td>Leaves on new quest without needing leverage</td></tr>
+  </table>
+
+  <h2>Thematic Function</h2>
+  <p>Every cost <a class="internal-link" onclick="go('elizabeth')">Elizabeth</a> pays in this story traces back to Pathwell's choices. The archive fire that burns her grandmother's cookbook is HIS fault — his forced prune caused it. <strong>Other people pay for his convenience.</strong></p>
+
+  <h2>Arc Pacing Rule</h2>
+  <p>His reckoning must arrive as accumulated consequence, not a lightbulb moment. The pacing is: denial → quiet retry → relief → admission.</p>
+
+  <h2>Relationship to Shade</h2>
+  <p><a class="internal-link" onclick="go('shade')">Shade</a> is what Pathwell is becoming — his pruned futures given form, the lives he could have lived but sold away.</p>
+</div>
+
+<!-- ════════════════════════════════════════ SHADE ════════════════════════════════════════ -->
+<div class="page" id="page-shade">
+  <h1 class="page-title">Shade</h1>
+  <p class="page-lead">The endpoint. No arc — static, because he has no choices left.</p>
+
+  <table>
+    <tr><td style="width:140px;color:var(--text-faint)">What he is</td><td>A manifested duplicate from a rare failed <a class="internal-link" onclick="go('pruning')">Pruning</a>. Pathwell's pruned futures given form.</td></tr>
+    <tr><td style="color:var(--text-faint)">Dominant emotion</td><td>Contempt</td></tr>
+    <tr><td style="color:var(--text-faint)">Core want</td><td>To expose Pathwell to himself. To force "It was my fault."</td></tr>
+    <tr><td style="color:var(--text-faint)">Constraint</td><td>The draw — deterministic compulsion like addiction/autopilot</td></tr>
+    <tr><td style="color:var(--text-faint)">Arc</td><td>None. He IS the Lie made manifest.</td></tr>
+  </table>
+
+  <h2>The Draw</h2>
+  <p>A deterministic compulsion he can delay but can't stop forever. It manifests as a physical "tell" — an autopilot action or phrase — that eventually exposes him at Camp Cunnan.</p>
+
+  <h2>Arc Endpoint</h2>
+  <p>Eye contact with Pathwell. The draw stops. Relief. Happiness. He <strong>NEVER</strong> gets the confession. Most people who need an apology never get the words. Sometimes presence is enough. He dies/is absorbed without ideological victory.</p>
+
+  <h2>The Diner Accusation</h2>
+  <p>Must hinge on <strong>ONE</strong> sharp point, not a list:</p>
+  <blockquote>"He saved you from a mess he brought to your door."</blockquote>
+  <p>This lands because it confirms Elizabeth's deepest fear — she was never chosen, never special, just convenient.</p>
+
+  <h2>Why Elizabeth Stays with Shade</h2>
+  <p>At least Shade is being honest about what she is to him — a means to an end. She'd rather be honestly used than dishonestly valued.</p>
+
+  <h2>Why Shade Reveals Himself</h2>
+  <p>Pathwell pruning casually, almost for fun — contempt for Shade's existence, not pragmatic necessity. Casual pruning treats his existence as worthless, which forces him into the open.</p>
+
+  <div class="warning">
+    <div class="warning-label">Open Problems</div>
+    <strong>Shade lacks a blind spot.</strong> He's currently too correct, which reduces his narrative function. He needs to be wrong about something.<br><br>
+    <strong>Shade's emotional development is insufficient</strong> for his death scene to land. Needs work before the climax.
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ STANSBURY ════════════════════════════════════════ -->
+<div class="page" id="page-stansbury">
+  <h1 class="page-title">Stansbury</h1>
+  <p class="page-lead">The pragmatist. Grounded competence with an overprotective instinct that masquerades as care.</p>
+
+  <table>
+    <tr><td style="width:140px;color:var(--text-faint)">Function</td><td>Alternative model of protector. Foil to Pathwell.</td></tr>
+    <tr><td style="color:var(--text-faint)">Core flaw</td><td>Protects people by keeping them small.</td></tr>
+    <tr><td style="color:var(--text-faint)">Ability</td><td>Can imbue objects with emotional charge (Nerf weapons).</td></tr>
+    <tr><td style="color:var(--text-faint)">Arc</td><td>Overcomes flaw in crisis — leads by trusting, not shielding.</td></tr>
+  </table>
+
+  <h2>The Flaw</h2>
+  <p>The teacher who won't let students take risks because he's seen what happens when they do. His version of "protection" is control too — gentler and more socially acceptable than Pathwell's, but still control. Two flavors of the same flaw: recklessness vs. over-caution.</p>
+
+  <h2>The Nerf Weapons</h2>
+  <p>He wants to arm people but gives them toys instead of real weapons. <strong>That contradiction IS his character.</strong></p>
+
+  <h2>Key Beat</h2>
+  <p>Notices the archive fire first. Snaps <a class="internal-link" onclick="go('pathwell-char')">Pathwell</a> out of his spiral. Takes over leadership — not by controlling, but by trusting people to act. His flaw, overcome in crisis.</p>
+
+  <div class="warning">
+    <div class="warning-label">Open Problems</div>
+    Underdeveloped interiority and motivation beyond functional role. Needs "keeps people small" flaw established <em>before</em> the fire moment, or it isn't earned. Leadership arc must feel earned, not stumbled into.
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ SUPPORTING ════════════════════════════════════════ -->
+<div class="page" id="page-supporting">
+  <h1 class="page-title">Supporting Characters</h1>
+
+  <h2>Mama Baga</h2>
+  <p>Elder of <a class="internal-link" onclick="go('locations')">Camp Cunnan</a>. Pathwell's adopted mother. The person <a class="internal-link" onclick="go('elizabeth')">Elizabeth</a> heals with the cookbook. Must be established as a character the reader cares about <strong>BEFORE</strong> she needs healing — otherwise the sacrifice is abstract.</p>
+  <div class="warning">
+    <div class="warning-label">Open Problem</div>
+    Mama Baga's relationship to Pathwell is an unresolved structural gap.
+  </div>
+
+  <h2>The Shopkeeper</h2>
+  <p>Runs <a class="internal-link" onclick="go('locations')">The Space Between</a>. Practiced, dry, transactional. His introduction speech is a legal disclaimer he resents having to give. Cares about Pathwell underneath the professional distance.</p>
+  <p>Key line: <em>"You don't have much left to give, Pathwell Shade."</em></p>
+  <p><strong>Ending function:</strong> Offers the exchange that sets up the final scene. "Do this for me and you can have the book." Elizabeth offers the adventure. Pathwell isn't ready. "Perfect."</p>
+
+  <h2>Boots</h2>
+  <p><strong>The cat. Blood god. Paid in mice.</strong></p>
+  <p>Draws blood as entry price to the bookstore. Nobody explains what a blood god is or why a cat qualifies. Pure sequel energy. An orange tabby. Twelve pounds of paws and claws. The diminutive lord of slaughter.</p>
+  <p>Boots is the litmus test for whether the story is doing "write it like the sequel" correctly. If anyone explains Boots, something has gone wrong.</p>
+</div>
+
+<!-- ════════════════════════════════════════ MAGIC ════════════════════════════════════════ -->
+<div class="page" id="page-magic">
+  <h1 class="page-title">Magic System</h1>
+  <p class="page-lead">Emotional-text magic — handwritten documents imbued with human feeling that wizards draw power from.</p>
+
+  <h2>Core Rules</h2>
+  <table>
+    <tr><th>#</th><th>Rule</th></tr>
+    <tr><td>1</td><td>Written text carries emotional "charge" from whoever wrote it.</td></tr>
+    <tr><td>2</td><td>Using text transfers the emotion into the user.</td></tr>
+    <tr><td>3</td><td>The transferred emotion can be shaped into magical effects.</td></tr>
+    <tr><td>4</td><td>Using a page consumes it (user retains content briefly).</td></tr>
+    <tr><td>5</td><td><strong>Handwritten only.</strong> This rule is sacred.</td></tr>
+  </table>
+
+  <h2>Emotional Categories → Effects</h2>
+  <table>
+    <tr><th>Emotion</th><th>Sources</th><th>Effects</th></tr>
+    <tr><td>Love/joy</td><td>Cookbooks, love letters, wedding vows</td><td>Protection, healing</td></tr>
+    <tr><td>Anger/hate</td><td>Hate mail, angry letters</td><td>Destruction, force</td></tr>
+    <tr><td>Fear/anxiety</td><td>Diaries, doomsday journals</td><td>Defensive, draining</td></tr>
+    <tr><td>Grief/sorrow</td><td>—</td><td>Binding, weighing down</td></tr>
+    <tr><td>Wonder/curiosity</td><td>—</td><td>Revelation, illumination</td></tr>
+  </table>
+
+  <h2>Key Established Moments</h2>
+  <p><strong>Grandmother's cookbook →</strong> golden protective light, taste of sugar cookies, grandmother's voice. This is the benchmark scene for all worldbuilding.</p>
+  <p><strong>Love note →</strong> wound closes, lingering feeling of a boy from middle school.</p>
+  <p><strong>Diary (anger/fear/hurt) →</strong> destructive potential.</p>
+
+  <h2>The Cardinal Rule</h2>
+  <blockquote>The strongest moments are sensory, not explanatory. Sugar cookies > classification charts.</blockquote>
+  <p>The body knows first — goosebumps in the fear section, warmth near love, a flinch when magic costs something.</p>
+
+  <h2>Imbuing</h2>
+  <p><a class="internal-link" onclick="go('stansbury')">Stansbury</a> can transfer emotional charge into objects (Nerf weapons). See his character page for what that contradiction means.</p>
+
+  <h2>Organization</h2>
+  <p>The Space Between organizes texts on a modified Dewey Decimal system by emotional spectrum and intensity.</p>
+  <div class="warning">
+    <div class="warning-label">Critical Revision Rule</div>
+    The Dewey Decimal classification must NOT become a lecture. Elizabeth's body tells the reader what section she's in. This is the biggest violation of "write it like the sequel" in the discovery draft.
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ PRUNING ════════════════════════════════════════ -->
+<div class="page" id="page-pruning">
+  <h1 class="page-title">Pruning</h1>
+  <p class="page-lead">The currency of the magical world. Characters sell "what may be's" — potential futures — for goods and services.</p>
+
+  <h2>How It Works</h2>
+  <p>Pruning is <strong>blind</strong> — the seller doesn't choose which futures get pruned. Each transaction narrows variance, reduces future agency, makes the seller more deterministic. It's the mechanism by which <a class="internal-link" onclick="go('pathwell-char')">Pathwell</a> has been running for centuries — and the mechanism that created <a class="internal-link" onclick="go('shade')">Shade</a>.</p>
+
+  <h2>The Consent Rule (Non-Negotiable)</h2>
+  <p>Pruning requires <strong>full internal consent/confidence</strong>. Doubt cancels the transaction. You cannot lie to yourself into consent.</p>
+  <p>This creates automatic drama: if it works, he meant it. If it cancels, he's lying to himself.</p>
+
+  <h2>Failure Modes</h2>
+  <table>
+    <tr><th>Type</th><th>What Happens</th></tr>
+    <tr><td><strong>Normal</strong></td><td>Simply doesn't work. Transaction cancels.</td></tr>
+    <tr><td><strong>Catastrophic</strong></td><td>Only when someone <em>forces</em> it by overriding doubt. "Forces alignment and tears it."</td></tr>
+  </table>
+
+  <h2>Pruning in the Plot</h2>
+  <table>
+    <tr><th>When</th><th>What Happens</th></tr>
+    <tr><td>Early</td><td>Clean, casual prune. Establishes the rules.</td></tr>
+    <tr><td>Bookstore</td><td>Pathwell prunes to pay. Shopkeeper notes he doesn't have much left.</td></tr>
+    <tr><td>Camp climax</td><td>Tries to prune to lure blobs. <strong>CANCELS</strong> — he doubts.</td></tr>
+    <tr><td>Forced</td><td>Injects anger to override doubt. Pruning <strong>TEARS</strong>. Archive ignites.</td></tr>
+    <tr><td>Private retry</td><td>Tries to buy back cookbook. Fails. Feels <em>relief</em>.</td></tr>
+  </table>
+</div>
+
+<!-- ════════════════════════════════════════ BLOBS ════════════════════════════════════════ -->
+<div class="page" id="page-blobs">
+  <h1 class="page-title">Blobs</h1>
+  <p class="page-lead">Interdimensional "cleanup" predators.</p>
+
+  <h2>Behavior</h2>
+  <p>Sense <a class="internal-link" onclick="go('pruning')">pruned signatures</a> as "food." Can't distinguish <a class="internal-link" onclick="go('pathwell-char')">Pathwell</a> from <a class="internal-link" onclick="go('shade')">Shade</a> — pursue both. After tasting <a class="internal-link" onclick="go('elizabeth')">Elizabeth</a>, begin pursuing her too. Amorphous, at least six feet, stench of wet-rot/low tide.</p>
+
+  <h2>Plot Function</h2>
+  <p>The pressure mechanism that keeps the story moving. They escalate consequences and force characters into choices they'd rather avoid.</p>
+  <table>
+    <tr><th>When</th><th>Function</th></tr>
+    <tr><td>Chapter 1</td><td>Attacks apartment. Pathwell fights with cookbook spell.</td></tr>
+    <tr><td>Bar scene</td><td>Elizabeth absorbed → cuts herself out → draws blob attention to her. Agency has consequences.</td></tr>
+    <tr><td>Midpoint</td><td>Chasing all of them, creating pressure that leads to the crash.</td></tr>
+    <tr><td>Camp climax</td><td>Arrive sensing Pathwell, Shade, Elizabeth. Go for immobile Elizabeth.</td></tr>
+  </table>
+</div>
+
+<!-- ════════════════════════════════════════ LOCATIONS ════════════════════════════════════════ -->
+<div class="page" id="page-locations">
+  <h1 class="page-title">Locations</h1>
+  <p class="page-lead">Locations are characters. If a conversation could happen anywhere, the location isn't working.</p>
+
+  <h2>The Space Between</h2>
+  <p>A bookstore that exists between spaces. Accessible through magic doors. Contains the emotional text archive organized by modified Dewey Decimal. The Shopkeeper runs it. Boots guards it. Terrible coffee. The air is cooler, denser, heavy with accumulated emotion.</p>
+  <div class="warning">
+    <div class="warning-label">Revision Rule</div>
+    The threshold crossing is Elizabeth's first step into the magical world. It must be sensory, overwhelming, physical. NOT a tour. NOT a lecture.
+  </div>
+
+  <h2>Camp Cunnan</h2>
+  <p>Refuge with emotionally saturated written archive — letters, journals, histories. A community. Mama Baga as elder. Becomes the site where the archive burns.</p>
+  <p><strong>Elizabeth's danger here:</strong> It's comfortable. It could become her new routine. Comfort is her trap.</p>
+
+  <h2>Elizabeth's Apartment</h2>
+  <p>Opening location. Destroyed by blob attack in Chapter 1. Removes her safety net.</p>
+
+  <h2>The Dumpling Stand</h2>
+  <p>Chapter 2's deceleration location. Plastic tables. Site of Elizabeth's first choice (the lo mein). The quiet after the storm.</p>
+
+  <h2>The Diner</h2>
+  <p>Shade's accusation. Greasy spoon. Neon sign: "Dinner 24/7." Where Elizabeth's faith in Pathwell cracks.</p>
+
+  <h2>The Museum</h2>
+  <p>Elizabeth chooses who she goes with, and why. She rejects BOTH framings of her. The dramatic question of Act III resolves here.</p>
+</div>
+
+<!-- ════════════════════════════════════════ PLOT ════════════════════════════════════════ -->
+<div class="page" id="page-plot">
+  <h1 class="page-title">Plot Structure</h1>
+  <p class="page-lead">Therefore/but chain. Every scene causes the next.</p>
+
+  <h2>Act I — Hook & Rules</h2>
+
+  <h3>Chapter 1</h3>
+  <p><a class="internal-link" onclick="go('pathwell-char')">Pathwell</a> breaks into Elizabeth's apartment BECAUSE he needs her cookbook. THEREFORE he uses it to fight the blob (sugar cookie protective spell). BUT the apartment is now marked and destroyed. She's stuck with this stranger.</p>
+  <p>Ends: "Ready?" / "No." / "Perfect."</p>
+
+  <h3>Chapter 2</h3>
+  <p>Elizabeth at the dumpling stand — not because she chose to follow, because she was dragged. No agency. Laundry ticket blows away (last piece of normality — RESPECT THIS). Deceleration. THEREFORE she makes her first choice: the lo mein. She stays.</p>
+  <p>Ends: "He still has it."</p>
+
+  <h3>Chapter 3</h3>
+  <p>Elizabeth follows BECAUSE he still has her cookbook and diary. Character reason, not logistics. Threshold crossing to <a class="internal-link" onclick="go('locations')">The Space Between</a>. Fainting. Boots. Love note healing. Awful coffee. Pathwell prunes to pay. She sees her books on the counter. She could take them and go home. Instead, she puts them on Pathwell's stack and carries them through the door. Chooses uncomfortable over comfortable.</p>
+
+  <h2>Act II — Camp, Recruitment, Early Pressure</h2>
+
+  <h3>Camp Cunnan</h3>
+  <p>Pathwell delivers books as contingency. Elizabeth meets Mama Baga. It starts feeling comfortable — dangerous.</p>
+
+  <h3>Cookbook Sacrifice</h3>
+  <p>Mama Baga needs healing. Elizabeth gives up the cookbook knowing it will be consumed. Permanent cost.</p>
+
+  <h3>Stansbury Recruitment</h3>
+  <p>Tense history. "Chance to kill me" joke. Stansbury comes but tries to keep Elizabeth small. She pushes back.</p>
+
+  <h3>Elizabeth's Agency Proof</h3>
+  <p>Bar scene. Blob. Absorbed. Cuts herself out with Nerf dagger. Proves she's not furniture. BUT draws blob attention to her.</p>
+
+  <h2>Midpoint — Crash + Shade Separation</h2>
+  <p>Pathwell and Stansbury drunk and arguing. Elizabeth sober and furious — she's furniture again. She grabs the wheel to prove she exists in the car. Agency with unintended consequence.</p>
+  <p><a class="internal-link" onclick="go('shade')">Shade</a> casts protection at impact, takes Elizabeth. He's drawn to her BECAUSE she chose.</p>
+
+  <h2>Act III — Shade's Framing + Museum</h2>
+
+  <h3>Diner Scene</h3>
+  <p>"He saved you from a mess he brought to your door." One sharp point. Elizabeth stays with Shade — at least he's honest about what she is to him.</p>
+
+  <h3>Museum Scene</h3>
+  <p>Elizabeth chooses to go back to Pathwell — NOT because she forgives him. Because Shade's honesty is still manipulation. Truth as weapon, charm as shield. She rejects both framings. Pathwell overreaches. Elizabeth gets hurt as collateral.</p>
+  <p>Shade portals to Camp Cunnan. The draw compels him.</p>
+
+  <h2>Act IV — Camp Pressure Cooker + Climax</h2>
+  <p>Everyone at Camp. Shade heals Elizabeth (competent, unsettling). Camp trusts him. He's exposed by his draw tell.</p>
+  <p><a class="internal-link" onclick="go('blobs')">Blobs</a> arrive. Pathwell tries to <a class="internal-link" onclick="go('pruning')">prune</a> — <strong>cancels</strong>. He forces it — <strong>tears</strong>. Archive ignites.</p>
+  <p><strong>Elizabeth</strong> runs past her past to save children. <strong>Stansbury</strong> takes over leadership by trusting. <strong>Shade</strong> gets eye contact, the draw stops, relief without confession.</p>
+
+  <h2>Final Stretch</h2>
+  <p>Pathwell denies fault → private retry at Space Between fails quietly → relief → offhand admission ("It was my fault," thrown away) → Shopkeeper's exchange → "Are you ready?" / "No." / "Perfect." She leads. He follows.</p>
+</div>
+
+<!-- ════════════════════════════════════════ LADDER ════════════════════════════════════════ -->
+<div class="page" id="page-ladder">
+  <h1 class="page-title">Agency Ladder</h1>
+  <p class="page-lead">Elizabeth's visible climb from passive to active. Each rung costs more than the last. No skipping.</p>
+
+  <div class="rung" data-num="1"><div class="rung-title">Lo Mein (Chapter 2)</div><div class="rung-body">Chooses to stay with Pathwell. Costs nothing material. First choice she's made.</div></div>
+  <div class="rung" data-num="2"><div class="rung-title">Books on the Stack, Through the Door (Chapter 3)</div><div class="rung-body">She came to get her cookbook back. Instead, she puts her books on Pathwell's stack and carries them into his world. Chooses uncomfortable over comfortable. Costs her meeting, her job, her routine. The dry cleaning ticket is already gone (blew away in Ch2 — respect that moment).</div></div>
+  <div class="rung" data-num="3"><div class="rung-title">Cookbook to Heal Mama Baga (Camp Cunnan)</div><div class="rung-body">An elder she can look in the eye needs healing. The cookbook is full of love — the strongest healing magic. She gives it up knowing it will be consumed. Costs her grandmother's love, the sugar cookies, the golden light. Permanent.</div></div>
+  <div class="rung" data-num="4"><div class="rung-title">Uses Her Own Diary as a Weapon</div><div class="rung-body">Instead of handing the diary to Pathwell, she uses it herself. Feels every moment she ever felt invisible — every swallowed anger, every fear. Her OWN emotions become power. The only character who doesn't borrow someone else's feelings.</div></div>
+  <div class="rung" data-num="5"><div class="rung-title">Runs Past the Burning Cookbook (Archive Fire)</div><div class="rung-body">Pathwell's forced prune ignites the archive. Whatever remained is burning. Elizabeth runs past her past to save children. Not a realization — an action. No magic, no weapon, no leverage. This is where the thesis lives.</div></div>
+  <div class="rung" data-num="6"><div class="rung-title">"Are You Ready?" (Ending)</div><div class="rung-body">She initiates the next adventure. She's ready before Pathwell is. The roles have flipped. The agency ladder is complete.</div></div>
+
+  <h2>Rules for the Ladder</h2>
+  <p><strong>Every rung must be a choice, not a reaction.</strong> Responding well to pressure is growth, but initiating action is real agency.</p>
+  <p><strong>Each step must cost slightly more than the last.</strong></p>
+  <p><strong>There's a ceiling on sacrifice.</strong> At some point, giving things away stops being a higher rung. The next level is INITIATING rather than RESPONDING.</p>
+  <p><strong>Feelings are fuel, not engines.</strong> Excitement, curiosity, and comfort are not choices. Agency requires action.</p>
+  <p><strong>If the protagonist is being dragged, the option is wrong.</strong></p>
+</div>
+
+<!-- ════════════════════════════════════════ SCENES ════════════════════════════════════════ -->
+<div class="page" id="page-scenes">
+  <h1 class="page-title">Non-Negotiable Scenes</h1>
+  <p class="page-lead">The ten structural pillars. These must exist in the final manuscript.</p>
+
+  <table>
+    <tr><th>#</th><th>Scene</th><th>Why</th></tr>
+    <tr><td>1</td><td>Clean, casual prune early</td><td>Establishes pruning rules before they're plot-critical</td></tr>
+    <tr><td>2</td><td>Elizabeth cuts herself out of blob absorption</td><td>Agency proof + blob taste/pursuit established</td></tr>
+    <tr><td>3</td><td>Cookbook sacrificed to heal Mama Baga</td><td>Escalating cost, permanent</td></tr>
+    <tr><td>4</td><td>Midpoint crash</td><td>Agency with consequence</td></tr>
+    <tr><td>5</td><td>Diner accusation — single sharp point</td><td>Cracks Elizabeth's faith in Pathwell</td></tr>
+    <tr><td>6</td><td>Museum choice — rejects both framings</td><td>Elizabeth chooses for her own reasons</td></tr>
+    <tr><td>7</td><td>Pruning cancel + anger injection forcing</td><td>Hinge of Pathwell's arc</td></tr>
+    <tr><td>8</td><td>Archive burning — specific, named loss</td><td>Consequence made concrete and permanent</td></tr>
+    <tr><td>9</td><td>Shade's death — eye contact, relief, no confession</td><td>Presence is enough</td></tr>
+    <tr><td>10</td><td>Private retry at Space Between fails quietly</td><td>Humbling hinge → relief</td></tr>
+  </table>
+</div>
+
+<!-- ════════════════════════════════════════ MIRRORS ════════════════════════════════════════ -->
+<div class="page" id="page-mirrors">
+  <h1 class="page-title">Mirrors & Echoes</h1>
+  <p class="page-lead">Deliberate structural repetitions where meaning changes through context.</p>
+
+  <h2>"It was the crash that woke her"</h2>
+  <p>The novel's opening line. The midpoint crash wakes her into agency. First crash happens TO her. Second crash she CAUSES.</p>
+
+  <h2>"Don't think"</h2>
+  <p>Pathwell's coercive urgency in Chapter 1. Later, Elizabeth chooses <em>despite</em> uncertainty. She doesn't need someone to strip away her thinking.</p>
+
+  <h2>"Ready?" / "No." / "Perfect."</h2>
+  <p><strong>Chapter 1:</strong> Pathwell leads, Elizabeth follows.<br>
+  <strong>Ending:</strong> Elizabeth leads, Pathwell admits unreadiness. Same words, reversed roles.</p>
+
+  <h2>The Cookbook's Journey</h2>
+  <table>
+    <tr><th>Beat</th><th>Function</th></tr>
+    <tr><td>Ch1 — Protects Elizabeth</td><td>Pathwell uses it. She's passive. Magic happens to her.</td></tr>
+    <tr><td>Camp — Elizabeth gives it away</td><td>She chooses. Permanent sacrifice.</td></tr>
+    <tr><td>Archive fire — Lost</td><td>His forced prune destroyed it. Other people pay.</td></tr>
+    <tr><td>Ending — The quest</td><td>The thing they're going to earn back. She leads.</td></tr>
+  </table>
+
+  <div class="warning">
+    <div class="warning-label">Monitoring Note</div>
+    At full-draft stage, monitor that the story feels <em>lived</em> rather than <em>designed</em>. Three characters cleanly mapped to thematic positions and deliberate bookend structures can tip into feeling schematic.
+  </div>
+</div>
+
+<!-- ════════════════════════════════════════ PRINCIPLES ════════════════════════════════════════ -->
+<div class="page" id="page-principles">
+  <h1 class="page-title">Writing Principles</h1>
+  <p class="page-lead">The 20 guiding principles. Read before you write. Read after you write.</p>
+
+  <div class="principle"><div class="principle-num">01</div><div class="principle-title">Write the Sequel</div><div class="principle-body">The sequel assumes you were there. Characters don't explain gravity. The reader catches up by watching. If someone who lives here wouldn't say it — cut it.</div></div>
+  <div class="principle"><div class="principle-num">02</div><div class="principle-title">Therefore, But — Never And Then</div><div class="principle-body">Every scene must cause the next. "Therefore" = Scene A forces B. "But" = A is complicated by a new problem. If the connection is "and then," fix it.</div></div>
+  <div class="principle"><div class="principle-num">03</div><div class="principle-title">Every Scene Turns a Value</div><div class="principle-body">Something is at stake. By the bottom, that value must have changed charge. If the end matches the beginning, nothing happened.</div></div>
+  <div class="principle"><div class="principle-num">04</div><div class="principle-title">Show the Iceberg's Tip</div><div class="principle-body">Build everything. Show one-eighth. A locked door they never open. A name dropped and never explained. The world feels deep because you chose to show almost none of it.</div></div>
+  <div class="principle"><div class="principle-num">05</div><div class="principle-title">The Body Knows First</div><div class="principle-body">Before intellectual understanding, the body reacts. Goosebumps. Warmth. A flinch. Sensation before explanation. Always.</div></div>
+  <div class="principle"><div class="principle-num">06</div><div class="principle-title">Characters Want Things</div><div class="principle-body">Every character in every scene wants something. When two wants conflict, you have tension. If a character is just present — give them a want or get them off the page.</div></div>
+  <div class="principle"><div class="principle-num">07</div><div class="principle-title">Agency Is a Ladder</div><div class="principle-body">The climb must be visible. Small choice → bigger → consequences → changes the story. No skipping rungs.</div></div>
+  <div class="principle"><div class="principle-num">08</div><div class="principle-title">The Lie and the Truth</div><div class="principle-body">Every major character believes something false at the start. The story tests that belief. The climax breaks it or confirms it. Every scene should pressure someone's Lie.</div></div>
+  <div class="principle"><div class="principle-num">09</div><div class="principle-title">Don't Explain the Metaphor Before Performing It</div><div class="principle-body">The demonstration IS the explanation. Trust the image. Trust the reader. Cut every pre-lecture that precedes a dramatic demonstration.</div></div>
+  <div class="principle"><div class="principle-num">10</div><div class="principle-title">Incomplete Answers Build Worlds</div><div class="principle-body">The default answer should be partial, evasive, contradictory, or silence. Complete answers close doors. "You shouldn't have been able to do that" > a full explanation.</div></div>
+  <div class="principle"><div class="principle-num">11</div><div class="principle-title">Breathe Between Punches</div><div class="principle-body">Fast scenes need slow scenes after them. If every chapter runs at the same speed, no chapter feels fast. This is where they fall in love with your characters.</div></div>
+  <div class="principle"><div class="principle-num">12</div><div class="principle-title">Locations Are Characters</div><div class="principle-body">A place that could be swapped for any other isn't earning its page space. Make the magic shape the environment. Make the place speak.</div></div>
+  <div class="principle"><div class="principle-num">13</div><div class="principle-title">Subtext Over Text</div><div class="principle-body">What characters don't say matters more. Give every character a secret agenda. The gap between said and meant is where tension lives.</div></div>
+  <div class="principle"><div class="principle-num">14</div><div class="principle-title">Promise, Progress, Payoff</div><div class="principle-body">Opening promises an experience. Middle must feel like progress toward it. Ending pays it off. If the middle sags, the reader lost track of the promise.</div></div>
+  <div class="principle"><div class="principle-num">15</div><div class="principle-title">The Antagonist Is a Mirror</div><div class="principle-body">The best villain is a dark reflection. Shade is Pathwell if Pathwell doesn't stop. The antagonist represents the protagonist's worst possible future.</div></div>
+  <div class="principle"><div class="principle-num">16</div><div class="principle-title">Theme Through Action, Not Speeches</div><div class="principle-body">If a character says the theme out loud, you've failed. Let characters disagree through behavior. The reader discovers the theme.</div></div>
+  <div class="principle"><div class="principle-num">17</div><div class="principle-title">Rules Are Sacred</div><div class="principle-body">Once the magic system establishes a rule, never break it. Every violation trains the reader to stop trusting you.</div></div>
+  <div class="principle"><div class="principle-num">18</div><div class="principle-title">One Unexplained Thing Per Chapter</div><div class="principle-body">A name. A place. A scar. A locked room. One sentence each, and they imply centuries.</div></div>
+  <div class="principle"><div class="principle-num">19</div><div class="principle-title">Earn the Big Moments</div><div class="principle-body">Big moments are the payoff of small investments. If a moment isn't landing, the problem is almost never the moment — it's the setup.</div></div>
+  <div class="principle"><div class="principle-num">20</div><div class="principle-title">Read It Aloud</div><div class="principle-body">If it sounds wrong in your mouth, it reads wrong on the page. Short sentences punch. Long sentences flow. Your ear knows before your brain does.</div></div>
+
+  <h2>Additional Learned Principles</h2>
+  <p><strong>Scene connections come from character wants, not plot logistics.</strong></p>
+  <p><strong>Important objects leave hands through pressure, not logistics.</strong></p>
+  <p><strong>Every rung must be a choice, not a reaction.</strong></p>
+  <p><strong>When in doubt: what does this cost?</strong> If nothing, it's not a rung.</p>
+  <p><strong>Don't build plot devices to do character's emotional work.</strong></p>
+  <p><strong>Respect what's already on the page.</strong></p>
+  <p><strong>Feelings are fuel, not engines.</strong></p>
+  <p><strong>Comedy requires emotional breathing room.</strong></p>
+</div>
+
+<!-- ════════════════════════════════════════ DIAGNOSTIC ════════════════════════════════════════ -->
+<div class="page" id="page-diagnostic">
+  <h1 class="page-title">Quick Diagnostic</h1>
+  <p class="page-lead">Run these five questions on every chapter before moving to the next one.</p>
+
+  <h3>1. What does Elizabeth want in this scene?</h3>
+  <p>If the answer is "nothing" or "to understand what's happening," she's passive. Give her a want.</p>
+
+  <h3>2. What word connects this chapter to the next — "and then," "therefore," or "but"?</h3>
+  <p>If it's "and then," fix the transition.</p>
+
+  <h3>3. What value changed from the top to the bottom?</h3>
+  <p>If nothing changed, this is a non-event. Find the turn or cut the scene.</p>
+
+  <h3>4. Did anyone explain something the story already showed (or is about to show)?</h3>
+  <p>If yes, cut the explanation.</p>
+
+  <h3>5. Is there at least one thing in this chapter that never gets explained?</h3>
+  <p>If everything is accounted for, add a mystery. One sentence. One unexplained detail. That's depth.</p>
+</div>
+
+<!-- ════════════════════════════════════════ RISKS ════════════════════════════════════════ -->
+<div class="page" id="page-risks">
+  <h1 class="page-title">Structural Risks</h1>
+  <p class="page-lead">Known failure modes to monitor throughout revision.</p>
+
+  <h3>1. Too Many Magic "Explosions"</h3>
+  <p>Camp fire must be unique. Museum is internal overload, not outward blast.</p>
+
+  <h3>2. Shade Turning into a Lecture Machine</h3>
+  <p>Diner scene hinges on ONE accusation. Everything else implied.</p>
+
+  <h3>3. Elizabeth Losing Agency in Act III</h3>
+  <p>She must make at least one meaningful choice while with Shade. She cannot just be transported.</p>
+
+  <h3>4. Pruning Rules Getting Fuzzy</h3>
+  <p>Consent must be consistent. If consent was already fuzzy, the climactic cancel/force drama evaporates.</p>
+
+  <h3>5. Camp Loss Feeling Abstract</h3>
+  <p>Name specific artifacts early; burn them later.</p>
+
+  <h3>6. Pathwell's Shift Too Fast</h3>
+  <p>Pacing: denial → quiet retry → relief → admission. No lightbulb moment.</p>
+
+  <h3>7. Stansbury Being Too Functional</h3>
+  <p>"Keeps people small" flaw must be established before the fire moment.</p>
+
+  <h3>8. Dewey Decimal Lectures</h3>
+  <p>Elizabeth's body tells the reader. Not Pathwell pointing at shelves.</p>
+
+  <h3>9. Comfort as Elizabeth's Trap</h3>
+  <p>Every time she settles in somewhere: is she becoming a passenger again?</p>
+
+  <h3>10. Diner Articulating Theme Too Cleanly</h3>
+  <p>Characters speaking the theme directly. Flagged for future attention.</p>
+
+  <h3>11. Architectural Symmetry Feeling Designed</h3>
+  <p>At full-draft stage, monitor that the story feels lived rather than schematic.</p>
+</div>
+
+<!-- ════════════════════════════════════════ DISCOVERIES ════════════════════════════════════════ -->
+<div class="page" id="page-discoveries">
+  <h1 class="page-title">Key Discoveries</h1>
+  <p class="page-lead">Insights earned through revision work. Things the story taught us.</p>
+
+  <h2>About Craft</h2>
+  <p>Scene connections come from character wants, not plot logistics. Test every option: <strong>who's choosing and who's being dragged?</strong> Important objects leave hands through pressure, not transactions. Agency is a ladder — can't skip rungs. There's a ceiling on sacrifice: at some point, the next level is INITIATING rather than RESPONDING. Feelings are fuel, not engines. Comedy requires breathing room. Don't build plot devices to do character's emotional work. Respect what's on the page.</p>
+
+  <h2>About Elizabeth</h2>
+  <p>She uses her OWN emotions as magic — the only character who does. The diary's magical cost (reliving anger, fear, hurt) IS the character moment. She can't go back to comfort without losing her arc. Her choices must escalate from reactions to initiations.</p>
+
+  <h2>About Pathwell</h2>
+  <p>His arc is about the <strong>loss of leverage</strong>, not the gain of wisdom. He doesn't learn to be good — he loses the ability to cheat. The private retry at Space Between is the most important quiet moment. He tries to prune, it doesn't work, and he's <em>relieved</em>. That's the crack. His admission must be OFFHAND.</p>
+
+  <h2>About the Magic System</h2>
+  <p>The strongest moments are sensory, not explanatory. <strong>Sugar cookies > classification charts.</strong> The consent rule for pruning creates automatic drama. Elizabeth using her own diary breaks the system's pattern — and that violation IS the thematic statement.</p>
+
+  <h2>About Tone</h2>
+  <p>A dry, precise, slightly absurdist voice — treating the extraordinary as unremarkable. This is consistent with what already works in the manuscript. It's about recognizing what the story already is, not changing it.</p>
+</div>
+
+<!-- ════════════════════════════════════════ OPEN QUESTIONS ════════════════════════════════════════ -->
+<div class="page" id="page-questions">
+  <h1 class="page-title">Open Questions</h1>
+  <p class="page-lead">Unresolved structural problems and gaps that need solving.</p>
+
+  <h2>Active Structural Gaps</h2>
+
+  <h3>The Diary's Placement</h3>
+  <p>The diary's role in the narrative remains floating. It functions as a tether to Elizabeth's past self (not a weapon), and it burns in the archive fire — she runs past it. But its exact placement and how it moves through the story needs consistent execution.</p>
+
+  <h3>Shade's Blind Spot</h3>
+  <p>Shade currently lacks a blind spot, making him too correct and reducing his narrative function. He needs to be wrong about something.</p>
+
+  <h3>Act III Blank (Diner → Museum)</h3>
+  <p>Structural blank between the diner and museum. Elizabeth must make at least one meaningful choice while with Shade.</p>
+
+  <h3>Stansbury's Interiority</h3>
+  <p>Underdeveloped interiority and motivation beyond functional role. Leadership arc needs to feel earned.</p>
+
+  <h3>Shade's Emotional Development</h3>
+  <p>Currently insufficient for his death scene to land. Needs more groundwork earlier.</p>
+
+  <h3>Mama Baga's Relationship to Pathwell</h3>
+  <p>"Pathwell's adopted mother" is established but the specifics are unresolved. What does it look like? What does it cost? Why does the reader care before the healing scene?</p>
+
+  <h2>Smaller Unresolved Items</h2>
+
+  <h3>Book Continuity in Chapter 3</h3>
+  <p>How books get into Elizabeth's hands before she crosses the threshold — tabled.</p>
+
+  <h3>Elizabeth's Diary Use Placement</h3>
+  <p>"At some point during the climax (exact placement TBD)" — timing needs to be locked.</p>
+
+  <h3>Why Pathwell and Stansbury Are Drunk</h3>
+  <p>Not generically drunk — drunk BECAUSE of something specific. Cause needs establishing.</p>
+
+  <h3>The Draw's Physical Tell</h3>
+  <p>Shade's draw manifests as an autopilot action or phrase. What is it? This is how he gets exposed at Camp.</p>
+
+  <h2>Banked Material</h2>
+  <h3>"What's the harm in dreaming more"</h3>
+  <p>Cut from Chapter 2's ending but explicitly banked for use elsewhere.</p>
+</div>
+
+<!-- ════════════════════════════════════════ REVISION ════════════════════════════════════════ -->
+<div class="page" id="page-revision">
+  <h1 class="page-title">Revision Status</h1>
+  <p class="page-lead">Where every chapter stands.</p>
+
+  <table>
+    <tr><th>Chapter</th><th>Status</th><th>Summary</th></tr>
+    <tr><td>1</td><td><span class="status status-done">Revised</span></td><td>Opening "crash" → blob attack → cookbook spell → dumplings → "Ready?" / "No." / "Perfect."</td></tr>
+    <tr><td>2</td><td><span class="status status-done">Revised</span></td><td>Deceleration → laundry ticket → dumpling stand → lo mein → "He still has it."</td></tr>
+    <tr><td>3</td><td><span class="status status-wip">In Progress</span></td><td>Opening dialogue revised. Door-in-wall drafted. Threshold crossing needs sensory work. Fainting/waking pending. Diary handoff needs revision.</td></tr>
+    <tr><td>4+</td><td><span class="status status-draft">Discovery Draft</span></td><td>Need full revision against new plot architecture.</td></tr>
+  </table>
+
+  <h2>Known Recurring Weaknesses</h2>
+  <p><strong>Exposition disguised as dialogue</strong> — characters explaining things they both know.</p>
+  <p><strong>Adding volume when uncertain</strong> — piling on words instead of cutting for clarity.</p>
+  <p><strong>Elizabeth's passivity extending past where it serves</strong> — she should be climbing the ladder.</p>
+  <p><strong>Dewey Decimal–style magic system lectures</strong> — the biggest "write it like the sequel" violation.</p>
+  <p><strong>Dangling modifiers, over-explanation, listing/cataloging</strong> instead of experiencing.</p>
+</div>
+
+<!-- ════════════════════════════════════════ READING ════════════════════════════════════════ -->
+<div class="page" id="page-reading">
+  <h1 class="page-title">Reading List</h1>
+  <p class="page-lead">Reference authors, craft books, and philosophical sources.</p>
+
+  <h2>Authors to Emulate</h2>
+  <table>
+    <tr><th>Author</th><th>What to Learn</th></tr>
+    <tr><td><strong>Terry Pratchett</strong> (primary)</td><td>Irreverent voice with philosophical weight. Ideas smuggled inside jokes. The tone Pathwell wants.</td></tr>
+    <tr><td><strong>Max Gladstone</strong></td><td>Philosophically-grounded urban fantasy magic. Magic as economic/political system.</td></tr>
+    <tr><td><strong>China Miéville</strong></td><td>Original worldbuilding with thematic weight. Worlds that feel alien and earned.</td></tr>
+  </table>
+  <p><em>Read with the <a class="internal-link" onclick="go('principles')">architecture document</a> as a lens.</em></p>
+
+  <h2>Technical Craft</h2>
+  <table>
+    <tr><th>Book</th><th>Focus</th></tr>
+    <tr><td>Ursula K. Le Guin, <em>Steering the Craft</em></td><td>Sentence-level prose, rhythm, voice</td></tr>
+    <tr><td>John Gardner, <em>The Art of Fiction</em></td><td>Scene construction, narrative movement</td></tr>
+    <tr><td>John Yorke, <em>Into the Woods</em></td><td>Story structure, five-act shape</td></tr>
+  </table>
+
+  <h2>Philosophy</h2>
+  <table>
+    <tr><th>Book</th><th>Relevance</th></tr>
+    <tr><td>Dennett, <em>Freedom Evolves</em></td><td>Compatibilism/free will — backbone of the pruning system</td></tr>
+    <tr><td>Sartre, <em>Existentialism is a Humanism</em></td><td>Choice and freedom — Elizabeth's arc is Sartrean</td></tr>
+    <tr><td>Parfit, <em>Reasons and Persons</em></td><td>Personal identity, branching futures — directly relevant to Shade</td></tr>
+  </table>
+</div>
+
+</div><!-- /content -->
+</main>
+
+<script>
+function go(page) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
+  const el = document.getElementById('page-' + page);
+  if (el) el.classList.add('active');
+  const link = document.querySelector(`.nav-link[data-page="${page}"]`);
+  if (link) link.classList.add('active');
+  window.scrollTo(0, 0);
+  // Update hash
+  history.pushState(null, '', '#' + page);
+  // Close mobile sidebar
+  document.querySelector('.sidebar').classList.remove('open');
+  document.querySelector('.sidebar-overlay').classList.remove('open');
+}
+
+function toggleSidebar() {
+  document.querySelector('.sidebar').classList.toggle('open');
+  document.querySelector('.sidebar-overlay').classList.toggle('open');
+}
+
+function filterNav(q) {
+  q = q.toLowerCase();
+  document.querySelectorAll('.nav-link').forEach(link => {
+    const match = link.textContent.toLowerCase().includes(q);
+    link.style.display = match || !q ? '' : 'none';
+  });
+  document.querySelectorAll('.nav-group-label').forEach(label => {
+    let next = label.nextElementSibling;
+    let anyVisible = false;
+    while (next && !next.classList.contains('nav-group-label')) {
+      if (next.style.display !== 'none') anyVisible = true;
+      next = next.nextElementSibling;
+    }
+    label.style.display = anyVisible || !q ? '' : 'none';
+  });
+}
+
+// Handle hash navigation
+window.addEventListener('load', () => {
+  const hash = location.hash.slice(1);
+  if (hash) go(hash);
+});
+window.addEventListener('hashchange', () => {
+  const hash = location.hash.slice(1);
+  if (hash) go(hash);
+});
+</script>
+</body>
+</html>
