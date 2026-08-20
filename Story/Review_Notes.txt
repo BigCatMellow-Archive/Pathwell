@@ -1,0 +1,84 @@
+Here's the full list, sourced against canon. Flagging each as either a structural problem (breaks the thesis or arc) or a drift issue (inconsistency with established decisions).
+
+STRUCTURAL — thesis or arc-level problems
+
+Rung 4 of the agency ladder is missing. Elizabeth never uses her own diary as a weapon. This is non-negotiable per canon — it's the thematic statement that separates her from every other character. She deposits the diary in the archive in Ch4 and it burns. She never opens it herself, never uses her own emotions as power. The entire "real agency comes from within" argument lives here. This is the most important omission in the draft.
+Elizabeth's midpoint motivation is wrong. She turns right because Pathwell told her to turn left — a petty defiance. Canon requires Pathwell and Stansbury to be drunk and arguing with each other while she's invisible in the back seat. She grabs the wheel because she's furniture again. The distinction matters: one is stubbornness, the other is agency with consequence.
+Blob in Ch7 absorbs Pathwell, not Elizabeth. Canon: Elizabeth gets absorbed and cuts herself out. The proof of her agency is self-rescue, not rescuing Pathwell. Both show agency, but the thematic direction is different, and this version removes the "blob tastes/pursues her" setup that the misread mechanism depends on.
+Pathwell's arc after the climax is compressed to one beat. Canon arc is: denial → private retry at Space Between alone (fails quietly, relief instead of rage) → offhand admission → shopkeeper's exchange → ending. The draft has none of that middle. He goes from "He was right about what I did" (Ch12) straight to standing in the Space Between holding a cookbook (Ch13). The private retry — the most important quiet moment in his arc — is absent entirely.
+Pathwell's Ch12 admission is a speech, not offhand. "He was right about what I did" said to no one in particular, in the immediate aftermath of Shade's death, is a speech moment. Canon is explicit: the admission is thrown away, almost. While doing something else. Not in the wreckage of the climax.
+The Shopkeeper's exchange is missing. Canon: after the private retry fails, Pathwell goes to the shopkeeper and negotiates to earn back the cookbook. "Do this for me and you can have the book." A quest setup. Ch13 skips this entirely — they're just both in the shop with no transaction and no stakes.
+
+
+DRIFT — inconsistency with established decisions
+
+Metafictional element is back in Ch8. Shade addressing "whoever's voice I'm hearing" was retired. It's still in the draft, in full.
+Museum fight is an outward explosion, not internal overload. Canon is explicit: "NOT explosion." Both Pathwell and Shade pull papers simultaneously and the result knocks Elizabeth into a display case from the blast. Canon: Pathwell overreaches trying to protect Elizabeth, internal overload, Elizabeth hurt as collateral. The cause should be one-sided (Pathwell's action) not a mutual draw.
+Shade doesn't heal Elizabeth at camp. Canon: Shade heals her from the archive materials — "competent and unsettling." The camp begins to trust him. This beat exists to set up both his competence and his later draw-tell exposure. In the draft he stands in the doorway and is told to wait outside.
+Draw tell is absent. Shade has no observable tell that eventually exposes him at camp. The sequence (camp distrusts → Shade proves competent → camp begins to trust → draw tell reveals him) doesn't exist in this draft.
+Pathwell skips denial entirely. Post-climax canon: he denies fault first, then the private retry cracks him, then the offhand admission. He can't admit it immediately after Shade's death. The denial is what makes the quiet retry meaningful.
+
+
+
+______________________________
+
+Then the full correction list, by chapter:
+
+---
+
+**CHAPTER 1**
+No issues. Holds.
+
+**CHAPTER 2**
+No issues. Holds.
+
+**CHAPTER 3**
+No issues. Holds.
+
+**CHAPTER 4**
+- Elizabeth deposits the diary in the archive. Remove this entirely. The diary stays with Elizabeth through the novel. She never hands it off for safekeeping.
+- The "taking it back isn't free" exchange between Elizabeth and Pathwell is built on a false premise — it exists to set up a retrieval arc for the diary that isn't the actual arc. Cut it.
+- Leo and the ledger scene: cut. Same problem.
+
+**CHAPTER 5**
+- Pathwell and Stansbury are sober. They need to be drunk and arguing when Elizabeth is in the back seat. Her being invisible to them while they bicker is the condition that makes her grab the wheel. Fix the setup here.
+
+**CHAPTER 6**
+- Structurally okay but depends on the Ch5 fix. Stansbury giving Elizabeth the keys works only if she's earned it by being the only sober one.
+
+**CHAPTER 7**
+- The blob absorbs Pathwell. It should absorb Elizabeth. She cuts herself out. That's the agency proof — self-rescue, not rescuing him. Rewrite the blob fight so Elizabeth is the one being absorbed and gets herself out with the dagger.
+
+**CHAPTER 8**
+- Shade's metafictional dialogue — "Not the open air. I said it to you — whoever's voice I'm hearing" — is retired. Remove it entirely.
+- The crash motivation is wrong. Elizabeth turns right as petty defiance of Pathwell's direction. It needs to be her grabbing the wheel because she's invisible in a car full of two drunk men arguing with each other. The action is the same; the reason has to change.
+
+**CHAPTER 9**
+- Diner scene is mostly solid. Keep Shade's past-tense tells and Elizabeth catching them. Keep the food order. Keep him leaving the bills.
+- "He thinks you're a collectible" — good, keep it.
+- Shade telling her to go back to Pathwell and directing her to ask for the diary: remove the diary direction. She doesn't need to retrieve the diary from an archive. She has it. Replace this with Shade directing her back to Pathwell for what he actually owes her — acknowledgment, the truth about what he did.
+
+**CHAPTER 10**
+- Elizabeth's demand to Pathwell on the road needs to change. She can't demand her diary back from the archive because it was never deposited. What she demands here should be the truth about what Pathwell did — what Shade told her at the diner. This is still a strong agency moment; just redirect it.
+
+**CHAPTER 11**
+- Museum fight: both Pathwell and Shade drawing papers simultaneously, causing an outward explosion that knocks Elizabeth sideways. Wrong on two counts. First, canon is internal overload not explosion. Second, the cause should be Pathwell overreaching to protect Elizabeth — one-sided, his flaw, not a mutual draw. Rewrite so Pathwell acts unilaterally and Elizabeth is hurt as collateral of his need to control.
+- Shade offering to portal Elizabeth to Camp Cunnan: okay structurally, but the reason he gives her ("I know where the diary is") needs to go. Replace with something else that makes her choose to go with him — probably the arm, probably Mama Baga.
+
+**CHAPTER 12**
+- Shade healing Elizabeth is missing. Per canon he's the one who heals her at camp — competent and unsettling. The slight healer currently does it. Shade should do it. This establishes his competence and sets up the camp beginning to trust him.
+- Shade's draw tell is absent. Before the confrontation, there needs to be an observable tell — an autopilot action or phrase — that eventually exposes him to the camp. Plant it here.
+- Pathwell's post-climax "He was right about what I did" needs to go. That's the admission, and it comes too early and too directly. He should deny it here, or say nothing, or deflect. The admission comes later, quietly, offhand.
+
+**CHAPTER 13**
+- This chapter is currently the ending, but it's missing the private retry beat entirely. Pathwell needs to go to the Space Between alone first — tries to prune to buy back the cookbook, pruning doesn't work, he feels relief instead of rage. That's the crack. Then the offhand admission to Elizabeth ("It was my fault," thrown away while doing something else). Then the Shopkeeper's exchange — negotiate a quest to earn the cookbook back. Then the ending as written.
+- The current Ch13 is the right ending scene but it's the last thirty seconds of a three-beat sequence. Expand it or split it.
+
+---
+
+**MISSING ENTIRELY — needs to be written**
+
+- Rung 4 of the agency ladder: Elizabeth using her own diary as a weapon during the climax. Placement TBD but it belongs somewhere in the Camp Cunnan sequence before or during the archive fire. This is the thesis in action and it's not in the draft at all.
+- Pathwell's private retry at the Space Between (solo, fails, relief).
+- The Shopkeeper's exchange / quest negotiation.
+- Shade's draw tell and the camp trust-then-exposure sequence.

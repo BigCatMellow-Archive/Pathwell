@@ -1,0 +1,68 @@
+Let me read carefully before answering.Here's a chapter-by-chapter read against the Ch1-2 voice benchmark.
+
+---
+
+**The signature moves in Ch1-2 that define the voice:**
+- Body acts before the mind (Elizabeth stumbles into the wall before she understands why)
+- Sensory synesthesia (smell becomes taste becomes memory becomes a voice)
+- Fragment as percussion ("The impact sang.")
+- Isolation for emphasis (single-line paragraphs used as period at end of thought)
+- Wrong-detail response (Pathwell notices the dumplings, not the crying)
+- The "mostly" qualifier
+- Subtext doing the emotional work — the dumpling isn't about the dumpling
+
+---
+
+**Chapter 3:** Closest to the established voice after Ch1-2. "The shop held opinions about itself" is the right register. The awful coffee scene earns its length — it's sensory and character-driven simultaneously. The pruning payment is shown through Elizabeth's body and the room changing, not explained. This is the sequel principle working. Minor drift: "light bleeding through the creases and spiderwebbing outward" is slightly purple. Otherwise holds.
+
+**Chapter 4:** Drift starts here. The catalog instinct kicks in. "She had carried it through the apartment, through the street, through the Space Between, and back out again" is Elizabeth narrating her own reasoning to the reader instead of experiencing something. The archive deposit scene is a transaction — Elizabeth makes a logical decision and it's explained on the page. Ch1-2 Elizabeth doesn't explain her reasoning; her body moves and she catches up. The healer doing the healing work is also told rather than felt — compare to the cookbook scene in Ch1 where magic is experienced sensorially. The camp description is adequate but generic: "patched canvas, polished ironwork, ropes tied in knots that knew what they were doing" is close to the voice but doesn't land a specific sensory detail the way the blob's "stench of low tide" does.
+
+**Chapter 5:** Partially recovers. "Pathwell was draped over the hood of an old maroon Cadillac like he was sunbathing, which was difficult to explain given that it was overcast" — that's voice. "Stansbury's hand came down on hers. Not hard. Just — final." — percussion, correctly deployed. But the chapter ends with Elizabeth walking into the bar and the final line ("It snapped shut behind her with a sound like a period at the end of a sentence") is the right instinct, slightly over-written. Ch1-2 would have trusted a shorter landing.
+
+**Chapter 6:** The Stansbury warning scene works tonally. "The look of someone who has had to say a hard thing before and knows it doesn't get easier" — right register. But the red sky ending tips toward sentiment: "The sky behind them was still burning." Ch1-2 doesn't let moments be beautiful without undercutting them slightly, or trusting the image alone without the lingering camera. This holds the shot too long.
+
+**Chapter 7:** The blob fight is the clearest example of missing sensory dimension. In Ch1, the blob has a specific smell (low tide, wet-rot), the impact "sang," a "clear bright note," Elizabeth's stomach fights to keep its contents. In Ch7: "The smell was overwhelming and her eyes were watering and she kept swinging anyway." That's functional description, not felt experience. The smell is mentioned but not named. The "eyes watering" is generic. The body isn't telling us anything specific. The Pathwell/Stansbury "say you need my help" exchange is good character work — that's the right banter rhythm — but the blob sequence that surrounds it doesn't have the sensory authority of Ch1.
+
+**Chapter 8:** Most prose problems of the back half. The Shade introduction is working too hard to establish plot logic: "The same coat. The same hands. But something was wrong about the posture — held differently, as if the person wearing the body had been at it longer and found it less comfortable than it was supposed to be." The observation is correct but over-explained — Ch1-2 would have picked one physical detail and let it do all of that work. The metafictional aside derails the register entirely. Stansbury's "bars the other way" at the close is exactly right — economical, deflective, character-driven. The chapter ends better than it runs.
+
+**Chapter 9:** Best prose in the back half. "The radio glowed blue through the dark" — sensory, no excess. The food order as character revelation (half-burnt bacon, exactly how she'd have asked for it) is the wrong-detail move applied correctly. "Her humming got away from her before she caught it" — body-first interiority, right. Shade's single accusation ("He thinks you're a collectible") holds the Ch1-2 discipline of one sharp point instead of a speech. The past-tense catch is sharp without being telegraphed. This chapter is the closest to the revised voice of anything past Ch3.
+
+**Chapter 11:** Most expository chapter in the draft. Shade's confrontation speech — "You pruned ahead. You decided what I was going to be before I had a chance to get there. The draw has been running me since before you were done with me" — is characters explaining emotional subtext that should be implied. Ch1-2 never lets a character say what they mean this directly. The theme is in the action, not the speech. Compare to Pathwell's entire emotional register in Ch2: he says nothing about what just happened, offers a dumpling, and the gap between what happened and what he does is where the character lives. Shade's speech collapses that gap.
+
+**Chapter 12:** Split. The Shade death line — "the way a bell goes quiet when you put your hand on it" — is the best single image in the back half and earns its place. But "More like setting something down that she'd been carrying in the wrong hand" at the close explains the metaphor after landing it. Ch1-2 trusts the image. Shade's final dialogue, "Tell Elizabeth the cost of the archive was worth it," is sentiment stated rather than shown — in Ch1-2, that feeling would be in what he does, not what he says.
+
+**Chapter 13:** Recovered. "The cat jumped down from the windowsill and passed through his ankles. 'I know,' Pathwell said." — that's the register. The arm described as "held slightly different from the other, the way you hold something that's been wrenched and is mostly better" — body-first, right. The ending holds.
+
+---
+
+**The pattern across the whole draft:**
+
+The voice degrades from Ch4 through Ch11 and recovers in Ch12-13. The consistent fault is the **catalog instinct under uncertainty** — when a scene is structurally unclear, the prose adds more words instead of finding the one right sensory detail. The second consistent fault is **characters speaking subtext** instead of the subtext living in the gap between what's said and what's done. Ch9 and Ch13 are the exceptions that prove the rule — both are tight because both have clear dramatic purposes and don't need to fill space.
+
+The chapters that need the most prose work, in order: 11, 8, 4, 12.
+
+
+
+
+
+===================
+
+
+Claude responded: The irreverence in Ch1-2 doesn't come from jokes.Traced irreverence's decline through chapters, pinpointing Pathwell's absence as culpritTraced irreverence's decline through chapters, pinpointing Pathwell's absence as culpritThe irreverence in Ch1-2 doesn't come from jokes. It comes from the gap between how serious a situation is and how the characters respond to it. Pathwell offers a dumpling while Elizabeth is in tears. He pinches her arm to prove it's not a dream. He says "mostly gone" about a destroyed apartment covered in rot. The catastrophe is real; the response is wrong for it; that gap is the tone.
+Here's where it holds, where it drops, and why.
+
+Holds:
+Ch3 — still has it. "Surprise me" while his arm is shaking is the exact move: Pathwell in the completely wrong register for what's happening to his body. The awful coffee as comfort. The cat demanding tribute and nobody explaining why. The barter scene playing like an old argument between people who've had it many times. This chapter is the last one that maintains the register consistently.
+Ch5 — partially. "My god, is this what waiting is like?" "It's been twenty minutes." "Is it always like this?" That's it — Pathwell encountering waiting as if it's a novel phenomenon. "Put the noodle away" is right. Stansbury being "precise" not "sensitive" is right. The foam sword demo playing as completely straight-faced is right.
+Ch7 — the "say you need my help" standoff is the best single irreverent sequence in the back half. Stansbury negotiating the exact wording of a request for help while Pathwell is being absorbed by a blob at chest height. That's the gap working correctly. "That was close" immediately after is the right understatement. These are islands though.
+Ch13 — recovered. Pathwell talking to the cat. The cat going through his ankles. "I know." The cookbook held and then not held, and the difference turning out to be considerable. This is the right register.
+
+Where it drops and why:
+Ch4 — gone almost entirely. The camp is played earnest. Mama Baga is warm and sincere. The cookbook sacrifice is solemn. Nobody does the wrong thing at the right moment. Pathwell "slips out the door" — which is a fine character beat, but it's played straight, without the Pathwell-noticing-the-wrong-thing quality that makes him him. The fiddle and the fire at the end is atmosphere without any edge to it.
+Ch6 — mostly lost. Stansbury's warning is sincere and correct and Pathwell doesn't undercut it. The red sky is unironic. Nobody notices the wrong detail. The chapter earns its emotional beats but doesn't have any grit against them.
+Ch8 — nearly gone. Shade's introduction is played dramatically. The kidnapping is earnest. "What was that." / "That was me." is the one good beat — Pathwell summarizing himself with complete economy — and "bars the other way" is right. But these are two lines in a chapter that otherwise plays everything at face value.
+Ch11 — the most earnest chapter in the draft. Shade's confrontation speech is emotionally direct. The graffiti wall is treated reverentially. The Pathwell/Shade standoff is high drama and is played as high drama, with nothing undercutting it. "For the record, I hate you both" is the one irreverent line and it's good, but it's one line in a chapter that's otherwise convinced of its own seriousness. Ch1-2 would never let a dramatic confrontation be only dramatic.
+
+The actual problem:
+The back half has started to believe in itself. Ch1-2 works because Pratchett's core trick is operating: the situation is genuinely dangerous and the tone refuses to acknowledge it. When that gap closes — when characters respond to serious situations with appropriate seriousness — you lose the register entirely and you get competent genre fiction instead of what this is supposed to be.
+The fix isn't to add jokes. It's to ask, in every scene, what Pathwell would notice that nobody else would, and whether the response in the scene matches the gravity of what's happening. If it matches, it's wrong. That gap is the whole voice.
