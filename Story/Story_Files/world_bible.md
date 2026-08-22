@@ -337,9 +337,13 @@ A transaction is formally settled when the custodian accepts the bargain. That a
 
 **Threshold access depends on the threshold, not the person.** There is no universal practitioner-only restriction. Different thresholds may be open to anyone or may require particular knowledge, objects, permission, or conditions. A non-practitioner can use a valid threshold when its own requirements are satisfied.
 
+**Threshold direction is also threshold-specific.** Some connections work both ways, some only into the Space Between, and some only out of it. A threshold may change direction under conditions intrinsic to that threshold; the custodian does not automatically control all exits.
+
+**The Space Between can connect to ordinary places as well as magical ones.** Established anchors are substantially more reliable than temporary or improvised thresholds. Temporary routes can work, but they are more prone to failure, drift, altered conditions, or disappearing altogether.
+
 The archive contains an extraordinary concentration of emotionally charged material, sufficient to overwhelm an ordinary person such as Elizabeth.
 
-The exact origin of the Space Between, the custodian's deeper nature/origin, the full geography of the place, and the complete range/directionality of its thresholds remain deliberately undefined unless the story requires them.
+The exact origin of the Space Between, the custodian's deeper nature/origin, the full internal geography of the place, and any hard upper limit on its network of thresholds remain deliberately undefined unless the story requires them.
 
 ---
 
