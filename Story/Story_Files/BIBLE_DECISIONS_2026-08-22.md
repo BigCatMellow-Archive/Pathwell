@@ -77,6 +77,14 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - They can still be dangerous if a person is in or coated with the material they are consuming, obstructs their path, or if the cleanup event is unusually large or unstable.
 - Their mostly harmless reputation is therefore compatible with the dangerous encounters in the story: the story is dealing with abnormal spills, especially Shade-scale circumstances.
 
+### Response timing — LOCKED
+
+- **Blob response time depends on both signal strength and accessibility.** There is no universal fixed delay and no numerical trigger threshold.
+- Larger concentrations of unclaimed magical waste create stronger signals and are easier for blobs to detect, generally producing a faster or more reliable cleanup response.
+- Accessibility also matters. A spill in a location that is difficult for blobs to reach can produce a slower response even when the signal is strong.
+- Small spills may dissipate on their own before any blob reaches them.
+- This is why practitioners can know blobs as ordinary cleanup phenomena without every minor magical failure producing an encounter.
+
 ### Stale-support warning created by this decision
 
 - The older `world_bible.md` section titled **CASTING RESIDUE (Chapter 1 mechanism)** is stale where it says Pathwell's successful cookbook ward automatically leaves blob-attracting residue on Elizabeth.
@@ -85,7 +93,6 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 
 ### Still open
 
-- What controls blob arrival time and whether a cleanup response arrives before small waste dissipates.
 - What a blob does after it consumes the waste.
 - The final Chapter 1 blob-turn explanation.
 - Why absorbing Shade resolves the climactic blob behavior.
