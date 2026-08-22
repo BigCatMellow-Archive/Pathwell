@@ -33,8 +33,15 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - A non-practitioner such as Elizabeth can therefore use a valid threshold if that threshold's own conditions are satisfied.
 - This variability is intentional and should remain a practical rule rather than being reduced to one universal key or initiation requirement.
 
+### Threshold directionality — LOCKED
+
+- **Space Between thresholds are not necessarily two-way.** Direction is a property of the individual threshold rather than a universal feature of the network.
+- Some thresholds may work in both directions, some may function only as entrances, and some only as exits.
+- A threshold's direction can also change under specific conditions if that behavior belongs to the threshold itself.
+- The custodian does not automatically control all exit direction simply because the Space Between has a custodian.
+
 ### Still open
 
-- How broadly the crossroads function connects places and whether all valid thresholds can serve as both entrances and exits.
+- How broadly the crossroads function connects places and what kinds of locations can serve as threshold endpoints.
 - Ordinary geography inside the Space Between, if the story ever needs a rule for it.
 - Cosmological origin, which should remain iceberg lore unless necessary.
