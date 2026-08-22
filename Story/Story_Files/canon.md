@@ -1,6 +1,6 @@
 # canon.md — Story's Physical Laws & Core Engine
 
-*The non-negotiable spine. If a scene contradicts something here, the scene is wrong. Open/undecided items live in `pathwell_conflicts_and_decisions.md`, not here — this file holds only what is locked.*
+*The non-negotiable spine. If a scene contradicts something here, the scene is wrong. Open/undecided items live in the conflicts/decision material, not here — this file holds only what is locked. Detailed world mechanics live in `world_bible.md`; the August 21, 2026 interview record lives in `BIBLE_DECISIONS_2026-08-21.md`.*
 
 ---
 
@@ -14,57 +14,82 @@ Stated as the book's argument: **agency and human mattering exist independent of
 
 ## THE CORE ENGINE (THE MAGIC)
 
-**Pruning.** A practitioner can sell or spend their own future potential as currency — to pay for things, to power effects. Every prune narrows the person doing it; you become more deterministic with each sale. This is the central mechanic and the source of the theme.
+### Pruning
 
-**Emotional-text magic.** Handwritten things carry the emotional charge of whoever wrote them. The charge can be read, felt, and spent. Using a text consumes its charge.
-- Grandmother's cookbook → golden protective light, the taste of sugar cookies, her voice.
-- Love note → a wound closes; the lingering feeling of a boy from middle school.
-- Diary (anger/fear/hurt) → destructive potential.
-- The cost is built in: you *feel* the emotion of the text when you use it.
+**Pruning is currency, not reality editing.** A trained practitioner can spend their own future possibility as payment to an entity, system, or properly constructed working capable of accepting it.
 
-**Imbuing.** Stansbury can transfer emotional charge into objects (his Nerf weapons). Wants to arm people but can't bring himself to give them real weapons — the contradiction is his character.
+The act of pruning does not rewrite probability, choose a timeline, force an outcome, or alter events by selecting a future. It narrows the practitioner's overall field of possibility because something has genuinely been surrendered.
 
-**Transactions and the ledger.** A prune sold to the Bookkeeper is *ledgered* — the potential is claimed, owned, accounted for. Ledgered transactions are "clean." The danger is potential that gets spent and never reaches the ledger — unclaimed spillage. (See world_bible.md for what spillage attracts.)
+A completed prune is irreversible. Early cancellation can return cleanly; a later failure after possibility has been released can leave **unclaimed spillage**.
+
+### Emotionally charged records
+
+Authentic handwritten records can retain emotional charge. The writer is the primary source, while genuine later use, handling, annotation, inheritance, and emotional history can deepen it.
+
+The work's emotional content **and its specific meaning/context** constrain what the charge is naturally suited to do. A practitioner shapes the working but must work with the grain of the record.
+
+**Using the charge destroys the original record.** A book can lose a single physically distinct page without the entire book being consumed, but a practitioner cannot selectively spend one paragraph, sentence, word, or emotional strand from that page.
+
+The activating practitioner temporarily experiences an **echo** of the consumed record: its emotion and some imperfect informational/sensory impression. The echo fades and cannot be reused as magical fuel.
+
+Charged material cannot be manufactured on demand by deliberately writing 'magic ammunition.' The system depends on authentic human records, not forced emotion.
+
+Other authentic art forms — drawings, paintings, carvings, and related media — can hold analogous charge in the wider world. Their detailed disciplines are backstage lore; Pathwell's principal practice is handwritten emotional-text magic.
+
+### Imbuing
+
+Stansbury can transfer emotional charge into objects (his Nerf weapons). Wants to arm people but can't bring himself to give them real weapons — the contradiction is his character.
+
+### Transactions and spillage
+
+A successful pruning transaction transfers possibility to something capable of accepting it. Settled transactions are clean.
+
+The danger is possibility released but not successfully received: **unclaimed spillage**. See `world_bible.md` for what spillage attracts.
+
+Do not confuse pruning spillage with the non-reusable **emotional residue** that can linger after catastrophic destruction of charged art.
 
 ---
 
 ## DETERMINISM IS PURCHASED, NOT DEFAULT
 
-Nobody in this world is born fated. People *become* deterministic by selling their futures.
+Nobody in this world is born fated. People *become* more deterministic by selling their futures.
 - **Pathwell** narrowed himself one transaction at a time.
-- **Shade** is maximal determinism — he is *made* of foreclosed possibility.
-- **Elizabeth** is the opposite pole: she has never sold anything. Her future is unmortgaged. This is *why* she can be the thesis — the deterministic machinery can put a blob in her path, but it cannot make a single one of her choices for her.
+- **Shade** is maximal determinism — he is made of foreclosed/discarded possibility.
+- **Elizabeth** is the opposite pole: she has never sold her future. Her future is unmortgaged. This is why she can be the thesis — the world's machinery can put danger in her path, but it cannot make her choices for her.
 
 The world's causes deliver a person to the intersection. What they do standing in it is the only thing that was ever theirs. This is the compatibilist spine, encoded as mechanics.
 
-**Vocabulary discipline:** There are no "timelines." What gets sold is *possibility*, not branches. Shade is not an alternate-timeline Pathwell; he is foreclosed potential given flesh in the one world that exists. Do not let "timeline" thinking into the prose — it smuggles in a parallel-destinies frame the book rejects.
+**Vocabulary discipline:** There are no "timelines." What gets sold is *possibility*, not branches. Shade is not an alternate-timeline Pathwell; he is foreclosed potential given flesh in the one world that exists. Do not let timeline thinking into the prose.
 
 ---
 
 ## ELIZABETH — HARD CONSTRAINTS
 
-- **She never prunes, imbues, or buys agency from a system.** Her one climax use of the diary is not empowerment fantasy or learned practitioner craft; it is her spending her own record, by choice, at cost.
-- **Her agency is a ladder.** Each rung must be something she climbs herself, not a door someone else opens for her. (Full ladder in character_bible.md.)
-- **The diary is her tether until she chooses to spend it.** It is her connection to her past self and becomes the climax weapon because it is hers, written from within, and sacrificed by her.
+- **Elizabeth does not perform magic.** She never prunes, imbues, casts emotional-text magic, or reveals a hidden supernatural sensitivity.
+- She can own, carry, surrender, donate, position, or provide access to charged objects. She can participate physically in circumstances surrounding magic. Those actions are choices, not spellcasting.
+- She can experience ambient charge and can receive an emotional echo directed through a working because ordinary non-practitioners can be affected by those phenomena.
+- **Giving the diary to Camp Cunnan's archive is not magic.** It is a voluntary surrender of ownership and of a private tether to her past.
+- Any draft in which Elizabeth uses the diary as a magical weapon is wrong.
+- Her agency is a ladder. Each rung must be something she climbs herself, not a door someone else opens for her. (Full ladder in `character_bible.md`.)
 
 ---
 
-## NON-NEGOTIABLE SCENES
+## NON-NEGOTIABLE STORY BEATS
 
-These happen, in roughly this order. Details and any open forks are tracked in the synthesis and conflicts doc.
+These happen in roughly this order. Exact mechanics of currently unresolved transitions remain in the decision/conflicts material and must not be guessed into canon.
 
-1. At least one clean, casual prune early (not only the dramatic tree ritual) — establishes pruning as routine for Pathwell.
-2. The bar mirror sequence — Pathwell's own face repeated infinitely, then a replay from an angle that isn't his. His crack begins here. He tells no one.
-3. Elizabeth is absorbed by the bar blob and cuts herself out using Stansbury's Nerf dagger — agency proof, self-rescue rather than rescue by Pathwell.
-4. Cookbook sacrificed to heal Mama Baga — escalating, permanent cost. (Only a page was consumed in Ch1; the book survives Ch1 to be sacrificed here.)
-5. Midpoint crash — Elizabeth is driving because she is the only sober one; Pathwell and Stansbury argue around her until she is furniture again, and she turns the wheel.
-6. Diner — wrongness rising to a realization that completes AT THE TURN: not-Pathwell and never-the-point land in the same instant.
-7. The Ask — Elizabeth turns to the person who just gutted her and demands the truth/acknowledgment about what he did.
-8. Museum confrontation — Elizabeth rejects both framings, with a destination of her own.
-9. Pruning cancel + doubt-forced tear — the hinge of Pathwell's arc. Confirmed (DEC-016, decisions.md): the prune is Pathwell attempting to cut Shade loose using the unspent Space Between letter from Ch3, not a book purchase and not Elizabeth trading her own potential.
-10. Archive burning — Elizabeth spends her diary as a weapon against the spillage, then runs for the child anyway.
-11. Shade's death — eye contact, the draw stops, relief without confession. Neither noble nor clean.
-12. Private retry at the Space Between fails quietly → relief instead of rage → offhand admission → "Are you ready?" / "No." / "Perfect."
+1. **A clean, casual prune early** — establishes pruning as routine for Pathwell before its deeper cost becomes clear.
+2. **The bar mirror sequence** — Pathwell's own face repeated infinitely, then a replay from an angle that isn't his. His crack begins here. He tells no one.
+3. **Elizabeth cuts herself out of the bar blob** using Stansbury's imbued toy dagger — self-rescue rather than rescue by Pathwell.
+4. **The cookbook is voluntarily surrendered at Camp as a major permanent cost.** The exact healing recipient (Mama Baga vs. the younger woman in the current manuscript) remains unresolved; do not silently choose one.
+5. **Midpoint crash** — Elizabeth is driving because she is the only sober one; Pathwell and Stansbury argue around her until she becomes furniture again, and she turns the wheel.
+6. **Diner** — wrongness rises until Elizabeth recognizes that the man with her is not Pathwell and that she was never the point.
+7. **The Ask** — gutted by what she has learned, Elizabeth turns toward the person who harmed her and demands truth/acknowledgment rather than collapsing inward.
+8. **Museum confrontation** — Elizabeth rejects both men's framings and makes a choice of her own.
+9. **Camp archive catastrophe** — the archive burns and Pathwell's attempt to fix/control the situation is causally implicated. The exact diary-buyback / pruning / fire sequence is under active reconstruction; do not preserve a contradictory draft merely because it is later.
+10. **Elizabeth acts during the climax without using magic.** Her diary is not a spell or weapon. Her agency must remain human action and choice.
+11. **Shade's death** — eye contact, the draw stops, relief without confession. Neither noble nor clean.
+12. **Closing role inversion** — Pathwell reaches a changed relationship with pruning/control; Elizabeth initiates what comes next with "Are you ready?" / "No." / "Perfect." Exact buyback mechanics immediately preceding this remain to be reconciled.
 
 ---
 
