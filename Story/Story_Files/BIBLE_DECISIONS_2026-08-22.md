@@ -40,8 +40,15 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - A threshold's direction can also change under specific conditions if that behavior belongs to the threshold itself.
 - The custodian does not automatically control all exit direction simply because the Space Between has a custodian.
 
+### Threshold endpoints and reliability — LOCKED
+
+- **The Space Between can connect to ordinary places as well as magical locations.** A destination does not have to be intrinsically supernatural to serve as a threshold endpoint.
+- **Established anchors are much more reliable than temporary or improvised thresholds.** Old, maintained, or deliberately stabilized connections are dependable by comparison.
+- Temporary or improvised thresholds can still connect ordinary or unusual locations, but they are less stable and more prone to failure, drift, altered conditions, or loss.
+- The crossroads therefore has broad potential reach without functioning as effortless universal fast travel.
+
 ### Still open
 
-- How broadly the crossroads function connects places and what kinds of locations can serve as threshold endpoints.
 - Ordinary geography inside the Space Between, if the story ever needs a rule for it.
+- Whether there is any practical limit on how many thresholds/anchors can exist at once, if the story ever requires such a limit.
 - Cosmological origin, which should remain iceberg lore unless necessary.
