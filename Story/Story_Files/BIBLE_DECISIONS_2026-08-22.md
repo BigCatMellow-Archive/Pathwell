@@ -26,8 +26,15 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - The custodian therefore negotiates and accepts bargains, while the Space Between provides the underlying mechanism that makes an accepted bargain formally ledgered/settled.
 - The exact visible form of that registration — if any — remains undefined unless the story needs it.
 
+### Threshold access — LOCKED
+
+- **Access depends on the threshold, not on whether a person is a practitioner.** There is no universal rule that only magical practitioners can enter, leave, or use the Space Between's routes.
+- Different thresholds can impose different requirements. A threshold may be open to anyone, require specific knowledge, require a particular object, depend on permission, or work only under certain conditions.
+- A non-practitioner such as Elizabeth can therefore use a valid threshold if that threshold's own conditions are satisfied.
+- This variability is intentional and should remain a practical rule rather than being reduced to one universal key or initiation requirement.
+
 ### Still open
 
-- Exact threshold/access behavior and how broadly the crossroads function connects places.
+- How broadly the crossroads function connects places and whether all valid thresholds can serve as both entrances and exits.
 - Ordinary geography inside the Space Between, if the story ever needs a rule for it.
 - Cosmological origin, which should remain iceberg lore unless necessary.
