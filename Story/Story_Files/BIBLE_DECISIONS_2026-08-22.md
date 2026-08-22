@@ -85,6 +85,13 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - Small spills may dissipate on their own before any blob reaches them.
 - This is why practitioners can know blobs as ordinary cleanup phenomena without every minor magical failure producing an encounter.
 
+### Post-cleanup behavior — LOCKED
+
+- **After consuming the waste that drew it, a blob briefly searches the immediate area for additional unclaimed magical waste.**
+- If it finds more nearby waste, it continues cleaning.
+- If it finds nothing else, it leaves on its own rather than remaining indefinitely.
+- A blob does not ordinarily require a practitioner, custodian, or ritual to dismiss or redirect it once the cleanup is complete.
+
 ### Stale-support warning created by this decision
 
 - The older `world_bible.md` section titled **CASTING RESIDUE (Chapter 1 mechanism)** is stale where it says Pathwell's successful cookbook ward automatically leaves blob-attracting residue on Elizabeth.
@@ -93,6 +100,5 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 
 ### Still open
 
-- What a blob does after it consumes the waste.
 - The final Chapter 1 blob-turn explanation.
 - Why absorbing Shade resolves the climactic blob behavior.
