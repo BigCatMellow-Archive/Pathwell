@@ -52,3 +52,40 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - Ordinary geography inside the Space Between, if the story ever needs a rule for it.
 - Whether there is any practical limit on how many thresholds/anchors can exist at once, if the story ever requires such a limit.
 - Cosmological origin, which should remain iceberg lore unless necessary.
+
+---
+
+## 2. Blobs and magical cleanup
+
+### Functional role — LOCKED
+
+- **Blobs are magical cleanup crews — effectively janitors for unclaimed magical waste.** Practitioners know of them, and under ordinary circumstances they are regarded as unpleasant but mostly harmless rather than as monsters that hunt people.
+- **Pruning spillage is one major category of material they clean up:** future possibility that was released but never successfully accepted or settled.
+- Blobs are not limited only to pruning spillage. They can also respond to unclaimed waste created by a failed, interrupted, or uncontrolled magical working.
+
+### Emotional-text casting — LOCKED
+
+- **Normal successful emotional-text casting does not attract blobs.** Routine use of charged text therefore does not create blob incidents.
+- A failed, interrupted, or uncontrolled emotional-text working can leave behind short-lived **unclaimed casting waste** when released charge fails to resolve cleanly into the intended working.
+- Blobs can consume that unclaimed casting waste as part of their cleanup function.
+- Unclaimed casting waste is **not pruning spillage**. The two can attract the same cleanup creatures without being the same magical substance.
+- Unclaimed casting waste is also distinct from the lingering **emotional residue** produced by catastrophic ordinary destruction of charged art. Emotional residue remains non-reusable environmental fallout and is not automatically blob food.
+
+### Ordinary danger — LOCKED
+
+- Blobs are generally concerned with the waste, not with attacking people.
+- They can still be dangerous if a person is in or coated with the material they are consuming, obstructs their path, or if the cleanup event is unusually large or unstable.
+- Their mostly harmless reputation is therefore compatible with the dangerous encounters in the story: the story is dealing with abnormal spills, especially Shade-scale circumstances.
+
+### Stale-support warning created by this decision
+
+- The older `world_bible.md` section titled **CASTING RESIDUE (Chapter 1 mechanism)** is stale where it says Pathwell's successful cookbook ward automatically leaves blob-attracting residue on Elizabeth.
+- The older `character_bible.md` Chapter 1 misread bullet making the same claim is also stale.
+- **Do not use that successful-casting-residue explanation going forward.** The exact reason the Chapter 1 blob turns toward/passes over Elizabeth is now open and must be reconciled later without making Elizabeth magical.
+
+### Still open
+
+- What controls blob arrival time and whether a cleanup response arrives before small waste dissipates.
+- What a blob does after it consumes the waste.
+- The final Chapter 1 blob-turn explanation.
+- Why absorbing Shade resolves the climactic blob behavior.
