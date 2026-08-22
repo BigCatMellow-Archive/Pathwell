@@ -1,29 +1,40 @@
 # character_bible.md — Characters, Arcs & Voice
 
-*Who they are, what they want, how they change, how they sound. Locked material; open items point to the conflicts doc.*
+*Who they are, what they want, how they change, how they sound. Locked material; open items point to the conflicts/decision material. Detailed world rules live in `world_bible.md`.*
 
 ---
 
 ## ELIZABETH
 
-**Arc:** Pulled → Pushing → Choosing. A passive woman who climbs to genuine agency without buying power from anyone else's system.
+**Arc:** Pulled → Pushing → Choosing. A woman who begins by complying under pressure and climbs toward genuine agency without buying power from anyone else's system.
 
-**Flaw at the start:** Not passivity exactly — *compliance under pressure*. She accommodates, extends the generous interpretation, hands over what's asked before she's thought about whether to. (Chapter 1: she hands over the cookbook because a stranger demands it and the door is breaking — reflexive giving before thinking. Only a *page* is consumed by the spell; the book survives Ch1.) The ladder is her climbing away from this. [NOTE: the "housewarming party / Marcus" framing for why the door was open was introduced in a redraft and is NOT confirmed — treat the open door's cause as open until decided.]
+**Flaw at the start:** Not passivity exactly — *compliance under pressure*. She accommodates, extends the generous interpretation, hands over what's asked before she's thought about whether to. (Chapter 1: she hands over the cookbook because a stranger demands it and the door is breaking — reflexive giving before thinking. Only a page is consumed by the spell; the book survives Ch1.) The ladder is her climbing away from this. [NOTE: the "housewarming party / Marcus" framing for why the door was open was introduced in a redraft and is NOT confirmed — treat the open door's cause as open until decided.]
 
-**THE AGENCY LADDER** — each rung is something she does, not a door opened for her:
+### Hard magic boundary
 
-1. **Lo mein (Ch2)** — chooses to stay with Pathwell. Costs nothing material. Her first choice.
-2. **Books on the stack, through the door (Ch3)** — came to get her cookbook back; instead puts her books on Pathwell's stack and carries them into his world. Chooses uncomfortable over comfortable. Costs her job, her meeting, her routine. (The dry-cleaning ticket is already gone — blew away in Ch2. Respect that.)
-3. **Cookbook to heal Mama Baga (Camp)** — gives up her last tie to her grandmother to heal an elder she can look in the eye. Permanent.
-4. **Cuts herself out of the blob (bar)** — no rescue, no assignment; she is absorbed and uses Stansbury's Nerf dagger to get herself out.
-5. **Turns the wheel (midpoint crash)** — she is driving because she is the only sober one; Pathwell and Stansbury argue around her until she is furniture again. The turn is agency with consequence, not petty defiance.
-6. **The Ask (post-diner)** — gutted by the revelation that she was never the point, she does NOT collapse inward. She turns to the person who just broke her and demands the truth/acknowledgment about what he did. Asking is the rung — she stops waiting to be assigned a role.
-7. **Spends the diary / saves the child (climax)** — she uses her own diary as a weapon against the spillage, then runs for the child anyway. The diary burns by her choice, not because it was stored elsewhere.
-8. **"Are you ready?" (ending)** — she initiates the next adventure. Ready before Pathwell is. Roles flipped.
+**Elizabeth does not perform magic.**
 
-**At camp before the climax (updated by Review_Notes.txt):** She's there because Shade brings her after Pathwell hurts her at the museum. She still has the diary. She does not know Pathwell's intended prune or the cost of forcing the tear, so she carries NO guilt for the fire — it is Pathwell's fault.
+She does not prune, imbue, cast emotional-text magic, or possess a hidden special magical sensitivity. She can own, carry, surrender, donate, position, or provide access to charged objects; she can participate physically in magical circumstances; and she can be affected by ambient charge or a directed echo because ordinary non-practitioners can experience those things.
 
-**The diary as object:** tether to her past self — every hurt she swallowed, every time she felt invisible. It stays with Elizabeth until the climax, where she spends it herself as a weapon against the spillage. Its burning is her cost, not an archive-storage accident.
+Her choices matter precisely because they remain **human choices**, not because the story eventually rewards her with magical ability.
+
+### The agency ladder
+
+Each rung must be something Elizabeth does, not a door someone else opens for her. The exact numbering can shift with revision, but these are the locked actions/turns:
+
+1. **She follows because Pathwell still has the cookbook.** She stops simply absorbing what has happened and pursues something that is hers.
+2. **Reclaims what is hers, then chooses the portal (Ch3).** She retrieves the diary/cookbook rather than meekly leaving them with Pathwell, then puts her books on his stack and enters the Space Between by choice. This replaces the stale "orders lo mein" agency rung from older planning material.
+3. **Cookbook sacrifice at Camp.** She voluntarily gives up the family cookbook as a major, permanent cost to help someone she can look in the eye. The exact recipient — Mama Baga or the younger woman in the current manuscript — remains unresolved and must not be guessed.
+4. **Cuts herself out of the blob (bar).** No rescue and no assignment; she uses Stansbury's imbued toy dagger to get herself out.
+5. **Turns the wheel (midpoint crash).** She is driving because she is the only sober one; Pathwell and Stansbury argue around her until she is furniture again. The turn is agency with consequence, not petty defiance.
+6. **The Ask (post-diner).** Gutted by the revelation that she was never the point, she does not collapse inward. She turns to the person who hurt her and demands truth/acknowledgment about what he did.
+7. **Gives the diary to the Camp archive.** This is not spellcasting and not a weapon. She voluntarily stops carrying the diary as a private tether and entrusts her record to something larger than herself. Donation transfers ownership to the archive.
+8. **Acts in the climax without magic.** Whatever the final staging of the archive fire becomes, Elizabeth's agency must remain physical choice and action. Any draft where she uses the diary as a magical weapon is wrong.
+9. **"Are you ready?" (ending).** She initiates what comes next. Ready before Pathwell is. Roles flipped.
+
+**The diary as object:** a tether to her past self — every hurt she swallowed, every time she felt invisible, and the proof that she was there. She ultimately gives it to Camp Cunnan's archive rather than magically spending it herself. Once donated, it belongs to the archive; Elizabeth no longer has a right to demand it back. The archive can nevertheless choose to sell or trade it back.
+
+**Diary buyback / fire reconciliation:** the intended version currently being recovered has Pathwell attempting to buy the diary back. The exact placement and causal relationship between that attempt, pruning, and the archive fire are still under reconstruction. Do not default to the later diary-as-weapon draft.
 
 **Voice/handling notes:** body knows first (physical sensation before narrated emotion). Her instinct toward courtesy and accommodation is the thing the book dismantles. First taste of mattering = discomfort ("She was used to not being looked at that way. She wasn't sure she liked it.") — that's the thesis in miniature; state it once, never expand.
 
@@ -38,22 +49,22 @@
 **THE CHAPTER 1 MISREAD (the engine of his whole involvement):**
 Every piece of evidence is genuine; every interpretation is wrong; each points back at him or his double.
 - A blob arrives (first in a long time) — *really* because Shade has emerged and doubled the signal; Pathwell doesn't know Shade exists.
-- He warps a page of the cookbook to ward Elizabeth; the blob turns toward her — *really* because of the fresh casting-residue on her skin (his own fingerprints).
+- He consumes a page of the cookbook to ward Elizabeth; the blob turns toward her — *really* because of fresh casting residue on her skin (his own fingerprints).
 - He concludes she is "pruned energy made flesh" — reaching for a pre-existing practitioner legend (the hypothesis shelf), which actually describes things like *Shade*. He holds the truth by the wrong end.
-- "Keep an eye on her" needs no extra justification: watching IS the test, and staying near the beacon means always knowing where the danger points.
+- "Keep an eye on her" needs no extra justification: watching IS the test, and staying near the apparent beacon means always knowing where the danger points.
 
 **Arc beats:**
-1. Confident pruning works (casual prune + the dramatic tree ritual at the bookstore).
-2. **The mirror crack (bar):** the mirror routes Shade's *perspective* back at him — for one second he feels the cost from the inside, something in agony that is him, that he made, and he's never felt it from this side. He does NOT understand what happened. Comes back shaken, says nothing.
-3. **Crisis (climax):** going to prune, he hesitates — the echo of the bathroom, still not understood, now strong enough to cancel the prune. "I can't control the cost anymore."
-4. He forces it by injecting anger from an intense text → tear → archive ignites.
-5. Denial.
-6. **Coda (Space Between):** tries to prune to buy back the cookbook → fails quietly → feels *relief* instead of rage. This is where he finally understands what the hesitation was always trying to say. The thing he couldn't name in the bathroom, he recognizes here.
-7. Offhand admission to Elizabeth (not a speech, not a breakdown — offhand). Leaves on a new quest without needing leverage.
+1. Confident pruning works; an early casual clean prune establishes that he treats the technique as routine.
+2. **The mirror crack (bar):** the mirror routes Shade's perspective back at him — for one second he feels the cost from the inside, something in agony that is him, that he made, and he's never felt it from this side. He does NOT understand what happened. Comes back shaken, says nothing.
+3. **Crisis:** his confidence in treating future possibility as convenient currency begins to fail. He can no longer pretend he understands or controls where the cost goes.
+4. **Archive catastrophe:** Pathwell's attempt to solve/control the situation is causally implicated in the fire. The exact diary-buyback / pruning / failure sequence is under active reconstruction and is not locked by later draft chronology.
+5. Denial cannot survive the consequences.
+6. **Coda:** his relationship to pruning changes; relief rather than rage is the important emotional turn. The exact transaction/buyback object immediately surrounding this beat remains to be reconciled.
+7. Offhand admission to Elizabeth (not a speech, not a breakdown). Leaves on a new quest without needing leverage in the same way.
 
-**Relationship to Elizabeth:** Every cost she pays traces to his choices. The archive fire and spillage force the moment where she spends her diary; HIS convenience creates the cost she chooses inside. The theme made concrete: other people pay for his convenience.
+**Relationship to Elizabeth:** Every major cost she pays should trace back to choices and systems Pathwell treats as convenient. His deepest relational failure is not merely endangering her; it is repeatedly treating other people's choices, possessions, futures, and problems as things he is entitled to manage. If he attempts to buy back the diary after Elizabeth deliberately surrendered it, the act must be understood in that context: he is trying to undo a choice she made because he believes he can fix what hurts.
 
-**Pruning hurts Shade (locked this session):** because the signatures aren't cleanly distinct (the mirror proves it), pruning sends a jolt through Shade — severed but not disconnected, a phantom limb with its own nervous system. [NOTE: the "Shade experiences this as addiction/withdrawal" framing is SHELVED — see conflicts doc. Do not build on it until revisited.]
+**Pruning hurts Shade (locked this session):** because the signatures aren't cleanly distinct (the mirror proves it), pruning sends a jolt through Shade — severed but not disconnected, a phantom limb with its own nervous system. [NOTE: the "Shade experiences this as addiction/withdrawal" framing is SHELVED — see conflicts material. Do not build on it until revisited.]
 
 ---
 
@@ -89,7 +100,7 @@ Every piece of evidence is genuine; every interpretation is wrong; each points b
 
 **When recruiting (Act II):** Pathwell nods to Elizabeth as "the curiosity" — already instrumentalizing her. Stansbury reads it instantly; that's why he keeps her small (he's seen Pathwell collect curiosities before).
 
-**Open:** interiority between functional beats is still thin (conflicts doc). His silence in the car after the parking lot is the established starting point.
+**Open:** interiority between functional beats is still thin. His silence in the car after the parking lot is the established starting point.
 
 ---
 
@@ -97,15 +108,15 @@ Every piece of evidence is genuine; every interpretation is wrong; each points b
 
 **Role:** matriarch of Camp Cunnan; mother to nearly everyone there. Pathwell's adopted mother. Loves him, tolerates him, wishes he'd rest and find another way to care for himself. Knows he prunes; concerned, but never demands more than he can give.
 
-**The cookbook sacrifice:** she needs healing; Elizabeth offers the grandmother's cookbook. Mama Baga senses the love and Elizabeth's bond to it — and takes it anyway, because refusing would be its own condescension. Acknowledges the cost without words — just a look. Creates a bond between the two women that has nothing to do with Pathwell.
+**Cookbook scene:** Elizabeth voluntarily surrenders her grandmother's cookbook at Camp as a major permanent cost. The exact person whose healing receives that sacrifice is unresolved: older support files name Mama Baga, while the current manuscript stages a younger woman as the patient. Do not silently choose one until the bible interview resolves it.
 
-**Climax weight:** after the fire she says nothing to Pathwell. **The silence is the whole conversation.** She never asked him to stop — she just wished he'd find another way, and the one time it failed catastrophically it took her home.
+**Climax weight:** after the fire Mama Baga's silence toward Pathwell can carry the conversation better than explanation. She never needed to lecture him about his flaw; the consequences are visible.
 
 ---
 
 ## PAPA BAGA
 
-[OPEN — established in an early session as a co-parent figure, then dropped. Needs a deliberate decision: develop or cut cleanly. Does NOT block any character's growth (Mama Baga is complete without him). Tracked in the conflicts doc. Default assumption until decided: not present.]
+[OPEN — established in an early session as a co-parent figure, then dropped. Needs a deliberate decision: develop or cut cleanly. Does NOT block any character's growth (Mama Baga is complete without him). Default assumption until decided: not present.]
 
 ---
 
