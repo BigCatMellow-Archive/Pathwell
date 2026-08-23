@@ -64,6 +64,7 @@ Important late locks:
 - **Diner recognition:** accumulated mismatches bring Elizabeth almost to certainty; Shade then casually refers to Pathwell as a separate person, which converts felt wrongness into explicit knowledge. Shade does not stage a reveal or impersonation failure.
 - **Shade's Chapter 1 explanation:** Shade states what he knows firsthand — he followed Pathwell, did not know Elizabeth, and had no independent reason to be at her apartment — then cautiously infers that the blob was responding to the same Pathwell-centered problem. He does not claim authoritative knowledge of the exact cleanup mechanics.
 - **`You were never the point`:** Elizabeth was incidental to the magical chain, not insignificant as a person. Shade turns the moral accusation toward Pathwell for misreading his own problem, pulling Elizabeth into it, and continuing to decide what she was entitled to know. Elizabeth's mattering does not depend on being magically chosen or targeted.
+- **Shade's diner motive:** Shade genuinely believes Elizabeth deserves the truth, but he also uses that truth and her likely reaction as pressure on Pathwell. He partly frames this to himself as helping her, while repeating a subtler version of Pathwell's habit of instrumentalizing other people.
 
 ---
 
@@ -87,6 +88,7 @@ Important late locks:
 - **Diner recognition trigger:** the scene builds accumulated wrongness until Elizabeth is almost certain. Shade then casually refers to Pathwell in the third person, not as a theatrical reveal but because he was never claiming to be him. That line makes Elizabeth's suspicion explicit knowledge.
 - **Shade Chapter 1 knowledge limits:** Shade can prove that he followed Pathwell and had no prior connection to Elizabeth. He may cautiously infer that the blob followed the same Pathwell-centered problem, but he cannot authoritatively explain overlapping-signature localization, cookbook casting waste, or other cleanup mechanics he has no reason to know in detail.
 - **Diner emotional framing:** being incidental to Pathwell's magical problem does not make Elizabeth personally irrelevant. Shade's accusation is that Pathwell made her collateral to his own consequences and withheld the truth. The scene removes false supernatural significance without removing Elizabeth's human significance.
+- **Shade's diner motive:** he genuinely believes Elizabeth deserves the truth and is giving her information Pathwell wrongly withheld, but he also hopes her reaction will force Pathwell to face what he has done. Elizabeth must not simply become Shade's ally or instrument; what she does with the truth remains hers.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -121,14 +123,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **Why does Shade take Elizabeth away from the crash and bring her to the diner at all?**
+> **How directive should Shade be when he leaves Elizabeth after the diner?**
 >
-> **A. He is trying to protect her from Pathwell.** Shade believes Pathwell is dangerous to her and removes her from him long enough to explain the truth. This makes Shade comparatively altruistic.
+> **A. He explicitly orders her to confront Pathwell.** `Go back to him. Make him tell you what he did.` This makes Shade's instrumental motive very clear, but risks making Elizabeth's later Ask feel assigned to her.
 >
-> **B. He wants Elizabeth as leverage/witness against Pathwell.** She is a living example of Pathwell pulling someone into his consequences. Shade tells her the truth because he expects her to confront Pathwell with it and force the acknowledgment Shade cannot get directly.
+> **B. He tells her Pathwell owes her answers, then leaves the choice entirely unstated.** Shade gives her the truth and walks away. Elizabeth independently decides to seek Pathwell out.
 >
-> **C. He takes her mostly on impulse because she is connected to the latest Pathwell incident.** He does not have a clear plan until the diner. This keeps Shade less calculating but weakens the causal purpose of the sequence.
+> **C. He asks her to help him force Pathwell to admit what happened.** This makes his leverage motive overt and gives Elizabeth an opportunity to reject becoming Shade's ally.
 >
-> **D. B, but Shade partly tells himself it is for Elizabeth's benefit.** He genuinely believes she deserves the truth, but he is also using that truth — and Elizabeth herself — as pressure on Pathwell. This lets Shade be right about Pathwell while still repeating Pathwell's habit of deciding what another person needs and turning them into part of his solution.
+> **D. He points her toward the question, not the action.** Something like: `He knows what he did. Ask him.` Shade clearly hopes she will confront Pathwell, but he does not tell her where to go, how to act, or what conclusion to reach. Elizabeth chooses to make the Ask hers.
 
-Audit lean: **D**. It gives Shade a coherent reason to take her, preserves his moral complexity, and makes his blind spot concrete: he condemns Pathwell for instrumentalizing people while doing a subtler version of the same thing.
+Audit lean: **D**. It preserves the strong existing `He knows what he did. Ask him.` material while keeping the crucial distinction that Shade supplies information and pressure, but Elizabeth chooses the confrontation.
