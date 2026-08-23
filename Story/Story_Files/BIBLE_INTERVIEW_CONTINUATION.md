@@ -84,42 +84,49 @@ Locked 2026-08-22:
 
 ### Chapter 1 false-importance setup — LOCKED
 
-- Pathwell is **scavenging emotionally charged material**, not seeking Elizabeth.
+- Pathwell is scavenging emotionally charged material, not seeking Elizabeth.
 - He passes as a party guest so he can snoop and take charged material he believes will not be noticed missing.
 - He finds Elizabeth's apartment slightly open and is drawn inside by the unusually strong diary/cookbook charge.
-- Shade follows Pathwell because of the draw. Elizabeth has nothing to do with Shade being there.
-- **Pathwell and Shade have effectively overlapping magical signatures.** A blob cannot cleanly distinguish them and follows that ambiguous cleanup signal to Elizabeth's apartment.
-- The blob is therefore **not there for Elizabeth**.
-- Pathwell does not know Shade exists. Seeing an unexplained blob break down Elizabeth's door makes him wrongly infer that the blob must be after her.
-- That mistaken inference makes Elizabeth a curiosity and drives Pathwell's continued interest in her.
-- The later revelation that Elizabeth was never the point is structurally essential: apparent cosmic importance is stripped away, leaving the story's real question of what she chooses anyway.
-- The old support rule where Pathwell's successful cookbook ward coats Elizabeth in blob-attracting residue is CUT.
-- **Elizabeth pulling the cookbook away after the recipe page has already been activated destabilizes that committed working.** It creates fresh unclaimed casting waste around the active page in Pathwell's hand. The blob redirects toward that fresh local mess after entering. This interruption did not cause the blob's original arrival.
+- Shade follows Pathwell because of the draw.
+- Pathwell and Shade have effectively overlapping magical signatures; a blob follows that ambiguous cleanup signal to Elizabeth's apartment.
+- Elizabeth is not why the blob arrives.
+- Pathwell wrongly interprets the blob at her door as evidence that it is after her, making her a curiosity.
+- Elizabeth interrupting the already-active cookbook working creates fresh unclaimed casting waste around Pathwell's active page, causing the blob to redirect toward the glowing working after entry.
 
 ### Climactic cleanup — LOCKED
 
 - Shade is the actual unresolved pruning-waste anomaly; Pathwell resembles the target because their signatures overlap.
-- When the blob absorbs Shade, it both removes the real waste source and collapses the Pathwell/Shade signature ambiguity.
-- The blob can then re-check Pathwell/the area, finds no remaining Shade-scale cleanup target, and leaves according to ordinary post-cleanup behavior.
-- Shade's absorption removes the anomaly; it does **not** retroactively settle the original malformed prune as a successful transaction.
+- Absorbing Shade both removes the actual anomaly and collapses the signature ambiguity.
+- The blob then checks for remaining waste and leaves.
+- Shade's absorption does not retroactively convert the malformed prune into a successfully ledgered transaction.
+
+## Section 7 — Shade creation / Pathwell's formative mistake — ACTIVE
+
+Locked 2026-08-22:
+
+- **The malformed prune that created Shade happened while Pathwell was trying to solve someone else's problem for them.**
+- This was Pathwell's normal core flaw in action: spending his own future to remove another person's difficulty and making himself the solution.
+- Shade therefore originates directly from **convenience dressed as mercy**, not from random bad luck or a uniquely heroic emergency.
+- The exact practical problem remains open.
+- How much the affected person asked for, understood, or consented to Pathwell's chosen intervention remains open.
 
 ---
 
 # EXACT RESUME POINT
 
-Move into character/story reconciliation by asking exactly one question:
+Ask exactly one follow-up question:
 
-> **What was Pathwell trying to accomplish when the prune that created Shade went wrong?**
+> **How much agency did the person Pathwell was helping have in the intervention that created Shade?**
 >
-> **A. Something trivial or personally convenient.** A normal everyday prune produces a consequence wildly larger than the thing Pathwell thought he was buying. This emphasizes how casual he had become about spending his future.
+> **A. They specifically asked Pathwell to prune for them.** They understood the method and asked him to take the cost onto himself.
 >
-> **B. Solving someone else's problem for them.** Pathwell prunes to fix an immediate problem for another person because that is what he always does: spend himself, remove the friction, and make himself necessary. Shade becomes a literal consequence of Pathwell's "convenience dressed as mercy" flaw.
+> **B. They asked Pathwell for help, but not for this solution.** Pathwell chose pruning himself because it was the fastest/easiest way he knew to fix the problem. They consented to help, not to his exact method or cost.
 >
-> **C. Saving or protecting someone in a genuine emergency.** The motive is clearly compassionate, but Pathwell still chooses pruning/control as the method. This makes Shade's origin more tragic and sympathetic but risks making the formative mistake feel unusually justified.
+> **C. They never asked for help.** Pathwell saw a problem and intervened because he believed he knew how to fix it.
 >
-> **D. Leave the original purpose unknown.** It is known that Pathwell was pruning habitually and that this one malformed, but what he was buying has been lost or never learned. The mechanics matter more than the incident.
+> **D. Leave that part unknown.** The important fact is that Pathwell took responsibility for solving the problem; whether he was asked is lost or irrelevant.
 
-Thematically, **B** fits Pathwell's already-locked flaw most directly, but the user decides.
+Thematically, **B** fits the established flaw particularly well: someone can genuinely ask for help while Pathwell still takes over the choice of what help means. The user decides.
 
 ---
 
@@ -128,6 +135,7 @@ Thematically, **B** fits Pathwell's already-locked flaw most directly, but the u
 Do not ask these all at once.
 
 ### Shade
+- Exact practical problem Pathwell was trying to solve when Shade was created, if the story needs that level of specificity.
 - How much information or memory Shade inherited from Pathwell.
 
 ### Thresholds / graffiti wall
