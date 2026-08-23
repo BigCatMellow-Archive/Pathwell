@@ -1,6 +1,6 @@
-# Pathwell Bible Interview — Continuation Handoff
+# Pathwell Bible Interview / Reconciliation — Continuation Handoff
 
-This file exists so the story-bible interview can be resumed safely in a new ChatGPT session.
+This file exists so the Pathwell Bible/reconciliation workflow can be resumed safely in a new ChatGPT session.
 
 ## Authority and prerequisite reading
 
@@ -12,187 +12,105 @@ Read, in order:
 4. `Story/Story_Files/world_bible.md`
 5. `Story/Story_Files/canon.md`
 6. `Story/Story_Files/character_bible.md`
-7. `Story/Story_Files/pathwell_conflicts_and_decisions.md` if present
+7. `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_2026-08-23.md`
 
 Newer dated locked decisions override older manuscript/support material until deliberate reconciliation.
 
-## Interview method
+## Working rules
 
-- Ask exactly **one question at a time**.
-- Give 2–4 clear options when useful.
-- The assistant may state a lean and reason but may not decide for the user.
-- Preserve nuanced combinations precisely.
-- If an answer exposes a contradiction or loophole, ask the smallest necessary follow-up.
-- Once clear, explicitly state the lock and record it in the dated decision log.
-- Do not reopen settled rules without a real contradiction or explicit user request.
+- Do not reopen settled Bible rules without a real contradiction or explicit user request.
 - Preserve iceberg lore once enough exists for the story.
 - Maintain **Write the Sequel** and **Therefore / But — Never And Then**.
-- Do not rewrite manuscript chapters automatically during the active Bible interview.
-
-## Hard constraints
-
-- Elizabeth is not secretly magical and never becomes a practitioner.
-- Anyone can perceive magic.
+- Elizabeth never becomes magical or a practitioner.
 - Pruning is currency, not reality/probability editing.
-- Emotional charge cannot be deliberately manufactured as magical ammunition.
-- Consuming charged art destroys the original.
-- Camp Cunnan archive donation transfers ownership.
-- Elizabeth voluntarily donates the diary to the Camp archive; that act is not magic.
-- The archive may voluntarily sell/trade donated material back at its discretion.
+- Emotional-text magic and pruning are separate systems.
+- Anyone can perceive magic.
+- Do not invent timelines.
+- Preserve strong existing prose wherever possible; reconcile causality/mechanics surgically rather than regenerating the manuscript wholesale.
 
 ---
 
-# INTERVIEW PROGRESS
+# BIBLE STATUS — SUFFICIENTLY LOCKED FOR RECONCILIATION
 
-## Sections 1–4 — sufficiently covered
+Known manuscript-blocking canon questions from the active interview are resolved.
 
-1. Perception of magic.
-2. Camp Cunnan and archive.
-3. Pruning.
-4. Emotionally charged records/art.
+Important late locks include:
 
-## Section 5 — Space Between — sufficiently covered
-
-- Fundamentally an archive; commerce secondary; crossroads layered onto it.
-- Custodian is a distinct supernatural being.
-- Custodian acceptance settles transactions through the deeper archive/system.
-- Threshold access and direction are threshold-specific, not practitioner-specific.
-- Ordinary and magical locations can connect.
-- Established anchors are more reliable than temporary/improvised thresholds.
-
-## Section 6 — Blobs — sufficiently covered
-
-- Blobs are known magical cleanup crews for unclaimed magical waste.
-- Pruning spillage and failed/interrupted casting waste are distinct.
-- Successful emotional-text casting is ordinarily clean.
-- Chapter 1 blob follows the overlapping Pathwell/Shade signal, not Elizabeth.
-- Elizabeth's interruption of the cookbook working creates fresh local casting waste only after the blob has already arrived.
-- Shade is the actual unresolved pruning-waste anomaly.
-- Climactic blob absorption removes Shade and collapses the Pathwell/Shade signature ambiguity; the blob then leaves after its ordinary cleanup check.
-
-## Section 7 — Shade creation — sufficiently covered
-
-- Shade forms from a malformed prune Pathwell attempted while solving someone else's problem.
-- That person asked Pathwell for help but did not ask him to prune.
-- Shade originates directly from Pathwell's `convenience dressed as mercy` flaw.
-- Shade inherits fragmentary memories/impressions at creation only; no new memories cross afterward.
-- Ongoing connection can still carry draw, signature overlap, and pruning pain without telepathy.
-
-## Section 8 — Cookbook sacrifice — LOCKED
-
-- The younger injured woman from the current manuscript receives the healing.
-- Mama Baga is not the patient.
-- Elizabeth gives up the cookbook for a relative stranger because she independently decides the suffering matters enough.
-
-## Section 9 — Chapter 1 marked-apartment claim — LOCKED
-
-- Pathwell genuinely thinks Elizabeth is connected to the danger.
-- `Your house is marked` is a **half-bluff**: he invents/exaggerates certainty to get her moving.
-- There is no literal permanent tracking mark on Elizabeth or the apartment.
-
-## Section 10 — Coda pruning — LOCKED
-
-- Pathwell remains fully capable of pruning at the end.
-- In the coda he begins a small prune far enough for the familiar signs to appear, then deliberately stops before release/acceptance.
-- The cancellation returns cleanly.
-- Meaning: **`I can do this, and I stopped.`**
-
-## Section 11 — Climax absorption/fire — sufficiently covered
-
-### Absorption attempt
-
-- Pathwell tries to collapse the separation and **absorb/reintegrate Shade into himself**.
-- Pruning is payment for that working, not the absorption effect itself.
-- Pathwell does not know whether Shade would survive consciously, cease to exist, merge into something new, or undergo some other irreversible outcome.
-- Pathwell genuinely doubts that absorbing Shade is right or that he has the authority to choose it.
-- **Shade explicitly refuses absorption.** He does not consent, resign himself to it, or hand Pathwell the choice.
-- Shade sees absorption as an easy way for Pathwell to erase the consequence he created. Shade's suffering, deeds, choices, and impact on other people are real; Pathwell cannot simply fold him back into himself and call that accountability.
-- Shade wants Pathwell to face the fact that his choices have consequences in other people and to acknowledge what he did.
-- **Pathwell hears the refusal and attempts absorption anyway.** This is the core flaw at maximum intensity: another person's stated boundary becomes secondary to Pathwell's conviction that he must solve the situation.
-- **Shade holds his ground.** He does not attack, flee, sabotage the working, or cooperate. His refusal remains clear and in force while Pathwell proceeds.
-- Shade's stillness does not cause the magical failure; it prevents Pathwell from blaming the catastrophe on resistance or interference.
-
-### Doubt rule
-
-- Ordinary fear, nerves, regret, or uncertainty do not invalidate a prune.
-- The dangerous state is **fundamental contradiction in intent**: trying to commit payment toward an outcome the practitioner does not actually commit to or believe should be carried through.
-- A trained practitioner can force possibility past the safe cancellation point anyway.
-- Once released under that contradiction, the payment cannot settle cleanly and becomes malformed **unclaimed pruning spillage**.
-- In the climax Pathwell knows he should stop but forces release anyway.
-- Shade's refusal sharpens that contradiction, but is not a separate magical cause of failure.
-- In the coda Pathwell reaches the analogous point and finally stops before release.
-
-### Archive ignition / recoil
-
-- **The malformed absorption failure erupts violently through/from Pathwell himself.** Pathwell is the physical center of the recoil.
-- The backlash is a large destructive spectacle of heat, pressure, magical force, and debris rather than a minor spark or delicate magical tear.
-- The violent recoil physically ignites the archive.
-- Once fire begins destroying the archive's dense charged collection, the destruction of those records produces the much larger supernatural/emotional catastrophe.
-- Causal chain: **forced contradictory prune → malformed post-release failure/spillage → violent Pathwell-centered recoil → ignition → mass charged-record destruction → archive-scale fallout.**
-- The exact ignition object/path and sentence-level choreography remain open for the Chapter 12b rewrite; the scale, Pathwell-centered origin, and destructive nature are locked.
-
-### Diary buyback — LOCKED
-
-- **Pathwell attempts the buyback before confronting Shade.**
-- The Camp archive agrees to sell/trade the diary back, and Pathwell pays with a **clean prune of his own future possibility**.
-- The archive is acting within its established ownership rights; Elizabeth's original donation remains valid.
-- The buyback prune settles cleanly because Pathwell is fully committed to that outcome.
-- Shade feels the prune as a jolt through their established connection shortly before the confrontation.
-- Pathwell physically possesses the diary before confronting Shade.
-- Structural escalation: **undo Elizabeth's choice → ignore Shade's refusal and decide his fate → catastrophe.**
-
-### Diary fate / Elizabeth's rescue — LOCKED
-
-- **Elizabeth gets a real opportunity to save the diary during the archive fire and chooses the child already present in the current `Chapter_12b` staging instead.**
-- She does not activate, spend, burn, or otherwise use the diary as magic.
-- Elizabeth physically prioritizes rescuing the child, a relative stranger, and the diary is destroyed by the archive fire because she leaves it behind.
-- This deliberately echoes the cookbook sacrifice: she again gives up something irreplaceable because a living stranger matters.
-- Stansbury's separate climactic turn remains intact: he still chooses to enter the burning archive, is permanently burned, and carries a scar Pathwell cannot undo.
-
-### Graffiti wall
-
-- The museum graffiti-wall threshold currently works under the already-locked threshold rules and does **not** need an additional universal mechanic unless manuscript reconciliation exposes a concrete contradiction.
-- Preserve it as threshold-specific/iceberg lore rather than over-designing it now.
-
-## Section 12 — Papa Baga — LOCKED
-
-- **Papa Baga is cut cleanly from the intended story/cast.**
-- Mama Baga remains Pathwell's sole established Camp parent/matriarch.
-- The old Papa Baga concept should not be reframed as a death, disappearance, mystery, or unseen co-parent; it is simply removed.
-- Any stale Papa Baga references are cleanup targets for reconciliation, not prompts to add scenes.
+- Space Between = archive first, commerce second, crossroads layered on.
+- Blobs = cleanup creatures for unclaimed magical waste; Elizabeth is not their true target.
+- Chapter 1 blob follows the overlapping Pathwell/Shade cleanup signal; interrupted cookbook working only explains the later lunge toward fresh casting waste.
+- Shade comes from a malformed prune Pathwell used while solving someone else's problem; the person asked for help but did not ask him to prune.
+- Shade receives creation-time fragments/impressions only; no ongoing Pathwell memory feed.
+- Cookbook recipient = younger injured woman, a relative stranger; Mama Baga is not the patient.
+- Elizabeth donates the diary to Camp archive; donation is not magic.
+- Pathwell buys the diary back before confronting Shade, paying with a clean prune of his own future possibility; Shade feels the jolt.
+- Pathwell's climax plan = absorb/reintegrate Shade into himself, with pruning as payment.
+- Shade explicitly refuses and holds his ground. He does not attack, flee, sabotage, cooperate, or hand Pathwell the decision.
+- Pathwell fundamentally doubts his right to proceed but forces the prune past the safe cancellation point anyway.
+- Malformed failure/spillage erupts violently through/from Pathwell as a bodily spectacle of heat, pressure, magical force, and debris, physically igniting the archive.
+- Archive-scale supernatural fallout occurs only after physical fire starts destroying the dense charged collection.
+- Elizabeth can save either diary or child; she chooses the child without magic. Diary burns in the ordinary archive fire.
+- Stansbury independently enters the archive, is permanently burned, says `Let it be`, and carries the scar Pathwell cannot undo.
+- Climactic blob removes Shade; Shade's final beat remains eye contact → draw stops → relief → no confession. Blob then performs local cleanup/check and leaves.
+- Pathwell remains capable of pruning in the coda. He begins a small prune, sees the familiar signs, and deliberately stops before release/acceptance: **`I can do this, and I stopped.`**
+- Papa Baga is cut cleanly from canon. Mama Baga is Pathwell's sole established Camp parent/matriarch.
+- Graffiti-wall threshold mechanics remain threshold-specific iceberg lore unless a concrete contradiction appears during editing.
 
 ---
 
-# BIBLE INTERVIEW STATUS
+# MANUSCRIPT AUDIT STATUS — COMPLETE
 
-The active Bible interview has now resolved the known story-blocking questions in the handoff. Remaining unspecified details are intentional scene choreography or iceberg lore rather than missing canon.
+The user selected **audit first, no manuscript edits yet**.
 
-Do **not** begin rewriting manuscript chapters without explicit user instruction. The next step is a workflow choice, not another canon decision.
+A complete chapter-by-chapter reconciliation audit is now stored at:
+
+`Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_2026-08-23.md`
+
+The audit covers every current file in `Story/Chapters/`, identifies required changes, dependency order, object continuity, stale mechanics, timing/transition issues, and strong passages to preserve.
+
+**No manuscript chapter has been edited as part of the audit.**
+
+Highest-impact findings:
+
+1. Normalize diary/cookbook object identity and possession before prose rewrites.
+2. Remove stale charred/missing diary-page continuity from Chapters 2/3/12b unless separately justified; Chapter 1's consumed page is the cookbook page.
+3. Chapter 2's impossible neighborhood replacement needs a threshold explanation or removal; it currently reads as reality rewriting.
+4. Chapter 4's successful-healing residue cannot automatically attract blobs.
+5. Chapter 6 mirror needs the locked infinite/wrong-angle/cost-from-inside fracture.
+6. Chapter 7 cannot target Elizabeth as chosen blob prey.
+7. Chapter 8 currently reveals `Mr. Shade` too early and must be rebuilt with Chapter 9 so the diner performs the locked identity/never-the-point reveal.
+8. Chapter 10 uses the obsolete `pruned ahead / cut away futures` Shade origin and has a timing issue plus the Camp→museum transition gap.
+9. Chapter 11 needs clearer blocking and a stronger Elizabeth-owned rejection of both men's framings.
+10. Chapter 12 is missing the diary donation and uses obsolete `cut me loose / it kills me` mechanics.
+11. Chapter 12b is the core rebuild around the newly locked climax sequence.
+12. Coda must show pruning ability working and Pathwell voluntarily stopping; emotional-text charge cannot power a prune.
+
+Recommended dependency-controlled edit order from the audit:
+
+1. object ledger
+2. Chapters 1–4
+3. Chapters 5–7
+4. Chapters 8–10 as one reveal unit
+5. Chapter 10→11 transition + Chapter 11
+6. Chapter 12
+7. Chapter 12b
+8. Coda
+9. whole-book continuity sweep
+
+---
 
 # EXACT RESUME POINT
 
-Ask exactly one question:
+The audit is complete and no manuscript edits have begun.
 
-> **How do you want to move into manuscript reconciliation?**
+Ask exactly one workflow question:
+
+> **What should happen next?**
 >
-> **A. Begin the full manuscript reconciliation/edit pass.** Read the manuscript in order, repair contradictions against the locked Bible, preserve strong existing prose where possible, and update chapters deliberately rather than regenerating the book wholesale.
+> **A. Begin manuscript reconciliation using the audit's dependency order.** Start with the object ledger and Chapters 1–4, preserving strong prose and editing the actual chapter files deliberately.
 >
-> **B. Audit first, no manuscript edits yet.** Produce a chapter-by-chapter reconciliation plan listing every known contradiction, continuity problem, required change, and strong passage to preserve. Make no chapter edits until the user approves moving forward.
+> **B. Review/refine the audit before any manuscript edits.** Discuss any finding, severity rating, preserved passage, or recommended change the user wants to challenge or adjust.
 >
-> **C. Stay in Bible/design mode.** Do not touch the manuscript yet; continue exploring additional world, character, or sequel questions only when the user names an area.
+> **C. Stay in Bible/design mode.** Leave manuscript untouched and explore another world/character/story question named by the user.
 
-Current lean: **B** before editing. The Bible has changed substantially, especially around Chapter 12b and the coda. A complete audit first creates a controlled rewrite map and reduces the chance of fixing one scene while creating a new contradiction elsewhere. The user decides.
-
----
-
-## Required reconciliation targets already known
-
-- Chapter 2–3 diary/cookbook possession continuity.
-- Camp healing scene: younger injured woman is the cookbook recipient; Mama Baga is not.
-- Chapter 10 Camp destination → Chapter 11 museum transition.
-- Chapter 7 blob targeting/signature logic.
-- Museum material should respect locked threshold mechanics without unnecessary graffiti-wall exposition.
-- Climax rewrite: Pathwell buys back the diary with a clean prune; Shade feels the jolt; Shade refuses absorption and holds his ground; Pathwell forces the contradictory prune; violent Pathwell-centered recoil ignites archive; Elizabeth never uses diary magic; she chooses child over diary; Stansbury independently enters archive and is permanently burned; blob removes Shade then performs local cleanup check and leaves.
-- Diary is destroyed by ordinary archive fire after Elizabeth chooses the child.
-- Coda rewrite: Pathwell remains capable of pruning and voluntarily stops before release/acceptance.
-- Remove stale Papa Baga references rather than developing them.
+Do not edit manuscript chapters until the user selects A or otherwise explicitly asks for chapter edits.
