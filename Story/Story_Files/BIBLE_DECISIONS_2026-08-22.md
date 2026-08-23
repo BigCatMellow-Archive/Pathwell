@@ -44,7 +44,7 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 
 - **The Space Between can connect to ordinary places as well as magical locations.** A destination does not have to be intrinsically supernatural to serve as a threshold endpoint.
 - **Established anchors are much more reliable than temporary or improvised thresholds.** Old, maintained, or deliberately stabilized connections are dependable by comparison.
-- Temporary or improvised thresholds can still connect ordinary or unusual locations, but they are less stable and more prone to failure, drift, altered conditions, or loss.
+- Temporary or improvised thresholds can still connect ordinary or unusual places, but they are less stable and more prone to failure, drift, altered conditions, or loss.
 - The crossroads therefore has broad potential reach without functioning as effortless universal fast travel.
 
 ### Still open
@@ -153,3 +153,11 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - The mistake is therefore not that Pathwell helped someone who wanted to be left alone. It is that he converted **"help me" into "I will decide what solving this means."**
 - This reinforces his broader tendency to take ownership of other people's problems and choices while believing that taking the burden onto himself makes the intervention merciful.
 - The exact practical problem Pathwell was trying to solve remains open unless the story later needs it.
+
+### Shade's inherited memory — LOCKED
+
+- **Shade inherits fragments and impressions from Pathwell rather than a coherent copy of Pathwell's life.**
+- These can include disconnected memories, emotional associations, instincts, habits, flashes of people or places, and pieces of knowledge that Shade may possess without understanding why he knows them.
+- Shade does **not** begin with Pathwell's full autobiography or a stable first-person memory of having lived Pathwell's life.
+- The inherited material does not erase Shade's independent personhood. His own experiences, judgments, emotions, and choices accumulate separately after his formation.
+- Whether new memories or impressions continue to leak from Pathwell after Shade's creation remains open until explicitly decided.
