@@ -195,3 +195,12 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - The current coda beat in which Pathwell attempts a small prune and literally gets no response — `No branch-light. No pressure. No clean little subtraction from the future.` — is mechanically stale and must be revised during manuscript reconciliation.
 - Pathwell may still feel relief in the coda, but that relief should come from discovering that he can choose not to prune, or can stop himself before paying the cost, rather than from learning that pruning has become impossible.
 - This preserves the controlling idea: agency matters because the alternative remains available and a person chooses anyway.
+
+### Coda demonstration — LOCKED
+
+- **Pathwell begins the prune and deliberately stops it before release/acceptance.**
+- The familiar signs of pruning begin, clearly demonstrating that his ability still works.
+- Pathwell then chooses to cancel before future possibility is actually released into the transaction or working.
+- Because the cancellation occurs before release/acceptance, it uses the already-locked rule that an early pruning cancellation can return cleanly; the possibility is not spent.
+- The coda's relief beat therefore changes meaning from **"I cannot do this anymore"** to **"I can do this, and I stopped."**
+- This should be the intended replacement when the coda is eventually reconciled, but the manuscript is not being rewritten during the active Bible interview.
