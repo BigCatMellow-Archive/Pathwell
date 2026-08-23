@@ -72,25 +72,21 @@ Locked 2026-08-22:
 
 Locked 2026-08-22:
 
-- Blobs are known magical cleanup crews, usually unpleasant but mostly harmless.
-- They consume **unclaimed magical waste**.
-- Pruning spillage is one kind of waste.
-- Failed, interrupted, or uncontrolled magical workings can also leave **unclaimed casting waste**.
-- Successful emotional-text casting is ordinarily clean and does not attract blobs.
-- Unclaimed casting waste, pruning spillage, and lingering emotional residue are distinct systems/materials.
-- Blob response timing depends on signal strength and accessibility; small spills may dissipate before cleanup arrives.
-- After cleaning, a blob briefly searches nearby for more waste and then leaves on its own if none remains.
-- Blobs target waste, not people as prey.
-- In Chapter 1 the blob follows the effectively overlapping Pathwell/Shade signature, not Elizabeth.
-- Elizabeth interrupting the already-active cookbook working creates fresh local casting waste that redirects the blob after entry.
-- In the climax Shade is the actual unresolved pruning-waste anomaly; absorbing him removes the waste and collapses the signature ambiguity, after which the blob leaves.
+- Blobs are known magical cleanup crews that consume unclaimed magical waste.
+- Pruning spillage and failed/interrupted casting waste are distinct forms of cleanup material.
+- Successful emotional-text casting is ordinarily clean.
+- Response depends on signal strength and accessibility.
+- After cleanup a blob briefly searches nearby and leaves if nothing remains.
+- Chapter 1 blob follows the overlapping Pathwell/Shade signature, not Elizabeth.
+- Elizabeth interrupting the active cookbook working creates fresh local casting waste that redirects the blob after entry.
+- Climactically, absorbing Shade removes the real unresolved anomaly and collapses the Pathwell/Shade signature ambiguity; the blob then leaves.
 
 ## Section 7 — Shade creation / Pathwell's formative mistake — sufficiently covered for now
 
 Locked 2026-08-22:
 
 - Shade forms from a malformed prune Pathwell attempted while solving someone else's problem for them.
-- The person asked Pathwell for help but did not ask him to prune; Pathwell independently chose the method.
+- The person asked Pathwell for help but did not ask him to prune; Pathwell chose that method himself.
 - This directly expresses Pathwell's flaw: convenience dressed as mercy.
 - Shade inherits fragmentary memories/impressions from Pathwell rather than a coherent copied life.
 - The inheritance happens only at Shade's creation. No new memories or present-day information cross afterward.
@@ -99,29 +95,37 @@ Locked 2026-08-22:
 
 ## Section 8 — Camp cookbook sacrifice — LOCKED
 
-- **The younger injured woman from the current manuscript receives the healing purchased with Elizabeth's grandmother's cookbook. Mama Baga is not the patient.**
+- The younger injured woman from the current manuscript receives the healing purchased with Elizabeth's grandmother's cookbook. Mama Baga is not the patient.
 - The woman is a relative stranger to Elizabeth.
 - Elizabeth gives up the irreplaceable cookbook because she sees another person suffering and independently decides the cost is worth paying.
-- This keeps the sacrifice centered on Elizabeth's own agency and values rather than on helping someone because of their relationship to Pathwell.
-- The patient's deeper biography does not need expansion unless the story requires it.
+
+## Section 9 — Chapter 1 "marked apartment" claim — LOCKED
+
+- Pathwell sincerely believes Elizabeth is connected to the danger.
+- His statement that her apartment is `marked, magically speaking` is a **half-bluff**: he does not actually know that the apartment carries a magical mark.
+- He invents/exaggerates the certainty because he wants Elizabeth moving immediately and treats explanation, uncertainty, and consent as friction.
+- No permanent blob-tracking mark on Elizabeth or the apartment is established.
+- The later wet thud down the hall accidentally makes his claim look correct, though the continuing cleanup activity is tied to the Pathwell/Shade situation.
 
 ---
 
 # EXACT RESUME POINT
 
-The current Chapter 1 manuscript says Pathwell tells Elizabeth: `your house has now been marked, magically speaking`, repeats the marked claim, and then another wet thud sounds down the hall.
+The current coda has Pathwell try to perform a small prune and find that nothing happens: `No branch-light. No pressure. No clean little subtraction from the future.` He then feels relief rather than anger.
 
 Ask exactly one question:
 
-> **What does Pathwell's claim that Elizabeth's apartment is "marked" actually mean?**
+> **At the end of the story, is Pathwell still mechanically capable of pruning?**
 >
-> **A. He is deliberately bluffing/manipulating her.** Pathwell wants Elizabeth to come with him because she has become a curiosity, so he invents or exaggerates the "marked" danger to get her moving. The later wet thud is another blob following the real Pathwell/Shade signal and accidentally makes his bluff look correct.
+> **A. Yes. He can still prune; he chooses not to.** The current failed-attempt staging would need revision. His growth is entirely a choice: the power remains available, but he stops treating his future as convenient currency.
 >
-> **B. Pathwell sincerely believes the apartment/Elizabeth has been marked, but he is wrong.** Because he already misread the blob as being after Elizabeth, he assumes the encounter has made her location an ongoing danger. The later wet thud is another cleanup response to the Pathwell/Shade signal, reinforcing his mistaken theory. "Marked" is Pathwell's incorrect diagnosis, not a real magical tracking mechanic.
+> **B. No. Shade's resolution permanently removes Pathwell's ability to prune.** The current coda can remain mechanically literal. Pathwell's relief is accepting something he initially experiences as loss.
 >
-> **C. There is a temporary real mark: fresh unclaimed casting waste.** The interrupted cookbook working leaves the apartment locally attractive to cleanup creatures until the waste is consumed or dissipates. Pathwell is technically right that staying there is unsafe for a short time, but the mark is not on Elizabeth and does not persist. This makes "marked" loose shorthand rather than a special tracking system.
+> **C. Temporarily unavailable, not permanently gone.** The climax leaves Pathwell unable to prune for now, but whether the ability returns is unknown. His coda relief is still meaningful, but the story does not prove he would refuse pruning if it came back.
+>
+> **D. He remains capable, but the first attempt fails for a situational reason unrelated to personal growth.** He then deliberately chooses another way. This preserves the beat of a failed attempt while keeping the eventual choice voluntary, but it needs a clear reason the specific prune could not settle.
 
-Do not reintroduce a permanent blob-tracking mark on Elizabeth or her apartment. **B** most strongly preserves the established Chapter 1 engine that every observation is real while Pathwell's interpretation points in the wrong direction, but the user decides.
+The strongest thematic fit is probably **A**: the book's controlling idea places weight on choosing despite uncertainty, so Pathwell losing the ability automatically risks letting magic make his moral decision for him. But the user decides.
 
 ---
 
@@ -134,7 +138,6 @@ Do not ask these all at once.
 - Whether the museum graffiti wall is a durable Camp anchor, beacon, or simply a charged meaningful location.
 
 ### Character/story reconciliation
-- Whether Pathwell remains mechanically capable of pruning in the coda or simply chooses not to.
 - Exact climax sequence connecting diary buyback, pruning failure/force, and archive fire.
 - Papa Baga: develop or cut.
 
