@@ -121,6 +121,17 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 9. Midpoint crash as chosen awakening — LOCKED
+
+- **Elizabeth deliberately causes the midpoint crash.** The crash itself is the chosen rupture, not an accidental consequence of trying to pull over or merely startle the brothers into silence.
+- She is not choosing a specific injury, exact impact, or severity and is not making a calculated attempt to kill or maim Pathwell or Stansbury. What she chooses is the crash as a physical refusal to keep carrying them while they talk over her and order her around.
+- This beat is deliberately structural and symbolic. The opening establishes: **`It was the crash that woke her.`** At the beginning, an external crash wakes Elizabeth into the story. At midpoint, **Elizabeth causes the crash that wakes her by choice.**
+- The midpoint therefore marks a transition from being acted upon to acting, even when action has consequences. It is not simply anger, recklessness, or a transportation mishap.
+- The crash should feel like an awakening rather than a triumphant empowerment beat. Her choice is real, dangerous, consequential, and imperfect; that is part of the book's argument that agency matters because the choice is hers, not because every freely chosen action produces a good outcome.
+- The scene should not over-explain the opening echo in narration. Preserve the structural rhyme and let the reader feel it.
+
+---
+
 ## Next refinement question
 
-Decide Elizabeth's exact intent when she turns the wheel at the midpoint: whether she specifically means to cause a crash, means only to break the brothers' control of the moment, or acts without choosing the exact consequence.
+Decide how Shade gets Elizabeth away from the crash while preserving the diner as the moment she finally recognizes that the man with her is not Pathwell. The current Chapter 8 reveals `Mr. Shade` immediately and therefore spends the recognition too early.
