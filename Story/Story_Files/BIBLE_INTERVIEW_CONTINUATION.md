@@ -67,6 +67,7 @@ Important late locks:
 - **Shade's diner motive:** Shade genuinely believes Elizabeth deserves the truth, but he also uses that truth and her likely reaction as pressure on Pathwell. He partly frames this to himself as helping her, while repeating a subtler version of Pathwell's habit of instrumentalizing other people.
 - **Shade points toward the Ask, not the action:** preserve/adapt `He knows what he did. Ask him.` Shade hopes Elizabeth will confront Pathwell, but Elizabeth chooses whether and how to do so.
 - **The Ask begins with jargon:** Pathwell first says `I pruned ahead`; Elizabeth rejects that as insufficient. He then has to say plainly that the person asked for help but did not ask for pruning, Pathwell chose pruning as the quickest/cleanest solution, paid with his own future possibility, and the malformed result became Shade.
+- **The Ask stops at causation:** Pathwell admits his prune caused Shade, but he frames Shade as an unprecedented/unforeseeable magical accident rather than accepting the deeper moral responsibility. He does not yet reach `It was my fault`.
 
 ---
 
@@ -93,6 +94,7 @@ Important late locks:
 - **Shade's diner motive:** he genuinely believes Elizabeth deserves the truth, but also hopes her reaction will force Pathwell to face what he has done. Elizabeth does not simply become Shade's ally or instrument.
 - **Shade points toward the Ask, not the action:** preserve/adapt `He knows what he did. Ask him.` Elizabeth makes the confrontation her own.
 - **The Ask / jargon correction:** preserve Pathwell's `I pruned ahead` evasion and Elizabeth's `That isn't an answer.` Pathwell then must explain plainly that the original person asked for help but not pruning, Pathwell chose pruning himself, paid with his own future possibility, and the malformed consequence became Shade. Remove stale language implying he pruned someone else's possibilities.
+- **The Ask / incomplete accountability:** Pathwell admits his prune caused Shade but interprets Shade chiefly as an unforeseeable magical accident. He has not yet recognized his nonconsensual shortcut/control habit as the central moral failure and does not say `It was my fault.` The coda retains that progression from causation to responsibility.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -127,14 +129,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **After Pathwell finally gives Elizabeth the plain facts about creating Shade, how far does he get toward actual accountability in this scene?**
+> **How does Elizabeth respond when Pathwell gives her the facts but frames Shade as an unforeseeable magical accident rather than fully accepting responsibility?**
 >
-> **A. Full accountability now.** Pathwell plainly says `It was my fault`, admits the shortcut was wrong, and apologizes without qualification. This is emotionally clean but risks completing his arc before the climax.
+> **A. She names the missing responsibility directly.** Something concise like: `But you still chose it.` She does not need to win an argument; she simply refuses to let `unforeseeable` erase the choice Pathwell did control.
 >
-> **B. He admits the facts but immediately rationalizes them.** He says he made the choice, then emphasizes that pruning worked before, he paid the cost himself, and he was trying to help. Elizabeth gets truth, but little real ownership.
+> **B. She asks whether he would do it again.** This tests whether Pathwell has learned anything without telling him the answer. His inability to answer cleanly can foreshadow the climax.
 >
-> **C. He admits causation but not moral responsibility.** He accepts that his prune created Shade while insisting the malformed result was unforeseeable, keeping the focus on magical accident rather than his decision.
+> **C. She does not rebut him.** She recognizes that he has given her facts but not accountability, lets the silence stand, and makes her next choice without trying to educate him.
 >
-> **D. He gets partway there.** Pathwell admits **he chose the shortcut, the other person did not consent to pruning, and Shade exists because of that choice**. But he still cannot reduce it to the simple moral sentence `It was my fault`; some self-justification remains. That unfinished accountability is why the climax can still repeat the same flaw, while the coda's eventual `It was my fault` retains weight.
+> **D. Stansbury challenges Pathwell instead.** Elizabeth gets the truth, while the brothers argue over what it means. This risks pulling the scene away from Elizabeth immediately after her Ask.
 
-Audit lean: **D**. It gives Elizabeth a real answer without falsely suggesting Pathwell has already learned the lesson he is about to fail again.
+Audit lean: **A**. A short `But you still chose it` cleanly identifies the moral gap without completing Pathwell's growth for him.
