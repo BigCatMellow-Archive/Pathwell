@@ -13,8 +13,9 @@ Read, in order:
 5. `Story/Story_Files/canon.md`
 6. `Story/Story_Files/character_bible.md`
 7. `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_2026-08-23.md`
+8. `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
 
-Newer dated locked decisions override older manuscript/support material until deliberate reconciliation.
+Newer dated locked decisions and user-approved audit refinements override older manuscript/support material until deliberate reconciliation.
 
 ## Working rules
 
@@ -58,28 +59,24 @@ Important late locks:
 
 ---
 
+# AUDIT REFINEMENTS LOCKED
+
+- Nana's cookbook is a **genuinely handwritten family recipe book**, not *The Joy of Cooking*.
+- The coda object is **another family's handwritten cookbook**. Pathwell considers buying it as a substitute, begins a prune, then chooses to stop.
+- Preserve/adapt `That isn't mine.` / `No.` / `Good.` as a rejection of treating family histories as interchangeable.
+- Elizabeth's separate printed *Joy of Cooking* is **cut entirely** from the intended manuscript.
+- The meaningful Elizabeth-family object ledger is therefore:
+  1. Nana's handwritten cookbook — surrendered at Camp.
+  2. Elizabeth's diary — donated to archive, bought back by Pathwell, then lost when Elizabeth chooses the child.
+
+Full refinement notes live in:
+`Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
+
+---
+
 # MANUSCRIPT AUDIT STATUS — COMPLETE
 
-The complete audit is stored at:
-
-`Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_2026-08-23.md`
-
 No manuscript chapter has been edited.
-
-Highest-impact findings currently under review:
-
-1. Normalize diary/cookbook object identity and possession before prose rewrites.
-2. Remove stale charred/missing diary-page continuity from Chapters 2/3/12b unless separately justified.
-3. Chapter 2's impossible neighborhood replacement needs a threshold explanation or removal.
-4. Chapter 4's successful-healing residue cannot automatically attract blobs.
-5. Chapter 6 mirror needs the locked infinite/wrong-angle/cost-from-inside fracture.
-6. Chapter 7 cannot target Elizabeth as chosen blob prey.
-7. Chapter 8 reveals `Mr. Shade` too early and must be rebuilt with Chapter 9 so the diner performs the locked identity/never-the-point reveal.
-8. Chapter 10 uses the obsolete `pruned ahead / cut away futures` Shade origin and has a Camp→museum transition gap.
-9. Chapter 11 needs clearer blocking and a stronger Elizabeth-owned rejection of both men's framings.
-10. Chapter 12 is missing the diary donation and uses obsolete `cut me loose / it kills me` mechanics.
-11. Chapter 12b is the core rebuild around the newly locked climax sequence.
-12. Coda must show pruning ability working and Pathwell voluntarily stopping; emotional-text charge cannot power a prune.
 
 Recommended dependency order remains:
 
@@ -103,12 +100,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 # EXACT RESUME POINT
 
-Ask exactly one question about the foundational object-ledger ambiguity:
+Ask exactly one question:
 
-> **Are Nana's family cookbook and Elizabeth's old copy of *The Joy of Cooking* the same physical book?**
+> **What should happen to the diary's current charred edges / missing-page description?**
 >
-> **A. Yes — one book.** Nana's family copy is an old, heavily annotated *Joy of Cooking*. This gives the cookbook one clean identity from Chapter 1 through the Camp surrender and lets the coda's replacement *Joy of Cooking* echo it directly.
+> **A. Remove it entirely.** The diary is intact until the archive fire; the charred/missing-page material is stale residue from the abandoned diary-as-magic draft.
 >
-> **B. No — two books.** Nana's handwritten/annotated family cookbook is one object, while Elizabeth also owns a separate old *Joy of Cooking*. If so, the manuscript must track both distinctly and decide what happens to the second book after Chapter 3.
+> **B. Keep the physical damage, but establish a separate ordinary cause.** For example, old water/fire/storage damage predating the story. It would be purely personal texture, not evidence of magic.
+>
+> **C. Keep only ordinary age/wear, not a missing page.** The diary can be battered, warped, stained, or worn without creating a false magical-history clue.
 
-Current audit lean: **A**, because it simplifies possession continuity and strengthens the coda echo, but this has not been locked by the user yet.
+Audit lean: **A** unless the damage has a character purpose worth preserving.
