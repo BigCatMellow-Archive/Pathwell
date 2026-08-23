@@ -80,7 +80,7 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 ### Response timing — LOCKED
 
 - **Blob response time depends on both signal strength and accessibility.** There is no universal fixed delay and no numerical trigger threshold.
-- Larger concentrations of unclaimed magical waste create stronger signals and are easier for blobs to detect, generally producing a faster or more reliable cleanup response.
+- Larger concentrations of unclaimed magical waste create stronger signals and are easier for blobs to detect, generally producing a faster or more reliable response.
 - Accessibility also matters. A spill in a location that is difficult for blobs to reach can produce a slower response even when the signal is strong.
 - Small spills may dissipate on their own before any blob reaches them.
 - This is why practitioners can know blobs as ordinary cleanup phenomena without every minor magical failure producing an encounter.
@@ -162,3 +162,15 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - The inherited material does not erase Shade's independent personhood. His own experiences, judgments, emotions, and choices accumulate separately after his formation.
 - **The inheritance is a one-time consequence of Shade's creation. No new Pathwell memories, experiences, or present-day knowledge cross into Shade afterward.**
 - Their continuing magical connection can still transmit the draw, signature resonance/overlap, and the pain or jolt caused by Pathwell's pruning without functioning as telepathy or an ongoing information channel.
+
+---
+
+## 5. Camp cookbook sacrifice
+
+### Healing recipient — LOCKED
+
+- **The younger injured woman from the current manuscript receives the healing that costs Elizabeth her grandmother's cookbook. Mama Baga is not the patient.**
+- The woman is a relative stranger to Elizabeth rather than someone important because of a pre-existing tie to Pathwell.
+- Elizabeth therefore gives up an irreplaceable family object because she can see another person suffering and independently decides that helping her is worth the cost.
+- This keeps the sacrifice centered on Elizabeth's own developing agency and values rather than making it primarily an act performed for Pathwell or Pathwell's family.
+- The younger woman's deeper biography does not need expansion unless the story later requires it; her narrative importance in this beat comes from being a person Elizabeth chooses to help.
