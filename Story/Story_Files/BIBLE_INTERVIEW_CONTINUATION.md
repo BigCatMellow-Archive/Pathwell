@@ -124,13 +124,17 @@ Newer dated locked decisions override older manuscript/support material until de
 - Causal chain: **forced contradictory prune → malformed post-release failure/spillage → physical magical recoil → ignition → mass charged-record destruction → archive-scale fallout.**
 - The recoil should have **more flourish** than a mundane spark/generic burst of heat. Exact visual manifestation remains open for later scene staging.
 
-### Diary buyback — LOCKED IN STRUCTURE AND RESULT
+### Diary buyback — LOCKED
 
 - **Pathwell attempts the buyback before confronting Shade.**
 - The Camp archive **agrees to sell/trade the diary back for a legitimate price**, and the transaction succeeds.
 - The archive is acting within its established ownership rights; Elizabeth's original donation remains valid.
 - Pathwell does not steal the diary or override the archive. He uses a legitimate transaction to undo the practical result of Elizabeth's deliberate surrender.
 - This is the character problem: he treats a balanced transaction as sufficient moral permission to manage someone else's choice.
+- **Pathwell pays with a clean prune of his own future possibility.** Camp ordinarily discourages pruning but accepts it here as the negotiated price.
+- The buyback prune settles cleanly because Pathwell is fully committed to that outcome and has no fundamental contradiction about doing it.
+- Shade feels the prune as a jolt through their established connection shortly before the confrontation.
+- This creates the direct contrast: **Pathwell can confidently prune to undo Elizabeth's choice; then he forces a prune toward Shade despite no longer believing he has the right to impose that outcome.**
 - Pathwell physically possesses the diary before confronting Shade.
 - Structural escalation: **undo Elizabeth's choice → decide Shade's fate → catastrophe.**
 
@@ -140,17 +144,17 @@ Newer dated locked decisions override older manuscript/support material until de
 
 Ask exactly one question:
 
-> **What does Pathwell pay the Camp archive to buy Elizabeth's diary back?**
+> **What ultimately happens to Elizabeth's diary during the archive catastrophe?**
 >
-> **A. A clean prune of his own future possibility.** Camp normally discourages pruning but accepts it here as the negotiated price. Pathwell performs this prune without the fundamental contradiction that later ruins the absorption attempt, so it settles cleanly. Because Pathwell's pruning sends a jolt through Shade, Shade feels this transaction shortly before their confrontation. This creates a sharp contrast: Pathwell can confidently prune to undo Elizabeth's choice, then cannot honestly commit to deciding Shade's fate.
+> **A. It survives the fire in Pathwell's possession.** The object remains physically available afterward, forcing a later decision about whether Pathwell offers it back, Elizabeth accepts/refuses it, or it is returned to the archive. This preserves the object but requires another disposition beat.
 >
-> **B. Another genuinely valuable charged object or small collection from Pathwell's own stock.** The price is real and costly but keeps pruning out of the buyback scene, leaving the failed absorption as the only climactic prune.
+> **B. It is destroyed accidentally in the archive fire.** Pathwell bought it back because he believed preserving/returning it was the right thing to do, but the catastrophe he causes destroys it anyway. Elizabeth does not activate it or use it as magic.
 >
-> **C. A substantial service/favor/debt owed to the archive or Camp.** The transaction is legitimate but the payment becomes an obligation Pathwell must later honor. This can support sequel material but risks adding plot bookkeeping.
+> **C. Elizabeth has an opportunity to save the diary during the fire and deliberately chooses a person or another urgent human need instead.** The diary is then destroyed as a consequence of that prioritization. This makes its loss an agency beat without turning the diary into a spell or a ceremonial `burn the past` gesture.
 >
-> **D. A mixed mundane/magical price that is meaningful but not individually important.** The story establishes that the archive demanded real value without making the exact object/payment a major beat.
+> **D. The diary survives, but Elizabeth refuses to take it back afterward.** Pathwell succeeds in preserving the object but fails to reverse the choice that mattered; Elizabeth's surrender remains hers despite his attempted workaround.
 
-**A** currently offers the strongest thematic and mechanical contrast if the story can tolerate another prune immediately before the confrontation: a clean, confident prune used to reverse Elizabeth's decision, followed by a malformed prune Pathwell forces through despite knowing he should stop. It also makes Shade's established pruning-pain connection matter immediately before the climax. The user decides.
+**C** currently offers the strongest thematic payoff if the climax can stage it naturally: Elizabeth already let the diary go once. When Pathwell makes it important again, she does not need to destroy it dramatically; she simply chooses a living person over the object, and the fire takes care of the rest. The user decides.
 
 ---
 
@@ -158,8 +162,7 @@ Ask exactly one question:
 
 Do not ask all at once.
 
-- Determine the diary's exact physical fate during/after the archive catastrophe.
-- Rebuild Elizabeth's non-magical physical action during the archive fire.
+- Rebuild Elizabeth's exact non-magical physical action during the archive fire; if C is chosen above, identify who/what she chooses instead of the diary.
 - Clarify Shade's stance/consent toward Pathwell's attempted reintegration if the final staging requires it.
 - Decide graffiti wall exact mechanical role only if needed.
 - Papa Baga: develop or cut.
@@ -170,5 +173,5 @@ Final reconciliation must include:
 - Camp healing scene with younger injured woman.
 - Chapter 10 Camp destination → Chapter 11 museum transition.
 - Chapter 7 blob targeting.
-- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership and successful buyback.
+- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, and final diary fate.
 - Coda rewrite: Pathwell can prune and voluntarily stops.
