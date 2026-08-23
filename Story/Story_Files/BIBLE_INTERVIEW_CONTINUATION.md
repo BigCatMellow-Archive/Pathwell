@@ -69,6 +69,7 @@ Important late locks:
 - **The Ask begins with jargon:** Pathwell first says `I pruned ahead`; Elizabeth rejects that as insufficient. He then has to say plainly that the person asked for help but did not ask for pruning, Pathwell chose pruning as the quickest/cleanest solution, paid with his own future possibility, and the malformed result became Shade.
 - **The Ask stops at causation:** Pathwell admits his prune caused Shade, but he frames Shade as an unprecedented/unforeseeable magical accident rather than accepting the deeper moral responsibility. He does not yet reach `It was my fault`.
 - **Elizabeth names the missing choice:** she does not claim Pathwell should have foreseen Shade. She answers the accident framing with the narrower point: `But you still chose it.` Unpredictability does not erase agency.
+- **Pathwell's answer to that challenge:** `Yes.` He cannot deny the choice was his, but this remains factual acknowledgment rather than coda-level responsibility.
 
 ---
 
@@ -97,6 +98,7 @@ Important late locks:
 - **The Ask / jargon correction:** preserve Pathwell's `I pruned ahead` evasion and Elizabeth's `That isn't an answer.` Pathwell then must explain plainly that the original person asked for help but not pruning, Pathwell chose pruning himself, paid with his own future possibility, and the malformed consequence became Shade. Remove stale language implying he pruned someone else's possibilities.
 - **The Ask / incomplete accountability:** Pathwell admits his prune caused Shade but interprets Shade chiefly as an unforeseeable magical accident. He has not yet recognized his nonconsensual shortcut/control habit as the central moral failure and does not say `It was my fault.` The coda retains that progression from causation to responsibility.
 - **Elizabeth's answer to the accident framing:** `But you still chose it.` She does not demand clairvoyance from Pathwell; she distinguishes unforeseen consequences from the decision he actually made and controlled.
+- **Pathwell's immediate response:** `Yes.` He acknowledges the decision without arguing, but has not yet internalized its moral meaning strongly enough to avoid repeating the control failure later.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -131,14 +133,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **What does Pathwell do immediately after Elizabeth says, in effect, `But you still chose it`?**
+> **What directly sends Elizabeth, Pathwell, and Stansbury from the Chapter 10 Ask to the museum/graffiti-wall sequence?**
 >
-> **A. He argues the distinction.** He insists he chose a familiar technique, not Shade, and returns to the unforeseeability defense. This makes his resistance explicit but risks making the Ask feel circular.
+> **A. Shade gives Elizabeth the location before leaving the diner.** He does not order her to come or tell Pathwell; he simply makes clear where he will be if Pathwell wants to face him. After the Ask, **Elizabeth chooses to tell Pathwell and Stansbury and chooses to go**, making her the causal bridge into Chapter 11.
 >
-> **B. He simply says `Yes.`** He cannot yet say `It was my fault`, but he also cannot honestly deny her point. The answer registers the challenge without completing his growth.
+> **B. Pathwell independently predicts the museum.** The graffiti wall is a known charged threshold/location relevant to Pathwell, and after the Ask he realizes Shade is likely to go there. This keeps Elizabeth out of the logistics but risks giving Pathwell another convenient expert deduction.
 >
-> **C. He says `I chose the method. I didn't choose this.`** He concedes the literal choice while still separating himself from its consequence. This sharply preserves his incomplete accountability but is more defensive than silent recognition.
+> **C. Shade leaves a direct breadcrumb for Pathwell.** A message, mark, or other deliberate clue sends the group to the museum after the Ask. This gives Shade strong control over the confrontation.
 >
-> **D. He has no answer.** Elizabeth's sentence lands; Pathwell goes quiet and the scene moves on. His later behavior, rather than another argument, shows that he has not fully understood it.
+> **D. They actually reach Camp first.** Something at Camp — a report, sign, or evidence that Shade passed through — redirects them to the museum. This preserves Chapter 10's current `Camp` destination but adds another transition beat before Chapter 11.
 
-Audit lean: **B**. A bare `Yes` gives Elizabeth the point without rewarding Pathwell with premature insight. He can recognize the fact and still fail to understand its full moral meaning until after the climax.
+Audit lean: **A**. It creates the missing Therefore/But link without inventing magical tracking or an omniscient Camp clue, and it keeps Elizabeth's post-crash agency active: Shade provides a possibility, but **Elizabeth decides to take it and bring the brothers there**.
