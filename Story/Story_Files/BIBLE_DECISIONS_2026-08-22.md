@@ -183,3 +183,15 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - Elizabeth therefore gives up an irreplaceable family object because she can see another person suffering and independently decides that helping her is worth the cost.
 - This keeps the sacrifice centered on Elizabeth's own developing agency and values rather than making it primarily an act performed for Pathwell or Pathwell's family.
 - The younger woman's deeper biography does not need expansion unless the story later requires it; her narrative importance in this beat comes from being a person Elizabeth chooses to help.
+
+---
+
+## 6. Pathwell's pruning in the coda
+
+### Ability remains — LOCKED
+
+- **Pathwell remains mechanically capable of pruning at the end of the story.** Shade's resolution does not remove, damage, seal, or permanently disable Pathwell's pruning ability.
+- His growth must therefore be expressed through **choice**, not by the universe taking the option away from him.
+- The current coda beat in which Pathwell attempts a small prune and literally gets no response — `No branch-light. No pressure. No clean little subtraction from the future.` — is mechanically stale and must be revised during manuscript reconciliation.
+- Pathwell may still feel relief in the coda, but that relief should come from discovering that he can choose not to prune, or can stop himself before paying the cost, rather than from learning that pruning has become impossible.
+- This preserves the controlling idea: agency matters because the alternative remains available and a person chooses anyway.
