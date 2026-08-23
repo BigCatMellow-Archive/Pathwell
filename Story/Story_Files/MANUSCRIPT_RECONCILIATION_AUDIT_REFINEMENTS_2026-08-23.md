@@ -161,7 +161,7 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 - **Shade gives Elizabeth the firsthand truth plus a cautious inference; he does not deliver a full omniscient explanation of the cleanup mechanics.**
 - Shade can state with certainty that **he followed Pathwell, not Elizabeth**. He did not know Elizabeth before that night and had no independent reason to be at her apartment.
-- He can therefore establish the crucial fact that Elizabeth was never *his* target and that his presence at her apartment was downstream of Pathwell's presence there.
+- He can therefore establish the crucial fact that Elizabeth was never *his* target and that his presence at the apartment was downstream of Pathwell's presence there.
 - Shade may cautiously connect the blob to the same Pathwell-centered problem because its behavior is consistent with what he has experienced around the Pathwell/Shade connection, but he should present this as inference rather than technical certainty.
 - Shade should **not** explain the exact overlapping-signature localization, the cookbook interruption's fresh casting waste, or other cleanup details as though he has authoritative knowledge of Pathwell's magical discipline and blob mechanics.
 - The reader can later understand the complete chain through Pathwell/Stansbury knowledge and the established world rules: Shade followed Pathwell; the blob localized the overlapping Pathwell/Shade cleanup signal; Pathwell misread the event as being about Elizabeth; the cookbook interruption only explains the blob's later local lunge.
@@ -262,10 +262,30 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 - Preserve the wall's existing thematic function: soldiers carved names, dates, drawings, and messages as proof that they existed and should not simply disappear into history. That meaning is especially resonant for Elizabeth and Shade, but **the thematic resonance is payoff, not the logistical excuse for the location.**
 - The wall being an anchor does not establish that every emotionally charged wall, historical site, or collection is automatically a threshold. This is a specific old connection with its own history.
 - Exact activation conditions can remain threshold-specific unless the manuscript needs them. Do not turn the wall into a universal rule for Camp travel or magical graffiti.
-- The exact reason Shade knows the anchor and reaches the museum before or alongside the others is **not yet locked** and is the next refinement issue.
+
+---
+
+## 21. Shade reaches the museum through inherited anchor knowledge + the draw — LOCKED
+
+- **Shade knows that the museum graffiti wall is a Camp Cunnan anchor because that old fact exists among the creation-time Pathwell fragments he inherited.**
+- This does not grant Shade an ongoing Pathwell memory feed. The museum/Camp connection predates Shade's creation and can therefore legitimately exist in the fragments he received at formation.
+- **The present draw toward Pathwell then confirms that the museum is becoming the convergence point.** Shade knows the place matters already; the draw tells him Pathwell is moving toward the same location.
+- Shade can therefore reach the museum first and wait without receiving current Pathwell thoughts, tracking Elizabeth, discovering a new magical sensing ability, or following the brothers physically.
+- The convergence should feel causally inevitable rather than cosmically fated: Pathwell must use the known Camp anchor because Elizabeth chose Camp; Shade knows the same anchor and is compelled toward Pathwell.
+
+---
+
+## 22. Elizabeth chooses Camp, not Pathwell or Shade — LOCKED
+
+- **Elizabeth's museum decision is not a choice between the two men.** She does not return to Pathwell as an act of allegiance and does not transfer her dependence to Shade because he told her the truth.
+- She rejects Pathwell's attempt to cast himself as her rescuer and rejects Shade's attempt to turn her into a witness, proof, or pressure mechanism in his conflict with Pathwell.
+- **Elizabeth chooses Camp Cunnan for herself.** Chapter 10's spoken `Camp` becomes a physical decision at the museum: she intends to pass through the graffiti-wall anchor because she has decided that is where she wants to go next.
+- The choice should remain hers whether Pathwell follows, Shade follows, both follow, or neither approves.
+- This is a key `Choosing` rung in the **Pulled → Pushing → Choosing** arc. She is no longer asking which confident man she should follow; she selects her own direction and lets the men decide what they will do about it.
+- Preserve/adapt the existing Chapter 11 line **`I don't need to be rescued.`** It now has concrete structural meaning rather than functioning only as attitude.
 
 ---
 
 ## Next refinement question
 
-Decide how Shade knows the museum is the Camp anchor and how he plausibly reaches the museum in time for the confrontation without granting him present-day Pathwell memories or inventing a new tracking power.
+Decide what specifically makes Pathwell overreach and trigger the museum backlash that injures Elizabeth. The current Chapter 11 already contains strong usable material — Elizabeth says she does not need rescue, Shade makes a careful open-handed movement, Pathwell reaches into his coat, and an overbroad ward catches too many charged sources — but the trigger must be reconciled so Pathwell's intervention directly collides with Elizabeth's newly locked choice rather than making the injury feel like generic fight collateral.
