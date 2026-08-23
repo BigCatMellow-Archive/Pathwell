@@ -241,6 +241,16 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 19. Pathwell answers `Yes` — LOCKED
+
+- **After Elizabeth says, in effect, `But you still chose it`, Pathwell simply answers `Yes.`**
+- He does not argue that he chose only the method, does not repeat the unforeseeability defense, and does not try to win the distinction back from her.
+- The bare answer matters because Pathwell can no longer honestly deny the fact Elizabeth has isolated: whatever he could or could not have predicted, **the pruning choice itself was his.**
+- This is still not the same as the coda's `It was my fault.` Pathwell is acknowledging the proposition Elizabeth put in front of him, not yet integrating the deeper moral meaning of his control habit or accepting Shade as a person whose refusal must bind him.
+- The beat should remain short. Elizabeth gets the point; Pathwell does not get a speech that makes him seem more evolved than his later climax behavior supports.
+
+---
+
 ## Next refinement question
 
-Decide what Pathwell does immediately after Elizabeth says, in effect, `But you still chose it.` He should register the challenge without reaching the coda-level `It was my fault` too early.
+Decide what directly sends Elizabeth, Pathwell, and Stansbury from the Chapter 10 Ask toward the museum/graffiti-wall sequence. The current manuscript says `Camp` and then opens Chapter 11 at the museum without supplying the causal turn.
