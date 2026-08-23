@@ -224,9 +224,17 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - More importantly, at his core Pathwell has developed a genuine moral doubt about the act: some part of him no longer believes that undoing/absorbing Shade is right or that he has the authority to choose that outcome for Shade.
 - He nevertheless tries to force the working through because his old instinct is still to solve, contain, and take control rather than leave the outcome unresolved.
 
-### Still open — smallest required mechanics question
+### Doubt and forced pruning — LOCKED
 
-- The user has established the governing idea that **a prune cannot work if there is doubt in it**, and Pathwell's doubt is intended to be part of why this attempt fails.
-- The exact mechanical scope of that rule is not yet locked: whether doubt prevents release entirely, whether forcing through fundamental doubt can produce a malformed post-release transaction/spillage, or whether the doubt rule applies specifically to intent-dependent workings rather than every pruning payment.
-- The direct causal chain from this failed absorption attempt to the archive fire should not be finalized until that doubt rule is clarified.
-- The placement and result of Pathwell's separate attempt to buy Elizabeth's donated diary back also remain open.
+- **Ordinary nervousness, fear, regret, or uncertainty does not automatically invalidate a prune.** A practitioner does not need emotional serenity or moral certainty to spend possibility.
+- The dangerous condition is a **fundamental contradiction in intent**: the practitioner is trying to commit magical payment toward an outcome they do not actually commit to or believe should be carried through.
+- A trained practitioner can force possibility past the safe cancellation point despite that contradiction.
+- **Once possibility is released under that fundamental contradiction, the prune cannot settle cleanly.** The payment/working cannot coherently accept or resolve what has been forced into it, producing a malformed post-release failure and **unclaimed pruning spillage**.
+- The safe alternative is to stop before release. If the practitioner cancels while possibility is still unreleased, the established clean-cancellation rule applies.
+- This is not a general method for deliberately manufacturing spillage; it is a dangerous failure state created by forcing a prune whose intended commitment is internally broken.
+- **In the climax, Pathwell knows at his core that absorbing Shade may be wrong and that he may not have the right to choose it. He forces the prune past that doubt anyway.** The possibility is released, cannot settle cleanly into the absorption working, and becomes the malformed spillage at the center of the catastrophe.
+
+### Still open
+
+- The exact physical/magical chain by which the malformed spillage from the absorption attempt ignites or destabilizes the Camp archive.
+- The placement and result of Pathwell's separate attempt to buy Elizabeth's donated diary back.
