@@ -248,7 +248,16 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - Structurally, the climax escalates the same flaw in stages: Pathwell first tries to **undo Elizabeth's deliberate choice** through a controlled transaction, then escalates to trying to **decide Shade's fate** through forced absorption, and the second act of control produces the catastrophe.
 - The diary remains archive property unless and until the archive chooses to sell/trade it back; Elizabeth's donation itself is not reversed merely because Pathwell wants it reversed.
 
+### Diary buyback result — LOCKED
+
+- **The Camp archive agrees to sell/trade Elizabeth's diary back to Pathwell for a legitimate price.** The transaction succeeds before Pathwell confronts Shade.
+- The archive is acting within the ownership rules already established: Elizabeth's donation transferred ownership, and the archive has discretion to sell or trade archived material back.
+- Pathwell therefore does not steal the diary, coerce the archive, or magically invalidate Elizabeth's donation. He obtains it through a formally legitimate transaction.
+- **That legitimacy is part of the character problem.** Pathwell can tell himself that he did nothing improper because he paid fairly and followed the archive's rules, while still completely overriding the meaning of Elizabeth's deliberate surrender.
+- The successful buyback sharpens his flaw: he treats a transaction that balances on paper as sufficient justification for managing another person's choice.
+- By the time he confronts Shade, **Pathwell physically possesses the diary again.** What ultimately happens to the diary during/after the fire remains to be staged consistently with Elizabeth's hard magic boundary.
+
 ### Still open
 
-- Whether the archive accepts or refuses Pathwell's proposed diary buyback.
-- What Pathwell offers in exchange if the scene needs that detail.
+- What Pathwell pays the archive for the diary.
+- The diary's exact physical fate during/after the archive catastrophe.
