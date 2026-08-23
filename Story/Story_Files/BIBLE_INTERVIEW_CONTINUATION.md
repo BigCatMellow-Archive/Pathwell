@@ -109,6 +109,8 @@ Newer dated locked decisions override older manuscript/support material until de
 - Shade sees absorption as an easy way for Pathwell to erase the consequence he created. Shade's suffering, deeds, choices, and impact on other people are real; Pathwell cannot simply fold him back into himself and call that accountability.
 - Shade wants Pathwell to face the fact that his choices have consequences in other people and to acknowledge what he did.
 - **Pathwell hears the refusal and attempts absorption anyway.** This is the core flaw at maximum intensity: another person's stated boundary becomes secondary to Pathwell's conviction that he must solve the situation.
+- **Shade then holds his ground.** He does not attack, flee, sabotage the working, or cooperate. His refusal remains clear and in force while Pathwell proceeds.
+- Shade's stillness does not cause the magical failure; it prevents Pathwell from blaming the catastrophe on resistance or interference.
 
 ### Doubt rule
 
@@ -126,7 +128,7 @@ Newer dated locked decisions override older manuscript/support material until de
 - The initial ignition is physical backlash from Pathwell's failed working; pruning spillage and emotional charge remain distinct systems.
 - Once fire begins destroying the archive's dense charged collection, the destruction of those records produces the much larger supernatural/emotional catastrophe.
 - Causal chain: **forced contradictory prune → malformed post-release failure/spillage → physical magical recoil → ignition → mass charged-record destruction → archive-scale fallout.**
-- The recoil should have **more flourish** than a mundane spark/generic burst of heat. Exact visual manifestation remains open for later scene staging.
+- The recoil should have **more flourish** than a mundane spark/generic burst of heat. Exact visual manifestation remains open for staging.
 
 ### Diary buyback — LOCKED
 
@@ -150,19 +152,19 @@ Newer dated locked decisions override older manuscript/support material until de
 
 # EXACT RESUME POINT
 
-Ask exactly one question about Shade's **physical response** after he has explicitly refused reintegration and Pathwell begins the working anyway:
+Ask exactly one question about the **visual staging** of the malformed absorption recoil that physically ignites the archive. This is scene language/staging, not a new universal magical law.
 
-> **What does Shade do when Pathwell proceeds despite his refusal?**
+> **What form should the failed absorption recoil take when it starts the archive fire?**
 >
-> **A. He actively fights the attempt physically, but his resistance is not what causes the magical failure.** Shade tries to stop Pathwell or break the working because he wants to remain a person rather than be erased. Pathwell's contradictory intent remains the mechanical cause of the malformed prune.
+> **A. The working snaps outward and throws existing flame sideways.** Space/light around Pathwell and Shade pulls sharply inward as if the absorption is beginning, then violently rebounds. The concussion sends the nearby campfire or burning material sideways into the archive. This preserves a physically ordinary ignition while giving the magical failure a dramatic visible shape and can preserve the current draft image that `the fire went sideways`.
 >
-> **B. He refuses and holds his ground.** Shade does not cooperate, but he also does not attack or flee. He makes Pathwell carry the full burden of choosing to proceed against a clearly stated `no`.
+> **B. A white-hot seam lashes out of the failed working.** The attempted collapse between Pathwell and Shade forms a narrow visible line or tear; when the working rejects the forced payment, the line whips away from them and physically scorches/ignites the archive. More visually supernatural, but still treats the recoil as the ignition rather than emotional charge spontaneously combusting.
 >
-> **C. He tries to leave.** The draw makes getting away from Pathwell difficult or impossible, which turns Shade's lack of freedom into part of the scene. Pathwell proceeds while Shade is visibly trying to remove himself from the choice.
+> **C. Pathwell becomes the center of a concussive discharge.** The malformed prune collapses back through him and erupts outward as heat, pressure, and debris. Something ordinary — a lantern, stove, brazier, burning timber — is knocked into the archive and starts the fire. This makes the backlash feel bodily and dangerous while keeping the final ignition mundane.
 >
-> **D. He tries to stop the working by going after the magical setup rather than Pathwell.** This gives the confrontation more kinetic action while keeping Shade's intent defensive rather than punitive.
+> **D. Keep the exact visual deliberately open.** Lock only that the failure produces a dramatic physical recoil which ignites the archive, and solve the image during the actual Chapter 12b rewrite when sentence rhythm and geography are available.
 
-Current lean: **B** is thematically cleanest. Shade's refusal already does the moral work; if he simply holds his ground, Pathwell cannot blame a fight, panic, or interference for what happens. Pathwell sees the boundary, knows he doubts himself, and forces the prune anyway. The user decides.
+Current lean: **A**. It has flourish without adding a new magic subsystem, preserves the strong existing `fire went sideways` image, and makes the archive fire feel like a direct physical consequence of Pathwell forcing the working.
 
 ---
 
@@ -170,7 +172,6 @@ Current lean: **B** is thematically cleanest. Shade's refusal already does the m
 
 Do not ask all at once.
 
-- Resolve the exact visual flourish of the malformed absorption recoil only if useful before manuscript staging.
 - Decide graffiti wall exact mechanical role only if needed.
 - Papa Baga: develop or cut.
 - Final manuscript consistency/reconciliation pass after enough rules are locked.
@@ -180,5 +181,5 @@ Final reconciliation must include:
 - Camp healing scene with younger injured woman.
 - Chapter 10 Camp destination → Chapter 11 museum transition.
 - Chapter 7 blob targeting.
-- Climax rewrite: Shade refuses absorption; no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, child rescue, Stansbury's burn, and final diary destruction.
+- Climax rewrite: Shade refuses and holds his ground; no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, child rescue, Stansbury's burn, and final diary destruction.
 - Coda rewrite: Pathwell can prune and voluntarily stops.
