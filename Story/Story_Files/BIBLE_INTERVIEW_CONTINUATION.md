@@ -68,7 +68,7 @@ Locked 2026-08-22:
 - Established anchors are substantially more reliable than temporary/improvised thresholds.
 - Internal geography and cosmological origin remain iceberg lore unless needed.
 
-## Section 6 — Blobs / magical cleanup — active
+## Section 6 — Blobs / magical cleanup — sufficiently covered for now
 
 Locked 2026-08-22:
 
@@ -96,23 +96,30 @@ Locked 2026-08-22:
 - The old support rule where Pathwell's successful cookbook ward coats Elizabeth in blob-attracting residue is CUT.
 - **Elizabeth pulling the cookbook away after the recipe page has already been activated destabilizes that committed working.** It creates fresh unclaimed casting waste around the active page in Pathwell's hand. The blob redirects toward that fresh local mess after entering. This interruption did not cause the blob's original arrival.
 
+### Climactic cleanup — LOCKED
+
+- Shade is the actual unresolved pruning-waste anomaly; Pathwell resembles the target because their signatures overlap.
+- When the blob absorbs Shade, it both removes the real waste source and collapses the Pathwell/Shade signature ambiguity.
+- The blob can then re-check Pathwell/the area, finds no remaining Shade-scale cleanup target, and leaves according to ordinary post-cleanup behavior.
+- Shade's absorption removes the anomaly; it does **not** retroactively settle the original malformed prune as a successful transaction.
+
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one question about the remaining blob/climax mechanism:
+Move into character/story reconciliation by asking exactly one question:
 
-> **Why does the climactic blob cleanup end once Shade is absorbed?**
+> **What was Pathwell trying to accomplish when the prune that created Shade went wrong?**
 >
-> **A. Shade is the actual unresolved waste source.** Pathwell only resembles the target because their signatures overlap. Once Shade is consumed, the real unclaimed pruning anomaly is gone; the blobs check the area, find no remaining waste, and leave. Pathwell himself was never cleanup material.
+> **A. Something trivial or personally convenient.** A normal everyday prune produces a consequence wildly larger than the thing Pathwell thought he was buying. This emphasizes how casual he had become about spending his future.
 >
-> **B. Absorbing Shade severs the Pathwell/Shade magical connection.** Shade's destruction changes Pathwell's signature enough that blobs can finally distinguish him from the waste they were following.
+> **B. Solving someone else's problem for them.** Pathwell prunes to fix an immediate problem for another person because that is what he always does: spend himself, remove the friction, and make himself necessary. Shade becomes a literal consequence of Pathwell's "convenience dressed as mercy" flaw.
 >
-> **C. Both.** Shade is the actual unresolved waste, and consuming him also collapses the overlapping signal that made Pathwell difficult to distinguish. The blobs finish the cleanup, briefly check Pathwell/the area, recognize that no unclaimed waste remains, and leave.
+> **C. Saving or protecting someone in a genuine emergency.** The motive is clearly compassionate, but Pathwell still chooses pruning/control as the method. This makes Shade's origin more tragic and sympathetic but risks making the formative mistake feel unusually justified.
 >
-> **D. Shade's absorption formally settles the original failed prune.** The cleanup somehow converts the malformed prune into a completed/ledgered transaction. This would add a stronger metaphysical accounting rule and should only be chosen deliberately.
+> **D. Leave the original purpose unknown.** It is known that Pathwell was pruning habitually and that this one malformed, but what he was buying has been lost or never learned. The mechanics matter more than the incident.
 
-The cleanest fit with the rules so far is probably **C**, but the user decides.
+Thematically, **B** fits Pathwell's already-locked flaw most directly, but the user decides.
 
 ---
 
@@ -120,14 +127,15 @@ The cleanest fit with the rules so far is probably **C**, but the user decides.
 
 Do not ask these all at once.
 
+### Shade
+- How much information or memory Shade inherited from Pathwell.
+
 ### Thresholds / graffiti wall
 - General threshold mechanics only if the story still needs more than the Space Between/Camp-specific rules.
 - Whether the museum graffiti wall is a durable Camp anchor, beacon, or simply a charged meaningful location.
 
 ### Character/story reconciliation
 - Cookbook healing recipient: Mama Baga vs younger unnamed woman.
-- Exact Shade-creation event: what Pathwell was trying to buy/do when the prune malformed.
-- How much information or memory Shade inherited from Pathwell.
 - Exact meaning/status of Pathwell's Chapter 1 claim that the apartment is magically "marked."
 - Whether Pathwell remains mechanically capable of pruning in the coda or simply chooses not to.
 - Exact climax sequence connecting diary buyback, pruning failure/force, and archive fire.
