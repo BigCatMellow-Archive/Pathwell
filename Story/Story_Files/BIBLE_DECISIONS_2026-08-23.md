@@ -67,16 +67,33 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 
 ---
 
-## 5. Nana's cookbook / *The Joy of Cooking* — LOCKED
+## 5. Nana's cookbook / coda cookbook — LOCKED
 
-### Object identity and magic compatibility
+### Object identity and coda echo
 
 - **Nana's family cookbook is a genuinely handwritten family recipe book.** It is not a printed copy of *The Joy of Cooking* with marginal notes.
 - This is required by the established emotional-text discipline: the charged source being consumed in the cookbook workings is authentic handwritten material, not mass-printed text.
-- Elizabeth may separately own an ordinary printed copy of *The Joy of Cooking*, but it is a different object and is not the magical family heirloom.
-- The previous audit lean toward treating Nana's cookbook and *The Joy of Cooking* as one object is rejected.
-- **The coda's replacement *Joy of Cooking* is stale and must be replaced with a different object or beat.** A mass-printed replacement cookbook cannot meaningfully stand in for the lost handwritten family book as though it were the same kind of charged object.
-- This does not create a blanket rule that handwriting added to a printed object can never hold charge; it only locks that Nana's specific family cookbook—the book used for the major emotional-text workings—is itself handwritten.
+- **Elizabeth's separate printed copy of *The Joy of Cooking* is cut entirely from the intended manuscript.** References to owning, reclaiming, carrying, or replacing it are stale.
+- The two major Elizabeth-family records are Nana's handwritten cookbook and Elizabeth's diary.
+- **In the coda, Pathwell considers buying another family's old handwritten cookbook.** It is a real charged record but cannot replace Nana's history.
+- Pathwell begins a small prune to fund that purchase, proving he still can prune, then deliberately stops before release/acceptance. The possibility returns cleanly.
+- Preserve/adapt `That isn't mine.` / `No.` / `Good.` as a rejection of treating one family's history as interchangeable with another's.
+
+---
+
+## 6. Bar mirror / Pathwell blob rescue — LOCKED
+
+### Revised Chapter 6–7 sequence
+
+- **Supersede the older version in which the bar blob attacks Elizabeth and she cuts herself free.**
+- In the bar mirror, Pathwell sees Shade through the wrong-angle/reflected perspective clearly enough to begin understanding that the mystery points back to **him**, not Elizabeth.
+- Pathwell still does not know Shade's full history, ontology, or exact mechanics at this point; this is the beginning of correct understanding, not the complete reveal.
+- The realization hits hard enough that Pathwell abruptly leaves/runs out of the bar.
+- **Outside, a blob attacks/engulfs Pathwell** because of the ambiguous Pathwell/Shade cleanup signal.
+- **Elizabeth uses Stansbury's imbued toy dagger to cut Pathwell free.** Her agency beat is choosing to act without waiting for an assignment, not cutting herself free.
+- This also fulfills the existing Stansbury character note that his reluctantly imbued dagger ends up saving Pathwell.
+- Elizabeth does not thereby learn Shade's full identity or the later diner truth; those later revelations remain necessary.
+- Exact blob behavior immediately after Pathwell is freed remains open for scene/audit refinement.
 
 ---
 
@@ -84,3 +101,4 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 
 - The graffiti wall's precise mechanical role remains threshold-specific iceberg lore unless manuscript reconciliation exposes a concrete contradiction that requires a rule.
 - Minor scene choreography, including the exact physical ignition path during the Pathwell-centered recoil, can be solved during rewriting without reopening the locked causal mechanics.
+- The exact post-rescue behavior of the bar blob remains to be refined, but it should not default to ordinary monster hit-point/death logic.
