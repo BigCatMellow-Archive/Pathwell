@@ -230,6 +230,17 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 18. Elizabeth names the choice beneath the accident — LOCKED
+
+- **Elizabeth does not argue that Pathwell should somehow have predicted Shade.** She accepts that the exact malformed consequence may genuinely have been unforeseeable.
+- She instead identifies the part Pathwell did control: **he still chose the prune.**
+- Preserve the beat in concise language such as **`But you still chose it.`** The point should land cleanly rather than becoming a philosophical debate about foreseeability.
+- This keeps responsibility attached to agency: an unpredictable consequence does not erase the decision that created the conditions for it.
+- Elizabeth is not required to teach Pathwell the whole moral lesson or force him to agree. She names the gap in his framing and leaves him responsible for what he does with it.
+- The line also anticipates the climax. Pathwell will again face a moment where he cannot know the exact outcome, yet still chooses to force a course of action over another person's refusal.
+
+---
+
 ## Next refinement question
 
-Decide how Elizabeth responds when Pathwell gives her the facts but frames Shade as an unforeseeable magical accident rather than fully accepting responsibility.
+Decide what Pathwell does immediately after Elizabeth says, in effect, `But you still chose it.` He should register the challenge without reaching the coda-level `It was my fault` too early.
