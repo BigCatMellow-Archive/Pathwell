@@ -65,6 +65,7 @@ Important late locks:
 - **Shade's Chapter 1 explanation:** Shade states what he knows firsthand — he followed Pathwell, did not know Elizabeth, and had no independent reason to be at her apartment — then cautiously infers that the blob was responding to the same Pathwell-centered problem. He does not claim authoritative knowledge of the exact cleanup mechanics.
 - **`You were never the point`:** Elizabeth was incidental to the magical chain, not insignificant as a person. Shade turns the moral accusation toward Pathwell for misreading his own problem, pulling Elizabeth into it, and continuing to decide what she was entitled to know. Elizabeth's mattering does not depend on being magically chosen or targeted.
 - **Shade's diner motive:** Shade genuinely believes Elizabeth deserves the truth, but he also uses that truth and her likely reaction as pressure on Pathwell. He partly frames this to himself as helping her, while repeating a subtler version of Pathwell's habit of instrumentalizing other people.
+- **Shade's diner exit:** he points Elizabeth toward the question rather than ordering an action. Preserve/adapt `He knows what he did. Ask him.` Elizabeth decides whether/how to confront Pathwell; the later Ask remains hers.
 
 ---
 
@@ -89,6 +90,7 @@ Important late locks:
 - **Shade Chapter 1 knowledge limits:** Shade can prove that he followed Pathwell and had no prior connection to Elizabeth. He may cautiously infer that the blob followed the same Pathwell-centered problem, but he cannot authoritatively explain overlapping-signature localization, cookbook casting waste, or other cleanup mechanics he has no reason to know in detail.
 - **Diner emotional framing:** being incidental to Pathwell's magical problem does not make Elizabeth personally irrelevant. Shade's accusation is that Pathwell made her collateral to his own consequences and withheld the truth. The scene removes false supernatural significance without removing Elizabeth's human significance.
 - **Shade's diner motive:** he genuinely believes Elizabeth deserves the truth and is giving her information Pathwell wrongly withheld, but he also hopes her reaction will force Pathwell to face what he has done. Elizabeth must not simply become Shade's ally or instrument; what she does with the truth remains hers.
+- **Shade points toward the Ask, not the action:** preserve/adapt `He knows what he did. Ask him.` He does not command Elizabeth to confront Pathwell or prescribe the result. Elizabeth chooses to turn the information into her own demand for truth.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -123,14 +125,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **How directive should Shade be when he leaves Elizabeth after the diner?**
+> **When Elizabeth finally says `Tell me what you did`, how should Pathwell initially answer?**
 >
-> **A. He explicitly orders her to confront Pathwell.** `Go back to him. Make him tell you what he did.` This makes Shade's instrumental motive very clear, but risks making Elizabeth's later Ask feel assigned to her.
+> **A. He gives the full truth immediately.** He plainly explains that someone asked him for help, did not ask him to prune, he chose pruning because it was the quickest/cleanest solution, spent his own future possibility as payment, and the malformed outcome became Shade. This is clean but gives Elizabeth little work to do in forcing honesty.
 >
-> **B. He tells her Pathwell owes her answers, then leaves the choice entirely unstated.** Shade gives her the truth and walks away. Elizabeth independently decides to seek Pathwell out.
+> **B. Preserve the current `I pruned ahead` evasion, then make Elizabeth reject the technical shorthand.** Pathwell initially hides inside practitioner language; Elizabeth says, in effect, `That isn't an answer.` Only then does he state plainly that the person asked for help but not pruning, that **he** chose the shortcut and paid with his own possibility, and that something went wrong badly enough to create Shade. This preserves strong Chapter 10 material while correcting the stale implication that Pathwell pruned someone else's possibilities.
 >
-> **C. He asks her to help him force Pathwell to admit what happened.** This makes his leverage motive overt and gives Elizabeth an opportunity to reject becoming Shade's ally.
+> **C. He admits only `I made him` and resists explaining how.** Elizabeth must push repeatedly before he gives any mechanics or history. This makes him more defensive but can drag the Ask into interrogation.
 >
-> **D. He points her toward the question, not the action.** Something like: `He knows what he did. Ask him.` Shade clearly hopes she will confront Pathwell, but he does not tell her where to go, how to act, or what conclusion to reach. Elizabeth chooses to make the Ask hers.
+> **D. He immediately defends the original decision before confessing it.** He explains why pruning seemed merciful/effective, then admits what happened. This foregrounds his self-justification but risks making him argue his case instead of finally answering Elizabeth.
 
-Audit lean: **D**. It preserves the strong existing `He knows what he did. Ask him.` material while keeping the crucial distinction that Shade supplies information and pressure, but Elizabeth chooses the confrontation.
+Audit lean: **B**. The existing `I pruned ahead` / `That isn't an answer` exchange is strong because Elizabeth refuses to let Pathwell hide behind expertise. It only needs its subsequent mechanics rewritten to fit the locked pruning rules.
