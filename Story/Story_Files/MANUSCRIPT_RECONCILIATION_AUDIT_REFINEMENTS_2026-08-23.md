@@ -218,6 +218,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 17. The Ask: causation without moral responsibility — LOCKED
+
+- **Pathwell admits that his prune caused the malformed result that became Shade, but he does not yet accept the deeper moral responsibility for Shade's existence.**
+- He treats the creation of Shade primarily as an unprecedented and unforeseeable magical accident: he made the pruning choice, the working failed in a way he had no reason to expect, and Shade was the anomalous consequence.
+- Pathwell can acknowledge the factual chain without reaching the sentence **`It was my fault.`** He is still separating `my action caused this` from `the choice I made was morally mine to answer for.`
+- The earlier plain-language confession remains intact: the person asked for help but did not ask for pruning; Pathwell chose pruning; the payment came from Pathwell's own future possibility. **What remains incomplete is Pathwell's interpretation of those facts.**
+- He does not yet understand the lack of pruning consent and his habit of deciding the quickest/cleanest solution for someone else as the core failure. Instead, he locates the failure mainly in the bizarre malformed outcome.
+- This preserves the climax failure. If Pathwell still thinks the central problem is an extraordinary magical accident that he caused, he can plausibly believe his responsibility is to technically fix/reabsorb that accident rather than recognize Shade's refusal as a boundary he must respect.
+- The coda's eventual **`It was my fault`** therefore marks a real change: Pathwell finally moves from admitting causation to accepting responsibility.
+
+---
+
 ## Next refinement question
 
-Decide how far Pathwell gets toward actual accountability after he gives Elizabeth the plain facts. The scene must reveal the truth without prematurely completing the character growth that still has to fail in the climax and mature in the coda.
+Decide how Elizabeth responds when Pathwell gives her the facts but frames Shade as an unforeseeable magical accident rather than fully accepting responsibility.
