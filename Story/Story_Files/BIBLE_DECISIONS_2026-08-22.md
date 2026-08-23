@@ -9,7 +9,7 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 ### Functional nature — LOCKED
 
 - **The Space Between is fundamentally an archive.** Its primary purpose is collecting and preserving strange, significant, and emotionally valuable things.
-- **Commerce is secondary and grew around the archive.** The marketplace/shop function exists because preserved things, services, information, access, and magical value can be exchanged around that collection; commerce is not the Space Between's deepest purpose.
+- **Commerce is secondary and grew around the archive.** The marketplace/shop function exists because preserved things, services, information, access, mundane value, and magical value can be exchanged around that collection; commerce is not the Space Between's deepest purpose.
 - **A crossroads function is layered onto the archive.** The Space Between connects places that normally cannot connect, allowing it to be reached from and potentially lead toward multiple thresholds/locations.
 - Therefore the Space Between should not be treated as merely a magical bookstore, nor primarily as a transportation hub. It is an archive first, with marketplace and connective functions growing from/around that primary identity.
 - Its cosmological origin remains deliberately undefined unless the story later requires it.
@@ -95,16 +95,23 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 ### Chapter 1 support correction — LOCKED
 
 - The old support explanation that Pathwell's successful cookbook ward automatically coats Elizabeth in blob-attracting residue is **cut**.
-- The current Chapter 1 staging is important evidence: the blob is already pounding on Elizabeth's door before Pathwell activates the cookbook. After Elizabeth snatches the cookbook away and leaves the active page with Pathwell, the blob lunges for the light in Pathwell's hand rather than demonstrating a clean magical lock onto Elizabeth.
+- The current Chapter 1 staging is important evidence: the blob is already pounding on Elizabeth's door before Pathwell activates the cookbook.
 - **The Chapter 1 blob is not there because of Elizabeth. It follows the effectively overlapping magical signature of Pathwell and Shade.** Their signatures are not cleanly distinguishable to the blob, so the cleanup signal leads it toward the Pathwell/Shade pair rather than identifying Elizabeth as a target.
 - Shade's draw has brought Shade after Pathwell; Pathwell's scavenging has brought Pathwell into Elizabeth's apartment. The overlapping signal therefore brings the blob to the same location.
 - This does **not** make Elizabeth magical, marked, chosen, or secretly important. She is incidental to why the blob arrived.
 - Pathwell does not know Shade exists or understand the overlap. Because the blob appears at Elizabeth's apartment while he is already snooping there, he incorrectly concludes that it must be there for her.
 - Therefore Pathwell's belief that the blob was "after Elizabeth" is a mistaken interpretation of a real event, not evidence that Elizabeth is magically special.
 
+### Interrupted cookbook working — LOCKED
+
+- **Elizabeth pulling the cookbook away after Pathwell has activated the recipe destabilizes the already-committed working.** The page remains committed and continues consuming; taking the book away does not cancel the spell or save the page.
+- The physical interruption causes part of the released charge to fail to resolve cleanly, creating a small amount of fresh **unclaimed casting waste** around the active page/working in Pathwell's hand.
+- Once the blob gets through the door, it redirects toward that fresh local cleanup signal and lunges for the glowing page/light.
+- This fresh casting waste explains the blob's immediate movement **after entry only**. It did not summon the blob or cause its original arrival at the apartment.
+- Elizabeth is still not the target or source of the cleanup signal; her action merely disrupts Pathwell's working physically.
+
 ### Still open
 
-- Whether interruption of the cookbook working creates fresh cleanup waste that explains the blob lunging for the light in Pathwell's hand.
 - Why absorbing Shade resolves the climactic blob behavior.
 
 ---
