@@ -57,6 +57,8 @@ Every important observation is real; Pathwell's interpretation is wrong.
 - Pathwell treats Elizabeth as a curiosity because he cannot explain why a blob apparently came for an ordinary woman who knows nothing about it. Watching her becomes his test.
 - The later Shade revelation that Elizabeth was never the point is essential: Pathwell made her seem cosmically significant by misunderstanding a problem that actually belonged to him.
 
+**Shade's creation — locked:** Shade was created when Pathwell was helping someone who genuinely asked for help but did **not** ask him to prune. Pathwell independently chose pruning because he believed it was the quickest, cleanest way to solve their problem. This is his core flaw in concentrated form: he turns "help me" into "I will decide what solving this means," taking ownership of another person's problem while treating his willingness to bear the cost as proof that the intervention is merciful. The exact practical problem remains undefined unless needed.
+
 **Arc beats:**
 1. Confident pruning works; an early casual clean prune establishes that he treats the technique as routine.
 2. **The mirror crack (bar):** the mirror routes Shade's perspective back at him — for one second he feels the cost from the inside, something in agony that is him, that he made, and he's never felt it from this side. He does NOT understand what happened. Comes back shaken, says nothing.
@@ -78,7 +80,7 @@ Every important observation is real; Pathwell's interpretation is wrong.
 
 **The draw:** a deterministic compulsion toward Pathwell — the man who made him. It selects *Pathwell*; it contains no information about Elizabeth and never did. He can delay it, not escape it.
 
-**Inherited memory:** Shade carries **fragments and impressions** from Pathwell rather than a coherent copy of Pathwell's life. These may appear as disconnected memories, emotional associations, instincts, habits, flashes of people or places, or knowledge he possesses without knowing where it came from. He does not remember having lived Pathwell's life and is not a psychological duplicate. His own experiences accumulate separately after formation. Whether new Pathwell memories continue to leak across after creation remains open.
+**Inherited memory:** Shade carries **fragments and impressions** from Pathwell rather than a coherent copy of Pathwell's life. These may appear as disconnected memories, emotional associations, instincts, habits, flashes of people or places, or knowledge he possesses without knowing where it came from. He does not remember having lived Pathwell's life and is not a psychological duplicate. **This inheritance happened at Shade's creation only. No new Pathwell memories, experiences, or present-day knowledge cross into him afterward.** Shade's own experiences accumulate separately after formation. The continuing connection can still carry the draw, magical signature resonance, and pain from Pathwell's pruning without functioning as telepathy or ongoing information sharing.
 
 **Core problem (locked, the deepest version):** He cannot trust whether anything he feels is his own versus the draw — a divided-mind / double-bind. The division between self and compulsion is literal for him, not metaphorical. He is not bitter; he is *desperate* — because he can't tell which of his feelings are his.
 
