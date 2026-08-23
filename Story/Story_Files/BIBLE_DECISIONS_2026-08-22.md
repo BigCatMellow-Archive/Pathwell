@@ -44,7 +44,7 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 
 - **The Space Between can connect to ordinary places as well as magical locations.** A destination does not have to be intrinsically supernatural to serve as a threshold endpoint.
 - **Established anchors are much more reliable than temporary or improvised thresholds.** Old, maintained, or deliberately stabilized connections are dependable by comparison.
-- Temporary or improvised thresholds can still connect ordinary or unusual places, but they are less stable and more prone to failure, drift, altered conditions, or loss.
+- Temporary or improvised thresholds can still connect ordinary or unusual locations, but they are less stable and more prone to failure, drift, altered conditions, or loss.
 - The crossroads therefore has broad potential reach without functioning as effortless universal fast travel.
 
 ### Still open
@@ -80,7 +80,7 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 ### Response timing — LOCKED
 
 - **Blob response time depends on both signal strength and accessibility.** There is no universal fixed delay and no numerical trigger threshold.
-- Larger concentrations of unclaimed magical waste create stronger signals and are easier for blobs to detect, generally producing a faster or more reliable response.
+- Larger concentrations of unclaimed magical waste create stronger signals and are easier for blobs to detect, generally producing a faster or more reliable cleanup response.
 - Accessibility also matters. A spill in a location that is difficult for blobs to reach can produce a slower response even when the signal is strong.
 - Small spills may dissipate on their own before any blob reaches them.
 - This is why practitioners can know blobs as ordinary cleanup phenomena without every minor magical failure producing an encounter.
@@ -204,3 +204,29 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - Because the cancellation occurs before release/acceptance, it uses the already-locked rule that an early pruning cancellation can return cleanly; the possibility is not spent.
 - The coda's relief beat therefore changes meaning from **"I cannot do this anymore"** to **"I can do this, and I stopped."**
 - This should be the intended replacement when the coda is eventually reconciled, but the manuscript is not being rewritten during the active Bible interview.
+
+---
+
+## 7. Climax — Pathwell's attempted absorption of Shade
+
+### Intended action — LOCKED
+
+- **Pathwell's climactic attempt is to collapse the separation between himself and Shade and absorb/reintegrate Shade into himself.** He is not simply trying to cut Shade loose or destroy him from a distance.
+- **Pruning is the payment for the absorption/reintegration working; pruning itself is not the effect that absorbs Shade.** This preserves the core rule that pruning is currency rather than reality editing.
+- Pathwell frames the act as taking responsibility for what he created: if Shade came from him, Pathwell will take Shade back into himself and make the problem his own again.
+- That framing still expresses Pathwell's core flaw. He once again decides that responsibility means **he gets to determine what happens to another person** and that he must personally become the mechanism that resolves the problem.
+
+### What Pathwell knows — LOCKED
+
+- **Pathwell does not know what absorption would actually mean for Shade's independent personhood.**
+- He cannot guarantee that Shade would survive as a conscious part of Pathwell, cease to exist, merge into something new, or experience some other irreversible result.
+- Pathwell proceeds despite that uncertainty rather than treating the unknown consequence to Shade as a reason to stop.
+- More importantly, at his core Pathwell has developed a genuine moral doubt about the act: some part of him no longer believes that undoing/absorbing Shade is right or that he has the authority to choose that outcome for Shade.
+- He nevertheless tries to force the working through because his old instinct is still to solve, contain, and take control rather than leave the outcome unresolved.
+
+### Still open — smallest required mechanics question
+
+- The user has established the governing idea that **a prune cannot work if there is doubt in it**, and Pathwell's doubt is intended to be part of why this attempt fails.
+- The exact mechanical scope of that rule is not yet locked: whether doubt prevents release entirely, whether forcing through fundamental doubt can produce a malformed post-release transaction/spillage, or whether the doubt rule applies specifically to intent-dependent workings rather than every pruning payment.
+- The direct causal chain from this failed absorption attempt to the archive fire should not be finalized until that doubt rule is clarified.
+- The placement and result of Pathwell's separate attempt to buy Elizabeth's donated diary back also remain open.
