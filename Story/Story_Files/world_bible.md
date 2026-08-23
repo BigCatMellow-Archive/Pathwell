@@ -37,6 +37,22 @@ There is no generic pruning battery or stored personal credit. A counterparty mu
 - Later failure after release can leave **unclaimed spillage**.
 - Immediate physical effects scale with the transaction: small prunes may be barely noticeable; large ones can cause shaking, weakness, nausea, disorientation, or collapse.
 
+### Doubt and commitment
+
+Pruning does not require emotional calm or moral certainty. Fear, ordinary uncertainty, regret, or mixed feelings do not automatically prevent a valid transaction.
+
+The dangerous failure state is a **fundamental contradiction in intent**: a practitioner attempts to commit magical payment toward an outcome they do not actually commit to or believe should be carried through.
+
+A trained practitioner can force possibility past the safe cancellation point despite that contradiction. Once the possibility is actually released, however, the payment cannot settle cleanly into the intended transaction or working. The result is a malformed post-release failure that leaves **unclaimed pruning spillage**.
+
+The safe response to fundamental doubt is to stop before release. If the practitioner cancels while the possibility is still unreleased, the ordinary clean-cancellation rule applies.
+
+This is not a reliable technique for intentionally creating spillage; it is a dangerous failure mode produced by forcing commitment through an internally broken intent.
+
+**Climax example:** Pathwell tries to pay for a working that would absorb/reintegrate Shade into himself. He does not know what that would do to Shade's independent personhood and, at his core, no longer believes he has the right to decide it. He forces the prune through anyway. The released possibility cannot settle cleanly and becomes malformed spillage.
+
+**Coda contrast:** Pathwell later begins a prune, reaches the point where he could continue, and deliberately stops before release. The possibility returns cleanly. His growth is expressed by stopping rather than by losing the ability to prune.
+
 ### Practice and culture
 
 Pruning requires training. Ordinary people do not accidentally prune by making bargains.
