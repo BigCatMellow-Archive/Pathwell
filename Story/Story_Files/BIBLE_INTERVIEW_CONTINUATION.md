@@ -57,6 +57,7 @@ Important late locks:
 - Papa Baga is cut cleanly from canon.
 - Graffiti-wall threshold mechanics remain threshold-specific iceberg lore unless a concrete contradiction appears during editing.
 - **Bar sequence revised:** the mirror makes Pathwell begin to understand the mystery points back to himself; he bolts from the bar, a blob attacks/engulfs him through the Pathwell/Shade overlap, and Elizabeth cuts Pathwell free with Stansbury's imbued toy dagger. The older `Elizabeth cuts herself free` version is stale.
+- **Bar blob aftermath:** Stansbury burns/destroys the freed blob manifestation with a heat/fire-based imbued attack. Destroying that body ends the immediate threat but does not eradicate the cleanup ecology or automatically resolve the underlying waste condition; another blob can later appear if cleanup is still required.
 
 ---
 
@@ -73,6 +74,7 @@ Important late locks:
 - **Chapter 2's uncanny neighborhood feeling is primarily character/perception, not threshold geography.** Elizabeth has been so lost in routine that she has not truly observed the world around her. Once her routine breaks, familiar streets feel new and confusing because she is finally looking, while panic/exhaustion make her mind reach for explanations. Ordinary geography does not rewrite itself and a magical threshold is not required for this beat.
 - **Chapter 4 → 5:** Pathwell is already uneasy about the abnormal Chapter 1 blob behavior, and Mama Baga independently pushes him to involve Stansbury. The successful Camp healing remains clean; no gold-residue/blob-bait mechanism.
 - **Chapter 6 → 7:** Pathwell sees Shade through the mirror strongly enough to begin understanding the problem points back to himself, runs out, is attacked/engulfed by a blob, and Elizabeth chooses to cut him free with Stansbury's dagger. This replaces the older Elizabeth self-rescue version.
+- **Bar blob resolution:** after Elizabeth's rescue, Stansbury destroys the manifested blob body with heat/fire. A killed manifestation is not a universal cure for the unresolved cleanup condition.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -107,14 +109,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **What does the bar blob do immediately after Elizabeth cuts Pathwell free?**
+> **After the mirror and blob attack make Pathwell suspect the problem points back to him, what does he tell Elizabeth before the diner reveal?**
 >
-> **A. It tries to re-engulf Pathwell.** Elizabeth/Stansbury then have to force separation. This makes the signal pursuit very clear but risks making the blob read like an ordinary attacking monster.
+> **A. Nothing useful.** Pathwell deflects and keeps his suspicion to himself because he does not yet understand it. Elizabeth continues believing she may be the center of the danger until Shade tells her otherwise.
 >
-> **B. The dagger disruption breaks contact; the blob pauses/searches around Pathwell because the Pathwell/Shade signal is ambiguous, then withdraws when it cannot resolve the actual cleanup source.** This keeps the creature cleanup-oriented rather than vindictive.
+> **B. He admits only that he was wrong about the blob.** Something about its behavior points toward Pathwell, but he does not tell Elizabeth she was never the target because he is not certain yet.
 >
-> **C. Stansbury actively drives it off after Elizabeth performs the rescue.** Elizabeth owns the decisive rescue beat; Stansbury handles containment with his imbued tools.
+> **C. He tells Stansbury privately but excludes Elizabeth.** He admits that the mirror/blob strongly suggest the problem is his, then keeps Elizabeth out of that conversation. This preserves the diner reveal while making his treatment of her more culpable.
 >
-> **D. Combine B + C.** Elizabeth cuts Pathwell free; the blob destabilizes/searches rather than immediately attacking her, and Stansbury uses his tools to create enough separation that the blob withdraws without being killed.
+> **D. He tells both of them that the problem may be connected to him.** He is unusually forthcoming about his uncertainty, but the exact Shade identity and the fact that Elizabeth was never the point remain unrevealed until the diner.
 
-Audit lean: **D**, because it preserves Elizabeth's action, gives Stansbury a supporting function, and avoids monster hit-point logic.
+Audit lean: **C**. It fits Pathwell's habit of deciding what other people need to know, gives Stansbury a reason to become more concerned, and lets the diner revelation still hit Elizabeth personally.
