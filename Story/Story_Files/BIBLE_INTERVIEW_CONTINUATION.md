@@ -8,139 +8,144 @@ Before continuing the interview, read these files in this order:
 
 1. `Story/Story_Files/BIBLE_DECISIONS_2026-08-21.md` — authoritative for decisions made in the original August 21 interview.
 2. `Story/Story_Files/BIBLE_DECISIONS_2026-08-22.md` — authoritative for decisions made after the continuation handoff.
-3. `Story/Story_Files/world_bible.md` — world rules already reconciled from the interview. Some open-language may temporarily lag the newer decision log; newer locked interview decisions win.
-4. `Story/Story_Files/canon.md` — hard story constraints. Note that older prose elsewhere may still contain stale contradictions.
-5. `Story/Story_Files/character_bible.md` — character constraints and currently known reconciliation points.
-6. `Story/Story_Files/pathwell_conflicts_and_decisions.md` if present — unresolved draft conflicts should remain unresolved unless the user explicitly decides them.
+3. `Story/Story_Files/world_bible.md` — reconciled world rules.
+4. `Story/Story_Files/canon.md` — hard story constraints.
+5. `Story/Story_Files/character_bible.md` — character constraints and arc rules.
+6. `Story/Story_Files/pathwell_conflicts_and_decisions.md` if present.
 
-Where an older draft, chapter, note, support document, or unreconciled bible passage conflicts with a rule explicitly locked in the dated Bible decision logs, the newer locked interview decision wins until the manuscript/support files are deliberately revised.
+Where older manuscript/support material conflicts with a rule explicitly locked in the dated Bible decision logs, the newer locked interview decision wins until deliberate manuscript reconciliation.
 
 ## Interview method
 
 Continue as a **one-question-at-a-time interview**.
 
-For each question:
+- Ask exactly one meaningful world/character/story-law question at a time.
+- Give 2–4 clear options when useful.
+- The assistant may state a lean and reason but must not decide for the user.
+- Preserve nuanced combinations precisely.
+- If an answer exposes a loophole or contradiction, ask the smallest necessary follow-up before moving on.
+- Once clear, state exactly what is locked and record it in the dated decision log.
+- Do not reopen settled rules without a real contradiction or explicit user request.
+- Stop drilling when enough exists for the story; preserve iceberg lore.
+- Maintain **Write the Sequel** and **Therefore / But — Never And Then**.
+- Do not rewrite manuscript chapters automatically while the Bible interview is still establishing intended canon.
 
-1. Ask exactly one meaningful world/character/story-law question.
-2. Give 2–4 clear options when useful.
-3. Briefly explain the consequence of each option only when needed to make the choice understandable.
-4. The assistant may state which option it leans toward and why, but must not choose for the user.
-5. If the user's answer combines options (for example, `C with some D`), convert that into one concise locked rule preserving the nuance.
-6. If the user's answer exposes a loophole or contradiction, ask the smallest necessary follow-up rather than moving on.
-7. Once the rule is clear, explicitly state the rule being locked before asking the next question.
-8. Do **not** re-open settled rules unless the user asks to reconsider them or a genuine contradiction is discovered.
-9. Do **not** turn every possible implication into a new rule. Stop drilling once the system is sufficiently defined for Pathwell; preserve unexplained depth as iceberg lore.
-10. Maintain the story principles already established: **Write the Sequel** and **Therefore / But — Never And Then**. Backstage lore may be deep; characters do not stop to explain what they already know.
-11. Record important new decisions in the dated decision log so continuation never depends on chat memory alone.
+## Hard constraints already established
 
-## Important interview constraints already established
-
-- Elizabeth is **not secretly magical** and never becomes a practitioner.
-- Elizabeth may own, carry, give away, sacrifice, or physically assist with charged objects. Those choices do not count as performing magic.
-- Do not reintroduce the stale version in which Elizabeth casts magic with her diary.
-- Magic is universally perceptible; Elizabeth is not a chosen observer.
-- Pruning is currency, not probability/reality editing.
-- Emotionally charged art cannot be manufactured intentionally as magical ammunition.
+- Elizabeth is not secretly magical and never becomes a practitioner.
+- Anyone can perceive magic; there is no chosen-observer rule.
+- Pruning is currency, not reality/probability editing.
+- Emotionally charged art cannot intentionally be manufactured as magical ammunition.
 - Consuming charged art destroys the original.
-- The Camp Cunnan archive is both cultural memory and practical magical reserve, and donation transfers ownership to the archive.
-- Pathwell attempting to buy Elizabeth's donated diary back is part of the intended version currently being recovered, but the exact buyback/fire sequence is not yet fully reconciled.
+- Camp Cunnan's archive is both cultural memory and practical magical reserve; donation transfers ownership.
+- Pathwell's intended attempt to buy back Elizabeth's donated diary remains part of the version being recovered; exact buyback/fire chronology is unresolved.
 
-Read the full decision logs rather than relying only on this short constraint list.
+Read the full dated decision logs for precise wording.
 
 ---
 
 # INTERVIEW PROGRESS
 
-Sections 1–4 have been covered sufficiently for now:
+## Sections 1–4 — sufficiently covered for now
 
-1. Who can perceive magic.
+1. Perception of magic.
 2. Camp Cunnan and its archive.
 3. Pruning.
-4. Emotionally charged text/art and its associated rules.
+4. Emotionally charged records/art.
 
-## Question 5 — The Space Between
+## Section 5 — The Space Between — sufficiently covered for now
 
-### Functional nature — LOCKED 2026-08-22
+Locked 2026-08-22:
 
-The user chose **B with C layered onto it**.
+- Fundamentally an **archive**.
+- Commerce is secondary and grew around the archive.
+- A crossroads function is layered onto it.
+- Custodian/shopkeeper is a **distinct supernatural entity**, not an avatar of the Space Between.
+- A transaction is settled when the custodian accepts it; that acceptance automatically causes the archive/system to ledger it.
+- Access depends on the **threshold**, not practitioner status.
+- Thresholds may be two-way, entrance-only, exit-only, or conditionally directional.
+- The Space Between can connect to ordinary as well as magical places.
+- Established anchors are substantially more reliable than temporary/improvised thresholds.
+- Internal geography and cosmological origin remain iceberg lore unless needed.
 
-Precise rule:
+## Section 6 — Blobs / magical cleanup — active
 
-- The Space Between is fundamentally **an archive**: collecting and preserving strange, significant, and emotionally valuable things is its primary function.
-- Commerce grew around that archive and is secondary to it.
-- The Space Between also functions as **a crossroads**, connecting places that normally cannot connect.
-- It is therefore not merely a magical bookstore and not primarily a transportation hub.
-- Its cosmological origin remains deliberately undefined.
+Locked 2026-08-22:
 
-Full wording is recorded in `BIBLE_DECISIONS_2026-08-22.md`.
+- Blobs are known magical cleanup crews, usually unpleasant but mostly harmless.
+- They consume **unclaimed magical waste**.
+- Pruning spillage is one kind of waste.
+- Failed, interrupted, or uncontrolled magical workings can also leave **unclaimed casting waste**.
+- Successful emotional-text casting is ordinarily clean and does not attract blobs.
+- Unclaimed casting waste, pruning spillage, and lingering emotional residue are distinct systems/materials.
+- Blob response timing depends on signal strength **and** accessibility; small spills may dissipate before cleanup arrives.
+- After cleaning, a blob briefly searches nearby for more waste and then leaves on its own if none remains.
+- Blobs target waste, not people as prey.
+
+### Chapter 1 false-importance setup — LOCKED
+
+- Pathwell is **scavenging emotionally charged material**, not seeking Elizabeth.
+- He passes as a party guest so he can snoop and take charged material he believes will not be noticed missing.
+- He finds Elizabeth's apartment slightly open and is drawn inside by the unusually strong diary/cookbook charge.
+- Shade follows Pathwell because of the draw. Elizabeth has nothing to do with Shade being there.
+- **Pathwell and Shade have effectively overlapping magical signatures.** A blob cannot cleanly distinguish them and follows that ambiguous cleanup signal to Elizabeth's apartment.
+- The blob is therefore **not there for Elizabeth**.
+- Pathwell does not know Shade exists. Seeing an unexplained blob break down Elizabeth's door makes him wrongly infer that the blob must be after her.
+- That mistaken inference makes Elizabeth a curiosity and drives Pathwell's continued interest in her.
+- The later revelation that Elizabeth was never the point is structurally essential: apparent cosmic importance is stripped away, leaving the story's real question of what she chooses anyway.
+- The old support rule where Pathwell's successful cookbook ward coats Elizabeth in blob-attracting residue is CUT.
+
+The current Chapter 1 text has the blob at the door before the cookbook working begins. After Elizabeth pulls the cookbook away, the active page remains with Pathwell and the blob lunges toward the light in his hand.
 
 ---
 
 # EXACT RESUME POINT
 
-Continue within Question 5 by asking exactly one question:
+Ask exactly one follow-up question about that Chapter 1 choreography:
 
-> **What is the shopkeeper/custodian of the Space Between?**
+> **When Elizabeth snatches the cookbook away after Pathwell has activated the page, why does the blob then lunge toward the glowing page/light in Pathwell's hand?**
 >
-> **A. An individual person.** One particular being owns/runs the archive and has their own history, motives, and personality.
+> **A. The interruption creates fresh cleanup waste.** The page is already committed and continues consuming, but Elizabeth's physical interruption destabilizes the working enough that some released charge becomes unclaimed casting waste. The blob redirects toward that fresh local mess. This is *not* why the blob originally arrived.
 >
-> **B. An office or role.** "The shopkeeper" is a position someone occupies; holders can change even if visitors experience continuity.
+> **B. No new waste is required.** The blob is already following the overlapping Pathwell/Shade signal. Once through the door it presses toward Pathwell; the glowing page is simply in the same place, and Elizabeth interprets the motion as going for the light.
 >
-> **C. A distinct supernatural entity.** A real being tied to the archive but separate from it — more custodian than owner.
->
-> **D. A manifestation of the Space Between itself.** The shopkeeper is effectively the archive/system giving itself a face so people can deal with it.
+> **C. Active magic itself attracts blobs.** This would broaden the blob rule beyond unclaimed waste and partially undo the newly locked successful-casting distinction, so treat this as a substantial rule change rather than a default.
 
-Do not ask about transaction mechanics, thresholds, geography, or cosmological origin until this question is resolved.
+A or B fits the current system without reopening the broader blob rules. The assistant may state a lean but must let the user decide.
 
 ---
 
-## Likely later interview areas
+## Later interview queue
 
-These are not decisions. They are a queue of areas that still need deliberate questioning after the current Space Between question. Do not ask them all at once.
+Do not ask these all at once.
 
-### Space Between
-- What makes a Space Between transaction formally accepted/ledgered?
-- Can the Space Between be entered from many thresholds, and does it lead to many places?
-- What is ordinary geography like inside it, if that question matters to the story?
-- Which facts about its origin should deliberately remain unknown?
-
-### Blobs / spillage
-- Exact entry/crossing behavior and what controls the arrival delay.
-- What happens after blobs consume spillage.
-- Reconcile the current `CASTING RESIDUE` support rule against the locked distinction between emotional residue and pruning spillage; do not silently merge those systems.
+### Blobs / climax
 - Why absorbing Shade resolves the climactic blob behavior.
 
-### Thresholds
-- What thresholds are in general.
-- Who can create, recognize, or use them.
-- How durable anchors differ from temporary routes.
-- Whether the museum graffiti wall is a Camp anchor and, if so, why.
+### Thresholds / graffiti wall
+- General threshold mechanics only if the story still needs more than the Space Between/Camp-specific rules.
+- Whether the museum graffiti wall is a durable Camp anchor, beacon, or simply a charged meaningful location.
 
 ### Character/story reconciliation
-- Whether the cookbook heals Mama Baga or the younger unnamed woman at Camp.
-- Exact Shade-creation event: what Pathwell was doing when the prune malformed.
-- How much information/memory Shade inherited from Pathwell.
-- Why Pathwell was at Elizabeth's apartment in Chapter 1 and why he wanted the cookbook.
-- Meaning/status of the claim that Elizabeth's apartment was magically marked.
-- Whether Pathwell remains mechanically capable of pruning in the coda versus simply choosing not to.
-- Exact climax sequence connecting the diary buyback, failed/forced pruning, and archive fire.
-- Final mechanical role of the museum graffiti wall.
+- Cookbook healing recipient: Mama Baga vs younger unnamed woman.
+- Exact Shade-creation event: what Pathwell was trying to buy/do when the prune malformed.
+- How much information or memory Shade inherited from Pathwell.
+- Exact meaning/status of Pathwell's Chapter 1 claim that the apartment is magically "marked."
+- Whether Pathwell remains mechanically capable of pruning in the coda or simply chooses not to.
+- Exact climax sequence connecting diary buyback, pruning failure/force, and archive fire.
+- Papa Baga: develop or cut.
 
-### Story-level consistency checks after the interview
-- Reconcile the manuscript with all newly locked rules.
-- Remove stale references to Elizabeth casting/using magic.
-- Repair Chapter 2–3 diary possession continuity.
+### Final consistency pass after enough rules are locked
+- Reconcile manuscript with the decision logs and bibles.
+- Repair Chapter 2–3 diary/cookbook possession continuity.
 - Repair Chapter 4 patient/Mama Baga contradiction.
 - Repair Chapter 10 Camp destination → Chapter 11 museum transition.
-- Re-test Chapter 7 blob targeting against the final spillage/residue rules.
-- Re-test the climax and coda against the finalized pruning, archive, diary, and Space Between rules.
+- Re-test Chapter 7 blob targeting.
+- Re-test climax/coda against final pruning, archive, diary, and blob rules.
 
 ## Recording future answers
 
-As new decisions are made:
-
-- Add them to the authoritative dated bible/decision document rather than relying on chat memory.
-- Keep **locked rules**, **tentative interpretations**, and **open questions** visibly distinct.
-- If a new decision contradicts an older support file, update or flag the stale support file rather than silently carrying both versions.
-- Preserve user wording when it expresses the governing principle especially well.
-- Do not rewrite manuscript chapters automatically just because a bible rule changes; first finish enough of the interview to know the intended system, then perform a deliberate reconciliation pass.
+- Add decisions to the authoritative dated decision document.
+- Keep locked rules, tentative interpretations, and open questions visibly distinct.
+- Update or explicitly flag stale support files when a new decision contradicts them.
+- Preserve user wording when it expresses the governing principle well.
