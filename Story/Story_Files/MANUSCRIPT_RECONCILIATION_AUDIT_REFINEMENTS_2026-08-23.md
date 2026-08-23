@@ -132,6 +132,19 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 10. Crash → diner: Elizabeth follows wrongness she cannot yet name — LOCKED
+
+- **Elizabeth senses almost immediately after the crash that something is wrong with the man she takes for Pathwell, but she cannot yet name or prove what is wrong.**
+- Shade does **not** deliberately impersonate Pathwell, perform his mannerisms as a con, or explicitly claim to be him.
+- Shock from the crash, the strong physical resemblance, and Elizabeth's deeply established habit of following the person who appears certain about what happens next are enough to carry her away from the wreck with him.
+- Her body may register wrongness before her conscious mind does: posture, timing, clothing worn slightly wrong, a gesture that lands differently, or simply the accumulating fact that this familiar-looking person feels unfamiliar.
+- **Chapter 8 must not have Shade identify himself as `Mr. Shade` or otherwise confirm that he is not Pathwell.** That current reveal is stale.
+- Elizabeth also must not receive an objective explanation from anyone else before the diner. The recognition has to become hers.
+- The transition should therefore preserve two simultaneous truths: Elizabeth is no longer wholly passive after the chosen crash, but old habits do not vanish in a single awakening; under shock and uncertainty, she can still default to following apparent certainty.
+- The diner is where accumulated wrongness finally crosses into conscious recognition: **this man is not Pathwell.** Only after that recognition should the deeper truth that Elizabeth was never the point be delivered.
+
+---
+
 ## Next refinement question
 
-Decide how Shade gets Elizabeth away from the crash while preserving the diner as the moment she finally recognizes that the man with her is not Pathwell. The current Chapter 8 reveals `Mr. Shade` immediately and therefore spends the recognition too early.
+Decide what finally makes Elizabeth consciously recognize at the diner that the man with her is not Pathwell. The recognition should emerge from accumulated wrongness, but the scene still needs a clean moment where uncertainty becomes knowledge.
