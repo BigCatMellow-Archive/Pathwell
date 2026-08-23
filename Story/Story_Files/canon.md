@@ -81,8 +81,8 @@ The world's causes deliver a person to the intersection. What they do standing i
 These happen in roughly this order. Exact mechanics of currently unresolved transitions remain in the decision/conflicts material and must not be guessed into canon.
 
 1. **A clean, casual prune early** — establishes pruning as routine for Pathwell before its deeper cost becomes clear.
-2. **The bar mirror sequence** — Pathwell's own face repeated infinitely, then a replay from an angle that isn't his. His crack begins here. He tells no one.
-3. **Elizabeth cuts herself out of the bar blob** using Stansbury's imbued toy dagger — self-rescue rather than rescue by Pathwell.
+2. **The bar mirror sequence** — Pathwell sees Shade through the wrong-angle/reflected perspective clearly enough to begin understanding that the mystery points back to himself rather than Elizabeth. The realization hits hard enough that he abruptly leaves/runs out of the bar; he still does not yet possess the full Shade history or explanation.
+3. **The bar blob attacks/engulfs Pathwell, and Elizabeth cuts Pathwell free** using Stansbury's imbued toy dagger. The blob is responding to the ambiguous Pathwell/Shade cleanup signal, not hunting Elizabeth. Elizabeth's agency beat is choosing to intervene without waiting to be assigned a role.
 4. **The cookbook is voluntarily surrendered at Camp as a major permanent cost to heal the younger injured woman.** She is a relative stranger; Elizabeth gives up the irreplaceable family object because she independently decides that another person's suffering matters enough.
 5. **Midpoint crash** — Elizabeth is driving because she is the only sober one; Pathwell and Stansbury argue around her until she becomes furniture again, and she turns the wheel.
 6. **Diner** — wrongness rises until Elizabeth recognizes that the man with her is not Pathwell and that she was never the point.
