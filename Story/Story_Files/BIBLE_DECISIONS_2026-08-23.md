@@ -43,8 +43,19 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 
 ---
 
+## 3. Climax — malformed absorption recoil
+
+### Pathwell-centered violent eruption — LOCKED
+
+- **The malformed absorption recoil erupts violently through/from Pathwell himself.** He is the physical center of the failed working's backlash rather than the failure appearing as a remote seam, a delicate magical tear, or a simple sideways spark.
+- The spectacle should be **large, bodily, and destructive**: heat, pressure, magical force, and debris burst outward hard enough to make the failure feel catastrophic before the archive itself fully catches.
+- The recoil physically ignites the archive, directly preserving the established causal chain: Pathwell forces the contradictory prune → malformed post-release failure/spillage → violent Pathwell-centered recoil → ignition → destruction of charged records → archive-scale supernatural/emotional fallout.
+- The archive's charged contents do **not** spontaneously ignite merely because pruning spillage is nearby. The initial destructive discharge comes from the failed absorption working; the archive's stored emotional charge escalates the disaster only after the physical fire begins consuming the collection.
+- The exact ignition object/path — for example whether the blast throws burning material, ruptures something hot, or itself carries sufficient heat into the archive — is intentionally left for scene choreography. What is locked is that the recoil is a **violent spectacle of destruction centered on Pathwell**, not a minor accident.
+
+---
+
 ## Still open
 
-- The exact visual flourish of the malformed absorption recoil that ignites the archive.
 - The graffiti wall's precise mechanical role, only if the story needs it.
 - Papa Baga: develop or cut.
