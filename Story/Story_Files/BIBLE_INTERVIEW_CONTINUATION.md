@@ -56,6 +56,7 @@ Important late locks:
 - Pathwell remains capable of pruning in the coda and deliberately stops before release/acceptance: **`I can do this, and I stopped.`**
 - Papa Baga is cut cleanly from canon.
 - **Museum graffiti wall = durable Camp Cunnan anchor.** Camp moves, so Chapter 10's `Camp` destination leads practically through this long-established threshold. The museum is not an arbitrary detour; the confrontation interrupts the route to Camp.
+- **Shade's museum convergence:** Shade inherited old knowledge of the museum/Camp anchor in his creation-time Pathwell fragments. The continuing Pathwell draw then confirms that Pathwell is moving toward the same convergence point. Shade reaches the museum first and waits. This uses no present-day Pathwell memory feed, telepathy, new tracking power, or coincidence.
 - **Bar sequence revised:** the mirror makes Pathwell begin to understand the mystery points back to himself; he bolts from the bar, a blob attacks/engulfs him through the Pathwell/Shade overlap, and Elizabeth cuts Pathwell free with Stansbury's imbued toy dagger. The older `Elizabeth cuts herself free` version is stale.
 - **Bar blob aftermath:** Stansbury burns/destroys the freed blob manifestation with a heat/fire-based imbued attack. Destroying that body ends the immediate threat but does not eradicate the cleanup ecology or automatically resolve the underlying waste condition; another blob can later appear if cleanup is still required.
 - **Post-bar information split:** Pathwell tells Stansbury privately that the evidence now points back to Pathwell, but excludes Elizabeth. The later diner truth is therefore still a genuine revelation to her.
@@ -100,6 +101,7 @@ Important late locks:
 - **Elizabeth's answer to the accident framing:** `But you still chose it.` She does not demand clairvoyance from Pathwell; she distinguishes unforeseen consequences from the decision he actually made and controlled.
 - **Pathwell's immediate response:** `Yes.` He acknowledges the decision without arguing, but has not yet internalized its moral meaning strongly enough to avoid repeating the control failure later.
 - **Ask → museum causal bridge:** Elizabeth chooses `Camp`; because Camp moves, the known practical route is the long-established museum graffiti-wall anchor. The confrontation happens at that choke point before the group can reach Camp. Do not add a Shade clue, arbitrary museum mission, or random detour.
+- **Shade → museum convergence:** Shade knows the anchor from creation-time Pathwell fragments. The present draw toward Pathwell confirms the route is becoming the meeting point, allowing Shade to arrive first and wait without violating his information limits.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -134,14 +136,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **How does Shade know the museum is the Camp anchor, and how does he plausibly reach it in time for the confrontation?**
+> **What is Elizabeth's actual choice at the museum now that she has already chosen `Camp` before arriving there?**
 >
-> **A. Creation-time Pathwell fragments.** The museum anchor is old enough that Shade inherited a fragment of Pathwell's knowledge of it when Shade formed. After the diner, Shade independently goes there because he knows Pathwell will eventually need that route to Camp.
+> **A. She chooses Pathwell.** Shade has shown her Pathwell's failures, but at the confrontation she decides to return to Pathwell despite them. This preserves an older draft idea, but risks turning the museum into a choice between two men.
 >
-> **B. The draw alone guides Shade there.** He does not consciously know the anchor; following the Pathwell draw brings him toward the museum as Pathwell approaches it. This preserves his information limits but makes his arriving first harder to stage cleanly.
+> **B. She chooses Shade.** She believes Shade's honesty has earned enough trust to follow his lead into Camp. This would make her agency depend too heavily on choosing a new guide.
 >
-> **C. Creation-time knowledge + present draw.** Shade inherited the old fact that the museum graffiti wall is a Camp anchor, while the continuing Pathwell draw confirms that Pathwell is moving toward that route. Shade therefore recognizes the convergence point, reaches it first, and waits. No current memories or new tracking power are required.
+> **C. She rejects both men's claims on her and chooses Camp for herself.** Pathwell cannot frame himself as her rescuer; Shade cannot turn her into his witness/leverage. Elizabeth makes clear that she is going through the wall because **she** has chosen where she wants to go, regardless of which man follows or approves.
 >
-> **D. Shade physically follows the group after the diner/Ask.** He learns where they are going from their movement rather than inherited knowledge. This is mechanically simple but makes the museum encounter more like ordinary tailing than a meaningful convergence.
+> **D. She rejects both and leaves the magical world.** She walks away from the anchor and tries to return to ordinary life. This would sharply change the already-locked trajectory toward the Camp archive climax.
 
-Audit lean: **C**. It uses only two already-locked Shade properties — creation-time fragments and the continuing draw — and gives the museum a clean `therefore` without making Shade omniscient.
+Audit lean: **C**. It converts Chapter 10's verbal `Camp` into physical action and makes the museum's non-negotiable `Elizabeth rejects both framings` beat concrete without reducing her choice to Pathwell-vs.-Shade.
