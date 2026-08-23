@@ -69,6 +69,7 @@ Important late locks:
   1. Nana's handwritten cookbook — surrendered at Camp.
   2. Elizabeth's diary — donated to archive, bought back by Pathwell, then lost when Elizabeth chooses the child.
 - **Remove the diary's charred edges / missing-page history entirely.** The diary may show ordinary wear, but it remains physically intact until the archive fire. The Chapter 1 consumed page belongs to Nana's handwritten cookbook.
+- **Chapter 2 geography is both objectively and subjectively strange:** Pathwell leads Elizabeth across a subtle threshold/route, so she really is somewhere different, but she does not know that. Her panic/exhaustion makes her mind try to force unfamiliar landmarks onto the neighborhood map she believes she is still in. Reality does not rewrite itself; her interpretation is what scrambles.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -103,12 +104,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **How should Chapter 2's changed neighborhood geography work?**
+> **What should replace Chapter 4's current post-healing gold-residue/blob-bait logic as Pathwell's reason to seek Stansbury?**
 >
-> **A. Remove the geography replacement.** They remain in Elizabeth's ordinary neighborhood; keep the scene grounded and save impossible geography for established thresholds/places.
+> **A. The Chapter 1 blob behavior was abnormal enough that Pathwell wants backup.** He cannot explain why a cleanup creature was behaving around his signal the way it did, so he seeks the one person he trusts to be useful in a magical mess.
 >
-> **B. Keep it, but establish that Pathwell has led Elizabeth across a subtle threshold/route.** The coffee shop/laundromat/park mismatch is a real location transition, not reality being rewritten around her.
+> **B. Pathwell senses the Pathwell/Shade overlap worsening, but cannot identify it.** The strange signal/disturbance after Camp convinces him something is following or mirroring him, so he goes to Stansbury.
 >
-> **C. Keep only mild disorientation.** Streets/routes feel unfamiliar because Elizabeth is panicked, tired, and following Pathwell, but buildings do not literally change.
+> **C. Mama Baga tells him to get Stansbury.** She recognizes that Pathwell is out of his depth and orders him to stop handling the problem alone.
+>
+> **D. Combine A + C.** The abnormal blob behavior worries Pathwell, and Mama Baga independently tells him to bring Stansbury in. This gives both practical and relational causality.
 
-Audit lean: **B** if the uncanny transition is worth preserving; otherwise **A** is the cleanest.
+Audit lean: **D**. It avoids inventing a new magical residue, gives Mama Baga useful authority, and reinforces Pathwell's tendency to resist involving others until pushed.
