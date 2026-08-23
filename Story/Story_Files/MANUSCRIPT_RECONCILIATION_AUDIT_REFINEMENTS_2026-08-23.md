@@ -251,6 +251,21 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 20. Museum graffiti wall = durable Camp Cunnan anchor — LOCKED
+
+- **The museum is not an arbitrary destination after the Ask. The graffiti wall is a long-established, durable threshold/anchor used to reach Camp Cunnan.**
+- Chapter 10's destination remains meaningful: after demanding and receiving the truth, **Elizabeth chooses `Camp`.** The story does not then abandon that destination for a random museum detour.
+- Camp Cunnan moves and cannot be treated as a permanent street address. Durable anchors are therefore valuable because they tend to reconnect after the Camp shifts.
+- **The museum graffiti wall is one of those durable anchors.** Going to the museum is the practical route to Camp in this part of the story.
+- The causal bridge is therefore: **the Ask → Elizabeth chooses Camp → Camp must be reached through a reliable anchor → they go to the museum graffiti wall → the museum confrontation interrupts the route before they can pass through.**
+- This solves the previously flagged diner/Ask → museum `AND THEN` gap without adding a clue, a new mission, magical tracking, or an unrelated reason to visit a museum.
+- Preserve the wall's existing thematic function: soldiers carved names, dates, drawings, and messages as proof that they existed and should not simply disappear into history. That meaning is especially resonant for Elizabeth and Shade, but **the thematic resonance is payoff, not the logistical excuse for the location.**
+- The wall being an anchor does not establish that every emotionally charged wall, historical site, or collection is automatically a threshold. This is a specific old connection with its own history.
+- Exact activation conditions can remain threshold-specific unless the manuscript needs them. Do not turn the wall into a universal rule for Camp travel or magical graffiti.
+- The exact reason Shade knows the anchor and reaches the museum before or alongside the others is **not yet locked** and is the next refinement issue.
+
+---
+
 ## Next refinement question
 
-Decide what directly sends Elizabeth, Pathwell, and Stansbury from the Chapter 10 Ask toward the museum/graffiti-wall sequence. The current manuscript says `Camp` and then opens Chapter 11 at the museum without supplying the causal turn.
+Decide how Shade knows the museum is the Camp anchor and how he plausibly reaches the museum in time for the confrontation without granting him present-day Pathwell memories or inventing a new tracking power.
