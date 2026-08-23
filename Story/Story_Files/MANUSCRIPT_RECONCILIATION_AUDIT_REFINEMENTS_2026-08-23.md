@@ -109,6 +109,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 8. Pathwell tells Stansbury, excludes Elizabeth — LOCKED
+
+- **After the mirror/blob sequence, Pathwell privately tells Stansbury that the evidence now strongly suggests the underlying problem points back to Pathwell himself.**
+- Pathwell still lacks the full Shade explanation, but he shares his new suspicion with his brother because he wants Stansbury's expertise/help.
+- **Elizabeth is deliberately not included in that conversation.** Pathwell once again decides what she needs to know even though she has already been endangered by the problem and has just physically saved him from the blob.
+- This preserves the later diner reveal for Elizabeth: she has not been told that she may never have been the true target or center of the danger.
+- The exclusion directly feeds the midpoint car sequence. Pathwell and Stansbury continue discussing the problem from the back seat, talking over/around Elizabeth, giving her directions and treating her as the driver rather than as a participant whose life is implicated.
+- **Elizabeth's eventual turn of the wheel is therefore not an isolated burst of irritation.** It grows out of the same starting wound: she is useful enough to drive them, rescue them, and absorb consequences, but they still treat the important conversation as belonging to the men in the back seat.
+- Do not make the brothers cartoonishly cruel. Their failure should be casual and habitual: they are focused on their own argument/problem and reproduce Elizabeth's lifelong experience of becoming invisible while still being expected to comply.
+
+---
+
 ## Next refinement question
 
-Decide what Pathwell tells Elizabeth and Stansbury after the bar mirror/blob sequence, especially how much of his new suspicion he admits before the diner reveal.
+Decide Elizabeth's exact intent when she turns the wheel at the midpoint: whether she specifically means to cause a crash, means only to break the brothers' control of the moment, or acts without choosing the exact consequence.
