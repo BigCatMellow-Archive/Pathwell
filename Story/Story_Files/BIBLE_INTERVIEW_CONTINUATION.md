@@ -100,7 +100,7 @@ Locked 2026-08-22:
 - The blob then checks for remaining waste and leaves.
 - Shade's absorption does not retroactively convert the malformed prune into a successfully ledgered transaction.
 
-## Section 7 — Shade creation / Pathwell's formative mistake — ACTIVE
+## Section 7 — Shade creation / Pathwell's formative mistake — sufficiently covered for now
 
 Locked 2026-08-22:
 
@@ -110,24 +110,26 @@ Locked 2026-08-22:
 - The person genuinely asked Pathwell for help, but did not ask him to prune. They consented to help, not to Pathwell's exact magical method or the cost he chose to take on.
 - Pathwell independently chose pruning because he saw it as the quickest/cleanest solution.
 - The exact practical problem remains open and does not need to be specified unless the story later requires it.
-- **Shade inherits fragments and impressions from Pathwell, not a coherent copied autobiography.** He may carry disconnected memories, emotional associations, instincts, habits, flashes of people/places, or knowledge whose origin he cannot identify.
+- Shade inherits **fragments and impressions** from Pathwell, not a coherent copied autobiography: disconnected memories, emotional associations, instincts, habits, flashes, or pieces of knowledge whose origin he may not know.
 - Shade remains an independent person whose own experience accumulates separately after formation.
+- **The inherited fragments are creation-time only. No new Pathwell memories, present-day experiences, or knowledge cross into Shade after he forms.**
+- Their continuing connection can still carry the draw, overlapping magical signature, and pain/jolt from Pathwell's pruning without becoming telepathy or an ongoing information channel.
 
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one follow-up question about Shade's inherited fragments:
+Move to the next concrete manuscript contradiction and ask exactly one question:
 
-> **Are the fragments Shade inherited a one-time consequence of his creation, or can new Pathwell memories continue to cross into him afterward?**
+> **Who receives the healing that costs Elizabeth her grandmother's cookbook at Camp Cunnan?**
 >
-> **A. Creation-time inheritance only.** Shade formed carrying fragmentary pieces of Pathwell, but no new memories cross afterward. Their continuing connection can transmit the draw, magical resonance, or pain from pruning without functioning as telepathy or memory sharing.
+> **A. Mama Baga.** The sacrifice becomes personally tied to Pathwell's adopted mother and makes Elizabeth's choice immediately intimate to Pathwell's family. Older support material uses this version.
 >
-> **B. Triggered leakage.** They are normally psychologically separate, but strong events — especially pruning, magical resonance, or extreme emotion — can force new fragments from Pathwell across the connection.
+> **B. The younger injured woman from the current manuscript.** Elizabeth gives up something irreplaceable for a relative stranger she can see suffering. This keeps the act centered more purely on Elizabeth's own choice rather than on doing something for Pathwell's family.
 >
-> **C. Ongoing passive bleed.** Shade continues to pick up small fragments of Pathwell's present life over time, even without a dramatic trigger.
+> **C. Keep the patient as another Camp resident, but deliberately redesign who they are later.** Lock only that the recipient is not Mama Baga and is not important because of a pre-existing tie to Pathwell.
 
-**A** is the cleanest if the goal is to protect Shade's independent personhood and avoid turning the Pathwell/Shade connection into a broad information channel. The user decides.
+The recipient should be chosen for what Elizabeth's sacrifice means, not merely because one draft happens to contain them. The user decides.
 
 ---
 
@@ -135,15 +137,11 @@ Ask exactly one follow-up question about Shade's inherited fragments:
 
 Do not ask these all at once.
 
-### Shade
-- Exact practical problem Pathwell was trying to solve when Shade was created, only if the story later needs that specificity.
-
 ### Thresholds / graffiti wall
 - General threshold mechanics only if the story still needs more than the Space Between/Camp-specific rules.
 - Whether the museum graffiti wall is a durable Camp anchor, beacon, or simply a charged meaningful location.
 
 ### Character/story reconciliation
-- Cookbook healing recipient: Mama Baga vs younger unnamed woman.
 - Exact meaning/status of Pathwell's Chapter 1 claim that the apartment is magically "marked."
 - Whether Pathwell remains mechanically capable of pruning in the coda or simply chooses not to.
 - Exact climax sequence connecting diary buyback, pruning failure/force, and archive fire.
@@ -152,7 +150,7 @@ Do not ask these all at once.
 ### Final consistency pass after enough rules are locked
 - Reconcile manuscript with the decision logs and bibles.
 - Repair Chapter 2–3 diary/cookbook possession continuity.
-- Repair Chapter 4 patient/Mama Baga contradiction.
+- Repair the Camp healing scene against the selected patient.
 - Repair Chapter 10 Camp destination → Chapter 11 museum transition.
 - Re-test Chapter 7 blob targeting.
 - Re-test climax/coda against final pruning, archive, diary, and blob rules.
