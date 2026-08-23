@@ -97,7 +97,7 @@ Newer dated locked decisions override older manuscript/support material until de
 - The cancellation returns cleanly.
 - Meaning: **`I can do this, and I stopped.`**
 
-## Section 11 — Climax absorption/fire — ACTIVE, mostly locked
+## Section 11 — Climax absorption/fire — sufficiently covered
 
 ### Absorption attempt
 
@@ -109,7 +109,7 @@ Newer dated locked decisions override older manuscript/support material until de
 - Shade sees absorption as an easy way for Pathwell to erase the consequence he created. Shade's suffering, deeds, choices, and impact on other people are real; Pathwell cannot simply fold him back into himself and call that accountability.
 - Shade wants Pathwell to face the fact that his choices have consequences in other people and to acknowledge what he did.
 - **Pathwell hears the refusal and attempts absorption anyway.** This is the core flaw at maximum intensity: another person's stated boundary becomes secondary to Pathwell's conviction that he must solve the situation.
-- **Shade then holds his ground.** He does not attack, flee, sabotage the working, or cooperate. His refusal remains clear and in force while Pathwell proceeds.
+- **Shade holds his ground.** He does not attack, flee, sabotage the working, or cooperate. His refusal remains clear and in force while Pathwell proceeds.
 - Shade's stillness does not cause the magical failure; it prevents Pathwell from blaming the catastrophe on resistance or interference.
 
 ### Doubt rule
@@ -122,13 +122,14 @@ Newer dated locked decisions override older manuscript/support material until de
 - Shade's refusal sharpens that contradiction, but is not a separate magical cause of failure.
 - In the coda Pathwell reaches the analogous point and finally stops before release.
 
-### Archive ignition
+### Archive ignition / recoil
 
-- **The malformed absorption failure produces a physical magical recoil/discharge that ignites the archive.**
-- The initial ignition is physical backlash from Pathwell's failed working; pruning spillage and emotional charge remain distinct systems.
+- **The malformed absorption failure erupts violently through/from Pathwell himself.** Pathwell is the physical center of the recoil.
+- The backlash is a large destructive spectacle of heat, pressure, magical force, and debris rather than a minor spark or delicate magical tear.
+- The violent recoil physically ignites the archive.
 - Once fire begins destroying the archive's dense charged collection, the destruction of those records produces the much larger supernatural/emotional catastrophe.
-- Causal chain: **forced contradictory prune → malformed post-release failure/spillage → physical magical recoil → ignition → mass charged-record destruction → archive-scale fallout.**
-- The recoil should have **more flourish** than a mundane spark/generic burst of heat. Exact visual manifestation remains open for staging.
+- Causal chain: **forced contradictory prune → malformed post-release failure/spillage → violent Pathwell-centered recoil → ignition → mass charged-record destruction → archive-scale fallout.**
+- The exact ignition object/path and sentence-level choreography remain open for the Chapter 12b rewrite; the scale, Pathwell-centered origin, and destructive nature are locked.
 
 ### Diary buyback — LOCKED
 
@@ -148,23 +149,26 @@ Newer dated locked decisions override older manuscript/support material until de
 - This deliberately echoes the cookbook sacrifice: she again gives up something irreplaceable because a living stranger matters.
 - Stansbury's separate climactic turn remains intact: he still chooses to enter the burning archive, is permanently burned, and carries a scar Pathwell cannot undo.
 
+### Graffiti wall
+
+- The museum graffiti-wall threshold currently works under the already-locked threshold rules and does **not** need an additional universal mechanic unless manuscript reconciliation exposes a concrete contradiction.
+- Preserve it as threshold-specific/iceberg lore rather than over-designing it now.
+
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one question about the **visual staging** of the malformed absorption recoil that physically ignites the archive. This is scene language/staging, not a new universal magical law.
+Ask exactly one question about **Papa Baga**, an early co-parent figure who was established and then dropped from later material:
 
-> **What form should the failed absorption recoil take when it starts the archive fire?**
+> **What should we do with Papa Baga?**
 >
-> **A. The working snaps outward and throws existing flame sideways.** Space/light around Pathwell and Shade pulls sharply inward as if the absorption is beginning, then violently rebounds. The concussion sends the nearby campfire or burning material sideways into the archive. This preserves a physically ordinary ignition while giving the magical failure a dramatic visible shape and can preserve the current draft image that `the fire went sideways`.
+> **A. Cut him cleanly.** Mama Baga remains Pathwell's sole established Camp parent/matriarch. Any stale Papa Baga references are removed during reconciliation. This is the simplest version and avoids adding a character who currently has no necessary dramatic function.
 >
-> **B. A white-hot seam lashes out of the failed working.** The attempted collapse between Pathwell and Shade forms a narrow visible line or tear; when the working rejects the forced payment, the line whips away from them and physically scorches/ignites the archive. More visually supernatural, but still treats the recoil as the ignition rather than emotional charge spontaneously combusting.
+> **B. Keep him as Mama Baga's partner / co-parent, but mostly background.** He exists, is part of Pathwell's family history, and may appear briefly at Camp without receiving a subplot or major arc.
 >
-> **C. Pathwell becomes the center of a concussive discharge.** The malformed prune collapses back through him and erupts outward as heat, pressure, and debris. Something ordinary — a lantern, stove, brazier, burning timber — is knocked into the archive and starts the fire. This makes the backlash feel bodily and dangerous while keeping the final ignition mundane.
->
-> **D. Keep the exact visual deliberately open.** Lock only that the failure produces a dramatic physical recoil which ignites the archive, and solve the image during the actual Chapter 12b rewrite when sentence rhythm and geography are available.
+> **C. Develop him into a distinct supporting character.** Give him a clear relationship to Pathwell, Mama Baga, and the Camp plus at least one meaningful story function that Mama Baga cannot already perform.
 
-Current lean: **A**. It has flourish without adding a new magic subsystem, preserves the strong existing `fire went sideways` image, and makes the archive fire feel like a direct physical consequence of Pathwell forcing the working.
+Current lean: **A** unless the user particularly wants the two-parent Camp family structure. Mama Baga already carries the emotional and structural role cleanly, and adding Papa Baga without a unique function would dilute rather than deepen the cast. The user decides.
 
 ---
 
@@ -172,14 +176,13 @@ Current lean: **A**. It has flourish without adding a new magic subsystem, prese
 
 Do not ask all at once.
 
-- Decide graffiti wall exact mechanical role only if needed.
-- Papa Baga: develop or cut.
-- Final manuscript consistency/reconciliation pass after enough rules are locked.
+- Final manuscript consistency/reconciliation pass after Papa Baga is resolved.
+- Only reopen graffiti-wall mechanics if the rewrite exposes a concrete threshold contradiction.
 
 Final reconciliation must include:
 - Chapter 2–3 diary/cookbook possession continuity.
 - Camp healing scene with younger injured woman.
 - Chapter 10 Camp destination → Chapter 11 museum transition.
 - Chapter 7 blob targeting.
-- Climax rewrite: Shade refuses and holds his ground; no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, child rescue, Stansbury's burn, and final diary destruction.
+- Climax rewrite: Shade refuses and holds his ground; Pathwell-centered violent recoil; no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, child rescue, Stansbury's burn, and final diary destruction.
 - Coda rewrite: Pathwell can prune and voluntarily stops.
