@@ -60,6 +60,7 @@ Important late locks:
 - **Bar blob aftermath:** Stansbury burns/destroys the freed blob manifestation with a heat/fire-based imbued attack. Destroying that body ends the immediate threat but does not eradicate the cleanup ecology or automatically resolve the underlying waste condition; another blob can later appear if cleanup is still required.
 - **Post-bar information split:** Pathwell tells Stansbury privately that the evidence now points back to Pathwell, but excludes Elizabeth. The later diner truth is therefore still a genuine revelation to her.
 - **Midpoint crash:** Elizabeth deliberately causes the crash itself. She is not selecting a specific injury/severity; the crash is her chosen rupture and symbolic awakening, reversing the opening `It was the crash that woke her.`
+- **Crash → diner:** Elizabeth senses that the Pathwell-looking man is wrong almost immediately, but cannot yet name it. Shade does not deliberately impersonate Pathwell. Shock, resemblance, and Elizabeth's old habit of following apparent certainty carry her with him until the diner gives her enough clarity to recognize that he is not Pathwell.
 
 ---
 
@@ -79,6 +80,7 @@ Important late locks:
 - **Bar blob resolution:** after Elizabeth's rescue, Stansbury destroys the manifested blob body with heat/fire. A killed manifestation is not a universal cure for the unresolved cleanup condition.
 - **Post-bar exclusion / crash setup:** Pathwell privately tells Stansbury that the problem appears to point back to him while leaving Elizabeth out. In the car, the brothers discuss it in the back seat, talk around her, direct her, and treat her as transportation even though she has just saved Pathwell. This accumulated erasure is part of why she turns the wheel; the beat should read as a continuation of her compliance/invisibility wound rather than random irritation.
 - **Midpoint chosen crash / awakening:** Elizabeth intentionally causes the crash. The choice echoes and reverses the opening line: initially a crash wakes her from passive routine; at midpoint she creates the crash that wakes her through her own action. She is not deliberately choosing who gets hurt or how badly. The scene should let the structural rhyme carry this meaning without explaining it aloud.
+- **Crash-to-diner recognition setup:** Elizabeth suspects something is wrong with the man she follows from the crash but cannot yet name it. Shade does not claim to be Pathwell or perform an impersonation. Her body registers accumulated mismatches before her conscious mind resolves them. Chapter 8's current `Mr. Shade` identification is stale and must be removed during reconciliation. The diner remains the moment she consciously knows: **this man is not Pathwell.**
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -113,14 +115,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **How should Shade get Elizabeth away from the crash without spending the diner reveal too early?**
+> **What finally makes Elizabeth consciously recognize at the diner that the man with her is not Pathwell?**
 >
-> **A. Elizabeth mistakes Shade for Pathwell and goes with him willingly.** She is dazed after the crash; he does not identify himself, and the physical resemblance is enough. Small behavioral wrongness accumulates during the ride/diner until recognition.
+> **A. No single giveaway — accumulated wrongness becomes undeniable.** Clothing, posture, timing, voice, reactions, and manner all keep landing slightly wrong until Elizabeth stops rationalizing them and simply asks or states that he is not Pathwell.
 >
-> **B. Shade deliberately impersonates Pathwell.** He actively lies, copies Pathwell's manner, and uses the resemblance to make Elizabeth come with him. The diner is where the performance finally fails.
+> **B. He accidentally refers to Pathwell as a separate person.** The accumulated unease is already there, then one natural sentence using `he`/`Pathwell` makes the truth snap into focus. He is not theatrically revealing himself; he simply stops maintaining an assumption he never created.
 >
-> **C. Shade physically takes Elizabeth, but never identifies himself.** She knows immediately that something is badly wrong but cannot yet identify who/what he is. This preserves the name reveal but not really the locked recognition that he is `not Pathwell`.
+> **C. Elizabeth tests him with something only the real Pathwell should know.** His answer exposes the difference. This gives Elizabeth an active investigative beat but risks implying Shade should have current Pathwell/Elizabeth memories he canonically cannot possess.
 >
-> **D. Elizabeth suspects something is wrong almost immediately but cannot yet name it.** Shade does not explicitly impersonate Pathwell; shock, resemblance, and Elizabeth's habitual tendency to follow the person who seems to know what is happening carry her along. The wrongness grows until the diner gives her enough clarity to say: this man is not Pathwell.
+> **D. A + B.** The diner is a long accumulation of tiny mismatches. Elizabeth is already nearly certain when Shade casually speaks about Pathwell in the third person, turning felt wrongness into explicit knowledge.
 
-Audit lean: **D**. It preserves the diner recognition while tying the transition to Elizabeth's established habit of yielding to apparent certainty, rather than making Shade either a theatrical impersonator or a simple kidnapper.
+Audit lean: **D**. It lets Elizabeth's observation do most of the work, while giving the scene one clean click where suspicion becomes fact without relying on forbidden memory knowledge or a melodramatic reveal.
