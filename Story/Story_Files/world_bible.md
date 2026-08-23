@@ -75,6 +75,8 @@ These are different substances that can attract the same cleanup creatures. Ordi
 
 **Chapter 1:** The blob reaches Elizabeth's apartment by following the effectively overlapping Pathwell/Shade signature. Shade has followed Pathwell because of the draw; Pathwell has wandered into Elizabeth's apartment while scavenging charged material. Elizabeth is not the reason the blob is there. Pathwell sees the blob breaking down her door, does not know Shade exists, and incorrectly concludes that the blob must be after Elizabeth. Once inside, the blob redirects toward fresh unclaimed casting waste created when Elizabeth physically interrupts Pathwell's already-active cookbook working.
 
+**Climactic cleanup:** Shade is the actual unresolved pruning-waste anomaly; Pathwell only resembles the cleanup target because their signatures overlap. When the climactic blob absorbs Shade, it removes the real waste source and collapses the ambiguous Pathwell/Shade signal at the same time. The blob can then re-check Pathwell and the immediate area, finds no remaining Shade-scale cleanup target, and leaves according to its ordinary post-cleanup behavior. Absorption removes the anomaly; it does not retroactively turn Shade's creation into a successfully settled pruning transaction.
+
 **Sensory signature:** stench of wet-rot / low tide. Amorphous, at least six feet. Dark ooze. The eye wants to slide off them.
 
 ---
