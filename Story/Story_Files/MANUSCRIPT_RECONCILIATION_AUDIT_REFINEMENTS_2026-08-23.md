@@ -75,6 +75,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 6. Chapter 4 → 5 reason to seek Stansbury — LOCKED
+
+- **Combine the abnormal Chapter 1 blob behavior with Mama Baga independently pushing Pathwell to involve Stansbury.**
+- Pathwell is already uneasy because the Chapter 1 cleanup creature behaved in a way he cannot comfortably explain around his/Elizabeth's apparent situation.
+- He does not yet understand Shade or the Pathwell/Shade overlap, so this unease should remain practical and incomplete rather than becoming an early correct diagnosis.
+- **Mama Baga independently recognizes that Pathwell is out of his depth and tells him to bring Stansbury in rather than continue handling the problem alone.**
+- This gives the Chapter 4 → 5 transition both practical causality and character causality: Pathwell has a real reason to want backup, but still benefits from someone else forcing him to widen the circle.
+- The successful healing of the younger injured woman remains clean. **Do not preserve the old gold-residue/blob-bait explanation and do not invent replacement casting waste from a successful working.**
+- Mama Baga's push should reinforce her authority and Pathwell's established flaw without turning her into an exposition device or someone who already knows the true Shade answer.
+
+---
+
 ## Next refinement question
 
-Decide what replaces Chapter 4's current post-healing gold-residue/blob-bait logic as Pathwell's reason to seek Stansbury.
+Decide how the Chapter 7 blob encounter ends after Elizabeth cuts herself free, so the scene preserves her self-rescue without establishing blobs as ordinary monsters that can simply be killed by weapon damage.
