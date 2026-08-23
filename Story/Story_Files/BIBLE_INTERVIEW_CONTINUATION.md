@@ -107,31 +107,33 @@ Locked 2026-08-22:
 - No permanent blob-tracking mark on Elizabeth or the apartment is established.
 - The later wet thud down the hall accidentally makes his claim look correct, though the continuing cleanup activity is tied to the Pathwell/Shade situation.
 
-## Section 10 — Pathwell's pruning in the coda — ACTIVE
+## Section 10 — Pathwell's pruning in the coda — LOCKED
 
-Locked 2026-08-22:
-
-- **Pathwell remains mechanically capable of pruning at the end.**
-- Shade's resolution does not remove or seal that ability.
-- His growth must be voluntary: pruning remains an available option and Pathwell chooses another way.
-- The current coda's literal `nothing happened` attempt is therefore stale and must be revised.
-- Relief can remain, but should arise from Pathwell's own refusal/stopping rather than from magic making pruning impossible.
+- **Pathwell remains mechanically capable of pruning at the end.** Shade's resolution does not remove or seal the ability.
+- His growth is voluntary: pruning remains available and he chooses another way.
+- In the coda, Pathwell **begins a small prune and deliberately stops before release/acceptance**.
+- The familiar signs begin, proving the ability still works.
+- Because he cancels before release/acceptance, the possibility returns cleanly under the already-locked early-cancellation rule.
+- The emotional meaning is therefore `I can do this, and I stopped`, not `I cannot do this anymore`.
+- The current coda's literal `nothing happened` version is stale and should be revised only during the later manuscript reconciliation pass.
 
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one follow-up question to determine how the coda demonstrates Pathwell's choice:
+The current `Chapter_12b.txt` is mechanically stale in several ways, especially because Elizabeth still possesses and magically burns the diary. However, it contains a potentially useful structural skeleton: Pathwell arrives intending to solve Shade, attempts a working, the working catastrophically fails, and the archive catches fire.
 
-> **How should the coda show that Pathwell could prune, but chooses not to?**
->
-> **A. He begins the prune and deliberately stops before release.** The familiar signs begin — pressure, branch-light, whatever the final visual language is — proving the ability still works. Then Pathwell stops before the possibility is released/accepted. This uses the already-locked rule that an early cancellation can return cleanly and turns the current coda beat into an explicit choice.
->
-> **B. He reaches the point of initiating but never activates it.** He has the means and opportunity, recognizes his old reflex, and simply puts it away before any magic begins. More restrained, but provides less mechanical proof that the ability remains.
->
-> **C. He openly offers pruning as payment, then withdraws the offer before the custodian accepts it.** The choice occurs through negotiation rather than a magical near-start. This foregrounds the transaction/consent side of pruning but is more dialogue-dependent.
+Ask exactly one question:
 
-**A** is the cleanest mirror of the current coda because it preserves the almost-prune, preserves the relief beat, mechanically proves Pathwell still can prune, and makes the decisive action his: he stops.
+> **What action by Pathwell directly causes the Camp archive fire?**
+>
+> **A. A failed attempt to sever Shade.** Pathwell uses a properly constructed magical working whose effect is to separate/end the Pathwell–Shade connection, and pruning is the payment for that working rather than the effect itself. Because Pathwell and Shade's signatures are abnormally overlapping, the working cannot resolve cleanly after possibility is released. The failure produces pruning spillage / magical recoil, which strikes or destabilizes the densely charged archive and starts the fire. This preserves the current draft's strongest skeleton while fixing the pruning rules and removing Elizabeth's diary from the magic.
+>
+> **B. The attempted diary buyback itself fails catastrophically.** Pathwell tries to use pruning as payment to recover Elizabeth's donated diary. Something goes wrong after release/acceptance begins, and the failed transaction ignites/destabilizes the archive. This ties the catastrophe most directly to Pathwell trying to undo Elizabeth's choice, but requires careful transaction mechanics because the archive must be capable of accepting or refusing payment.
+>
+> **C. The buyback succeeds or remains separate, but Pathwell then performs a different large control/protection working at the archive.** That second working fails and starts the fire. This gives more flexibility but is less tightly tied to Shade's established warning that Pathwell will try to "cut me loose."
+
+**A** currently fits the largest number of locked elements with the least new machinery: Shade already expects Pathwell to try to sever him; Pathwell's pruning already hurts Shade because of their overlapping signatures; failed post-release pruning can create spillage; and Pathwell's attempt to solve/control the situation remains the direct cause of the archive catastrophe. If A is chosen, the diary buyback can be placed before or around the confrontation as a separate expression of the same flaw in the next question.
 
 ---
 
@@ -139,12 +141,15 @@ Ask exactly one follow-up question to determine how the coda demonstrates Pathwe
 
 Do not ask these all at once.
 
+### Climax / diary buyback
+- After the direct fire cause is locked, determine where Pathwell's diary buyback attempt sits relative to the confrontation/fire and whether it succeeds before the catastrophe.
+- Rebuild Elizabeth's non-magical physical action in the fire once the causal sequence is clear.
+
 ### Thresholds / graffiti wall
 - General threshold mechanics only if the story still needs more than the Space Between/Camp-specific rules.
 - Whether the museum graffiti wall is a durable Camp anchor, beacon, or simply a charged meaningful location.
 
 ### Character/story reconciliation
-- Exact climax sequence connecting diary buyback, pruning failure/force, and archive fire.
 - Papa Baga: develop or cut.
 
 ### Final consistency pass after enough rules are locked
@@ -154,6 +159,7 @@ Do not ask these all at once.
 - Repair Chapter 10 Camp destination → Chapter 11 museum transition.
 - Re-test Chapter 7 blob targeting.
 - Rewrite the stale coda prune attempt to preserve Pathwell's voluntary choice.
+- Rebuild the climax so Elizabeth does not perform magic and the diary's archive ownership/buyback rules are honored.
 - Re-test climax/coda against final pruning, archive, diary, and blob rules.
 
 ## Recording future answers
