@@ -1,6 +1,6 @@
 # canon.md — Story's Physical Laws & Core Engine
 
-*The non-negotiable spine. If a scene contradicts something here, the scene is wrong. Open/undecided items live in the conflicts/decision material, not here — this file holds only what is locked. Detailed world mechanics live in `world_bible.md`; the August 21, 2026 interview record lives in `BIBLE_DECISIONS_2026-08-21.md`.*
+*The non-negotiable spine. If a scene contradicts something here, the scene is wrong. Open/undecided items live in the conflicts/decision material, not here — this file holds only what is locked. Detailed world mechanics live in `world_bible.md`; dated interview decisions live in `BIBLE_DECISIONS_2026-08-21.md` and `BIBLE_DECISIONS_2026-08-22.md`.*
 
 ---
 
@@ -21,6 +21,8 @@ Stated as the book's argument: **agency and human mattering exist independent of
 The act of pruning does not rewrite probability, choose a timeline, force an outcome, or alter events by selecting a future. It narrows the practitioner's overall field of possibility because something has genuinely been surrendered.
 
 A completed prune is irreversible. Early cancellation can return cleanly; a later failure after possibility has been released can leave **unclaimed spillage**.
+
+Ordinary fear, uncertainty, regret, or mixed feelings do not invalidate pruning. The dangerous case is **fundamental contradiction in intent**: if a trained practitioner forces possibility past the safe cancellation point while trying to fund an outcome they do not actually commit to or believe should be carried through, the released payment cannot settle cleanly and becomes malformed unclaimed pruning spillage.
 
 ### Emotionally charged records
 
@@ -81,15 +83,15 @@ These happen in roughly this order. Exact mechanics of currently unresolved tran
 1. **A clean, casual prune early** — establishes pruning as routine for Pathwell before its deeper cost becomes clear.
 2. **The bar mirror sequence** — Pathwell's own face repeated infinitely, then a replay from an angle that isn't his. His crack begins here. He tells no one.
 3. **Elizabeth cuts herself out of the bar blob** using Stansbury's imbued toy dagger — self-rescue rather than rescue by Pathwell.
-4. **The cookbook is voluntarily surrendered at Camp as a major permanent cost.** The exact healing recipient (Mama Baga vs. the younger woman in the current manuscript) remains unresolved; do not silently choose one.
+4. **The cookbook is voluntarily surrendered at Camp as a major permanent cost to heal the younger injured woman.** She is a relative stranger; Elizabeth gives up the irreplaceable family object because she independently decides that another person's suffering matters enough.
 5. **Midpoint crash** — Elizabeth is driving because she is the only sober one; Pathwell and Stansbury argue around her until she becomes furniture again, and she turns the wheel.
 6. **Diner** — wrongness rises until Elizabeth recognizes that the man with her is not Pathwell and that she was never the point.
 7. **The Ask** — gutted by what she has learned, Elizabeth turns toward the person who harmed her and demands truth/acknowledgment rather than collapsing inward.
 8. **Museum confrontation** — Elizabeth rejects both men's framings and makes a choice of her own.
-9. **Camp archive catastrophe** — the archive burns and Pathwell's attempt to fix/control the situation is causally implicated. The exact diary-buyback / pruning / fire sequence is under active reconstruction; do not preserve a contradictory draft merely because it is later.
+9. **Camp archive catastrophe** — before confronting Shade, Pathwell legitimately buys Elizabeth's donated diary back from the archive by paying with a clean prune of his own future possibility. He then attempts to absorb/reintegrate Shade using pruning as payment despite fundamentally doubting that he has the right to choose that outcome. He forces release anyway; the prune cannot settle cleanly, the malformed failure produces a physical magical recoil that ignites the archive, and destruction of the charged collection escalates the fire into archive-scale supernatural fallout. The recoil's exact visual flourish remains open for staging.
 10. **Elizabeth acts during the climax without using magic.** Her diary is not a spell or weapon. Her agency must remain human action and choice.
 11. **Shade's death** — eye contact, the draw stops, relief without confession. Neither noble nor clean.
-12. **Closing role inversion** — Pathwell reaches a changed relationship with pruning/control; Elizabeth initiates what comes next with "Are you ready?" / "No." / "Perfect." Exact buyback mechanics immediately preceding this remain to be reconciled.
+12. **Closing role inversion** — Pathwell remains capable of pruning. He begins a prune far enough to prove the ability still works, then voluntarily stops before release so the possibility returns cleanly. Elizabeth initiates what comes next with "Are you ready?" / "No." / "Perfect."
 
 ---
 
