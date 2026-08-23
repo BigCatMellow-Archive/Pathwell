@@ -69,7 +69,7 @@ Important late locks:
   1. Nana's handwritten cookbook — surrendered at Camp.
   2. Elizabeth's diary — donated to archive, bought back by Pathwell, then lost when Elizabeth chooses the child.
 - **Remove the diary's charred edges / missing-page history entirely.** The diary may show ordinary wear, but it remains physically intact until the archive fire. The Chapter 1 consumed page belongs to Nana's handwritten cookbook.
-- **Chapter 2 geography is both objectively and subjectively strange:** Pathwell leads Elizabeth across a subtle threshold/route, so she really is somewhere different, but she does not know that. Her panic/exhaustion makes her mind try to force unfamiliar landmarks onto the neighborhood map she believes she is still in. Reality does not rewrite itself; her interpretation is what scrambles.
+- **Chapter 2's uncanny neighborhood feeling is now primarily character/perception, not threshold geography.** Elizabeth has been so lost in routine that she has not truly observed the world around her. Once her routine breaks, familiar streets feel new and confusing because she is finally looking, while panic/exhaustion make her mind reach for explanations. Ordinary geography does not rewrite itself and a magical threshold is not required for this beat.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
