@@ -58,6 +58,7 @@ Important late locks:
 - Graffiti-wall threshold mechanics remain threshold-specific iceberg lore unless a concrete contradiction appears during editing.
 - **Bar sequence revised:** the mirror makes Pathwell begin to understand the mystery points back to himself; he bolts from the bar, a blob attacks/engulfs him through the Pathwell/Shade overlap, and Elizabeth cuts Pathwell free with Stansbury's imbued toy dagger. The older `Elizabeth cuts herself free` version is stale.
 - **Bar blob aftermath:** Stansbury burns/destroys the freed blob manifestation with a heat/fire-based imbued attack. Destroying that body ends the immediate threat but does not eradicate the cleanup ecology or automatically resolve the underlying waste condition; another blob can later appear if cleanup is still required.
+- **Post-bar information split:** Pathwell tells Stansbury privately that the evidence now points back to Pathwell, but excludes Elizabeth. The later diner truth is therefore still a genuine revelation to her.
 
 ---
 
@@ -75,6 +76,7 @@ Important late locks:
 - **Chapter 4 → 5:** Pathwell is already uneasy about the abnormal Chapter 1 blob behavior, and Mama Baga independently pushes him to involve Stansbury. The successful Camp healing remains clean; no gold-residue/blob-bait mechanism.
 - **Chapter 6 → 7:** Pathwell sees Shade through the mirror strongly enough to begin understanding the problem points back to himself, runs out, is attacked/engulfed by a blob, and Elizabeth chooses to cut him free with Stansbury's dagger. This replaces the older Elizabeth self-rescue version.
 - **Bar blob resolution:** after Elizabeth's rescue, Stansbury destroys the manifested blob body with heat/fire. A killed manifestation is not a universal cure for the unresolved cleanup condition.
+- **Post-bar exclusion / crash setup:** Pathwell privately tells Stansbury that the problem appears to point back to him while leaving Elizabeth out. In the car, the brothers discuss it in the back seat, talk around her, direct her, and treat her as transportation even though she has just saved Pathwell. This accumulated erasure is part of why she turns the wheel; the beat should read as a continuation of her compliance/invisibility wound rather than random irritation.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -109,14 +111,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **After the mirror and blob attack make Pathwell suspect the problem points back to him, what does he tell Elizabeth before the diner reveal?**
+> **When Elizabeth turns the wheel at the midpoint, what exactly is she intending?**
 >
-> **A. Nothing useful.** Pathwell deflects and keeps his suspicion to himself because he does not yet understand it. Elizabeth continues believing she may be the center of the danger until Shade tells her otherwise.
+> **A. She intends to make them stop, not to crash.** She makes a hard deliberate move to break the brothers' control of the moment; the actual collision is an unintended consequence.
 >
-> **B. He admits only that he was wrong about the blob.** Something about its behavior points toward Pathwell, but he does not tell Elizabeth she was never the target because he is not certain yet.
+> **B. She intentionally causes a controlled crash.** She consciously decides that only a physical consequence will make them stop treating her like furniture. She is not trying to injure or kill anyone, but the crash itself is deliberate.
 >
-> **C. He tells Stansbury privately but excludes Elizabeth.** He admits that the mirror/blob strongly suggest the problem is his, then keeps Elizabeth out of that conversation. This preserves the diner reveal while making his treatment of her more culpable.
+> **C. She tries to pull over/stop the car, and the crash comes from the brothers' distraction/interference.** Her agency is refusing to continue driving, rather than choosing the crash.
 >
-> **D. He tells both of them that the problem may be connected to him.** He is unusually forthcoming about his uncertainty, but the exact Shade identity and the fact that Elizabeth was never the point remain unrevealed until the diner.
+> **D. She deliberately turns the wheel without choosing the exact outcome.** Her thought is essentially `enough`: she makes a real, consequential choice knowing it may go badly, but she is not calculating a specific collision. The crash is the consequence of that chosen rupture.
 
-Audit lean: **C**. It fits Pathwell's habit of deciding what other people need to know, gives Stansbury a reason to become more concerned, and lets the diner revelation still hit Elizabeth personally.
+Audit lean: **D**. It keeps the action unquestionably hers while avoiding either an accidental loss of control or a calculated attempt to hurt the people in the car.
