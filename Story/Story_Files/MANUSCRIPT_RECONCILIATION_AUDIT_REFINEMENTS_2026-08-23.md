@@ -48,6 +48,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 4. Diary physical condition — LOCKED
+
+- **Remove the diary's charred edges and missing-page history entirely.**
+- Those details are residue from the abandoned draft in which the diary participated in magic and should not be given a replacement explanation merely to preserve old texture.
+- The Chapter 1 page that is consumed/destroyed belongs to Nana's handwritten cookbook, not Elizabeth's diary.
+- Elizabeth's diary may show ordinary age and use, but it has no conspicuous fire damage or magically suggestive missing page before the climax.
+- The diary remains physically intact through Elizabeth's possession, donation to the Camp archive, and Pathwell's later buyback.
+- Its meaningful physical destruction occurs only in the archive fire, when Elizabeth chooses to rescue the child rather than recover the diary.
+- Remove stale charred/missing-page references from Chapters 2, 3, 12b, or anywhere else they survive during manuscript reconciliation.
+
+---
+
 ## Next refinement question
 
-Decide whether the diary's current charred edges / missing-page description should be removed entirely or preserved through a separate non-magical damage event.
+Decide how to handle Chapter 2's impossible neighborhood shift: establish a threshold/route explanation for the changed geography, or remove the geography-replacement effect and keep them in the ordinary neighborhood.
