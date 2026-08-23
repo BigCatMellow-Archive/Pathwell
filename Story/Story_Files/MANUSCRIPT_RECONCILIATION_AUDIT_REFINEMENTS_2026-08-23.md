@@ -182,6 +182,19 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 14. Why Shade takes Elizabeth to the diner — LOCKED
+
+- **Shade genuinely believes Elizabeth deserves to know the truth, but that is not his only motive.**
+- He also sees Elizabeth as a living witness to Pathwell's consequences: an ordinary person Pathwell pulled into his problem, misinformed, endangered, and continued to manage from above.
+- Shade expects that giving Elizabeth the truth may push her to confront Pathwell and force a kind of acknowledgment Shade has not been able to extract directly.
+- In that sense, Shade is using both the truth and Elizabeth's reaction as pressure on Pathwell.
+- **Shade partly tells himself this is for Elizabeth's benefit.** That belief is not wholly false; she really does deserve the information Pathwell withheld. But Shade does not fully confront the fact that he is also deciding what she should do with that information and making her part of his strategy.
+- This creates an intentional moral rhyme with Pathwell. Shade condemns Pathwell for instrumentalizing other people while repeating a subtler form of the same mistake.
+- The difference matters: Shade is not fabricating the truth or inventing danger to control Elizabeth. He is giving her real information she is owed. His flaw lies in treating the effect that truth will have on Pathwell as part of why he gives it to her.
+- Elizabeth therefore should not emerge from the diner merely converted into Shade's ally. What she does with the truth must remain her choice.
+
+---
+
 ## Next refinement question
 
-Decide why Shade takes Elizabeth away from the crash and brings her to the diner at all. His motive should serve his goal of forcing Pathwell to face consequences without accidentally turning Shade into a purely altruistic rescuer or making Elizabeth merely random cargo.
+Decide how directive Shade is when he leaves Elizabeth after the diner. The scene needs to point toward Elizabeth's later `Ask` without turning her confrontation with Pathwell into something Shade simply orders her to do.
