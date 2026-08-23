@@ -1,6 +1,6 @@
 # canon.md — Story's Physical Laws & Core Engine
 
-*The non-negotiable spine. If a scene contradicts something here, the scene is wrong. Open/undecided items live in the conflicts/decision material, not here — this file holds only what is locked. Detailed world mechanics live in `world_bible.md`; dated interview decisions live in `BIBLE_DECISIONS_2026-08-21.md` and `BIBLE_DECISIONS_2026-08-22.md`.*
+*The non-negotiable spine. If a scene contradicts something here, the scene is wrong. Open/undecided items live in the conflicts/decision material, not here — this file holds only what is locked. Detailed world mechanics live in `world_bible.md`; dated interview decisions live in `BIBLE_DECISIONS_2026-08-21.md`, `BIBLE_DECISIONS_2026-08-22.md`, and `BIBLE_DECISIONS_2026-08-23.md`.*
 
 ---
 
@@ -88,8 +88,8 @@ These happen in roughly this order. Exact mechanics of currently unresolved tran
 6. **Diner** — wrongness rises until Elizabeth recognizes that the man with her is not Pathwell and that she was never the point.
 7. **The Ask** — gutted by what she has learned, Elizabeth turns toward the person who harmed her and demands truth/acknowledgment rather than collapsing inward.
 8. **Museum confrontation** — Elizabeth rejects both men's framings and makes a choice of her own.
-9. **Camp archive catastrophe** — before confronting Shade, Pathwell legitimately buys Elizabeth's donated diary back from the archive by paying with a clean prune of his own future possibility. He then attempts to absorb/reintegrate Shade using pruning as payment despite fundamentally doubting that he has the right to choose that outcome. He forces release anyway; the prune cannot settle cleanly, the malformed failure produces a physical magical recoil that ignites the archive, and destruction of the charged collection escalates the fire into archive-scale supernatural fallout. The recoil's exact visual flourish remains open for staging.
-10. **Elizabeth acts during the climax without using magic.** Her diary is not a spell or weapon. Her agency must remain human action and choice.
+9. **Camp archive catastrophe** — before confronting Shade, Pathwell legitimately buys Elizabeth's donated diary back from the archive by paying with a clean prune of his own future possibility. He then proposes absorbing/reintegrating Shade. Shade explicitly refuses and holds his ground. Pathwell nevertheless forces the absorption prune despite fundamentally doubting that he has the right to choose that outcome. The prune cannot settle cleanly; the malformed failure erupts violently through/from Pathwell as a destructive burst of heat, pressure, magical force, and debris that physically ignites the archive. Destruction of the charged collection then escalates the fire into archive-scale supernatural fallout.
+10. **Elizabeth acts during the climax without using magic.** She has a genuine opportunity to recover the diary but chooses to physically rescue the child instead. The diary is destroyed by the fire because she leaves it behind. Her agency remains human action and choice.
 11. **Shade's death** — eye contact, the draw stops, relief without confession. Neither noble nor clean.
 12. **Closing role inversion** — Pathwell remains capable of pruning. He begins a prune far enough to prove the ability still works, then voluntarily stops before release so the possibility returns cleanly. Elizabeth initiates what comes next with "Are you ready?" / "No." / "Perfect."
 
