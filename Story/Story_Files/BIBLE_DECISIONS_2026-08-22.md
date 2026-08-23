@@ -234,7 +234,13 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - This is not a general method for deliberately manufacturing spillage; it is a dangerous failure state created by forcing a prune whose intended commitment is internally broken.
 - **In the climax, Pathwell knows at his core that absorbing Shade may be wrong and that he may not have the right to choose it. He forces the prune past that doubt anyway.** The possibility is released, cannot settle cleanly into the absorption working, and becomes the malformed spillage at the center of the catastrophe.
 
+### Archive ignition — LOCKED
+
+- **The malformed absorption failure produces a physical magical recoil/discharge that ignites the Camp archive.** The initial ignition is a consequence of Pathwell's failed working; pruning spillage does not directly behave like emotional charge and does not simply make stored records discharge because the systems touched.
+- Once ordinary physical fire begins destroying the densely packed charged records, the archive's own stored emotional charge turns the event into the much larger supernatural catastrophe already established by the world rules.
+- The causal chain is therefore: **Pathwell forces the contradictory absorption prune → malformed post-release failure/spillage → physical magical backlash/recoil → ignition → mass destruction of charged records → archive-scale emotional/magical fallout.**
+- The recoil should have more visual and dramatic flourish than a mundane spark or generic burst of heat, but the exact manifestation is intentionally **not locked yet**. It can be designed during manuscript staging without changing the underlying mechanics.
+
 ### Still open
 
-- The exact physical/magical chain by which the malformed spillage from the absorption attempt ignites or destabilizes the Camp archive.
 - The placement and result of Pathwell's separate attempt to buy Elizabeth's donated diary back.
