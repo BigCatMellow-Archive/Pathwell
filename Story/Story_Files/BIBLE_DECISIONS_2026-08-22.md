@@ -132,6 +132,15 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - Pathwell's later interest in Elizabeth is therefore built on a mistaken interpretation of a genuine event, not on hidden importance or magical ability in Elizabeth.
 - **The later Shade revelation that Elizabeth was never the point is structurally essential.** The reveal removes the apparent external reason she mattered and forces the story back onto its central question: what does Elizabeth choose to do once she learns she was never chosen, targeted, or cosmically important?
 
+### The "marked apartment" claim — LOCKED
+
+- **Pathwell genuinely believes Elizabeth is connected to the danger, but his statement that her apartment is "marked, magically speaking" is an invented/exaggerated certainty rather than a literal magical diagnosis.**
+- He does not know that the apartment itself has acquired a persistent magical mark, and no such permanent mark is established by this scene.
+- Pathwell uses the stronger claim because he wants Elizabeth moving immediately and treats explanation, uncertainty, and her consent as friction compared with what he believes is necessary action.
+- He is therefore not fabricating the underlying danger from nothing: he sincerely thinks the blob encounter means Elizabeth is involved somehow. What he fabricates is the confidence and specificity of **"your house is marked."**
+- The later wet thud down the hall accidentally reinforces his claim from Elizabeth's perspective, even though the blob activity is actually following the Pathwell/Shade cleanup situation rather than a mark on Elizabeth or her apartment.
+- This is consistent with the broader Chapter 1 engine: Pathwell observes something real, misinterprets its cause, and then acts with more certainty than his evidence justifies.
+
 ### Still open
 
 - Exact party logistics and how much of Pathwell's pre-apartment scavenging appears on-page versus remaining implied.
