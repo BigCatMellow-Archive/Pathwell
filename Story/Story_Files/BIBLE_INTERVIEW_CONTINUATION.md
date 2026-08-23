@@ -107,26 +107,28 @@ Locked 2026-08-22:
 - **The malformed prune that created Shade happened while Pathwell was trying to solve someone else's problem for them.**
 - This was Pathwell's normal core flaw in action: spending his own future to remove another person's difficulty and making himself the solution.
 - Shade therefore originates directly from **convenience dressed as mercy**, not from random bad luck or a uniquely heroic emergency.
-- The exact practical problem remains open.
-- How much the affected person asked for, understood, or consented to Pathwell's chosen intervention remains open.
+- **The person genuinely asked Pathwell for help, but did not ask him to prune.** They consented to help, not to Pathwell's exact magical method or the cost he chose to take on.
+- Pathwell independently chose pruning because he saw it as the quickest/cleanest solution.
+- The violation is therefore one of judgment and control: he turns "help me" into "I will decide what solving this means."
+- The exact practical problem remains open and does not need to be specified unless the story later requires it.
 
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one follow-up question:
+Ask exactly one question about Shade:
 
-> **How much agency did the person Pathwell was helping have in the intervention that created Shade?**
+> **How much of Pathwell's memory or knowledge did Shade inherit when he formed?**
 >
-> **A. They specifically asked Pathwell to prune for them.** They understood the method and asked him to take the cost onto himself.
+> **A. Essentially none.** Shade begins as a new person with Pathwell's magical signature and structural connection, but no meaningful access to Pathwell's memories or life history.
 >
-> **B. They asked Pathwell for help, but not for this solution.** Pathwell chose pruning himself because it was the fastest/easiest way he knew to fix the problem. They consented to help, not to his exact method or cost.
+> **B. Fragments and impressions.** Shade inherits flashes, instincts, emotional associations, habits, or disconnected pieces of knowledge, but not a coherent autobiography. He may know things without always knowing why he knows them.
 >
-> **C. They never asked for help.** Pathwell saw a problem and intervened because he believed he knew how to fix it.
+> **C. Substantial memory up to the creation event.** Shade carries much of Pathwell's remembered life, even though he develops independently afterward. This makes him much closer to a true psychological double.
 >
-> **D. Leave that part unknown.** The important fact is that Pathwell took responsibility for solving the problem; whether he was asked is lost or irrelevant.
+> **D. Functional knowledge but almost no personal memory.** Shade inherits skills/language/general competence needed to function, while Pathwell's personal experiences and relationships remain mostly inaccessible.
 
-Thematically, **B** fits the established flaw particularly well: someone can genuinely ask for help while Pathwell still takes over the choice of what help means. The user decides.
+Do not assume that sharing a magical signature requires sharing memories. The user decides.
 
 ---
 
@@ -135,8 +137,7 @@ Thematically, **B** fits the established flaw particularly well: someone can gen
 Do not ask these all at once.
 
 ### Shade
-- Exact practical problem Pathwell was trying to solve when Shade was created, if the story needs that level of specificity.
-- How much information or memory Shade inherited from Pathwell.
+- Exact practical problem Pathwell was trying to solve when Shade was created, only if the story later needs that specificity.
 
 ### Thresholds / graffiti wall
 - General threshold mechanics only if the story still needs more than the Space Between/Camp-specific rules.
