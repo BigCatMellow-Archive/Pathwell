@@ -19,9 +19,24 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 
 ---
 
+## 2. Climax — Shade refuses absorption
+
+### Explicit refusal — LOCKED
+
+- **Shade explicitly rejects Pathwell's attempt to absorb/reintegrate him.** He does not knowingly consent, resign himself to it, or hand Pathwell the decision.
+- Shade understands that Pathwell cannot promise what reintegration would mean for him. It may erase his independent personhood, reduce him to nothing, merge him into Pathwell, or produce some other irreversible end.
+- To Shade, simply allowing Pathwell to absorb him would make the consequences of Pathwell's choices too easy to clean up. Shade has suffered, acted, made choices, and affected other people; those deeds do not become meaningless merely because Pathwell now wishes to fold the problem back into himself.
+- **Shade wants Pathwell to face the fact that his choices create real consequences in other people.** Pathwell cannot turn responsibility into another act of control and call that accountability.
+- This reinforces Shade's existing core want: he wants Pathwell to confront what he did and acknowledge that it mattered, rather than erase the evidence of it.
+- **Pathwell hears Shade's refusal and attempts the absorption anyway.** That choice directly repeats Pathwell's core flaw: he treats another person's stated boundary as secondary to his own conviction that the situation must be solved.
+- The absorption failure remains mechanically rooted in Pathwell's already-locked fundamental contradiction in intent. Shade's refusal sharpens Pathwell's moral doubt and character failure, but Shade's resistance is not being introduced as a separate magical cause of the malformed prune unless later staging explicitly requires it.
+- The older character-bible wording that Shade `accepts absorption` is stale and must not be preserved.
+
+---
+
 ## Still open
 
-- Shade's exact stance/consent toward Pathwell's attempted absorption/reintegration, if the final staging requires an explicit rule.
+- Shade's exact physical behavior once Pathwell begins the refused absorption attempt.
 - The exact visual flourish of the malformed absorption recoil that ignites the archive.
 - The graffiti wall's precise mechanical role, only if the story needs it.
 - Papa Baga: develop or cut.
