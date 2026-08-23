@@ -15,7 +15,7 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 - Chapter 1's magical sugar-cookie page belongs to Nana's handwritten family cookbook.
 - Chapter 4's major cookbook surrender is that same handwritten family cookbook.
 - The coda's current replacement *Joy of Cooking* is stale; a printed replacement cannot meaningfully substitute for the lost handwritten family heirloom within the established magic rules.
-- The manuscript object ledger should track the handwritten cookbook and the diary as the two major charged Elizabeth-family objects. The separate printed *Joy of Cooking* should only remain if it serves a clear non-magical character or scene purpose.
+- The manuscript object ledger should track the handwritten cookbook and the diary as the two major charged Elizabeth-family objects.
 
 ---
 
@@ -36,6 +36,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 3. Printed *Joy of Cooking* — CUT
+
+- **Elizabeth's separate printed copy of *The Joy of Cooking* is cut entirely from the intended manuscript.**
+- It is not needed as a magical object, character object, or coda echo.
+- Removing it prevents readers from confusing a mass-printed cookbook with Nana's genuinely handwritten family cookbook and keeps the object ledger clean.
+- Any references to Elizabeth owning, carrying, reclaiming, or later replacing *The Joy of Cooking* are stale and should be removed during manuscript reconciliation.
+- The two major Elizabeth-family records that matter to the story are now unambiguous:
+  1. **Nana's handwritten family cookbook** — surrendered at Camp to help the younger injured woman.
+  2. **Elizabeth's diary** — later donated to the archive, bought back by Pathwell, and ultimately lost when Elizabeth chooses the child over it.
+
+---
+
 ## Next refinement question
 
-Decide whether Elizabeth's separate ordinary printed *Joy of Cooking* should remain in the manuscript at all, since it no longer serves the magical cookbook arc or the coda echo.
+Decide whether the diary's current charred edges / missing-page description should be removed entirely or preserved through a separate non-magical damage event.
