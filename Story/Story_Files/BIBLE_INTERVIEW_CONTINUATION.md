@@ -8,10 +8,11 @@ Read, in order:
 
 1. `Story/Story_Files/BIBLE_DECISIONS_2026-08-21.md`
 2. `Story/Story_Files/BIBLE_DECISIONS_2026-08-22.md`
-3. `Story/Story_Files/world_bible.md`
-4. `Story/Story_Files/canon.md`
-5. `Story/Story_Files/character_bible.md`
-6. `Story/Story_Files/pathwell_conflicts_and_decisions.md` if present
+3. `Story/Story_Files/BIBLE_DECISIONS_2026-08-23.md`
+4. `Story/Story_Files/world_bible.md`
+5. `Story/Story_Files/canon.md`
+6. `Story/Story_Files/character_bible.md`
+7. `Story/Story_Files/pathwell_conflicts_and_decisions.md` if present
 
 Newer dated locked decisions override older manuscript/support material until deliberate reconciliation.
 
@@ -135,31 +136,33 @@ Newer dated locked decisions override older manuscript/support material until de
 - Pathwell physically possesses the diary before confronting Shade.
 - Structural escalation: **undo Elizabeth's choice → decide Shade's fate → catastrophe.**
 
-### Diary fate — LOCKED
+### Diary fate / Elizabeth's rescue — LOCKED
 
-- **Elizabeth gets a real opportunity to save the diary during the archive fire and chooses a person / urgent human need instead.**
+- **Elizabeth gets a real opportunity to save the diary during the archive fire and chooses the child already present in the current `Chapter_12b` staging instead.**
 - She does not activate, spend, burn, or otherwise use the diary as magic.
 - She does not perform a ceremonial rejection of her past.
-- The diary is destroyed by the fire because Elizabeth prioritizes the living person over recovering the object.
-- This is an agency beat: Pathwell spent part of his future to put the diary back into circulation, but when it becomes available to Elizabeth again she still does not choose it over a person.
+- Elizabeth physically prioritizes rescuing the child, a relative stranger, and the diary is destroyed by the archive fire because she leaves it behind.
+- This deliberately echoes the cookbook sacrifice: she again gives up something irreplaceable because a living stranger matters.
+- Stansbury's separate climactic turn remains intact: he still chooses to enter the burning archive, is permanently burned, and carries a scar Pathwell cannot undo.
+- The current draft's child-rescue material is therefore useful, while the diary-as-magical-tool sequence is stale and must be removed during manuscript reconciliation.
 
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one question:
+Ask exactly one question about Shade's agency in the absorption attempt:
 
-> **Who is the person Elizabeth chooses instead of saving the diary?**
+> **Does Shade consent to Pathwell trying to absorb/reintegrate him?**
 >
-> **A. The child already present in the current Chapter 12b draft.** Preserve the existing human rescue beat but remove the stale diary-as-magic action. Elizabeth sees she can reach the diary or the child and chooses the child. This keeps her climax focused on a relative stranger and leaves Stansbury's separate choice to enter the archive intact.
+> **A. Yes, knowingly.** Shade understands that Pathwell cannot promise whether reintegration means survival, erasure, merger, or something else, and still agrees to let Pathwell try. Pathwell's failure is then not lack of Shade's consent; it is that Pathwell himself does not believe the act is right and forces the prune through his own contradiction anyway.
 >
-> **B. Stansbury.** Elizabeth chooses him over the diary during the fire. This ties her final agency beat directly to a major relationship, but it risks weakening Stansbury's own established turn of choosing to enter the archive and receiving the permanent burn.
+> **B. No.** Shade explicitly rejects being absorbed, and Pathwell attempts it anyway. This makes Pathwell's control flaw maximally clear, but it risks making the climax morally simpler than the rest of the book.
 >
-> **C. Pathwell.** Elizabeth chooses Pathwell over the diary. This would make the act relationally direct, but risks recentering her climax around rescuing him rather than expressing her own values.
+> **C. Shade does not give meaningful consent either way.** He is exhausted, compelled by the draw, or effectively resigned and allows Pathwell to proceed without a clear yes. This keeps the situation morally uncomfortable but raises the question of whether consent is possible for Shade while the draw is active.
 >
-> **D. Another Camp resident / immediate stranger.** Preserve the principle that she chooses a person over the object while redesigning the exact rescue during staging.
+> **D. Shade asks Pathwell to choose for him.** Because Shade cannot trust which desires are his versus the draw, he deliberately hands the decision to Pathwell. This is tragic and thematically rich, but it places Pathwell in exactly the authority position he has been learning not to occupy.
 
-**A** is the strongest current fit because it preserves useful existing material, echoes the cookbook sacrifice's choice of a relative stranger, and leaves Stansbury's own climax intact. The user decides.
+Current character material says Shade `accepts absorption`, but that wording predates the newly clarified uncertainty about what absorption would mean. Treat the exact degree of consent as open until the user answers.
 
 ---
 
@@ -167,7 +170,7 @@ Ask exactly one question:
 
 Do not ask all at once.
 
-- Clarify Shade's stance/consent toward Pathwell's attempted reintegration if the final staging requires it.
+- Resolve any small consent loophole exposed by the Shade answer.
 - Decide graffiti wall exact mechanical role only if needed.
 - Papa Baga: develop or cut.
 - Final manuscript consistency/reconciliation pass after enough rules are locked.
@@ -177,5 +180,5 @@ Final reconciliation must include:
 - Camp healing scene with younger injured woman.
 - Chapter 10 Camp destination → Chapter 11 museum transition.
 - Chapter 7 blob targeting.
-- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, and final diary fate.
+- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, child rescue, Stansbury's burn, and final diary destruction.
 - Coda rewrite: Pathwell can prune and voluntarily stops.
