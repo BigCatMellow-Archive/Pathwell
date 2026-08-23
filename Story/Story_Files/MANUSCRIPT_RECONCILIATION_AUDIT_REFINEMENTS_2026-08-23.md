@@ -10,7 +10,6 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 - **Nana's family cookbook is a genuinely handwritten family recipe book.**
 - It is not a copy of *The Joy of Cooking* and is not a mass-printed book whose printed text is being treated as emotional-text magic.
-- Elizabeth's printed *Joy of Cooking*, if retained in the manuscript at all, is a separate ordinary book.
 - The original audit suggestion that the two books should be normalized into one object is rejected.
 - Chapter 1's magical sugar-cookie page belongs to Nana's handwritten family cookbook.
 - Chapter 4's major cookbook surrender is that same handwritten family cookbook.
@@ -87,6 +86,21 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 7. Bar mirror → Pathwell blob attack → Elizabeth rescue — REVISED / LOCKED
+
+- **Supersede the older Chapter 6–7 version in which the bar blob attacks Elizabeth and she cuts herself free.**
+- In the bar mirror sequence, Pathwell sees Shade clearly enough through the wrong-angle/reflected perspective that he begins to understand the mystery is connected to **him**, not to Elizabeth. He does not yet have the full Shade history or every mechanic solved, but the mirror breaks his prior assumption that Elizabeth is the center of the problem.
+- The realization is strong enough that Pathwell abruptly leaves/runs out of the bar rather than quietly returning to his drink and saying nothing.
+- **Outside the bar, the blob attacks/engulfs Pathwell.** This is consistent with the established cleanup mechanics: the creature is responding to the ambiguous Pathwell/Shade signal, not hunting Elizabeth as a chosen target.
+- **Elizabeth chooses to intervene and uses Stansbury's imbued toy dagger to cut Pathwell out of the blob.** The dagger therefore ends up saving Pathwell, matching the existing Stansbury character note.
+- Elizabeth's agency beat is no longer self-rescue. It is a deliberate rescue: she has the tool, sees what needs doing, and acts without waiting for Pathwell or Stansbury to assign her a role.
+- This sequence creates a tighter causal chain: mirror revelation → Pathwell bolts → the cleanup creature confirms the danger centers on his signal → Elizabeth acts.
+- Elizabeth still does not know Shade's full identity from this event, so the later diner revelation remains necessary.
+- Current Chapter 6 and Chapter 7 manuscript text on `main` remains stale and should not be edited until manuscript reconciliation begins.
+- **Exact blob behavior after Elizabeth cuts Pathwell free remains open for the next audit-refinement decision.** Do not default to the old `breaks into inert pieces / monster killed by damage` staging.
+
+---
+
 ## Next refinement question
 
-Decide how the Chapter 7 blob encounter ends after Elizabeth cuts herself free, so the scene preserves her self-rescue without establishing blobs as ordinary monsters that can simply be killed by weapon damage.
+Decide what the blob does immediately after Elizabeth cuts Pathwell free, while preserving blob cleanup behavior and avoiding ordinary-monster hit-point logic.
