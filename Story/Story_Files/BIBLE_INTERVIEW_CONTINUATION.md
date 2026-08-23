@@ -68,6 +68,7 @@ Important late locks:
 - The meaningful Elizabeth-family object ledger is therefore:
   1. Nana's handwritten cookbook — surrendered at Camp.
   2. Elizabeth's diary — donated to archive, bought back by Pathwell, then lost when Elizabeth chooses the child.
+- **Remove the diary's charred edges / missing-page history entirely.** The diary may show ordinary wear, but it remains physically intact until the archive fire. The Chapter 1 consumed page belongs to Nana's handwritten cookbook.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -102,12 +103,12 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **What should happen to the diary's current charred edges / missing-page description?**
+> **How should Chapter 2's changed neighborhood geography work?**
 >
-> **A. Remove it entirely.** The diary is intact until the archive fire; the charred/missing-page material is stale residue from the abandoned diary-as-magic draft.
+> **A. Remove the geography replacement.** They remain in Elizabeth's ordinary neighborhood; keep the scene grounded and save impossible geography for established thresholds/places.
 >
-> **B. Keep the physical damage, but establish a separate ordinary cause.** For example, old water/fire/storage damage predating the story. It would be purely personal texture, not evidence of magic.
+> **B. Keep it, but establish that Pathwell has led Elizabeth across a subtle threshold/route.** The coffee shop/laundromat/park mismatch is a real location transition, not reality being rewritten around her.
 >
-> **C. Keep only ordinary age/wear, not a missing page.** The diary can be battered, warped, stained, or worn without creating a false magical-history clue.
+> **C. Keep only mild disorientation.** Streets/routes feel unfamiliar because Elizabeth is panicked, tired, and following Pathwell, but buildings do not literally change.
 
-Audit lean: **A** unless the damage has a character purpose worth preserving.
+Audit lean: **B** if the uncanny transition is worth preserving; otherwise **A** is the cleanest.
