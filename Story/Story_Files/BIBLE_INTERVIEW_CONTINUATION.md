@@ -104,31 +104,30 @@ Locked 2026-08-22:
 
 Locked 2026-08-22:
 
-- **The malformed prune that created Shade happened while Pathwell was trying to solve someone else's problem for them.**
+- The malformed prune that created Shade happened while Pathwell was trying to solve someone else's problem for them.
 - This was Pathwell's normal core flaw in action: spending his own future to remove another person's difficulty and making himself the solution.
 - Shade therefore originates directly from **convenience dressed as mercy**, not from random bad luck or a uniquely heroic emergency.
-- **The person genuinely asked Pathwell for help, but did not ask him to prune.** They consented to help, not to Pathwell's exact magical method or the cost he chose to take on.
+- The person genuinely asked Pathwell for help, but did not ask him to prune. They consented to help, not to Pathwell's exact magical method or the cost he chose to take on.
 - Pathwell independently chose pruning because he saw it as the quickest/cleanest solution.
-- The violation is therefore one of judgment and control: he turns "help me" into "I will decide what solving this means."
 - The exact practical problem remains open and does not need to be specified unless the story later requires it.
+- **Shade inherits fragments and impressions from Pathwell, not a coherent copied autobiography.** He may carry disconnected memories, emotional associations, instincts, habits, flashes of people/places, or knowledge whose origin he cannot identify.
+- Shade remains an independent person whose own experience accumulates separately after formation.
 
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one question about Shade:
+Ask exactly one follow-up question about Shade's inherited fragments:
 
-> **How much of Pathwell's memory or knowledge did Shade inherit when he formed?**
+> **Are the fragments Shade inherited a one-time consequence of his creation, or can new Pathwell memories continue to cross into him afterward?**
 >
-> **A. Essentially none.** Shade begins as a new person with Pathwell's magical signature and structural connection, but no meaningful access to Pathwell's memories or life history.
+> **A. Creation-time inheritance only.** Shade formed carrying fragmentary pieces of Pathwell, but no new memories cross afterward. Their continuing connection can transmit the draw, magical resonance, or pain from pruning without functioning as telepathy or memory sharing.
 >
-> **B. Fragments and impressions.** Shade inherits flashes, instincts, emotional associations, habits, or disconnected pieces of knowledge, but not a coherent autobiography. He may know things without always knowing why he knows them.
+> **B. Triggered leakage.** They are normally psychologically separate, but strong events — especially pruning, magical resonance, or extreme emotion — can force new fragments from Pathwell across the connection.
 >
-> **C. Substantial memory up to the creation event.** Shade carries much of Pathwell's remembered life, even though he develops independently afterward. This makes him much closer to a true psychological double.
->
-> **D. Functional knowledge but almost no personal memory.** Shade inherits skills/language/general competence needed to function, while Pathwell's personal experiences and relationships remain mostly inaccessible.
+> **C. Ongoing passive bleed.** Shade continues to pick up small fragments of Pathwell's present life over time, even without a dramatic trigger.
 
-Do not assume that sharing a magical signature requires sharing memories. The user decides.
+**A** is the cleanest if the goal is to protect Shade's independent personhood and avoid turning the Pathwell/Shade connection into a broad information channel. The user decides.
 
 ---
 
