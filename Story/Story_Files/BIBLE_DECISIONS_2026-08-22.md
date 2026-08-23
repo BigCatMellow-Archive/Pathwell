@@ -255,7 +255,7 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - Pathwell therefore does not steal the diary, coerce the archive, or magically invalidate Elizabeth's donation. He obtains it through a formally legitimate transaction.
 - **That legitimacy is part of the character problem.** Pathwell can tell himself that he did nothing improper because he paid fairly and followed the archive's rules, while still completely overriding the meaning of Elizabeth's deliberate surrender.
 - The successful buyback sharpens his flaw: he treats a transaction that balances on paper as sufficient justification for managing another person's choice.
-- By the time he confronts Shade, **Pathwell physically possesses the diary again.** What ultimately happens to the diary during/after the fire remains to be staged consistently with Elizabeth's hard magic boundary.
+- By the time he confronts Shade, **Pathwell physically possesses the diary again.**
 
 ### Diary buyback payment — LOCKED
 
@@ -265,6 +265,14 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - **Shade feels the buyback prune as a jolt through the established Pathwell/Shade connection.** This gives their pruning-pain link a direct role immediately before the confrontation without becoming telepathy or memory transfer.
 - The price is genuine: Pathwell has permanently surrendered some of his own future possibility to obtain the diary. The fact that he personally bears the cost does not make his decision respectful of Elizabeth's agency.
 
+### Diary fate during the fire — LOCKED
+
+- **Elizabeth gets a genuine opportunity to save the diary during the archive catastrophe and deliberately chooses a person / urgent human need instead.**
+- Elizabeth does **not** activate, spend, burn, or otherwise use the diary as magic. She also does not stage a ceremonial rejection of her past.
+- The diary is destroyed by the archive fire because Elizabeth prioritizes the living person over recovering the object.
+- This makes the diary's final loss an agency beat rather than a magical beat: Elizabeth already surrendered it once, Pathwell spent part of his own future to put it back into circulation, and when the object becomes available to her again she still does not choose it over a person.
+- The exact person Elizabeth chooses instead of the diary remains the next staging decision. The current manuscript's child is a viable candidate but is not locked by this answer alone.
+
 ### Still open
 
-- The diary's exact physical fate during/after the archive catastrophe.
+- Who/what urgent human need Elizabeth chooses instead of saving the diary.
