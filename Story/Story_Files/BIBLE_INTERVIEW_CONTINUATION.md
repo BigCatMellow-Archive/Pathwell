@@ -94,33 +94,31 @@ Locked 2026-08-22:
 - That mistaken inference makes Elizabeth a curiosity and drives Pathwell's continued interest in her.
 - The later revelation that Elizabeth was never the point is structurally essential: apparent cosmic importance is stripped away, leaving the story's real question of what she chooses anyway.
 - The old support rule where Pathwell's successful cookbook ward coats Elizabeth in blob-attracting residue is CUT.
-
-The current Chapter 1 text has the blob at the door before the cookbook working begins. After Elizabeth pulls the cookbook away, the active page remains with Pathwell and the blob lunges toward the light in his hand.
+- **Elizabeth pulling the cookbook away after the recipe page has already been activated destabilizes that committed working.** It creates fresh unclaimed casting waste around the active page in Pathwell's hand. The blob redirects toward that fresh local mess after entering. This interruption did not cause the blob's original arrival.
 
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one follow-up question about that Chapter 1 choreography:
+Ask exactly one question about the remaining blob/climax mechanism:
 
-> **When Elizabeth snatches the cookbook away after Pathwell has activated the page, why does the blob then lunge toward the glowing page/light in Pathwell's hand?**
+> **Why does the climactic blob cleanup end once Shade is absorbed?**
 >
-> **A. The interruption creates fresh cleanup waste.** The page is already committed and continues consuming, but Elizabeth's physical interruption destabilizes the working enough that some released charge becomes unclaimed casting waste. The blob redirects toward that fresh local mess. This is *not* why the blob originally arrived.
+> **A. Shade is the actual unresolved waste source.** Pathwell only resembles the target because their signatures overlap. Once Shade is consumed, the real unclaimed pruning anomaly is gone; the blobs check the area, find no remaining waste, and leave. Pathwell himself was never cleanup material.
 >
-> **B. No new waste is required.** The blob is already following the overlapping Pathwell/Shade signal. Once through the door it presses toward Pathwell; the glowing page is simply in the same place, and Elizabeth interprets the motion as going for the light.
+> **B. Absorbing Shade severs the Pathwell/Shade magical connection.** Shade's destruction changes Pathwell's signature enough that blobs can finally distinguish him from the waste they were following.
 >
-> **C. Active magic itself attracts blobs.** This would broaden the blob rule beyond unclaimed waste and partially undo the newly locked successful-casting distinction, so treat this as a substantial rule change rather than a default.
+> **C. Both.** Shade is the actual unresolved waste, and consuming him also collapses the overlapping signal that made Pathwell difficult to distinguish. The blobs finish the cleanup, briefly check Pathwell/the area, recognize that no unclaimed waste remains, and leave.
+>
+> **D. Shade's absorption formally settles the original failed prune.** The cleanup somehow converts the malformed prune into a completed/ledgered transaction. This would add a stronger metaphysical accounting rule and should only be chosen deliberately.
 
-A or B fits the current system without reopening the broader blob rules. The assistant may state a lean but must let the user decide.
+The cleanest fit with the rules so far is probably **C**, but the user decides.
 
 ---
 
 ## Later interview queue
 
 Do not ask these all at once.
-
-### Blobs / climax
-- Why absorbing Shade resolves the climactic blob behavior.
 
 ### Thresholds / graffiti wall
 - General threshold mechanics only if the story still needs more than the Space Between/Camp-specific rules.
