@@ -96,11 +96,13 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 
 - The old support explanation that Pathwell's successful cookbook ward automatically coats Elizabeth in blob-attracting residue is **cut**.
 - The current Chapter 1 staging is important evidence: the blob is already pounding on Elizabeth's door before Pathwell activates the cookbook. After Elizabeth snatches the cookbook away and leaves the active page with Pathwell, the blob lunges for the light in Pathwell's hand rather than demonstrating a clean magical lock onto Elizabeth.
-- Therefore Pathwell's belief that the blob was "after Elizabeth" does not require the blob to literally target her on-page. His inference can arise from the fact that an unexplained blob has arrived at and is breaking down *her* apartment door.
+- **The Chapter 1 blob is not there because of Elizabeth.** Its arrival is connected to Pathwell and/or Shade, whose magical signatures are already established as unusually difficult to distinguish cleanly.
+- Pathwell does not understand that connection. Because the blob appears at Elizabeth's apartment while he is already snooping there, he incorrectly concludes that it must be there for her.
+- Therefore Pathwell's belief that the blob was "after Elizabeth" is a mistaken interpretation of a real event, not evidence that Elizabeth is magically special.
 
 ### Still open
 
-- The actual cause that drew the Chapter 1 blob to Elizabeth's apartment in the first place.
+- Whether the Chapter 1 blob is primarily following Pathwell's signature, Shade's signature, or an entangled/near-identical signal produced by their connection.
 - Whether interruption of the cookbook working creates fresh cleanup waste that explains the blob lunging for the light in Pathwell's hand.
 - Why absorbing Shade resolves the climactic blob behavior.
 
@@ -114,10 +116,11 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - He comes across Elizabeth's apartment with the door slightly open. Pathwell's established disregard for ordinary consent combines with his ability to sense unusually strong charged material: the diary and family cookbook draw his attention into the apartment.
 - He enters and searches through Elizabeth's boxes for the charged material. Elizabeth wakes because of the crash/pounding associated with the blob at the door and discovers him already rummaging.
 - **The blob is what changes Pathwell's behavior toward Elizabeth.** He does not enter because he thinks she is special. Seeing an unexplained blob trying to get into her apartment causes him to infer that it may be there for her; that assumption kicks him into the urgent "I need a cookbook" defense and makes Elizabeth a curiosity to him afterward.
+- **In reality, the blob has followed Pathwell and/or Shade to the apartment, not Elizabeth.** Pathwell is wrong about why the event is happening around her.
 - Pathwell's later interest in Elizabeth is therefore built on a mistaken interpretation of a genuine event, not on hidden importance or magical ability in Elizabeth.
 - **The later Shade revelation that Elizabeth was never the point is structurally essential.** The reveal removes the apparent external reason she mattered and forces the story back onto its central question: what does Elizabeth choose to do once she learns she was never chosen, targeted, or cosmically important?
 
 ### Still open
 
 - Exact party logistics and how much of Pathwell's pre-apartment scavenging appears on-page versus remaining implied.
-- The true reason the blob arrived at Elizabeth's apartment. A Shade-based cause is the leading reconciliation candidate but is not locked until explicitly confirmed.
+- Whether the Chapter 1 blob's primary signal is Pathwell, Shade, or their effectively entangled signature.
