@@ -53,7 +53,7 @@ Every important observation is real; Pathwell's interpretation is wrong.
 - A blob follows the **effectively overlapping Pathwell/Shade magical signature** to the apartment. Their signatures are not cleanly distinguishable to the cleanup creature.
 - Pathwell sees an unexplained blob trying to break down *Elizabeth's* door and concludes that it must be there for her. He does not understand that the event points back to himself and Shade.
 - The blob is already at the door before the cookbook working begins, so a successful cookbook spell is not what brought it there.
-- After Elizabeth pulls the cookbook away, the active page remains with Pathwell and the blob lunges for the light in his hand. Whether that interruption creates fresh cleanup waste is still open and should not be assumed until decided.
+- After Elizabeth pulls the cookbook away, the already-committed working destabilizes and creates fresh unclaimed casting waste around Pathwell's active page. The blob redirects toward that new local cleanup signal and lunges for the light in his hand. This interruption explains the movement after entry, not the blob's original arrival.
 - Pathwell treats Elizabeth as a curiosity because he cannot explain why a blob apparently came for an ordinary woman who knows nothing about it. Watching her becomes his test.
 - The later Shade revelation that Elizabeth was never the point is essential: Pathwell made her seem cosmically significant by misunderstanding a problem that actually belonged to him.
 
@@ -77,6 +77,8 @@ Every important observation is real; Pathwell's interpretation is wrong.
 **What he is:** Made from Pathwell's failed pruning — discarded potential given flesh. Recent, NOT centuries old. He's what Pathwell is becoming: nearly fully deterministic, compelled rather than choosing.
 
 **The draw:** a deterministic compulsion toward Pathwell — the man who made him. It selects *Pathwell*; it contains no information about Elizabeth and never did. He can delay it, not escape it.
+
+**Inherited memory:** Shade carries **fragments and impressions** from Pathwell rather than a coherent copy of Pathwell's life. These may appear as disconnected memories, emotional associations, instincts, habits, flashes of people or places, or knowledge he possesses without knowing where it came from. He does not remember having lived Pathwell's life and is not a psychological duplicate. His own experiences accumulate separately after formation. Whether new Pathwell memories continue to leak across after creation remains open.
 
 **Core problem (locked, the deepest version):** He cannot trust whether anything he feels is his own versus the draw — a divided-mind / double-bind. The division between self and compulsion is literal for him, not metaphorical. He is not bitter; he is *desperate* — because he can't tell which of his feelings are his.
 
