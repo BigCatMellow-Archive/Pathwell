@@ -110,9 +110,13 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - This fresh casting waste explains the blob's immediate movement **after entry only**. It did not summon the blob or cause its original arrival at the apartment.
 - Elizabeth is still not the target or source of the cleanup signal; her action merely disrupts Pathwell's working physically.
 
-### Still open
+### Climactic Shade cleanup — LOCKED
 
-- Why absorbing Shade resolves the climactic blob behavior.
+- **Shade is the actual unresolved pruning-waste anomaly.** Pathwell resembles the cleanup target because his magical signature and Shade's remain effectively overlapping, not because Pathwell himself has become unclaimed pruning waste.
+- **When the climactic blob absorbs Shade, it removes the real unresolved waste source and simultaneously collapses the overlapping Pathwell/Shade signal.**
+- With Shade gone, the ambiguity that made Pathwell resemble the target is gone as well. The blob can re-check Pathwell/the immediate area and no longer identifies remaining Shade-scale cleanup material.
+- The blob then follows its ordinary post-cleanup behavior: it briefly searches for further unclaimed waste and leaves when none remains.
+- Shade's absorption does **not** retroactively settle or ledger the original failed prune as a successful transaction. The anomaly is consumed/removed, not converted into a completed bargain.
 
 ---
 
