@@ -122,27 +122,32 @@ Newer dated locked decisions override older manuscript/support material until de
 - The initial ignition is physical backlash from Pathwell's failed working; pruning spillage and emotional charge remain distinct systems.
 - Once fire begins destroying the archive's dense charged collection, the destruction of those records produces the much larger supernatural/emotional catastrophe.
 - Causal chain: **forced contradictory prune → malformed post-release failure/spillage → physical magical recoil → ignition → mass charged-record destruction → archive-scale fallout.**
-- The user wants the recoil to have **more flourish** than a mundane spark/generic burst of heat. Exact visual manifestation is intentionally left for later scene staging rather than over-designed as a world rule.
+- The recoil should have **more flourish** than a mundane spark/generic burst of heat. Exact visual manifestation remains open for later scene staging.
+
+### Diary buyback timing — LOCKED
+
+- **Pathwell attempts to buy Elizabeth's donated diary back before confronting Shade.**
+- The attempt is separate from the absorption working and occurs before the archive fire.
+- Structural escalation: **undo Elizabeth's choice → decide Shade's fate → catastrophe.**
+- The diary remains archive property unless the archive voluntarily agrees to sell/trade it back.
 
 ---
 
 # EXACT RESUME POINT
 
-The next unresolved issue is Pathwell's intended attempt to buy back Elizabeth's donated diary.
-
 Ask exactly one question:
 
-> **When does Pathwell attempt to buy Elizabeth's diary back relative to the Shade confrontation and archive fire?**
+> **Does the Camp archive agree to sell Elizabeth's diary back to Pathwell?**
 >
-> **A. Before confronting Shade.** Pathwell arrives at Camp, privately attempts to buy the diary from the archive first, then goes to confront Shade. The buyback attempt shows that he is already trying to undo Elizabeth's choice before he makes the larger mistake with Shade.
+> **A. Yes, after demanding a real price.** The archive respects Elizabeth's donation but also follows its established ownership rule: the diary now belongs to the archive, so it may choose to trade it. Pathwell succeeds in undoing the practical result of Elizabeth's surrender without needing her permission, which makes his violation of her agency sharper.
 >
-> **B. During the confrontation, before the absorption attempt.** Pathwell seeks the diary as part of his plan for handling Shade or for protecting/fixing Elizabeth, making the two control impulses collide in the same sequence.
+> **B. No.** The archivist understands what Pathwell is trying to do and refuses the transaction. Pathwell then goes into the Shade confrontation already frustrated by one limit he could not override.
 >
-> **C. After the failed absorption starts the fire.** In the chaos Pathwell tries to recover/buy/save the diary, which makes the diary beat a consequence of the catastrophe rather than part of its setup.
+> **C. The archive is willing to sell, but Pathwell cannot bring himself to pay the demanded price.** The transaction remains available, but he stops short. This gives him a partial moment of restraint before he later fails much more seriously with Shade.
 >
-> **D. The buyback attempt happens earlier in the story, before the final Camp confrontation.** Then the climax only has to pay off the fact that Pathwell already tried to reverse Elizabeth's surrender.
+> **D. The archive agrees conditionally, but the transaction is interrupted before completion.** The diary remains in the archive when the confrontation/fire begins.
 
-The strongest thematic structure is probably **A**: Pathwell first tries to undo Elizabeth's decision in a comparatively controlled transaction, then escalates to deciding Shade's fate. It creates a clean progression of the same flaw from smaller violation to catastrophic one. The user decides.
+**A** creates the most uncomfortable version of Pathwell's flaw: Elizabeth's donation was fully valid, yet because ownership transferred, Pathwell can legally/magically negotiate around her choice with the new owner. He can tell himself he did nothing wrong because the transaction was legitimate, even though he has once again decided that he knows what Elizabeth should have. The user decides.
 
 ---
 
@@ -150,7 +155,8 @@ The strongest thematic structure is probably **A**: Pathwell first tries to undo
 
 Do not ask all at once.
 
-- Determine whether the archive accepts/refuses Pathwell's proposed diary exchange and what he offers.
+- If the archive accepts, determine what Pathwell offers only if the price matters to character/plot.
+- If it refuses or the deal fails, determine whether the diary is destroyed in the fire or survives only if that matters to the ending.
 - Rebuild Elizabeth's non-magical physical action during the archive fire.
 - Decide graffiti wall exact mechanical role only if needed.
 - Papa Baga: develop or cut.
