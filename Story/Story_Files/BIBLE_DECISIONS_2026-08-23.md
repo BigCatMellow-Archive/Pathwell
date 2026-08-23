@@ -55,7 +55,19 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 
 ---
 
-## Still open
+## 4. Papa Baga — cut from canon
 
-- The graffiti wall's precise mechanical role, only if the story needs it.
-- Papa Baga: develop or cut.
+### Character disposition — LOCKED
+
+- **Papa Baga is cut cleanly from the intended story/cast.** The early idea of a separate co-parent figure is no longer part of the working canon.
+- **Mama Baga remains Pathwell's sole established Camp parent/matriarch.** Her relationship to Pathwell and her role at Camp do not require a second parent figure to complete them.
+- The story should not invent a substitute Papa Baga role merely to preserve an older two-parent structure.
+- Any stale Papa Baga references in support material or manuscript text should be removed during the deliberate consistency/reconciliation pass rather than expanded into new scenes.
+- This is a simplification of the cast, not a death, disappearance, mystery, or off-page backstory that needs explanation.
+
+---
+
+## Remaining intentionally open / iceberg lore
+
+- The graffiti wall's precise mechanical role remains threshold-specific iceberg lore unless manuscript reconciliation exposes a concrete contradiction that requires a rule.
+- Minor scene choreography, including the exact physical ignition path during the Pathwell-centered recoil, can be solved during rewriting without reopening the locked causal mechanics.
