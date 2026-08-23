@@ -145,6 +145,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 11. Diner recognition trigger — LOCKED
+
+- **Elizabeth's recognition comes from accumulated wrongness, then Shade casually refers to Pathwell as a separate person and makes the truth explicit.**
+- The scene should build through small mismatches first: clothing, posture, timing, cadence, reactions, gestures, or other details that keep landing slightly wrong.
+- Elizabeth does most of the interpretive work herself. She is already close to certainty before the decisive line.
+- Shade does not stage a dramatic reveal, announce a secret identity, or deliberately spring a trap. He simply refers naturally to `Pathwell` or `he` as someone other than himself because he was never actually pretending to be Pathwell.
+- That third-person reference is the clean click where Elizabeth's bodily unease and accumulated observation become conscious knowledge: **this man is not Pathwell.**
+- Avoid a memory-test reveal. Shade's inherited Pathwell fragments are creation-time only, and the scene should not imply he has access to current Pathwell/Elizabeth memories he canonically cannot possess.
+- Once Elizabeth knows he is not Pathwell, the diner can proceed into the deeper revelation that **Elizabeth was never the point** without conflating the two reveals.
+
+---
+
 ## Next refinement question
 
-Decide what finally makes Elizabeth consciously recognize at the diner that the man with her is not Pathwell. The recognition should emerge from accumulated wrongness, but the scene still needs a clean moment where uncertainty becomes knowledge.
+Decide how much of the Chapter 1 truth Shade can actually explain at the diner when he tells Elizabeth she was never the point. The scene needs to land the emotional revelation without making Shade omniscient about cleanup mechanics he may only be able to infer.
