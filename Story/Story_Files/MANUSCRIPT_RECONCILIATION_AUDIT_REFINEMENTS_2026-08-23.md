@@ -60,16 +60,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
-## 5. Chapter 2 changed geography — LOCKED
+## 5. Chapter 2 changed geography — REVISED / LOCKED
 
-- **Keep the changed-neighborhood sequence as a blend of real threshold geography and Elizabeth's subjective panic/disorientation.**
-- Pathwell leads Elizabeth across a subtle route/threshold without stopping to explain it. She is therefore genuinely no longer standing in the exact ordinary neighborhood geography she expects.
-- Reality has **not** rewritten itself. The coffee shop did not magically become a laundromat, and an impossible park was not inserted into her home neighborhood. She has crossed into/through a connected place or route whose geography is different.
-- Elizabeth does not yet possess the conceptual framework to understand a threshold crossing. She assumes she is still in familiar streets and her panicked, exhausted mind keeps trying to force what she sees back onto the map she knows.
-- The narration may therefore let landmarks feel contradictory, slippery, or impossible from her point of view, but it should remain compatible in retrospect with the objective explanation that **she was somewhere else and did not realize it**.
-- Her panic is not a supernatural perception effect and does not make her magical. It is ordinary human cognition under stress trying to impose coherence on genuinely unfamiliar circumstances.
-- Pathwell's casualness should heighten the effect: he treats the route as ordinary and may not appreciate how disorienting it is for someone who does not know such routes exist.
-- Reconciliation should preserve the uncanny feeling of the current scene while removing any implication that Pathwell or the world literally rewrites established ordinary geography.
+- **Supersede the earlier threshold-crossing interpretation. Chapter 2's changed-neighborhood feeling is primarily about Elizabeth finally noticing the ordinary world around her after living on autopilot.**
+- Elizabeth has become so embedded in routine that she does not truly observe much of the route, neighborhood, or surrounding life. She knows the functional map: where to turn, where to buy coffee, where to get laundry done, where she needs to be next. She does not necessarily know the place as a consciously observed environment.
+- Once Chapter 1 knocks her out of that routine, she begins actually looking. Familiar streets can therefore feel strangely new, inconsistent, or difficult to place because she is comparing what she is seeing now with a thin habitual mental map rather than a richly observed memory.
+- Her panic, exhaustion, grief, and confusion intensify the effect. Her mind reaches for explanations and tries to force details into categories it already understands.
+- **The ordinary neighborhood does not literally rewrite itself. Pathwell does not need to have led her across a magical threshold for this beat to work.**
+- If a coffee shop/laundromat/park detail is retained, it should be staged so there is a mundane explanation available: she misremembered, never really noticed, noticed a neighboring storefront for the first time, took a slightly different route, or realizes how little attention she has been paying.
+- The narration may still feel uncanny from Elizabeth's point of view, because the emotional truth is that **opening her eyes to the world feels like entering a new place even when the place has been there all along.**
+- This beat should reinforce Elizabeth's starting passivity: she has been moving through a life organized by habit, obligations, and other people's expectations rather than actively looking, choosing, or engaging.
+- Do not over-explain this theme in prose. Let the mismatch between her confidence in the routine and her poor actual observation carry it.
+- Magical threshold geography remains available elsewhere in the story, but it is no longer the required explanation for this Chapter 2 sequence.
 
 ---
 
