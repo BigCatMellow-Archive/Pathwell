@@ -24,7 +24,7 @@ Each rung must be something Elizabeth does, not a door someone else opens for he
 
 1. **She follows because Pathwell still has the cookbook.** She stops simply absorbing what has happened and pursues something that is hers.
 2. **Reclaims what is hers, then chooses the portal (Ch3).** She retrieves the diary/cookbook rather than meekly leaving them with Pathwell, then puts her books on his stack and enters the Space Between by choice. This replaces the stale "orders lo mein" agency rung from older planning material.
-3. **Cookbook sacrifice at Camp.** She voluntarily gives up the family cookbook as a major, permanent cost to help someone she can look in the eye. The exact recipient — Mama Baga or the younger woman in the current manuscript — remains unresolved and must not be guessed.
+3. **Cookbook sacrifice at Camp.** She voluntarily gives up the family cookbook as a major, permanent cost to heal the younger injured woman at Camp — a relative stranger she can see suffering. The sacrifice is Elizabeth's independent choice, not an act performed primarily for Pathwell or his family.
 4. **Cuts herself out of the blob (bar).** No rescue and no assignment; she uses Stansbury's imbued toy dagger to get herself out.
 5. **Turns the wheel (midpoint crash).** She is driving because she is the only sober one; Pathwell and Stansbury argue around her until she is furniture again. The turn is agency with consequence, not petty defiance.
 6. **The Ask (post-diner).** Gutted by the revelation that she was never the point, she does not collapse inward. She turns to the person who hurt her and demands truth/acknowledgment about what he did.
@@ -116,7 +116,7 @@ Every important observation is real; Pathwell's interpretation is wrong.
 
 **Role:** matriarch of Camp Cunnan; mother to nearly everyone there. Pathwell's adopted mother. Loves him, tolerates him, wishes he'd rest and find another way to care for himself. Knows he prunes; concerned, but never demands more than he can give.
 
-**Cookbook scene:** Elizabeth voluntarily surrenders her grandmother's cookbook at Camp as a major permanent cost. The exact person whose healing receives that sacrifice is unresolved: older support files name Mama Baga, while the current manuscript stages a younger woman as the patient. Do not silently choose one until the bible interview resolves it.
+**Cookbook scene:** Mama Baga is **not** the patient. Elizabeth voluntarily surrenders her grandmother's cookbook at Camp to heal the younger injured woman from the current manuscript, a relative stranger. The choice matters because Elizabeth sees someone suffering and decides for herself that the irreplaceable cost is worth paying.
 
 **Climax weight:** after the fire Mama Baga's silence toward Pathwell can carry the conversation better than explanation. She never needed to lecture him about his flaw; the consequences are visible.
 
