@@ -135,3 +135,14 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 ### Still open
 
 - Exact party logistics and how much of Pathwell's pre-apartment scavenging appears on-page versus remaining implied.
+
+---
+
+## 4. Shade creation event
+
+### Pathwell's motive — LOCKED
+
+- **The malformed prune that created Shade happened while Pathwell was trying to solve someone else's problem for them.** It was not primarily a selfish purchase, random experimentation, or a uniquely heroic emergency.
+- Pathwell reached for pruning because that is his established reflex: spend his own future, remove another person's difficulty, and make himself the mechanism by which the problem disappears.
+- Shade therefore originates directly from Pathwell's core flaw — **convenience dressed as mercy** — rather than from bad luck disconnected from his character.
+- The exact practical problem Pathwell was trying to solve, and how much the other person asked for or consented to Pathwell's chosen intervention, remain open until deliberately decided.
