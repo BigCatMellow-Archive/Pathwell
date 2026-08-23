@@ -145,4 +145,11 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - **The malformed prune that created Shade happened while Pathwell was trying to solve someone else's problem for them.** It was not primarily a selfish purchase, random experimentation, or a uniquely heroic emergency.
 - Pathwell reached for pruning because that is his established reflex: spend his own future, remove another person's difficulty, and make himself the mechanism by which the problem disappears.
 - Shade therefore originates directly from Pathwell's core flaw — **convenience dressed as mercy** — rather than from bad luck disconnected from his character.
-- The exact practical problem Pathwell was trying to solve, and how much the other person asked for or consented to Pathwell's chosen intervention, remain open until deliberately decided.
+
+### Consent and intervention — LOCKED
+
+- **The person Pathwell was helping genuinely asked him for help, but did not ask him to prune.** They consented to receiving help; they did not choose Pathwell's exact magical method or the cost he decided to take on.
+- Pathwell independently chose pruning because he regarded it as the quickest, cleanest, or most convenient way to make the problem go away.
+- The mistake is therefore not that Pathwell helped someone who wanted to be left alone. It is that he converted **"help me" into "I will decide what solving this means."**
+- This reinforces his broader tendency to take ownership of other people's problems and choices while believing that taking the burden onto himself makes the intervention merciful.
+- The exact practical problem Pathwell was trying to solve remains open unless the story later needs it.
