@@ -67,6 +67,19 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 
 ---
 
+## 5. Nana's cookbook / *The Joy of Cooking* — LOCKED
+
+### Object identity and magic compatibility
+
+- **Nana's family cookbook is a genuinely handwritten family recipe book.** It is not a printed copy of *The Joy of Cooking* with marginal notes.
+- This is required by the established emotional-text discipline: the charged source being consumed in the cookbook workings is authentic handwritten material, not mass-printed text.
+- Elizabeth may separately own an ordinary printed copy of *The Joy of Cooking*, but it is a different object and is not the magical family heirloom.
+- The previous audit lean toward treating Nana's cookbook and *The Joy of Cooking* as one object is rejected.
+- **The coda's replacement *Joy of Cooking* is stale and must be replaced with a different object or beat.** A mass-printed replacement cookbook cannot meaningfully stand in for the lost handwritten family book as though it were the same kind of charged object.
+- This does not create a blanket rule that handwriting added to a printed object can never hold charge; it only locks that Nana's specific family cookbook—the book used for the major emotional-text workings—is itself handwritten.
+
+---
+
 ## Remaining intentionally open / iceberg lore
 
 - The graffiti wall's precise mechanical role remains threshold-specific iceberg lore unless manuscript reconciliation exposes a concrete contradiction that requires a rule.
