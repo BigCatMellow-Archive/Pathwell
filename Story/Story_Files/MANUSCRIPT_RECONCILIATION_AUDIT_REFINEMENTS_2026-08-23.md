@@ -195,6 +195,17 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 15. Shade points Elizabeth toward the Ask, not the action — LOCKED
+
+- **Shade does not order Elizabeth to confront Pathwell, recruit her as an ally, or dictate what she should do next.**
+- Preserve/adapt the strong diner line: **`He knows what he did. Ask him.`**
+- The line points Elizabeth toward a question Pathwell owes her an answer to, but it does not specify where she must go, when she must confront him, what words she must use, or what conclusion she must reach.
+- Shade clearly hopes the truth will push Elizabeth into confronting Pathwell and thereby create the pressure he wants. That instrumental motive remains part of his blind spot.
+- **The later Ask nevertheless belongs to Elizabeth.** She chooses to seek Pathwell, chooses to demand the answer, and refuses Pathwell's attempts to decide whether she is ready to hear it.
+- This distinction prevents Shade from authoring Elizabeth's agency arc. He supplies information and pressure; Elizabeth decides what to do with them.
+
+---
+
 ## Next refinement question
 
-Decide how directive Shade is when he leaves Elizabeth after the diner. The scene needs to point toward Elizabeth's later `Ask` without turning her confrontation with Pathwell into something Shade simply orders her to do.
+Decide how Pathwell responds when Elizabeth finally demands `Tell me what you did.` The current Chapter 10 has strong material in his initial `I pruned ahead` evasion, but its later explanation uses stale pruning language that can imply he cut away someone else's possibilities rather than spending his own future possibility.
