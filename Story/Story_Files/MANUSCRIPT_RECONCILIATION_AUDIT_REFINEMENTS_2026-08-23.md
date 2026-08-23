@@ -169,6 +169,19 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 13. `You were never the point` — emotional framing — LOCKED
+
+- **Elizabeth was incidental to the magical problem; she is not therefore insignificant as a person.** The diner must keep those ideas separate.
+- Shade states the factual truth: the danger was following Pathwell/the Pathwell-centered problem, not some hidden supernatural importance in Elizabeth.
+- He then turns the moral accusation toward Pathwell. Pathwell misread his own consequences, pulled an ordinary person into them, let her continue living inside that mistaken explanation, and kept deciding what she was entitled to know even after the evidence began pointing back to him.
+- Shade should not tell Elizabeth that she is worthless, irrelevant, cosmically disposable, or `not special` in a way that makes the novel endorse those judgments.
+- The painful revelation is narrower and more useful: **Elizabeth does not need to be secretly chosen, magically marked, cosmically targeted, or uniquely important to justify the fact that what happened to her matters.**
+- This directly supports the book's controlling argument. Elizabeth matters because she is a person making choices, not because the magical system selected her for importance.
+- Shade may still be sharp, angry, or unsympathetic in delivery. He does not need to comfort Elizabeth. What matters is that his accusation lands on Pathwell's behavior rather than redefining Elizabeth's human worth.
+- The diner therefore strips away the false explanation that made Pathwell's attention feel like proof of significance while leaving Elizabeth to confront the harder truth: **mattering is not something Pathwell, Shade, or magic gets to confer on her.**
+
+---
+
 ## Next refinement question
 
-Decide how Shade should frame the emotional meaning of `Elizabeth was never the point.` The story needs to remove her false cosmic significance without accidentally arguing that being incidental to the magical problem means she is personally worthless.
+Decide why Shade takes Elizabeth away from the crash and brings her to the diner at all. His motive should serve his goal of forcing Pathwell to face consequences without accidentally turning Shade into a purely altruistic rescuer or making Elizabeth merely random cargo.
