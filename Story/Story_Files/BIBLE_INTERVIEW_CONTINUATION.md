@@ -103,10 +103,12 @@ Newer dated locked decisions override older manuscript/support material until de
 
 - Pathwell tries to collapse the separation and **absorb/reintegrate Shade into himself**.
 - Pruning is payment for that working, not the absorption effect itself.
-- Pathwell frames this as taking responsibility for what he created.
-- In reality it repeats his flaw: he assumes responsibility gives him authority to decide what happens to another person.
-- Pathwell does **not** know whether Shade would survive consciously, cease to exist, merge into something new, or undergo some other irreversible outcome.
-- Pathwell now genuinely doubts that absorbing Shade is right or that he has the right to choose it.
+- Pathwell does not know whether Shade would survive consciously, cease to exist, merge into something new, or undergo some other irreversible outcome.
+- Pathwell genuinely doubts that absorbing Shade is right or that he has the authority to choose it.
+- **Shade explicitly refuses absorption.** He does not consent, resign himself to it, or hand Pathwell the choice.
+- Shade sees absorption as an easy way for Pathwell to erase the consequence he created. Shade's suffering, deeds, choices, and impact on other people are real; Pathwell cannot simply fold him back into himself and call that accountability.
+- Shade wants Pathwell to face the fact that his choices have consequences in other people and to acknowledge what he did.
+- **Pathwell hears the refusal and attempts absorption anyway.** This is the core flaw at maximum intensity: another person's stated boundary becomes secondary to Pathwell's conviction that he must solve the situation.
 
 ### Doubt rule
 
@@ -115,7 +117,8 @@ Newer dated locked decisions override older manuscript/support material until de
 - A trained practitioner can force possibility past the safe cancellation point anyway.
 - Once released under that contradiction, the payment cannot settle cleanly and becomes malformed **unclaimed pruning spillage**.
 - In the climax Pathwell knows he should stop but forces release anyway.
-- In the coda he reaches the analogous point and finally stops before release.
+- Shade's refusal sharpens that contradiction, but is not a separate magical cause of failure.
+- In the coda Pathwell reaches the analogous point and finally stops before release.
 
 ### Archive ignition
 
@@ -128,41 +131,38 @@ Newer dated locked decisions override older manuscript/support material until de
 ### Diary buyback — LOCKED
 
 - **Pathwell attempts the buyback before confronting Shade.**
-- The Camp archive **agrees to sell/trade the diary back for a legitimate price**, and the transaction succeeds.
-- Pathwell pays with a **clean prune of his own future possibility**.
+- The Camp archive agrees to sell/trade the diary back, and Pathwell pays with a **clean prune of his own future possibility**.
 - The archive is acting within its established ownership rights; Elizabeth's original donation remains valid.
-- The buyback prune settles cleanly because Pathwell is fully committed to that outcome and has no fundamental contradiction about doing it.
+- The buyback prune settles cleanly because Pathwell is fully committed to that outcome.
 - Shade feels the prune as a jolt through their established connection shortly before the confrontation.
 - Pathwell physically possesses the diary before confronting Shade.
-- Structural escalation: **undo Elizabeth's choice → decide Shade's fate → catastrophe.**
+- Structural escalation: **undo Elizabeth's choice → ignore Shade's refusal and decide his fate → catastrophe.**
 
 ### Diary fate / Elizabeth's rescue — LOCKED
 
 - **Elizabeth gets a real opportunity to save the diary during the archive fire and chooses the child already present in the current `Chapter_12b` staging instead.**
 - She does not activate, spend, burn, or otherwise use the diary as magic.
-- She does not perform a ceremonial rejection of her past.
 - Elizabeth physically prioritizes rescuing the child, a relative stranger, and the diary is destroyed by the archive fire because she leaves it behind.
 - This deliberately echoes the cookbook sacrifice: she again gives up something irreplaceable because a living stranger matters.
 - Stansbury's separate climactic turn remains intact: he still chooses to enter the burning archive, is permanently burned, and carries a scar Pathwell cannot undo.
-- The current draft's child-rescue material is therefore useful, while the diary-as-magical-tool sequence is stale and must be removed during manuscript reconciliation.
 
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one question about Shade's agency in the absorption attempt:
+Ask exactly one question about Shade's **physical response** after he has explicitly refused reintegration and Pathwell begins the working anyway:
 
-> **Does Shade consent to Pathwell trying to absorb/reintegrate him?**
+> **What does Shade do when Pathwell proceeds despite his refusal?**
 >
-> **A. Yes, knowingly.** Shade understands that Pathwell cannot promise whether reintegration means survival, erasure, merger, or something else, and still agrees to let Pathwell try. Pathwell's failure is then not lack of Shade's consent; it is that Pathwell himself does not believe the act is right and forces the prune through his own contradiction anyway.
+> **A. He actively fights the attempt physically, but his resistance is not what causes the magical failure.** Shade tries to stop Pathwell or break the working because he wants to remain a person rather than be erased. Pathwell's contradictory intent remains the mechanical cause of the malformed prune.
 >
-> **B. No.** Shade explicitly rejects being absorbed, and Pathwell attempts it anyway. This makes Pathwell's control flaw maximally clear, but it risks making the climax morally simpler than the rest of the book.
+> **B. He refuses and holds his ground.** Shade does not cooperate, but he also does not attack or flee. He makes Pathwell carry the full burden of choosing to proceed against a clearly stated `no`.
 >
-> **C. Shade does not give meaningful consent either way.** He is exhausted, compelled by the draw, or effectively resigned and allows Pathwell to proceed without a clear yes. This keeps the situation morally uncomfortable but raises the question of whether consent is possible for Shade while the draw is active.
+> **C. He tries to leave.** The draw makes getting away from Pathwell difficult or impossible, which turns Shade's lack of freedom into part of the scene. Pathwell proceeds while Shade is visibly trying to remove himself from the choice.
 >
-> **D. Shade asks Pathwell to choose for him.** Because Shade cannot trust which desires are his versus the draw, he deliberately hands the decision to Pathwell. This is tragic and thematically rich, but it places Pathwell in exactly the authority position he has been learning not to occupy.
+> **D. He tries to stop the working by going after the magical setup rather than Pathwell.** This gives the confrontation more kinetic action while keeping Shade's intent defensive rather than punitive.
 
-Current character material says Shade `accepts absorption`, but that wording predates the newly clarified uncertainty about what absorption would mean. Treat the exact degree of consent as open until the user answers.
+Current lean: **B** is thematically cleanest. Shade's refusal already does the moral work; if he simply holds his ground, Pathwell cannot blame a fight, panic, or interference for what happens. Pathwell sees the boundary, knows he doubts himself, and forces the prune anyway. The user decides.
 
 ---
 
@@ -170,7 +170,7 @@ Current character material says Shade `accepts absorption`, but that wording pre
 
 Do not ask all at once.
 
-- Resolve any small consent loophole exposed by the Shade answer.
+- Resolve the exact visual flourish of the malformed absorption recoil only if useful before manuscript staging.
 - Decide graffiti wall exact mechanical role only if needed.
 - Papa Baga: develop or cut.
 - Final manuscript consistency/reconciliation pass after enough rules are locked.
@@ -180,5 +180,5 @@ Final reconciliation must include:
 - Camp healing scene with younger injured woman.
 - Chapter 10 Camp destination → Chapter 11 museum transition.
 - Chapter 7 blob targeting.
-- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, child rescue, Stansbury's burn, and final diary destruction.
+- Climax rewrite: Shade refuses absorption; no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, child rescue, Stansbury's burn, and final diary destruction.
 - Coda rewrite: Pathwell can prune and voluntarily stops.
