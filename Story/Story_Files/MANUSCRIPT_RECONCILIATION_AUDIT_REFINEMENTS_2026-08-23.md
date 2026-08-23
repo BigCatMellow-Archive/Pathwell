@@ -157,6 +157,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 12. Shade's Chapter 1 explanation — LOCKED
+
+- **Shade gives Elizabeth the firsthand truth plus a cautious inference; he does not deliver a full omniscient explanation of the cleanup mechanics.**
+- Shade can state with certainty that **he followed Pathwell, not Elizabeth**. He did not know Elizabeth before that night and had no independent reason to be at her apartment.
+- He can therefore establish the crucial fact that Elizabeth was never *his* target and that his presence at her apartment was downstream of Pathwell's presence there.
+- Shade may cautiously connect the blob to the same Pathwell-centered problem because its behavior is consistent with what he has experienced around the Pathwell/Shade connection, but he should present this as inference rather than technical certainty.
+- Shade should **not** explain the exact overlapping-signature localization, the cookbook interruption's fresh casting waste, or other cleanup details as though he has authoritative knowledge of Pathwell's magical discipline and blob mechanics.
+- The reader can later understand the complete chain through Pathwell/Stansbury knowledge and the established world rules: Shade followed Pathwell; the blob localized the overlapping Pathwell/Shade cleanup signal; Pathwell misread the event as being about Elizabeth; the cookbook interruption only explains the blob's later local lunge.
+- The diner reveal therefore rests on evidence Shade legitimately possesses while still landing the intended emotional truth: **Elizabeth was pulled into a problem that was already following Pathwell.**
+
+---
+
 ## Next refinement question
 
-Decide how much of the Chapter 1 truth Shade can actually explain at the diner when he tells Elizabeth she was never the point. The scene needs to land the emotional revelation without making Shade omniscient about cleanup mechanics he may only be able to infer.
+Decide how Shade should frame the emotional meaning of `Elizabeth was never the point.` The story needs to remove her false cosmic significance without accidentally arguing that being incidental to the magical problem means she is personally worthless.
