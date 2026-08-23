@@ -107,25 +107,31 @@ Locked 2026-08-22:
 - No permanent blob-tracking mark on Elizabeth or the apartment is established.
 - The later wet thud down the hall accidentally makes his claim look correct, though the continuing cleanup activity is tied to the Pathwell/Shade situation.
 
+## Section 10 — Pathwell's pruning in the coda — ACTIVE
+
+Locked 2026-08-22:
+
+- **Pathwell remains mechanically capable of pruning at the end.**
+- Shade's resolution does not remove or seal that ability.
+- His growth must be voluntary: pruning remains an available option and Pathwell chooses another way.
+- The current coda's literal `nothing happened` attempt is therefore stale and must be revised.
+- Relief can remain, but should arise from Pathwell's own refusal/stopping rather than from magic making pruning impossible.
+
 ---
 
 # EXACT RESUME POINT
 
-The current coda has Pathwell try to perform a small prune and find that nothing happens: `No branch-light. No pressure. No clean little subtraction from the future.` He then feels relief rather than anger.
+Ask exactly one follow-up question to determine how the coda demonstrates Pathwell's choice:
 
-Ask exactly one question:
+> **How should the coda show that Pathwell could prune, but chooses not to?**
+>
+> **A. He begins the prune and deliberately stops before release.** The familiar signs begin — pressure, branch-light, whatever the final visual language is — proving the ability still works. Then Pathwell stops before the possibility is released/accepted. This uses the already-locked rule that an early cancellation can return cleanly and turns the current coda beat into an explicit choice.
+>
+> **B. He reaches the point of initiating but never activates it.** He has the means and opportunity, recognizes his old reflex, and simply puts it away before any magic begins. More restrained, but provides less mechanical proof that the ability remains.
+>
+> **C. He openly offers pruning as payment, then withdraws the offer before the custodian accepts it.** The choice occurs through negotiation rather than a magical near-start. This foregrounds the transaction/consent side of pruning but is more dialogue-dependent.
 
-> **At the end of the story, is Pathwell still mechanically capable of pruning?**
->
-> **A. Yes. He can still prune; he chooses not to.** The current failed-attempt staging would need revision. His growth is entirely a choice: the power remains available, but he stops treating his future as convenient currency.
->
-> **B. No. Shade's resolution permanently removes Pathwell's ability to prune.** The current coda can remain mechanically literal. Pathwell's relief is accepting something he initially experiences as loss.
->
-> **C. Temporarily unavailable, not permanently gone.** The climax leaves Pathwell unable to prune for now, but whether the ability returns is unknown. His coda relief is still meaningful, but the story does not prove he would refuse pruning if it came back.
->
-> **D. He remains capable, but the first attempt fails for a situational reason unrelated to personal growth.** He then deliberately chooses another way. This preserves the beat of a failed attempt while keeping the eventual choice voluntary, but it needs a clear reason the specific prune could not settle.
-
-The strongest thematic fit is probably **A**: the book's controlling idea places weight on choosing despite uncertainty, so Pathwell losing the ability automatically risks letting magic make his moral decision for him. But the user decides.
+**A** is the cleanest mirror of the current coda because it preserves the almost-prune, preserves the relief beat, mechanically proves Pathwell still can prune, and makes the decisive action his: he stops.
 
 ---
 
@@ -147,6 +153,7 @@ Do not ask these all at once.
 - Repair the Camp healing scene against the younger injured woman decision.
 - Repair Chapter 10 Camp destination → Chapter 11 museum transition.
 - Re-test Chapter 7 blob targeting.
+- Rewrite the stale coda prune attempt to preserve Pathwell's voluntary choice.
 - Re-test climax/coda against final pruning, archive, diary, and blob rules.
 
 ## Recording future answers
