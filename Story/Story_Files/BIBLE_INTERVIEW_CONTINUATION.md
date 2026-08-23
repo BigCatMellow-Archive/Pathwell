@@ -56,6 +56,7 @@ Important late locks:
 - Pathwell remains capable of pruning in the coda and deliberately stops before release/acceptance: **`I can do this, and I stopped.`**
 - Papa Baga is cut cleanly from canon.
 - Graffiti-wall threshold mechanics remain threshold-specific iceberg lore unless a concrete contradiction appears during editing.
+- **Bar sequence revised:** the mirror makes Pathwell begin to understand the mystery points back to himself; he bolts from the bar, a blob attacks/engulfs him through the Pathwell/Shade overlap, and Elizabeth cuts Pathwell free with Stansbury's imbued toy dagger. The older `Elizabeth cuts herself free` version is stale.
 
 ---
 
@@ -69,7 +70,9 @@ Important late locks:
   1. Nana's handwritten cookbook — surrendered at Camp.
   2. Elizabeth's diary — donated to archive, bought back by Pathwell, then lost when Elizabeth chooses the child.
 - **Remove the diary's charred edges / missing-page history entirely.** The diary may show ordinary wear, but it remains physically intact until the archive fire. The Chapter 1 consumed page belongs to Nana's handwritten cookbook.
-- **Chapter 2's uncanny neighborhood feeling is now primarily character/perception, not threshold geography.** Elizabeth has been so lost in routine that she has not truly observed the world around her. Once her routine breaks, familiar streets feel new and confusing because she is finally looking, while panic/exhaustion make her mind reach for explanations. Ordinary geography does not rewrite itself and a magical threshold is not required for this beat.
+- **Chapter 2's uncanny neighborhood feeling is primarily character/perception, not threshold geography.** Elizabeth has been so lost in routine that she has not truly observed the world around her. Once her routine breaks, familiar streets feel new and confusing because she is finally looking, while panic/exhaustion make her mind reach for explanations. Ordinary geography does not rewrite itself and a magical threshold is not required for this beat.
+- **Chapter 4 → 5:** Pathwell is already uneasy about the abnormal Chapter 1 blob behavior, and Mama Baga independently pushes him to involve Stansbury. The successful Camp healing remains clean; no gold-residue/blob-bait mechanism.
+- **Chapter 6 → 7:** Pathwell sees Shade through the mirror strongly enough to begin understanding the problem points back to himself, runs out, is attacked/engulfed by a blob, and Elizabeth chooses to cut him free with Stansbury's dagger. This replaces the older Elizabeth self-rescue version.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -104,14 +107,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **What should replace Chapter 4's current post-healing gold-residue/blob-bait logic as Pathwell's reason to seek Stansbury?**
+> **What does the bar blob do immediately after Elizabeth cuts Pathwell free?**
 >
-> **A. The Chapter 1 blob behavior was abnormal enough that Pathwell wants backup.** He cannot explain why a cleanup creature was behaving around his signal the way it did, so he seeks the one person he trusts to be useful in a magical mess.
+> **A. It tries to re-engulf Pathwell.** Elizabeth/Stansbury then have to force separation. This makes the signal pursuit very clear but risks making the blob read like an ordinary attacking monster.
 >
-> **B. Pathwell senses the Pathwell/Shade overlap worsening, but cannot identify it.** The strange signal/disturbance after Camp convinces him something is following or mirroring him, so he goes to Stansbury.
+> **B. The dagger disruption breaks contact; the blob pauses/searches around Pathwell because the Pathwell/Shade signal is ambiguous, then withdraws when it cannot resolve the actual cleanup source.** This keeps the creature cleanup-oriented rather than vindictive.
 >
-> **C. Mama Baga tells him to get Stansbury.** She recognizes that Pathwell is out of his depth and orders him to stop handling the problem alone.
+> **C. Stansbury actively drives it off after Elizabeth performs the rescue.** Elizabeth owns the decisive rescue beat; Stansbury handles containment with his imbued tools.
 >
-> **D. Combine A + C.** The abnormal blob behavior worries Pathwell, and Mama Baga independently tells him to bring Stansbury in. This gives both practical and relational causality.
+> **D. Combine B + C.** Elizabeth cuts Pathwell free; the blob destabilizes/searches rather than immediately attacking her, and Stansbury uses his tools to create enough separation that the blob withdraws without being killed.
 
-Audit lean: **D**. It avoids inventing a new magical residue, gives Mama Baga useful authority, and reinforces Pathwell's tendency to resist involving others until pushed.
+Audit lean: **D**, because it preserves Elizabeth's action, gives Stansbury a supporting function, and avoids monster hit-point logic.
