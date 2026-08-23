@@ -206,6 +206,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 16. The Ask: `I pruned ahead` evasion → plain-language confession — LOCKED
+
+- **Preserve Pathwell's initial `I pruned ahead` answer when Elizabeth demands `Tell me what you did.`** He retreats into practitioner shorthand rather than immediately giving her the human meaning of the choice.
+- Preserve/adapt Elizabeth's rejection: **`That isn't an answer.`** This is an important agency beat because she refuses to let Pathwell's expertise determine what counts as sufficient explanation.
+- Only after she pushes does Pathwell state the event in plain language: **someone asked him for help, but did not ask him to prune. Pathwell chose pruning himself because it looked like the quickest/cleanest way to solve the problem.**
+- The payment came from **Pathwell's own future possibility**. Do not preserve the stale Chapter 10 implication that he cut away another person's possibilities or spent someone else's future.
+- The prune went wrong/malformed badly enough to produce the unprecedented consequence that became Shade. Pathwell can explain what he chose and what resulted without pretending he fully understands Shade's ontology.
+- The scene should distinguish technical accuracy from moral accuracy. `I pruned ahead` may be technically true, but Elizabeth forces Pathwell to say who made the choice, whose possibility was spent, whether the person consented to pruning, and what consequence followed.
+- This preserves strong existing Chapter 10 material while aligning the Ask with the locked pruning rules and the book's accountability theme.
+
+---
+
 ## Next refinement question
 
-Decide how Pathwell responds when Elizabeth finally demands `Tell me what you did.` The current Chapter 10 has strong material in his initial `I pruned ahead` evasion, but its later explanation uses stale pruning language that can imply he cut away someone else's possibilities rather than spending his own future possibility.
+Decide how far Pathwell gets toward actual accountability after he gives Elizabeth the plain facts. The scene must reveal the truth without prematurely completing the character growth that still has to fail in the climax and mature in the coda.
