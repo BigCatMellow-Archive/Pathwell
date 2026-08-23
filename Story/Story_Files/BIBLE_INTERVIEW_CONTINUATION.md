@@ -128,15 +128,20 @@ Newer dated locked decisions override older manuscript/support material until de
 
 - **Pathwell attempts the buyback before confronting Shade.**
 - The Camp archive **agrees to sell/trade the diary back for a legitimate price**, and the transaction succeeds.
+- Pathwell pays with a **clean prune of his own future possibility**.
 - The archive is acting within its established ownership rights; Elizabeth's original donation remains valid.
-- Pathwell does not steal the diary or override the archive. He uses a legitimate transaction to undo the practical result of Elizabeth's deliberate surrender.
-- This is the character problem: he treats a balanced transaction as sufficient moral permission to manage someone else's choice.
-- **Pathwell pays with a clean prune of his own future possibility.** Camp ordinarily discourages pruning but accepts it here as the negotiated price.
 - The buyback prune settles cleanly because Pathwell is fully committed to that outcome and has no fundamental contradiction about doing it.
 - Shade feels the prune as a jolt through their established connection shortly before the confrontation.
-- This creates the direct contrast: **Pathwell can confidently prune to undo Elizabeth's choice; then he forces a prune toward Shade despite no longer believing he has the right to impose that outcome.**
 - Pathwell physically possesses the diary before confronting Shade.
 - Structural escalation: **undo Elizabeth's choice → decide Shade's fate → catastrophe.**
+
+### Diary fate — LOCKED
+
+- **Elizabeth gets a real opportunity to save the diary during the archive fire and chooses a person / urgent human need instead.**
+- She does not activate, spend, burn, or otherwise use the diary as magic.
+- She does not perform a ceremonial rejection of her past.
+- The diary is destroyed by the fire because Elizabeth prioritizes the living person over recovering the object.
+- This is an agency beat: Pathwell spent part of his future to put the diary back into circulation, but when it becomes available to Elizabeth again she still does not choose it over a person.
 
 ---
 
@@ -144,17 +149,17 @@ Newer dated locked decisions override older manuscript/support material until de
 
 Ask exactly one question:
 
-> **What ultimately happens to Elizabeth's diary during the archive catastrophe?**
+> **Who is the person Elizabeth chooses instead of saving the diary?**
 >
-> **A. It survives the fire in Pathwell's possession.** The object remains physically available afterward, forcing a later decision about whether Pathwell offers it back, Elizabeth accepts/refuses it, or it is returned to the archive. This preserves the object but requires another disposition beat.
+> **A. The child already present in the current Chapter 12b draft.** Preserve the existing human rescue beat but remove the stale diary-as-magic action. Elizabeth sees she can reach the diary or the child and chooses the child. This keeps her climax focused on a relative stranger and leaves Stansbury's separate choice to enter the archive intact.
 >
-> **B. It is destroyed accidentally in the archive fire.** Pathwell bought it back because he believed preserving/returning it was the right thing to do, but the catastrophe he causes destroys it anyway. Elizabeth does not activate it or use it as magic.
+> **B. Stansbury.** Elizabeth chooses him over the diary during the fire. This ties her final agency beat directly to a major relationship, but it risks weakening Stansbury's own established turn of choosing to enter the archive and receiving the permanent burn.
 >
-> **C. Elizabeth has an opportunity to save the diary during the fire and deliberately chooses a person or another urgent human need instead.** The diary is then destroyed as a consequence of that prioritization. This makes its loss an agency beat without turning the diary into a spell or a ceremonial `burn the past` gesture.
+> **C. Pathwell.** Elizabeth chooses Pathwell over the diary. This would make the act relationally direct, but risks recentering her climax around rescuing him rather than expressing her own values.
 >
-> **D. The diary survives, but Elizabeth refuses to take it back afterward.** Pathwell succeeds in preserving the object but fails to reverse the choice that mattered; Elizabeth's surrender remains hers despite his attempted workaround.
+> **D. Another Camp resident / immediate stranger.** Preserve the principle that she chooses a person over the object while redesigning the exact rescue during staging.
 
-**C** currently offers the strongest thematic payoff if the climax can stage it naturally: Elizabeth already let the diary go once. When Pathwell makes it important again, she does not need to destroy it dramatically; she simply chooses a living person over the object, and the fire takes care of the rest. The user decides.
+**A** is the strongest current fit because it preserves useful existing material, echoes the cookbook sacrifice's choice of a relative stranger, and leaves Stansbury's own climax intact. The user decides.
 
 ---
 
@@ -162,7 +167,6 @@ Ask exactly one question:
 
 Do not ask all at once.
 
-- Rebuild Elizabeth's exact non-magical physical action during the archive fire; if C is chosen above, identify who/what she chooses instead of the diary.
 - Clarify Shade's stance/consent toward Pathwell's attempted reintegration if the final staging requires it.
 - Decide graffiti wall exact mechanical role only if needed.
 - Papa Baga: develop or cut.
@@ -173,5 +177,5 @@ Final reconciliation must include:
 - Camp healing scene with younger injured woman.
 - Chapter 10 Camp destination → Chapter 11 museum transition.
 - Chapter 7 blob targeting.
-- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, and final diary fate.
+- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, and final diary fate.
 - Coda rewrite: Pathwell can prune and voluntarily stops.
