@@ -59,6 +59,7 @@ Important late locks:
 - **Bar sequence revised:** the mirror makes Pathwell begin to understand the mystery points back to himself; he bolts from the bar, a blob attacks/engulfs him through the Pathwell/Shade overlap, and Elizabeth cuts Pathwell free with Stansbury's imbued toy dagger. The older `Elizabeth cuts herself free` version is stale.
 - **Bar blob aftermath:** Stansbury burns/destroys the freed blob manifestation with a heat/fire-based imbued attack. Destroying that body ends the immediate threat but does not eradicate the cleanup ecology or automatically resolve the underlying waste condition; another blob can later appear if cleanup is still required.
 - **Post-bar information split:** Pathwell tells Stansbury privately that the evidence now points back to Pathwell, but excludes Elizabeth. The later diner truth is therefore still a genuine revelation to her.
+- **Midpoint crash:** Elizabeth deliberately causes the crash itself. She is not selecting a specific injury/severity; the crash is her chosen rupture and symbolic awakening, reversing the opening `It was the crash that woke her.`
 
 ---
 
@@ -77,6 +78,7 @@ Important late locks:
 - **Chapter 6 → 7:** Pathwell sees Shade through the mirror strongly enough to begin understanding the problem points back to himself, runs out, is attacked/engulfed by a blob, and Elizabeth chooses to cut him free with Stansbury's dagger. This replaces the older Elizabeth self-rescue version.
 - **Bar blob resolution:** after Elizabeth's rescue, Stansbury destroys the manifested blob body with heat/fire. A killed manifestation is not a universal cure for the unresolved cleanup condition.
 - **Post-bar exclusion / crash setup:** Pathwell privately tells Stansbury that the problem appears to point back to him while leaving Elizabeth out. In the car, the brothers discuss it in the back seat, talk around her, direct her, and treat her as transportation even though she has just saved Pathwell. This accumulated erasure is part of why she turns the wheel; the beat should read as a continuation of her compliance/invisibility wound rather than random irritation.
+- **Midpoint chosen crash / awakening:** Elizabeth intentionally causes the crash. The choice echoes and reverses the opening line: initially a crash wakes her from passive routine; at midpoint she creates the crash that wakes her through her own action. She is not deliberately choosing who gets hurt or how badly. The scene should let the structural rhyme carry this meaning without explaining it aloud.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -111,14 +113,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **When Elizabeth turns the wheel at the midpoint, what exactly is she intending?**
+> **How should Shade get Elizabeth away from the crash without spending the diner reveal too early?**
 >
-> **A. She intends to make them stop, not to crash.** She makes a hard deliberate move to break the brothers' control of the moment; the actual collision is an unintended consequence.
+> **A. Elizabeth mistakes Shade for Pathwell and goes with him willingly.** She is dazed after the crash; he does not identify himself, and the physical resemblance is enough. Small behavioral wrongness accumulates during the ride/diner until recognition.
 >
-> **B. She intentionally causes a controlled crash.** She consciously decides that only a physical consequence will make them stop treating her like furniture. She is not trying to injure or kill anyone, but the crash itself is deliberate.
+> **B. Shade deliberately impersonates Pathwell.** He actively lies, copies Pathwell's manner, and uses the resemblance to make Elizabeth come with him. The diner is where the performance finally fails.
 >
-> **C. She tries to pull over/stop the car, and the crash comes from the brothers' distraction/interference.** Her agency is refusing to continue driving, rather than choosing the crash.
+> **C. Shade physically takes Elizabeth, but never identifies himself.** She knows immediately that something is badly wrong but cannot yet identify who/what he is. This preserves the name reveal but not really the locked recognition that he is `not Pathwell`.
 >
-> **D. She deliberately turns the wheel without choosing the exact outcome.** Her thought is essentially `enough`: she makes a real, consequential choice knowing it may go badly, but she is not calculating a specific collision. The crash is the consequence of that chosen rupture.
+> **D. Elizabeth suspects something is wrong almost immediately but cannot yet name it.** Shade does not explicitly impersonate Pathwell; shock, resemblance, and Elizabeth's habitual tendency to follow the person who seems to know what is happening carry her along. The wrongness grows until the diner gives her enough clarity to say: this man is not Pathwell.
 
-Audit lean: **D**. It keeps the action unquestionably hers while avoiding either an accidental loss of control or a calculated attempt to hurt the people in the car.
+Audit lean: **D**. It preserves the diner recognition while tying the transition to Elizabeth's established habit of yielding to apparent certainty, rather than making Shade either a theatrical impersonator or a simple kidnapper.
