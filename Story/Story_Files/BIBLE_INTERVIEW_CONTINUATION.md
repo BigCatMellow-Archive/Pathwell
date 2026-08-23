@@ -109,31 +109,43 @@ Locked 2026-08-22:
 
 ## Section 10 — Pathwell's pruning in the coda — LOCKED
 
-- **Pathwell remains mechanically capable of pruning at the end.** Shade's resolution does not remove or seal the ability.
+- Pathwell remains mechanically capable of pruning at the end.
+- Shade's resolution does not remove or seal the ability.
 - His growth is voluntary: pruning remains available and he chooses another way.
-- In the coda, Pathwell **begins a small prune and deliberately stops before release/acceptance**.
+- In the coda, Pathwell begins a small prune and deliberately stops before release/acceptance.
 - The familiar signs begin, proving the ability still works.
-- Because he cancels before release/acceptance, the possibility returns cleanly under the already-locked early-cancellation rule.
-- The emotional meaning is therefore `I can do this, and I stopped`, not `I cannot do this anymore`.
-- The current coda's literal `nothing happened` version is stale and should be revised only during the later manuscript reconciliation pass.
+- Because he cancels before release/acceptance, the possibility returns cleanly.
+- Emotional meaning: `I can do this, and I stopped`, not `I cannot do this anymore`.
+
+## Section 11 — Climax absorption attempt — ACTIVE
+
+Locked 2026-08-22:
+
+- **Pathwell attempts to absorb/reintegrate Shade into himself by collapsing the separation between them.**
+- Pruning is the **payment** for that working, not the effect that performs the absorption.
+- Pathwell frames this as taking responsibility: Shade came from him, so Pathwell will take him back and personally resolve the problem.
+- This is still his old flaw. He again assumes responsibility gives him authority to determine what happens to someone else.
+- **Pathwell does not know what absorption would do to Shade's personhood.** Shade might remain conscious within Pathwell, cease to exist, merge into something new, or undergo another irreversible outcome.
+- Pathwell cannot promise any of those outcomes and attempts the working anyway.
+- At his core, Pathwell now genuinely doubts that absorbing/undoing Shade is right and doubts that he has the right to choose it for Shade.
+- He nevertheless tries to force the working through rather than tolerate an unresolved outcome.
+- The user's intended governing mechanic is that **a prune cannot work if there is doubt in it**, but the exact mechanical scope of that rule still requires one clarification.
 
 ---
 
 # EXACT RESUME POINT
 
-The current `Chapter_12b.txt` is mechanically stale in several ways, especially because Elizabeth still possesses and magically burns the diary. However, it contains a potentially useful structural skeleton: Pathwell arrives intending to solve Shade, attempts a working, the working catastrophically fails, and the archive catches fire.
+Ask exactly one mechanics question:
 
-Ask exactly one question:
+> **When you say “a prune can't work if there is doubt in it,” what exactly happens when a practitioner tries anyway?**
+>
+> **A. Doubt stops the prune before release.** The magic can begin to gather, but if the practitioner does not genuinely commit, future possibility simply will not leave them. No payment is released, so doubt by itself cannot create pruning spillage. Pathwell's archive catastrophe would therefore need an additional failure after he overcomes/suppresses the doubt or a separate magical cause.
+>
+> **B. A practitioner can force possibility out despite fundamental doubt, but it cannot settle cleanly.** Ordinary nervousness is fine; the problem is a deep contradiction in intent. If the practitioner forces past that contradiction, possibility can be released but the payment/working cannot coherently accept or resolve it. That creates exactly the kind of malformed post-release failure/spillage that can make Pathwell's absorption attempt catastrophic.
+>
+> **C. Pruning payment itself tolerates doubt; the absorption working does not.** Pathwell can successfully release possibility as payment, but because the intended effect requires coherent sincere intent and he fundamentally rejects what he is trying to do, the paid-for working fails after payment. The doubt rule would therefore belong to intent-dependent magic rather than pruning generally.
 
-> **What action by Pathwell directly causes the Camp archive fire?**
->
-> **A. A failed attempt to sever Shade.** Pathwell uses a properly constructed magical working whose effect is to separate/end the Pathwell–Shade connection, and pruning is the payment for that working rather than the effect itself. Because Pathwell and Shade's signatures are abnormally overlapping, the working cannot resolve cleanly after possibility is released. The failure produces pruning spillage / magical recoil, which strikes or destabilizes the densely charged archive and starts the fire. This preserves the current draft's strongest skeleton while fixing the pruning rules and removing Elizabeth's diary from the magic.
->
-> **B. The attempted diary buyback itself fails catastrophically.** Pathwell tries to use pruning as payment to recover Elizabeth's donated diary. Something goes wrong after release/acceptance begins, and the failed transaction ignites/destabilizes the archive. This ties the catastrophe most directly to Pathwell trying to undo Elizabeth's choice, but requires careful transaction mechanics because the archive must be capable of accepting or refusing payment.
->
-> **C. The buyback succeeds or remains separate, but Pathwell then performs a different large control/protection working at the archive.** That second working fails and starts the fire. This gives more flexibility but is less tightly tied to Shade's established warning that Pathwell will try to "cut me loose."
-
-**A** currently fits the largest number of locked elements with the least new machinery: Shade already expects Pathwell to try to sever him; Pathwell's pruning already hurts Shade because of their overlapping signatures; failed post-release pruning can create spillage; and Pathwell's attempt to solve/control the situation remains the direct cause of the archive catastrophe. If A is chosen, the diary buyback can be placed before or around the confrontation as a separate expression of the same flaw in the next question.
+**B** most closely matches the user's phrasing that a prune cannot work *with doubt in it* while also allowing the climax to fail catastrophically: Pathwell knows he should stop, forces the prune anyway, releases possibility into a contradiction, and produces the mess he was trying to prevent. But the user decides.
 
 ---
 
@@ -142,7 +154,8 @@ Ask exactly one question:
 Do not ask these all at once.
 
 ### Climax / diary buyback
-- After the direct fire cause is locked, determine where Pathwell's diary buyback attempt sits relative to the confrontation/fire and whether it succeeds before the catastrophe.
+- Once doubt mechanics are locked, finalize the causal chain from the failed absorption attempt to the archive fire.
+- Determine where Pathwell's attempt to buy Elizabeth's donated diary back sits relative to the Shade confrontation/fire and whether the archive accepts or refuses the proposed exchange.
 - Rebuild Elizabeth's non-magical physical action in the fire once the causal sequence is clear.
 
 ### Thresholds / graffiti wall
