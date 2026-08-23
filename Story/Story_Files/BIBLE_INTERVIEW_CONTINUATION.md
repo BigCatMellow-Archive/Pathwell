@@ -154,35 +154,45 @@ Newer dated locked decisions override older manuscript/support material until de
 - The museum graffiti-wall threshold currently works under the already-locked threshold rules and does **not** need an additional universal mechanic unless manuscript reconciliation exposes a concrete contradiction.
 - Preserve it as threshold-specific/iceberg lore rather than over-designing it now.
 
+## Section 12 — Papa Baga — LOCKED
+
+- **Papa Baga is cut cleanly from the intended story/cast.**
+- Mama Baga remains Pathwell's sole established Camp parent/matriarch.
+- The old Papa Baga concept should not be reframed as a death, disappearance, mystery, or unseen co-parent; it is simply removed.
+- Any stale Papa Baga references are cleanup targets for reconciliation, not prompts to add scenes.
+
 ---
+
+# BIBLE INTERVIEW STATUS
+
+The active Bible interview has now resolved the known story-blocking questions in the handoff. Remaining unspecified details are intentional scene choreography or iceberg lore rather than missing canon.
+
+Do **not** begin rewriting manuscript chapters without explicit user instruction. The next step is a workflow choice, not another canon decision.
 
 # EXACT RESUME POINT
 
-Ask exactly one question about **Papa Baga**, an early co-parent figure who was established and then dropped from later material:
+Ask exactly one question:
 
-> **What should we do with Papa Baga?**
+> **How do you want to move into manuscript reconciliation?**
 >
-> **A. Cut him cleanly.** Mama Baga remains Pathwell's sole established Camp parent/matriarch. Any stale Papa Baga references are removed during reconciliation. This is the simplest version and avoids adding a character who currently has no necessary dramatic function.
+> **A. Begin the full manuscript reconciliation/edit pass.** Read the manuscript in order, repair contradictions against the locked Bible, preserve strong existing prose where possible, and update chapters deliberately rather than regenerating the book wholesale.
 >
-> **B. Keep him as Mama Baga's partner / co-parent, but mostly background.** He exists, is part of Pathwell's family history, and may appear briefly at Camp without receiving a subplot or major arc.
+> **B. Audit first, no manuscript edits yet.** Produce a chapter-by-chapter reconciliation plan listing every known contradiction, continuity problem, required change, and strong passage to preserve. Make no chapter edits until the user approves moving forward.
 >
-> **C. Develop him into a distinct supporting character.** Give him a clear relationship to Pathwell, Mama Baga, and the Camp plus at least one meaningful story function that Mama Baga cannot already perform.
+> **C. Stay in Bible/design mode.** Do not touch the manuscript yet; continue exploring additional world, character, or sequel questions only when the user names an area.
 
-Current lean: **A** unless the user particularly wants the two-parent Camp family structure. Mama Baga already carries the emotional and structural role cleanly, and adding Papa Baga without a unique function would dilute rather than deepen the cast. The user decides.
+Current lean: **B** before editing. The Bible has changed substantially, especially around Chapter 12b and the coda. A complete audit first creates a controlled rewrite map and reduces the chance of fixing one scene while creating a new contradiction elsewhere. The user decides.
 
 ---
 
-## Later interview queue
+## Required reconciliation targets already known
 
-Do not ask all at once.
-
-- Final manuscript consistency/reconciliation pass after Papa Baga is resolved.
-- Only reopen graffiti-wall mechanics if the rewrite exposes a concrete threshold contradiction.
-
-Final reconciliation must include:
 - Chapter 2–3 diary/cookbook possession continuity.
-- Camp healing scene with younger injured woman.
+- Camp healing scene: younger injured woman is the cookbook recipient; Mama Baga is not.
 - Chapter 10 Camp destination → Chapter 11 museum transition.
-- Chapter 7 blob targeting.
-- Climax rewrite: Shade refuses and holds his ground; Pathwell-centered violent recoil; no diary-as-weapon Elizabeth magic; honor archive ownership, successful buyback, clean-prune payment, child rescue, Stansbury's burn, and final diary destruction.
-- Coda rewrite: Pathwell can prune and voluntarily stops.
+- Chapter 7 blob targeting/signature logic.
+- Museum material should respect locked threshold mechanics without unnecessary graffiti-wall exposition.
+- Climax rewrite: Pathwell buys back the diary with a clean prune; Shade feels the jolt; Shade refuses absorption and holds his ground; Pathwell forces the contradictory prune; violent Pathwell-centered recoil ignites archive; Elizabeth never uses diary magic; she chooses child over diary; Stansbury independently enters archive and is permanently burned; blob removes Shade then performs local cleanup check and leaves.
+- Diary is destroyed by ordinary archive fire after Elizabeth chooses the child.
+- Coda rewrite: Pathwell remains capable of pruning and voluntarily stops before release/acceptance.
+- Remove stale Papa Baga references rather than developing them.
