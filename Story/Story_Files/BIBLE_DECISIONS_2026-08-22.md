@@ -160,4 +160,5 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - These can include disconnected memories, emotional associations, instincts, habits, flashes of people or places, and pieces of knowledge that Shade may possess without understanding why he knows them.
 - Shade does **not** begin with Pathwell's full autobiography or a stable first-person memory of having lived Pathwell's life.
 - The inherited material does not erase Shade's independent personhood. His own experiences, judgments, emotions, and choices accumulate separately after his formation.
-- Whether new memories or impressions continue to leak from Pathwell after Shade's creation remains open until explicitly decided.
+- **The inheritance is a one-time consequence of Shade's creation. No new Pathwell memories, experiences, or present-day knowledge cross into Shade afterward.**
+- Their continuing magical connection can still transmit the draw, signature resonance/overlap, and the pain or jolt caused by Pathwell's pruning without functioning as telepathy or an ongoing information channel.
