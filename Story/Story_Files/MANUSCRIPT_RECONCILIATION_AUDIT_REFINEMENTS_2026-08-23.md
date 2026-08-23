@@ -97,10 +97,18 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 - This sequence creates a tighter causal chain: mirror revelation → Pathwell bolts → the cleanup creature confirms the danger centers on his signal → Elizabeth acts.
 - Elizabeth still does not know Shade's full identity from this event, so the later diner revelation remains necessary.
 - Current Chapter 6 and Chapter 7 manuscript text on `main` remains stale and should not be edited until manuscript reconciliation begins.
-- **Exact blob behavior after Elizabeth cuts Pathwell free remains open for the next audit-refinement decision.** Do not default to the old `breaks into inert pieces / monster killed by damage` staging.
+
+### Bar blob destruction — LOCKED
+
+- **After Elizabeth cuts Pathwell free, Stansbury destroys the blob's manifested body with a heat/fire-based imbued attack.**
+- Elizabeth retains the decisive rescue beat; Stansbury's role is to eliminate the immediate physical threat once Pathwell is separated.
+- The blob can burn, boil, collapse, char, or otherwise be physically destroyed on-page. The characters may reasonably treat that specific manifestation as dead/destroyed.
+- **Destroying a blob's manifested body does not eradicate the broader cleanup ecology and does not necessarily resolve the magical condition that attracted it.** If unresolved cleanup waste remains, another manifestation can eventually appear or the cleanup process can resume through another blob.
+- This is not ordinary monster hit-point logic. Physical destruction can end a manifestation, but it does not function as a universal cure for the underlying unclaimed magical waste.
+- This distinction preserves the later climactic blob threat: killing one earlier blob does not establish that all blobs can be permanently removed from the story by shooting or stabbing them enough.
 
 ---
 
 ## Next refinement question
 
-Decide what the blob does immediately after Elizabeth cuts Pathwell free, while preserving blob cleanup behavior and avoiding ordinary-monster hit-point logic.
+Decide what Pathwell tells Elizabeth and Stansbury after the bar mirror/blob sequence, especially how much of his new suspicion he admits before the diner reveal.
