@@ -60,6 +60,19 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 5. Chapter 2 changed geography — LOCKED
+
+- **Keep the changed-neighborhood sequence as a blend of real threshold geography and Elizabeth's subjective panic/disorientation.**
+- Pathwell leads Elizabeth across a subtle route/threshold without stopping to explain it. She is therefore genuinely no longer standing in the exact ordinary neighborhood geography she expects.
+- Reality has **not** rewritten itself. The coffee shop did not magically become a laundromat, and an impossible park was not inserted into her home neighborhood. She has crossed into/through a connected place or route whose geography is different.
+- Elizabeth does not yet possess the conceptual framework to understand a threshold crossing. She assumes she is still in familiar streets and her panicked, exhausted mind keeps trying to force what she sees back onto the map she knows.
+- The narration may therefore let landmarks feel contradictory, slippery, or impossible from her point of view, but it should remain compatible in retrospect with the objective explanation that **she was somewhere else and did not realize it**.
+- Her panic is not a supernatural perception effect and does not make her magical. It is ordinary human cognition under stress trying to impose coherence on genuinely unfamiliar circumstances.
+- Pathwell's casualness should heighten the effect: he treats the route as ordinary and may not appreciate how disorienting it is for someone who does not know such routes exist.
+- Reconciliation should preserve the uncanny feeling of the current scene while removing any implication that Pathwell or the world literally rewrites established ordinary geography.
+
+---
+
 ## Next refinement question
 
-Decide how to handle Chapter 2's impossible neighborhood shift: establish a threshold/route explanation for the changed geography, or remove the geography-replacement effect and keep them in the ordinary neighborhood.
+Decide what replaces Chapter 4's current post-healing gold-residue/blob-bait logic as Pathwell's reason to seek Stansbury.
