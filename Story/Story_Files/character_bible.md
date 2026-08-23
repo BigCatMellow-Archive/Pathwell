@@ -67,7 +67,7 @@ Every important observation is real; Pathwell's interpretation is wrong.
 3. **Crisis:** his confidence in treating future possibility as convenient currency begins to fail. He can no longer pretend he understands or controls where the cost goes.
 4. **Archive catastrophe:** Pathwell's attempt to solve/control the situation is causally implicated in the fire. The exact diary-buyback / pruning / failure sequence is under active reconstruction and is not locked by later draft chronology.
 5. Denial cannot survive the consequences.
-6. **Coda:** his relationship to pruning changes; relief rather than rage is the important emotional turn. The exact transaction/buyback object immediately surrounding this beat remains to be reconciled.
+6. **Coda:** Pathwell remains fully capable of pruning. He begins a small prune far enough for the familiar signs to prove the ability still works, then deliberately stops before future possibility is released/accepted. The early cancellation returns cleanly. His relief comes from discovering that he can choose not to spend himself, not from losing the power to do so.
 7. Offhand admission to Elizabeth (not a speech, not a breakdown). Leaves on a new quest without needing leverage in the same way.
 
 **Relationship to Elizabeth:** Every major cost she pays should trace back to choices and systems Pathwell treats as convenient. His deepest relational failure is not merely endangering her; it is repeatedly treating other people's choices, possessions, futures, and problems as things he is entitled to manage. If he attempts to buy back the diary after Elizabeth deliberately surrendered it, the act must be understood in that context: he is trying to undo a choice she made because he believes he can fix what hurts.
@@ -102,7 +102,7 @@ Every important observation is real; Pathwell's interpretation is wrong.
 
 **Relationship:** Pathwell's brother. Centuries old. Has watched Pathwell destroy himself for a very long time.
 
-**Core flaw:** dependency on Pathwell to clean up consequences — he's passive toward responsibility because Pathwell always bails him out. His *other* face: protects people by keeping them small (the teacher who won't let students take risks). Two brothers, two flavors of one flaw — recklessness vs. over-caution / control.
+**Core flaw:** dependency on Pathwell to clean up consequences — he's passive toward responsibility because Pathwell always bails him out. His *other* face: protects people by keeping others small (the teacher who won't let students take risks). Two brothers, two flavors of one flaw — recklessness vs. over-caution / control.
 
 **The Nerf weapons:** wants to arm people but gives them toys instead of real weapons. That contradiction IS his character. His reluctantly-imbued dagger ends up saving Pathwell — the person he resents most. He handed Elizabeth the tool; he can't even be angry about it.
 
