@@ -32,11 +32,19 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 - The absorption failure remains mechanically rooted in Pathwell's already-locked fundamental contradiction in intent. Shade's refusal sharpens Pathwell's moral doubt and character failure, but Shade's resistance is not being introduced as a separate magical cause of the malformed prune unless later staging explicitly requires it.
 - The older character-bible wording that Shade `accepts absorption` is stale and must not be preserved.
 
+### Physical response — LOCKED
+
+- **After refusing, Shade holds his ground when Pathwell proceeds.**
+- Shade does not attack Pathwell, flee, sabotage the magical setup, or cooperate with the absorption working.
+- He remains visibly and deliberately present as the person who has said `no`, forcing Pathwell to make the choice to continue without being able to reinterpret Shade's response as panic, aggression, interference, or accidental disruption.
+- **Shade's stillness is not magical cooperation.** His refusal remains in force throughout the attempt.
+- Shade does not mechanically cause the failed prune. Pathwell's own fundamental contradiction in intent remains the cause of the malformed post-release failure and spillage.
+- This staging leaves Pathwell no external event to blame afterward: Shade stated the boundary, held it, and Pathwell knowingly crossed it.
+
 ---
 
 ## Still open
 
-- Shade's exact physical behavior once Pathwell begins the refused absorption attempt.
 - The exact visual flourish of the malformed absorption recoil that ignites the archive.
 - The graffiti wall's precise mechanical role, only if the story needs it.
 - Papa Baga: develop or cut.
