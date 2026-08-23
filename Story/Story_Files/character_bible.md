@@ -8,7 +8,7 @@
 
 **Arc:** Pulled → Pushing → Choosing. A woman who begins by complying under pressure and climbs toward genuine agency without buying power from anyone else's system.
 
-**Flaw at the start:** Not passivity exactly — *compliance under pressure*. She accommodates, extends the generous interpretation, hands over what's asked before she's thought about whether to. (Chapter 1: she hands over the cookbook because a stranger demands it and the door is breaking — reflexive giving before thinking. Only a page is consumed by the spell; the book survives Ch1.) The ladder is her climbing away from this. [NOTE: the "housewarming party / Marcus" framing for why the door was open was introduced in a redraft and is NOT confirmed — treat the open door's cause as open until decided.]
+**Flaw at the start:** Not passivity exactly — *compliance under pressure*. She accommodates, extends the generous interpretation, hands over what's asked before she's thought about whether to. (Chapter 1: she hands over the cookbook because a stranger demands it and the door is breaking — reflexive giving before thinking. Only a page is consumed by the spell; the book survives Ch1.) The ladder is her climbing away from this. The broader Chapter 1 setup now has Pathwell passing as a party guest before wandering into Elizabeth's slightly open apartment; exact party logistics and how much appears on-page remain open.
 
 ### Hard magic boundary
 
@@ -44,14 +44,18 @@ Each rung must be something Elizabeth does, not a door someone else opens for he
 
 **Core flaw:** Convenience dressed as mercy. He solves other people's problems by spending his own future, externalizing the cost, making himself necessary. Casual pruning treats consequence as someone else's problem.
 
-**Entry behavior (Ch1, locked):** He walks through open doors because consent is friction. He takes things because his ledger balances — he doesn't steal, he transacts without asking. He's calm, unhurried, insultingly comfortable in spaces that aren't his. His danger is his *casualness*, never aggression. He stays interested in Elizabeth because the blob passed him for her and he can't stand not understanding it — obsession, not compassion.
+**Entry behavior (Ch1, locked):** He passes as a party guest so he can snoop for emotionally charged material that he believes will not be noticed missing. He comes across Elizabeth's slightly open apartment and senses the unusually strong diary/cookbook material inside. He walks through open doors because consent is friction. He takes things because his ledger balances — he doesn't steal in his own mind, he transacts without asking. He's calm, unhurried, insultingly comfortable in spaces that aren't his. His danger is his *casualness*, never aggression.
 
 **THE CHAPTER 1 MISREAD (the engine of his whole involvement):**
-Every piece of evidence is genuine; every interpretation is wrong; each points back at him or his double.
-- A blob arrives (first in a long time) — *really* because Shade has emerged and doubled the signal; Pathwell doesn't know Shade exists.
-- He consumes a page of the cookbook to ward Elizabeth; the blob turns toward her — *really* because of fresh casting residue on her skin (his own fingerprints).
-- He concludes she is "pruned energy made flesh" — reaching for a pre-existing practitioner legend (the hypothesis shelf), which actually describes things like *Shade*. He holds the truth by the wrong end.
-- "Keep an eye on her" needs no extra justification: watching IS the test, and staying near the apparent beacon means always knowing where the danger points.
+Every important observation is real; Pathwell's interpretation is wrong.
+- Pathwell is in Elizabeth's apartment because he followed the charged material, not because he was seeking Elizabeth.
+- Shade has followed Pathwell because of the draw. Pathwell does not know Shade exists.
+- A blob follows the **effectively overlapping Pathwell/Shade magical signature** to the apartment. Their signatures are not cleanly distinguishable to the cleanup creature.
+- Pathwell sees an unexplained blob trying to break down *Elizabeth's* door and concludes that it must be there for her. He does not understand that the event points back to himself and Shade.
+- The blob is already at the door before the cookbook working begins, so a successful cookbook spell is not what brought it there.
+- After Elizabeth pulls the cookbook away, the active page remains with Pathwell and the blob lunges for the light in his hand. Whether that interruption creates fresh cleanup waste is still open and should not be assumed until decided.
+- Pathwell treats Elizabeth as a curiosity because he cannot explain why a blob apparently came for an ordinary woman who knows nothing about it. Watching her becomes his test.
+- The later Shade revelation that Elizabeth was never the point is essential: Pathwell made her seem cosmically significant by misunderstanding a problem that actually belonged to him.
 
 **Arc beats:**
 1. Confident pruning works; an early casual clean prune establishes that he treats the technique as routine.
@@ -64,7 +68,7 @@ Every piece of evidence is genuine; every interpretation is wrong; each points b
 
 **Relationship to Elizabeth:** Every major cost she pays should trace back to choices and systems Pathwell treats as convenient. His deepest relational failure is not merely endangering her; it is repeatedly treating other people's choices, possessions, futures, and problems as things he is entitled to manage. If he attempts to buy back the diary after Elizabeth deliberately surrendered it, the act must be understood in that context: he is trying to undo a choice she made because he believes he can fix what hurts.
 
-**Pruning hurts Shade (locked this session):** because the signatures aren't cleanly distinct (the mirror proves it), pruning sends a jolt through Shade — severed but not disconnected, a phantom limb with its own nervous system. [NOTE: the "Shade experiences this as addiction/withdrawal" framing is SHELVED — see conflicts material. Do not build on it until revisited.]
+**Pruning hurts Shade:** because their signatures are not cleanly distinct (the mirror proves it), pruning sends a jolt through Shade — severed but not disconnected, a phantom limb with its own nervous system. That same overlap is why blobs can follow the ambiguous Pathwell/Shade cleanup signature without cleanly distinguishing the two. [NOTE: the "Shade experiences this as addiction/withdrawal" framing is SHELVED — see conflicts material. Do not build on it until revisited.]
 
 ---
 
@@ -82,7 +86,7 @@ Every piece of evidence is genuine; every interpretation is wrong; each points b
 
 **Arc endpoint / death:** causes chaos, accepts absorption, leaves Pathwell in the wreckage without resolution — neither noble nor clean. Eye contact with Pathwell; the draw stops; relief. He never gets the confession. **He dies not knowing whether the quiet at the end is resolution or just the end arriving.**
 
-**Why he's at Elizabeth's apartment in Ch1:** the draw trailing Pathwell on a job — Shade follows Pathwell, NOT Elizabeth. He was never there for her. [Whether he sheds the Ch1 blob deliberately is iceberg/open.] First on-page appearance is later (the bar, via the mirror's wrong-angle replay); his Ch1 presence is invisible.
+**Why he's at Elizabeth's apartment in Ch1:** the draw trails Pathwell while Pathwell is scavenging charged material. Shade follows Pathwell, NOT Elizabeth. The blob reaches the apartment by following the effectively overlapping Pathwell/Shade cleanup signature. Elizabeth was never the reason either of them was there. First on-page appearance is later (the bar, via the mirror's wrong-angle replay); his Ch1 presence is invisible.
 
 **The draw tell:** Review_Notes.txt requires an observable tell. Current generated sequence uses Shade's involuntary right hand opening toward Pathwell: first planted during healing, then exposed at camp when Pathwell arrives.
 
