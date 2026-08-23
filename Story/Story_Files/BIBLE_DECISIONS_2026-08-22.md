@@ -241,6 +241,14 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - The causal chain is therefore: **Pathwell forces the contradictory absorption prune → malformed post-release failure/spillage → physical magical backlash/recoil → ignition → mass destruction of charged records → archive-scale emotional/magical fallout.**
 - The recoil should have more visual and dramatic flourish than a mundane spark or generic burst of heat, but the exact manifestation is intentionally **not locked yet**. It can be designed during manuscript staging without changing the underlying mechanics.
 
+### Diary buyback timing — LOCKED
+
+- **Pathwell attempts to buy Elizabeth's donated diary back from the Camp archive before he confronts Shade.**
+- The buyback attempt is therefore not a reaction to the fire and is not mechanically entangled with the failed absorption working.
+- Structurally, the climax escalates the same flaw in stages: Pathwell first tries to **undo Elizabeth's deliberate choice** through a controlled transaction, then escalates to trying to **decide Shade's fate** through forced absorption, and the second act of control produces the catastrophe.
+- The diary remains archive property unless and until the archive chooses to sell/trade it back; Elizabeth's donation itself is not reversed merely because Pathwell wants it reversed.
+
 ### Still open
 
-- The placement and result of Pathwell's separate attempt to buy Elizabeth's donated diary back.
+- Whether the archive accepts or refuses Pathwell's proposed diary buyback.
+- What Pathwell offers in exchange if the scene needs that detail.
