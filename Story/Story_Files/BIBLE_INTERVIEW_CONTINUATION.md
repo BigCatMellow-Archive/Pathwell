@@ -129,23 +129,28 @@ Locked 2026-08-22:
 - Pathwell cannot promise any of those outcomes and attempts the working anyway.
 - At his core, Pathwell now genuinely doubts that absorbing/undoing Shade is right and doubts that he has the right to choose it for Shade.
 - He nevertheless tries to force the working through rather than tolerate an unresolved outcome.
-- The user's intended governing mechanic is that **a prune cannot work if there is doubt in it**, but the exact mechanical scope of that rule still requires one clarification.
+- **Ordinary fear, nervousness, regret, or uncertainty does not invalidate pruning.**
+- The dangerous condition is fundamental contradiction in intent: attempting to commit payment toward an outcome the practitioner does not actually commit to or believe should be carried through.
+- A trained practitioner can force possibility past the safe cancellation point despite that contradiction.
+- **If possibility is released anyway, it cannot settle cleanly.** The forced prune becomes a malformed post-release failure and leaves unclaimed pruning spillage.
+- In the climax, Pathwell forces the absorption prune past his own fundamental moral contradiction. The released possibility cannot settle into the absorption working and becomes the malformed spillage at the center of the catastrophe.
+- The coda is the inverse: Pathwell reaches the same kind of decision point and stops before release, so the possibility returns cleanly.
 
 ---
 
 # EXACT RESUME POINT
 
-Ask exactly one mechanics question:
+Ask exactly one question about the remaining fire mechanics:
 
-> **When you say “a prune can't work if there is doubt in it,” what exactly happens when a practitioner tries anyway?**
+> **How does the malformed pruning spillage from Pathwell's failed absorption attempt actually start the archive fire?**
 >
-> **A. Doubt stops the prune before release.** The magic can begin to gather, but if the practitioner does not genuinely commit, future possibility simply will not leave them. No payment is released, so doubt by itself cannot create pruning spillage. Pathwell's archive catastrophe would therefore need an additional failure after he overcomes/suppresses the doubt or a separate magical cause.
+> **A. The spillage directly destabilizes the archive's stored charge.** The malformed possibility hits the dense collection and causes nearby charged records to discharge chaotically, with the chain reaction becoming physical fire. This is dramatic but risks making pruning spillage and emotional charge feel too interchangeable.
 >
-> **B. A practitioner can force possibility out despite fundamental doubt, but it cannot settle cleanly.** Ordinary nervousness is fine; the problem is a deep contradiction in intent. If the practitioner forces past that contradiction, possibility can be released but the payment/working cannot coherently accept or resolve it. That creates exactly the kind of malformed post-release failure/spillage that can make Pathwell's absorption attempt catastrophic.
+> **B. The failed absorption working lashes sideways into nearby charged records.** The malformed payment causes the working itself to grab/activate/rupture material in the archive, and those consumed or destabilized records begin the chain reaction. This is mechanically specific but adds another layer of working behavior.
 >
-> **C. Pruning payment itself tolerates doubt; the absorption working does not.** Pathwell can successfully release possibility as payment, but because the intended effect requires coherent sincere intent and he fundamentally rejects what he is trying to do, the paid-for working fails after payment. The doubt rule would therefore belong to intent-dependent magic rather than pruning generally.
+> **C. The malformed failure produces a physical magical recoil/discharge that ignites the archive normally; the archive's charged contents then amplify the fire once they begin burning.** The initial spark/heat/rupture comes from Pathwell's failed working, while the later archive-scale magical catastrophe comes from many charged records being physically destroyed together. This keeps pruning spillage, magical backlash, and emotional fallout as distinct systems in one causal chain.
 
-**B** most closely matches the user's phrasing that a prune cannot work *with doubt in it* while also allowing the climax to fail catastrophically: Pathwell knows he should stop, forces the prune anyway, releases possibility into a contradiction, and produces the mess he was trying to prevent. But the user decides.
+**C** currently preserves the cleanest system boundaries: Pathwell's malformed prune causes the ignition; the ordinary fire begins destroying the archive; mass destruction of charged records produces the extraordinary emotional/magical fallout already established in the world bible. The user decides.
 
 ---
 
@@ -154,8 +159,7 @@ Ask exactly one mechanics question:
 Do not ask these all at once.
 
 ### Climax / diary buyback
-- Once doubt mechanics are locked, finalize the causal chain from the failed absorption attempt to the archive fire.
-- Determine where Pathwell's attempt to buy Elizabeth's donated diary back sits relative to the Shade confrontation/fire and whether the archive accepts or refuses the proposed exchange.
+- After the ignition chain is locked, determine where Pathwell's attempt to buy Elizabeth's donated diary back sits relative to the Shade confrontation/fire and whether the archive accepts or refuses the proposed exchange.
 - Rebuild Elizabeth's non-magical physical action in the fire once the causal sequence is clear.
 
 ### Thresholds / graffiti wall
