@@ -37,7 +37,7 @@ Newer dated locked decisions override older manuscript/support material until de
 - Consuming charged art destroys the original.
 - Camp Cunnan archive donation transfers ownership.
 - Elizabeth voluntarily donates the diary to the Camp archive; that act is not magic.
-- Pathwell's intended attempt to buy the diary back remains part of the version being recovered.
+- The archive may voluntarily sell/trade donated material back at its discretion.
 
 ---
 
@@ -124,12 +124,15 @@ Newer dated locked decisions override older manuscript/support material until de
 - Causal chain: **forced contradictory prune → malformed post-release failure/spillage → physical magical recoil → ignition → mass charged-record destruction → archive-scale fallout.**
 - The recoil should have **more flourish** than a mundane spark/generic burst of heat. Exact visual manifestation remains open for later scene staging.
 
-### Diary buyback timing — LOCKED
+### Diary buyback — LOCKED IN STRUCTURE AND RESULT
 
-- **Pathwell attempts to buy Elizabeth's donated diary back before confronting Shade.**
-- The attempt is separate from the absorption working and occurs before the archive fire.
+- **Pathwell attempts the buyback before confronting Shade.**
+- The Camp archive **agrees to sell/trade the diary back for a legitimate price**, and the transaction succeeds.
+- The archive is acting within its established ownership rights; Elizabeth's original donation remains valid.
+- Pathwell does not steal the diary or override the archive. He uses a legitimate transaction to undo the practical result of Elizabeth's deliberate surrender.
+- This is the character problem: he treats a balanced transaction as sufficient moral permission to manage someone else's choice.
+- Pathwell physically possesses the diary before confronting Shade.
 - Structural escalation: **undo Elizabeth's choice → decide Shade's fate → catastrophe.**
-- The diary remains archive property unless the archive voluntarily agrees to sell/trade it back.
 
 ---
 
@@ -137,17 +140,17 @@ Newer dated locked decisions override older manuscript/support material until de
 
 Ask exactly one question:
 
-> **Does the Camp archive agree to sell Elizabeth's diary back to Pathwell?**
+> **What does Pathwell pay the Camp archive to buy Elizabeth's diary back?**
 >
-> **A. Yes, after demanding a real price.** The archive respects Elizabeth's donation but also follows its established ownership rule: the diary now belongs to the archive, so it may choose to trade it. Pathwell succeeds in undoing the practical result of Elizabeth's surrender without needing her permission, which makes his violation of her agency sharper.
+> **A. A clean prune of his own future possibility.** Camp normally discourages pruning but accepts it here as the negotiated price. Pathwell performs this prune without the fundamental contradiction that later ruins the absorption attempt, so it settles cleanly. Because Pathwell's pruning sends a jolt through Shade, Shade feels this transaction shortly before their confrontation. This creates a sharp contrast: Pathwell can confidently prune to undo Elizabeth's choice, then cannot honestly commit to deciding Shade's fate.
 >
-> **B. No.** The archivist understands what Pathwell is trying to do and refuses the transaction. Pathwell then goes into the Shade confrontation already frustrated by one limit he could not override.
+> **B. Another genuinely valuable charged object or small collection from Pathwell's own stock.** The price is real and costly but keeps pruning out of the buyback scene, leaving the failed absorption as the only climactic prune.
 >
-> **C. The archive is willing to sell, but Pathwell cannot bring himself to pay the demanded price.** The transaction remains available, but he stops short. This gives him a partial moment of restraint before he later fails much more seriously with Shade.
+> **C. A substantial service/favor/debt owed to the archive or Camp.** The transaction is legitimate but the payment becomes an obligation Pathwell must later honor. This can support sequel material but risks adding plot bookkeeping.
 >
-> **D. The archive agrees conditionally, but the transaction is interrupted before completion.** The diary remains in the archive when the confrontation/fire begins.
+> **D. A mixed mundane/magical price that is meaningful but not individually important.** The story establishes that the archive demanded real value without making the exact object/payment a major beat.
 
-**A** creates the most uncomfortable version of Pathwell's flaw: Elizabeth's donation was fully valid, yet because ownership transferred, Pathwell can legally/magically negotiate around her choice with the new owner. He can tell himself he did nothing wrong because the transaction was legitimate, even though he has once again decided that he knows what Elizabeth should have. The user decides.
+**A** currently offers the strongest thematic and mechanical contrast if the story can tolerate another prune immediately before the confrontation: a clean, confident prune used to reverse Elizabeth's decision, followed by a malformed prune Pathwell forces through despite knowing he should stop. It also makes Shade's established pruning-pain connection matter immediately before the climax. The user decides.
 
 ---
 
@@ -155,9 +158,9 @@ Ask exactly one question:
 
 Do not ask all at once.
 
-- If the archive accepts, determine what Pathwell offers only if the price matters to character/plot.
-- If it refuses or the deal fails, determine whether the diary is destroyed in the fire or survives only if that matters to the ending.
+- Determine the diary's exact physical fate during/after the archive catastrophe.
 - Rebuild Elizabeth's non-magical physical action during the archive fire.
+- Clarify Shade's stance/consent toward Pathwell's attempted reintegration if the final staging requires it.
 - Decide graffiti wall exact mechanical role only if needed.
 - Papa Baga: develop or cut.
 - Final manuscript consistency/reconciliation pass after enough rules are locked.
@@ -167,5 +170,5 @@ Final reconciliation must include:
 - Camp healing scene with younger injured woman.
 - Chapter 10 Camp destination → Chapter 11 museum transition.
 - Chapter 7 blob targeting.
-- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership and buyback rules.
+- Climax rewrite: no diary-as-weapon Elizabeth magic; honor archive ownership and successful buyback.
 - Coda rewrite: Pathwell can prune and voluntarily stops.
