@@ -257,7 +257,14 @@ This file continues the active story-bible interview begun in `BIBLE_DECISIONS_2
 - The successful buyback sharpens his flaw: he treats a transaction that balances on paper as sufficient justification for managing another person's choice.
 - By the time he confronts Shade, **Pathwell physically possesses the diary again.** What ultimately happens to the diary during/after the fire remains to be staged consistently with Elizabeth's hard magic boundary.
 
+### Diary buyback payment — LOCKED
+
+- **Pathwell pays the archive with a clean prune of his own future possibility.** Camp ordinarily discourages pruning but chooses to accept it here as the negotiated price for the diary.
+- This prune settles successfully because Pathwell has no fundamental contradiction about the immediate outcome: he is fully committed to buying the diary back and believes doing so is the correct thing to do.
+- The clean transaction therefore becomes a deliberate mechanical contrast with the absorption attempt that follows. Pathwell can prune successfully when he is certain about overriding Elizabeth's surrender, then creates catastrophe when he forces a prune toward an outcome he no longer truly believes he has the right to impose on Shade.
+- **Shade feels the buyback prune as a jolt through the established Pathwell/Shade connection.** This gives their pruning-pain link a direct role immediately before the confrontation without becoming telepathy or memory transfer.
+- The price is genuine: Pathwell has permanently surrendered some of his own future possibility to obtain the diary. The fact that he personally bears the cost does not make his decision respectful of Elizabeth's agency.
+
 ### Still open
 
-- What Pathwell pays the archive for the diary.
 - The diary's exact physical fate during/after the archive catastrophe.
