@@ -93,7 +93,14 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 - **Elizabeth uses Stansbury's imbued toy dagger to cut Pathwell free.** Her agency beat is choosing to act without waiting for an assignment, not cutting herself free.
 - This also fulfills the existing Stansbury character note that his reluctantly imbued dagger ends up saving Pathwell.
 - Elizabeth does not thereby learn Shade's full identity or the later diner truth; those later revelations remain necessary.
-- Exact blob behavior immediately after Pathwell is freed remains open for scene/audit refinement.
+
+### Blob destruction — LOCKED
+
+- **After Elizabeth frees Pathwell, Stansbury destroys that blob manifestation with a heat/fire-based imbued attack.**
+- The manifested body can be physically burned down and treated as destroyed/dead in the immediate scene.
+- **Destroying one manifestation does not eradicate the blob cleanup ecology or automatically resolve the unclaimed magical condition that attracted it.** If the underlying cleanup problem persists, another blob can eventually manifest/arrive and resume the process.
+- This allows characters to fight and destroy a dangerous blob without establishing that killing one creature permanently solves the underlying magical waste problem.
+- The climactic blob therefore remains viable and dangerous despite the earlier bar manifestation being destroyed.
 
 ---
 
@@ -101,4 +108,3 @@ This file continues the active story-bible interview from `BIBLE_DECISIONS_2026-
 
 - The graffiti wall's precise mechanical role remains threshold-specific iceberg lore unless manuscript reconciliation exposes a concrete contradiction that requires a rule.
 - Minor scene choreography, including the exact physical ignition path during the Pathwell-centered recoil, can be solved during rewriting without reopening the locked causal mechanics.
-- The exact post-rescue behavior of the bar blob remains to be refined, but it should not default to ordinary monster hit-point/death logic.
