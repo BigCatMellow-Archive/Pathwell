@@ -73,7 +73,7 @@ These are different substances that can attract the same cleanup creatures. Ordi
 
 **After cleanup:** Once the waste that drew it has been consumed, a blob briefly searches the immediate area for more unclaimed waste. If it finds none, it leaves on its own. It normally does not need to be dismissed or redirected.
 
-**Chapter 1:** The blob reaches Elizabeth's apartment by following the effectively overlapping Pathwell/Shade signature. Shade has followed Pathwell because of the draw; Pathwell has wandered into Elizabeth's apartment while scavenging charged material. Elizabeth is not the reason the blob is there. Pathwell sees the blob breaking down her door, does not know Shade exists, and incorrectly concludes that the blob must be after Elizabeth.
+**Chapter 1:** The blob reaches Elizabeth's apartment by following the effectively overlapping Pathwell/Shade signature. Shade has followed Pathwell because of the draw; Pathwell has wandered into Elizabeth's apartment while scavenging charged material. Elizabeth is not the reason the blob is there. Pathwell sees the blob breaking down her door, does not know Shade exists, and incorrectly concludes that the blob must be after Elizabeth. Once inside, the blob redirects toward fresh unclaimed casting waste created when Elizabeth physically interrupts Pathwell's already-active cookbook working.
 
 **Sensory signature:** stench of wet-rot / low tide. Amorphous, at least six feet. Dark ooze. The eye wants to slide off them.
 
@@ -329,7 +329,7 @@ A failed, interrupted, or uncontrolled working can leave short-lived **unclaimed
 
 Unclaimed casting waste is distinct from pruning spillage, even though blobs can consume both. It is also distinct from lingering emotional residue left by catastrophic ordinary destruction of charged art.
 
-In Chapter 1, the blob is already at Elizabeth's door before Pathwell activates the cookbook; therefore the cookbook working did not cause its arrival. After Elizabeth pulls the cookbook away, the active page remains with Pathwell and the blob lunges for the light in his hand. **Whether that specific interruption produces fresh cleanup waste is still open and must not be assumed until decided.**
+**Chapter 1 example:** The blob is already at Elizabeth's door before Pathwell activates the cookbook, so the cookbook working did not cause its arrival. After Pathwell activates the recipe, Elizabeth pulls the cookbook away while the page is already committed. That physical interruption destabilizes the release enough to create fresh unclaimed casting waste around the active page/working in Pathwell's hand. When the blob gets through the door, it redirects toward that fresh local mess and lunges for the glowing page/light. The interruption does not make Elizabeth magical and does not retroactively explain why the blob came to the apartment.
 
 ---
 
