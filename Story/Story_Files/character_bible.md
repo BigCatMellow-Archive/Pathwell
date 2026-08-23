@@ -54,6 +54,8 @@ Every important observation is real; Pathwell's interpretation is wrong.
 - Pathwell sees an unexplained blob trying to break down *Elizabeth's* door and concludes that it must be there for her. He does not understand that the event points back to himself and Shade.
 - The blob is already at the door before the cookbook working begins, so a successful cookbook spell is not what brought it there.
 - After Elizabeth pulls the cookbook away, the already-committed working destabilizes and creates fresh unclaimed casting waste around Pathwell's active page. The blob redirects toward that new local cleanup signal and lunges for the light in his hand. This interruption explains the movement after entry, not the blob's original arrival.
+- **His statement that Elizabeth's apartment has been "marked, magically speaking" is a half-bluff.** He sincerely believes Elizabeth is connected to the danger, but he does not actually know the apartment has acquired a magical mark. He invents/exaggerates that certainty to get her moving because uncertainty, explanation, and consent feel like friction in an emergency.
+- The later wet thud down the hall accidentally makes the bluff look correct, even though the continuing blob activity is tied to the Pathwell/Shade cleanup situation rather than a mark on Elizabeth or the apartment.
 - Pathwell treats Elizabeth as a curiosity because he cannot explain why a blob apparently came for an ordinary woman who knows nothing about it. Watching her becomes his test.
 - The later Shade revelation that Elizabeth was never the point is essential: Pathwell made her seem cosmically significant by misunderstanding a problem that actually belonged to him.
 
