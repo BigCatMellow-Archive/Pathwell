@@ -124,11 +124,7 @@ Every important observation is real; Pathwell's interpretation is wrong.
 
 **Climax weight:** after the fire Mama Baga's silence toward Pathwell can carry the conversation better than explanation. She never needed to lecture him about his flaw; the consequences are visible.
 
----
-
-## PAPA BAGA
-
-[OPEN — established in an early session as a co-parent figure, then dropped. Needs a deliberate decision: develop or cut cleanly. Does NOT block any character's growth (Mama Baga is complete without him). Default assumption until decided: not present.]
+**Family-role note:** Mama Baga is Pathwell's sole established Camp parent/matriarch in the intended canon. The earlier Papa Baga co-parent concept is cut cleanly rather than retained as an unseen or unexplained figure.
 
 ---
 
