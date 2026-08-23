@@ -393,6 +393,8 @@ When Camp moves, people and things clearly within it move together. Its boundari
 
 Some durable thresholds tend to reconnect after a move. Temporary routes may fail, drift, or need rediscovery.
 
+**The museum graffiti wall is one such long-established durable Camp anchor.** It is a practical route used to reach Camp despite Camp's movement; the wall reconnects as an established threshold rather than functioning as a fixed street-address portal to one permanent geographic location.
+
 ### Archive
 
 The archive is both **cultural memory** and **practical magical reserve**.
@@ -429,8 +431,14 @@ Any draft in which Elizabeth uses the diary as a magical weapon is a continuity 
 
 ## THE GRAFFITI WALL / MUSEUM
 
-A wall of carvings — soldiers' "I was here" marks — that is thematically exact for the book: ordinary people leaving proof they existed against being forgotten.
+The museum contains a wall of soldiers' carvings — names, dates, drawings, messages, and other `I was here` marks left by ordinary people trying not to disappear into history.
 
-Carving and other personal art can hold emotional charge in the wider system, but the graffiti wall's exact mechanical role is still open.
+**The graffiti wall is a long-established durable threshold/anchor to Camp Cunnan.** Because Camp moves, this kind of old anchor is valuable precisely because it tends to reconnect after Camp shifts. In the current story, choosing to go to Camp leads practically through the museum rather than to a permanent Camp street address.
 
-[OPEN: durable Camp threshold/anchor, beacon, or meaningful charged location. Do not lock the answer until the interview reaches it.]
+The wall's threshold role is specific to this established connection. It does **not** mean that every charged wall, historical site, carving, or collection automatically becomes a portal.
+
+The carvings can also hold emotional charge under the wider charged-art rules, but their emotional charge and their role as a Camp anchor should not be collapsed into a universal causal law. The wall is both a meaningful human record and an established threshold because of its particular history.
+
+Its thematic meaning remains exact for the book: ordinary people leaving proof that they existed against being forgotten. That resonance should enrich the museum confrontation, especially for Elizabeth and Shade, without becoming the contrived reason the characters visit the location.
+
+Exact activation conditions are threshold-specific and may remain iceberg lore unless the manuscript needs them. Do not generalize the wall's activation method into a universal rule for Camp travel or magical graffiti.
