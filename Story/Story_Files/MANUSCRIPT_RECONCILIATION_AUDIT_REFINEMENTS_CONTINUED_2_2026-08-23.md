@@ -139,6 +139,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Shade's `holding onto` observation is direct inference, not reported knowledge — LOCKED B
+
+- The stale Chapter 12 exchange **`You're not what he described.` / `Something he was holding onto.`** is invalid because Shade receives no post-creation Pathwell memories and no existing scene establishes Pathwell literally describing Elizabeth to Shade.
+- **Preserve the underlying idea by making it Shade's own inference from observed behavior.**
+- Chapter 11 already supplies the key evidence: Pathwell says **`you took her from me`**, and Shade answers **`She wasn't yours to take from.`**
+- Shade has therefore directly witnessed Pathwell frame Elizabeth as someone/something he can possess, recover, protect, or hold onto.
+- Shade may say something in the spirit of **`He keeps acting like you're something he can hold onto.`** Exact wording remains for manuscript reconciliation.
+- No telepathy, new memory transfer, or unseen Pathwell/Shade conversation is required.
+- This keeps Shade perceptive without making him omniscient and uses existing-story evidence rather than adding lore.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Reconcile Shade's current Chapter 12 line `you're not what he described` / `Something he was holding onto.` Shade cannot have received a post-creation Pathwell memory describing Elizabeth, and no existing scene establishes Pathwell literally describing her to Shade. Chapter 11 does, however, give Shade direct evidence for the **holding/ownership inference**: Pathwell says `you took her from me`, and Shade answers `She wasn't yours to take from.` Prefer that existing observed behavior over inventing an unseen conversation or new memory channel.
+Resolve who initiates the museum graffiti-wall crossing after Elizabeth chooses Camp. Existing material already has Shade provide a folded sheet and Elizabeth physically press it to the wall, while Chapter 10 already ends with Elizabeth herself saying `Camp.` The reconciliation should preserve Elizabeth's choice as hers without inventing solo threshold expertise she has never been shown to possess.
