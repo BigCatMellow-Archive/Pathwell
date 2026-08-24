@@ -55,6 +55,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`.
 
 ---
 
+## Diary-buyback prune surges through the draw — LOCKED
+
+- **When Pathwell performs the clean prune that pays the Camp archive for Elizabeth's donated diary, Shade feels the already-established pruning jolt/pain and the draw toward Pathwell sharply intensifies at the same moment.**
+- The two sensations therefore interact rather than occurring as unrelated beats: the prune strikes through their continuing connection and the deterministic pull becomes briefly much harder to resist.
+- Shade's existing physical tells can carry the surge: his right hand opens, his body turns toward Pathwell, or he involuntarily takes a step before catching himself.
+- **Shade still receives no information from the event.** He does not know Pathwell bought the diary, why Pathwell pruned, what price was negotiated, or what Pathwell intends to do next.
+- The draw remains compulsion, not telepathy/radar. The surge means only that the connection has been sharply activated by Pathwell's prune.
+- When Pathwell later appears physically carrying/possessing Elizabeth's diary, Shade can understand the earlier jolt in retrospect through ordinary inference.
+- This gives the diary buyback an immediate effect on Shade without inventing a new channel of knowledge and strengthens the mechanical/emotional continuity between Pathwell's acts of control.
+- No manuscript chapter has been edited; this is a reconciliation lock only.
+
+---
+
 ## Next refinement question
 
-Decide what happens to Shade's draw when Pathwell performs the already-locked clean prune to buy Elizabeth's diary back shortly before the final confrontation. Existing canon already says Shade feels Pathwell's pruning as a jolt; the question is whether that jolt and the draw remain separate sensations or combine into a stronger physical compulsion.
+Decide Elizabeth's role during the final Pathwell/Shade confrontation. Existing Chapter 12 already contains the useful line `I'm not going to tell him what to do. But I'm going to be there when he decides.` The question is whether that remains the core of her role once Pathwell reveals the exact absorption/reintegration plan and Shade explicitly refuses.
