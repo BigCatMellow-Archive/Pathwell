@@ -100,6 +100,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Child is pinned by ordinary archive debris — LOCKED
+
+- **Pathwell's violent recoil knocks the child down inside the archive and a fallen shelf, crate, or similarly ordinary piece of archive debris pins one leg.**
+- The child remains conscious and frightened rather than being rendered unconscious or gravely injured.
+- The child cannot free themselves, so Elizabeth's physical intervention is genuinely necessary; calling to the child or directing them toward the exit is not enough.
+- Elizabeth must wrench/lift the obstruction enough to pull the child loose, then physically guide, drag, or support the child back out.
+- Her existing museum injury materially complicates the rescue: one arm remains painful/restricted and supported by a sling.
+- No magical force targets the child, no blob creates this danger, and no new magical hazard is introduced. The trap is an ordinary physical consequence of the already-established recoil in a crowded archive.
+- The books remain recoverable when Elizabeth first passes them on the way in; the pinned child does not erase that choice.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Determine the ordinary physical condition that makes the child require Elizabeth's hands-on rescue once she reaches them. Existing material establishes the violent recoil, smoke/fire, the child's archive-runner position, and Elizabeth's injured arm, but does not yet establish a specific injury or obstruction. Prefer a simple physical consequence of the recoil over a new magical hazard.
+Resolve the timing of the diary/cookbook destruction against Stansbury's already-existing later entry into the archive. Current Chapter 12b has Stansbury enter after Elizabeth brings the child out and successfully rescue other documents. The diary and cookbook therefore need to be clearly lost before or during Elizabeth's extraction, or readers can reasonably ask why Stansbury did not save them.
