@@ -69,6 +69,20 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_4_202
 
 ---
 
+## Pathwell and Stansbury do not witness Elizabeth leave the crash — LOCKED
+
+- Supersede the prior assumption that Pathwell and Stansbury stand at the wreck watching Elizabeth depart with the Pathwell-looking man.
+- **They do not see the actual departure.** The crash leaves both brothers occupied by the wreck, their own injuries, disorientation, getting free of the vehicle, or other immediate ordinary aftermath.
+- During that interval, the Pathwell-looking man moves with certainty toward the other car; Elizabeth, still dazed and following apparent certainty, goes with him and gets in herself under the earlier lock.
+- By the time Pathwell and Stansbury are able to account for the scene, **Elizabeth and the other car are already gone.**
+- Pathwell and Stansbury therefore have no exact destination, route, or reliable account of where Elizabeth went. They may realize afterward that she left with the double, but they did not watch the choice/departure happen in real time.
+- This removes the need for Stansbury to justify not launching an immediate pursuit. There is no clean pursuit moment to decline: the departure is discovered after the fact, and the brothers are left with a wreck and incomplete information.
+- Cut/rework current Chapter 8 beats in which Pathwell watches the car shrink into the distance, remains staring after it, or Stansbury confidently tells him where Shade will take Elizabeth.
+- This also keeps Elizabeth's crash-to-diner transition primarily inside her own close experience rather than turning the brothers into external witnesses who can define what happened.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-With Stansbury's exact-destination knowledge removed, audit why Pathwell and Stansbury do not immediately pursue Elizabeth after she follows the Pathwell-looking man away from the crash. The current chapter simply pivots to `Bar's the other way.` Under the newer locks, Elizabeth has gone willingly only in the limited sense that shock, resemblance, momentum, and old compliance carry her into the car; she does not yet know who the man is. The story needs to distinguish a supported reason for Stansbury/Pathwell not treating this as an emergency pursuit from stale confidence that Stansbury knows exactly where Shade is taking her.
+Reconcile the Chapter 10 roadside reunion with the new crash-aftermath lock. Chapter 10 currently has Elizabeth leave the diner on foot and, about twenty minutes later, Stansbury's battered Cadillac simply slow behind her with Pathwell inside. If Pathwell and Stansbury had no idea where Elizabeth went after the crash, decide how they legitimately encounter her again without giving them unsupported tracking knowledge. Prefer an ordinary route/search explanation already supported by geography over a new magical locator.
