@@ -58,6 +58,7 @@ Important late locks:
 - **Museum graffiti wall = durable Camp Cunnan anchor.** Camp moves, so Chapter 10's `Camp` destination leads practically through this long-established threshold. The museum is not an arbitrary detour; the confrontation interrupts the route to Camp.
 - **Shade's museum convergence:** Shade inherited old knowledge of the museum/Camp anchor in his creation-time Pathwell fragments. The continuing Pathwell draw then confirms that Pathwell is moving toward the same convergence point. Shade reaches the museum first and waits. This uses no present-day Pathwell memory feed, telepathy, new tracking power, or coincidence.
 - **Elizabeth's museum choice:** she does not choose Pathwell or Shade. She rejects both men's attempts to define her role and chooses Camp for herself. Going through the graffiti-wall anchor is her own physical follow-through on Chapter 10's `Camp`, regardless of which man follows, approves, or claims to be protecting her.
+- **Museum overreach:** Elizabeth begins moving toward the Camp anchor on her own choice while Shade makes only a small open-handed/nonthreatening movement near her. Pathwell overrides her judgment anyway, throws a broad protection/restraint working across the charged gallery, overloads incompatible charged sources, and causes the backlash that hurls Elizabeth into the display case. His attempt to protect her from her own choice becomes the thing that harms her.
 - **Bar sequence revised:** the mirror makes Pathwell begin to understand the mystery points back to himself; he bolts from the bar, a blob attacks/engulfs him through the Pathwell/Shade overlap, and Elizabeth cuts Pathwell free with Stansbury's imbued toy dagger. The older `Elizabeth cuts herself free` version is stale.
 - **Bar blob aftermath:** Stansbury burns/destroys the freed blob manifestation with a heat/fire-based imbued attack. Destroying that body ends the immediate threat but does not eradicate the cleanup ecology or automatically resolve the underlying waste condition; another blob can later appear if cleanup is still required.
 - **Post-bar information split:** Pathwell tells Stansbury privately that the evidence now points back to Pathwell, but excludes Elizabeth. The later diner truth is therefore still a genuine revelation to her.
@@ -104,6 +105,7 @@ Important late locks:
 - **Ask → museum causal bridge:** Elizabeth chooses `Camp`; because Camp moves, the known practical route is the long-established museum graffiti-wall anchor. The confrontation happens at that choke point before the group can reach Camp. Do not add a Shade clue, arbitrary museum mission, or random detour.
 - **Shade → museum convergence:** Shade knows the anchor from creation-time Pathwell fragments. The present draw toward Pathwell confirms the route is becoming the meeting point, allowing Shade to arrive first and wait without violating his information limits.
 - **Elizabeth's museum choice:** she rejects both men's claims on her and chooses Camp for herself. Her movement through the anchor is not a return to Pathwell or an allegiance to Shade; it is the physical continuation of the direction she chose before either man gets to define it for her.
+- **Museum overreach:** Elizabeth begins toward the Camp anchor; Shade makes only a restrained/open-handed movement near her; Pathwell decides she needs protection anyway and casts a broad protection/restraint working. In the museum's dense charged environment the working grabs incompatible sources, overloads, and injures Elizabeth. The harm is caused by Pathwell overriding her choice, not by Shade attacking her.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -138,14 +140,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **What specifically makes Pathwell overreach and trigger the museum backlash that injures Elizabeth?**
+> **How severe is Elizabeth's museum injury?**
 >
-> **A. Shade steps toward Elizabeth.** Preserve the current trigger almost exactly: Shade makes a small, open-handed movement toward her, and Pathwell reflexively throws up an oversized ward because he assumes she is in danger despite her saying she does not need rescue.
+> **A. Painful but minor.** Bruising/cuts and a badly jarred shoulder; she can continue almost normally. This preserves momentum but undersells the bodily cost of Pathwell's overreach.
 >
-> **B. Elizabeth starts through the Camp anchor.** Pathwell tries to stop or protect her from crossing while Shade is present, turning her own choice into the thing he overrides.
+> **B. Serious but stable.** A significant physical injury — for example a dislocated or fractured shoulder/upper arm plus cuts/bruising — that clearly needs treatment at Camp and continues to hurt/limit her, but she remains conscious, mobile, and later capable of making and physically carrying out the child-over-diary choice.
 >
-> **C. Shade tries to activate/use the anchor first.** Pathwell interprets that as a threat to Camp and reacts with the broad ward. This makes the conflict more tactical and less directly about Elizabeth's agency.
+> **C. Critical / near death.** She is unconscious or medically unstable and must be carried to Camp. This raises immediate stakes but turns Elizabeth passive at exactly the point her arc is moving into `Choosing`, and creates pressure to explain why Camp cannot simply solve the climax through healing.
 >
-> **D. Combine A + B.** Elizabeth has made clear that she is going to Camp on her own terms and begins moving toward the graffiti wall. Shade makes a small, nonthreatening/open-handed move near her rather than attacking. Pathwell reads the situation as danger anyway and reaches for a broad protection/restraint working to separate or control the situation. The working catches too many charged sources, overloads, and hurls Elizabeth into the display case. His attempt to protect her therefore becomes the immediate thing that harms her because he overrides the choice she just made.
+> **D. Primarily magical contamination.** The museum overload leaves dangerous magical energy in her that Camp must drain or remove. This supplies urgency but adds a new personal-magic mechanic the story does not otherwise need.
 
-Audit lean: **D**. It preserves the strongest existing Chapter 11 material — `I don't need to be rescued`, Shade's careful open-handed step, Pathwell reaching into his coat, and the room-wide overload — while making the causality directly serve the newly locked museum choice.
+Audit lean: **B**. It gives Pathwell's mistake a lasting physical cost without taking Elizabeth out of her own climax.
