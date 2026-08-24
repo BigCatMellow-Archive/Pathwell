@@ -14,19 +14,20 @@ Read the original `BIBLE_INTERVIEW_CONTINUATION.md`, then `MANUSCRIPT_RECONCILIA
 - **Draw-at-Camp intensity:** preserve the right-hand-opening tell and let the physical compulsion intensify as Pathwell approaches. Shade's body increasingly orients/drifts toward Pathwell and may start an involuntary step before catching himself. He can resist/delay the movement, but doing so takes visible effort. The draw supplies no exact distance, countdown, thoughts, or plan; its content is effectively `Pathwell is that way. Go.`
 - Preserve Chapter 12/12b's existing hand imagery where possible, but move the first appearance out of the stale Shade-as-healer function.
 - **Diary-buyback prune + draw:** the clean prune used to buy Elizabeth's diary back causes Shade's established pruning pain/jolt and simultaneously makes the draw sharply harder to resist. His hand/body may turn or step toward Pathwell before he stops himself. The event carries no specific information: Shade does not know what Pathwell bought or why he pruned until later evidence lets him infer it.
+- **Elizabeth in final confrontation:** preserve/adapt `I'm not going to tell him what to do. But I'm going to be there when he decides.` Elizabeth remains present as witness. Shade owns his refusal; Elizabeth does not argue the refusal for him. Pathwell owns the choice to cross it. Elizabeth may cut through evasion, but she does not physically prevent the attempt or become responsible for Pathwell choosing correctly.
 
 ## Exact resume point
 
 Ask exactly one question:
 
-> **What role does Elizabeth take during the final Pathwell/Shade confrontation once Pathwell reveals the absorption/reintegration plan and Shade explicitly refuses?**
+> **When Elizabeth sees that Pathwell has bought her donated diary back from the Camp archive, how much does she confront that act before the Shade confrontation?**
 >
-> **A. Elizabeth argues Shade's case for him.** She tells Pathwell exactly why absorption is wrong and orders him to stop. This gives her active dialogue but risks making her the author of Shade's boundary rather than letting Shade's `no` stand on its own.
+> **A. She immediately demands that he return it to the archive.** This gives the diary beat a direct argument but risks turning the scene into a second Ask and delaying the more important Shade refusal.
 >
-> **B. Elizabeth remains present as witness and refuses to decide for either man.** Preserve/adapt the existing Chapter 12 principle: `I'm not going to tell him what to do. But I'm going to be there when he decides.` Once Shade says no, Elizabeth does not translate or improve the refusal; she makes sure Pathwell cannot pretend he did not hear it. Her presence matters because Pathwell must make the choice in front of someone he has already harmed by overriding her judgment. She can challenge evasion if necessary, but Shade owns his boundary and Pathwell owns the decision to cross it.
+> **B. She sees it, understands exactly what he has done, and gives him one concise challenge rather than a speech.** Something in the spirit of `I gave that away.` Pathwell can answer with the technical legitimacy — the archive sold it, he paid for it — which exposes the flaw without requiring Elizabeth to explain it for him. She does not fight him for the diary or demand it back; the fact that he legally bought it back after she deliberately surrendered it is itself the point. The scene then moves into Shade.
 >
-> **C. Elizabeth physically intervenes before Pathwell can attempt the prune.** This maximizes her immediate action but would shift the climax away from the locked requirement that Pathwell knowingly forces the contradictory prune himself.
+> **C. She says nothing about the diary until after the fire.** This preserves speed but wastes the clean buyback as an immediate character beat and makes it easier for Pathwell's first control violation in the climax to pass without recognition.
 >
-> **D. Elizabeth leaves them alone.** She refuses further involvement in their conflict. This protects her independence but weakens the existing line that she will be there when Pathwell decides and removes her as witness to the repeated control failure.
+> **D. Pathwell hides the diary from Elizabeth until the fire.** This creates a reveal but adds concealment/deception that is not needed by the existing character logic.
 
-Audit lean: **B**. It preserves strong existing Chapter 12 material, respects Shade's explicit refusal as his own, and keeps Elizabeth active without turning her into the person responsible for making Pathwell choose correctly.
+Audit lean: **B**. It lets the already-established object history do the work: Elizabeth states the fact of her choice, Pathwell answers with the fact of his legitimate transaction, and the reader can see that legality/payment still does not equal respect.
