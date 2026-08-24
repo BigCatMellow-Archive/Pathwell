@@ -113,6 +113,20 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Diary and cookbook catch ordinary fire during the child rescue — LOCKED
+
+- **Elizabeth passes both books while they are still physically saveable.**
+- While she spends the necessary seconds wrenching the pinned child free, the fast-moving archive fire reaches the diary and cookbook.
+- On the return path, Elizabeth can register that both are already burning/unsalvageable while she is physically supporting or dragging the child toward safety.
+- She does not release the child or turn back toward the books.
+- **Ordinary fire destroys the diary and cookbook.** They are not magically activated, consumed by a spell, or destroyed by the initial recoil itself.
+- This preserves the genuine choice: Elizabeth could have stopped for the books on the way in and did not.
+- Stansbury's later entry into the archive remains valid because he rescues different documents from another still-reachable section after Elizabeth and the child clear the entrance.
+- His later document rescue therefore does not reopen the question of why he failed to save Elizabeth's books; they are already burning beyond recovery.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Resolve the timing of the diary/cookbook destruction against Stansbury's already-existing later entry into the archive. Current Chapter 12b has Stansbury enter after Elizabeth brings the child out and successfully rescue other documents. The diary and cookbook therefore need to be clearly lost before or during Elizabeth's extraction, or readers can reasonably ask why Stansbury did not save them.
+Reconcile Shade's current Chapter 12 statement `It kills me` with the locked absorption canon. The Bible establishes that Pathwell does not know whether reintegration would leave Shade conscious, erase him, merge him into something new, or produce another irreversible result. Shade should not possess unjustified mechanical certainty unless the line is explicitly existential rather than technical.
