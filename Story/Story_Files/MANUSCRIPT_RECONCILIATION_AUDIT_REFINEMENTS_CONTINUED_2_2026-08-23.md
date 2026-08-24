@@ -37,6 +37,20 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Child is already at the archive on an ordinary Camp errand — LOCKED
+
+- **The child who becomes Elizabeth's competing rescue is already at or immediately beside the archive on an ordinary Camp errand when the Pathwell/Shade confrontation erupts.**
+- This pays off existing Chapter 12 material rather than inventing a convenient late arrival: Camp already has a child awake before dawn running errands between wagons, and the current treatment scene already sends a girl to the archive to fetch healing letters.
+- The child's presence at the archive is therefore normal Camp routine, not curiosity about the confrontation, recklessness, magical attraction, or plot coincidence.
+- When Pathwell forces the contradictory absorption prune, the violent recoil changes that ordinary task into immediate physical danger near the newly burning archive entrance.
+- At the same time, the diary is visibly/recoverably located at or just inside the archive entrance because Pathwell set it down before the working and the recoil displaced it.
+- Elizabeth therefore faces a real simultaneous physical choice: recover the diary or help the endangered child before the rapidly escalating archive fire makes one of those actions impossible.
+- Do not make the child run toward an already-burning archive merely to create the choice.
+- Do not make the failed prune specifically target the child.
+- No manuscript chapter has been edited; this is a reconciliation lock only.
+
+---
+
 ## Next refinement question
 
-Determine how the already-established child becomes the immediate competing rescue during the archive fire. Use the existing Chapter 12/12b plant that the child is awake before dawn and running errands around Camp rather than inventing a new child, special relationship, or magical reason for the danger.
+Decide whether the archive runner in Elizabeth's treatment and the child endangered in the climax are the same already-seen Camp child, and if so keep that continuity understated rather than turning the child into a new major character.
