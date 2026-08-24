@@ -87,6 +87,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Elizabeth recognizes both books without hesitation — LOCKED
+
+- **Elizabeth recognizes the diary and cookbook immediately as she runs past them, and she does not slow down.**
+- Give each object a brief, concrete recognition beat rather than an internal argument: the diary through a familiar cover/edge/detail; the cookbook through its cracked spine, Nana's handwriting, or another already-established physical marker.
+- Elizabeth knows exactly what each object is and that each is still recoverable.
+- Her hand does not reach for either book and her feet do not check or hesitate.
+- Do not insert a thematic speech or conscious weighing of `books versus child` into the emergency.
+- This is the culmination of her existing body-first handling: the decision is visible in what she does before she explains anything to herself.
+- The choice remains meaningful precisely because she recognizes what she is leaving and continues forward anyway.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Determine how explicitly the prose should show Elizabeth recognizing the diary and cookbook as she runs past them. Preserve the existing character handling that Elizabeth's body often reacts before she narrates or explains what she feels; avoid turning the moment into an internal thematic speech.
+Determine the ordinary physical condition that makes the child require Elizabeth's hands-on rescue once she reaches them. Existing material establishes the violent recoil, smoke/fire, the child's archive-runner position, and Elizabeth's injured arm, but does not yet establish a specific injury or obstruction. Prefer a simple physical consequence of the recoil over a new magical hazard.
