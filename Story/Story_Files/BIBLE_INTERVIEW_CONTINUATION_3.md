@@ -6,25 +6,26 @@ Read `BIBLE_INTERVIEW_CONTINUATION_2.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ## Latest locks
 
-- **Final confrontation geography:** Pathwell goes into the Camp archive first, legitimately buys Elizabeth's donated diary with a clean prune, and exits carrying it. The prune causes Shade's pain/jolt and sharply intensifies the draw, pulling Shade from the tree-line area toward Pathwell. The confrontation therefore occurs immediately outside the archive wagon.
-- **Diary handling:** Pathwell offers the bought-back diary to Elizabeth. She refuses it because she already chose to give it away, in the spirit of `I gave that away.` Pathwell then sets the diary on the archive step/threshold or adjacent surface to free his hands for the absorption working. His later violent recoil knocks/blows the diary into or across the archive entrance as the archive ignites. This makes it physically recoverable during the fire without returning it to Elizabeth's possession.
-- **Child setup:** the child who becomes Elizabeth's competing rescue is already at or immediately beside the archive on an ordinary Camp errand when the failed absorption erupts. Their presence is normal Camp routine, not a decision to run toward danger, magical targeting, or coincidence. The recoil creates the danger while the diary simultaneously remains recoverable at/inside the archive entrance.
-- **Same-child continuity:** the girl sent to fetch the healing record during Elizabeth's treatment and the child endangered in the climax are the same understated Camp child. No special bond, destiny, or new character arc is needed. Being an archive runner is already part of the child's normal early-morning activity.
-- Elizabeth's museum injury remains serious-but-stable; sling, pain, and restricted arm persist into the fire and should materially affect the rescue.
-- The stale Chapter 12b beat where Elizabeth pulls the diary from her own bag is invalid.
+- Final confrontation occurs immediately outside the Camp archive because Pathwell buys the diary there and Shade's draw pulls him toward Pathwell.
+- Pathwell offers the bought-back diary to Elizabeth; she refuses it because she already gave it away. He sets it at/near the archive entrance to free his hands for the absorption working.
+- The archive runner from Elizabeth's treatment and the child endangered during the fire are the same understated Camp child.
+- **Cookbook continuity:** Elizabeth surrendered the whole cookbook in Chapter 4. After the healing consumes the needed charged page/material, Camp archives the surviving cookbook as both cultural record and practical magical reserve. The cookbook therefore remains naturally in the archive until the climax.
+- **Climax-choice correction:** withdraw the prior idea that Elizabeth must be physically prevented from retrieving the diary first. The intended beat is that the family objects remain saveable and Elizabeth visibly **runs past them** on the way to the child. She loses them because she continues toward a living person, not because magic removes the choice.
+- Current Chapter 12b already ends with `No cookbook. No diary.` but does not physically stage the cookbook in the rescue choice. That must be reconciled later.
+- No manuscript chapters have been edited.
 
 ## Exact resume point
 
 Ask exactly one question:
 
-> **What ordinary physical danger makes the child's rescue urgent enough that Elizabeth cannot simply grab the diary first and then help the child?**
+> **What is the cleanest physical line for Elizabeth to run past both books on her way to the child?**
 >
-> **A. The recoil knocks the child down beside the archive and collapsing step/doorway debris pins or traps them.** The diary is visible just inside/at the burning entrance. Elizabeth has one functional arm, a painful sling, and only seconds before the fire spreads. Freeing and dragging the child away takes the entire available window; by the time the child is safe, the doorway has become impassable and the diary is burning. No magical targeting is involved — ordinary debris from Pathwell's violent recoil creates the trap.
+> **A. The child is just inside the archive on an ordinary runner errand when the recoil hits.** Pathwell's diary is displaced into/near the entrance. The cookbook, already archived, is on a front reserve shelf or knocked into the front aisle. Elizabeth runs into the burning archive toward the child and literally passes the diary and cookbook within reach. She does not stop. With one injured arm, getting the child back out occupies her body/hands; by the time they clear the entrance, fire has taken the books. This uses the child's already-established archive-runner role to justify being inside rather than inventing a reason.
 >
-> **B. The child is knocked unconscious but not trapped.** Elizabeth has to drag/carry them away from the heat. This is simple, but it leaves slightly more room for the reader to wonder why she could not snatch the diary first.
+> **B. The recoil scatters both books outside between Elizabeth and a child farther across the clearing.** Elizabeth runs past them on the ground. This makes the visual choice obvious but depends more on conveniently throwing two particular objects into the same path.
 >
-> **C. The child is trapped just inside the archive.** Elizabeth must enter to pull them out. This makes the rescue dramatic, but because the diary is also inside, the physical either/or becomes less clean.
+> **C. Elizabeth explicitly passes only the diary; the cookbook remains visible burning inside the archive.** The double loss remains, but only one object participates directly in the running choice.
 >
-> **D. A blob/spillage manifestation threatens the child.** This would add another magical hazard before the established blob-cleanup phase and risks muddling the clean child-versus-diary choice.
+> **D. Elizabeth picks up one book instinctively, then drops/leaves it when she reaches the child.** This is dramatic but makes the choice less clean than simply continuing forward.
 >
-> Audit lean: **A**. It uses only already-established physical elements — violent recoil, wagon/doorway debris, fast-spreading fire, and Elizabeth's injured arm — and makes the lost diary the unavoidable cost of the rescue rather than a choice she had ample time to reconsider.
+> Audit lean: **A**. It uses the child's existing archive-runner job and the cookbook's now-established archive location, so both objects can sit naturally between Elizabeth and the child without blast coincidence.
