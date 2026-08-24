@@ -58,6 +58,17 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_4_202
 
 ---
 
+## Stansbury does not know Shade's exact destination after the crash — LOCKED A
+
+- Remove the unsupported precision in Stansbury's Chapter 8 line **`I know where he'll take her.`**
+- Stansbury may understand Shade's **broad intent** from what he has just seen and from Pathwell's recognition that Shade is connected to him: Shade is not simply fleeing at random, and he likely wants Elizabeth to hear, witness, or understand something.
+- Stansbury does **not** know that Shade will stop at a particular diner, does not know an exact rendezvous point, and has no clairvoyant route knowledge.
+- Do not invent a recurring diner, prearranged location, or special route merely to preserve the old line.
+- Exact replacement dialogue remains for manuscript reconciliation. It may express Stansbury's broad read with uncertainty, but cannot claim precise destination knowledge.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Reconcile Stansbury's Chapter 8 line **`I know where he'll take her.`** Current continuity has Shade lead Elizabeth away after the crash for his own truth/witness/leverage purpose and then stop at an ordinary diner. No existing lock establishes the diner as a known rendezvous, habitual Shade location, or destination Stansbury should be able to predict precisely. Decide whether Stansbury should only understand Shade's broader motive/direction, whether the line should be weakened to uncertainty, or whether there is already-supported reason he can know exactly where they are going.
+With Stansbury's exact-destination knowledge removed, audit why Pathwell and Stansbury do not immediately pursue Elizabeth after she follows the Pathwell-looking man away from the crash. The current chapter simply pivots to `Bar's the other way.` Under the newer locks, Elizabeth has gone willingly only in the limited sense that shock, resemblance, momentum, and old compliance carry her into the car; she does not yet know who the man is. The story needs to distinguish a supported reason for Stansbury/Pathwell not treating this as an emergency pursuit from stale confidence that Stansbury knows exactly where Shade is taking her.
