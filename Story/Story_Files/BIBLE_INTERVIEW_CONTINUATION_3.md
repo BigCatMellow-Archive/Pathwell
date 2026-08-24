@@ -11,21 +11,23 @@ Read `BIBLE_INTERVIEW_CONTINUATION_2.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_
 - The archive runner from Elizabeth's treatment and the child endangered during the fire are the same understated Camp child.
 - **Cookbook continuity:** Elizabeth surrendered the whole cookbook in Chapter 4. After the healing consumes the needed charged page/material, Camp archives the surviving cookbook as both cultural record and practical magical reserve. The cookbook therefore remains naturally in the archive until the climax.
 - **Climax-choice correction:** withdraw the prior idea that Elizabeth must be physically prevented from retrieving the diary first. The intended beat is that the family objects remain saveable and Elizabeth visibly **runs past them** on the way to the child. She loses them because she continues toward a living person, not because magic removes the choice.
-- Current Chapter 12b already ends with `No cookbook. No diary.` but does not physically stage the cookbook in the rescue choice. That must be reconciled later.
+- **Run-path lock:** the child is just inside the archive on an ordinary runner errand when the recoil hits. The bought-back diary is displaced into/near the entrance; the archived cookbook is on a front shelf or knocked into the front aisle. The child is farther inside than both. Elizabeth runs into the burning archive, passes the diary and then the cookbook within reach, does not stop, reaches the child, and gets the child out despite her sling/pain/restricted arm. By then the escalating fire has taken both books.
+- This replaces the stale Chapter 12b choreography where Elizabeth magically uses the diary and the child then runs toward the archive.
+- Current Chapter 12b already ends with `No cookbook. No diary.`; the new staging makes both losses physically causal on-page.
 - No manuscript chapters have been edited.
 
 ## Exact resume point
 
 Ask exactly one question:
 
-> **What is the cleanest physical line for Elizabeth to run past both books on her way to the child?**
+> **How explicitly should the prose show Elizabeth recognizing the diary and cookbook as she runs past them?**
 >
-> **A. The child is just inside the archive on an ordinary runner errand when the recoil hits.** Pathwell's diary is displaced into/near the entrance. The cookbook, already archived, is on a front reserve shelf or knocked into the front aisle. Elizabeth runs into the burning archive toward the child and literally passes the diary and cookbook within reach. She does not stop. With one injured arm, getting the child back out occupies her body/hands; by the time they clear the entrance, fire has taken the books. This uses the child's already-established archive-runner role to justify being inside rather than inventing a reason.
+> **A. She recognizes both instantly and keeps moving without slowing.** Give each object one sharp sensory recognition beat — the diary's familiar edge/cover, the cookbook's cracked spine or Nana's handwriting — but no internal argument. Her body registers what they are; her feet keep going toward the child. The reader sees that she knows exactly what she is leaving.
 >
-> **B. The recoil scatters both books outside between Elizabeth and a child farther across the clearing.** Elizabeth runs past them on the ground. This makes the visual choice obvious but depends more on conveniently throwing two particular objects into the same path.
+> **B. She has a tiny physical hesitation.** Her hand or body starts toward one of the books for a fraction of a second, then she catches sight/hears the child and continues. This makes the choice more explicit but risks making the moment feel like a conventional dilemma rather than an instinctive expression of who she has become.
 >
-> **C. Elizabeth explicitly passes only the diary; the cookbook remains visible burning inside the archive.** The double loss remains, but only one object participates directly in the running choice.
+> **C. Give her a brief internal weighing of the objects against the child.** This makes the theme unmistakable but is more explanatory than Elizabeth's existing body-first handling.
 >
-> **D. Elizabeth picks up one book instinctively, then drops/leaves it when she reaches the child.** This is dramatic but makes the choice less clean than simply continuing forward.
+> **D. She does not consciously recognize the books until after the rescue.** This keeps the action fast but weakens the intended visible choice because she would not actually know what she ran past.
 >
-> Audit lean: **A**. It uses the child's existing archive-runner job and the cookbook's now-established archive location, so both objects can sit naturally between Elizabeth and the child without blast coincidence.
+> Audit lean: **A**. It keeps the choice unmistakable without pausing the rescue for an internal speech: she sees them, knows them, and keeps going.
