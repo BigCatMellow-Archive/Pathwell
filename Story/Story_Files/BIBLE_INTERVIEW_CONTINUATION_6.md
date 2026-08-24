@@ -10,23 +10,24 @@ Read `BIBLE_INTERVIEW_CONTINUATION_5.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_
 - **Crash-to-diner transition:** remove the overt physical forcing. Shade does not lift Elizabeth by the coat, carry her across the road, shove her into the car, or physically confine her. He takes charge verbally and moves toward the car as though the next step is obvious. Elizabeth, dazed from the crash and still half-processing him through the Pathwell resemblance, follows and gets into the car herself while already sensing wrongness she cannot name. This preserves the intended point that her chosen crash is a real awakening but does not instantly erase her old habit of following apparent certainty. Shade remains morally imperfect because he uses that compliance for his own purposes instead of clarifying who he is.
 - **Pre-recognition narration:** withhold the name `Shade` in close narration until Elizabeth consciously recognizes that the Pathwell-looking man is not Pathwell. Before that click, stay inside her uncertainty with `the man`, pronouns, or `Pathwell` only when it reflects her current assumption. Do not let narration or dialogue identify him as Shade first. Once his third-person reference to Pathwell makes the truth click for Elizabeth, the narration may use `Shade` normally.
 - **Borrowed-age texture:** Shade is still recently created, but he may display old-seeming habits or mannerisms inherited through his one-time creation-time Pathwell fragments. These are borrowed mannerisms, not a centuries-long Shade biography. Do not imply Shade personally lived before cars, remembers centuries of independent life, or subjectively experiences himself as ancient. Age-like prose must read as uncanny inherited residue, not literal chronology.
-- **Stansbury destination knowledge:** remove `I know where he'll take her.` Stansbury may infer Shade's broad purpose — that he wants Elizabeth to hear, witness, or understand something — but he does not know the exact destination, diner, or route. Do not invent a known diner or rendezvous merely to justify the stale line.
+- **Stansbury destination knowledge:** remove `I know where he'll take her.` Stansbury may infer Shade's broad purpose, but he does not know the exact destination, diner, or route. Do not invent a known diner or rendezvous merely to justify the stale line.
+- **Crash aftermath:** Pathwell and Stansbury do not actually witness Elizabeth leave with the Pathwell-looking man. The wreck, their injuries, disorientation, and getting clear of the vehicle occupy them. During that interval Elizabeth follows the double to the other car and leaves. When the brothers finally account for the scene, Elizabeth and the other car are already gone. They therefore do not know where she went and there is no clean pursuit moment they consciously choose to abandon. Remove/rework Pathwell watching the departing car and Stansbury claiming precise destination knowledge.
 - No manuscript chapters have been edited.
 
 ## Exact resume point
 
 Ask exactly one question:
 
-> **Why don't Pathwell and Stansbury immediately pursue Elizabeth after she leaves the crash with the Pathwell-looking man?**
+> **How should Pathwell and Stansbury legitimately find Elizabeth on the road in Chapter 10 if they had no idea where she went after the crash?**
 >
-> Once `I know where he'll take her` is removed, the current `Bar's the other way` pivot no longer has a built-in safety rationale. Under the newer crash-to-diner lock, Elizabeth follows and gets into the car herself because of shock, resemblance, momentum, and old compliance, but she does not yet know who the man is. Pathwell and Stansbury have just watched an unexplained Pathwell double leave with her.
+> Current Chapter 10 has Elizabeth leave the diner on foot and, about twenty minutes later, Stansbury's battered Cadillac simply slow behind her with Pathwell inside. Under the new crash-aftermath lock, the brothers did not see the departure and have no destination or tracking information.
 >
-> **A. Stansbury reads Shade's behavior as non-immediate-danger and stops Pathwell from chasing while they are injured/without a usable car.** He cannot know the destination, but he can judge that Shade had an opportunity to hurt Elizabeth at the crash and instead calmly led her away. They regroup rather than launch an impossible pursuit. This uses visible evidence and existing crash damage rather than new lore.
+> **A. They are searching the ordinary roads outward from the crash and happen to find her on one of the likely routes.** They do not know the diner; they are simply checking roads/towns in the direction the missing car could have gone. Elizabeth walking along the shoulder makes her visible. This preserves the current roadside reunion with minimal machinery.
 >
-> **B. Pathwell wants to pursue, but Stansbury insists Shade needs Elizabeth as a witness and therefore will not hurt her.** This gives Stansbury stronger certainty about Shade's motive than the scene may have earned.
+> **B. Elizabeth independently heads toward a place the brothers were already going, so the reunion is genuine route convergence.** This can work if an already-established destination naturally puts all three on the same road, but should not be invented solely for this beat.
 >
-> **C. They attempt to pursue and fail to catch up.** Mechanically clean, but adds a chase beat that may dilute the diner transition.
+> **C. Shade deliberately leaves some clue that lets the brothers find Elizabeth.** This would make him manage the reunion and adds a breadcrumb not currently needed.
 >
-> **D. They simply let her go because she got into the car herself.** This risks making Pathwell/Stansbury implausibly unconcerned given that Elizabeth does not actually know who she followed.
+> **D. Pathwell uses magic or the draw to locate Elizabeth.** Invalid: the draw belongs to Shade and points toward Pathwell; it is not an Elizabeth tracker.
 >
-> Audit lean: **A**. It gives them a practical reason not to chase without restoring unsupported knowledge: both are battered, the car is wrecked, Shade is not behaving like an immediate attacker, and Stansbury can argue for regrouping without pretending to know where Shade is going.
+> Audit lean: **A**. It uses ordinary search behavior and the existing road scene without creating a locator mechanic. The brothers can have been driving likely roads for some time before they happen to spot Elizabeth.
