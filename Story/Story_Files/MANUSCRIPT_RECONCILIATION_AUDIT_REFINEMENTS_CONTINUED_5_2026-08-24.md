@@ -45,6 +45,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_4_202
 
 ---
 
+## Shade may carry borrowed age through creation-time Pathwell fragments — LOCKED B
+
+- **Shade is chronologically recent.** He has not independently lived for decades or centuries.
+- Preserve some age-like texture only where it can plausibly come from the creation-time Pathwell fragments already established as part of Shade's origin.
+- Shade may therefore inherit old habits, muscle-memory-like mannerisms, turns of phrase, posture, restraint, or other behavioral residue that feels older than his own short existence.
+- These are **borrowed mannerisms, not borrowed biography**. Do not imply Shade personally remembers living through those years, driving before cars existed, or accumulating centuries of independent experience.
+- Rework literal-age narration such as driving as though he has done it `since before cars existed` so the uncanny effect comes from movements that seem practiced beyond what his actual age should allow, without asserting a false personal history.
+- `Old weather` or similarly aged texture may survive only if it reads as an impression created by inherited Pathwell residue rather than a factual statement that Shade himself is old.
+- Do not introduce a new rule in which Shade subjectively experiences himself as centuries old. The existing one-time creation-fragment mechanic is sufficient.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Reconcile Chapter 9's repeated presentation of Shade as ancient or long-lived with the locked fact that Shade is recently created. Current prose includes imagery in the spirit of driving as though he has been doing it `since before cars existed`, a face carrying `old weather`, and Pathwell's face looking `worn` by years. Those descriptions read as literal lived age, not merely resemblance. Decide whether to remove the ancient-age cues entirely, reinterpret them as borrowed mannerisms/creation-time fragments, or deliberately make Shade feel subjectively older than his chronological existence without changing the fact that he is recent.
+Reconcile Stansbury's Chapter 8 line **`I know where he'll take her.`** Current continuity has Shade lead Elizabeth away after the crash for his own truth/witness/leverage purpose and then stop at an ordinary diner. No existing lock establishes the diner as a known rendezvous, habitual Shade location, or destination Stansbury should be able to predict precisely. Decide whether Stansbury should only understand Shade's broader motive/direction, whether the line should be weakened to uncertainty, or whether there is already-supported reason he can know exactly where they are going.
