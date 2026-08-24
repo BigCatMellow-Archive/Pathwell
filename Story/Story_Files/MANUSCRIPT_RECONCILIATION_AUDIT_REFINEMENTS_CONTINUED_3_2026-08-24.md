@@ -32,6 +32,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2_202
 
 ---
 
+## Museum road accusation states the literal event before Pathwell reveals the possessive interpretation — LOCKED B
+
+- Replace the stale factual accusation **`You're the one who took her from the road`** with the concrete event Pathwell can actually accuse Shade of: **Shade left the crash scene with Elizabeth.**
+- Dialogue can be in the spirit of **`You left the crash with her.`** Exact prose remains for manuscript reconciliation.
+- Shade may acknowledge that literal fact without conceding that Elizabeth was kidnapped, possessed, or removed from someone who owned her.
+- Preserve Pathwell's later **`you took her from me`** because that second line is useful precisely as a reveal of Pathwell's flawed interpretation rather than a statement of objective fact.
+- Preserve/adapt Shade's existing answer **`She wasn't yours to take from.`** It then lands against Pathwell's possessive framing, not against the literal crash logistics.
+- Intended distinction: **fact = Shade and Elizabeth left the crash together; Pathwell's interpretation = Shade took something from him.**
+- This is an agency/control issue, not a gendered ownership theme. Pathwell's flaw is treating another person's problem, safety, or direction as something he is entitled to manage because he believes he is helping.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Reconcile Pathwell's museum accusation that Shade `took her` from the road/crash. Under the locked arc, Shade did not kidnap Elizabeth or decide Camp for her, and Elizabeth explicitly rejects being treated as something possessed or recovered. Preserve Pathwell's flawed possessive/protective instinct without making the underlying factual accusation true.
+Reconcile Pathwell's Chapter 10 explanation of Shade's creation. Current manuscript says `I cut away possibilities I didn't intend to use. Some were mine. Some should have been mine. Some were... Him.` That language implies Pathwell literally pruned possibilities belonging to Shade or another person. The locked origin instead establishes that someone asked Pathwell for help, did not ask him to prune, Pathwell independently chose pruning as the solution, paid with his own future possibility, and the malformed failure produced Shade. Prefer a plain explanation that preserves this causality without inventing a pre-existing pool of Shade possibilities.
