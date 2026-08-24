@@ -18,8 +18,20 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_4_202
 
 ---
 
+## Remove overt physical forcing from the crash-to-diner transition — LOCKED A
+
+- **Shade does not lift Elizabeth by the coat, carry her across the road, shove her into the car, or physically confine her after the midpoint crash.**
+- Remove the stale Chapter 8 choreography built around `Stay`, Shade lifting Elizabeth by the back of her coat, and physically depositing her in the car.
+- Shade instead takes charge verbally and moves toward the car with the certainty of someone who assumes the next step will be followed.
+- Elizabeth is dazed from the crash, still initially processing the strong Pathwell resemblance, and already registering bodily wrongness she cannot yet name.
+- **Elizabeth follows and gets into the car herself.** This is not a fully informed decision to accompany Shade; she does not yet consciously know he is a different person.
+- The transition is driven by the already-established combination of crash shock, resemblance, momentum, and Elizabeth's old habit of following whoever appears certain about what happens next.
+- This preserves the midpoint structure: deliberately causing the crash is a real awakening and agency beat, but one act of agency does not instantly erase a lifetime of passive habits.
+- Shade remains morally imperfect because he knowingly uses that compliance and leads Elizabeth away for his own truth/witness/leverage purposes rather than stopping to clarify the situation for her.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Reconcile the Chapter 8 crash-to-diner physical choreography itself with the already-locked transition. The earlier audit lock says Elizabeth senses wrongness almost immediately but is carried forward by crash shock, Pathwell's strong physical resemblance, and her established habit of following the person who appears certain about what happens next. Current Chapter 8 instead has Shade say `Stay`, lift Elizabeth by the back of her coat, walk her across the road, put her in the car, and drive away. If that force remains unchanged, the transition becomes primarily a kidnapping rather than a relapse into Elizabeth's old passivity under uncertainty.
-
-Preferred audit direction: remove the overt physical forcing while preserving Shade's morally questionable decision to lead her away and use her as witness/leverage. Elizabeth should get into the car through shock, resemblance, momentum, and habit rather than because Shade physically deposits her there.
+Reconcile the close narration before Elizabeth consciously recognizes Shade at the diner. Current Chapter 8/9 text names the Pathwell-looking man `Shade` in narration before Elizabeth has earned that recognition, including the Chapter 9 opening `Shade drove...`. Earlier locks require the diner recognition to belong to Elizabeth: accumulated wrongness builds until he casually refers to Pathwell as a separate person and the truth clicks. Decide whether the narration should withhold the name until that moment so the reader remains inside Elizabeth's uncertainty rather than receiving an objective answer first.
