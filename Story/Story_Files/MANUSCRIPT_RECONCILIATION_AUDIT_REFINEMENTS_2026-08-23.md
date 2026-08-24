@@ -286,6 +286,20 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 23. Museum overreach: Pathwell overrides Elizabeth's choice and causes the injury — LOCKED
+
+- **Elizabeth has already chosen Camp for herself and begins moving toward the graffiti-wall anchor.** Her movement is an intentional continuation of the decision she made in Chapter 10, not an attempt by Shade to carry her away.
+- **Shade makes a small, open-handed, nonthreatening movement near/toward Elizabeth.** Preserve the existing gesture's restraint; Shade is not attacking her and is not forcing her through the threshold.
+- Pathwell nevertheless reads the situation as one he must control. Despite Elizabeth's explicit `I don't need to be rescued`, he substitutes his judgment for hers and reaches for a broad protection/restraint working intended to separate, contain, or control the situation.
+- The working is too broad for the charged environment. It catches multiple incompatible emotionally charged sources in the museum — especially the dense graffiti-wall material and other charged records/art — and Pathwell loses clean control of the mixture.
+- **The resulting overload/backlash physically hurls Elizabeth into the display case and injures her while also knocking Pathwell down.** Her injury is therefore not random combat collateral and not caused by Shade attacking her.
+- The causal irony is deliberate: Pathwell tries to protect Elizabeth from a choice she has already made for herself, and his refusal to respect that choice becomes the immediate thing that harms her.
+- This directly foreshadows the climax. At the museum Pathwell still believes protective intent gives him authority to override another person's judgment; at the archive he will repeat the same underlying error after Shade explicitly refuses reintegration.
+- Preserve strong existing Chapter 11 material where compatible: `I don't need to be rescued`, Shade's careful/open-handed step, Pathwell reaching into his coat despite telling himself not to, the room-wide overload, and Elizabeth striking the display case.
+- No manuscript chapter has been edited; this is a reconciliation lock only.
+
+---
+
 ## Next refinement question
 
-Decide what specifically makes Pathwell overreach and trigger the museum backlash that injures Elizabeth. The current Chapter 11 already contains strong usable material — Elizabeth says she does not need rescue, Shade makes a careful open-handed movement, Pathwell reaches into his coat, and an overbroad ward catches too many charged sources — but the trigger must be reconciled so Pathwell's intervention directly collides with Elizabeth's newly locked choice rather than making the injury feel like generic fight collateral.
+Decide how severe Elizabeth's museum injury should be. It must be serious enough that Pathwell's overreach has a real bodily cost and that going to Camp for treatment makes sense, but not so incapacitating that Elizabeth becomes a passive body through the archive climax or cannot later make the child-over-diary choice.
