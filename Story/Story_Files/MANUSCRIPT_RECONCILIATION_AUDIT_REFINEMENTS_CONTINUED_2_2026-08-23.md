@@ -127,6 +127,18 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Shade admits absorption uncertainty but treats loss of independent self as death — LOCKED D
+
+- The current Chapter 12 line **`It kills me.`** is mechanically too certain if read as a technical claim.
+- **Shade does not know what reintegration/absorption would mechanically leave behind, and neither does Pathwell.** Shade may cease, merge, remain conscious in some form, or produce another irreversible result; none of that is known in advance.
+- Shade nevertheless treats forced reintegration as the death of **Shade as an independent person**. Whatever survives would no longer be the separate self standing there choosing and refusing.
+- Preserve both parts at once: technical uncertainty and existential certainty.
+- Dialogue can be in the spirit of **`I don't know what comes out the other side. Neither does he. But whatever it is, it isn't me.`** Exact wording is not yet a manuscript lock.
+- This gives Shade a coherent basis for refusal without granting him unjustified knowledge of the mechanics.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Reconcile Shade's current Chapter 12 statement `It kills me` with the locked absorption canon. The Bible establishes that Pathwell does not know whether reintegration would leave Shade conscious, erase him, merge him into something new, or produce another irreversible result. Shade should not possess unjustified mechanical certainty unless the line is explicitly existential rather than technical.
+Reconcile Shade's current Chapter 12 line `you're not what he described` / `Something he was holding onto.` Shade cannot have received a post-creation Pathwell memory describing Elizabeth, and no existing scene establishes Pathwell literally describing her to Shade. Chapter 11 does, however, give Shade direct evidence for the **holding/ownership inference**: Pathwell says `you took her from me`, and Shade answers `She wasn't yours to take from.` Prefer that existing observed behavior over inventing an unseen conversation or new memory channel.
