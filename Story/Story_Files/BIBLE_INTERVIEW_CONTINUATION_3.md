@@ -2,26 +2,26 @@
 
 Status: **AUDIT REFINEMENT ONLY — NO MANUSCRIPT CHAPTERS EDITED**
 
-Read `BIBLE_INTERVIEW_CONTINUATION_2.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2_2026-08-23.md`. The latter contains the newest lock.
+Read `BIBLE_INTERVIEW_CONTINUATION_2.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2_2026-08-23.md`. The latter contains the newest locks.
 
-## Latest lock
+## Latest locks
 
-- **Final confrontation geography:** Pathwell goes into the Camp archive first, legitimately buys Elizabeth's donated diary with a clean prune, and exits physically carrying it. The prune causes Shade's established pain/jolt and sharply intensifies the draw. Shade is therefore pulled from the tree-line area toward Pathwell, bringing the final confrontation naturally to the open area immediately outside the archive wagon. Elizabeth joins because she has already chosen to be present when Pathwell decides.
-- The absorption failure/recoil is therefore close enough to physically ignite the archive without a contrived long-distance transfer.
-- The stale version where Elizabeth pulls the diary from her own bag during the fire is invalid. The diary must become physically separated from Pathwell during or immediately before the failed absorption so that Elizabeth can later choose between recovering it and rescuing the child.
+- **Final confrontation geography:** Pathwell goes into the Camp archive first, legitimately buys Elizabeth's donated diary with a clean prune, and exits carrying it. The prune causes Shade's pain/jolt and sharply intensifies the draw, pulling Shade from the tree-line area toward Pathwell. The confrontation therefore occurs immediately outside the archive wagon.
+- **Diary handling:** Pathwell offers the bought-back diary to Elizabeth. She refuses it because she already chose to give it away, in the spirit of `I gave that away.` Pathwell then sets the diary on the archive step/threshold or adjacent surface to free his hands for the absorption working. His later violent recoil knocks/blows the diary into or across the archive entrance as the archive ignites. This makes it physically recoverable during the fire without returning it to Elizabeth's possession.
+- The stale Chapter 12b beat where Elizabeth pulls the diary from her own bag is invalid.
 
 ## Exact resume point
 
 Ask exactly one question:
 
-> **What does Pathwell physically do with the bought-back diary immediately before he attempts to absorb/reintegrate Shade?**
+> **How does the already-established child become the immediate competing rescue when the archive catches fire?**
 >
-> **A. Pathwell offers the diary back to Elizabeth first; she refuses to take it.** She can answer with the already-supported fact, in the spirit of `I gave that away.` Pathwell is left holding the object he spent his own future to recover despite her surrender. When he turns to the absorption working, he needs his hands free and sets the diary on the archive step/threshold or a nearby archive surface by the open door. The violent recoil then knocks/blows it back into or across the archive entrance as the archive ignites. During the fire it is visibly recoverable, but Elizabeth chooses the child instead.
+> **A. The child is already at the archive on one of the errands Chapter 12 has planted.** The child has been awake before dawn carrying small messages/items between wagons. During the Pathwell/Shade confrontation, they arrive at or just beside the archive on another ordinary Camp errand. The recoil knocks them down/stuns or traps them near the newly burning entrance. Elizabeth can reach either the diary just inside/at the entrance or the child in immediate physical danger, but not both before the fire worsens.
 >
-> **B. Pathwell keeps the diary tucked inside his coat throughout the confrontation.** The violent recoil tears/throws it free and into the archive entrance. This is mechanically possible but depends more heavily on the blast conveniently ejecting one particular object in the needed direction.
+> **B. The child runs toward the fire after ignition.** This preserves part of the current Chapter 12b blocking but requires the child to make an oddly dangerous choice at exactly the needed moment.
 >
-> **C. Pathwell never offers it to Elizabeth; he simply sets it down beside the archive because he needs both hands for the working.** This is clean physical staging but misses the existing object-history conflict between Elizabeth's voluntary surrender and Pathwell's belief that buying it back is a gift/fix.
+> **C. The child is inside the archive before the confrontation.** This makes the danger very clear, but it needs an additional reason a child is inside the archive at dawn during a tense confrontation and risks making the adults negligent.
 >
-> **D. Elizabeth temporarily accepts the diary, then loses/drops it when the archive ignites.** This solves possession but weakens the already-locked meaning that she surrendered the diary and makes the later child-over-diary choice less clean.
-
-Audit lean: **A**. It uses Pathwell's existing control/fix instinct, Elizabeth's already-established surrender, and ordinary physical staging. The diary reaches the fire because Pathwell sets it down to perform the next act of control and his own recoil throws it into danger; no new magic is needed.
+> **D. The magical recoil specifically targets/throws the child.** This would invent a new targeting behavior for the failed working and is unnecessary.
+>
+> Audit lean: **A**. The child running errands before dawn is already in Chapter 12, so the climax can pay off that plant. The danger then comes from Pathwell's recoil changing an ordinary task into an emergency, not from the child behaving irrationally or from a new magical rule.
