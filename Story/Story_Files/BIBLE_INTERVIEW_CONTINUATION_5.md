@@ -2,27 +2,28 @@
 
 Status: **AUDIT REFINEMENT ONLY — NO MANUSCRIPT CHAPTERS EDITED**
 
-Read `BIBLE_INTERVIEW_CONTINUATION_4.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_4_2026-08-24.md`. The latter contains the newest lock.
+Read `BIBLE_INTERVIEW_CONTINUATION_4.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_4_2026-08-24.md`. The latter contains the newest locks.
 
-## Latest lock
+## Latest locks
 
 - **Chapter 10 draw explanation:** Pathwell explicitly names Shade's draw during the Ask. Elizabeth has already witnessed Shade resist an unexplained pull at the diner, but she does not know its mechanics until Pathwell tells her. Pathwell explains that Shade was left with a deterministic pull/orientation back toward him, that he did not intend it, and that he cannot simply switch it off. The draw remains compulsion rather than information: it does not transmit thoughts, current memories, plans, or exact location data. This makes Elizabeth's `And now he has to come back to you` understanding earned rather than omniscient.
+- **Shade diner-information limit:** Shade is restricted to observation and inference. He receives no post-creation Pathwell memories, telepathy, private Elizabeth facts, or information through the draw. Unsupported claims such as `Boxes packed. You never went back. You loved every minute of it` must be removed or reframed around things Shade has actually seen. `Collectible` may remain only as Shade's own interpretation of Pathwell's behavior. The exact breakfast preference is not justified and remains the next reconciliation target.
 - No manuscript chapters have been edited.
 
 ## Exact resume point
 
 Ask exactly one question:
 
-> **How much apparently private knowledge should Shade retain in the Chapter 9 diner scene?**
+> **What should happen to the exact breakfast-order beat in the Chapter 9 diner?**
 >
-> Current Chapter 9 has Shade say `Boxes packed. You never went back. You loved every minute of it`, serves Elizabeth an uncannily exact breakfast order and calls it `a lucky guess`, and says Pathwell thinks of her as a `collectible` / keeps people who interest him. Under the locked information rules, Shade has only creation-time Pathwell fragments, his own observations/inferences, and the draw; he has no post-creation Pathwell memories or telepathy.
+> Current manuscript has Shade order Elizabeth's exact preferred breakfast before she reaches the booth — cheesy grits, half-burnt bacon, sunny-side eggs, black coffee with creamers — and then call it `a lucky guess.` Under the locked information rules, Shade has no legitimate way to know those preferences.
 >
-> **A. Restrict Shade to observation and inference throughout.** Keep insights he can plausibly derive from what he has seen of Elizabeth and Pathwell, but remove or rewrite exact private facts such as the precise breakfast order and any biographical claim he could not have observed. `Collectible` can remain clearly as Shade's interpretation of Pathwell's behavior, not secret knowledge.
+> **A. Elizabeth orders for herself after sitting down.** The waitress takes her order normally. Shade's unnerving quality comes from what he accurately observes and says, not from unexplained private knowledge. This is mechanically clean and requires no new lore.
 >
-> **B. Let Shade retain one or two uncanny lucky guesses, including the breakfast, but remove unsupported biographical certainty.** This preserves a little wrongness around him without creating an information channel.
+> **B. Shade orders a generic diner breakfast for her before she arrives.** It is not her exact preference; she can eat it anyway. This preserves his presumptuousness but removes the impossible knowledge.
 >
-> **C. Treat the private details as creation-time Pathwell fragments.** This does not work for information Pathwell learned only after Shade was created and risks making the one-time-memory rule porous.
+> **C. Keep one genuine lucky coincidence.** Shade happens to order something close to what she likes, but the prose makes clear it is coincidence rather than a magical information channel. This keeps some uncanniness but risks inviting readers to suspect hidden mechanics.
 >
-> **D. Let the draw transmit emotional/personal information about people around Pathwell.** This would materially change the draw from compulsion into an information channel and conflict with the current locks.
+> **D. Explain the exact order through a new source of information.** This would add lore mainly to rescue the existing beat and conflicts with existing-story-first.
 >
-> Audit lean: **A**. Shade can be perceptive and unnerving without knowing things he has no route to know. The diner becomes stronger if Elizabeth is disturbed by how accurately he reads behavior rather than by unexplained quasi-telepathy.
+> Audit lean: **A**. The scene does not need supernatural breakfast knowledge; Shade's perceptiveness and the wrongness of Pathwell's face are already enough.
