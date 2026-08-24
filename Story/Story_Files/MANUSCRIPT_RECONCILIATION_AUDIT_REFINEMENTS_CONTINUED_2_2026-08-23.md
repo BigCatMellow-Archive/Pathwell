@@ -61,8 +61,8 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 ## Climax choice correction — LOCKED
 
 - **Withdraw the earlier framing that Elizabeth must be physically unable to retrieve the diary before rescuing the child.**
-- Elizabeth's climax must contain a genuine visible choice: the diary and/or cookbook are still physically recoverable as she moves toward the endangered child.
-- **Elizabeth runs past the family object(s) rather than stopping for them.** She continues toward the child and loses the objects because she chose the living person.
+- Elizabeth's climax must contain a genuine visible choice: the diary and cookbook are still physically recoverable as she moves toward the endangered child.
+- **Elizabeth runs past the family objects rather than stopping for them.** She continues toward the child and loses the objects because she chose the living person.
 - The physical staging should make the choice legible in motion, not merely explain afterward that she lacked enough time.
 - Intended thematic chain: cookbook surrendered to help a stranger → diary surrendered to stop carrying private proof → Pathwell tries to undo the diary surrender → archive fire places the irreplaceable family objects within reach again → Elizabeth still continues past them toward the child.
 - The loss is therefore a consequence of Elizabeth choosing forward, not of magic removing the choice from her.
@@ -71,6 +71,22 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Elizabeth runs past both books inside the burning archive — LOCKED
+
+- **The child is just inside the archive on an ordinary runner errand when Pathwell's malformed absorption recoil hits.**
+- This is a direct continuation of the child's already-established archive-runner role, not a new reason invented for the climax.
+- The recoil/fire leaves the bought-back diary displaced into or near the archive entrance.
+- The cookbook, already stored in the archive, is on a front reserve shelf or has been knocked into the front aisle by the same ordinary physical disruption.
+- **The child is farther inside than both books.** Elizabeth therefore has to move past the diary and cookbook to reach the child.
+- Elizabeth enters the burning archive and physically passes the diary first and then the cookbook within reach.
+- **She does not stop for either one.** The objects are still saveable when she passes them; the choice is real.
+- Elizabeth's sling, pain, and restricted arm remain active physical constraints. Once she reaches the child, getting the child back out occupies her body and attention.
+- By the time Elizabeth and the child clear the archive, the escalating fire has taken the diary and cookbook.
+- This replaces the stale Chapter 12b choreography in which the child begins outside, Elizabeth magically uses the diary, and the child then runs toward the archive.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Determine the exact physical line of motion that lets Elizabeth visibly pass the diary and cookbook on her way to the child. Prefer ordinary archive-runner geography and the already-established archive fire/recoil over scattering objects conveniently across Camp.
+Determine how explicitly the prose should show Elizabeth recognizing the diary and cookbook as she runs past them. Preserve the existing character handling that Elizabeth's body often reacts before she narrates or explains what she feels; avoid turning the moment into an internal thematic speech.
