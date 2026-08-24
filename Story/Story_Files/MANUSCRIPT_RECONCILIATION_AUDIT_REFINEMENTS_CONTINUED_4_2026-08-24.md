@@ -25,14 +25,24 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_3_202
 - **Shade is perceptive, not omniscient.** In Chapter 9 he may make sharp judgments from what he has personally seen, what Elizabeth says or does in front of him, and what Pathwell's behavior reveals.
 - Shade does **not** receive post-creation Pathwell memories, telepathy, private biographical facts through the draw, or unexplained access to Elizabeth's preferences.
 - Remove or reframe exact private claims for which Shade has no legitimate source, including the current certainty around `Boxes packed. You never went back. You loved every minute of it.`
-- Preserve the useful underlying character pressure by grounding it in present observation. For example, Shade can point out that Elizabeth has had opportunities to leave since the crash and nevertheless sits down at the diner, without claiming knowledge of her private history.
+- Preserve the useful underlying character pressure by grounding it in present observation. For example, Shade can point out that Elizabeth has opportunities to leave or disengage once those opportunities genuinely exist, without claiming knowledge of her private history.
 - The `collectible` idea may remain only as **Shade's interpretation of Pathwell's observed behavior**, not as secret knowledge of Pathwell's internal thoughts. This is consistent with Shade later inferring that Pathwell acts as though Elizabeth is something he can hold onto.
-- The current exact breakfast order is not justified by Shade's information channels and requires separate reconciliation.
 - The draw remains direction/compulsion only and supplies none of these facts.
+- No manuscript chapter has been edited.
+
+---
+
+## Elizabeth orders her own breakfast at the diner — LOCKED A
+
+- **Elizabeth orders her own breakfast after she sits down.** Shade does not order her exact preferred meal in advance.
+- Remove the stale setup where the waitress says `Order'll be out in a minute` before Elizabeth has ordered and later delivers an uncannily exact preferred breakfast followed by Shade's `Call it a lucky guess.`
+- The diner interaction becomes ordinary: the waitress takes Elizabeth's order, and Elizabeth chooses what she wants to eat and drink.
+- Shade therefore gains no unexplained knowledge of Elizabeth's food preferences, habits, or private history.
+- His unsettling quality should come from the wrongness of Pathwell's face, his observed behavior, his sharp inferences, and his moral pressure — not quasi-telepathic trivia.
 - No manuscript chapter has been edited.
 
 ---
 
 ## Next refinement question
 
-Resolve the exact breakfast-order beat in Chapter 9. Current manuscript has the waitress tell Elizabeth `Order'll be out in a minute` before Elizabeth orders, then delivers cheesy grits, half-burnt bacon, sunny-side eggs, black coffee and creamers — exactly how Elizabeth would have chosen them — while Shade calls it `a lucky guess.` Under the new lock, Shade cannot know this preference through memory, telepathy, or the draw. Prefer an ordinary diner interaction or a clearly non-exact order over preserving unsupported uncanny knowledge.
+Reconcile Shade's current diner line `You've had every chance to leave. You could walk over to that woman right now and tell her everything. You sat down instead.` Chapter 8 still establishes that Shade initially coerces Elizabeth physically: he tells her `Stay`, lifts her by the coat, puts her in the car, and drives away. The story also intentionally gives Shade an instrumental blind spot, so some pressure/manipulation in the diner can remain; the question is whether he should falsely rewrite the earlier coercion or limit his claim to the genuine choice Elizabeth has **now**.
