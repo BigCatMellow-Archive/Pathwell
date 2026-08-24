@@ -59,6 +59,7 @@ Important late locks:
 - **Shade's museum convergence:** Shade inherited old knowledge of the museum/Camp anchor in his creation-time Pathwell fragments. The continuing Pathwell draw then confirms that Pathwell is moving toward the same convergence point. Shade reaches the museum first and waits. This uses no present-day Pathwell memory feed, telepathy, new tracking power, or coincidence.
 - **Elizabeth's museum choice:** she does not choose Pathwell or Shade. She rejects both men's attempts to define her role and chooses Camp for herself. Going through the graffiti-wall anchor is her own physical follow-through on Chapter 10's `Camp`, regardless of which man follows, approves, or claims to be protecting her.
 - **Museum overreach:** Elizabeth begins moving toward the Camp anchor on her own choice while Shade makes only a small open-handed/nonthreatening movement near her. Pathwell overrides her judgment anyway, throws a broad protection/restraint working across the charged gallery, overloads incompatible charged sources, and causes the backlash that hurls Elizabeth into the display case. His attempt to protect her from her own choice becomes the thing that harms her.
+- **Elizabeth's museum injury:** serious but stable. Significant shoulder/upper-arm trauma plus cuts/bruising clearly requires treatment and remains painful/limiting through the climax, but Elizabeth stays conscious, mobile, and capable of physically making the child-over-diary choice.
 - **Bar sequence revised:** the mirror makes Pathwell begin to understand the mystery points back to himself; he bolts from the bar, a blob attacks/engulfs him through the Pathwell/Shade overlap, and Elizabeth cuts Pathwell free with Stansbury's imbued toy dagger. The older `Elizabeth cuts herself free` version is stale.
 - **Bar blob aftermath:** Stansbury burns/destroys the freed blob manifestation with a heat/fire-based imbued attack. Destroying that body ends the immediate threat but does not eradicate the cleanup ecology or automatically resolve the underlying waste condition; another blob can later appear if cleanup is still required.
 - **Post-bar information split:** Pathwell tells Stansbury privately that the evidence now points back to Pathwell, but excludes Elizabeth. The later diner truth is therefore still a genuine revelation to her.
@@ -106,6 +107,7 @@ Important late locks:
 - **Shade → museum convergence:** Shade knows the anchor from creation-time Pathwell fragments. The present draw toward Pathwell confirms the route is becoming the meeting point, allowing Shade to arrive first and wait without violating his information limits.
 - **Elizabeth's museum choice:** she rejects both men's claims on her and chooses Camp for herself. Her movement through the anchor is not a return to Pathwell or an allegiance to Shade; it is the physical continuation of the direction she chose before either man gets to define it for her.
 - **Museum overreach:** Elizabeth begins toward the Camp anchor; Shade makes only a restrained/open-handed movement near her; Pathwell decides she needs protection anyway and casts a broad protection/restraint working. In the museum's dense charged environment the working grabs incompatible sources, overloads, and injures Elizabeth. The harm is caused by Pathwell overriding her choice, not by Shade attacking her.
+- **Museum injury severity:** serious but stable. Elizabeth has significant shoulder/upper-arm trauma plus cuts/bruising, needs Camp treatment, and remains visibly limited/in pain, but stays conscious and mobile and retains physical agency through the climax. Do not turn it into magical contamination or a near-death state.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -140,14 +142,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **How severe is Elizabeth's museum injury?**
+> **How is Elizabeth's serious-but-stable museum injury treated when she reaches Camp?**
 >
-> **A. Painful but minor.** Bruising/cuts and a badly jarred shoulder; she can continue almost normally. This preserves momentum but undersells the bodily cost of Pathwell's overreach.
+> **A. Ordinary treatment only.** Camp's healer sets/splints the shoulder or arm, cleans the cuts, gives pain relief, and puts her in a sling. No emotional-text magic is used. This keeps the consequence maximally physical but underuses the established Camp healing practice.
 >
-> **B. Serious but stable.** A significant physical injury — for example a dislocated or fractured shoulder/upper arm plus cuts/bruising — that clearly needs treatment at Camp and continues to hurt/limit her, but she remains conscious, mobile, and later capable of making and physically carrying out the child-over-diary choice.
+> **B. Camp healer uses careful mundane treatment plus limited emotional-text magic.** A Camp healer — not Shade — sets/supports the injury and uses an appropriately matched charged record to stabilize pain, swelling, or healing. The treatment helps but does **not** reset Elizabeth to normal; she keeps the sling, pain, and movement limitation into the archive fire.
 >
-> **C. Critical / near death.** She is unconscious or medically unstable and must be carried to Camp. This raises immediate stakes but turns Elizabeth passive at exactly the point her arc is moving into `Choosing`, and creates pressure to explain why Camp cannot simply solve the climax through healing.
+> **C. Preserve Shade as the healer.** Shade uses inherited Pathwell knowledge and charged text to set/heal the shoulder almost as in current Chapter 12. This gives Shade a competence beat but risks exceeding his established information/skill limits and makes the injury disappear too quickly.
 >
-> **D. Primarily magical contamination.** The museum overload leaves dangerous magical energy in her that Camp must drain or remove. This supplies urgency but adds a new personal-magic mechanic the story does not otherwise need.
+> **D. Elizabeth refuses magical treatment.** Camp offers emotional-text healing, but she accepts only ordinary care. This strongly protects the physical consequence but risks turning treatment into another agency speech the story may not need.
 
-Audit lean: **B**. It gives Pathwell's mistake a lasting physical cost without taking Elizabeth out of her own climax.
+Audit lean: **B**. It uses an already-established Camp capability, removes Shade's abrupt healer competence, and preserves the injury as a real cost through the climax.
