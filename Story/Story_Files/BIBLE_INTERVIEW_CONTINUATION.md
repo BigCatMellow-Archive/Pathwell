@@ -60,6 +60,7 @@ Important late locks:
 - **Elizabeth's museum choice:** she does not choose Pathwell or Shade. She rejects both men's attempts to define her role and chooses Camp for herself. Going through the graffiti-wall anchor is her own physical follow-through on Chapter 10's `Camp`, regardless of which man follows, approves, or claims to be protecting her.
 - **Museum overreach:** Elizabeth begins moving toward the Camp anchor on her own choice while Shade makes only a small open-handed/nonthreatening movement near her. Pathwell overrides her judgment anyway, throws a broad protection/restraint working across the charged gallery, overloads incompatible charged sources, and causes the backlash that hurls Elizabeth into the display case. His attempt to protect her from her own choice becomes the thing that harms her.
 - **Elizabeth's museum injury:** serious but stable. Significant shoulder/upper-arm trauma plus cuts/bruising clearly requires treatment and remains painful/limiting through the climax, but Elizabeth stays conscious, mobile, and capable of physically making the child-over-diary choice.
+- **Camp treatment:** an established Camp healer, not Shade, uses ordinary physical care plus a carefully matched emotional-text working to stabilize pain/swelling/healing. The treatment helps but does not reset Elizabeth; she remains in a sling/support and physically limited through the archive climax.
 - **Bar sequence revised:** the mirror makes Pathwell begin to understand the mystery points back to himself; he bolts from the bar, a blob attacks/engulfs him through the Pathwell/Shade overlap, and Elizabeth cuts Pathwell free with Stansbury's imbued toy dagger. The older `Elizabeth cuts herself free` version is stale.
 - **Bar blob aftermath:** Stansbury burns/destroys the freed blob manifestation with a heat/fire-based imbued attack. Destroying that body ends the immediate threat but does not eradicate the cleanup ecology or automatically resolve the underlying waste condition; another blob can later appear if cleanup is still required.
 - **Post-bar information split:** Pathwell tells Stansbury privately that the evidence now points back to Pathwell, but excludes Elizabeth. The later diner truth is therefore still a genuine revelation to her.
@@ -108,6 +109,7 @@ Important late locks:
 - **Elizabeth's museum choice:** she rejects both men's claims on her and chooses Camp for herself. Her movement through the anchor is not a return to Pathwell or an allegiance to Shade; it is the physical continuation of the direction she chose before either man gets to define it for her.
 - **Museum overreach:** Elizabeth begins toward the Camp anchor; Shade makes only a restrained/open-handed movement near her; Pathwell decides she needs protection anyway and casts a broad protection/restraint working. In the museum's dense charged environment the working grabs incompatible sources, overloads, and injures Elizabeth. The harm is caused by Pathwell overriding her choice, not by Shade attacking her.
 - **Museum injury severity:** serious but stable. Elizabeth has significant shoulder/upper-arm trauma plus cuts/bruising, needs Camp treatment, and remains visibly limited/in pain, but stays conscious and mobile and retains physical agency through the climax. Do not turn it into magical contamination or a near-death state.
+- **Camp injury treatment:** an established Camp healer performs ordinary assessment/setting/support/cleaning plus limited emotional-text healing from an appropriately matched charged record. Shade does not become the healer. Treatment stabilizes rather than erases the injury; Elizabeth remains in a sling/support and physically limited through the archive fire.
 
 Full refinement notes live in:
 `Story/Story_Files/MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`
@@ -142,14 +144,14 @@ Do not edit chapter files yet. Walk through subjective or potentially consequent
 
 Ask exactly one question:
 
-> **How is Elizabeth's serious-but-stable museum injury treated when she reaches Camp?**
+> **What motivates and triggers Elizabeth's already-locked decision to donate her diary to the Camp archive?**
 >
-> **A. Ordinary treatment only.** Camp's healer sets/splints the shoulder or arm, cleans the cuts, gives pain relief, and puts her in a sling. No emotional-text magic is used. This keeps the consequence maximally physical but underuses the established Camp healing practice.
+> **A. Payment for her treatment.** The archive/healer accepts the diary in exchange for care. This gives immediate causality but undermines the existing lock that the donation is voluntary rather than transactional.
 >
-> **B. Camp healer uses careful mundane treatment plus limited emotional-text magic.** A Camp healer — not Shade — sets/supports the injury and uses an appropriately matched charged record to stabilize pain, swelling, or healing. The treatment helps but does **not** reset Elizabeth to normal; she keeps the sling, pain, and movement limitation into the archive fire.
+> **B. Mama Baga suggests she leave it with the archive.** Elizabeth agrees because she is tired of carrying it. This is plausible but gives another character too much authorship over the choice.
 >
-> **C. Preserve Shade as the healer.** Shade uses inherited Pathwell knowledge and charged text to set/heal the shoulder almost as in current Chapter 12. This gives Shade a competence beat but risks exceeding his established information/skill limits and makes the injury disappear too quickly.
+> **C. Elizabeth makes the connection herself between the museum graffiti wall and her diary.** The soldiers' names were proof that ordinary people existed; Elizabeth has used the diary similarly as private proof that her invisible life happened and mattered. After the museum and the Ask, she realizes she no longer needs to keep that proof physically against her body. She voluntarily gives the intact diary to the archive to be preserved as a real human record, without payment or magical effect.
 >
-> **D. Elizabeth refuses magical treatment.** Camp offers emotional-text healing, but she accepts only ordinary care. This strongly protects the physical consequence but risks turning treatment into another agency speech the story may not need.
+> **D. Tactical safekeeping.** Elizabeth gives the diary to the archive because she expects danger from Pathwell/Shade and wants it protected. This makes the donation practical but weakens its function as an agency/surrender beat.
 
-Audit lean: **B**. It uses an already-established Camp capability, removes Shade's abrupt healer competence, and preserves the injury as a real cost through the climax.
+Audit lean: **C**. It lets the newly locked museum material cause the diary decision without making the diary itself magical or turning the donation into a bargain. It also distinguishes the diary from the cookbook: the cookbook was surrendered to meet another person's immediate need; the diary is surrendered because Elizabeth no longer needs an object to prove that her own life mattered.
