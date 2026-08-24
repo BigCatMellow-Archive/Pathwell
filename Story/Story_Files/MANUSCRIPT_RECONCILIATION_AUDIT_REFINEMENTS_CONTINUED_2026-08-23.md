@@ -42,6 +42,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`.
 
 ---
 
+## Draw intensifies physically as Pathwell approaches Camp — LOCKED
+
+- **Preserve the existing involuntary right-hand-opening tell and let the draw become progressively harder for Shade to resist as Pathwell approaches.**
+- During/around Elizabeth's treatment, Shade's right hand can open toward the direction of Pathwell's approach even though Shade has no exact information about Pathwell's distance, thoughts, timing, or plan.
+- As Pathwell gets closer, the compulsion becomes more bodily: Shade may repeatedly orient his shoulders/head toward that direction, drift toward the edge of Camp, or begin an involuntary step before catching himself.
+- **Shade can resist and delay the movement, but resistance requires visible effort.** This preserves the draw as deterministic pressure while leaving room for Shade's own choices inside that pressure.
+- The draw is not radar. It does not provide a map, countdown, exact distance, or current information from Pathwell. Its content remains brutally simple: **Pathwell is that way. Go.**
+- Preserve compatible existing Chapter 12/12b imagery: the empty/open hand `as if answering a call no one had made`, the later hand opening directly toward Pathwell when he arrives, and Shade deliberately closing it into a fist.
+- The stronger physical draw should reinforce Shade's core problem: he cannot always tell where his own desire ends and the compulsion begins.
+- No manuscript chapter has been edited; this is a reconciliation lock only.
+
+---
+
 ## Next refinement question
 
-Decide how strongly the already-established draw manifests at Camp as Pathwell approaches. Preserve existing material where possible, especially Chapter 12's involuntary right-hand opening toward the door, but reconcile it out of the stale Shade-as-healer beat.
+Decide what happens to Shade's draw when Pathwell performs the already-locked clean prune to buy Elizabeth's diary back shortly before the final confrontation. Existing canon already says Shade feels Pathwell's pruning as a jolt; the question is whether that jolt and the draw remain separate sensations or combine into a stronger physical compulsion.
