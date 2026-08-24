@@ -152,6 +152,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Shade opens the museum Camp route; Elizabeth only chooses to cross — LOCKED B
+
+- **Elizabeth cannot perform magic.** Preserve this as a hard character/world rule throughout the manuscript.
+- The stale Chapter 11 choreography in which Shade hands Elizabeth a folded sheet, Elizabeth presses it to the graffiti wall, and the wall opens because `the paper told it to` is invalid if that physical act makes Elizabeth the magical activator.
+- **Shade is the person who uses the folded sheet / anchor knowledge and actually opens or directs the museum graffiti-wall route to Camp.**
+- Elizabeth's agency does not require her to perform the magic. Her agency is that Camp is the destination she has chosen for herself and she chooses whether to step through the route Shade opens.
+- Shade therefore provides magical access, not the decision about what Elizabeth wants.
+- Do not give Elizabeth solo threshold expertise, emotional-text activation, spell shaping, or any other magical competence in order to make the scene feel active.
+- This remains compatible with the locked rule that non-practitioners may use a valid threshold when its conditions are satisfied; using an opened route is not the same as magically opening it.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Resolve who initiates the museum graffiti-wall crossing after Elizabeth chooses Camp. Existing material already has Shade provide a folded sheet and Elizabeth physically press it to the wall, while Chapter 10 already ends with Elizabeth herself saying `Camp.` The reconciliation should preserve Elizabeth's choice as hers without inventing solo threshold expertise she has never been shown to possess.
+Clarify how Elizabeth's Camp choice is made explicit at the museum before Shade opens the route. Current Chapter 11 has Shade say `Camp Cunnan` and then facilitate the crossing, which risks making the destination feel like his suggestion, while the locked arc requires Elizabeth to choose Camp for herself. Chapter 10 already establishes that `Camp` is a destination Elizabeth can deliberately name.
