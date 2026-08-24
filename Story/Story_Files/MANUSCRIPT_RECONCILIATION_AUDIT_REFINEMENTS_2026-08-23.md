@@ -313,6 +313,19 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 25. Camp healer treats Elizabeth with ordinary care + limited emotional-text magic — LOCKED
+
+- **Elizabeth's injury is treated by an established Camp healer, not by Shade.** Remove the stale Chapter 12 beat in which Shade abruptly demonstrates healer competence and personally performs the magical repair.
+- The healer first uses ordinary physical care appropriate to the injury: assessing and setting/supporting the shoulder or upper arm as needed, cleaning cuts, controlling swelling/pain, and placing the arm in a sling or other support.
+- **A carefully matched charged record may then be consumed through emotional-text magic to assist the treatment** — for example by reducing pain, swelling, shock, or helping the injury stabilize cleanly.
+- The magical support works with the mundane treatment rather than replacing anatomy, judgment, or recovery time. It is not an instant reset.
+- **Elizabeth remains visibly injured afterward.** She keeps the sling/support, has restricted movement and pain, and later movement during the archive fire costs her physically.
+- This uses Camp Cunnan's already-established healing practice without granting Shade a new specialty or implying that a single charged page can erase every physical consequence.
+- Elizabeth remains nonmagical. She is the recipient of treatment; she does not shape or activate the working.
+- No manuscript chapter has been edited; this is a reconciliation lock only.
+
+---
+
 ## Next refinement question
 
-Decide how Elizabeth's serious-but-stable injury is treated when she reaches Camp. Current Chapter 12 gives Shade sudden healer competence and nearly resets the shoulder; that should be checked against Shade's information/skill limits and the need for the injury to remain consequential through the archive climax.
+Decide what motivates and triggers Elizabeth's already-locked decision to donate her diary to the Camp archive. The donation should remain voluntary and nonmagical, should not become payment for her medical care, and should complete rather than repeat the earlier cookbook surrender.
