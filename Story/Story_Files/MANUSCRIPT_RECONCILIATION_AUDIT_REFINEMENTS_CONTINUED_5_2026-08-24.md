@@ -32,6 +32,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_4_202
 
 ---
 
+## Close narration withholds `Shade` until Elizabeth recognizes him — LOCKED A
+
+- **Before Elizabeth consciously realizes that the Pathwell-looking man is not Pathwell, the close narration does not objectively name him `Shade`.**
+- Remove stale pre-recognition narration such as the Chapter 9 opening **`Shade drove...`** because it gives the reader the answer before Elizabeth earns it.
+- Stay inside Elizabeth's uncertainty using close-POV references such as `the man`, pronouns, or `Pathwell` only where that wording honestly reflects her current assumption rather than omniscient narration.
+- The reader should accumulate the same wrongness Elizabeth does: posture, clothing, cadence, timing, gesture, and other small mismatches.
+- Shade must also not identify himself as `Mr. Shade` before the diner recognition; that older Chapter 8 reveal remains stale under the earlier lock.
+- Once he casually refers to Pathwell as a separate person and Elizabeth's recognition clicks, the narration may use **`Shade`** normally from that point forward.
+- The purpose is not artificial mystery for its own sake. It preserves the locked structure that the recognition belongs to Elizabeth and is earned through observation.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Reconcile the close narration before Elizabeth consciously recognizes Shade at the diner. Current Chapter 8/9 text names the Pathwell-looking man `Shade` in narration before Elizabeth has earned that recognition, including the Chapter 9 opening `Shade drove...`. Earlier locks require the diner recognition to belong to Elizabeth: accumulated wrongness builds until he casually refers to Pathwell as a separate person and the truth clicks. Decide whether the narration should withhold the name until that moment so the reader remains inside Elizabeth's uncertainty rather than receiving an objective answer first.
+Reconcile Chapter 9's repeated presentation of Shade as ancient or long-lived with the locked fact that Shade is recently created. Current prose includes imagery in the spirit of driving as though he has been doing it `since before cars existed`, a face carrying `old weather`, and Pathwell's face looking `worn` by years. Those descriptions read as literal lived age, not merely resemblance. Decide whether to remove the ancient-age cues entirely, reinterpret them as borrowed mannerisms/creation-time fragments, or deliberately make Shade feel subjectively older than his chronological existence without changing the fact that he is recent.
