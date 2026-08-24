@@ -300,6 +300,19 @@ This file records user-approved refinements to `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ---
 
+## 24. Elizabeth's museum injury is serious but stable — LOCKED
+
+- **The museum backlash gives Elizabeth a substantial physical injury, not a cosmetic bruise and not a near-fatal condition.**
+- The injury should plausibly involve significant shoulder/upper-arm trauma — for example a dislocation, fracture, or similarly limiting injury — together with cuts and bruising from the display-case impact.
+- She clearly needs treatment at Camp Cunnan. Pain, restricted movement, and the need for a sling/support should continue after the immediate scene rather than vanishing as soon as she crosses the threshold.
+- **Elizabeth remains conscious, mobile, and capable of making decisions.** She is hurt, not reduced to an unconscious or medically unstable body that other characters simply carry through the climax.
+- The injury must remain compatible with the later archive-fire choice: Elizabeth can physically act, move through danger, and rescue the child, but doing so costs her more because she is already injured.
+- Do not introduce magical contamination, a special supernatural wound, or a reason that Elizabeth uniquely requires magical cleansing. The injury is the physical consequence of Pathwell's overloaded working and impact with the display case.
+- Camp treatment may stabilize and support the injury, but should not erase it so completely that the museum consequence disappears before the climax.
+- No manuscript chapter has been edited; this is a reconciliation lock only.
+
+---
+
 ## Next refinement question
 
-Decide how severe Elizabeth's museum injury should be. It must be serious enough that Pathwell's overreach has a real bodily cost and that going to Camp for treatment makes sense, but not so incapacitating that Elizabeth becomes a passive body through the archive climax or cannot later make the child-over-diary choice.
+Decide how Elizabeth's serious-but-stable injury is treated when she reaches Camp. Current Chapter 12 gives Shade sudden healer competence and nearly resets the shoulder; that should be checked against Shade's information/skill limits and the need for the injury to remain consequential through the archive climax.
