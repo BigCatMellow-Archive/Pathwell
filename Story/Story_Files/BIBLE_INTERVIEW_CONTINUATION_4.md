@@ -10,24 +10,23 @@ Read `BIBLE_INTERVIEW_CONTINUATION_3.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_
 - **Museum boundary response:** after Elizabeth says `I don't need to be rescued`, Shade says nothing. Cut `She means it. She came in here on her own.` Elizabeth's stated choice does not need another character to validate or translate it for Pathwell.
 - **Important framing guardrail:** this is **not** a male/female theme. Do not frame Elizabeth's agency as independence from men, male authority, or a gendered rescue dynamic. The rule is character-wide: a person's choice does not require another character, of any gender, to certify it. Pathwell and Shade happen to be the people in the scene; gender is not the causal point.
 - **Museum crash accusation:** replace the stale factual `you took her from the road` accusation with the literal event: Shade left the crash with Elizabeth. Pathwell can say something in the spirit of `You left the crash with her.` Shade may acknowledge that fact. Preserve the later `you took her from me` because it exposes Pathwell's flawed possessive/control interpretation; preserve/adapt `She wasn't yours to take from.` The distinction is fact versus Pathwell's interpretation, not a gendered ownership theme.
+- **Shade-origin explanation:** replace `Some were mine... Some were Him` with plain causality. Someone asked Pathwell for help but did not ask him to prune. Pathwell independently chose pruning, paid with his own future possibility, the working malformed, and Shade emerged from the failure. Do not imply Pathwell pruned another person's future or a pre-existing set of Shade possibilities. The Ask should be plain because Elizabeth demanded facts rather than abstraction.
 - No manuscript chapters have been edited.
 
 ## Exact resume point
 
 Ask exactly one question:
 
-> **How should Pathwell's Chapter 10 explanation of Shade's creation be reconciled with the locked origin?**
+> **How should Elizabeth's Chapter 10 line `And now he has to come back to you` be reconciled with what she actually knows about the draw?**
 >
-> Current stale wording: `I cut away possibilities I didn't intend to use. Some were mine. Some should have been mine. Some were... Him.` This now sounds as though Pathwell literally pruned Shade's or another person's future possibilities.
+> The draw is a central defining condition of Shade and must remain important. Chapter 9 already gives Elizabeth a direct observation of it: Shade's attention shifts, his hand tightens around the cup, he says `No` to something that has `hooked itself behind his ribs and pulled`, and then returns to the conversation. But nobody has yet explained to Elizabeth that this pull is deterministic, that it points specifically toward Pathwell, or that it comes from Shade's creation.
 >
-> Locked origin: someone asked Pathwell for help but did not ask him to prune; Pathwell independently chose pruning as the quickest/cleanest solution; the payment/cost came from Pathwell's own future possibility; the working malformed and Shade emerged from that failure.
+> **A. Pathwell names the draw during the Chapter 10 Ask.** After explaining Shade's creation, Pathwell admits that Shade is left with a pull back toward him — a connection Pathwell did not intend and cannot simply switch off. Elizabeth can then understand what she witnessed at the diner and say some version of `And now he has to come back to you.` This makes her knowledge earned and keeps the draw central.
 >
-> **A. Replace the stale explanation with plain causality.** Something in the spirit of: `Someone asked me for help. I chose pruning. They didn't ask me to. I paid with my own future. It went wrong. He came out of it.` Exact dialogue remains for manuscript reconciliation. This is mechanically clean and keeps the moral error on Pathwell choosing the method.
+> **B. Elizabeth keeps the line, but as a cautious inference/question from what she saw at the diner.** Something like `That thing pulling at him — it brings him back to you?` Pathwell confirms it. This preserves Elizabeth doing more of the deduction without making her omniscient.
 >
-> **B. Keep the poetic `I cut away possibilities` language, but make explicit that every possibility being spent was Pathwell's.** Shade is then described as what the failed working produced, not as one of the possibilities Pathwell cut away.
+> **C. Keep the current declarative line without additional setup.** Elizabeth simply figures it out. This is efficient but gives her more mechanical certainty than the manuscript has earned.
 >
-> **C. Keep `Some were... Him` as metaphor rather than mechanics.** This preserves more current prose but risks readers reasonably treating the line as a world-rule statement.
+> **D. Cut the line and leave the draw unexplained until Camp.** This avoids an information problem but underplays one of Shade's defining conditions during the key Ask scene.
 >
-> **D. Make some of the payment actually come from the person Pathwell was helping or from a pre-existing Shade-future.** This contradicts the locked origin and changes Pathwell's responsibility structure.
->
-> Audit lean: **A**. The Ask scene works best when Pathwell finally gives Elizabeth plain facts instead of another elegant abstraction.
+> Audit lean: **A**. The Ask is already the point where Pathwell finally gives plain facts, so naming the draw there makes Elizabeth's later understanding legitimate and keeps this major Shade condition visible rather than incidental.
