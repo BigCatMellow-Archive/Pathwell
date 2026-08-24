@@ -51,6 +51,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2026-
 
 ---
 
+## Treatment archive runner and climax child are the same child — LOCKED
+
+- **The girl sent to the archive during Elizabeth's Camp treatment and the child later endangered beside the archive are the same Camp child.**
+- Keep this continuity understated. The child does not need a new supporting-character arc, a special relationship with Elizabeth, a symbolic destiny, or even necessarily a name.
+- During Elizabeth's treatment, the Camp healer sends the child to the archive for the appropriate handwritten healing record.
+- Later, the same child continues ordinary pre-dawn Camp errands, making their presence near the archive at the climax a continuation of already-seen routine.
+- This turns two existing anonymous-child beats into one causal continuity thread rather than adding a new person or explanation.
+- The child remains an ordinary person Elizabeth chooses over an irreplaceable object; the choice matters precisely because no magical or personal destiny makes the child special.
+- Preserve Elizabeth's serious-but-stable museum injury through this sequence: her sling/pain/restricted arm should materially affect how difficult the rescue is.
+- No manuscript chapter has been edited; this is a reconciliation lock only.
+
+---
+
 ## Next refinement question
 
-Decide whether the archive runner in Elizabeth's treatment and the child endangered in the climax are the same already-seen Camp child, and if so keep that continuity understated rather than turning the child into a new major character.
+Determine the exact ordinary physical danger that makes the child rescue urgent enough that Elizabeth cannot simply retrieve the diary first and then help the child. Prefer the already-established violent recoil, burning archive, and Elizabeth's injured arm over adding another magical hazard.
