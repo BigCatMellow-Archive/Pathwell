@@ -45,6 +45,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_2_202
 
 ---
 
+## Pathwell explains Shade's creation with plain causality — LOCKED A
+
+- Replace the stale Chapter 10 explanation **`I cut away possibilities I didn't intend to use. Some were mine. Some should have been mine. Some were... Him.`**
+- **Pathwell gives Elizabeth the facts plainly.** Someone asked him for help. That person did not ask him to prune. Pathwell independently chose pruning as the method because it was the quickest/cleanest solution by his own judgment.
+- **The pruning cost came from Pathwell's own future possibility.** He did not spend the other person's future, and there was no pre-existing pool of Shade's possibilities being cut away.
+- The working malformed. **Shade emerged from that failed/malformed pruning event.**
+- Dialogue can be in the spirit of: **`Someone asked me for help. I chose pruning. They didn't ask me to. I paid with my own future. It went wrong. He came out of it.`** Exact wording remains for manuscript reconciliation.
+- This keeps the moral responsibility where it belongs: the person asked for help, but Pathwell converted that request into permission to choose the method and cost himself.
+- The Ask scene should be unusually plain because Elizabeth has explicitly demanded an answer rather than another elegant abstraction.
+- No manuscript chapter has been edited.
+
+---
+
 ## Next refinement question
 
-Reconcile Pathwell's Chapter 10 explanation of Shade's creation. Current manuscript says `I cut away possibilities I didn't intend to use. Some were mine. Some should have been mine. Some were... Him.` That language implies Pathwell literally pruned possibilities belonging to Shade or another person. The locked origin instead establishes that someone asked Pathwell for help, did not ask him to prune, Pathwell independently chose pruning as the solution, paid with his own future possibility, and the malformed failure produced Shade. Prefer a plain explanation that preserves this causality without inventing a pre-existing pool of Shade possibilities.
+Reconcile Elizabeth's current Chapter 10 line **`And now he has to come back to you.`** The draw is a central defining condition of Shade and must remain important. Existing Chapter 9 already lets Elizabeth witness Shade physically resist an unseen pull at the diner, but no one has yet explained what that pull is or why it points specifically toward Pathwell. Decide whether Pathwell should name the draw during the Ask so Elizabeth's later understanding is earned, or whether her Chapter 10 line should remain only a cautious inference from what she observed.
