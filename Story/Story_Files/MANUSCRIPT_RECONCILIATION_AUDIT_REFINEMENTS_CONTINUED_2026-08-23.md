@@ -68,6 +68,20 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md`.
 
 ---
 
+## Elizabeth is witness, not advocate or decision-maker, in the final confrontation — LOCKED
+
+- **Preserve the existing Chapter 12 principle: `I'm not going to tell him what to do. But I'm going to be there when he decides.`**
+- Elizabeth remains physically present when Pathwell reveals the absorption/reintegration plan and Shade explicitly refuses.
+- **Shade owns his own `no`.** Elizabeth does not translate it, improve it, argue the whole moral case for him, or make his boundary valid by agreeing with it.
+- **Pathwell owns the decision to cross that boundary.** Elizabeth does not physically stop the attempt before it happens, because the climax requires Pathwell to knowingly force the contradictory prune himself.
+- Elizabeth's active role is witness: her presence makes it harder for Pathwell to convert the moment into a private technical problem or later pretend that Shade's refusal was ambiguous.
+- This has additional force because Pathwell has already harmed Elizabeth at the museum by overriding her judgment under the banner of protection. He now makes the same underlying kind of choice in front of a person who has already experienced its consequences.
+- Elizabeth may challenge a dodge, euphemism, or attempt by Pathwell to talk around what Shade actually said, but she should not become the author of Shade's boundary or the person responsible for making Pathwell choose correctly.
+- This preserves agency for all three characters: Shade chooses refusal; Elizabeth chooses to stay and witness; Pathwell chooses whether to respect or violate the refusal.
+- No manuscript chapter has been edited; this is a reconciliation lock only.
+
+---
+
 ## Next refinement question
 
-Decide Elizabeth's role during the final Pathwell/Shade confrontation. Existing Chapter 12 already contains the useful line `I'm not going to tell him what to do. But I'm going to be there when he decides.` The question is whether that remains the core of her role once Pathwell reveals the exact absorption/reintegration plan and Shade explicitly refuses.
+Determine how Elizabeth reacts when she sees that Pathwell has bought her donated diary back before the Shade confrontation. Existing canon already establishes that Pathwell legitimately purchases it from the archive with a clean prune and physically possesses it; the unresolved issue is how much that act is confronted on-page before the larger Shade decision.
