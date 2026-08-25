@@ -17,32 +17,44 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_9_202
 
 ---
 
-## Existing-story check: Shade's later museum arrival
+## Shade reaches the museum through draw + route recognition — LOCKED C
 
-- Current Chapter 11 has Shade's car already at the Civil War museum when Pathwell, Stansbury, and Elizabeth arrive; Stansbury explicitly observes that Shade `beat us` there.
-- Under newer diner locks, Elizabeth has already chosen to leave Shade, so he is traveling independently rather than bringing her to the museum.
-- The locked draw gives Shade deterministic **orientation/compulsion toward Pathwell** but no thoughts, plans, distance, exact location, or current-memory information. It functions closer to `Pathwell is that way; go` than a tracker.
-- Current Chapter 11 also establishes that Shade knows the graffiti-house threshold well enough to use a folded sheet to open the route to Camp. That knowledge can therefore be relevant without inventing a new magical-information channel.
-- The unresolved problem is how Shade legitimately reaches the museum **before** the others without upgrading the draw into exact navigation.
+- After Elizabeth leaves Shade at the diner, Shade initially follows the already-established **draw's rough directional pull toward Pathwell**.
+- The draw remains limited: it provides orientation/compulsion only. It does **not** provide exact position, distance, turn-by-turn navigation, Pathwell's plans, Elizabeth's location, or current memories.
+- As Pathwell's moving bearing and the available roads begin to align with a route Shade recognizes from his **creation-time Pathwell fragments**, Shade infers that Pathwell's group is heading toward the Civil War museum / graffiti-house threshold used to reach Camp.
+- At that point Shade stops chasing Pathwell's moving position and drives directly to the known fixed threshold, allowing him to arrive before Pathwell, Stansbury, and Elizabeth.
+- The route recognition is borrowed knowledge from creation-time fragments, not new information arriving through the draw.
+- Keep the on-page recognition brief and legible. The manuscript should show a shift from uncertain directional following to deliberate destination travel without explaining the threshold system at length.
+- No manuscript chapter has been edited.
 
 ---
 
-## Audit Question 63 — How does Shade reach the museum before Pathwell's group?
+## Existing-story check: what Shade does with the head start
+
+- Current Chapter 11 has Shade already inside the Civil War museum when Pathwell's group arrives.
+- Shade knows the graffiti-house threshold and can open the route to Camp with a folded magical sheet, but newer locks establish that **Elizabeth chooses Camp first**; Shade does not decide the destination for her.
+- Shade's central unresolved demand remains directed at Pathwell: he wants Pathwell to face what he did and what he owes rather than erase the consequence.
+- The draw is pulling Shade toward Pathwell, so simply crossing to Camp alone before Pathwell arrives would work against the immediate compulsion unless Shade had an independent reason strong enough to resist it.
+- The museum therefore needs a clear reason for Shade to remain there after arriving first rather than immediately use the threshold or wander elsewhere.
+
+---
+
+## Audit Question 64 — What does Shade do after he reaches the museum first?
 
 ### Context
 
-After Elizabeth leaves Shade at the diner, Pathwell and Stansbury locate her, pick her up, and Elizabeth eventually chooses Camp. Their route to Camp goes through the Civil War museum's graffiti-house threshold. When they arrive, Shade is already there.
+Shade recognizes that Pathwell's route is converging on the museum and cuts ahead. He now has several minutes alone at a threshold he knows how to use. Pathwell, Stansbury, and Elizabeth are still on the road.
 
 ### Options
 
-**A. The draw alone guides Shade all the way there.** After Elizabeth leaves, Shade stops resisting the pull and follows its changing direction toward Pathwell until he reaches the museum. Simple, but it risks making a direction-only compulsion function too much like turn-by-turn navigation and does not cleanly explain how Shade gets ahead rather than merely catches up.
+**A. Shade waits deliberately for Pathwell.** The museum is useful because it is the point where the draw and the likely Camp route converge. Shade's real unfinished business is with Pathwell, so once he arrives he stops moving and waits for the confrontation. He does not cross to Camp because that would move away from the person the draw is pulling him toward and postpone the reckoning he wants.
 
-**B. Creation-time Pathwell fragments tell Shade the museum is the Camp threshold, so he drives there directly.** This uses his already-established borrowed knowledge of the threshold, but by itself it requires Shade to correctly guess that Pathwell and Elizabeth have chosen Camp.
+**B. Shade begins opening the Camp threshold, then stops when the draw tells him Pathwell is approaching.** This gives him something active to do, but it risks implying that Shade had independently chosen Camp before Elizabeth does, which conflicts with the lock that Elizabeth chooses Camp first.
 
-**C. Use both, with each doing only what it already can.** Shade initially follows the draw's rough bearing toward Pathwell. As Pathwell's movement and the roads begin aligning with a route Shade recognizes from creation-time Pathwell fragments, Shade realizes they are heading for the graffiti-house/Camp threshold and drives directly there, cutting ahead. The draw supplies orientation; borrowed knowledge supplies recognition of the destination.
+**C. Shade explores or prepares the museum while waiting.** He may inspect the graffiti wall, find the correct anchor point, or ready the folded sheet, but his purpose is still to intercept Pathwell. This gives him physical business without making him choose Camp for Elizabeth.
 
-**D. Shade independently decides to go to the museum/Camp before knowing what Pathwell is doing.** Pathwell's group later chooses the same route. This avoids expanding the draw but makes their convergence substantially more coincidental.
+**D. Shade tries to cross to Camp alone but cannot because the draw becomes too strong.** This dramatizes the compulsion, but it creates a new failed-threshold beat and makes Shade's reason for going to Camp independently more important than the current story has established.
 
 ### Audit lean: **C**
 
-C keeps the existing limits intact instead of asking one mechanic to do too much. The draw remains a crude directional compulsion rather than GPS, while Shade's creation-time fragments explain why a familiar route or bearing pattern can become recognizable. It also gives a concrete reason he can arrive first: once he recognizes the likely destination, he no longer has to chase Pathwell's moving position and can drive straight to the fixed threshold while Pathwell's group is still dealing with Elizabeth's pickup and the Ask conversation. The cost is that the manuscript must make the recognition legible without overexplaining it; a brief change from uncertain following to deliberate driving should be enough.
+C preserves the core logic of A—Shade is there to confront Pathwell—while avoiding a static `he simply waited in a dark room` beat. It also uses knowledge he already has: he can identify the graffiti-house anchor and prepare the threshold material without opening it or deciding that Elizabeth should go through. The main constraint is that the preparation cannot become a disguised Camp decision; Elizabeth must still be the one who later says `Camp` first. A is mechanically clean but visually inert, B undermines Elizabeth's destination choice, and D adds a failed magical event the story does not currently need.
