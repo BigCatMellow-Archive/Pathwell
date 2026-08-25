@@ -47,14 +47,37 @@ Other genuine shared experiences exist — the dumpling stop, the crash, the ope
 
 ---
 
-## Audit Question 59 — Which shared memory makes the locating connection catch?
+## Terrible coffee is the shared-memory anchor — LOCKED A
 
-**A. The terrible coffee.** Pathwell cycles through shared experiences while Elizabeth is at the diner. The diner coffee tastes bad enough to remind her of the awful coffee at the Space Between; Pathwell reaches that same memory and the longing connection catches. This uses two already-existing sensory beats and makes the simultaneity causal rather than arbitrary.
+- The locating connection catches on the **terrible coffee** memory.
+- Pathwell cycles through genuine shared experiences while trying to establish the longing connection.
+- At the diner, Elizabeth's notably bad coffee naturally recalls the awful coffee she drank with Pathwell at the Space Between.
+- Pathwell reaches that same shared sensory memory while Elizabeth is touching it, allowing the connection to catch.
+- The simultaneity is therefore causally motivated by an existing sensory echo rather than arbitrary coincidence.
+- Do not replace this with the midpoint crash, dumpling stop, or `Ready? / No. / Perfect.` unless a later genuine contradiction requires reopening the lock.
+- No manuscript chapter has been edited.
 
-**B. The dumpling stop.** Pathwell focuses on the night he gave Elizabeth the unwanted dumpling while she was overwhelmed. It is emotionally meaningful and shared, but the current diner scene gives Elizabeth no equally direct reason to be thinking about it at that precise moment.
+---
 
-**C. The midpoint crash.** Both are likely thinking about the crash because it just happened, so the connection is easy to justify. But it makes the anchor primarily traumatic and risks reducing the locating requirement to the most recent obvious event.
+## Existing-draft complication: the old longing spell also nudged the target
 
-**D. `Ready? / No. / Perfect.`** Pathwell reaches for their first departure exchange. It has strong structural importance, but using the novel's major framing rhyme as a tracking-spell key may overburden that motif.
+Repository search found an additional piece of the older locating scene that was **not included in the locked description of Question 58 A**:
 
-Audit lean: **A**. The current manuscript has already done the setup on both sides: the Space Between coffee is a shared sensory memory, while the diner independently puts the same sensory trigger in Elizabeth's hand at exactly the right time.
+- Stansbury originally explains that, because of his working, Pathwell is not merely waiting for Elizabeth to think the same thing independently.
+- The old version says the thought can be sent outward toward Elizabeth as an **itch / tip-of-the-tongue association** that may help trigger the shared memory.
+- It explicitly says the thought is not forced into her head, but it still creates a magical influence on what becomes mentally salient to her.
+- This extra target-nudge mechanic is therefore **not automatically restored** by the prior A lock and requires its own audit decision.
+
+---
+
+## Audit Question 60 — Does the longing stage nudge Elizabeth toward the shared memory?
+
+**A. No. The connection is passive.** Pathwell cycles through shared memories, but the longing letter cannot place, suggest, or heighten a thought in Elizabeth. The connection catches only when Elizabeth independently reaches the same memory. The diner coffee provides the concrete sensory reason she reaches the Space Between coffee at the right time.
+
+**B. A very weak associative nudge.** The spell cannot transmit content, words, or images, but it can make an already-existing associated memory feel slightly more salient — the equivalent of something being on the tip of her tongue. Elizabeth still has to supply the memory herself.
+
+**C. Restore the old draft's stronger nudge.** Pathwell can send the chosen thought/memory outward toward Elizabeth as an itch that may trigger it, though he cannot force her to accept or dwell on it. This preserves more of the old scene but introduces a limited form of mental influence.
+
+**D. Remove simultaneity as a requirement.** A genuine shared memory is enough to identify Elizabeth; she does not need to be thinking about it at the same time. This avoids thought influence but makes the connection substantially easier and removes the bad-coffee timing mechanism.
+
+Audit lean: **A**. The terrible-coffee echo already solves the simultaneity problem organically, so a mental nudge is unnecessary. Passive overlap keeps the spell difficult, preserves Elizabeth's interior autonomy, and makes the successful connection feel earned rather than induced.
