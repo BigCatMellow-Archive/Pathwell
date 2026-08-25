@@ -2,13 +2,12 @@
 
 Status: **AUDIT REFINEMENT ONLY — NO MANUSCRIPT CHAPTERS EDITED**
 
-Read `BIBLE_INTERVIEW_CONTINUATION_15.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_15_2026-08-25.md`. The latter contains the newest lock and exact resume point.
+Read `BIBLE_INTERVIEW_CONTINUATION_15.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_15_2026-08-25.md`. The latter contains the newest locks and exact resume point.
 
-## Newest lock
+## Newest locks
 
-- **Shade's treatment line is reframed around recognition rather than personal biography — LOCKED B.** Replace the implication of `I've been broken in most of the available directions.` Shade does not claim extensive personal injury history.
-- During the Camp treatment, Shade says something in the spirit of `No. But I know what it looks like when that sets wrong.` Exact prose remains for manuscript reconciliation.
-- The competence still comes from the already-locked narrow creation-time Pathwell `set/hold` knowledge fragment. Do not turn this into blanket inherited magical mastery or explain the inheritance mechanic unnecessarily in the scene.
+- **Shade's treatment line is reframed around recognition rather than personal biography — LOCKED B.** Replace the implication of `I've been broken in most of the available directions.` Shade does not claim extensive personal injury history. During Camp treatment, use something in the spirit of `No. But I know what it looks like when that sets wrong.` The underlying competence remains the narrow inherited `set/hold` knowledge fragment.
+- **Shade does not predict an exact arrival time for Pathwell — LOCKED B.** Replace `He'll be here by morning` with the supported certainty that Pathwell is coming. Pattern recognition explains why Shade expects him; the strengthening draw supplies urgency but no distance, ETA, countdown, or radar information.
 - No manuscript chapters have been edited.
 
 ## Process rules still active
@@ -22,18 +21,18 @@ Read `BIBLE_INTERVIEW_CONTINUATION_15.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Existing-story finding
 
-Current Chapter 12 has Shade tell Elizabeth `He'll be here by morning.` Existing canon supports Shade's broad confidence that Pathwell will come, but the draw explicitly provides no exact distance, countdown, timing, or current-plan information. The scene is roughly an hour before dawn, so `by morning` is a relatively precise arrival prediction that currently lacks a supported source.
+Camp archive canon says donated objects belong to the archive and may be sold/traded back at its discretion. Pruning is technically valid payment, but Camp strongly discourages it and may refuse it because of the danger. Existing climax locks nevertheless require Pathwell to legitimately buy Elizabeth's diary back with a clean prune from his own future possibility. The unresolved staging question is therefore how much resistance the archivist gives him before accepting that dangerous but valid payment.
 
 ## Exact resume point
 
-> **Audit Question 73 — How precise should Shade be about Pathwell's arrival at Camp?**
+> **Audit Question 74 — How much should the Camp archivist resist Pathwell paying with pruning for the diary?**
 >
-> **A. Keep `He'll be here by morning` as an ordinary estimate.** Shade knows the route and Pathwell's habits and guesses he will arrive within the remaining pre-dawn hour. This preserves the line, but Shade does not know how badly Pathwell was hurt or how long Stansbury will delay him after the museum accident.
+> **A. Brief warning, then voluntary acceptance.** The archivist makes clear that pruning is discouraged and confirms Pathwell still intends to use it. Pathwell does; the archive accepts the valid payment and transfers the diary.
 >
-> **B. Remove the timing and keep only `He's coming.`** Pattern recognition explains why Shade expects Pathwell; the increasingly forceful draw supplies urgency without becoming a clock or distance sensor.
+> **B. No resistance.** The archivist accepts the prune without comment. Efficient, but makes Camp's established concern about pruning disappear when it matters most.
 >
-> **C. Have Camp residents provide a practical timing estimate.** This could justify a window but adds information exchange solely to preserve precision the scene does not need.
+> **C. Initial refusal, then Pathwell persuades the archivist to make an exception.** Foregrounds the danger, but risks turning the buyback itself into another boundary-pressure scene before the more important refusal beats.
 >
-> **D. Let the draw reveal that Pathwell is close enough to arrive by morning.** This conflicts with the locked rule that the draw is not radar and gives no countdown/distance data.
+> **D. Refusal followed by Pathwell bypassing/forcing the transaction.** Conflicts with the locked requirement that the diary buyback is legitimate and clean.
 >
-> **Audit lean: B.** It preserves everything Shade legitimately knows while removing unsupported precision. The strengthening physical draw can make `He's coming` feel immediate without assigning a time estimate.
+> **Audit lean: A.** It preserves Camp's stated attitude without making the transaction itself coercive. Pathwell should legally own the diary when Elizabeth later refuses it, so the scene can cleanly separate ownership/payment from authority over the meaning of her earlier choice.
