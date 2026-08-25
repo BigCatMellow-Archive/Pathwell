@@ -37,22 +37,17 @@ The character Bible's shorthand `discarded potential given flesh` should therefo
 
 ---
 
-## Audit Question 78 — What does Shade himself understand about his origin when he explains it to Elizabeth at Camp?
+## Shade knows the causal origin without claiming a pre-existing identity — LOCKED A
 
-### Context
+- Shade knows the causal sequence of his creation: Pathwell chose pruning while solving someone else's problem, the working malformed, and Shade emerged from that event.
+- Shade does **not** claim that he was a particular possible future, rejected self, or pre-existing person whom Pathwell intentionally selected not to happen.
+- Replace the stale Chapter 12 explanation `From him deciding I wasn't going to happen` and the related claim that `Mostly it stays a decision. This once, it didn't.` during manuscript reconciliation.
+- Shade's grievance rests on the supported causal fact: **Pathwell made a choice, that choice had consequences, and Shade became a real person living with those consequences.**
+- Shade may possess creation-time fragments that support this causal understanding, but he does not possess omniscient technical certainty about the unprecedented malformed event.
+- No manuscript chapter has been edited.
 
-Shade knows Pathwell caused his existence, and he has creation-time fragments from Pathwell. But the actual mechanics were unprecedented even to Pathwell: Shade emerged unexpectedly from a malformed prune. The current Chapter 12 gives Shade a much more specific origin story than the locked mechanics justify.
+---
 
-### Options
+## Next audit check
 
-**A. Shade knows the causal fact but not a pre-existing identity.** He can say, in substance, that Pathwell chose pruning to solve someone else's problem, the working went wrong, and Shade came out of it. He does not claim he was a particular future Pathwell intentionally erased.
-
-**B. Shade sincerely believes he was one of Pathwell's rejected possible selves/futures.** This preserves some current language as Shade's mistaken interpretation, but would intentionally give him a false origin belief that the story currently has no need to correct.
-
-**C. Shade is even more cautious: he knows only that he emerged from Pathwell's failed prune and refuses to speculate about what he was before that moment.** This is mechanically safest, but gives up some of his legitimate creation-time knowledge about Pathwell's choice to prune.
-
-**D. Pathwell previously explained the exact event to Shade off-page.** This would provide certainty, but invents an unseen Pathwell/Shade information exchange and still cannot justify the false claim that Shade pre-existed as a consciously rejected future.
-
-### Audit lean: **A**
-
-A preserves the part Shade can legitimately know and that matters morally: **Pathwell made a choice, the choice had consequences, and Shade is one of those consequences.** It removes the unsupported ontology without making Shade artificially ignorant of his own emergence. B adds a false belief that would need narrative handling; C is safe but unnecessarily strips away causal knowledge his creation-time fragments can support; D invents off-page explanation without solving the underlying contradiction.
+Verify whether Shade's current Chapter 12 certainty about what Pathwell plans to do to him is supported by an earlier on-page statement, creation-time knowledge, or only prediction. Current Chapter 12 says Pathwell is `going to try to cut me loose`, while newer climax canon requires attempted absorption/reintegration rather than simple separation.
