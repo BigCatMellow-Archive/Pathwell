@@ -44,28 +44,35 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_9_202
 
 ---
 
-## Existing-story check: advance warning of Shade's presence
+## Shade does not threaten to burn the Camp archive — LOCKED D
 
-Current Chapter 11 announces Shade before the group enters: his car is visibly parked outside with doors hanging open, and the museum entrance is propped with a folded note card. That staging conflicts somewhat with the newer image of Shade quietly killing time, learning the building, and eventually waiting in the shadows. The group can still know he is somewhere inside, but the amount of advance warning affects the tension of the entrance and reveal.
+- Reject the proposed literal archive-destruction threat.
+- Shade does **not** tell Elizabeth that he intends to burn the Camp archive, threaten to destroy it as leverage, or plan to make Pathwell's sacrifices meaningless by destroying other people's records.
+- Shade's accusation stays focused on Pathwell's deeper flaw: **Pathwell repeatedly treats his willingness to pay a personal cost as if that cost gives him authority to decide what happens to other people.**
+- This framing supports both the diary buyback and the later forced Shade reintegration. Pathwell can pay dearly and still lack the right to override Elizabeth's or Shade's stated choices.
+- The eventual archive fire remains entirely the downstream consequence of **Pathwell forcing the contradictory reintegration prune after Shade refuses**. Shade does not share causal responsibility through an earlier arson plan.
+- This preserves the Camp archive as community memory/practical reserve rather than making it a legitimate target in Shade's dispute with Pathwell.
+- No manuscript chapter has been edited.
 
 ---
 
-## Audit Question 65 — How much warning does the group get that Shade is already inside?
+## Elizabeth chooses Camp because Pathwell does not control the room there — LOCKED A
 
-### Context
+- After Pathwell gives the plain Chapter 10 explanation of Shade's origin and draw, **Elizabeth herself chooses `Camp`**.
+- Her reason is not that she can magically predict Shade's route, wants to retrieve the diary/cookbook, or merely regards Camp as a generic safe house.
+- Elizabeth remembers that Camp treated her as a person without requiring Pathwell to define her importance, Mama Baga dealt with her directly, and the people there have relationships to Pathwell that do not depend on his version of events.
+- She therefore chooses Camp because the next confrontation should happen somewhere **Pathwell is not the sole authority over the room, the information, or everyone's relationship to him**.
+- This continues the same agency movement as the Chapter 10 Ask: Elizabeth first refuses to let Pathwell control what she is told, then chooses a setting where he cannot control the social frame as easily.
+- Keep the motivation concise on-page; the scene only needs enough of Elizabeth's remembered experience of Camp to make `Camp` feel chosen rather than arbitrary.
+- This is not framed as independence from men or male authority. It follows the broader character-wide rule that no person's choice requires another character's validation or control.
+- No manuscript chapter has been edited.
 
-Shade has arrived first and spent several minutes casually wandering the museum. Pathwell, Stansbury, and Elizabeth now arrive together on their way to the Camp threshold. The current draft makes Shade's presence obvious before they even enter.
+---
 
-### Options
+## Advance warning of Shade at the museum remains unresolved
 
-**A. Keep the obvious warning.** Shade's car is plainly outside, so they know he beat them there. The tension is not `is he here?` but `where inside is he?` Remove only unnecessarily theatrical clues such as doors hanging open or a deliberately propped entrance.
+Current Chapter 11 announces Shade before the group enters: his car is visibly parked outside with doors hanging open, and the museum entrance is propped with a folded note card. The newer staging rejects the theatrical open-car/open-door clues because Shade is simply killing time, not staging an ambush.
 
-**B. Hide the car and give them no warning.** They enter believing the museum is empty, and Shade eventually reveals himself from the shadows. This produces a stronger surprise but requires Shade to deliberately conceal his arrival or park elsewhere, which adds behavior he currently has little reason to perform.
+The earlier tentative `A?` response was followed by a causal challenge—why would the group enter at all? That causal gap is now resolved separately: **Elizabeth has already chosen Camp, and the museum/graffiti-house threshold is their route there.** They would enter whether Shade were present or not. Shade's visible car can therefore function only as advance warning that he is probably already inside.
 
-**C. Give them an ambiguous clue.** They notice something that might indicate another person entered—a displaced door, unfamiliar car farther off, etc.—but cannot be certain it is Shade. This increases suspense but risks manufacturing mystery around a fact that does not actually need hiding.
-
-**D. Elizabeth recognizes Shade's car outside before Pathwell or Stansbury does.** This uses her firsthand familiarity with the vehicle from the diner trip and gives her the first recognition beat, but still makes Shade's presence known before the museum confrontation begins.
-
-### Audit lean: **A**
-
-Shade is not currently trying to ambush or frighten them; he is simply waiting. Hiding his car would therefore add deliberate stealth behavior without a clear motive. Keeping the car visible lets the group know he is inside while preserving uncertainty about where he is, which works with the locked `in the shadows` staging. I would cut the exaggerated open-car/open-door clues, because those make his arrival look staged for them rather than like someone who parked, wandered around, and waited. D is viable if Elizabeth needs an additional observational beat, but it adds emphasis to the vehicle that may not earn much later.
+No final warning-level option has yet been locked.
