@@ -17,7 +17,16 @@ Read `BIBLE_INTERVIEW_CONTINUATION_8.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_
 
 ## Audit workflow presentation update
 
-Future questions should assume the decision-maker does not remember the relevant scene. Give enough story context to understand where the characters are, identify the exact problem and why it matters, explain what each option would mean on the page, and give an expanded lean covering benefits, costs, future consequences, and fit with established character/theme/rules. Continue exactly one A/B/C/D-style question at a time.
+Future questions should assume the decision-maker does not remember the relevant scene. Give enough story context to understand where the characters are, identify the exact problem and why it matters, explain what each option would mean on the page, and give an expanded lean covering benefits, costs, future consequences, and fit with established character/theme/rules. Keep that context concise rather than exhaustive. Continue exactly one A/B/C/D-style question at a time.
+
+### Critical-evaluation rule — NO PRAISE
+
+- Do not praise, hype, flatter, or congratulate the decision-maker for proposing an idea.
+- Evaluate ideas by what they solve, weaken, contradict, preserve, cost, and create downstream.
+- Give clear pushback whenever the manuscript evidence or consequences justify it, including when the proposal came from the decision-maker.
+- Agreement should be analytical rather than complimentary.
+- Keep the audit lean independent of the user's suggestion; do not shift toward an option merely because the user proposed it.
+- If the tradeoff is genuinely close, say so rather than manufacturing certainty.
 
 ## Existing-structure finding
 
@@ -27,6 +36,8 @@ Future questions should assume the decision-maker does not remember the relevant
 - Any diner interruption must still preserve the locked Elizabeth/reader recognition of Shade and keep the diner primarily Elizabeth's character scene.
 
 ## Exact resume point
+
+Question 61 remains unresolved. The user proposed a hybrid of A and B but did not yet lock it; do not treat the hybrid as canon merely because it was discussed.
 
 Ask exactly one question:
 
@@ -40,4 +51,4 @@ Ask exactly one question:
 >
 > **D. Build a full parallel sequence with repeated cuts between the diner and the tracking work.** Potentially dramatic, but likely to steal focus and momentum from Elizabeth's confrontation with Shade.
 >
-> **Audit lean: A.** The spell is now too important to happen off-page. A single controlled intercut pays off the coffee simultaneity, showcases the mundane handwritten-text magic, and explains the later reunion in real time. Existing Chapter 6 already permits a temporary Pathwell viewpoint. The cost is interruption, so the cut should be short and occur only after the Shade reveal is safe. B creates a rewind, C wastes the magical payoff, and D overweights the tracking mechanic relative to Elizabeth's diner scene.
+> The previously discussed A/B hybrid is also a viable modification: preserve the diner uninterrupted, then open the next chapter with a very short rewind that shows the coffee connection and tracking spell before catching back up to Elizabeth walking. Evaluate this on structural grounds rather than praising it.
