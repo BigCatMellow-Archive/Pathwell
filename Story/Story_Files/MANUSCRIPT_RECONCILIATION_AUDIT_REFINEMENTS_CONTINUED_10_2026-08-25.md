@@ -29,32 +29,43 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_9_202
 
 ---
 
-## Existing-story check: what Shade does with the head start
+## Shade kills time by wandering the museum — LOCKED USER REFINEMENT
 
-- Current Chapter 11 has Shade already inside the Civil War museum when Pathwell's group arrives.
-- Shade knows the graffiti-house threshold and can open the route to Camp with a folded magical sheet, but newer locks establish that **Elizabeth chooses Camp first**; Shade does not decide the destination for her.
-- Shade's central unresolved demand remains directed at Pathwell: he wants Pathwell to face what he did and what he owes rather than erase the consequence.
-- The draw is pulling Shade toward Pathwell, so simply crossing to Camp alone before Pathwell arrives would work against the immediate compulsion unless Shade had an independent reason strong enough to resist it.
-- The museum therefore needs a clear reason for Shade to remain there after arriving first rather than immediately use the threshold or wander elsewhere.
+- Supersede the prior Question 64 framing that Shade actively prepares the Camp threshold while waiting.
+- Shade arrives at the Civil War museum before Pathwell's group, but he is **not particularly interested in the exhibits and is not performing a task**.
+- He wanders through the dark museum simply to kill time while waiting for Pathwell to arrive.
+- Because he has had several minutes to move through the building, he becomes casually familiar with the layout, exhibit positions, sightlines, and darker areas.
+- By the time Pathwell, Stansbury, and Elizabeth enter, Shade can already be settled somewhere in the shadows rather than standing conspicuously at the threshold.
+- His familiarity with the museum comes from ordinary observation during the wait, not magical awareness.
+- He does **not** inspect, prepare, activate, or partially open the graffiti-house threshold during this waiting period.
+- He does not independently choose Camp for Elizabeth. The existing lock that **Elizabeth says `Camp` first** remains intact.
+- His reason for staying remains his unresolved confrontation with Pathwell plus the draw's pull toward him.
+- No manuscript chapter has been edited.
 
 ---
 
-## Audit Question 64 — What does Shade do after he reaches the museum first?
+## Existing-story check: advance warning of Shade's presence
+
+Current Chapter 11 announces Shade before the group enters: his car is visibly parked outside with doors hanging open, and the museum entrance is propped with a folded note card. That staging conflicts somewhat with the newer image of Shade quietly killing time, learning the building, and eventually waiting in the shadows. The group can still know he is somewhere inside, but the amount of advance warning affects the tension of the entrance and reveal.
+
+---
+
+## Audit Question 65 — How much warning does the group get that Shade is already inside?
 
 ### Context
 
-Shade recognizes that Pathwell's route is converging on the museum and cuts ahead. He now has several minutes alone at a threshold he knows how to use. Pathwell, Stansbury, and Elizabeth are still on the road.
+Shade has arrived first and spent several minutes casually wandering the museum. Pathwell, Stansbury, and Elizabeth now arrive together on their way to the Camp threshold. The current draft makes Shade's presence obvious before they even enter.
 
 ### Options
 
-**A. Shade waits deliberately for Pathwell.** The museum is useful because it is the point where the draw and the likely Camp route converge. Shade's real unfinished business is with Pathwell, so once he arrives he stops moving and waits for the confrontation. He does not cross to Camp because that would move away from the person the draw is pulling him toward and postpone the reckoning he wants.
+**A. Keep the obvious warning.** Shade's car is plainly outside, so they know he beat them there. The tension is not `is he here?` but `where inside is he?` Remove only unnecessarily theatrical clues such as doors hanging open or a deliberately propped entrance.
 
-**B. Shade begins opening the Camp threshold, then stops when the draw tells him Pathwell is approaching.** This gives him something active to do, but it risks implying that Shade had independently chosen Camp before Elizabeth does, which conflicts with the lock that Elizabeth chooses Camp first.
+**B. Hide the car and give them no warning.** They enter believing the museum is empty, and Shade eventually reveals himself from the shadows. This produces a stronger surprise but requires Shade to deliberately conceal his arrival or park elsewhere, which adds behavior he currently has little reason to perform.
 
-**C. Shade explores or prepares the museum while waiting.** He may inspect the graffiti wall, find the correct anchor point, or ready the folded sheet, but his purpose is still to intercept Pathwell. This gives him physical business without making him choose Camp for Elizabeth.
+**C. Give them an ambiguous clue.** They notice something that might indicate another person entered—a displaced door, unfamiliar car farther off, etc.—but cannot be certain it is Shade. This increases suspense but risks manufacturing mystery around a fact that does not actually need hiding.
 
-**D. Shade tries to cross to Camp alone but cannot because the draw becomes too strong.** This dramatizes the compulsion, but it creates a new failed-threshold beat and makes Shade's reason for going to Camp independently more important than the current story has established.
+**D. Elizabeth recognizes Shade's car outside before Pathwell or Stansbury does.** This uses her firsthand familiarity with the vehicle from the diner trip and gives her the first recognition beat, but still makes Shade's presence known before the museum confrontation begins.
 
-### Audit lean: **C**
+### Audit lean: **A**
 
-C preserves the core logic of A—Shade is there to confront Pathwell—while avoiding a static `he simply waited in a dark room` beat. It also uses knowledge he already has: he can identify the graffiti-house anchor and prepare the threshold material without opening it or deciding that Elizabeth should go through. The main constraint is that the preparation cannot become a disguised Camp decision; Elizabeth must still be the one who later says `Camp` first. A is mechanically clean but visually inert, B undermines Elizabeth's destination choice, and D adds a failed magical event the story does not currently need.
+Shade is not currently trying to ambush or frighten them; he is simply waiting. Hiding his car would therefore add deliberate stealth behavior without a clear motive. Keeping the car visible lets the group know he is inside while preserving uncertainty about where he is, which works with the locked `in the shadows` staging. I would cut the exaggerated open-car/open-door clues, because those make his arrival look staged for them rather than like someone who parked, wandered around, and waited. D is viable if Elizabeth needs an additional observational beat, but it adds emphasis to the vehicle that may not earn much later.
