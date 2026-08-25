@@ -16,10 +16,24 @@ Read `BIBLE_INTERVIEW_CONTINUATION_13.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - Search the existing repo before inventing fixes.
 - Give concise cold-reader context before each decision.
 - Explain why the choice matters and what each option changes.
-- Give a developed but concise lean covering benefits, costs, and downstream consequences.
+- Give a developed but concise audit lean covering benefits, costs, and downstream consequences.
 - No praise/hype; evaluate independently and push back when warranted.
 - Ask exactly one A/B/C/D-style question at a time.
 
+## Existing-story finding
+
+Current Chapter 12 has Shade interrupt the Camp healer, wait for Elizabeth's nod, and use a charged letter to make her injured shoulder `settle back into itself`, after which he says `That'll hold` and Elizabeth remains in a sling. Existing climax locks require the museum injury to remain serious but stable, with pain, weakness, and restricted arm use materially complicating the later child rescue. The treatment therefore cannot function as a full magical reset.
+
 ## Exact resume point
 
-Search current Chapter 12 and support material for the Camp treatment of Elizabeth's museum shoulder/upper-arm injury. Current Chapter 12 gives Shade an active healing role, while existing locks require the injury to remain serious, stable, and materially painful/restricted through the climax. Determine whether the healing beat should remain, be reduced to stabilization, or be reassigned before asking the next question.
+> **Audit Question 70 — How much should Shade's Camp treatment actually repair?**
+>
+> **A. Stabilize/set the injury without healing the damage away.** Shade recognizes it will set wrong, waits for Elizabeth's consent, and uses the charged letter to put the shoulder into a stable position. The Camp healer checks/supports it; Elizabeth remains in a sling with substantial pain, bruising, weakness, and restricted use through the climax.
+>
+> **B. Preserve the current treatment as near-complete magical healing.** The sling becomes mostly precautionary and the later impairment is mild. This conflicts with the locked archive-rescue staging.
+>
+> **C. Remove Shade from treatment and let the Camp healer do everything.** Avoids giving Shade the active healing role, but discards the existing consent beat and practical inherited competence.
+>
+> **D. Shade diagnoses/corrects verbally while the Camp healer performs the actual magical treatment.** Preserves his knowledge but weakens the existing contrast between Shade waiting for Elizabeth's permission and Pathwell overriding her judgment.
+>
+> **Audit lean: A.** `That'll hold` and the existing sling already support stabilization rather than cure. A preserves the current treatment scene while keeping the injury consequential in the climax. The manuscript must make the residual pain, weakness, bruising, and restricted motion clear so `settled back into itself` is not read as full restoration.
