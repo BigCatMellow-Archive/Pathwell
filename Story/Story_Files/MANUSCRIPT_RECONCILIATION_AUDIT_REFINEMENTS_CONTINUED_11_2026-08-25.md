@@ -19,38 +19,58 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_10_20
 
 ---
 
-## Earlier Question 65 warning issue remains open
+## Elizabeth chooses Camp because Pathwell does not control the room there — LOCKED A
 
-The prior question about whether the group sees/recognizes Shade's car outside the museum was interrupted by the archive-threat proposal and is **not yet locked**. Return to it after the more basic destination motive is resolved.
-
----
-
-## Existing-story check: why Elizabeth chooses Camp
-
-- Current Chapter 10 has Elizabeth say `Camp` after Pathwell finally gives her the facts about Shade, but the scene does not yet establish a specific reason she chooses that destination.
-- A prior lock requires **Elizabeth herself to say `Camp` first**. Shade does not suggest it for her.
-- Chapter 4 gives Elizabeth a concrete prior experience of Camp: people do not treat her as extraordinary, she is given a seat and tea without interrogation, Mama Baga offers practical care, and Pathwell is visibly less dominant there than in most other locations.
-- Camp also contains people who know Pathwell and understand the magical world independently of his framing.
-- Therefore the destination can be motivated from material already present rather than by inventing a threat to the archive.
+- After Pathwell gives the plain Chapter 10 explanation of Shade's origin and draw, **Elizabeth herself chooses `Camp`**.
+- Her reason is not that she can predict Shade's route, wants to retrieve the diary/cookbook, or merely regards Camp as a generic safe house.
+- Elizabeth remembers that Camp treated her as a person without requiring Pathwell to define her importance, Mama Baga dealt with her directly, and the people there have relationships to Pathwell that do not depend on his version of events.
+- She chooses Camp because the next confrontation should happen somewhere **Pathwell is not the sole authority over the room, the information, or everyone's relationship to him**.
+- This continues the same agency movement as the Chapter 10 Ask: Elizabeth first refuses to let Pathwell control what she is told, then chooses a setting where he cannot control the social frame as easily.
+- Keep the motivation concise on-page; the scene needs only enough of Elizabeth's remembered experience of Camp to make `Camp` feel chosen rather than arbitrary.
+- This is not framed as independence from men or male authority. It follows the broader character-wide rule that no person's choice requires another character's validation or control.
+- No manuscript chapter has been edited.
 
 ---
 
-## Audit Question 66 — Why does Elizabeth choose Camp after Pathwell's confession?
+## Museum warning is a normal parked car recognized by Elizabeth — LOCKED A
+
+- Shade parks normally at the Civil War museum. Do not preserve the stale image of his car sitting half on the curb with its doors hanging open.
+- Elizabeth recognizes the car because she recently rode in it after the crash and on the diner trip.
+- Elizabeth tells Pathwell and Stansbury that the car is Shade's.
+- The group already intends to enter the museum because Elizabeth has chosen Camp and the graffiti-house threshold is their route there. Shade's car is therefore **advance warning only**, not the reason they stop or enter.
+- They know Shade is probably somewhere inside, but they do not know exactly where in the building he is.
+- Remove the deliberately propped museum entrance / folded-note-card arrival clue. Shade is not staging the museum, setting an ambush, or theatrically announcing himself; he has simply arrived first, wandered to kill time, and settled into the shadows.
+- No manuscript chapter has been edited.
+
+---
+
+## Existing-story check: museum confrontation blocking
+
+- Current Chapter 11 is stale in a larger way than the car staging: it has Pathwell enter and effectively **discover Elizabeth already in the back gallery with Shade**, including dialogue that assumes Shade brought Elizabeth to the museum.
+- Under the newer sequence, Elizabeth arrives **with Pathwell and Stansbury**. She chose Camp after the Chapter 10 Ask, and all three are using the museum threshold as their route there.
+- The previously locked line **`I don't need to be rescued`** remains intentional and should not be cut merely because the old blocking is stale.
+- The previously locked follow-up where Shade validates Elizabeth — `She means it. She came in here on her own.` — remains cut. Elizabeth's stated boundary stands without certification from Shade.
+- The museum overreach is also already locked: Shade eventually makes a small, open-handed/nonthreatening movement; Pathwell overrides Elizabeth's stated boundary and casts a broad protective/restraint working, which overloads the charged museum and injures Elizabeth.
+- Therefore the scene needs a new, credible trigger for Elizabeth's `I don't need to be rescued` that does not pretend Pathwell has just found her after a kidnapping.
+
+---
+
+## Audit Question 68 — What makes Elizabeth say `I don't need to be rescued` under the new museum blocking?
 
 ### Context
 
-In the car, Elizabeth has forced Pathwell to explain what he did: someone asked for help, Pathwell chose pruning without being asked to, the working malformed, Shade emerged, and Shade is now compelled by the draw back toward Pathwell. Elizabeth then says `Camp`, making the destination her decision.
+Elizabeth, Pathwell, and Stansbury enter the museum together already knowing Shade is probably inside. Shade is somewhere in the dark after killing time and learning the layout. The old version had Pathwell discover Elizabeth standing with Shade and immediately ask whether she was okay, which naturally produced the rescue language—but that setup is no longer true.
 
 ### Options
 
-**A. Camp is the one place Elizabeth has already experienced as outside Pathwell's control.** She remembers that Camp accepted her without treating her as chosen or special, Mama Baga dealt with her directly, and people there know Pathwell well enough that his version of events is not the only one available. She chooses Camp because she wants the next part of this to happen somewhere Pathwell is not the sole authority.
+**A. Pathwell reflexively moves Elizabeth behind him / tells her to stay back when Shade appears.** Shade emerges or addresses them from the gallery, and Pathwell immediately assumes the protector role: stepping between them, putting an arm out, or telling Elizabeth to get behind him. Elizabeth answers `I don't need to be rescued.` This makes the line a direct response to Pathwell treating her as someone whose position he gets to decide.
 
-**B. Elizabeth chooses Camp because she expects Shade to end up there.** She knows the draw pulls him toward Pathwell and assumes Camp is where the confrontation should happen. This gives her a tactical motive, but requires her to predict Shade's route/destination more precisely than she currently can.
+**B. Elizabeth deliberately walks ahead to confront Shade alone, and Pathwell catches up.** This partially recreates the old visual of Elizabeth and Shade facing each other before Pathwell arrives. It gives Elizabeth a clear action, but requires the group to split after entering despite already knowing Shade is somewhere inside and may feel arranged mainly to preserve old dialogue.
 
-**C. Elizabeth chooses Camp because her diary and Nana's cookbook are there.** The destination is driven by her connection to the objects she left behind. This is concrete, but risks making the choice feel like a retreat toward possessions immediately after the story has emphasized her loosening attachment to them.
+**C. Shade calls Elizabeth away from Pathwell and she goes to him.** Pathwell reacts as though Shade is taking her again, prompting the line. This gives Shade too much control over Elizabeth's movement and risks replaying the same following dynamic the diner sequence is meant to complicate.
 
-**D. Elizabeth chooses Camp simply because it is the safest familiar magical refuge.** This is practical and easy to understand, but gives the choice less character-specific meaning and risks making `Camp` feel like the default safe-house answer.
+**D. Pathwell explicitly says they came to protect/rescue Elizabeth from Shade even though they arrived together.** Elizabeth rejects that framing verbally. Mechanically possible, but more abstract and less physical; it makes Pathwell state the flaw rather than showing it in behavior.
 
 ### Audit lean: **A**
 
-A uses Elizabeth's actual prior experience rather than adding new information. Camp matters because it is the first magical place where Pathwell is not automatically the person defining reality for her. That makes her destination choice an extension of the Ask: she has just forced Pathwell to stop controlling the explanation, and now she chooses a place where other people can exist outside his framing. The cost is that the manuscript needs one brief internal or conversational cue reminding the reader what Camp felt like to her; without that cue, `Camp` can still seem abrupt. B gives Elizabeth knowledge she has not earned, C recenters the objects too early, and D works mechanically but is less connected to her arc.
+A converts the stale rescue premise into a live behavior. Pathwell does not need to believe Elizabeth was kidnapped into the museum; he only needs to see Shade appear and reflexively decide where Elizabeth should stand and how she should be protected. That is the same control flaw the museum scene is supposed to expose, and it naturally escalates into the later broad ward when Shade makes the small open-handed step. It also keeps Elizabeth with the group instead of manufacturing a separation just to preserve old staging. The cost is that Pathwell's protective movement must stay small enough that `I don't need to be rescued` does not sound disproportionate; a simple body-block or `stay behind me` is enough.
