@@ -2,13 +2,13 @@
 
 Status: **AUDIT REFINEMENT ONLY — NO MANUSCRIPT CHAPTERS EDITED**
 
-Read `BIBLE_INTERVIEW_CONTINUATION_13.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_13_2026-08-25.md`. The latter contains the newest lock and overrides older assumptions where they conflict.
+Read `BIBLE_INTERVIEW_CONTINUATION_13.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_13_2026-08-25.md`. The latter contains the newest locks and overrides older assumptions where they conflict.
 
-## Newest lock
+## Newest locks
 
 - **Shade is opening Elizabeth's chosen Camp route when Pathwell triggers the museum ward — LOCKED A.** Elizabeth asks Shade to open the graffiti-wall threshold after choosing Camp herself. Shade begins complying with a small open-handed/nonthreatening movement toward the wall. Pathwell overrides Elizabeth's stated judgment and casts the broad protective/restraint working.
-- Shade's movement is cooperative with Elizabeth's request, not an attack.
-- Elizabeth remains nonmagical: she chooses Camp and whether to cross; Shade supplies the magical access.
+- **Shade stabilizes/sets Elizabeth's museum injury without healing it away — LOCKED A.** Shade waits for Elizabeth's consent and uses the charged letter to put the shoulder/upper-arm injury into a stable position. `That'll hold` means stabilization, not cure. The Camp healer checks/supports it afterward.
+- Elizabeth remains in a sling with substantial pain, bruising, weakness, and restricted use through the climax; the injury materially complicates the archive rescue.
 - No manuscript chapters have been edited.
 
 ## Process rules still active
@@ -20,20 +20,6 @@ Read `BIBLE_INTERVIEW_CONTINUATION_13.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - No praise/hype; evaluate independently and push back when warranted.
 - Ask exactly one A/B/C/D-style question at a time.
 
-## Existing-story finding
-
-Current Chapter 12 has Shade interrupt the Camp healer, wait for Elizabeth's nod, and use a charged letter to make her injured shoulder `settle back into itself`, after which he says `That'll hold` and Elizabeth remains in a sling. Existing climax locks require the museum injury to remain serious but stable, with pain, weakness, and restricted arm use materially complicating the later child rescue. The treatment therefore cannot function as a full magical reset.
-
 ## Exact resume point
 
-> **Audit Question 70 — How much should Shade's Camp treatment actually repair?**
->
-> **A. Stabilize/set the injury without healing the damage away.** Shade recognizes it will set wrong, waits for Elizabeth's consent, and uses the charged letter to put the shoulder into a stable position. The Camp healer checks/supports it; Elizabeth remains in a sling with substantial pain, bruising, weakness, and restricted use through the climax.
->
-> **B. Preserve the current treatment as near-complete magical healing.** The sling becomes mostly precautionary and the later impairment is mild. This conflicts with the locked archive-rescue staging.
->
-> **C. Remove Shade from treatment and let the Camp healer do everything.** Avoids giving Shade the active healing role, but discards the existing consent beat and practical inherited competence.
->
-> **D. Shade diagnoses/corrects verbally while the Camp healer performs the actual magical treatment.** Preserves his knowledge but weakens the existing contrast between Shade waiting for Elizabeth's permission and Pathwell overriding her judgment.
->
-> **Audit lean: A.** `That'll hold` and the existing sling already support stabilization rather than cure. A preserves the current treatment scene while keeping the injury consequential in the climax. The manuscript must make the residual pain, weakness, bruising, and restricted motion clear so `settled back into itself` is not read as full restoration.
+Search existing support material for Shade's magical competence before deciding whether his ability to perform the stabilization working needs additional explanation. Do not assume creation-time Pathwell fragments automatically grant every practitioner skill.
