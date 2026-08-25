@@ -18,32 +18,42 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_14_20
 
 ---
 
-## Existing-story check: Shade's `He'll be here by morning` timing claim
+## Shade does not predict an exact Camp arrival time — LOCKED B
 
-- Current Chapter 12 has Shade at the Camp tree line tell Elizabeth: **`He'll be here by morning.`**
-- Existing canon supports Shade being confident that **Pathwell will come**: Shade knows Pathwell's patterns from creation-time fragments and direct observation, and the draw keeps physically orienting Shade toward him.
-- Existing canon does **not** allow the draw to provide exact distance, timing, countdown, map information, or current plans. Its content remains effectively `Pathwell is that way. Go.`
-- The current Camp sequence is roughly an hour before dawn, so `by morning` functions as a fairly precise near-term arrival prediction rather than a vague statement that Pathwell will eventually come.
-- No existing support material establishes another source that would let Shade know Pathwell's exact travel time after the museum accident.
+- Replace the current Chapter 12 timing claim **`He'll be here by morning.`**
+- Shade may state simply, in the spirit of **`He's coming.`** Exact prose remains for manuscript reconciliation.
+- Shade's confidence that Pathwell will follow comes from Pathwell's established behavioral pattern plus Shade's creation-time fragments and direct observation.
+- The increasingly forceful draw supplies bodily urgency and convergence, but **does not provide distance, ETA, countdown, route timing, or current-plan information**.
+- Do not smuggle proximity/radar information into the draw merely to preserve a near-term arrival prediction.
+- No manuscript chapter has been edited.
 
 ---
 
-## Audit Question 73 — How precise should Shade be about Pathwell's arrival at Camp?
+## Existing-story check: Camp archive accepting pruning for the diary buyback
+
+- Existing Camp canon says donation transfers ownership to the archive, the archive may choose to sell/trade a donated object back, and **pruning is a technically valid form of payment that Camp strongly discourages and may refuse in ordinary circumstances**.
+- Existing climax locks require Pathwell to **legitimately buy Elizabeth's donated diary back** and pay with a **clean prune from his own future possibility** before he offers the diary to her.
+- Therefore the buyback must remain a valid transaction rather than a theft, coercive seizure, or rule-breaking workaround.
+- What remains unresolved is how much resistance the archivist/Camp gives Pathwell before accepting a payment method they regard as dangerous.
+
+---
+
+## Audit Question 74 — How much should the Camp archivist resist Pathwell paying with pruning for the diary?
 
 ### Context
 
-Shade and Elizabeth have reached Camp after the museum accident. Pathwell and Stansbury are still behind. Shade knows Pathwell's character well enough to expect him to follow, and the draw is increasingly difficult to ignore as Pathwell approaches. But Shade cannot read distance or timing from the draw.
+Before the final Shade confrontation, Pathwell enters the Camp archive and buys Elizabeth's donated diary back. The archive owns it and is allowed to sell it. Pathwell pays with his own future possibility through a clean prune. Camp considers pruning dangerous and discourages it, but it is not forbidden and can be accepted as payment.
 
 ### Options
 
-**A. Keep `He'll be here by morning` as an ordinary estimate, not magical knowledge.** Shade knows the route, knows Pathwell will follow, and guesses that he will arrive within the remaining pre-dawn hour. This preserves the line, but the estimate is unusually confident given that Shade does not know how badly Pathwell was hurt or how long Stansbury will keep him at the museum.
+**A. Brief warning, then voluntary acceptance.** The archivist makes clear that pruning is discouraged and confirms Pathwell still intends to use it. Pathwell does. The archive accepts the valid payment and transfers the diary to him. This keeps the transaction legitimate while preserving Camp's established attitude toward pruning.
 
-**B. Remove the timing and keep only the supported certainty: `He's coming.`** Shade's increasing physical pull can make that statement feel immediate without assigning a clock to it. Pattern recognition explains why Shade expects Pathwell to follow; the draw explains why he feels the convergence more strongly.
+**B. No resistance at all.** The archivist names/accepts the price and Pathwell prunes without comment. Efficient, but makes Camp's stated concern about pruning feel absent at the exact moment it matters most.
 
-**C. Make the Camp residents provide a practical timing estimate.** Someone familiar with the threshold route tells Shade how long the trip normally takes. This would justify a time window but introduces an extra information exchange solely to preserve precision the scene does not require.
+**C. The archivist initially refuses pruning, then Pathwell persuades them to make an exception.** This foregrounds the danger but risks turning the buyback into another scene where Pathwell pressures someone past a boundary before the larger refusal sequence.
 
-**D. Let the draw tell Shade that Pathwell is close enough to arrive by morning.** This would directly expand the draw into proximity/timing information and conflict with the existing `not radar / no countdown` lock.
+**D. The archivist refuses, and Pathwell finds another magical mechanism that forces or bypasses the transaction.** This would contradict the locked requirement that the diary buyback is legitimate and clean.
 
-### Audit lean: **B**
+### Audit lean: **A**
 
-B preserves everything Shade legitimately knows while removing one unsupported precision claim. `He's coming` can still carry urgency because the draw is becoming more physically insistent, but it does not convert that pressure into a distance estimate. A is possible as a guess, yet Shade's confidence would be hard to justify after the museum injury disrupted Pathwell's travel. C adds machinery to save a line that does not need saving. D conflicts with the locked draw rules.
+A preserves both existing rules without adding conflict the climax does not need. Camp can disapprove of pruning while still recognizing an adult practitioner's choice and accepting a sufficiently valuable valid payment. The transaction should feel clean enough that Pathwell has no procedural excuse when Elizabeth later says `I gave that away.` He legally owns the diary at that point; what he does **not** own is authority to reverse the meaning of her earlier choice. C would muddy that distinction by making the buyback itself another boundary violation before the more important ones.
