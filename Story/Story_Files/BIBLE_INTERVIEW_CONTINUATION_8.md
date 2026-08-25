@@ -10,32 +10,28 @@ Read `BIBLE_INTERVIEW_CONTINUATION_7.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_
 - **Restore the full two-part locating mechanism — LOCKED A.** First, a handwritten letter carrying longing/unrequited love establishes a personal connection. Pathwell must focus on a genuine shared memory/experience/phrase/sensory association that Elizabeth might also be touching mentally. The connection is not automatic.
 - Once that connection catches, handwritten grocery/shopping lists provide the actual location/following function.
 - Both stages consume handwritten magical material. The locating signal fades, and additional grocery lists may be needed to sustain it.
-- This preserves a meaningful limitation: locating someone requires a real interpersonal anchor plus finite physical magical resources rather than functioning as universal magical GPS.
+- **Terrible coffee is the shared-memory anchor — LOCKED A.** Chapter 3 already gives Elizabeth and Pathwell memorably bad coffee at the Space Between; Chapter 9 independently gives Elizabeth bad diner coffee. The diner coffee naturally recalls the Space Between coffee while Pathwell is cycling through shared experiences, allowing the longing connection to catch on an existing sensory echo.
+- Do not substitute the crash, dumpling stop, or `Ready? / No. / Perfect.` for the coffee anchor unless a later genuine contradiction requires reopening the lock.
 - Elizabeth remains nonmagical. Pathwell/Stansbury perform the working. Shade's draw is unrelated.
 - Elizabeth still ends the diner encounter herself under the prior lock.
 - No manuscript chapters have been edited.
 
-## Existing-story anchor search
+## Newly surfaced old-draft complication
 
-The current manuscript supplies a particularly strong candidate for the shared-memory requirement:
-
-- In Chapter 3, Elizabeth and Pathwell share memorably terrible coffee at the Space Between.
-- In Chapter 9, Elizabeth drinks memorably terrible coffee at the diner during the Shade conversation.
-- The diner coffee can therefore naturally trigger Elizabeth's memory of the Space Between at the same time Pathwell is cycling through genuine shared experiences trying to establish the longing connection.
-- This requires no telepathy: the connection catches only when both happen to be touching the same shared association, and Elizabeth has a concrete sensory reason to reach that memory.
+The earlier locating scene contains an additional mechanism not included in the locked wording of the full two-stage mechanism: Stansbury says Pathwell can send the chosen thought outward so it becomes an **itch / tip-of-the-tongue association** for Elizabeth. The old scene says this does not force the thought into her head, but it still creates mental influence. Because the locked Question 58 A only established the longing letter + simultaneous shared-memory requirement + grocery-list tracking, this nudge is not automatically restored.
 
 ## Exact resume point
 
 Ask exactly one question:
 
-> **Audit Question 59 — Which shared memory makes the locating connection catch?**
+> **Audit Question 60 — Does the longing stage nudge Elizabeth toward the shared memory?**
 >
-> **A. The terrible coffee.** Pathwell cycles through shared experiences while Elizabeth is at the diner. The diner coffee reminds her of the awful coffee at the Space Between; Pathwell reaches the same memory and the longing connection catches. Both halves are already present in the manuscript.
+> **A. No. The connection is passive.** Pathwell cycles through shared memories, but the longing letter cannot place, suggest, or heighten a thought in Elizabeth. It catches only when Elizabeth independently reaches the same memory. Her bad diner coffee already gives her a concrete reason to remember the Space Between coffee.
 >
-> **B. The dumpling stop.** Emotionally meaningful and genuinely shared, but the current diner scene gives Elizabeth less reason to be thinking about it at that exact moment.
+> **B. A very weak associative nudge.** The spell cannot transmit content, words, or images, but can make an already-existing associated memory slightly more salient — like something on the tip of her tongue. Elizabeth still supplies the memory herself.
 >
-> **C. The midpoint crash.** Both are likely thinking about it because it just happened. Easy to justify, but it makes the anchor primarily traumatic and risks making the locating requirement too easy whenever a recent shared event exists.
+> **C. Restore the old draft's stronger nudge.** Pathwell can send the selected thought/memory outward as an itch that may trigger it, though he cannot force Elizabeth to accept or dwell on it.
 >
-> **D. `Ready? / No. / Perfect.`** Strong structural importance and genuinely shared, but using the novel's principal framing rhyme as a tracking-spell key may overburden the motif.
+> **D. Remove simultaneity.** A genuine shared memory is enough to identify Elizabeth; she need not be thinking about it simultaneously. This avoids mental influence but makes locating significantly easier and removes the coffee-timing payoff.
 >
-> Audit lean: **A**. The current manuscript has already planted the same unpleasant coffee experience on both sides, giving the required simultaneous memory an organic sensory cause.
+> Audit lean: **A**. The existing bad-coffee sensory echo already makes the simultaneous connection plausible, so the target-nudge mechanic is unnecessary and would weaken the spell's limitation.
