@@ -58,3 +58,16 @@ This preserves draft staging but conflicts with the locked rule that emotionally
 ### Audit lean: **A**
 
 A keeps the climax's cause legible: this is a **prune-funded working that Pathwell knowingly forces through a broken intent**. It uses a capability already explicitly permitted by the pruning rules and avoids adding an emotionally charged object whose meaning, provenance, consumption, and waste would all need separate explanation. B is viable if the story specifically wants another symbolic charged record at the climax, but it makes the magic busier and blurs whether the catastrophe is fundamentally a pruning failure or a mixed-text failure. C invents a new continuity burden. D violates the emotional-text grain rule.
+
+---
+
+## Dedicated prune-funded reintegration working — LOCKED A
+
+- Remove the unspecified charged letter from Pathwell's forced reintegration setup.
+- Pathwell constructs a **dedicated magical working** whose intended function is to collapse/reintegrate Shade into Pathwell.
+- That working is capable of accepting pruning directly as payment under the established pruning rules.
+- No emotionally charged record is consumed as part of this attempt.
+- The exact visual/technical choreography of constructing the working remains for manuscript reconciliation unless a later contradiction requires more definition.
+- Preserve the causal chain: Pathwell proposes reintegration → Shade refuses → Pathwell proceeds anyway → Pathwell forces future possibility past the safe cancellation point despite his fundamental contradiction → the payment cannot settle into the intended working → malformed spillage/recoil erupts from Pathwell.
+- Do not introduce emotional-text interference, a second fuel source, or a surviving origin object as an alternate cause of failure.
+- No manuscript chapter has been edited.
