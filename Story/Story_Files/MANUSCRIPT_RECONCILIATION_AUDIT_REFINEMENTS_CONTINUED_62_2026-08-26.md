@@ -54,3 +54,15 @@ This preserves iceberg lore but leaves the character-bible `gives them toys inst
 ### Audit lean: **C**
 
 C keeps the existing character logic without inventing a universal foam rule. Stansbury's control/caution shows up in the effects he is willing to sell and hand people: he gives them functioning tools, but deliberately biases those tools toward protection and disruption rather than straightforward lethality. A over-systematizes the material; B makes the toy choice mostly aesthetic; D leaves an increasingly visible gap now that the weapons have become recurring world infrastructure.
+
+---
+
+## Q125 — Stansbury's standard foam inventory is safety-biased by design, not by a universal foam rule — LOCKED C
+
+- Foam itself does **not** impose a universal magical safety cap.
+- Stansbury deliberately designs his ordinary inventory around defensive, disruptive, containing, exposing, staggering, or otherwise risk-limiting effects rather than simply reproducing conventional lethal weapons.
+- The mundane foam body remains physically toy-like; the practical safety bias comes from Stansbury's chosen imbuements and product philosophy.
+- Individual effects can still be dangerous, and unusual/custom tools may differ when the story needs them.
+- Elizabeth's foam dagger can therefore cut anomalous blob material without establishing that foam is universally harmless or universally anti-lethal.
+- This makes the `gives them toys instead of real weapons` contradiction a manifestation of Stansbury's over-protective control rather than a fundamental law of magic.
+- No manuscript chapter has been edited.
