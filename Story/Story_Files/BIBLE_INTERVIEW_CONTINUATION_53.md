@@ -6,6 +6,7 @@ Read `BIBLE_INTERVIEW_CONTINUATION_52.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Newest locks
 
+- **Q115: Cadillac remains wrecked; Pathwell/Stansbury use another ordinary vehicle — LOCKED A.** The midpoint crash has a lasting physical consequence. No magical repair or supernatural-car rule is added. The moving-car Ask scene remains, but in borrowed/replacement transport.
 - **Q114: Space Between threshold exits near Camp's approach/edge — LOCKED A.** Pathwell and Elizabeth carry the Camp books through an established threshold, then make the final ordinary approach into Camp.
 - **Q113: Pathwell retrieves Nana's cookbook himself while Elizabeth stands by — LOCKED B, REFINED.**
 - **Q112: party setup remains implied after the crash opening — LOCKED A.**
@@ -13,20 +14,6 @@ Read `BIBLE_INTERVIEW_CONTINUATION_52.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - **Q109/Q110 corrected:** Chapter 3 prune pays for a substantial Camp book purchase plus older Space Between debt.
 - No manuscript chapters have been edited.
 
-## Existing-story finding
+## Q115 resolution
 
-Current Chapter 8 destroys Stansbury's maroon Cadillac in the midpoint crash: the car wraps around a telephone pole and the pole penetrates the front. Current Chapter 10 nevertheless has the same Cadillac driving to intercept Elizabeth shortly afterward, with no established supernatural or repair mechanism. Existing support already supplies a separate tracking method for finding Elizabeth, so the unresolved question is only what transport Pathwell/Stansbury use once they locate her.
-
-## Exact resume point
-
-> **Audit Question 115 — What should Pathwell and Stansbury use for transport after the Cadillac is wrecked?**
->
-> **A. Leave the Cadillac wrecked and have them obtain/borrow another ordinary vehicle before intercepting Elizabeth.** Preserves the physical consequence of the crash while keeping the moving-car Ask scene.
->
-> **B. Intercept Elizabeth without a car and use thresholds/other magical travel toward Camp.** Avoids replacement transport but changes the useful moving-car scene container.
->
-> **C. Magically repair/stabilize the Cadillac.** Preserves the prop but invents repair magic and erases consequence.
->
-> **D. Keep the Cadillac driving unexplained.** Leaves the causal gap.
->
-> **Audit lean: A.** Keep the wreck permanent and use ordinary replacement transport.
+Current Chapter 8 destroys Stansbury's maroon Cadillac in the midpoint crash. It stays wrecked. Pathwell and Stansbury obtain/borrow another ordinary vehicle before intercepting Elizabeth. Exact replacement source/staging can remain implementation detail unless later causality requires it.
