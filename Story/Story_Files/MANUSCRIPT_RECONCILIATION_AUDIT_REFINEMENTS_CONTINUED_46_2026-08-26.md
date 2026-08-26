@@ -45,3 +45,19 @@ This is economical, but the current manuscript provides no strong inference: the
 ### Audit lean: **A**
 
 A solves the causal gap with minimal lore. It also sharpens the character pattern without explanation: Pathwell spends part of his future, arrives carrying a package, hands it over, and treats the whole thing as routine. The story does not need to explain exactly what is inside unless a later scene uses it. B invents unnecessary infrastructure; C may over-specify; D leaves the existing disconnect intact.
+
+---
+
+## Q109 user correction — the purchase is a large book shipment and includes old debt — LOCKED, superseding the modest-parcel premise
+
+The Chapter 3 transaction is **not** a modest parcel or small supply run.
+
+- Pathwell is acquiring a **large quantity of books / book-based material for Camp Cunnan**, substantial enough to justify a visibly expensive transaction.
+- The books are for Camp's use, consistent with its archive/practical magical reserve and broader need for written material.
+- The payment is large not only because of the current shipment. Pathwell also uses the transaction to **settle what he already owes from previous dealings with the Space Between/custodian**.
+- The current manuscript line `Your bill has been paid in full` therefore has intended substance: this transaction clears an existing balance as well as paying for the new Camp shipment.
+- Pathwell's shaking/physical cost after pruning should remain proportionate to that combined payment.
+- This strengthens the established pattern that Pathwell lets obligations accumulate and then pays them by spending his own future rather than treating pruning as a trivial one-item purchase.
+- The exact origin and contents of the older balance are **not yet defined** by existing support and should not be invented without a separate decision if the manuscript needs them.
+- The old `modest physical parcel` framing from the initial Q109 options is superseded.
+- No manuscript chapter has been edited.
