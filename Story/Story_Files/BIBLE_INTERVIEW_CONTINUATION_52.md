@@ -6,6 +6,7 @@ Read `BIBLE_INTERVIEW_CONTINUATION_51.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Newest locks
 
+- **Q114: Space Between threshold exits at Camp's approach/edge — LOCKED A.** Pathwell and Elizabeth carry the purchased Camp books through an established threshold that brings them near Camp, not directly inside it. Elizabeth's follow-through remains part of her Chapter 3 agency choice; they make the final ordinary approach into Camp afterward.
 - **Q113: Pathwell retrieves Nana's cookbook himself while Elizabeth stands by — LOCKED B, REFINED.** Elizabeth's starting flaw remains compliance under pressure; the earlier support wording that she must physically hand him the cookbook is superseded.
 - **Q112: party setup remains implied after the crash opening — LOCKED A.**
 - **Q111: Elizabeth's recovery/continuation agency beat occurs after the Camp-book transaction — LOCKED A.** She enters the Space Between because Pathwell still has her belongings; after the transaction she gets them back, puts them atop the Camp-book stack, and chooses to continue.
@@ -15,18 +16,8 @@ Read `BIBLE_INTERVIEW_CONTINUATION_51.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Existing-story finding
 
-Q111 now makes the physical route out of the Space Between relevant to Elizabeth's agency beat. Current Chapter 3 does not establish that onward route, while Chapter 4 begins with arrival at Camp. Existing world rules already allow the Space Between to connect through multiple thresholds and Camp to be reached through established anchors/routes. The open issue is whether the threshold should enter Camp directly or only bring them to its current approach/edge.
+Q111 now makes the physical route out of the Space Between relevant to Elizabeth's agency beat. Current Chapter 3 does not establish that onward route, while Chapter 4 begins with arrival at Camp. Existing world rules already allow the Space Between to connect through multiple thresholds and Camp to be reached through established anchors/routes. The open issue was whether the threshold should enter Camp directly or only bring them to its current approach/edge.
 
-## Exact resume point
+## Resolution
 
-> **Audit Question 114 — How should Pathwell and Elizabeth travel from the Space Between to Camp with the purchased books?**
->
-> **A. Use an established Space Between threshold that exits near Camp's current approach/edge, not directly inside Camp.** They carry the books through, then make the final ordinary approach. This preserves Camp's moving-place boundaries while keeping Elizabeth's continuation choice immediate and physical.
->
-> **B. Use a threshold that opens directly inside Camp.** Simplest, but makes Camp substantially easier to access and weakens its elusive/moving-place quality.
->
-> **C. Return to the ordinary world and travel mundanely the rest of the way, mostly off-page.** Preserves geographic elusiveness but adds unnecessary travel/logistics.
->
-> **D. Cut directly from Elizabeth's choice to Chapter 4 and never explain the route.** Economical but creates continuity weakness around the stack she is physically carrying.
->
-> **Audit lean: A.** Use existing threshold lore but stop short of door-to-door access: the threshold gets them to Camp's approach, and they still have to enter the moving place normally.
+**LOCKED A:** use an established Space Between threshold that exits near Camp's current approach/edge, not directly inside Camp. Pathwell and Elizabeth physically carry the books through; Elizabeth chooses to follow after recovering her own belongings. They then make the final ordinary approach into Camp. Exact threshold appearance and choreography remain deferred to manuscript reconciliation.
