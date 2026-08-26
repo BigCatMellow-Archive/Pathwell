@@ -9,6 +9,7 @@ Read `BIBLE_INTERVIEW_CONTINUATION_38.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - **Coda directly but briefly establishes Pathwell's three weeks of Camp restitution — LOCKED A.** He stays under Camp's terms, repairs/rebuilds what can be repaired, replaces recoverable practical losses where possible, and uses no pruning or magical shortcut. Irreplaceable archive records remain lost. Keep this to a concise narrated bridge, not a separate redemption subplot.
 - **Pathwell considers the other family's cookbook as a substitute for Nana's — LOCKED A.** Elizabeth's `That isn't mine.` / Pathwell's `No.` / Elizabeth's `Good.` rejects interchangeability; Pathwell leaves the substitute behind.
 - **The final errand is unrelated to the substitute cookbook and is chosen by Elizabeth — LOCKED A.**
+- **Elizabeth's side of Stansbury's `you owe her for the rest` is not a payable ledger debt — LOCKED A.** Pathwell owes ongoing accountability through changed behavior; he cannot settle Elizabeth's harm with an equivalent object, sufficiently costly payment, or self-selected form of repair. The coda does not declare the obligation paid, forgiven, or released.
 - **Exact ending wording remains locked:** `Are you ready?` / `No.` / `Perfect.` as the final three lines, with no dialogue after `Perfect.`
 - No manuscript chapters have been edited.
 
@@ -21,22 +22,11 @@ Read `BIBLE_INTERVIEW_CONTINUATION_38.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - No praise/hype; evaluate independently and push back when warranted.
 - Ask exactly one A/B/C/D-style question at a time.
 
-## Existing-story finding
+## Q101 lock
 
-Chapter 12b leaves Pathwell with two debts: `You owe the camp for the archive` and `And Elizabeth. You owe her for the rest.` Q100 now gives the Camp side a concrete form through ordinary restitution. But Pathwell's core flaw is treating costs and relationships as ledger problems he can solve by selecting an equivalent and paying for it, and Q99 intentionally shows that residue when he tries to replace Nana's cookbook with another family's record. Existing support does not define a literal material settlement or formal forgiveness for the Elizabeth side of Stansbury's line.
-
-The next decision is whether Elizabeth's harm is another account Pathwell can settle, or whether the story should distinguish material restitution from interpersonal accountability that cannot be balanced by an equivalent transaction.
-
-## Exact resume point
-
-> **Audit Question 101 — What does `you owe her for the rest` ultimately mean?**
->
-> **A. It is a real moral obligation, but not a debt Pathwell can settle with an equivalent payment.** What he owes is accountability expressed through changed behavior: respecting Elizabeth's choices, not deciding what repair should mean for her, and accepting that some consequences remain. The coda leaves the account intentionally unbalanced; the substitute-cookbook attempt exposes his residual transactional instinct.
->
-> **B. Pathwell makes concrete material restitution to Elizabeth as well as Camp.** Tangible, but risks implying sufficiently complete compensation settles the relational harm.
->
-> **C. Elizabeth explicitly forgives him and releases the debt.** Clear repair, but makes her certify his redemption and creates a neat emotional settlement the ending has avoided.
->
-> **D. Remove Stansbury's `And Elizabeth. You owe her for the rest.` line.** Avoids transactional wording but loses the contrast between materially reparable damage and interpersonal consequence that must be answered through behavior.
->
-> **Audit lean: A.** Camp can demand concrete repair for reparable losses; Elizabeth cannot be reduced to an account Pathwell can balance. The difference directly challenges his ledger logic without requiring forgiveness or pretending consequences can be erased.
+- Keep Stansbury's `And Elizabeth. You owe her for the rest.` as a real moral obligation.
+- Camp's reparable losses can receive material restitution; Elizabeth's harm cannot be reduced to an account Pathwell can balance.
+- What he owes is respect for her choices/boundaries, refusal to decide unilaterally what repair means, and willingness to live with consequences that cannot be reversed.
+- Q99's substitute-cookbook attempt is residual ledger thinking, not successful restitution.
+- Elizabeth does not need to forgive him or certify his redemption.
+- No manuscript chapters have been edited.
