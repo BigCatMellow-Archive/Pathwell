@@ -47,6 +47,21 @@ This makes the logistics easy and fits his defensive specialization, but establi
 
 This avoids contact timing but weakens the Chapter 5 introduction of his defensive philosophy and delays the dagger setup needed for Elizabeth's later rescue of Pathwell.
 
-### Audit lean: **A**
+### Original audit lean: **A**
 
-A is the smallest causal completion of Q121. If Pathwell already formed the plan after Chapter 1, giving Stansbury advance notice explains both the arranged school meeting and the prepared tools without adding a fast-imbuing rule or a permanent weapons cache. The message itself does not need much page time; the important fact is that Stansbury had warning.
+A was initially favored as the smallest causal completion of Q121 because it avoided assuming rapid imbuing or a permanent cache.
+
+---
+
+## Q122 — Stansbury routinely keeps pre-imbued foam weapons as working inventory — LOCKED C, REFINED
+
+User clarification: Stansbury's imbued weapons are **a source of income for him**.
+
+- Stansbury routinely makes/keeps pre-imbued foam swords, daggers, and similar defensive tools as inventory connected to his livelihood.
+- Therefore the Chapter 5 box does **not** need to have been prepared specifically for Pathwell after Chapter 1.
+- Pathwell does not need to give Stansbury advance warning merely to explain why working weapons are already available.
+- The ready inventory is not evidence that imbuing is instant or that a whole box can be prepared during the twenty-minute wait.
+- This also gives the deliberately toy-like weapons a practical reason to exist outside this one plot incident: they are part of Stansbury's ordinary work rather than bespoke emergency props.
+- Do not overdefine the business yet: exact clientele, prices, sales channel, production rate, and whether this is his sole or only major income source remain open unless the manuscript later requires them.
+- Q121 still stands: Pathwell had already decided he wanted Stansbury's defensive help after the Chapter 1 blob incident, but that decision is separate from Stansbury already having suitable inventory.
+- No manuscript chapter has been edited.
