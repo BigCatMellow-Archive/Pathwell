@@ -6,6 +6,7 @@ Read `BIBLE_INTERVIEW_CONTINUATION_43.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Newest locks
 
+- **Q106: pre-imbued tools can be used non-magically — LOCKED A.** Stansbury performs the magical preparation in advance; once imbued, the weapon's narrow effect can trigger through ordinary physical use. Elizabeth does not cast, shape magic, supply charge, or become a practitioner by wielding the dagger. `Stansbury makes the tool magical; Elizabeth chooses to use it.` Exact imbuing cost/duration/recharge remain undefined unless needed.
 - **Q105: successful Nana-cookbook healing leaves no blob-attracting waste — LOCKED A.** Harmless sensory afterglow may remain; Pathwell seeks Stansbury because of the unresolved Chapter 1 blob threat and Stansbury's defensive usefulness.
 - **Q104: Stansbury uses ordinary aid after the museum — LOCKED A.** No Civil War museum artifact is consumed to heal Pathwell.
 - **Q103 superseded: substitute-cookbook beat is silent and personal to Pathwell.**
@@ -25,22 +26,10 @@ Read `BIBLE_INTERVIEW_CONTINUATION_43.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - No praise/hype; evaluate independently and push back when warranted.
 - Ask exactly one A/B/C/D-style question at a time.
 
-## Existing-story finding
+## Q106 lock
 
-Elizabeth has a hard non-magical boundary: she does not cast, imbue, or activate magic as a practitioner. But her locked bar-rescue beat requires her to independently use Stansbury's **imbued toy dagger** to cut Pathwell free. Current Chapter 5 has Stansbury murmur words before demonstrating an imbued foam sword, which can imply active magical activation by the wielder. Existing world rules acknowledge imbuing but do not define whether a prepared tool can be used by a non-practitioner.
+Stansbury's imbued weapons are prepared magical tools. The magical work is done in advance by Stansbury. A finished weapon's narrow effect can trigger through ordinary physical use, including use by a non-practitioner. Elizabeth's dagger rescue therefore remains fully compatible with her hard non-magical boundary: she simply chooses to swing/cut with a tool Stansbury previously made magical. Current Chapter 5's muttered words are not a universal activation requirement and can be revised during manuscript reconciliation. Exact resource cost, duration, and recharge rules remain iceberg lore unless later evidence requires them.
 
-The next decision should therefore fix only the activation rule needed by the story, without unnecessarily building an entire imbuing subsystem.
+## Resume instruction
 
-## Exact resume point
-
-> **Audit Question 106 — How should Stansbury's imbued weapons activate when Elizabeth uses the dagger?**
->
-> **A. The magical work is done in advance by Stansbury; once imbued, the weapon's narrow effect triggers through ordinary physical use, so a non-practitioner can wield it without casting.** Elizabeth simply swings/cuts with the prepared tool. She supplies no charge, spell, or magical shaping. Exact imbuing cost/duration can remain undefined unless later needed.
->
-> **B. Stansbury must remotely trigger the dagger while Elizabeth uses it.** Keeps her non-magical but makes the rescue partly his action rather than hers.
->
-> **C. Elizabeth personally activates the imbuing when she swings.** Straightforward but violates her hard non-magical boundary.
->
-> **D. The dagger works mundanely in the rescue and its imbuing is irrelevant.** Keeps Elizabeth non-magical but discards the established Stansbury weapon payoff.
->
-> **Audit lean: A.** Stansbury makes the tool magical; Elizabeth makes the choice to use it. That preserves both the magic boundary and the agency beat with minimal new lore.
+Search the existing repo for the next genuine unresolved contradiction, stale beat, information problem, or causal gap. Do not reopen already-settled Chapters 6–8 bar/blob/crash material unless a new contradiction specifically requires it. Ask exactly one A/B/C/D-style question with concise cold-reader context and an analytical lean.
