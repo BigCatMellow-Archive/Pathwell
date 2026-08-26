@@ -19,24 +19,14 @@ The endpoint can still preserve the final eye-contact image and Shade's relief. 
 
 ---
 
-## Audit Question 90 — What actually causes the draw to stop during Shade's final eye contact with Pathwell?
+## Draw quiets because cleanup has begun removing Shade's anomaly; eye contact is emotional, not mechanical — LOCKED A
 
-### A. The blob has begun cleaning/removing Shade's underlying anomaly; eye contact is emotional, not the mechanical trigger.
-
-As Shade steps into the cleanup path, the blob begins taking hold of the unresolved pruning-waste structure that sustains him and the draw. The draw goes quiet before Shade is fully absorbed. Shade and Pathwell happen to hold eye contact during that release, so the emotional endpoint remains intact without establishing that looking at one another is a spell condition. Shade may not know whether the quiet came from being seen or from beginning to disappear.
-
-### B. Pathwell's final gaze is qualitatively different: genuine recognition of Shade as an independent person breaks the draw.
-
-This makes the moment strongly thematic and distinguishes it from earlier visual contact. But it adds a new psych-responsive magic rule in which Pathwell's internal recognition can alter a deterministic tether, a mechanism not otherwise established.
-
-### C. The failed reintegration working already damaged/severed the draw, and it happens to collapse fully at the later eye-contact moment.
-
-This ties release to the catastrophe rather than the blob, but requires a delayed-effect rule and still needs explanation for why the final collapse occurs at exactly that later moment.
-
-### D. Literal eye contact itself releases the draw.
-
-This preserves the current character-bible sentence exactly, but conflicts with the museum confrontation and would require contriving that Shade and Pathwell somehow never truly looked at one another until the instant before Shade's death.
-
-### Audit lean: **A**
-
-A preserves the locked visual/emotional sequence — **eye contact → draw quiet → relief → absorption** — while separating symbolism from mechanics. The blob is already established to remove the unresolved pruning anomaly that constitutes Shade; allowing cleanup contact to begin destabilizing the draw requires less new lore than making Pathwell's recognition magically operative. It also leaves Shade's final uncertainty intact: he can experience release while not knowing whether Pathwell finally saw him or whether the end simply arrived.
+- The climactic eye contact remains part of Shade's emotional endpoint, but **ordinary eye contact does not break or release the draw**.
+- As Shade steps into the blob's cleanup path, the blob begins taking hold of/removing the unresolved pruning-waste anomaly that sustains Shade.
+- The draw begins to collapse as that underlying anomaly is being removed and goes quiet before Shade is fully absorbed.
+- Shade and Pathwell are looking at one another when the quiet arrives, preserving the intended sequence: **eye contact → draw quiet → relief → absorption**.
+- Do not establish a new rule in which Pathwell's recognition, gaze, confession, or internal state magically alters the draw.
+- Do not imply the failed reintegration independently severed the draw on a delay.
+- Shade may remain uncertain whether the final quiet felt like being seen or simply like the beginning of the end; the story does not need to resolve that ambiguity for him.
+- Replace/supersede the stale character-bible claim `Eye contact was enough` during later support/manuscript reconciliation.
+- No manuscript chapter has been edited.
