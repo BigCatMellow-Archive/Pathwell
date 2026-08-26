@@ -46,3 +46,15 @@ This avoids the rules conflict but leaves the transition to Chapter 5 under-moti
 ### Audit lean: **A**
 
 A preserves the successful cookbook sacrifice, keeps the world rule clean, and uses an already-established problem rather than inventing a new contamination mechanism. The Chapter 1 blob is still unexplained from Pathwell's perspective, so seeking his brother's defensive help is a natural escalation. B creates another failed-working beat where the story does not need one. C destabilizes the blob ecology across the book. D is mechanically safe but causally thin.
+
+---
+
+## Q105 follow-through — successful cookbook healing leaves no blob-attracting waste — LOCKED A
+
+- The Nana-cookbook healing remains a successful emotional-text working.
+- It may leave a brief harmless sensory/visual afterglow — warmth, scent, gold shimmer, or similar atmosphere — but this is **not** unclaimed magical waste.
+- Remove the claim that the healing residue attracts blobs or other cleanup creatures.
+- Pathwell seeks Stansbury because the Chapter 1 blob appeared under circumstances he still does not understand and he wants additional defensive help/expertise.
+- Stansbury's defensive usefulness and imbued weapons supply the existing practical reason to recruit him.
+- Do not reframe Elizabeth's cookbook sacrifice as a failed or unstable working merely to preserve the old transition.
+- No manuscript chapter has been edited.
