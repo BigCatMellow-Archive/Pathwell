@@ -2,10 +2,11 @@
 
 Status: **AUDIT REFINEMENT ONLY — NO MANUSCRIPT CHAPTERS EDITED**
 
-Read `BIBLE_INTERVIEW_CONTINUATION_44.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_44_2026-08-26.md`. The latter contains the newest exact resume point.
+Read `BIBLE_INTERVIEW_CONTINUATION_44.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_44_2026-08-26.md`.
 
 ## Newest locks
 
+- **Q107 corrected by user: Chapter 3 prune buys supplies for Camp Cunnan.** The earlier framing of the purchase as a discretionary personal charged object is superseded. The clean prune demonstrates Pathwell spending his own future to provide for other people and making himself the mechanism that solves their needs. Exact supply contents and the current tome/envelope staging remain unresolved.
 - **Q106: pre-imbued tools can be used non-magically — LOCKED A.** Stansbury performs magical preparation in advance; Elizabeth can use the dagger through ordinary physical action without casting or becoming a practitioner.
 - **Q105: successful Nana-cookbook healing leaves no blob-attracting waste — LOCKED A.** Harmless afterglow only; Stansbury recruitment follows from the unresolved Chapter 1 blob threat.
 - **Q104: Stansbury uses ordinary aid after the museum — LOCKED A.** No museum artifact is consumed to heal Pathwell.
@@ -26,20 +27,8 @@ Read `BIBLE_INTERVIEW_CONTINUATION_44.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - No praise/hype; evaluate independently and push back when warranted.
 - Ask exactly one A/B/C/D-style question at a time.
 
-## Existing-story finding
+## Q107 correction
 
-Chapter 3 is the clean baseline for ordinary successful pruning, but the purchase itself is visually ambiguous: the shopkeeper produces a leather-bound tome before the prune and slides Pathwell an envelope afterward, with neither object receiving a clear later role. Existing support says the important purpose is to show Pathwell treating pruning as routine currency, not to introduce a required major plot device.
+The intended original Chapter 3 transaction is **Pathwell buying supplies for Camp Cunnan with a clean prune**. A repo search did not locate a newer contradictory assignment for the purchase. This changes the interpretive function of the beat: Pathwell is not pruning because he wants a personal luxury; he is pruning because other people need things and he has normalized paying with himself to provide them.
 
-## Exact resume point
-
-> **Audit Question 107 — What should Pathwell's early clean prune actually purchase?**
->
-> **A. A useful charged record/material he wants but does not urgently need; keep the transaction deliberately casual.** The tome can be the purchased object. The unexplained envelope can be removed or reduced to ordinary packaging later. This establishes Pathwell spending future possibility because it is convenient, not because an emergency forces him.
->
-> **B. Something essential to the immediate plot.** Stronger causal utility, but makes the pruning more defensible and weakens the baseline of casual habitual use.
->
-> **C. Information specifically about the blob/Elizabeth mystery.** Connects the transaction to the investigation but risks giving Pathwell too much useful direction before the later mirror/Ask progression.
->
-> **D. Preserve the current tome-plus-envelope ambiguity.** Keeps manuscript staging but makes the story's clean pruning comparison case unnecessarily unclear.
->
-> **Audit lean: A.** The early prune should establish the habit at its least defensible: Pathwell spends future possibility for something merely useful because pruning is an available shortcut.
+This fits the established `convenience dressed as mercy` pattern more closely than the initial Q107 framing. The exact supplies and whether the current leather-bound tome/envelope staging should survive remain open for later audit.
