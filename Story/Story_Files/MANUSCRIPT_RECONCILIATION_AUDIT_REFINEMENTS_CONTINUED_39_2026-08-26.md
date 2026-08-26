@@ -52,3 +52,18 @@ This creates a superficially exact role reversal but reproduces the same underly
 ### Audit lean: **A**
 
 A preserves every locked word while making the reversal substantive rather than cosmetic. The ending is not `Elizabeth gets to do to Pathwell what he did to her.` It is `Elizabeth can choose the direction without taking away Pathwell's choice to come.` His final `No` then carries the uncertainty theme cleanly: he does not need to feel ready or know what happens next in order to choose movement. B may work in prose, but because the line deliberately echoes an opening consent failure, one small pre-exchange action establishing Pathwell's willing participation gives the reader the necessary distinction without explanation. C reduces the thematic weight; D contradicts the central agency rule.
+
+---
+
+## Q102 follow-through — final `No` means unreadiness after prior consent to go — LOCKED A
+
+- Before the exact final three lines, Pathwell makes an unambiguous voluntary choice to accompany Elizabeth on the errand she has chosen.
+- This choice should be shown nonverbally or with minimal staging rather than through explanatory dialogue.
+- Therefore `Are you ready?` asks about readiness/uncertainty, **not** permission or consent to travel.
+- Pathwell's `No.` means `I am not ready`, not `I refuse to go`.
+- Elizabeth's `Perfect.` accepts uncertainty and unreadiness; it does not override a boundary.
+- The opening/ending rhyme is a moral reversal, not merely a speaker swap:
+  - opening: Elizabeth has not chosen the movement and Pathwell proceeds over her resistance;
+  - ending: Elizabeth chooses the direction, Pathwell independently chooses to accompany her, and neither requires certainty before moving.
+- Exact final wording remains locked: `Are you ready?` / `No.` / `Perfect.` with no dialogue after `Perfect.`
+- No manuscript chapter has been edited.
