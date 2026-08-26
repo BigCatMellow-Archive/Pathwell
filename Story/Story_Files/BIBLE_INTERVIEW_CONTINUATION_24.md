@@ -4,11 +4,11 @@ Status: **AUDIT REFINEMENT ONLY — NO MANUSCRIPT CHAPTERS EDITED**
 
 Read `BIBLE_INTERVIEW_CONTINUATION_23.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_23_2026-08-25.md`. The latter contains the newest lock and exact resume point.
 
-## Newest lock
+## Newest locks
 
 - **Shoulder-stabilization letter = love expressed through letting go — LOCKED D.** The letter's exact relationship/biography remains unspecified. Its emotional grain is support without possession, holding without trapping, and caring while accepting separation. It supports Shade's narrow set-and-hold working without becoming full healing or a miniature backstory.
+- **Shade's echo is briefly perceptible but unexplained — LOCKED B.** Shade briefly experiences the consumed letter's love-without-possession / letting-go emotional echo. The prose may show a pause, altered stillness, expression, or rhythm, but Shade does not explain the letter, receive an explicit lesson, or have his later choices magically decided by it.
 - Avoid a deathbed/permission-to-die framing because it would foreshadow Shade's eventual death too directly.
-- Shade may sense the letter's emotional character through contact without reading its biography.
 - No manuscript chapters have been edited.
 
 ## Process rules still active
@@ -20,20 +20,8 @@ Read `BIBLE_INTERVIEW_CONTINUATION_23.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - No praise/hype; evaluate independently and push back when warranted.
 - Ask exactly one A/B/C/D-style question at a time.
 
-## Existing-story finding
+## Next audit check
 
-The emotional-text rules require the activating practitioner to carry a temporary echo of the consumed record. Because Shade activates the letting-go letter, he necessarily experiences some version of its emotion/meaning afterward. The open question is how visible that echo should be. It must not magically decide Shade's later refusal, forgiveness, or fate.
+Current Chapter 12 still says `The diary was still in her bag` immediately after the shoulder-stabilization scene. Newer canon requires Elizabeth to voluntarily donate the diary to Camp's archive before the climax, and the later buyback sequence has now been removed entirely, so the diary must remain Camp property from donation until the archive fire.
 
-## Exact resume point
-
-> **Audit Question 84 — How visible should the letter's `letting go` echo be in Shade after he stabilizes Elizabeth?**
->
-> **A. Barely visible.** The echo exists but remains nearly entirely below the prose surface.
->
-> **B. Briefly perceptible but not explained.** Shade experiences a short wash of love-without-possession / letting-go emotion. He does not explain it or turn it into a lesson; it becomes subtext for the following tree-line conversation.
->
-> **C. Explicit/informational.** Shade receives a concrete fragment of the original writer's situation and consciously recognizes the parallel to himself. Clearer but risks authorial overstatement and magical coaching.
->
-> **D. Suppress the echo entirely.** Conflicts with the established emotional-text rule.
->
-> **Audit lean: B.** It lets the symbolic letter register while preserving Shade's independent judgment. The magic may affect what he experiences; it does not decide what he believes or chooses.
+Search existing support/manuscript material before deciding exactly when the on-page donation occurs. Do not invent a new placement until the repo has been checked.
