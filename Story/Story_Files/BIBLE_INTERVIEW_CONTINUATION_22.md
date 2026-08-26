@@ -8,6 +8,7 @@ Read `BIBLE_INTERVIEW_CONTINUATION_21.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 - **Shade anticipates reintegration through draw pressure plus his own prediction — LOCKED C+A HYBRID.** The draw contributes only supported bodily pressure/certainty that Pathwell is coming; it does not reveal the plan. Shade predicts likely absorption/reintegration from Pathwell's habits, creation-time fragments, and observed control reflex.
 - **Shade's Pathwell-like cup gesture is borrowed residue, not personal age — LOCKED B.** Preserve the resemblance, but frame it as secondhand/inherited Pathwell mannerism carried into a different person. Remove `worn ... by time and use` or any implication Shade personally accumulated years/centuries of habit.
+- **Pathwell's pattern is old; the Pathwell/Shade conflict is new — LOCKED A.** Shade is recent. Elizabeth may recognize that Pathwell's controlling/pruning pattern predates her involvement, but must not imply Shade and Pathwell have literally been in conflict since before she was born. Shade is a recent person produced by an old habit.
 - No manuscript chapters have been edited.
 
 ## Process rules still active
@@ -21,18 +22,18 @@ Read `BIBLE_INTERVIEW_CONTINUATION_21.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Existing-story finding
 
-Current Chapter 12 says Elizabeth is standing inside something between Shade and Pathwell that has been happening `since before she'd been born`. This is chronologically incompatible with Shade being recently created. The useful underlying idea can survive if the old thing is Pathwell's longstanding behavioral pattern rather than a decades/centuries-long Shade/Pathwell relationship.
+Current Chapter 12 ends the tree-line conversation with Shade telling Elizabeth `you're not what he described` and then saying Pathwell described `Something he was holding onto.` There is no supported post-creation information channel or on-page conversation in which Pathwell actually describes Elizabeth to Shade. Earlier audit canon already allows the underlying `holding onto` judgment only as Shade's interpretation of Pathwell's observed behavior. Shade has directly seen enough control/possessive behavior—including Pathwell's museum `you took her from me` slip—to make that inference without secret information.
 
 ## Exact resume point
 
-> **Audit Question 81 — What should Elizabeth understand as the "old" thing here?**
+> **Audit Question 82 — How should Shade's final assessment of Elizabeth be grounded?**
 >
-> **A. The conflict is new; Pathwell's pattern is old.** Shade is recent, but the behavior that produced him—Pathwell taking ownership of problems, pruning ahead, and deciding for others—predates Elizabeth's involvement by a long time. Shade is the newest consequence of an older pattern.
+> **A. Reframe it as Shade's inference from Pathwell's behavior.** Pathwell acts as though Elizabeth is something he can hold onto/manage; Shade observes that Elizabeth is not that. Remove the claim that Pathwell literally `described` her this way.
 >
-> **B. Remove all age/history framing.** Elizabeth understands only that the conflict belongs primarily to Shade and Pathwell, not to her. Clean but loses the tie to Pathwell's longstanding flaw.
+> **B. Add a museum line where Pathwell explicitly describes Elizabeth that way.** Makes the current wording literal but crowds the confrontation and requires unusually explicit self-disclosure from Pathwell.
 >
-> **C. Treat the apparent age as inherited Pathwell history inside Shade.** Possible, but risks blurring borrowed fragments with Shade's own relationship history.
+> **C. Put the description in Shade's creation-time fragments.** Invalid because Elizabeth entered Pathwell's life after Shade's creation.
 >
-> **D. Keep the literal `before she'd been born` implication by making Shade older.** Conflicts with the recently-created lock.
+> **D. Cut the `holding onto` assessment entirely.** Mechanically safe but removes a supported observation Shade can legitimately infer.
 >
-> **Audit lean: A.** It preserves the useful scale without false chronology: Shade is a recent person produced by an old habit. It also reinforces that Elizabeth is not the center of the Pathwell/Shade problem while keeping Shade's own biography recent.
+> **Audit lean: A.** It preserves Shade's perceptiveness and the thematic observation while respecting the information boundary. The judgment comes from what Pathwell visibly does, not privileged access to what he privately thinks.
