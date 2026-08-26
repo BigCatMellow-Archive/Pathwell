@@ -27,18 +27,18 @@ That creates a handling question rather than a mechanics question. The echo can 
 
 ---
 
-## Audit Question 84 — How visible should the letter's `letting go` echo be in Shade after he stabilizes Elizabeth?
+## Shade's letting-go echo is briefly perceptible but unexplained — LOCKED B
 
-### Options
+- After Shade activates the shoulder-stabilization letter, he briefly experiences its emotional echo: **care/love that does not become possession, and attachment that still allows separation**.
+- The echo should be perceptible in the prose only through a brief pause, altered stillness, expression, rhythm, or similarly restrained reaction.
+- Shade does **not** explain the letter, receive an explicit moral lesson from it, or consciously announce that it parallels his own situation.
+- The echo may become subtext for the tree-line conversation that follows, but it does not cause Shade's refusal, forgiveness, judgment, or later choices.
+- Preserve the world rule that emotional-text magic can affect what a recipient/practitioner experiences without deciding what they believe or do.
+- Do not add a concrete biographical fragment from the original writer unless later evidence requires one; the exact relationship remains unspecified.
+- No manuscript chapter has been edited.
 
-**A. Barely visible.** The echo exists mechanically but stays almost entirely below the prose surface; perhaps only a momentary stillness or altered expression suggests it.
+---
 
-**B. Briefly perceptible but not explained.** Shade gets a short, recognizable wash of love-without-possession / letting-go emotion after the working. He does not explain the letter or draw a lesson from it. The echo becomes subtext for the tree-line conversation that follows, while his choices remain his own.
+## Next audit check
 
-**C. Make the echo explicit and informational.** Shade receives a concrete fragment from the original writer's situation and recognizes the parallel to himself. This makes the symbolism clear but risks turning the letter into an author-delivered lesson.
-
-**D. Suppress the echo entirely for this working.** This would conflict with the existing rule that the activator carries the echo of consumed emotional text.
-
-### Audit lean: **B**
-
-B lets the symbolic choice register without making the magic instruct Shade what to believe. The letter can put him briefly inside the emotional truth of caring without keeping, then leave him to face Pathwell with the same unresolved fear, refusal, and need for independent personhood he already had. A is mechanically valid but makes the symbolic letter largely invisible to the reader; C overexplains and risks making Shade's later stance feel magically coached; D violates the established echo rule.
+Continue reconciling Chapter 12 against the locked Camp/diary sequence. Current Chapter 12 still says `The diary was still in her bag` after the shoulder scene, while newer canon requires Elizabeth to voluntarily donate the diary to Camp's archive before the climax and the newly removed buyback means it must remain Camp property through the fire. Search existing support/manuscript material before deciding exactly when the donation happens on-page.
