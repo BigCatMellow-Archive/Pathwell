@@ -46,3 +46,15 @@ This avoids having to seed a party, but discards an already-locked entry behavio
 ### Audit lean: **A**
 
 A preserves the strongest existing opening while supplying enough causal information. The story does not need to watch Pathwell infiltrate the party; it only needs the environment to support how he got there. Keeping the reader in Elizabeth's perspective also protects the opening misread: she wakes into a situation already in motion and initially has no reason to understand that Pathwell was scavenging rather than targeting her. B explains too much too early and displaces the locked first line. C is workable but spends opening momentum on setup. D throws away a compatible existing lock without necessity.
+
+---
+
+## Q112 LOCK — A: Party setup remains implied after the crash opening
+
+- Preserve `It was the crash that woke her.` as the first line and true opening beat.
+- Do not add a Pathwell prelude or an Elizabeth-before-sleep party scene.
+- Establish the nearby party only through immediate environmental evidence available after Elizabeth wakes: hallway music/voices, people or cups, door traffic, or similarly brief cues.
+- Pathwell's exact route into the building does not need to be shown on-page.
+- Later context may make clear that he blended in as a party guest, wandered the hall while scavenging charged material, noticed Elizabeth's slightly open apartment door and strong diary/cookbook charge, and entered.
+- The reader should initially share Elizabeth's disorientation rather than know Pathwell's motive in advance.
+- No manuscript chapter was edited.
