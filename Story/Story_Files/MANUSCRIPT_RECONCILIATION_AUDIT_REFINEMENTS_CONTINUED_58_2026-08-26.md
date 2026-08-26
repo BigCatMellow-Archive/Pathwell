@@ -53,3 +53,14 @@ This preserves economy but leaves the Chapter 4-to-5 causal bridge thin once the
 ### Audit lean: **A**
 
 A uses the already-locked Chapter 1 threat rather than inventing another trigger. It also fits Pathwell's habit of stacking obligations and assuming he can keep control of several moving problems at once. The key constraint is tonal: he should regard the blob problem as unresolved and concerning, not as an immediate emergency he inexplicably postpones. B adds unnecessary assignment; C works but needs extra internal justification; D leaves the transition unsupported.
+
+---
+
+## Q121 — Pathwell planned to seek Stansbury after the Chapter 1 blob incident — LOCKED A
+
+- Pathwell decides soon after the Chapter 1 blob encounter that he wants Stansbury's defensive help/expertise.
+- The Space Between/Camp book errand is an already-existing obligation that Pathwell completes first.
+- The Camp healing does **not** create or trigger the Stansbury plan.
+- After Camp, Pathwell simply resumes the next step he already intended to take.
+- Pathwell regards the unresolved blob situation as concerning but not an immediate emergency; his willingness to handle the Camp obligation first reflects his overconfidence and habit of stacking problems he assumes he can control.
+- No manuscript chapter has been edited.
