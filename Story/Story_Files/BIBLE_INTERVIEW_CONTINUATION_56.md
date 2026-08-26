@@ -6,6 +6,7 @@ Read `BIBLE_INTERVIEW_CONTINUATION_55.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Newest locks
 
+- **Q118: `The choice is yours` is deliberate Pathwell blind-spot irony — LOCKED A.** Pathwell sincerely thinks he has stopped pressuring Elizabeth, but fails to notice that walking away with her diary/cookbook still constrains her. He is not deliberately using them as leverage. Q111 remains the contrast: only after she recovers them after the Space Between transaction does she make a genuinely optional continuation choice.
 - **Q117: Stansbury keeps the lasting archive-fire scar by choice — LOCKED A.** He accepts necessary treatment but refuses extraordinary magical repair intended to erase the scar; Pathwell respects that boundary.
 - **Q116: Stansbury leads through coordination and trust — LOCKED A.**
 - **Q115: Cadillac remains wrecked; ordinary replacement vehicle — LOCKED A.**
@@ -15,22 +16,8 @@ Read `BIBLE_INTERVIEW_CONTINUATION_55.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - **Q111: Elizabeth's recovery/continuation agency beat occurs after the Camp-book transaction — LOCKED A.**
 - No manuscript chapters have been edited.
 
-## Existing-story finding
+## Q118 resolution
 
-At the end of Chapter 2 Pathwell tells Elizabeth `It's up to you what you want to do next. The choice is yours, Lizzy.` He then walks away while still carrying her cookbook/diary. Elizabeth notices he still has the cookbook and follows him for that reason. Q111 now explicitly requires her to keep pursuing him into the Space Between because he still has her belongings, and only after the transaction recover them and make the later genuinely optional choice to continue.
+At the end of Chapter 2, Pathwell tells Elizabeth `The choice is yours` while still carrying her property. This remains intentional characterization rather than stale framing. Pathwell thinks that because he has stopped issuing instructions, Elizabeth is now free to decide. He does not account for the constraint he created by retaining her belongings. Elizabeth follows for the practical reason of recovering what is hers. The later Chapter 3 beat is deliberately different: once she actually has her diary/cookbook back, her decision to continue is materially free.
 
-No support file currently says whether Chapter 2's `choice is yours` line is deliberate Pathwell blind-spot irony or stale framing.
-
-## Exact resume point
-
-> **Audit Question 118 — What should `The choice is yours` mean at the end of Chapter 2?**
->
-> **A. Keep it as deliberate Pathwell blind-spot irony.** He sincerely believes he has stopped pressuring Elizabeth and given her a free choice, while failing to notice that he is walking away with property she has a concrete reason to pursue. He is not consciously holding the objects hostage.
->
-> **B. Remove/reframe the line because the choice is not materially free.** Cleaner surface logic, but loses an early example of Pathwell misunderstanding another person's actual agency.
->
-> **C. Make the leverage deliberate manipulation.** Clarifies the contradiction but makes Pathwell consciously coercive in a way that conflicts with his established casual entitlement.
->
-> **D. Give Elizabeth her belongings back before the line.** Makes the choice genuinely free but contradicts Q111's newly locked Chapter 3 structure.
->
-> **Audit lean: A.** It lets the false-choice line demonstrate Pathwell's blind spot rather than an authorial mistake, while Q111 later provides the contrast: once Elizabeth truly has her belongings back, her decision to continue can finally be materially hers.
+No manuscript chapter has been edited.
