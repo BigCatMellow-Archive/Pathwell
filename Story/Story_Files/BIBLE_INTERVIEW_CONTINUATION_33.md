@@ -2,11 +2,12 @@
 
 Status: **AUDIT REFINEMENT ONLY — NO MANUSCRIPT CHAPTERS EDITED**
 
-Read `BIBLE_INTERVIEW_CONTINUATION_32.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_32_2026-08-26.md`. The latter contains the newest exact resume point.
+Read `BIBLE_INTERVIEW_CONTINUATION_32.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_32_2026-08-26.md`. The latter contains the newest lock and exact resume point.
 
 ## Newest locks
 
 - **Elizabeth's final invitation is earned by concrete Camp restitution — LOCKED A.** During the three-week gap Pathwell accepts Camp's terms, helps rebuild/replace what can be rebuilt/replaced, and does not prune or magically shortcut the debt. Irreplaceable losses remain lost. The coda needs concise evidence, not a full off-page transformation.
+- **Pathwell's coda `It was my fault` acknowledges Shade specifically — LOCKED A.** The primary referent is Shade as a real consequence of Pathwell's original pruning choice, including Pathwell's repetition of the violation when he later forced reintegration after Shade refused. The archive catastrophe and broader pattern remain implicit rather than replacing Shade as the concrete moral object. Shade dies before hearing the admission.
 - **Exact ending exchange — LOCKED WORDING:** Elizabeth: `Are you ready?` / Pathwell: `No.` / Elizabeth: `Perfect.` These are the final three lines; add no dialogue after `Perfect.`
 - No manuscript chapters have been edited.
 
@@ -21,18 +22,20 @@ Read `BIBLE_INTERVIEW_CONTINUATION_32.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Existing-story finding
 
-The current coda's `It was my fault` is supposed to be an offhand admission rather than a speech, but existing support does not fix exactly what Pathwell is acknowledging. Shade's core want was specifically for Pathwell to admit that Pathwell's choices created consequences in a real person. Because Shade dies before hearing the admission, the coda is the delayed payoff; its substantive referent should not be accidentally reduced to the archive fire alone or left structurally vague.
+Current `Coda.txt` has Pathwell say `It was my fault.` Elizabeth asks `What was?`, and Pathwell answers `Most recently?` Q94 now requires that the substantive admission specifically acknowledge Shade. Keeping only the joke-like deflection risks leaving the delayed confession structurally ambiguous among the archive fire, Elizabeth's injury, Shade, and Pathwell's broader history.
+
+The issue is not whether Pathwell should give a speech. It is whether he should actually answer Elizabeth after the deflection.
 
 ## Exact resume point
 
-> **Audit Question 94 — What does Pathwell's coda `It was my fault` actually acknowledge?**
+> **Audit Question 95 — How explicit should Pathwell be when Elizabeth asks what `It was my fault` refers to?**
 >
-> **A. Shade specifically, with the broader pattern implicit.** Pathwell acknowledges that his choice to prune created Shade and that trying to force Shade's reintegration after refusal repeated the violation. The archive catastrophe and larger pattern remain implicit consequences.
+> **A. Name Shade directly, then stop.** A short direct identification makes the delayed acknowledgment unambiguous without a speech.
 >
-> **B. The Camp archive catastrophe specifically.** True but too narrow; risks acknowledging the visible disaster without fully acknowledging Shade.
+> **B. Keep `Most recently?`, then give one concrete Shade anchor.** Preserve Pathwell's reflexive deflection/voice, but require him to answer after the joke rather than using humor to escape.
 >
-> **C. Pathwell's entire lifelong pattern of taking ownership of other people's choices/problems.** Thematically broad but risks abstracting away the specific debt to Shade.
+> **C. Remove Elizabeth's `What was?` entirely.** Let context carry the admission, though several plausible faults remain in the scene's background.
 >
-> **D. Leave the referent intentionally unresolved.** Preserves ambiguity but weakens the delayed payoff to Shade's explicit core demand.
+> **D. Keep the current exchange exactly as written.** Preserves ambiguity and voice but risks weakening the payoff to Shade's central demand.
 >
-> **Audit lean: A.** The line should mean more than `I caused the fire`: it should finally recognize Shade as a real consequence of Pathwell's choice and the forced reintegration as a repetition of that same control. The broader pattern can remain implicit rather than turning the moment into a speech.
+> **Audit lean: B.** Pathwell does not need to become solemn or eloquent. His growth is better shown by allowing the defensive joke and then answering anyway. A is cleaner but flattens his rhythm slightly; C relies heavily on inference; D lets the old evasive habit survive at the exact moment the story needs specific acknowledgment.
