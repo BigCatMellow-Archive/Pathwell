@@ -18,7 +18,28 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_32_20
 
 ---
 
-## Existing-story check: the coda currently treats emotional-text charge as pruning fuel and shows pruning failing to activate
+## Coda pruning remains deliberately unanswered because Pathwell chooses not to test it — LOCKED A, REFINED
+
+The current `Coda.txt` staging is stale where it says a handwritten receipt `had enough charge for a simple prune` and then shows pruning simply failing to activate. Emotional-text charge is not pruning fuel, and ordinary doubt by itself does not mechanically disable pruning.
+
+The replacement intent is:
+
+- Remove the receipt as pruning fuel. It may disappear entirely or remain only as an ordinary personal scrap.
+- Pathwell considers using pruning as the familiar shortcut toward obtaining the cookbook/book in front of him.
+- His confidence is no longer intact. He suspects that his intent may be too internally compromised for the contemplated prune to settle cleanly, or at minimum no longer trusts his own certainty enough to assume it will.
+- **Do not establish that ordinary doubt mechanically prevents pruning.** The existing rule remains: ordinary fear/uncertainty is compatible with pruning; the dangerous failure state is fundamental contradiction in intent.
+- Pathwell could push the attempt far enough to discover whether this specific transaction would settle.
+- He chooses **not to find out**.
+- The story therefore does not conclusively demonstrate whether another completed prune in this situation would have succeeded or malformed.
+- The meaningful change is not `my power is gone` or even `I proved I can stop a working already underway`; it is **`I no longer need to force the universe to answer the question.`**
+- This supersedes older coda-support language requiring familiar pruning signs to visibly prove that the ability still works before cancellation. The underlying pruning system is not rewritten, but the coda deliberately declines to test Pathwell's present capacity/commitment to completion.
+- This mirrors the climax: there Pathwell feels a fundamental contradiction and forces forward to obtain resolution; in the coda he encounters uncertainty about the same old tool and leaves the uncertainty unresolved.
+- The exact final exchange remains unchanged and gains a supporting rhyme: `Are you ready?` / `No.` / `Perfect.` Pathwell can move forward without first making himself certain.
+- No manuscript chapter has been edited.
+
+---
+
+## Existing-story check: the coda originally attached the prune to emotional-text charge
 
 Current `Coda.txt` gives Pathwell a small receipt with his own handwriting on the back and says:
 
@@ -27,35 +48,4 @@ Current `Coda.txt` gives Pathwell a small receipt with his own handwriting on th
 - `Nothing happened.`
 - `No branch-light. No pressure. No clean little subtraction from the future.`
 
-That now conflicts with two locked rules:
-
-1. **Pruning is its own trained transaction/payment system.** It spends the practitioner's future possibility and is not powered by emotionally charged handwriting. Charged text is a separate magical system with its own grain, activation, and consumption rules.
-2. **Pathwell remains capable of pruning in the coda.** The ending must show familiar pruning signs beginning, then Pathwell deliberately stopping before possibility is released/accepted. His growth is `I can do this and stop`, not `I tried and the power failed`.
-
-Space Between transaction canon also says the custodian must accept an offered payment/terms before a transaction settles. Therefore the coda can cleanly stage Pathwell at the **pre-release / pre-acceptance** point: he can begin preparing an intended pruning offer, experience the familiar signs, and cancel before any possibility is actually released to or accepted by the shopkeeper.
-
----
-
-## Audit Question 96 — What should the coda's stopped-prune beat be attached to?
-
-### A. Keep the replacement-cookbook negotiation, remove the charged receipt as pruning fuel, and have Pathwell begin a pre-release pruning offer before choosing to stop.
-
-The shopkeeper's initial `No`/resistance to the easy purchase can remain. Pathwell's old reflex starts: familiar branch-light/pressure appears as he prepares to offer future possibility for the book. Before anything is released or accepted, he stops. The possibility returns cleanly. The shopkeeper later offers the non-pruning errand instead. This creates a direct behavioral rhyme with the climax: there Pathwell forced past refusal/doubt; here he reaches the same familiar threshold and does not force it.
-
-The receipt can be removed entirely or retained only as an ordinary personal scrap; it cannot be described as having charge `for a prune`.
-
-### B. Have the shopkeeper explicitly offer pruning as an acceptable price, then Pathwell begins and stops.
-
-This makes the intended counterparty clear, but it muddies the locked Space Between rule that custodian acceptance settles the transaction and makes the shopkeeper actively invite the self-destructive behavior Pathwell is learning to resist.
-
-### C. Move the stopped-prune demonstration away from the cookbook transaction and attach it to a separate tiny magical working.
-
-Mechanically possible, but it adds another magical setup to the coda solely to demonstrate ability and weakens the connection between Pathwell's old shortcut reflex and the object in front of him.
-
-### D. Keep the charged receipt and `Nothing happened` staging.
-
-This preserves the manuscript but directly conflicts with both the separation between emotional-text magic and pruning and the locked coda rule that Pathwell's pruning ability still works.
-
-### Audit lean: **A**
-
-A uses the existing coda object and negotiation while correcting both mechanics. It also gives the stopped prune character meaning: Pathwell does not merely prove he still has power; he encounters the old shortcut in a live choice and stops before converting desire into payment. B risks making acceptance/settlement timing muddy and makes the shopkeeper invite the prune. C is mechanically cleaner than D but dramatically disconnected. D is stale under current canon.
+That staging must later be reconciled because pruning spends future possibility and is not powered by emotionally charged handwriting. The Q96 lock above also replaces the older `nothing happened because ability failed` implication with Pathwell's deliberate refusal to test whether the contemplated prune would settle.
