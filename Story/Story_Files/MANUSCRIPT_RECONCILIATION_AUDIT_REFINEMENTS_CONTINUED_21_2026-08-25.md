@@ -25,22 +25,41 @@ The gesture itself is supported: Shade may display old-seeming habits/mannerisms
 
 ---
 
-## Audit Question 80 — How should the Pathwell-like cup gesture be reconciled?
+## Shade's Pathwell-like gesture is borrowed residue, not personal age — LOCKED B
+
+- Preserve the small Pathwell-like cup gesture because Shade may carry old-seeming habits through his one-time creation-time inheritance.
+- Reframe the resemblance as **borrowed / secondhand residue**: Pathwell's familiar motion carried into a different person and fitting differently there.
+- Remove the stale implication that Shade's version became different through his own `time and use`.
+- Do not imply long subjective age, centuries of independent experience, or accelerated chronology for Shade.
+- Exact prose remains for manuscript reconciliation.
+- No manuscript chapter has been edited.
+
+---
+
+## Existing-story check: Chapter 12 implies the Pathwell/Shade conflict predates Elizabeth's lifetime
+
+Current Chapter 12 has Elizabeth think that whatever is happening `between him and Pathwell` has been happening `since before she'd been born`.
+
+That cannot be literal under the recent-creation lock. Shade himself is new. What **does** predate Elizabeth's involvement is Pathwell's longstanding pattern of pruning, control, and deciding what solutions should look like for other people. Shade is a recent consequence/expression of that older pattern.
+
+---
+
+## Audit Question 81 — What should Elizabeth understand as the "old" thing here?
 
 ### Context
 
-The scene is trying to show that Shade resembles Pathwell in small unconscious ways without being identical to him. That is useful. The problem is only the explanation that Shade's version became different through `time and use`, because he has not existed long enough for that to be true.
+Elizabeth is standing with Shade at Camp, trying to locate her place in a conflict she did not create. The current narration gives that conflict an ancient duration by saying the thing between Shade and Pathwell began before she was born. The emotional intention is useful—Elizabeth recognizes she is not the center of this—but the chronology is false because Shade is recently created.
 
 ### Options
 
-**A. Keep the comparison but make the difference immediate/personal rather than time-worn.** The gesture is recognizably Pathwell's, but it lands differently in Shade's body, temperament, or rhythm from the start.
+**A. The conflict is new; Pathwell's pattern is old.** Elizabeth understands that Shade himself is recent, but the behavior that created him—Pathwell taking ownership of problems, pruning ahead, and deciding for others—was established long before she entered the story. The present conflict is the newest consequence of an older pattern.
 
-**B. Explicitly frame it as borrowed residue.** The gesture looks inherited or secondhand—Pathwell's motion carried into another person and already fitting differently there. This reinforces the fragment rule without implying Shade lived Pathwell's history.
+**B. Remove all age/history framing.** Elizabeth thinks only that this is between Shade and Pathwell and she does not own it. Cleanest, but loses the useful sense that Shade exposed something in Pathwell that predates Elizabeth.
 
-**C. Cut the Pathwell comparison entirely.** Shade simply turns the cup. Safest mechanically, but loses a useful uncanny resemblance beat.
+**C. Treat the apparent age as inherited Pathwell history inside Shade.** Elizabeth reads the conflict as old because Shade carries old Pathwell residue. This is possible but risks blurring borrowed memories with Shade's own relationship history.
 
-**D. Keep `by time and use` and establish that Shade subjectively experienced a much longer span than his chronological age.** This would reopen the recently-created / no ancient independent biography rule and require new lore.
+**D. Keep the literal `before she'd been born` idea by making Shade much older.** Conflicts with the recently-created lock.
 
-### Audit lean: **B**
+### Audit lean: **A**
 
-B preserves the useful visual rhyme while making the ontology legible: Shade can carry Pathwell's habits without having lived Pathwell's life or accumulated decades of his own. The line should feel observational rather than explanatory; exact prose remains for manuscript reconciliation. A is also viable but less directly connected to the already-locked borrowed-mannerism rule. C removes texture that does not need to be lost. D conflicts with current canon.
+A preserves the useful thematic scale while fixing chronology. Shade is not an ancient adversary; he is a **recent person produced by an old habit**. This also keeps Elizabeth from centering herself without falsely giving Shade decades or centuries of independent history. B is mechanically safe but discards a useful connection between the climax and Pathwell's longstanding flaw. C muddies the inheritance rule; D conflicts with canon.
