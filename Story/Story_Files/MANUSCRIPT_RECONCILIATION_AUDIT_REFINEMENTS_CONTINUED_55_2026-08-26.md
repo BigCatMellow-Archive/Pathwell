@@ -54,3 +54,16 @@ This fixes the line literally but contradicts Q111, which now requires Elizabeth
 ### Audit lean: **A**
 
 A gives the Chapter 2 line a clear thematic job without changing Pathwell into a deliberate manipulator. He thinks `I stopped telling her what to do` equals `she is free to choose`, while failing to notice that his own actions have constrained the available choices. That sets up Q111's later reversal: once Elizabeth actually has her diary/cookbook back, the story can finally present her with a choice that is materially hers. B is cleaner on the surface but loses the contrast; C over-darkens Pathwell; D breaks the newly locked Chapter 3 structure.
+
+---
+
+## Q118 — `The choice is yours` is deliberate Pathwell blind-spot irony — LOCKED A
+
+- Keep the Chapter 2 line or its equivalent meaning.
+- Pathwell sincerely believes he has stopped pressuring Elizabeth and left the next move to her.
+- He does **not** consciously retain her diary/cookbook as leverage.
+- He fails to recognize that walking away with her property still materially constrains her decision.
+- Elizabeth therefore follows him because she still has a practical reason to do so.
+- Q111 remains the contrast: only after the Space Between transaction, once Elizabeth has recovered her belongings, does the story give her a genuinely optional choice to continue.
+- This is an early expression of Pathwell's larger blind spot: he judges whether a situation is fair/free by his own internal ledger rather than by the other person's actual constraints.
+- No manuscript chapter has been edited.
