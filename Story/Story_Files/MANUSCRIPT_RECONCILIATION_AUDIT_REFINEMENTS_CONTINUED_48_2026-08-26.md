@@ -51,3 +51,19 @@ This could preserve more current choreography, but it creates awkward movement: 
 ### Audit lean: **A**
 
 A best matches the user's stated purpose for the beat. Elizabeth should enter the Space Between while she still has a concrete reason to pursue Pathwell; only after she gets back what is hers should the story ask whether she keeps going. Her choice then becomes unmistakable rather than inferred. It also folds the substantial Camp book purchase into the same physical staging without new logistics. B preserves more manuscript text but disconnects the two beats; C repeats the choice; D is mechanically awkward.
+
+---
+
+## Q111 LOCK — A: recovery and continuation choice happen after the Camp-book transaction
+
+- Elizabeth follows Pathwell **into the Space Between because he still has her diary and cookbook**.
+- Pathwell completes the substantial Camp-book purchase and settles the older Space Between balance first.
+- Only after that transaction does Elizabeth recover the diary and cookbook.
+- At that point the practical reason she has been pursuing Pathwell is fully satisfied.
+- She is given/takes up a stack of the newly purchased Camp books to carry onward.
+- She places her recovered diary/cookbook on top of that Camp-book stack.
+- She then follows/runs after Pathwell toward Camp **by choice**, not because he still possesses something of hers.
+- The intended agency progression is therefore: `necessity gets her into the Space Between -> necessity ends -> she chooses to continue anyway`.
+- This ordering supersedes the current manuscript choreography that places the recovery/stack action before the Space Between transaction.
+- Exact prose and physical choreography remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
