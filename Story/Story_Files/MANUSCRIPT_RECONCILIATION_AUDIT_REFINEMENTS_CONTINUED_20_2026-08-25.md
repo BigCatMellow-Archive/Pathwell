@@ -41,3 +41,16 @@ Shade knows Pathwell is coming. He knows Pathwell's longstanding pattern of solv
 ### Audit lean: **A**
 
 A preserves the useful emotional function of the Camp conversation while respecting the information boundary. Shade is perceptive enough to recognize Pathwell's pattern, but the wording must make the distinction visible: **prediction, not knowledge**. The main guardrail is that Shade cannot know the exact working details, price, timing, or outcome; he can only anticipate that Pathwell will try to resolve the anomaly by collapsing the separation and taking Shade back into himself. B adds clutter to the museum scene, C directly violates the draw rule, and D moves necessary stakes explanation into the climax.
+
+---
+
+## Shade anticipates reintegration through draw pressure plus his own prediction — LOCKED C+A HYBRID
+
+- Shade's current advance statement must no longer read as confirmed knowledge of Pathwell's plan.
+- **The draw contributes bodily pressure and the supported certainty that Pathwell is coming/approaching; it does not transmit Pathwell's plan.**
+- Shade then uses his own knowledge of Pathwell's habits, creation-time fragments, and observed control reflex to predict the likely solution: Pathwell will probably try to put/fold Shade back into himself.
+- Shade should mark the reintegration claim as prediction in substance (`I think`, `he'll probably`, or equivalent), even if his confidence is high.
+- The stale `cut me loose` description is superseded; the anticipated action is absorption/reintegration.
+- The draw still transmits no thoughts, plans, current memories, exact distance, timing, or working details.
+- This preserves the tree-line conversation as the place where Shade can explain why loss of independent self is existentially unacceptable without granting him telepathy.
+- No manuscript chapter has been edited.
