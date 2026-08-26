@@ -40,3 +40,13 @@ At the end of current Chapter 11, after Elizabeth and Shade leave the museum, St
 > **D. Keep the scene as written and treat the poem as expendable.** Conflicts with charged-record destruction canon and the museum's custodial role.
 >
 > **Audit lean: A.** Preserve the consequence rather than destroying another irreplaceable record to patch Pathwell. He only needs to remain functional enough to travel; ordinary aid is sufficient unless later evidence establishes otherwise.
+
+## Q104 lock — ordinary aid only after the museum — LOCKED A
+
+- Remove Stansbury's magical use of the Civil War soldier's poem.
+- Stansbury does not consume or destroy a museum-held historical artifact to heal Pathwell.
+- He provides ordinary practical aid and gets Pathwell moving.
+- Pathwell carries the museum injury forward but remains functional enough to reach Camp and participate in the climax.
+- Do not add a replacement charged object solely to erase the consequence.
+- Exact first-aid choreography remains for manuscript reconciliation.
+- No manuscript chapters have been edited.
