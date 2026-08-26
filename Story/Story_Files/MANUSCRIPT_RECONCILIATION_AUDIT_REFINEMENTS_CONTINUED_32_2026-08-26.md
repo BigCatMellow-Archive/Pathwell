@@ -40,40 +40,14 @@ Elizabeth asks; Pathwell answers; Elizabeth closes. Add no dialogue after `Perfe
 
 ---
 
-## Existing-story check: the current deflection after `It was my fault` may obscure the newly locked Shade-specific admission
+## Coda does not ask Pathwell to explain `It was my fault` — LOCKED C
 
-Current `Coda.txt` has:
-
-- Pathwell: `It was my fault.`
-- Elizabeth: `What was?`
-- Pathwell: `Most recently?`
-
-Q94 now fixes the substantive referent as Shade: Pathwell finally acknowledges that his choice created Shade and that forcing reintegration after Shade's refusal repeated the violation.
-
-The current `Most recently?` response works as Pathwell voice, but it also deliberately avoids answering Elizabeth's question. If preserved without any later anchor, the scene may leave the reader unsure whether Pathwell means Shade, the archive fire, Elizabeth's injury, or his general history. That would fight the Q94 lock.
-
-The question is not whether Pathwell should give a speech. It is whether the coda needs one concise piece of legibility after Elizabeth asks what he means.
-
----
-
-## Audit Question 95 — How explicit should Pathwell be when Elizabeth asks what `It was my fault` refers to?
-
-### A. Name Shade directly, then stop.
-
-Pathwell answers in substance `Shade.` or an equally short direct identification. No explanation follows. The broader pattern remains implicit.
-
-### B. Keep `Most recently?`, then give one concrete Shade anchor.
-
-Preserve Pathwell's reflexive deflection/voice, but do not let it become an escape. After the joke, he gives a brief answer that makes Shade the referent.
-
-### C. Remove Elizabeth's `What was?` entirely.
-
-Let context carry the meaning of `It was my fault` without forcing Pathwell to clarify. Cleaner, but the current coda context includes several plausible faults and may remain ambiguous.
-
-### D. Keep the current exchange exactly as written.
-
-Preserves voice and ambiguity, but risks undermining the delayed payoff to Shade's core demand by allowing Pathwell to avoid identifying what he is actually admitting.
-
-### Audit lean: **B**
-
-B preserves the current Pathwell voice without letting humor function as another evasion. His growth should not require him to become solemn or eloquent; it should require him to answer the question after the deflection. A is cleaner but slightly flattens his established defensive rhythm. C relies too heavily on inference given the number of harms in play. D conflicts most directly with Q94's need for a real, specific acknowledgment.
+- Remove Elizabeth's current `What was?` after Pathwell says `It was my fault.`
+- Remove the dependent `Most recently?` deflection.
+- Pathwell does **not** explain, gloss, or identify Shade by name in this exchange.
+- Q94 still governs the substantive meaning: the line primarily acknowledges Shade, with the broader pattern implicit.
+- The reader is trusted to infer the referent from the preceding story and coda context.
+- The scene should not create a clarification question and then dodge it; instead, the admission stands on its own.
+- Do not add a forgiveness response from Elizabeth merely to confirm she understands.
+- The exact final exchange remains `Are you ready?` / `No.` / `Perfect.`
+- No manuscript chapter has been edited.
