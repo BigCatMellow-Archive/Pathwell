@@ -60,3 +60,17 @@ This removes the permanence problem but discards the character-bible payoff that
 ### Audit lean: **A**
 
 A avoids inventing an absolute healing limitation and makes the scar's permanence serve the same boundary/agency logic as the rest of the ending. Stansbury is treated because treatment is necessary; erasing the lasting consequence is a different question, and he says no. Pathwell's growth is partly visible in leaving it alone. B over-systematizes healing. C leaves an obvious loophole. D removes the intended consequence.
+
+---
+
+## Q117 — Stansbury keeps the lasting scar by choice; Pathwell respects the boundary — LOCKED A
+
+- Stansbury accepts ordinary/necessary treatment needed to stabilize and safely heal the archive-fire burn.
+- He refuses extraordinary magical repair whose purpose would be to erase the lasting scar.
+- `Let it be` is therefore not only an immediate refusal during the fire aftermath; it represents an ongoing choice about the lasting consequence.
+- The story does **not** establish a universal rule that scars are magically unhealable.
+- Pathwell's earlier statement that scars are outside his own wheelhouse remains true, but is not the reason the scar ultimately remains.
+- Another practitioner might theoretically have techniques Pathwell lacks; Stansbury does not consent to pursuing erasure.
+- Pathwell respects that choice and does not recruit another healer, bargain for a cure, or otherwise treat Stansbury's refusal as an obstacle to work around.
+- The permanent scar therefore functions as both physical consequence and a test of Pathwell's changed relationship to other people's choices.
+- No manuscript chapter has been edited.
