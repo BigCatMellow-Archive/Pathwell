@@ -52,3 +52,16 @@ The manuscript can lampshade the impossibility, but that does not resolve it und
 ### Audit lean: **A**
 
 A preserves both major functions already in place: Elizabeth's crash permanently matters, and the Ask can still occur in the contained moving-car setting. It requires only ordinary replacement transport rather than new magic. B is possible but disrupts a useful scene container; C weakens consequence and invents repair magic; D leaves a causal gap.
+
+---
+
+## Q115 — Cadillac remains wrecked; use an ordinary replacement vehicle — LOCKED A
+
+- The midpoint crash permanently removes Stansbury's maroon Cadillac from immediate use.
+- It is not magically repaired, temporarily stabilized, or treated as supernatural.
+- Pathwell and Stansbury obtain/borrow another ordinary vehicle before intercepting Elizabeth.
+- The replacement vehicle does not need a subplot, special identity, or recurring symbolic role; it is practical transport only.
+- The moving-car container for Elizabeth's Ask remains available.
+- This preserves the physical consequence of Elizabeth's deliberate crash rather than allowing the same car to recover two chapters later.
+- Exact replacement-car source/staging remains deferred to manuscript reconciliation unless a later causal need requires it.
+- No manuscript chapter has been edited.
