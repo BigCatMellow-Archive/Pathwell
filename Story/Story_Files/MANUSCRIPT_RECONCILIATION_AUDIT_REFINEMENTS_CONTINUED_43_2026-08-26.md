@@ -41,3 +41,15 @@ This preserves Elizabeth's non-magical status, but discards the established Stan
 ### Audit lean: **A**
 
 A preserves both existing locks without requiring a large new magic system. Stansbury is the practitioner who makes the tool magical; Elizabeth is the person who decides to use the tool. Her agency remains physical and human. B transfers part of the rescue back to Stansbury, C breaks Elizabeth's central boundary, and D removes the weapon setup/payoff relationship.
+
+---
+
+## Q106 follow-through — pre-imbued tools can be used non-magically — LOCKED A
+
+- Stansbury performs the magical preparation/imbuing in advance.
+- Once prepared, the weapon's narrow imbued effect can trigger through ordinary physical use.
+- A non-practitioner can therefore wield the finished tool without casting, shaping magic, supplying charge, or becoming a practitioner.
+- Elizabeth's use of the dagger remains a physical human agency beat: **Stansbury made the tool magical; Elizabeth chose to use it.**
+- Current Chapter 5's muttered words are not a universal activation requirement and may be revised as demonstration/control staging during manuscript reconciliation.
+- Exact imbuing resource cost, duration, recharge, and broader discipline mechanics remain undefined unless later story evidence requires them.
+- No manuscript chapter has been edited.
