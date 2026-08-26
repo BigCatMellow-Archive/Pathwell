@@ -17,45 +17,35 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_55_20
 
 ---
 
-## Existing-story check: Shade's shoulder stabilization currently consumes Camp archive material without a clear release/permission beat
+## Q119 — Camp healer handles Elizabeth's shoulder; Shade has no treatment role — LOCKED D
 
-Current `Chapter_12.txt` has Elizabeth arrive at Camp with a serious shoulder injury. A Camp girl goes to the archive wagon and returns with a packet of letters tied in blue thread. Shade takes one sheet and uses it to set/stabilize Elizabeth's shoulder.
+User chose **D** after reconsidering whether Shade's shoulder-letter treatment was doing enough unique story work to justify its added mechanics.
 
-Earlier audit locks already preserve the core function of this scene:
+### Lock
 
-- Shade recognizes the injury and helps stabilize/set it.
-- The working is a restrained set-and-hold, not a full magical healing.
-- The selected letter carries an emotional pattern of love/support without possession.
-- Elizabeth consents before Shade applies the working.
+- Camp's healer handles Elizabeth's museum shoulder injury.
+- Shade has **no medical or magical role** in treating/stabilizing the shoulder.
+- Shade does not select, consume, or apply a Camp archive letter for the injury.
+- The current `Chapter_12.txt` sequence in which Shade corrects the healer, takes a blue-thread archived letter, waits for Elizabeth's consent, and performs the set-and-hold working is stale.
+- The prior permission problem around Shade spending archive property disappears with that sequence.
+- Elizabeth's shoulder remains a **serious but stable physical limitation through the climax**; the exact treatment method is not yet redefined here unless existing Camp/healer rules already settle it.
+- Shade's important relationship material with Elizabeth remains in the diner, museum aftermath, tree-line conversation, resistance to the draw, refusal of reintegration, and climax. He does not need medical competence to establish personhood or usefulness.
+- This avoids making Shade's legitimacy depend on being useful within Pathwell's magical system.
 
-The remaining problem is ownership and authorization. Camp archive canon treats archived records as property under serious custodianship. Donation transfers ownership to the archive, and archived material may be consumed when the archive chooses to use it. Current staging shows a runner retrieving a packet and Shade simply taking a sheet, but does not establish who authorized an irreplaceable archived record to be spent.
+### Earlier shoulder-specific locks superseded
 
-A repo search found no newer support file defining an emergency exception, giving Shade independent authority over Camp archive holdings, or otherwise resolving that permission gap.
+The following earlier decisions are superseded **to the extent they depended on Shade personally treating the shoulder**:
 
-Because Pathwell's central flaw is treating access/ability as sufficient justification to decide how other people's things are used, the story should avoid accidentally giving Shade the same behavior unless that parallel is deliberate.
+- Q70: Shade stabilizes/sets Elizabeth's shoulder.
+- Q71: Shade demonstrates a creation-time procedural healing fragment through this treatment.
+- Q72: Shade's practical injury recognition functions as the setup for his treatment role.
+- Q83: the blue-thread shoulder letter carries a love/support-without-possession pattern and powers a restrained set-and-hold working.
+- Q84: Shade receives an emotional echo from that shoulder letter.
 
----
+Do not preserve those beats merely because they were previously locked. If any underlying concept is independently needed elsewhere, it must be justified separately from the removed shoulder-treatment sequence.
 
-## Audit Question 119 — How should Camp authorize the archived letter Shade uses to stabilize Elizabeth's shoulder?
+### Reasoning
 
-### A. Camp/archive explicitly releases one suitable letter for the treatment; Shade uses it only after that release and Elizabeth's consent.
+Keeping Shade as the practitioner created a chain of extra obligations: why he knows the procedure, why Camp's healer defers to him, who authorizes archive consumption, what the letter means, and what the emotional echo contributes. The larger story already establishes Shade's personhood and contrast with Pathwell through choices, boundaries, truth-telling, resistance, and refusal. Camp already has a healer present. Removing Shade from the treatment therefore simplifies the scene without removing an essential character function.
 
-The healer/Mama Baga can request material, a runner can bring back a letter selected or released by the archive, and Shade can then recognize how to use it. Exact archivist choreography need not become a scene. What matters is that the record is **given for this purpose**, not simply available for Shade to take.
-
-This preserves Shade's competence without giving him ownership authority he does not have. It also keeps the scene's agency clean: Camp decides whether its record may be spent; Elizabeth decides whether the working may be used on her; Shade supplies the practical magical knowledge.
-
-### B. Treat the injury as an emergency exception that lets Shade independently choose and consume archive material.
-
-This is expedient but creates a new exception to the archive's custodial rules and lets Shade decide the cost on behalf of people who own the record. That resembles the entitlement pattern the story is otherwise criticizing.
-
-### C. Mama Baga personally owns the packet and gives Shade permission to choose from it.
-
-This solves authorization without involving the archive, but contradicts the current staging that specifically sends someone to the archive wagon and weakens the archive's established role as Camp's reserve of charged records.
-
-### D. Remove Shade's use of archive material and let the Camp healer stabilize Elizabeth without him.
-
-This avoids the permission issue but discards the already-locked Shade competence/stabilization beat and the restrained emotional echo from the shoulder letter.
-
-### Audit lean: **A**
-
-A preserves all existing scene functions while respecting the archive's ownership rules. It divides authority cleanly instead of letting the most magically capable person automatically control the resource: **Camp releases the record; Elizabeth consents to treatment; Shade performs the working.** B introduces an unnecessary emergency loophole and risks repeating Pathwell's flaw through Shade. C rewrites the provenance of the packet without need. D removes a locked character beat rather than reconciling it.
+No manuscript chapter has been edited.
