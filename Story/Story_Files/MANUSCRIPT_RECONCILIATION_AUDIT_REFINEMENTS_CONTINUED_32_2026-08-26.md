@@ -28,34 +28,52 @@ Elizabeth asks; Pathwell answers; Elizabeth closes. Add no dialogue after `Perfe
 
 ---
 
-## Existing-story check: Pathwell's coda admission is emotionally important but its referent remains unfixed
+## Pathwell's coda `It was my fault` acknowledges Shade specifically — LOCKED A
 
-The current coda has Pathwell say `It was my fault.` Elizabeth asks `What was?`, and Pathwell answers with a deflecting `Most recently?`
-
-Existing character support makes Shade's central want explicit: he wants Pathwell to acknowledge that Pathwell's choices created consequences in an actual person, captured in the desired admission `It was my fault.` Shade dies before hearing that confession.
-
-The coda is therefore the delayed place where Pathwell can finally say the words, but the story still needs to decide what the line substantively acknowledges. The line itself should remain offhand and concise; the question is its referent, not whether Pathwell gives a speech.
+- The primary referent of `It was my fault` is **Shade**, not merely the archive fire or an abstract lifelong pattern.
+- Pathwell is acknowledging that his own choice to prune while solving someone else's problem created Shade as a real person/consequence.
+- The admission also encompasses Pathwell's later repetition of the same underlying violation when he tried to force Shade's reintegration after Shade explicitly refused.
+- The archive catastrophe and Pathwell's broader control pattern remain implicit consequences behind the line; they do not replace Shade as the concrete moral object of the admission.
+- Shade dies before hearing the words. That lateness remains part of the cost and should not be repaired retroactively.
+- The admission remains offhand and concise rather than becoming a confession speech.
+- No manuscript chapter has been edited.
 
 ---
 
-## Audit Question 94 — What does Pathwell's coda `It was my fault` actually acknowledge?
+## Existing-story check: the current deflection after `It was my fault` may obscure the newly locked Shade-specific admission
 
-### A. Shade specifically, with the broader pattern implicit.
+Current `Coda.txt` has:
 
-Pathwell is acknowledging that **he created Shade through his own choice to prune for someone else's problem, and then compounded that wrong by trying to force Shade's reintegration after Shade refused**. The archive catastrophe and other damage follow from that same pattern, but the admission is anchored to the person whose existence Pathwell spent the story treating as a problem to solve. Shade does not get to hear it; that lateness remains part of the cost.
+- Pathwell: `It was my fault.`
+- Elizabeth: `What was?`
+- Pathwell: `Most recently?`
 
-### B. The Camp archive catastrophe specifically.
+Q94 now fixes the substantive referent as Shade: Pathwell finally acknowledges that his choice created Shade and that forcing reintegration after Shade's refusal repeated the violation.
 
-Pathwell is admitting responsibility for the fire and destruction. This is true, but narrower than Shade's central grievance and risks letting Pathwell acknowledge the visible disaster without fully acknowledging the person he created and tried to control.
+The current `Most recently?` response works as Pathwell voice, but it also deliberately avoids answering Elizabeth's question. If preserved without any later anchor, the scene may leave the reader unsure whether Pathwell means Shade, the archive fire, Elizabeth's injury, or his general history. That would fight the Q94 lock.
 
-### C. Pathwell's entire lifelong pattern of taking ownership of other people's choices/problems.
+The question is not whether Pathwell should give a speech. It is whether the coda needs one concise piece of legibility after Elizabeth asks what he means.
 
-The line refers broadly to the whole flaw: Shade, Elizabeth, Camp, Stansbury, and earlier unnamed people. This captures the thematic pattern, but risks becoming so broad that the specific moral debt to Shade is blurred.
+---
 
-### D. Leave the referent intentionally unresolved.
+## Audit Question 95 — How explicit should Pathwell be when Elizabeth asks what `It was my fault` refers to?
 
-The reader can infer what Pathwell means from context. This preserves ambiguity, but the line is too central to Shade's stated want for its actual acknowledgment to remain structurally uncertain.
+### A. Name Shade directly, then stop.
 
-### Audit lean: **A**
+Pathwell answers in substance `Shade.` or an equally short direct identification. No explanation follows. The broader pattern remains implicit.
 
-A gives the delayed confession a concrete moral object while still allowing the reader to understand that Pathwell is beginning to recognize a larger pattern. The key is that `It was my fault` means more than `I accidentally caused a fire`: it means **Shade was a real consequence of Pathwell's choice, and Pathwell's later attempt to decide Shade's fate repeated the original violation**. C is close, but broad thematic confession can become abstraction; B is too narrow; D weakens the payoff to Shade's core want.
+### B. Keep `Most recently?`, then give one concrete Shade anchor.
+
+Preserve Pathwell's reflexive deflection/voice, but do not let it become an escape. After the joke, he gives a brief answer that makes Shade the referent.
+
+### C. Remove Elizabeth's `What was?` entirely.
+
+Let context carry the meaning of `It was my fault` without forcing Pathwell to clarify. Cleaner, but the current coda context includes several plausible faults and may remain ambiguous.
+
+### D. Keep the current exchange exactly as written.
+
+Preserves voice and ambiguity, but risks undermining the delayed payoff to Shade's core demand by allowing Pathwell to avoid identifying what he is actually admitting.
+
+### Audit lean: **B**
+
+B preserves the current Pathwell voice without letting humor function as another evasion. His growth should not require him to become solemn or eloquent; it should require him to answer the question after the deflection. A is cleaner but slightly flattens his established defensive rhythm. C relies too heavily on inference given the number of harms in play. D conflicts most directly with Q94's need for a real, specific acknowledgment.
