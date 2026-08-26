@@ -6,9 +6,9 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_39_20
 
 ---
 
-## Existing-story check: Elizabeth's `That isn't mine.` currently lacks enough on-page information to show that Pathwell means the cookbook as a replacement for her
+## Q103 superseded — substitute cookbook is a silent Pathwell moment
 
-Q99 locks Pathwell's motive for considering the other family's handwritten cookbook: he is trying, in his residual ledger-minded way, to replace Nana's lost cookbook for Elizabeth. The coda preserves/adapts the exchange:
+The prior Q103 framing assumed the coda should preserve/adapt the dialogue:
 
 > `That isn't mine.`
 >
@@ -16,32 +16,18 @@ Q99 locks Pathwell's motive for considering the other family's handwritten cookb
 >
 > `Good.`
 
-The current Coda draft, however, only has Pathwell pick up the cookbook, consider it, and put it back after Elizabeth enters. He does not say it is for her, offer it to her, or otherwise make that intention clearly legible before she says `That isn't mine.`
+That assumption is now **superseded**.
 
-That creates a small information gap. Elizabeth can see that Pathwell is holding an old cookbook, but she cannot automatically know that he has selected it as an attempted replacement for Nana's book. Because the exchange is supposed to reject Pathwell's substitution logic, the scene needs one small cue that makes his intent observable without turning the beat into explanatory dialogue.
+### LOCKED USER DIRECTION
 
----
-
-## Audit Question 103 — How should Elizabeth know that the other family's cookbook is being considered as a replacement for hers?
-
-### A. Pathwell makes a small, unmistakable offering gesture toward Elizabeth with the cookbook; she rejects it before taking possession.
-
-He can turn the book toward her, slide it partway across the counter, hold it out, or otherwise place it between them in a way that clearly means `for you`. No explanatory speech is required. Elizabeth immediately understands the attempted substitution and says `That isn't mine.` Pathwell answers `No.` and leaves it behind.
-
-This preserves the key distinction: Pathwell still has the old instinct to choose a replacement on Elizabeth's behalf, but he does not force the replacement into her hands or argue that it is equivalent once she rejects it.
-
-### B. Pathwell explicitly explains that he found another old family cookbook for her.
-
-This is maximally clear and makes the Q99 motive explicit, but it turns a compact object beat into exposition and risks making Pathwell verbalize the lesson before Elizabeth's response can do the work.
-
-### C. Establish that Elizabeth already knows, from the three-week gap, that Pathwell has been searching for a replacement.
-
-Then she recognizes the book immediately when she enters. This is possible, but it shifts an important interaction off-page and raises a secondary question: if Elizabeth already knew what he was doing, why had she not already told him that another family's cookbook was not hers?
-
-### D. Keep the current staging and trust Elizabeth/the reader to infer that the cookbook is meant for her.
-
-This is the most economical, but the current visual information does not actually establish Pathwell's intent strongly enough. It makes Elizabeth's line risk sounding clairvoyant or authorially convenient.
-
-### Audit lean: **A**
-
-A supplies exactly the missing information and no more. A small offering gesture makes Pathwell's old transactional instinct visible, gives Elizabeth a concrete thing to reject, and lets the three-line exchange carry the meaning without explanation. It also keeps agency clean: Pathwell can propose a substitute; Elizabeth decides it is not hers; Pathwell accepts the boundary and leaves the book behind. B over-explains, C pushes the important beat into the gap, and D leaves a genuine information problem.
+- Remove the `That isn't mine.` / `No.` / `Good.` exchange entirely.
+- Pathwell's encounter with the other family's handwritten cookbook is a **personal, silent moment for Pathwell**.
+- He picks the book up, looks at/considers it, and puts it back without offering it to Elizabeth or explaining what he was thinking.
+- Elizabeth may happen to see him do this, but her observation is not required for the beat to function and she does not comment on it.
+- Q99's underlying motive can remain: Pathwell's old ledger instinct initially treats another old family cookbook as a possible way to fill the loss of Nana's book.
+- The important change is that Pathwell recognizes for himself that the substitute does not solve the loss and leaves it behind. Elizabeth does not have to reject, validate, interpret, or teach that realization for him.
+- The coda should therefore not create a new information cue whose only purpose is to make Elizabeth understand the replacement intent.
+- This also better fits Q101: Pathwell's obligation to Elizabeth cannot be balanced by an equivalent object, and part of his change is recognizing that without requiring Elizabeth to adjudicate the account.
+- The final unrelated address-card errand remains separate and is chosen by Elizabeth.
+- Exact ending remains `Are you ready?` / `No.` / `Perfect.` as the final three lines, with no dialogue after `Perfect.`
+- No manuscript chapter has been edited.
