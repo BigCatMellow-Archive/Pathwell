@@ -39,3 +39,16 @@ This avoids transactional language around Elizabeth entirely, but loses a useful
 ### Audit lean: **A**
 
 A makes the two halves of Stansbury's line deliberately different. **Camp can demand concrete restitution because some burned structures and practical losses can be repaired. Elizabeth cannot be reduced to an account Pathwell can balance.** Pathwell may still try to treat her side that way when he considers the substitute cookbook, but the coda corrects that instinct without requiring Elizabeth to forgive him or declare the debt settled. B risks reproducing the ledger logic; C makes forgiveness structurally necessary; D removes a contrast that can clarify the theme rather than confuse it.
+
+---
+
+## Q101 follow-through — Elizabeth's side is a moral obligation that cannot be balanced by an equivalent payment — LOCKED A
+
+- Keep Stansbury's `And Elizabeth. You owe her for the rest.` as a real statement of responsibility.
+- Unlike Camp's materially reparable losses, Elizabeth's harm is **not** an account Pathwell can settle by finding an equivalent object, paying enough, or choosing what restitution should mean for her.
+- What Pathwell owes is ongoing accountability expressed through behavior: respecting Elizabeth's stated choices, not overriding her boundaries, not deciding what repair should look like for her, and accepting that some consequences remain permanently unresolved.
+- The coda does not declare this debt paid, forgiven, or released.
+- Q99's substitute-cookbook impulse is a residual attempt to treat Elizabeth's side transactionally; `That isn't mine.` / `No.` / `Good.` exposes and stops that logic rather than completing a settlement.
+- Elizabeth does not need to certify Pathwell's redemption for the final journey to occur.
+- The contrast is intentional: **Camp can be materially repaired in part; Elizabeth cannot be reduced to a ledger entry.**
+- No manuscript chapter has been edited.
