@@ -30,24 +30,13 @@ The archive's emotional fallout is distinct from pruning spillage and should not
 
 ---
 
-## Audit Question 89 — What happens to the fresh pruning spillage after Shade is absorbed?
+## Fresh failed-reintegration spillage is cleaned after Shade — LOCKED A
 
-### A. The blob absorbs Shade first, then briefly cleans the smaller fresh failed-prune spillage before leaving intact.
-
-Shade remains the largest and most important cleanup target. His absorption collapses the Pathwell/Shade ambiguity and stops the draw. The blob then follows its ordinary post-cleanup behavior, checks the immediate area, consumes the fresh residual pruning spillage from Pathwell's failed reintegration, and leaves intact once no unclaimed waste remains. The charged-archive emotional residue remains separate and is not consumed.
-
-### B. The violent recoil expends/dissipates all fresh pruning spillage, so only Shade remains for the blob.
-
-This preserves the older `absorbs Shade then leaves` sequence almost exactly, but conflicts with the locked rule that a malformed post-release pruning failure leaves unclaimed pruning spillage. It would require a new exception for the climax.
-
-### C. The fresh failed-prune spillage is what the blob primarily targets; Shade is absorbed only because he steps into its path.
-
-This can explain why the blob initially approaches Pathwell, but it risks making Shade's death incidental to obstruction rather than the cleanup creature recognizing/removing the longstanding Shade anomaly. It also still requires the fresh spillage to be fully cleaned afterward.
-
-### D. Shade somehow takes the fresh failed-prune spillage into himself when he steps between Pathwell and the blob.
-
-This would let one absorption remove both problems, but no existing rule allows Shade to absorb or collect new pruning waste. It would invent a new mechanism at the climax.
-
-### Audit lean: **A**
-
-A requires no new lore. It simply applies the already-locked post-cleanup rule completely: the blob removes the largest anomaly first, then checks and cleans the smaller fresh waste before leaving. Shade's death remains central because he is independently genuine unresolved pruning waste, not merely a person who blocks the path. B creates an exception to the malformed-failure rule; C weakens the intended meaning of Shade's removal; D invents a new ability for Shade at the moment of death.
+- The climactic cleanup contains **two distinct pruning-waste targets**: Shade as the longstanding large unresolved anomaly, and the smaller fresh spillage created by Pathwell's failed forced reintegration.
+- The blob removes **Shade first**. Shade remains the primary and largest cleanup target rather than an incidental obstruction.
+- Shade's absorption collapses the ambiguous Pathwell/Shade signature and ends the draw according to the separately locked death sequence.
+- The blob then follows its ordinary post-cleanup behavior: it briefly checks the immediate area and consumes the **fresh failed-reintegration pruning spillage**.
+- Once no unclaimed cleanup target remains, the blob **leaves intact** under the normal departure rule.
+- The archive's emotional fallout/residue is a separate phenomenon and is **not** consumed as blob food.
+- Do not invent a rule in which the recoil dissipates all fresh pruning spillage or Shade absorbs new spillage into himself.
+- No manuscript chapter has been edited.
