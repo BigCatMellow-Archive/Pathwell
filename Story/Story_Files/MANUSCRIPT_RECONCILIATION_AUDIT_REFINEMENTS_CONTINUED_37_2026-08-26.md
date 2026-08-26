@@ -37,3 +37,16 @@ This preserves maximum economy, but reopens the Q93 problem: Elizabeth's final i
 ### Audit lean: **A**
 
 A is the minimum explicit evidence that pays off the debt already planted in Chapter 12b. It does not require showing Pathwell's whole transformation off-page; it only establishes that after being told he owed something, he stayed and began paying it in ordinary, non-magical ways. The coda can then remain focused on the more important live choices: leaving the substitute cookbook unresolved, admitting `It was my fault`, and following Elizabeth into a new possibility. B is probably too obscure for a causal bridge this important; C over-explains through dialogue; D makes the renewed companionship feel insufficiently earned.
+
+---
+
+## Q100 follow-through — coda states Camp restitution directly and briefly — LOCKED A
+
+- Near the beginning of the coda, give one concise narrated statement that Pathwell spent the three-week interval performing Camp-directed restitution.
+- He stayed under Camp's terms, helped repair/rebuild what could be repaired, and helped replace recoverable practical losses where possible.
+- He did **not** use pruning or another magical shortcut to settle the debt.
+- Irreplaceable archive records remain permanently lost; restitution does not restore or erase those consequences.
+- Keep the evidence brief. Do not create a separate off-page redemption arc, rebuilding subplot, or forgiveness ceremony.
+- The purpose is to give Elizabeth and the reader evidence of sustained changed behavior before she chooses the next journey.
+- Exact chores and prose remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
