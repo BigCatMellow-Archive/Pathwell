@@ -51,24 +51,16 @@ Existing canon supports several relevant facts:
 
 ---
 
-## Audit Question 92 — Why does Shade voluntarily step into the blob's path after refusing Pathwell's reintegration?
+## Shade recognizes his pursuit has begun externalizing costs and chooses to stop — LOCKED A, REFINED
 
-### A. Shade recognizes that he is the unresolved cleanup anomaly and chooses to meet the cleanup himself.
-
-Shade understands enough of his origin and blob behavior to realize the cleanup problem ultimately points to him, while the signature overlap keeps putting Pathwell and others in danger. He does not consent to Pathwell deciding his fate; after Pathwell's attempt fails, Shade makes his **own** decision to step into the cleanup path. The likely result is death/removal, but the crucial difference is authorship of the choice. He can also know that continuing to exist under the draw and ambiguous cleanup signal will keep producing danger without needing to believe his life was meaningless or that Pathwell was right to erase him.
-
-### B. Shade primarily steps in to save Pathwell from the approaching blob.
-
-This fits Shade's stated desire for acknowledgment rather than Pathwell's destruction and can explain why he intercepts the creature. But it risks turning Shade's endpoint into a redemptive self-sacrifice for the man who has just violated his refusal, which can soften the conflict too quickly and make Shade unusually saintly.
-
-### C. The draw pulls Shade into the blob's path.
-
-This would make the motion easy to stage, but the draw points toward Pathwell rather than toward blobs and would turn Shade's final act into compulsion. That undercuts the personhood/agency argument built through his refusal.
-
-### D. Shade does not choose the encounter; the blob identifies and absorbs him on its own.
-
-Mechanically clean and consistent with Shade being genuine pruning waste, but removes the active final choice from the current staging and makes his death primarily something that happens to him.
-
-### Audit lean: **A**
-
-A makes the distinction between the two near-death outcomes precise: **Pathwell choosing for Shade is unacceptable; Shade choosing what to do with his own dangerous, constrained existence is Shade's decision.** It also uses existing blob/signature mechanics rather than turning him into a martyr solely for Pathwell. The main risk is making voluntary death read as an endorsement of Pathwell's earlier logic; manuscript reconciliation must therefore keep the difference in agency legible and avoid suggesting Shade concludes Pathwell was right to erase him. B preserves more of the old rescue shape but risks sanctifying Shade. C contradicts the draw's limits and strips agency. D is mechanically valid but passive at the point where Shade's personhood has just been defended.
+- Shade does **not** conclude that his mere existence is morally wrong, that he deserved erasure, or that Pathwell was right to decide his fate.
+- The archive catastrophe remains Pathwell's responsibility. Elizabeth's museum injury and the forced reintegration failure are Pathwell's choices, not Shade's guilt.
+- Shade instead recognizes a narrower parallel: his continuing pursuit of acknowledgment, combined with his resistance to the unresolved cleanup condition attached to him, has allowed the Pathwell/Shade conflict to keep imposing danger and cost on other people.
+- He can see the accumulated collateral consequences around him: cleanup danger repeatedly follows the unresolved anomaly/signature overlap; Elizabeth has been dragged through the conflict; Camp has burned; a child was endangered; Stansbury was burned; another cleanup creature has arrived while the underlying condition remains unresolved.
+- Shade's desire for acknowledgment remains legitimate. The flaw he recognizes is continuing to require other people to bear the cost of keeping that demand unresolved until Pathwell gives him what he wants.
+- This creates the intended parallel to Pathwell: both can become convinced that what they need to happen justifies continued collateral cost. Shade's final distinction is that **he notices the externalized cost and stops**.
+- Shade therefore chooses to step into the blob's cleanup path himself. The likely result is death/removal, but the decision is authored by Shade, not imposed by Pathwell.
+- His action is not primarily a martyrdom to save Pathwell, not compelled by the draw, and not passive capture by the blob.
+- The scene must preserve the difference between `my existence is a mistake` and `I will not keep making other people pay for what I want.`
+- The earlier letting-go letter may rhyme with this decision as subtext, but it does not magically teach or compel Shade's conclusion.
+- No manuscript chapter has been edited.
