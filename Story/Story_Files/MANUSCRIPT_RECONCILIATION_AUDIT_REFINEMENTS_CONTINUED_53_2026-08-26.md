@@ -50,3 +50,15 @@ This is plausible for Camp structure, but leaves Stansbury's established arc wit
 ### Audit lean: **A**
 
 A preserves the distinction the character bible is already trying to make: **leadership does not have to mean control**. Stansbury should still act decisively and accept responsibility, but his change is visible when he stops treating other capable people as people he must constrain or direct every move. B resolves his passivity but reinforces the other half of his flaw. C risks repeating passivity. D abandons the arc payoff rather than reconciling it.
+
+---
+
+## Q116 — Stansbury leads through coordination and trust — LOCKED A
+
+- Stansbury remains active and responsible during the archive-fire response.
+- His growth is **not** that Camp finally obeys him or that he becomes a successful commander.
+- He identifies immediate needs/dangers, connects capable people and resources, handles his own part, and trusts others to execute within their competence.
+- Avoid micromanagement and avoid framing the payoff as `everyone doing what Stansbury told them`.
+- This resolves both sides of his flaw: he stops depending on Pathwell to handle consequences, but does not replace passivity with control.
+- Exact dialogue/choreography remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
