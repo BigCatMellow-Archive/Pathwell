@@ -36,24 +36,13 @@ Pathwell's own full verbal admission remains reserved for the coda; aftermath ac
 
 ---
 
-## Audit Question 88 — How should Camp acknowledge Shade's death?
+## Camp gives Shade a minimal ordinary acknowledgement after his death — LOCKED A
 
-### A. Camp gives Shade a minimal ordinary acknowledgement as a person who died.
-
-Someone at Camp uses his name, marks the death, or otherwise treats the absence as a death without creating a formal funeral or claiming deep personal grief. Elizabeth remains the person who knew/mourns Shade most directly, but she is not literally the only person permitted to recognize him.
-
-### B. Elizabeth remains the primary explicit mourner, but remove the claim that nobody else mourns or says Shade's name.
-
-Stay tightly inside Elizabeth's grief and simply avoid asserting what every other Camp resident feels. This fixes the omniscient/erasing claim while adding no new Camp beat.
-
-### C. Pathwell becomes the other explicit mourner immediately after the fire.
-
-His grief would make his recognition of Shade's personhood legible, but it risks moving his acknowledgment too far forward and softening the intended delay before the coda's `It was my fault.`
-
-### D. Keep the current `Nobody at camp said his name` / Elizabeth-as-only-mourner framing.
-
-This preserves the draft's loneliness, but now conflicts with the public revised climax and risks making Shade socially disappear immediately after the story insists his independent personhood matters.
-
-### Audit lean: **A**
-
-A preserves the loneliness without converting it into erasure. Camp does not need to know Shade well or hold a ceremony; it only needs to recognize that the person who stood there, refused, and died was a person. Elizabeth can still carry the deepest grief because she actually spoke with him and understood more of what he wanted. C risks giving Pathwell emotional resolution too early. B is workable and quieter, but leaves the book almost entirely dependent on Elizabeth's private interiority to validate Shade after a deliberately public climax. D undermines the personhood argument the climax just made.
+- Remove the absolute aftermath claim that `Nobody at camp said his name` and the implication that Elizabeth is literally Shade's only permitted mourner.
+- Camp gives Shade a **minimal ordinary acknowledgement as a person who died**. At least one resident may use his name, mark the death, or otherwise recognize the absence as a death.
+- Do not create a formal funeral, elaborate Camp ritual, or claim that residents who barely knew Shade experience deep personal grief.
+- Elizabeth remains the person who knew and mourns Shade most directly.
+- Pathwell's own fuller verbal admission remains delayed; this acknowledgement must not become an immediate confession, forgiveness exchange, or emotional resolution for him.
+- The purpose is recognition of personhood, not communal absolution or sentimentality.
+- Exact prose/gesture remains for manuscript reconciliation unless a later audit decision requires a specific form.
+- No manuscript chapter has been edited.
