@@ -41,3 +41,17 @@ This can explain the setup, but turns the custodian into a moral examiner and ma
 ### Audit lean: **A**
 
 A makes the cookbook beat do character work without pretending Pathwell is fully cured. His first instinct is still transactional replacement: a loss has created a debt, so he looks for an equivalent object and a price he can pay. What has changed is his response to uncertainty and to Elizabeth's boundary. He leaves the loss unresolved rather than insisting that a balanced ledger makes the substitute acceptable. B weakens the `That isn't mine` exchange; C makes the object dramatically arbitrary; D gives too much authorial/moral control to the shopkeeper.
+
+---
+
+## Pathwell considers the other family's cookbook as a substitute for Nana's — LOCKED A
+
+- Pathwell is considering the other family's handwritten cookbook because he is still thinking in residual ledger logic: Nana's cookbook was lost, he owes Elizabeth, and his reflex is to find an apparently equivalent object and pay whatever price balances the account.
+- He has **not** asked Elizabeth whether she wants a replacement. The impulse therefore remains connected to his control flaw rather than being framed as uncomplicated restitution.
+- The other family's cookbook is genuinely old/charged and superficially resembles the category of object that was lost, but it is not Nana's history and cannot replace it.
+- Elizabeth's `That isn't mine.` identifies that distinction.
+- Pathwell's `No.` accepts the distinction without defending the purchase, invoking the fairness of the transaction, or arguing that the substitute is close enough.
+- Elizabeth's `Good.` can remain as a concise recognition that he is no longer forcing his ledger logic over her stated meaning.
+- Under Q96, Pathwell also chooses not to test whether a contemplated prune for the book would settle; under Q98, he ultimately leaves the book behind.
+- Pathwell is therefore improved but not cured: the old replacement instinct still appears, but he can stop acting as though his willingness to pay gives him authority to define what counts as repair.
+- No manuscript chapter has been edited.
