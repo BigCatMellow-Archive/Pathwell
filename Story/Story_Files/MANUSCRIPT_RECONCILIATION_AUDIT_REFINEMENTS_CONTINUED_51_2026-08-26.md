@@ -65,3 +65,16 @@ This is economical, but because Q111 specifically makes the Camp-book stack the 
 ### Audit lean: **A**
 
 A uses rules the story already has and preserves both functions of the scene. The threshold is practical enough to explain how they move the books, but it deposits them at the **approach** rather than erasing Camp's boundaries. Most importantly, Elizabeth's choice can remain physical and immediate: she has her belongings back, Pathwell leaves through the onward threshold with the Camp books, and she chooses to pick up her load and follow.
+
+---
+
+## Q114 — Space Between threshold exits at Camp's approach/edge — LOCKED A
+
+- Pathwell and Elizabeth use an **established Space Between threshold** after the Chapter 3 transaction.
+- The threshold exits **near Camp Cunnan's current approach/edge**, not directly inside Camp.
+- Pathwell takes his share of the purchased Camp books through first/continues onward.
+- Elizabeth, with her recovered diary/cookbook atop the Camp-book stack she is carrying, independently chooses to follow.
+- They still make the final ordinary approach into Camp after crossing the threshold.
+- This preserves Camp's moving-place boundaries and avoids turning the Space Between into effortless door-to-door access.
+- The threshold may be treated as one of the durable anchors that tends to reconnect as Camp moves; exact threshold appearance/choreography is deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
