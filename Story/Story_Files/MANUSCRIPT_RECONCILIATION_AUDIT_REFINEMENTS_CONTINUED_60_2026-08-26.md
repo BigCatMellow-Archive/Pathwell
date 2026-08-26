@@ -52,3 +52,14 @@ This minimizes distribution risk but conflicts with the newly locked reason that
 ### Audit lean: **A**
 
 A keeps the income model broad enough to support standing inventory while respecting the world's secrecy and the fact that finished tools can be activated by non-practitioners. The critical distinction is not `practitioner versus non-practitioner`; it is **informed magical customer versus unsuspecting public buyer**. C is also viable but makes the commercial network considerably smaller. B creates unnecessary safety/secrecy problems. D weakens Q122's inventory logic.
+
+---
+
+## Q123 — Stansbury sells through an informed magic-aware customer network — LOCKED A
+
+- Stansbury's normal customers belong to a quiet network of people/communities who know magic is real and understand what the tools do.
+- Customers can include practitioners, supernatural communities/households, Camp-adjacent contacts, and informed non-practitioners.
+- Practitioner status is **not** required to buy or wield a finished tool; informed context and responsible use are the important boundary.
+- Stansbury does not sell functioning imbued weapons as ordinary novelty toys to unsuspecting general-public buyers.
+- Exact storefront, delivery method, pricing, and network organization remain intentionally undefined unless the manuscript later needs them.
+- No manuscript chapter has been edited.
