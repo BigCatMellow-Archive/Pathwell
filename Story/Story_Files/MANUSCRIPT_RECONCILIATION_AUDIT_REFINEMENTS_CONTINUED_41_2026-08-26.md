@@ -39,3 +39,16 @@ This conflicts with the world rule that authentic charged records are destroyed 
 ### Audit lean: **A**
 
 A preserves the consequence of the museum catastrophe instead of spending another irreplaceable human record to patch Pathwell immediately afterward. Pathwell does not need to be fully healed to reach Camp; he only needs to remain functional enough to travel and participate. B is mechanically sound but adds setup mainly to remove a consequence. C could work if Stansbury's ethical compromise were a desired subplot, but nothing in current support asks for one and it would create cleanup obligations at the end of the book. D leaves a direct rules/ethics contradiction.
+
+---
+
+## Q104 follow-through — Stansbury uses ordinary aid after the museum — LOCKED A
+
+- Remove Stansbury's magical consumption of the Civil War soldier's poem after Elizabeth and Shade leave the museum.
+- Stansbury does **not** destroy a museum-held historical record in order to repair Pathwell.
+- He gives Pathwell ordinary practical aid: helps him up, checks/stabilizes immediate injuries, and gets him moving.
+- Pathwell remains battered/injured but functional enough to travel to Camp and participate in the climax.
+- Do not invent a replacement charged object solely to erase this physical consequence.
+- This preserves the museum fallout and avoids repeating the `other people's records are available if the need is important enough` ethic immediately after Pathwell's failure.
+- Exact ordinary first-aid choreography remains for manuscript reconciliation.
+- No manuscript chapter has been edited.
