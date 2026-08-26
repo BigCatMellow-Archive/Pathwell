@@ -12,36 +12,39 @@ The intended Chapter 3 transaction is now:
 
 - Camp Cunnan has a real need for books/supplies, mentioned or generally known rather than assigned to Pathwell.
 - Pathwell self-appoints to solve the need.
-- The current purchase is substantial: enough books/book-based material that Pathwell and Elizabeth are carrying stacks onward to Camp.
+- The current purchase is substantial: a meaningful amount of books/book-based material for Camp Cunnan.
 - The prune also settles older obligations already owed to the Space Between/custodian.
 - This combined payment explains why a successful clean prune leaves Pathwell visibly shaking.
 - `Your bill has been paid in full` therefore refers to the current Camp purchase plus an accumulated prior balance.
 
-The earlier audit phrasing of a freight-like bulk shipment, crates, advance delivery, or special delivery infrastructure is superseded. The books are physically present in the Chapter 3 sequence and are meant to be carried onward by Pathwell and Elizabeth.
-
-This also restores an important existing Elizabeth beat. In current `Chapter_03.txt`, Elizabeth has followed Pathwell because he still has her cookbook/books. She reclaims the diary and cookbook, then places her own books back onto Pathwell's stack and goes through the portal after him. The intended staging clarifies why: she has been given a pile/stack of the Camp books to carry. Once she has recovered everything that originally motivated her pursuit, she puts her belongings on top of that Camp stack and **chooses to keep going anyway**.
-
-Therefore the Camp-book transaction is not merely procurement logistics. It directly supports Elizabeth's agency ladder:
-
-1. She follows Pathwell because he has what belongs to her.
-2. She recovers the diary and cookbook.
-3. At that point she has achieved the practical reason she was following him.
-4. She nevertheless takes up the Camp-book load, places her recovered belongings on top, and runs/follows after Pathwell through the portal by choice.
-
-The physical book-carrying should remain ordinary. No magical compression, automatic delivery, pre-delivery on credit, or dedicated Space Between-to-Camp freight route is required.
+The earlier audit phrasing of a freight-scale shipment, crates, or a tiny parcel is not locked. Exact transport scale remains secondary; the purchase is large/valuable enough to justify the visible cost, especially when combined with older debt.
 
 ---
 
-## Q110 correction — the Camp books are carried through the portal, and that carrying action is part of Elizabeth's choice to continue — LOCKED BY USER CLARIFICATION
+## Elizabeth's Chapter 3 continuation beat — USER CLARIFICATION, STRUCTURE LOCKED; PILE IDENTITY/ORDERING STILL OPEN
 
-- The earlier Q110 options about advance delivery, bulk threshold freight, or an off-page shipment are superseded.
-- Pathwell's Chapter 3 purchase consists of a substantial amount of books/material for Camp, but the intended scale is compatible with Pathwell and Elizabeth physically carrying stacks/loads rather than freight crates.
-- Pathwell's large prune covers both this current Camp purchase and older Space Between debt.
-- Elizabeth is assigned/given a stack of the purchased Camp books to carry.
-- She has already recovered her diary and cookbook — the original practical reason she followed Pathwell.
-- She places those recovered personal books on top of the Camp stack she is carrying.
-- She then follows/runs after Pathwell through the portal.
-- This moment must read as a genuine choice to continue the adventure after she has already gotten back what she came for.
-- The Camp books can later be handed off routinely at Camp; no separate delivery mechanism or major logistics scene is needed.
-- Exact prose/choreography remain deferred to manuscript reconciliation.
-- No manuscript chapter has been edited.
+The user clarified the intended agency beat:
+
+- Elizabeth originally follows Pathwell because he still has her diary and cookbook.
+- She gets the diary and cookbook back.
+- At that point she has recovered everything that practically motivated her to keep following him.
+- She places those recovered belongings on top of a pile/stack she is supposed to carry.
+- She then runs/follows after Pathwell and continues the adventure anyway.
+- The important meaning is that **continuing is now her choice rather than something she must do to recover her property**.
+
+Current `Chapter_03.txt` already contains the skeleton of this beat: Elizabeth retrieves her books, places them back on Pathwell's stack, and then chooses the portal. However, in the current manuscript this action occurs **before** Pathwell completes the Space Between pruning transaction.
+
+Therefore the audit must not yet assume that the carry-pile is definitely the Camp book purchase. That was an overreach in the first Q110 correction. Two facts are locked separately:
+
+1. Pathwell's Chapter 3 prune pays for a substantial Camp book purchase plus older Space Between debt.
+2. Elizabeth's early agency beat is recovering her diary/cookbook, placing them atop a pile she is meant to carry, and choosing to continue after she no longer needs to follow Pathwell for her belongings.
+
+Whether those are the **same physical books** requires an ordering decision because current Chapter 3 places the agency action before the pruning purchase completes.
+
+No manuscript chapter has been edited.
+
+---
+
+## Audit Question 110 — SUPERSEDED
+
+The earlier Q110 framing about advance delivery vs freight routes vs shipment timing is superseded by the user's clarification. The next decision is the Chapter 3 ordering/identity question described above.
