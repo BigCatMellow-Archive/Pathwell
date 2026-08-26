@@ -39,3 +39,18 @@ This adds a more compromised Camp culture around Pathwell's self-destruction. It
 ### Audit lean: **A**
 
 A keeps the need real and Pathwell's help meaningful while preserving responsibility for the dangerous shortcut. It also establishes the story's core pattern in an ordinary setting before the Shade reveal: Pathwell does not need malicious intent or selfish motive to violate boundaries around method and cost. B diffuses responsibility; C may make him too self-appointed; D creates a Camp-complicity thread the current book does not otherwise develop.
+
+---
+
+## Q108 follow-through — Camp's need is mentioned; Pathwell appoints himself to solve it — LOCKED C/A HYBRID
+
+- Camp Cunnan genuinely needs supplies, and that need has been mentioned or is otherwise known within the community.
+- Nobody assigns Pathwell the task and nobody tells him `you need to get these` or equivalent.
+- Pathwell independently takes the need on himself and goes to acquire the supplies.
+- Nobody asks or authorizes him to prune. Pruning is entirely his chosen payment method.
+- This is slightly less extreme than pure C: Pathwell is responding to a real, expressed need rather than inventing a problem nobody identified.
+- It is also distinct from A: Camp does **not** directly request that Pathwell be the person who handles it.
+- The resulting pattern is: `there is a need` → `Pathwell makes it his responsibility` → `Pathwell spends his own future to solve it.`
+- That pattern is an early, successful, apparently harmless version of the same self-appointment/control reflex that later underlies Shade's creation.
+- Exact supply contents and final tome/envelope staging remain for manuscript reconciliation.
+- No manuscript chapter has been edited.
