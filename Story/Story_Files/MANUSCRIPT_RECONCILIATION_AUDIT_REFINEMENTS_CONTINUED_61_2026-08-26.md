@@ -55,3 +55,16 @@ This is flexible and plausible for a craft discipline, but expands the imbuing s
 ### Audit lean: **A**
 
 A is the least bookkeeping-heavy rule and best matches the current staging: Stansbury can demonstrate a sword and put it back into usable inventory, while Elizabeth later simply uses the dagger when needed. It also keeps the tools feeling like crafted equipment rather than ammunition. B is clean but adds replacement choreography; C creates an implicit charge meter; D adds flexibility without a present story need.
+
+---
+
+## Q124 follow-through — imbued weapons are reusable but not established as infinitely permanent — LOCKED A, REFINED
+
+- A finished Stansbury weapon can trigger its prepared effect repeatedly through ordinary physical use.
+- One successful activation does not consume the imbuement or reduce the object to an ordinary foam weapon.
+- The story does **not** establish that an imbuement lasts forever or provides unlimited power without upkeep.
+- Wear, physical damage, time, or accumulated magical strain can eventually weaken a tool enough to require repair and/or re-imbuing.
+- There is no fixed activation count, visible charge meter, or action-scene bookkeeping requirement.
+- Stansbury's income can therefore include new tools, specialized effects, replacements, repairs, and re-imbuing existing equipment.
+- This remains compatible with the locked charged-record rules because imbuing is a distinct magical discipline; no rule says these weapons manufacture or indefinitely recycle authentic emotional-text charge.
+- No manuscript chapter has been edited.
