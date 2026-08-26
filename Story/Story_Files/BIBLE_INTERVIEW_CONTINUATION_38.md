@@ -38,3 +38,14 @@ Q93 already requires Pathwell to spend the three-week post-climax gap performing
 > **D. Leave the gap undescribed.** Economical, but reopens the Q93 problem by making renewed companionship rest mostly on one coda scene.
 >
 > **Audit lean: A.** It is the smallest explicit bridge between the planted debt and Elizabeth's evidence-based final choice, while leaving the coda focused on live decisions rather than an off-page redemption summary.
+
+## Q100 lock — coda states Camp restitution directly and briefly — LOCKED A
+
+- Near the beginning of the coda, narration briefly establishes that Pathwell spent the three-week gap doing Camp-directed restitution.
+- He stayed under Camp's terms, helped repair/rebuild what could be repaired, and helped replace recoverable practical losses where possible.
+- He used no pruning or magical shortcut to settle the debt.
+- Irreplaceable records remain lost; restitution does not restore or erase them.
+- Keep this evidence concise rather than turning the gap into a separate rebuilding or redemption subplot.
+- This gives Elizabeth and the reader behavioral evidence before she chooses the final new journey.
+- Exact chores/prose remain for manuscript reconciliation.
+- No manuscript chapters have been edited.
