@@ -4,9 +4,10 @@ Status: **AUDIT REFINEMENT ONLY — NO MANUSCRIPT CHAPTERS EDITED**
 
 Read `BIBLE_INTERVIEW_CONTINUATION_24.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_24_2026-08-25.md`. The latter contains the newest exact resume point.
 
-## Newest lock
+## Newest locks
 
 - **Shade's letting-go echo is briefly perceptible but unexplained — LOCKED B.** After using the shoulder-stabilization letter, Shade briefly experiences its care-without-possession / letting-go emotional echo. The prose may register a restrained pause or shift, but Shade does not explain the letter or receive a magical moral lesson.
+- **Elizabeth donates the diary immediately after shoulder treatment — LOCKED A.** The existing reminder that the diary is still pressing against her hip becomes the transition into Elizabeth voluntarily taking it to the Camp archive. This happens before she seeks Shade at the tree line. Once donated, the diary remains archive property continuously through the climax; the removed Pathwell buyback stays removed.
 - No manuscript chapters have been edited.
 
 ## Process rules still active
@@ -18,20 +19,6 @@ Read `BIBLE_INTERVIEW_CONTINUATION_24.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 - No praise/hype; evaluate independently and push back when warranted.
 - Ask exactly one A/B/C/D-style question at a time.
 
-## Existing-story finding
+## Next audit check
 
-Current Chapter 12 explicitly reminds the reader after Elizabeth's shoulder treatment that the diary is still in her bag. Newer canon requires Elizabeth to donate that diary voluntarily to Camp's archive before the climax, and the Pathwell buyback has now been removed, so the diary must remain archive property continuously from donation through the fire. Existing support fixes the donation itself but not its final on-page timing.
-
-## Exact resume point
-
-> **Audit Question 85 — When should Elizabeth donate the diary on-page?**
->
-> **A. Immediately after the shoulder treatment, before she finds Shade at the tree line.** Use the existing physical reminder that the diary is still against her hip as the transition into the decision. The archive has just sacrificed one of its own charged letters to help her, so its function is active in the scene.
->
-> **B. Immediately upon arriving at Camp, before treatment.** Gets it archived early but interrupts the urgent injury sequence.
->
-> **C. After the tree-line conversation with Shade.** Could be prompted by the conversation, but risks making the decision feel reactive to Shade and crowds the approach to the climax.
->
-> **D. Off-page between Chapter 12 and the climax.** Mechanically clean but removes one of Elizabeth's explicit agency-rung decisions from the page.
->
-> **Audit lean: A.** It uses an existing reminder and demonstrated archive function, keeps the donation visibly Elizabeth's own decision, and avoids inventing another scene.
+Determine whether removal of the diary-buyback prune leaves the climax without enough on-page calibration for what a **normal clean prune** looks like immediately before the malformed forced reintegration. Search the manuscript first; do not add a new prune merely to preserve an old contrast if earlier scenes already teach the reader enough.
