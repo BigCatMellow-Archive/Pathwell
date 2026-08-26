@@ -21,24 +21,54 @@ Therefore the climax should not imply that Pathwell suddenly possesses a bespoke
 
 ---
 
-## Audit Question 91 — What does Pathwell actually know how to do when he constructs the reintegration working?
+## Pathwell adapts a known general containment/rejoining working to Shade — LOCKED A
 
-### A. Pathwell knows a general containment/rejoining working and adapts it to Shade.
+- Pathwell knows a general class of magical working used to collapse a magical separation, contain separated material, or rejoin something to its source.
+- He adapts that known technique to Shade rather than possessing or inventing a tested Shade-specific `put him back` spell.
+- Shade remains unprecedented. Pathwell does **not** know whether applying the working to Shade would preserve consciousness, merge identities, erase Shade, create something new, or produce another irreversible result.
+- The distinction is intentional: Pathwell knows how to construct the **type of tool**, but does not know what that tool will do to this target.
+- This preserves the moral problem. Pathwell is not technically clueless; he knowingly applies a familiar solution framework to a conscious being who does not fit its established category and who has explicitly refused.
+- Camp and Stansbury do not supply the method, and the malformed creation event is not treated as a reproducible blueprint.
+- Exact visible/technical choreography remains for manuscript reconciliation.
+- No manuscript chapter has been edited.
 
-The underlying technique is established practitioner knowledge available to Pathwell: a way to collapse a magical separation, bind separated material back to its source, or otherwise rejoin something that has split from an originating magical structure. What is unprecedented is applying that technique to a person-like pruning anomaly. Pathwell can therefore construct a technically coherent working while honestly not knowing whether Shade would survive, merge, disappear, or become something else.
+---
 
-### B. Pathwell reverse-engineers the exact working from Shade's original creation event.
+## Existing-story check: Shade's voluntary step into the cleanup blob needs a motive distinct from his refusal of reintegration
 
-This would make the attempt directly origin-specific, but the original event is explicitly malformed, poorly understood, and not reproducible. It risks giving Pathwell knowledge the canon says nobody has.
+Current climax staging has Shade explicitly refuse Pathwell's forced reintegration because the outcome may destroy his independent personhood and because Pathwell has no right to choose that fate for him. Later, however, `Chapter_12b.txt` has Shade step between Pathwell and the approaching blob and deliberately walk into its path before being absorbed.
 
-### C. Camp/Stansbury supplies Pathwell with a reintegration method.
+Those actions are not inherently contradictory, but the distinction cannot remain implicit. If Shade knowingly walks into a cleanup creature that will remove him shortly after refusing another potentially fatal outcome, the reader needs a coherent difference between the two decisions.
 
-This could solve the expertise gap, but it implicates other characters in supplying a method for an action Shade later refuses and shifts responsibility away from Pathwell's own decision-making.
+Existing canon supports several relevant facts:
 
-### D. Pathwell invents the reintegration technique on the spot.
+- Shade's refusal is fundamentally about **authority and choice**, not merely biological survival at any cost.
+- Shade is himself the longstanding unresolved pruning-waste anomaly.
+- Blobs repeatedly create danger because Pathwell and Shade's signatures overlap and cleanup cannot cleanly distinguish them at a distance.
+- Shade wants Pathwell to face consequences, not be destroyed.
+- The draw continues to compel Shade toward Pathwell until cleanup begins removing Shade's underlying anomaly.
+- Shade's death should not become a magically compelled act; his final agency matters if he actively steps forward.
 
-This preserves no extra lore, but makes a climactic working aimed at an unprecedented living anomaly feel implausibly improvised and weakens the distinction between skilled risk-taking and arbitrary magic.
+---
+
+## Audit Question 92 — Why does Shade voluntarily step into the blob's path after refusing Pathwell's reintegration?
+
+### A. Shade recognizes that he is the unresolved cleanup anomaly and chooses to meet the cleanup himself.
+
+Shade understands enough of his origin and blob behavior to realize the cleanup problem ultimately points to him, while the signature overlap keeps putting Pathwell and others in danger. He does not consent to Pathwell deciding his fate; after Pathwell's attempt fails, Shade makes his **own** decision to step into the cleanup path. The likely result is death/removal, but the crucial difference is authorship of the choice. He can also know that continuing to exist under the draw and ambiguous cleanup signal will keep producing danger without needing to believe his life was meaningless or that Pathwell was right to erase him.
+
+### B. Shade primarily steps in to save Pathwell from the approaching blob.
+
+This fits Shade's stated desire for acknowledgment rather than Pathwell's destruction and can explain why he intercepts the creature. But it risks turning Shade's endpoint into a redemptive self-sacrifice for the man who has just violated his refusal, which can soften the conflict too quickly and make Shade unusually saintly.
+
+### C. The draw pulls Shade into the blob's path.
+
+This would make the motion easy to stage, but the draw points toward Pathwell rather than toward blobs and would turn Shade's final act into compulsion. That undercuts the personhood/agency argument built through his refusal.
+
+### D. Shade does not choose the encounter; the blob identifies and absorbs him on its own.
+
+Mechanically clean and consistent with Shade being genuine pruning waste, but removes the active final choice from the current staging and makes his death primarily something that happens to him.
 
 ### Audit lean: **A**
 
-A preserves both sides of the existing canon. Pathwell can know **how to build the kind of working** without knowing **what that working will do to Shade**. That makes his uncertainty morally relevant rather than technically incoherent: he is not gambling because he has no idea how magic works; he is applying a known tool to a category of being for which no outcome is established. B conflicts with the unknown/reproducibility locks; C distributes responsibility to other characters; D makes the climax depend on unexplained improvisational mastery.
+A makes the distinction between the two near-death outcomes precise: **Pathwell choosing for Shade is unacceptable; Shade choosing what to do with his own dangerous, constrained existence is Shade's decision.** It also uses existing blob/signature mechanics rather than turning him into a martyr solely for Pathwell. The main risk is making voluntary death read as an endorsement of Pathwell's earlier logic; manuscript reconciliation must therefore keep the difference in agency legible and avoid suggesting Shade concludes Pathwell was right to erase him. B preserves more of the old rescue shape but risks sanctifying Shade. C contradicts the draw's limits and strips agency. D is mechanically valid but passive at the point where Shade's personhood has just been defended.
