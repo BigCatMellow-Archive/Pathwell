@@ -44,3 +44,16 @@ With Q107 corrected, the key issue is no longer what Pathwell personally wanted 
 > **D. Camp asked for supplies and knew he would probably prune, but deliberately avoided asking how he paid.** Adds Camp complicity that the current book does not otherwise develop.
 >
 > **Audit lean: A.** Keep the request legitimate and the dangerous shortcut Pathwell's choice.
+
+## Q108 lock — real Camp need, self-appointed Pathwell solution — LOCKED C/A HYBRID
+
+- Camp Cunnan genuinely needs supplies, and that need has been mentioned or is otherwise known in the community.
+- Nobody assigns Pathwell the task or directly asks him to be the one who gets them.
+- Pathwell takes the need on himself and decides to acquire the supplies.
+- Nobody asks him to prune; pruning is entirely his chosen method of payment.
+- This is not pure C because Pathwell is responding to a real expressed need rather than inventing one.
+- It is not A because Camp never directly makes the request of Pathwell.
+- Character pattern: `there is a need` → `Pathwell makes it his responsibility` → `Pathwell spends himself to solve it.`
+- This gives Chapter 3 an apparently harmless version of the same self-appointment/control reflex that later produces more serious consequences.
+- Exact supply contents and tome/envelope staging remain open for manuscript reconciliation.
+- No manuscript chapter has been edited.
