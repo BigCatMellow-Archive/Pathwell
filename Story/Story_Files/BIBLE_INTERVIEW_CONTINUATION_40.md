@@ -41,3 +41,14 @@ That rhyme risks becoming morally backwards if Pathwell's final `No` is another 
 > **D. Let `No.` be an actual refusal that Elizabeth overrides.** Creates cosmetic role reversal while reproducing the same agency violation; conflicts with the story's central guardrail.
 >
 > **Audit lean: A.** The ending should reverse the moral structure, not merely swap who says which line: Elizabeth chooses the direction, Pathwell freely chooses to come, and neither needs certainty/readiness before moving.
+
+## Q102 lock — final `No` means unreadiness after Pathwell has already chosen to go — LOCKED A
+
+- Before the final three lines, Pathwell independently and voluntarily chooses to accompany Elizabeth on the errand she selected.
+- Show that choice with a small nonverbal action or minimal staging rather than explanatory dialogue.
+- `Are you ready?` therefore asks about readiness/uncertainty, not consent to travel.
+- `No.` means `I am not ready`, not `I refuse to go`.
+- `Perfect.` accepts uncertainty; it does not override a boundary.
+- The opening/ending rhyme reverses the moral structure: opening Pathwell carries Elizabeth forward despite resistance; ending Elizabeth chooses direction while Pathwell retains his own choice to accompany her.
+- Exact final wording remains `Are you ready?` / `No.` / `Perfect.` with no dialogue after `Perfect.`
+- No manuscript chapters have been edited.
