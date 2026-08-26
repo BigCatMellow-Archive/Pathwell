@@ -6,7 +6,7 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_49_20
 
 ---
 
-## Existing-story check: Chapter 1 currently removes the action that support canon uses to demonstrate Elizabeth's starting flaw
+## Existing-story check: Chapter 1 cookbook acquisition and Elizabeth's starting flaw
 
 Current `Chapter_01.txt` stages the cookbook acquisition this way:
 
@@ -14,36 +14,25 @@ Current `Chapter_01.txt` stages the cookbook acquisition this way:
 - Under pressure from the blob pounding on the door, Elizabeth tells him it is in the kitchen.
 - Pathwell rushes past her, retrieves the cookbook himself, and begins using it.
 
-Current `character_bible.md`, however, defines Elizabeth's opening flaw as **compliance under pressure** and explicitly uses the cookbook as the first concrete example: she reflexively hands over the cookbook because a stranger demands it while the door is breaking, before she has properly decided whether she wants to give it to him.
+Earlier `character_bible.md` wording used Elizabeth physically handing the cookbook over as a concrete example of her opening flaw, **compliance under pressure**. The user clarified that the current manuscript staging is preferred: Pathwell getting the cookbook himself while Elizabeth stands by is not a problem and should remain the basis of the scene.
 
-That difference matters to the agency ladder. If Pathwell simply takes the cookbook himself, Chapter 1 primarily demonstrates **his** boundary violation. If Elizabeth physically retrieves/hands it over under pressure, the same scene also demonstrates **her** starting pattern: accommodating a more forceful person's certainty before she has made a choice of her own.
+The important arc point therefore is broader than physical surrender of an object. Elizabeth's starting pattern is that another person's urgency/certainty takes over the room and she accommodates it instead of asserting herself. In this scene she tells Pathwell where the cookbook is, does not stop him from taking it, and stands by while he acts as though authority belongs to him. That is sufficient to demonstrate the starting flaw.
 
-Pathwell's own boundary violation remains well-established elsewhere in the same opening: he has already entered her apartment without permission, searched her boxes, taken/handled her diary and other belongings, and later pressures her to leave despite her stated refusal. Therefore restoring Elizabeth's cookbook handoff would not remove his flaw from the scene.
-
-A repo search did not locate a later decision deliberately superseding the character-bible statement that Elizabeth hands over the cookbook.
+Her later act of snatching the active cookbook away remains a small counter-movement: she shifts from standing by while Pathwell controls the situation to physically interrupting him once she sees what his action is costing.
 
 ---
 
-## Audit Question 113 — Who should physically put Nana's cookbook into Pathwell's hands in Chapter 1?
+## Q113 — Who physically puts Nana's cookbook into Pathwell's hands? — LOCKED B, REFINED
 
-### A. Elizabeth retrieves it and hands it to him under pressure.
-
-Pathwell urgently demands the old cookbook while the door is breaking. Elizabeth, overwhelmed and accustomed to accommodating certainty, gets it and hands it over before she has really chosen to do so. Pathwell then asks for the recipe and activates the page.
-
-This directly establishes her opening flaw as behavior rather than explanation. Her later act of snatching the cookbook back from the active working also becomes a small but real counter-movement: first she reflexively gives; moments later she physically takes back what is hers when she sees the cost.
-
-### B. Keep the current manuscript staging: Elizabeth tells Pathwell where the cookbook is and he takes it himself.
-
-This makes Pathwell's entitlement more aggressive and keeps Elizabeth from actively surrendering the object. However, it removes the specific opening example the character bible uses to establish `compliance under pressure`, leaving that flaw to be demonstrated elsewhere.
-
-### C. Elizabeth points him toward the cookbook but Pathwell retrieves it himself; treat giving access as sufficient compliance.
-
-This preserves more current choreography and still gives Elizabeth a participatory role, but it is a weaker behavioral example. Saying where an object is during an apparent emergency is less revealing than physically handing over an irreplaceable family book to a stranger because he acts certain.
-
-### D. Pathwell reaches for the cookbook and Elizabeth physically stops him, then chooses to hand it over after a beat.
-
-This would give Elizabeth more deliberation and boundary-setting immediately, but it starts her farther along the agency arc than the support canon intends. The opening needs room for her later progression from reflexive accommodation toward active choice.
-
-### Audit lean: **A**
-
-A makes Elizabeth's flaw visible in the first crisis without weakening Pathwell's own violations, which are already abundant. More importantly, it gives the later snatch-back a local reversal: **she gives automatically, then takes back deliberately**. B keeps the scene focused on Pathwell but undercuts the stated foundation of Elizabeth's arc. C is possible but less specific. D grants her too much deliberative agency too early.
+- **Keep the current basic staging:** Pathwell retrieves the cookbook himself after Elizabeth tells him where it is.
+- Elizabeth does **not** need to physically hand the book to him for the scene to establish compliance under pressure.
+- Her compliance is shown by:
+  - answering his demand;
+  - allowing his certainty to set the terms of the emergency;
+  - standing by while he enters the kitchen, takes the family cookbook, and begins using it;
+  - failing to assert a boundary until the cost becomes concrete in front of her.
+- The earlier character-bible sentence that specifically says Elizabeth `hands over the cookbook` is superseded. The broader `compliance under pressure` characterization remains locked.
+- Pathwell's entitlement remains central: he enters without permission, searches/takes what he believes useful, and treats urgency as sufficient authorization.
+- Elizabeth's later snatching of the active cookbook back is still meaningful as an early physical interruption of that pattern, but should not be overstated as a completed agency transformation.
+- Exact prose/choreography remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
