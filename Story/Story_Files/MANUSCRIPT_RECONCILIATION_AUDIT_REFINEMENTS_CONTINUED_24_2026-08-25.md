@@ -24,24 +24,18 @@ The current Chapter 12 staging provides a natural opening immediately after the 
 
 ---
 
-## Audit Question 85 — When should Elizabeth donate the diary on-page?
+## Elizabeth donates the diary immediately after shoulder treatment — LOCKED A
 
-### A. Immediately after the shoulder treatment, before she goes to find Shade at the tree line.
+- Immediately after Shade's set-and-hold shoulder working and the Camp healer's follow-up, preserve the existing reminder that the diary is still pressing against Elizabeth's hip.
+- That physical reminder leads into Elizabeth deliberately taking the diary to the Camp archive and donating it.
+- The donation occurs **before** Elizabeth seeks Shade out for the tree-line conversation.
+- The archive has just demonstrated its dual role by sacrificing one of its own charged letters to help Elizabeth, so the donation grows from an already-active scene element rather than a newly inserted archive beat.
+- The decision remains Elizabeth's own. Do not frame Shade's later argument or Pathwell's actions as the reason she gives the diary away.
+- Once donated, the diary remains Camp archive property continuously through the climax. The removed Pathwell buyback is not restored.
+- No manuscript chapter has been edited.
 
-Keep the existing physical reminder that the diary is still against her hip, then let that reminder lead into Elizabeth deliberately taking it to the archive and surrendering it. The archive has just spent one of its records to help her, so its role as living cultural/practical repository is active in the scene rather than newly introduced. After donating it, Elizabeth goes to find Shade.
+---
 
-### B. Immediately upon arriving at Camp, before treatment.
+## Next audit check
 
-This gets the diary into the archive early, but Elizabeth has just arrived injured and the scene's urgent priority is her shoulder. Donation risks feeling mechanically inserted before the more immediate problem is addressed.
-
-### C. After the tree-line conversation with Shade, shortly before Pathwell arrives.
-
-The conversation could prompt Elizabeth to stop carrying private proof, but this delays an already-established agency decision until immediately before the climax and may make the donation feel like a reaction to Shade rather than Elizabeth's own developed choice.
-
-### D. Leave the donation off-page between Chapter 12 and the climax.
-
-Mechanically simple, but this is one of Elizabeth's explicit agency-rung decisions and should not disappear into a continuity assumption.
-
-### Audit lean: **A**
-
-A uses an existing beat rather than creating a new scene. The diary is literally called back to the reader's attention after treatment, the archive's function has just been demonstrated through the consumed letter, and Elizabeth can make the donation before the later Shade conversation complicates the emotional frame. Most importantly, the choice reads as hers rather than as something Shade or Pathwell prompts her to do.
+Search the existing manuscript and support files to determine whether removing the diary-buyback prune also removed the reader's clearest late-story example of a **normal clean prune** immediately before the malformed forced reintegration. Do not invent a replacement calibration beat unless the manuscript actually needs one.
