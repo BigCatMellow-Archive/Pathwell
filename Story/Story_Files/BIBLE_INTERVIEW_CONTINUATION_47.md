@@ -6,8 +6,9 @@ Read `BIBLE_INTERVIEW_CONTINUATION_46.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Newest locks
 
+- **Q109 corrected by user: Chapter 3 is a large Camp book shipment plus settlement of old Space Between debt.** The purchase is not a modest parcel. Pathwell acquires a substantial quantity of books/book material for Camp and also clears an older outstanding balance with the Space Between/custodian in the same expensive prune. This gives `Your bill has been paid in full` real meaning and explains the severity of the immediate physical cost. Exact origin of the older debt remains undefined unless separately needed.
 - **Q108: Camp's supply need is real, but Pathwell appoints himself to solve it — LOCKED C/A HYBRID.** The need is mentioned/known; nobody assigns Pathwell the job. He chooses to acquire the supplies and independently chooses pruning as payment.
-- **Q107 corrected: Chapter 3's clean prune buys supplies for Camp Cunnan.** Exact contents and tome/envelope staging remain open.
+- **Q107 corrected: Chapter 3's clean prune buys supplies for Camp Cunnan.**
 - **Q106: pre-imbued tools can be used non-magically — LOCKED A.**
 - **Q105: successful Nana-cookbook healing leaves no blob-attracting waste — LOCKED A.**
 - **Q104: Stansbury uses ordinary aid after the museum — LOCKED A.**
@@ -30,18 +31,12 @@ Read `BIBLE_INTERVIEW_CONTINUATION_46.md`, then `MANUSCRIPT_RECONCILIATION_AUDIT
 
 ## Existing-story finding
 
-Chapter 3 now has a defined purpose: Pathwell self-appoints to solve a real Camp supply need and pays through a clean prune. But the current manuscript does not visibly connect that transaction to Camp. A leather-bound tome appears before the prune and an envelope afterward, while Chapter 4 reaches Camp without showing any supply handoff. Neither object has an established later function. The story therefore needs a minimal visible payoff proving the ordinary transaction actually accomplished the errand.
+Chapter 3's transaction is now understood as a combined large purchase and debt settlement. Pathwell is buying a substantial quantity of books/book material for Camp Cunnan while also paying an older balance owed to the Space Between/custodian. The current line `Your bill has been paid in full` is therefore intentional rather than throwaway wording. The size of the combined transaction explains why the clean prune leaves Pathwell visibly shaking even though it succeeds normally.
+
+Current support does **not** define what created the older debt. A repo search found no newer lock assigning it to prior Camp procurement, Pathwell's personal purchases, unpaid favors/access, or another category. That older balance should therefore remain unspecified unless the story actually needs its source.
+
+The previous Q109 `modest parcel` premise is superseded. The remaining practical staging question is how a large book shipment reaches Camp without inventing unnecessary logistics.
 
 ## Exact resume point
 
-> **Audit Question 109 — How should the Chapter 3 Camp-supply purchase become visibly connected to Camp?**
->
-> **A. Pathwell leaves the Space Between with a modest physical parcel/bundle, and Chapter 4 briefly shows him hand it off at Camp before the cookbook crisis.** Contents may remain general. The handoff is routine, not ceremonious.
->
-> **B. The Space Between automatically delivers the supplies to Camp.** Efficient but invents unnecessary magical logistics and hides Pathwell's caretaking habit.
->
-> **C. Define the supplies specifically as charged records/material for Camp's archive or healers.** Gives clear magical relevance but may over-specify a detail the story does not need.
->
-> **D. Leave delivery off-page.** Economical, but current staging provides no visible connection between the prune and Camp's need.
->
-> **Audit lean: A.** A small physical handoff closes the causal chain without adding new lore or making the supplies a plot device.
+Q109 is no longer awaiting an A/B/C/D choice; the user corrected its premise. The next audit question should address the large-shipment staging and/or whether the origin of the older Space Between debt needs definition, after searching existing support first.
