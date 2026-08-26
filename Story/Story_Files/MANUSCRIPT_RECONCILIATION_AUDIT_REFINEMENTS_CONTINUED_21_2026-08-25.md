@@ -44,22 +44,46 @@ That cannot be literal under the recent-creation lock. Shade himself is new. Wha
 
 ---
 
-## Audit Question 81 — What should Elizabeth understand as the "old" thing here?
+## Pathwell's pattern is old; the Pathwell/Shade conflict is new — LOCKED A
+
+- Shade is recently created; Elizabeth must not think or narrate that Shade and Pathwell have literally been in conflict since before she was born.
+- Preserve the useful underlying realization by shifting the age to **Pathwell's longstanding behavioral pattern**: taking ownership of other people's problems, pruning ahead, and deciding what solving them should mean.
+- Shade is a **recent person produced by an old habit**.
+- Elizabeth can still understand that she has stepped into a problem that did not begin with her and that she is not the center of the Pathwell/Shade grievance.
+- Do not convert inherited Pathwell fragments into decades or centuries of Shade's own relationship history.
+- No manuscript chapter has been edited.
+
+---
+
+## Existing-story check: `you're not what he described` gives Shade unsupported post-creation information
+
+Current Chapter 12 has Shade tell Elizabeth:
+
+- `you're not what he described.`
+- When Elizabeth asks what Pathwell described, Shade answers: `Something he was holding onto.`
+
+There is no supported on-page event in which Pathwell describes Elizabeth to Shade. Shade's one-time inherited fragments predate Pathwell's later relationship with Elizabeth, and the draw cannot transmit current thoughts or descriptions. Earlier audit canon already permits the underlying `collectible` / `holding onto` judgment **only as Shade's interpretation of Pathwell's observed behavior**, not as private knowledge.
+
+Shade has enough evidence to make that inference: he has directly observed Pathwell's possessive/control framing, including the museum slip toward `you took her from me`, and has seen how Pathwell treats Elizabeth's choices. What he lacks is a literal description supplied by Pathwell.
+
+---
+
+## Audit Question 82 — How should Shade's final assessment of Elizabeth be grounded?
 
 ### Context
 
-Elizabeth is standing with Shade at Camp, trying to locate her place in a conflict she did not create. The current narration gives that conflict an ancient duration by saying the thing between Shade and Pathwell began before she was born. The emotional intention is useful—Elizabeth recognizes she is not the center of this—but the chronology is false because Shade is recently created.
+The tree-line conversation currently ends with Shade telling Elizabeth she is not what Pathwell `described`, then characterizing that description as `Something he was holding onto.` The second idea fits Shade's existing interpretation of Pathwell. The first creates an information leak because Pathwell never actually gave Shade that description.
 
 ### Options
 
-**A. The conflict is new; Pathwell's pattern is old.** Elizabeth understands that Shade himself is recent, but the behavior that created him—Pathwell taking ownership of problems, pruning ahead, and deciding for others—was established long before she entered the story. The present conflict is the newest consequence of an older pattern.
+**A. Reframe the whole beat as Shade's inference from Pathwell's behavior.** Shade says, in substance, that Pathwell acts as though Elizabeth is something he can hold onto/manage, but Elizabeth is plainly not that. No claim that Pathwell privately described her.
 
-**B. Remove all age/history framing.** Elizabeth thinks only that this is between Shade and Pathwell and she does not own it. Cleanest, but loses the useful sense that Shade exposed something in Pathwell that predates Elizabeth.
+**B. Add a museum line where Pathwell explicitly describes Elizabeth that way.** This would make the current wording literal, but it requires Pathwell to state an unusually naked version of his flaw aloud and adds exposition to an already crowded confrontation.
 
-**C. Treat the apparent age as inherited Pathwell history inside Shade.** Elizabeth reads the conflict as old because Shade carries old Pathwell residue. This is possible but risks blurring borrowed memories with Shade's own relationship history.
+**C. Attribute the description to creation-time Pathwell fragments.** Invalid chronologically: Elizabeth entered Pathwell's life after Shade's creation, so those fragments cannot contain Pathwell's later view of her.
 
-**D. Keep the literal `before she'd been born` idea by making Shade much older.** Conflicts with the recently-created lock.
+**D. Cut the entire `holding onto` assessment.** Mechanically safe, but removes a useful Shade observation that already has a legitimate basis in Pathwell's visible behavior.
 
 ### Audit lean: **A**
 
-A preserves the useful thematic scale while fixing chronology. Shade is not an ancient adversary; he is a **recent person produced by an old habit**. This also keeps Elizabeth from centering herself without falsely giving Shade decades or centuries of independent history. B is mechanically safe but discards a useful connection between the climax and Pathwell's longstanding flaw. C muddies the inheritance rule; D conflicts with canon.
+A keeps the useful character reading while obeying Shade's information boundary. It also makes Shade's perceptiveness do the work instead of giving him privileged access: he has watched Pathwell repeatedly treat Elizabeth as someone whose choices he can manage, so `holding onto` becomes an interpretation of visible conduct. B overstates Pathwell's self-awareness and crowds the museum scene; C violates chronology; D discards a supported thematic observation.
