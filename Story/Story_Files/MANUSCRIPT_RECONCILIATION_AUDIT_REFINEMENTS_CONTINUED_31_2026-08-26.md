@@ -39,24 +39,32 @@ The issue is not whether Elizabeth must verbally forgive him. The causal questio
 
 ---
 
-## Audit Question 93 — What should earn Elizabeth's final decision to initiate another journey with Pathwell?
+## Elizabeth's final invitation is earned by concrete Camp restitution — LOCKED A
 
-### A. Pathwell has spent the three weeks doing concrete restitution at Camp without using shortcuts, and the coda gives one concise piece of evidence of that behavior.
+- During the three weeks between the Camp catastrophe and the coda, Pathwell remains at or returns to Camp long enough to perform **concrete restitution** for the damage he caused.
+- He helps rebuild/repair what can physically be rebuilt or repaired, contributes replacement value where replacement is possible, and accepts Camp's terms rather than declaring the debt balanced himself.
+- Irreplaceable destroyed records remain irreplaceable. Restitution does **not** magically restore the archive or erase the loss.
+- Pathwell does **not** prune his way out of the debt or use another magical shortcut to make the consequences disappear.
+- The coda needs only one concise indication that this sustained behavior occurred; the three-week gap should not contain Pathwell's entire transformation off-page.
+- Elizabeth therefore has behavioral evidence of change before she chooses to initiate another journey with him.
+- The coda's live stopped-prune beat and `It was my fault` remain the on-page culmination of that evidence, not the sole basis for renewed companionship.
+- No explicit apology/forgiveness ceremony is required, and Elizabeth does not function as the authority who certifies Pathwell's redemption.
+- No manuscript chapter has been edited.
 
-He helps rebuild/replace what can be replaced, accepts Camp's terms, and does not prune his way out of the debt. Elizabeth does not need to supervise him constantly or declare forgiveness; she simply has evidence that his behavior after the catastrophe has begun matching the lesson he claims to have learned. The coda's stopped prune and `It was my fault` remain the on-page culmination rather than all the evidence by themselves.
+---
 
-### B. The coda is Elizabeth and Pathwell's first contact since the fire; she decides to go with him based only on the stopped prune and `It was my fault`.
+## Exact ending exchange — LOCKED WORDING
 
-This keeps all meaningful change on-page, but asks one brief scene to carry a very large relational repair after Pathwell's climax violation and the Camp destruction.
+The manuscript's final exchange is exactly:
 
-### C. Elizabeth does not recommit to traveling with Pathwell generally; `Are you ready?` means only that she chooses to accompany or lead the specific errand the shopkeeper has just offered.
+> `Are you ready?`
+>
+> `No.`
+>
+> `Perfect.`
 
-This reduces the reconciliation burden and preserves her initiative, but weakens the intended open-ended reversal of the opening partnership.
-
-### D. Add an explicit apology-and-forgiveness conversation before the coda's final exchange.
-
-This would make relational repair unmistakable, but risks resolving the aftermath too neatly, turning Elizabeth into the person who certifies Pathwell's redemption, and diluting the behavioral/agency emphasis.
-
-### Audit lean: **A**
-
-A gives Elizabeth a behavioral basis for choosing renewed companionship without making forgiveness a required ceremony. It also uses a debt already established by the manuscript rather than inventing a new restitution plot. The important restraint is that the three-week gap should not contain Pathwell's entire transformation off-page: one concise indication of sustained restitution is enough, while the coda still shows the decisive behavior directly when he begins a prune and chooses to stop. B places too much weight on one confession and one stopped action; C weakens the intended ending; D makes Elizabeth's absolution too structurally important.
+- Elizabeth asks the first line.
+- Pathwell answers `No.`
+- Elizabeth answers `Perfect.`
+- Preserve this exact three-line role reversal in manuscript reconciliation.
+- Do not add dialogue after `Perfect.`
