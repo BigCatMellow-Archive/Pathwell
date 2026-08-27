@@ -130,3 +130,20 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_65_20
 - This also distinguishes the museum failure from the later Camp reintegration attempt. Museum: Pathwell tries to contain/control Shade and the situation. Camp: Pathwell tries to resolve Shade by absorbing/reintegrating him despite explicit refusal.
 - Exact ward geometry, source text, visual effect, and dialogue remain deferred to manuscript reconciliation.
 - No manuscript chapter has been edited.
+
+---
+
+## Q147 — Pathwell constructs the reintegration working in real time while talking; the conversation and his injury presentation help conceal what his hands are doing — USER REFINEMENT / LOCKED C-MODIFIED
+
+- Pathwell does **not** arrive at Camp with a fully prepared reintegration working already assembled.
+- He begins constructing/assembling the working **in real time during the confrontation while he is talking**.
+- This is characteristic behavior rather than a separate formal deception scene: Pathwell's verbal patter, apparent distraction, movement, and constant hand activity make it easy for other people to attend to the conversation instead of tracking the technical purpose of each small action.
+- His museum injury is genuine. He is physically depleted under Q139, but he can **play up how impaired, scattered, or occupied by the injury he appears to be** so that others underestimate how much deliberate magical work he is doing at the same time.
+- The injury performance should not turn into a fake-collapse trick or erase the fact that he was actually hurt. The useful contrast is that Pathwell can be genuinely damaged and still be more active/calculating than he looks.
+- Shade recognizes the emerging purpose before most of the group because the working is directly about him and because of his Pathwell-derived creation-time magical fragments/experience. This supports Q145's lock that Shade says no first.
+- Mama Baga recognizes the danger shortly afterward and tells Pathwell to stop. By then the assembly is far enough along, and Pathwell keeps moving it toward release rather than cleanly abandoning it.
+- The scene's tension should come partly from retrospective recognition: actions that initially read as fidgeting, coping with injury, handling ordinary objects, or punctuating speech are revealed to have been components of the working.
+- The user's tonal character reference is the quick, physically busy, verbally distracting quality associated with Matt Smith's Doctor: Pathwell can talk as though the talk is the whole event while his hands are already solving something else. This is a characterization influence, not a request to imitate dialogue or prose from *Doctor Who*.
+- This resolves the Q147 timing issue without inventing instant reintegration magic or requiring a long visible ritual that everyone inexplicably allows to continue.
+- Exact hand actions, objects/components, dialogue, and reveal timing remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
