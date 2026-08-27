@@ -66,3 +66,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_65_20
 - The museum therefore becomes another real site of consequence attributable to Pathwell. Exact legal/practical restitution logistics do not need to be solved unless later continuity requires them, but the destruction itself should not be treated as consequence-free scenery.
 - Exact discharge choreography and which specific records are lost remain deferred to manuscript reconciliation.
 - No manuscript chapter has been edited.
+
+---
+
+## Q143 — Pathwell begins museum restitution during the three-week aftermath, but the debt remains open — LOCKED A/B HYBRID
+
+- Q142 makes the museum a second real site of harm caused by Pathwell, so his accountability after the climax cannot treat Camp as the only party he owes.
+- During the same broad three-week aftermath in which he performs Camp-directed restitution, **Pathwell also personally begins making restitution to the museum** for the records and property destroyed by his discharge.
+- This museum restitution is not handed off to Stansbury or another character merely because the logistics are inconvenient. Pathwell caused the damage and takes responsibility for beginning the response.
+- The work can include mundane compensation, physical repair, conservation/restoration of surviving material, replacement of ordinary fixtures/material where possible, administrative arrangements, and other practical obligations the museum itself defines.
+- **No pruning shortcut** is used to settle the museum debt.
+- Destroyed authentic historical originals are not treated as replaceable. Copies, money, repair, or replacement materials can address practical losses but cannot recreate the destroyed human record.
+- Three weeks is **not** enough to make this debt cleanly finished. By the coda, Pathwell has accepted responsibility and begun the work, but the museum restitution remains an ongoing obligation rather than a closed ledger.
+- Camp remains the primary on-page restitution focus because its catastrophe is the climax and because Q133/Q134 use shared Camp work for Pathwell's behavioral change and Elizabeth's observation of that change.
+- Museum restitution can therefore remain mostly or entirely off-page while still being canonically real; a brief reference is sufficient if the manuscript needs to prevent the museum loss from appearing forgotten.
+- Do not imply that accountability requires everything to be repairable or fully settled before Pathwell can move forward. Part of the change is accepting debts and losses that remain unresolved.
+- No manuscript chapter has been edited.
