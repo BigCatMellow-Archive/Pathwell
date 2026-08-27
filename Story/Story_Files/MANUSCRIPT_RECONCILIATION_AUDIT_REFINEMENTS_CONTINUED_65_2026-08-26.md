@@ -62,3 +62,17 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_64_20
 - The meaningful reversal is: earlier, Pathwell chose where they were going and Elizabeth was pulled along; now, Elizabeth chooses where she wants to go and asks Pathwell to help her get there.
 - Exact threshold choreography remains deferred to manuscript reconciliation.
 - No manuscript chapter has been edited.
+
+---
+
+## Q138 — Pruning does not require emotionally charged text — LOCKED A
+
+- **Pruning and emotional-text magic remain mechanically distinct systems.**
+- A prune spends the practitioner's own future possibility as payment to an entity, system, or working capable of accepting it. Emotionally charged handwriting is not required as fuel, catalyst, or activation cost for the prune itself.
+- Pathwell may still handle paper, receipts, notes, or other written objects as habit, focus, ritual choreography, or as part of a separate working, but the object's emotional charge is not what makes pruning possible.
+- The current coda wording that an old receipt has `enough charge for a simple prune` is therefore stale and should be removed or reframed during manuscript reconciliation.
+- The distinction should stay legible: **emotional-text magic spends authentic human records; pruning spends the practitioner's future possibility.** They can interact in one larger working without one being the prerequisite fuel for the other.
+- This strengthens the coda choice: Pathwell does not stop because he lacks the correct charged object. He remains fully capable of pruning and has what he needs to do so; he chooses to stop before release.
+- Do not invent a universal written-focus requirement for pruning unless a later contradiction genuinely requires one.
+- Exact hand choreography and visual ritual remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
