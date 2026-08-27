@@ -37,3 +37,17 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_65_20
 - The purpose of the exceptions is not to turn the novel into ensemble fiction. Their scarcity should make Pathwell's private moments feel intentional and significant while preserving Elizabeth as the dominant narrative consciousness.
 - Exact formatting/scene-break treatment for POV exceptions remains deferred to manuscript reconciliation.
 - No manuscript chapter has been edited.
+
+---
+
+## Q141 — Pathwell does not need to identify the exact historical prune that created Shade — USER CORRECTION / LOCKED
+
+- The story does **not** require Pathwell to reconstruct or identify the exact past pruning incident that produced Shade.
+- The authorial/world-level origin remains active: Shade was created by a malformed prune rooted in Pathwell's habit of choosing pruning as the quick/clean way to solve another person's problem after that person asked for help but did not ask him to prune.
+- Pathwell's own knowledge may remain less precise than the underlying canon. He can understand that Shade exists because of **his pruning, his choices, and his pattern of deciding what solving another person's problem should mean** without being able to point to one remembered transaction and say `that was the one`.
+- The bar mirror therefore only needs to shift Pathwell's suspicion toward himself. The crash/direct encounter can deepen the recognition that Shade is connected to his own pruning history without turning into a forensic identification of a specific old event.
+- Chapter 10 and later truth beats should not require Pathwell to give Elizabeth a neatly reconstructed creation story. He can tell the truth he actually knows while leaving the exact originating incident uncertain.
+- This uncertainty does not reduce Pathwell's responsibility. The moral issue is his repeated method and entitlement, not whether he can identify the single historical transaction that happened to cross the unprecedented line into personhood.
+- Do not invent a new investigative scene, Stansbury explanation, or Shade exposition solely to make Pathwell identify the exact prune.
+- Exact wording of what Pathwell knows at each scene remains deferred to manuscript reconciliation, but the manuscript should preserve a distinction between **recognizing responsibility/pattern** and **knowing the precise mechanism/history**.
+- No manuscript chapter has been edited.
