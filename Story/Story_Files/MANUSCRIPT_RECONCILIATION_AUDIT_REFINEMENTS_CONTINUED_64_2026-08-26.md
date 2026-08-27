@@ -200,3 +200,16 @@ No manuscript chapter has been edited.
 - `No cookbook. No diary.` remains the aftermath fact.
 - This also gives the Camp archive at least one emotionally established object before its destruction, while avoiding a duplicate surrender beat parallel to the diary donation.
 - No manuscript chapter has been edited.
+
+---
+
+## Q130 — Camp's archive gets one specific non-Elizabeth record established before the fire — LOCKED B
+
+- During Elizabeth's first Camp visit, the story should establish **one specific Camp-owned record** that belongs emotionally to Camp's own people/history rather than to Elizabeth.
+- The record should be an ordinary human document with personal/cultural meaning — for example a resident's family letters, a journal carried through Camp moves, or another similarly irreplaceable record — not a new magical MacGuffin or plot device.
+- It should appear naturally as part of Camp life/archive use rather than as an obvious `this will burn later` setup beat.
+- The record's later destruction gives the archive fire a concrete communal loss in addition to Elizabeth's cookbook and diary.
+- Do not require a catalog of multiple named artifacts; one non-Elizabeth record is enough to make the archive's cultural function tangible.
+- Stansbury's archive rescue can therefore read as an attempt to save pieces of people's lived history rather than generic valuable papers.
+- The exact identity, wording, and owner of the record can remain for manuscript reconciliation unless an existing repo element provides a natural reusable candidate.
+- No manuscript chapter has been edited.
