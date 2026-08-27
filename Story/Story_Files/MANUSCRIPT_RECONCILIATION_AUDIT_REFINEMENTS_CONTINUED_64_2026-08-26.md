@@ -213,3 +213,17 @@ No manuscript chapter has been edited.
 - Stansbury's archive rescue can therefore read as an attempt to save pieces of people's lived history rather than generic valuable papers.
 - The exact identity, wording, and owner of the record can remain for manuscript reconciliation unless an existing repo element provides a natural reusable candidate.
 - No manuscript chapter has been edited.
+
+---
+
+## Q131 — Shade's right-hand draw tell is planted at the diner during his existing resistance beat — LOCKED A
+
+- Shade's involuntary draw toward Pathwell should have a distinctive recurring physical tell: his **right hand opens/orients toward Pathwell's direction** without his choosing it.
+- The first clear plant now occurs during the diner scene, replacing the setup lost when Q119 removed Shade's shoulder-healing role.
+- When the draw hits at the diner, Shade's right hand involuntarily opens/orients toward Pathwell; Shade notices the movement and deliberately closes, restrains, or otherwise suppresses it while resisting the pull.
+- This should remain part of the diner scene's already-established resistance beat rather than requiring a new explanatory scene or new magical rule.
+- The gesture recurs later when Pathwell reaches Camp, where its repetition helps expose the Pathwell/Shade connection.
+- The diner occurrence should function as setup the reader can notice without fully understanding; the Camp recurrence supplies the stronger contextual payoff.
+- The physical tell also makes Shade's resistance materially legible: he is fighting a deterministic orientation/compulsion rather than merely experiencing vague discomfort.
+- Exact prose and choreography remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
