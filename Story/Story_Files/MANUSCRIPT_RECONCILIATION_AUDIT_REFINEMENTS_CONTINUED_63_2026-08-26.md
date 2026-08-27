@@ -191,10 +191,48 @@ Only if the issue survives all four checks should the audit ask the next A/B/C/D
 
 ---
 
-## 9. Current pause point
+## 9. Stansbury on-page behavior re-map after Q127
 
-Do **not** advance to the previously drafted Q128 yet.
+A targeted pass through Chapters 5, 6, 7, 8, 10, 11, and 12b shows that **generic passivity / observer-to-participant is not an accurate description of Stansbury's existing behavior**.
 
-The next task is to re-map Stansbury's existing on-page behavior and prior still-active decisions against Q127's revised primary flaw, then determine whether there is one genuine unresolved decision left about his climax payoff.
+He already acts repeatedly:
+
+- Chapter 5: arrives with working defensive inventory, demonstrates it, drives the group, and gives Elizabeth access to a dagger.
+- Chapter 6: directly warns Elizabeth about Pathwell's pattern and later gives her the keys because the brothers are too impaired to drive safely.
+- Chapter 7's exact blob staging is stale, but Stansbury's broader behavior is still useful evidence: he joins the physical response and directly confronts Pathwell about turning people into `errands`.
+- Chapter 8: after the crash, he gets himself out, identifies where the situation is going, and physically moves Pathwell away from staring after Shade/Elizabeth.
+- Chapter 10: during Elizabeth's demand for truth, Stansbury drives and stays largely silent rather than taking over the disclosure.
+- Chapter 11: he goes to injured Elizabeth first, then later treats/helps Pathwell and tells him he has to figure out what he owes her.
+- Chapter 12b: he independently enters the burning archive, returns for another rescue attempt, is burned, and says `Let it be` when Pathwell reaches toward fixing the injury.
+
+### Consequence for Q127
+
+The broad phrase `critical disengagement` risks becoming another flaw designed backward from the desired ending rather than one already supported by the character.
+
+What the manuscript supports more consistently is **resignation/enabling around Pathwell specifically**:
+
+- Stansbury sees Pathwell's pattern clearly.
+- He warns other people about it.
+- He argues with Pathwell and mitigates immediate damage.
+- He continues participating in the same brotherly cycle anyway.
+- He often behaves as though `Pathwell being Pathwell` is a fixed condition to manage around rather than something on which a meaningful boundary can be placed.
+
+This is narrower than cowardice, general irresponsibility, or passivity. Stansbury is demonstrably competent and willing to act.
+
+### Important caution
+
+This re-map is a **finding, not yet a replacement flaw lock**.
+
+Do not silently convert Q127 into `resignation/enabling` without one deliberate decision. The audit should first verify whether that narrower formulation also fits the still-active `Let it be`, scar, brother dynamic, and climax structure without forcing every Stansbury scene to become thematic evidence.
+
+---
+
+## 10. Current pause point
+
+Do **not** advance to the previously drafted Q128.
+
+The consistency pass has shown that the next genuine issue is not `does Stansbury become a leader?` It is more basic: whether Q127's new flaw should be narrowed from generic responsibility-avoidance/critical disengagement to the more manuscript-supported pattern of **resigned enabling around Pathwell**.
+
+That issue should be checked against the remaining active brother/climax locks before it is presented as a question.
 
 No manuscript chapter has been edited.
