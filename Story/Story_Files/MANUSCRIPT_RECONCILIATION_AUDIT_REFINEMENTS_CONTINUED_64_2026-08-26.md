@@ -186,3 +186,17 @@ No manuscript chapter has been edited.
 - Q127 is narrowed by this lock. Its rejection of `keeps people small` remains active, but its broad replacement language about generic responsibility avoidance/passivity is superseded. Stansbury's issue is specific to his long-running accommodation of Pathwell, not a general inability to act.
 - Q125 remains mechanically active; the safety-biased weapon line reflects legitimate caution/craft philosophy rather than evidence of a major controlling flaw.
 - No manuscript chapter has been edited.
+
+---
+
+## Q129 — Nana's cookbook survives the Camp healing as archive property until the fire — LOCKED A
+
+- Elizabeth surrenders **the whole cookbook** to Camp as the cost she is willing to give for the younger injured woman's healing.
+- The healing consumes only the page/material actually required by the working under the existing page-level emotional-text rules; surrender of the whole object does **not** require the whole physical book to be magically consumed at that moment.
+- Elizabeth does not reclaim the surviving cookbook after the healing. The remaining book becomes Camp/archive property and is retained as part of Camp's cultural memory and practical magical reserve.
+- Her sacrifice therefore remains genuinely permanent from her perspective at the Camp scene: she gives up ownership and possession of Nana's book rather than merely spending one page and taking the rest home.
+- The surviving cookbook can consequently be present in the archive during the climax without requiring a second later donation beat.
+- During the archive fire, Elizabeth has a genuine opportunity to recover the surviving cookbook but chooses the child instead; ordinary fire then destroys it.
+- `No cookbook. No diary.` remains the aftermath fact.
+- This also gives the Camp archive at least one emotionally established object before its destruction, while avoiding a duplicate surrender beat parallel to the diary donation.
+- No manuscript chapter has been edited.
