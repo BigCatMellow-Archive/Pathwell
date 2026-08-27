@@ -34,3 +34,16 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_64_20
 - It also preserves the coda's replacement-cookbook insight: another family's authentic history can be valuable without being interchangeable with Nana's, and Pathwell demonstrates growth by leaving it alone rather than finding a new way to obtain it.
 - Exact setup for Elizabeth's chosen next adventure remains deferred to manuscript reconciliation/future-story planning unless a later causal contradiction requires a specific answer.
 - No manuscript chapter has been edited.
+
+---
+
+## Q136 — Elizabeth's ordinary-life logistics remain intentionally unresolved on-page — LOCKED D
+
+- The manuscript does **not** need to explicitly resolve Elizabeth's apartment, packed boxes, missed meeting, job status, lease, or other ordinary-life logistics before the coda.
+- Those details may still exist in her life, and the story should not imply they magically disappeared simply because she entered the supernatural world.
+- The ending's required character fact is narrower: Elizabeth is no longer being carried forward by Pathwell's urgency, property leverage, or circumstance. She independently chooses the next adventure.
+- Do not add a mandatory `I quit my old life`, apartment-cleanout, job-resolution, or `return to normal` scene merely to close logistical loops.
+- Likewise, do not define adventure as automatically superior to ordinary life. Leaving the mundane logistics unstated preserves the possibility that Elizabeth's broader life continues in whatever form she later chooses.
+- Q134 and Q135 provide the necessary agency bridge: Elizabeth has observed Pathwell's changed behavior during the three-week restitution period, then arrives with the next adventure/direction already chosen by her.
+- Exact ordinary-life consequences can remain off-page/iceberg material unless a later manuscript scene creates a concrete continuity contradiction that requires one of them to be specified.
+- No manuscript chapter has been edited.
