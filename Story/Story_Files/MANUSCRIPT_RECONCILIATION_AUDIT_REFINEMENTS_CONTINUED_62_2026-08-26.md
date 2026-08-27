@@ -78,3 +78,19 @@ C keeps the existing character logic without inventing a universal foam rule. St
 - Her inability to make him stop spending himself is part of the relationship's weight: she can care for him, but she cannot choose for him.
 - This establishes the adoptive mother/son bond clearly enough that her later silence and disappointment after the archive catastrophe carry familial weight without requiring exposition.
 - No manuscript chapter has been edited.
+
+---
+
+## Q127 — Stansbury's primary flaw is responsibility avoidance disguised as prudence — LOCKED A, SUPERSEDING PRIOR PRIMARY-FLAW FRAMING
+
+- Stansbury's primary flaw is **not** `protects people by keeping them small`.
+- He is competent, observant, cautious, and frequently correct about Pathwell's recklessness, but centuries of letting Pathwell be the person who acts, fixes, pays, and cleans up consequences have trained Stansbury into the safer role of observer, critic, adviser, and supporting player.
+- His prudence becomes a moral shelter: he can explain why Pathwell is wrong without placing himself in the position where he must choose, act, fail, or personally bear an irreversible consequence.
+- The brothers therefore reinforce each other's flaws. Pathwell over-functions because Stansbury lets him become indispensable; Stansbury under-functions because Pathwell repeatedly makes himself indispensable.
+- The thematic contrast becomes: **Pathwell turns responsibility into control; Stansbury turns avoidance of control into avoidance of responsibility.** Both mistake an extreme for virtue.
+- Stansbury's archive-fire turn should ultimately pay off this problem: he steps into the consequences himself, acts without waiting for Pathwell to fix the situation, accepts injury/cost, and later refuses Pathwell's instinct to erase that consequence.
+- `Let it be` and the permanent scar therefore become central evidence of Stansbury accepting a consequence as his own rather than handing it back to Pathwell.
+- Q125 remains mechanically locked: Stansbury's normal foam inventory is still deliberately safety-biased. However, that design choice should now read primarily as legitimate caution, craft philosophy, and dislike of unnecessary harm — **not** as proof of a controlling `keeps people small` flaw.
+- Earlier support describing `keeps people small` as Stansbury's **primary** flaw is superseded by this lock.
+- Q116's no-micromanagement constraint can remain provisionally useful, but its stated arc rationale (`trust instead of control`) now requires explicit reconciliation because Q127 changes what Stansbury is overcoming.
+- No manuscript chapter has been edited.
