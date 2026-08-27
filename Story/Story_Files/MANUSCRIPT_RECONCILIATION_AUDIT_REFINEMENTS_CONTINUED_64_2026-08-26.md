@@ -227,3 +227,18 @@ No manuscript chapter has been edited.
 - The physical tell also makes Shade's resistance materially legible: he is fighting a deterministic orientation/compulsion rather than merely experiencing vague discomfort.
 - Exact prose and choreography remain deferred to manuscript reconciliation.
 - No manuscript chapter has been edited.
+
+---
+
+## Q132 — Shade suspects the climactic blob is responding to him, but does not know the outcome — LOCKED D/A HYBRID
+
+- Shade does **not** possess certain, complete knowledge that the climactic blob can safely or cleanly `resolve` him.
+- He has enough basis to form a serious suspicion: creation-time fragments of Pathwell's practitioner knowledge, his own experience of the draw/signature overlap, the repeated Pathwell/Shade cleanup targeting, and what he witnesses during the final failed prune and blob response.
+- Shade can therefore infer that the blob may be reacting to the unresolved condition embodied in him rather than to Pathwell as an ordinary person.
+- That inference remains incomplete. Shade does **not** know whether stepping into the blob will kill him, absorb him, separate him from Pathwell, quiet the draw, worsen the event, or accomplish nothing.
+- His final movement into the blob's path is consequently an **informed risk, not a solved magical procedure**.
+- He is not acting because Pathwell, Camp, or another practitioner explains his own mechanism to him at the climax.
+- The choice should preserve both sides of the hybrid: Shade has enough evidence to choose rather than merely stumble into sacrifice, but he cannot know the result in advance.
+- This remains compatible with the locked endpoint that the blob ultimately absorbs/removes Shade as the unresolved pruning anomaly and collapses the Pathwell/Shade targeting ambiguity.
+- Exact interiority and dialogue remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
