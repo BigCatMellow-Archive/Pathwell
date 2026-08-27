@@ -66,6 +66,100 @@ If a sentence sounds wrong in your mouth, it reads wrong on the page. Prose is m
 
 ---
 
+## Universal Chapter Necessity Test
+
+**Required for every chapter and for every substantial new scene.** This is not only an expansion test. Existing material must pass it too.
+
+A chapter should not survive merely because it contains good prose, useful lore, a fun set piece, or material we are fond of. It must earn its place in the story.
+
+Before drafting, preserving, expanding, or approving a chapter, answer all five questions:
+
+### 1. What later moment is this chapter helping earn?
+Name the later choice, sacrifice, death, betrayal, revelation, relationship turn, location loss, payoff, or emotional result that would be weaker without this material.
+
+A chapter may also earn an immediate turn, but it should contribute to something beyond its own existence. If nothing later depends on what the reader experiences here, question why the chapter is present.
+
+### 2. What exactly is missing without it?
+Be specific. The missing ingredient might be:
+
+- emotional attachment;
+- understanding of a character as a person rather than a plot function;
+- a smaller agency rung before a larger choice;
+- familiarity with a location before it is damaged or lost;
+- relationship time before conflict, separation, forgiveness, or sacrifice;
+- a needed contrast between ordinary life and catastrophe;
+- setup for a rule, object, behavior, or payoff;
+- breathing room that lets the previous event land;
+- evidence that makes a later choice believable.
+
+Do not answer only `more development`, `more worldbuilding`, or `the book feels short`.
+
+### 3. Why must this chapter happen here?
+The chapter needs a causal entrance and exit.
+
+Ask:
+
+- What **therefore** or **but** brings us into this chapter?
+- What changes here that forces, complicates, or makes possible what comes next?
+- If the connection is only `and then`, is the chapter misplaced, unnecessary, or missing a stronger character want?
+
+A good chapter should feel inevitable in retrospect even when what happens inside it is surprising.
+
+### 4. Can it perform multiple necessary story jobs without becoming overloaded?
+Strong additions usually strengthen several things already required by the story rather than inventing a new subplot merely to justify themselves.
+
+Useful overlap may include:
+
+- character attachment;
+- agency progression;
+- relationship development;
+- setup/payoff;
+- world texture;
+- location attachment;
+- object continuity;
+- magic calibration;
+- tonal breathing room;
+- humor or irreverence;
+- thematic pressure through action;
+- preparation for a later loss.
+
+Multiple jobs are good when they arise naturally from the same scene. Do not cram unrelated obligations together just to make a chapter look efficient.
+
+### 5. The deletion test: is the story genuinely lesser without it?
+After the chapter is planned or drafted, mentally remove it.
+
+Ask what becomes worse:
+
+- Does a later death hurt less?
+- Does a sacrifice feel unearned?
+- Does a character seem more like a device than a person?
+- Does a location burn before the reader has learned to care about it?
+- Does an agency jump skip a rung?
+- Does a relationship change without enough lived time?
+- Does a reveal rely on exposition instead of setup?
+- Does the pacing lose needed breathing room?
+- Does the story become less fun, less human, less strange, or less emotionally credible?
+
+If removing the chapter changes little beyond page count, **cut it or redesign it**.
+
+If removing it makes later material noticeably less powerful, less believable, less clear, or less emotionally earned, it has justified its place.
+
+### Governing expansion rule
+
+**Never add material because the manuscript is short. Add material because the existing story is asking the reader to feel, believe, understand, or mourn something it has not yet earned.**
+
+Once added, the material should feel so causally and emotionally integrated that a reader assumes it was always part of the story — and the book should be recognizably worse if it is removed.
+
+### Memory-before-loss rule
+
+Before taking away a person, place, relationship, or object that is meant to hurt, make sure the reader has a lived memory of what it was like **before it was lost**.
+
+A death lands harder when the reader remembers the character being alive in ways unrelated to dying. A place burns harder when the reader remembers an ordinary night there. An object matters more when it has already participated in life rather than merely being labeled important.
+
+**Before we destroy something important, let it be ordinary for a while.**
+
+---
+
 ## Additional Learned Principles
 
 These emerged through revision work and supplement the 20 above:
