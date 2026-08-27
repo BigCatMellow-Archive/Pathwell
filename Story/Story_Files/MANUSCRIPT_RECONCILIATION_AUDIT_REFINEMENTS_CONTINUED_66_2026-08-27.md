@@ -51,3 +51,18 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_65_20
 - Do not invent a new investigative scene, Stansbury explanation, or Shade exposition solely to make Pathwell identify the exact prune.
 - Exact wording of what Pathwell knows at each scene remains deferred to manuscript reconciliation, but the manuscript should preserve a distinction between **recognizing responsibility/pattern** and **knowing the precise mechanism/history**.
 - No manuscript chapter has been edited.
+
+---
+
+## Q142 — Pathwell's museum overreach is a large discharge that destroys multiple charged historical records — LOCKED A
+
+- The Chapter 11 museum working is **not** a narrowly contained recoil that leaves the surrounding collection untouched.
+- Pathwell reaches too broadly with the working and catches multiple charged historical records in the gallery. Their charge is activated/uncontrolled as part of the discharge, and the affected originals are physically consumed, ruined, erased, burned, cracked, or otherwise destroyed under the established `activation consumes the original` rule.
+- The event should feel materially larger than Elizabeth simply being knocked into a display case: it is a **great discharge** through a dense historical collection, with multiple artifacts/records paying the price for Pathwell's attempt to impose one broad solution on the room.
+- Elizabeth's shoulder injury remains one of the central immediate human consequences, but it is not the only consequence of the overreach.
+- This creates a deliberate structural preview of the later Camp catastrophe: at the museum, Pathwell's unilateral magical control damages both a person and preserved human history; at Camp, the same underlying pattern escalates into archive-scale devastation.
+- Q139 remains active and distinct: after this destruction, Stansbury does **not** consume an additional surviving museum poem to heal Pathwell. The museum losses come from Pathwell's uncontrolled discharge, not from Stansbury casually spending another artifact afterward.
+- The story does not need to inventory every destroyed museum item. A few specific visible losses can establish scale while avoiding catalog prose.
+- The museum therefore becomes another real site of consequence attributable to Pathwell. Exact legal/practical restitution logistics do not need to be solved unless later continuity requires them, but the destruction itself should not be treated as consequence-free scenery.
+- Exact discharge choreography and which specific records are lost remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
