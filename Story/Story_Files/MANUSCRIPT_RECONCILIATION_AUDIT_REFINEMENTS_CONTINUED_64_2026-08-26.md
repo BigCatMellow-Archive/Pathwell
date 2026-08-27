@@ -170,3 +170,19 @@ B preserves what is already working without forcing Stansbury to demonstrate a b
 Most importantly, it lets `Let it be` do the work it already naturally does: Stansbury stops treating Pathwell's fixing impulse as an inevitable condition to manage around and gives him a boundary. Pathwell, for once, leaves it alone.
 
 No manuscript chapter has been edited.
+
+---
+
+## Q128 — Stansbury gets a smaller brother-specific turn, not a full flaw-resolution arc — LOCKED B
+
+- Stansbury does **not** need a large conventional `flaw → transformation` arc parallel to Elizabeth, Pathwell, or Shade.
+- He remains competent, cautious, perceptive, outspoken, and willing to act throughout the story.
+- Do not retrofit generic passivity, cowardice, responsibility avoidance, or `keeps people small` behavior merely to manufacture setup for the climax.
+- His lighter weakness is relational: centuries with Pathwell have made him too accustomed to managing around Pathwell's fixing/control pattern and too resigned to `Pathwell being Pathwell`.
+- The archive rescue remains a meaningful independent Stansbury choice because he chooses to enter danger and save what he can, **not** because he must prove he has finally become brave, active, responsible, or capable of leadership.
+- His principal movement is brother-specific: after the fire creates a lasting consequence that belongs to Stansbury, `Let it be` establishes a clear boundary against Pathwell's reflex to make that consequence disappear.
+- Pathwell respecting that boundary completes the beat from the other side; Stansbury does not need to become Camp's commander for the turn to land.
+- Q116 is superseded **as an arc rationale**: `trust instead of control` is no longer Stansbury's required character payoff. Its practical staging caution still stands—avoid suddenly making the climax about everyone obeying Stansbury or about micromanaging competent Camp residents.
+- Q127 is narrowed by this lock. Its rejection of `keeps people small` remains active, but its broad replacement language about generic responsibility avoidance/passivity is superseded. Stansbury's issue is specific to his long-running accommodation of Pathwell, not a general inability to act.
+- Q125 remains mechanically active; the safety-biased weapon line reflects legitimate caution/craft philosophy rather than evidence of a major controlling flaw.
+- No manuscript chapter has been edited.
