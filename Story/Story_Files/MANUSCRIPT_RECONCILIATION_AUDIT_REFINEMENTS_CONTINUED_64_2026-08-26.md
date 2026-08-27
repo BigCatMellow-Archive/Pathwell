@@ -242,3 +242,17 @@ No manuscript chapter has been edited.
 - This remains compatible with the locked endpoint that the blob ultimately absorbs/removes Shade as the unresolved pruning anomaly and collapses the Pathwell/Shade targeting ambiguity.
 - Exact interiority and dialogue remain deferred to manuscript reconciliation.
 - No manuscript chapter has been edited.
+
+---
+
+## Q133 — Pathwell's three-week restitution is mixed, concrete, and defined by Camp — LOCKED C
+
+- During the three-week interval before the coda, Pathwell performs concrete restitution for Camp Cunnan without using pruning as a shortcut.
+- Pathwell does **not** independently decide what Camp needs and then impose his preferred solution. Camp defines the needs and terms; Pathwell asks, listens, and follows through.
+- Restitution can include a mixture of ordinary physical cleanup/rebuilding, obtaining specific mundane replacement materials, carrying out assigned errands, and helping restore whatever surviving records or structures can actually be restored.
+- The lost cookbook, diary, Camp record, and other destroyed cultural material remain genuinely irreplaceable. Pathwell does not produce magical substitutes, purchase equivalent histories, or behave as though enough labor can undo the loss.
+- The important behavioral reversal is not that Pathwell works hard or spends himself; he has always been willing to do that. The change is that **someone else defines the problem and the terms of help, and Pathwell accepts those limits**.
+- This deliberately contrasts with the earlier Camp-book purchase, where a real Camp need exists but Pathwell self-appoints to solve it and independently chooses pruning as the method.
+- The restitution period may remain mostly off-page, but the later manuscript should give enough concrete evidence that this different mode of helping actually occurred rather than merely stating that Pathwell `owed Camp`.
+- Exact tasks, dialogue, and montage/staging remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
