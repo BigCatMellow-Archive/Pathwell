@@ -115,3 +115,18 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_65_20
 - This also sharpens the low point without changing the underlying mechanism: the malformed failure is still caused by Pathwell forcing a prune through a fundamental contradiction in intent, not by another character interrupting the magic.
 - Exact warning wording, timing, and physical reactions remain deferred to manuscript reconciliation.
 - No manuscript chapter has been edited.
+
+---
+
+## Q146 — Pathwell's museum working is intended to contain and separate Shade — LOCKED A
+
+- In the Chapter 11 museum confrontation, Pathwell is **not** trying to kill Shade, expel him from existence, diagnose him, or simply shield Elizabeth with a narrow defensive effect.
+- Pathwell's general purpose before activating his charged source is to **contain and separate Shade**: impose a boundary over the situation, hold Shade where he is, keep him away from Elizabeth, and make the room manageable long enough for Pathwell to regain control.
+- This purpose satisfies the active emotional-text rule that a practitioner must have a general intended effect before activation; later shaping can refine only within that purpose.
+- Elizabeth has already said she does not need rescuing, and Shade is not attacking her. Pathwell nevertheless decides the situation requires his imposed boundary rather than accepting either person's framing of what is happening.
+- The working therefore expresses Pathwell's core flaw directly. Faced with a situation he does not understand, he responds by trying to make **everyone and everything obey one solution**.
+- The effect spreads too broadly through the dense charged museum environment and becomes the Q142/Q144 cascade: Pathwell's held source initiates the uncontrolled discharge, nearby records are physically destroyed, and their released fallout enlarges the disaster.
+- The museum scene should preserve the existing image/logic of a working that is effectively `trying to make a rule for the whole room at once`, because that visual now has a precise mechanical and character purpose.
+- This also distinguishes the museum failure from the later Camp reintegration attempt. Museum: Pathwell tries to contain/control Shade and the situation. Camp: Pathwell tries to resolve Shade by absorbing/reintegrating him despite explicit refusal.
+- Exact ward geometry, source text, visual effect, and dialogue remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
