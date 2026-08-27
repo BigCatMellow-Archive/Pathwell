@@ -47,3 +47,18 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_64_20
 - Q134 and Q135 provide the necessary agency bridge: Elizabeth has observed Pathwell's changed behavior during the three-week restitution period, then arrives with the next adventure/direction already chosen by her.
 - Exact ordinary-life consequences can remain off-page/iceberg material unless a later manuscript scene creates a concrete continuity contradiction that requires one of them to be specified.
 - No manuscript chapter has been edited.
+
+---
+
+## Q137 — Pathwell takes Elizabeth to the Space Between at her request — USER CORRECTION / LOCKED
+
+- Elizabeth does **not** need an independently operable Space Between threshold, a special token, or a newly invented Camp route in order for Q135's agency reversal to work.
+- In the coda setup, **Elizabeth asks Pathwell to take her to the Space Between, and Pathwell does so.**
+- Pathwell may still be the practitioner who physically opens/uses the required threshold. Access assistance is not the same thing as choosing the destination or choosing what happens next.
+- The causal ownership remains Elizabeth's: she decides that she wants to go to the Space Between, asks for the practical help required to get there, and has the next direction/adventure chosen by her rather than being handed a quest by Pathwell or the Shopkeeper.
+- This is compatible with Elizabeth remaining entirely non-magical and with the established rule that threshold access depends on the individual threshold rather than practitioner status alone.
+- Do not manufacture a special Elizabeth-only access mechanism merely to make the role reversal visually symmetrical with Chapter 3.
+- Q135's wording `Elizabeth arrives at the Space Between with the next direction/adventure already chosen by her` should be read as **decision ownership**, not as a claim that she traveled there without Pathwell.
+- The meaningful reversal is: earlier, Pathwell chose where they were going and Elizabeth was pulled along; now, Elizabeth chooses where she wants to go and asks Pathwell to help her get there.
+- Exact threshold choreography remains deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
