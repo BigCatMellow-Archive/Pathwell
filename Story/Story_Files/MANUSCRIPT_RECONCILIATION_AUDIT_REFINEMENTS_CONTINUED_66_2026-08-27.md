@@ -98,3 +98,20 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_65_20
 - Q139 remains active: Stansbury does not then intentionally consume another surviving museum record to treat Pathwell.
 - Exact source identity, blast path, specific destroyed artifacts, and sensory choreography remain deferred to manuscript reconciliation unless later continuity makes one of them necessary.
 - No manuscript chapter has been edited.
+
+---
+
+## Q145 — Pathwell acts before Camp can cleanly intervene; Mama Baga recognizes the danger and tells him to stop — LOCKED A/B HYBRID
+
+- The Camp confrontation does **not** read as the gathered characters knowingly standing by and permitting Pathwell to force a dangerous reintegration attempt after Shade has refused.
+- Shade understands Pathwell's intention first and explicitly says **no**.
+- Pathwell moves into the working immediately rather than pausing for a long public setup in which everyone has time to debate or restrain him.
+- Most of the people nearby do not initially understand exactly what Pathwell is preparing or how dangerous the prune-backed reintegration will be.
+- **Mama Baga recognizes the danger quickly enough to tell Pathwell to stop.** Her warning is clear and should not be softened into mere concern or ambiguity.
+- Pathwell proceeds anyway. He therefore knowingly overrides both Shade's explicit refusal and Mama Baga's warning in her own Camp.
+- By the time Stansbury, Elizabeth, or others fully understand that Pathwell is forcing the working through, Pathwell has already driven possibility toward/past the dangerous release point; there is no clean physical intervention that can simply cancel the event without creating a different uncontrolled problem.
+- This keeps moral responsibility concentrated on Pathwell rather than requiring Camp to approve his choice or temporarily lose judgment.
+- The scene should still move quickly. Mama Baga's warning is a sharp intervention beat, not a prolonged argument or second moral lecture before the catastrophe.
+- This also sharpens the low point without changing the underlying mechanism: the malformed failure is still caused by Pathwell forcing a prune through a fundamental contradiction in intent, not by another character interrupting the magic.
+- Exact warning wording, timing, and physical reactions remain deferred to manuscript reconciliation.
+- No manuscript chapter has been edited.
