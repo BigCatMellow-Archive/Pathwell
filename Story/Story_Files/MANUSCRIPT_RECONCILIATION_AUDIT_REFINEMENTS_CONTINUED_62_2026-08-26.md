@@ -66,3 +66,15 @@ C keeps the existing character logic without inventing a universal foam rule. St
 - Elizabeth's foam dagger can therefore cut anomalous blob material without establishing that foam is universally harmless or universally anti-lethal.
 - This makes the `gives them toys instead of real weapons` contradiction a manifestation of Stansbury's over-protective control rather than a fundamental law of magic.
 - No manuscript chapter has been edited.
+
+---
+
+## Q126 — Mama Baga's motherhood is shown through ordinary care Pathwell uniquely allows from her — LOCKED A
+
+- Mama Baga should read as Pathwell's mother primarily through behavior rather than explanatory dialogue or a confessional scene.
+- She notices when he has overextended himself, pruned too much, failed to sleep, or is physically worn down; she can put food or tea in his hands, make him sit, check an injury, or otherwise perform ordinary maternal care.
+- Pathwell may joke, evade, complain, or minimize, but he accepts this kind of care from Mama Baga in a way he would resist or deflect from most other people.
+- Their relationship should not turn Mama Baga into Pathwell's therapist, moral lecturer, or person responsible for making him stop pruning.
+- Her inability to make him stop spending himself is part of the relationship's weight: she can care for him, but she cannot choose for him.
+- This establishes the adoptive mother/son bond clearly enough that her later silence and disappointment after the archive catastrophe carry familial weight without requiring exposition.
+- No manuscript chapter has been edited.
