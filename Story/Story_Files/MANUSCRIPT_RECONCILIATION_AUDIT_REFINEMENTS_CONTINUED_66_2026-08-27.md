@@ -82,3 +82,19 @@ This file continues `MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_CONTINUED_65_20
 - Museum restitution can therefore remain mostly or entirely off-page while still being canonically real; a brief reference is sufficient if the manuscript needs to prevent the museum loss from appearing forgotten.
 - Do not imply that accountability requires everything to be repairable or fully settled before Pathwell can move forward. Part of the change is accepting debts and losses that remain unresolved.
 - No manuscript chapter has been edited.
+
+---
+
+## Q144 — The museum disaster cascades through physical destruction; Pathwell does not remotely activate the collection — LOCKED B
+
+- Pathwell activates only the charged source he is physically holding. The established rule that **direct physical contact with an original charged work is required to intentionally activate/consume it** remains intact.
+- Pathwell's overbroad working then loses control and produces a violent magical/physical discharge through the gallery.
+- That initial discharge physically damages nearby charged records and artifacts — burning, tearing, shattering, cracking, erasing, or otherwise destroying originals without Pathwell individually activating them.
+- Under the existing ordinary-destruction rule, destroying sufficiently powerful charged works, especially several in a dense collection, can release their stored charge unpredictably even though no practitioner intentionally activated those objects.
+- The museum event therefore becomes a **cascade**: Pathwell's held source and failed working create the first discharge → nearby charged records are physically destroyed → their uncontrolled emotional/magical fallout enlarges the event → further damage can follow through the collection.
+- This preserves Q142's intended great discharge without introducing remote activation, magical conduction through display cases, or an exception to the contact rule.
+- Pathwell is still fully responsible for the cascade because his unilateral working is the initiating cause; the museum records do not spontaneously fail on their own.
+- The cascade also provides a smaller-scale structural preview of the Camp catastrophe, where Pathwell again creates the initiating failure and a dense collection of preserved human history greatly magnifies the consequences.
+- Q139 remains active: Stansbury does not then intentionally consume another surviving museum record to treat Pathwell.
+- Exact source identity, blast path, specific destroyed artifacts, and sensory choreography remain deferred to manuscript reconciliation unless later continuity makes one of them necessary.
+- No manuscript chapter has been edited.
