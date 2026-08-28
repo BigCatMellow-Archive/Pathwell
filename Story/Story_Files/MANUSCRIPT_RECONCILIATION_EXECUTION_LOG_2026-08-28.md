@@ -137,6 +137,54 @@ The Space Between remains one of the novel's central pleasure zones: impossible 
 
 The reader gets the Space Between as a place worth returning to later, sees Elizabeth physically regain diary/cookbook ownership before choosing to continue, and sees the cookbook's missing sugar-cookie page as an actual family loss rather than only a magic cost.
 
+---
+
+## W04 — First Camp stay / cookbook / archive life — COMPLETE
+
+**Manuscript file:** `Story/Chapters/Chapter_04.txt`
+
+**Final implementation commit:** `99047ebddfedb21cf7c3ae41d72071b403ade9a3`
+
+### Contract checks
+
+- W03 handoff is preserved exactly: Elizabeth enters Camp beside the Space Between handcart with her diary and Nana's cookbook riding atop the substantial Camp book order she voluntarily chose to accompany.
+- Camp's need is shown as real rather than invented: the archive is down to six blank sheets and receives the purchased paper/books with genuine relief.
+- Pathwell nevertheless remains self-appointed. Mama Baga explicitly notes that Camp did not ask him to make the delivery; his defense is that they needed it.
+- Mama Baga remains the sole Camp matriarch/parental authority. No Papa Baga material is introduced.
+- Camp receives substantial ordinary-life texture before later destruction: bark tea, turnips, beetle argument, fiddles, patched wagons, cooking, work, route disputes, and people using records for practical decisions.
+- The injured patient is a younger woman hurt in an ordinary wagon accident, not Mama Baga.
+- The healer does not pressure Elizabeth or demand the cookbook. Elizabeth sees the need and owns the decision.
+- Elizabeth first resists internally, then voluntarily gives **the whole cookbook**, not merely a disposable page.
+- Only the necessary chicken-and-dumplings page is consumed during the healing; the rest of the physical book survives.
+- The healing follows the emotional-text rules: direct contact with the original, a meaning-compatible family-care page, practitioner activation, page-level consumption, and sensory expression shaped by the record.
+- The successful healing resolves cleanly. No gold residue, unclaimed waste, blob attraction, or post-cast contamination remains.
+- After healing, Elizabeth does not receive the cookbook back. She consciously confirms `Archive`, completing the ownership transfer rather than treating the remainder as temporarily stored property.
+- The surviving cookbook is catalogued as a donation, wrapped, and placed on an accessible waist-high reserve shelf near the archive entrance.
+- The archive is shown as cultural/practical memory rather than a magical ammunition dump. People use it because records preserve lived information.
+- A specific non-Elizabeth Camp record is established through actual use: the narrow blue multigenerational road notebook is consulted to settle a creek-crossing dispute after three days of rain. It exists for Camp life first, not merely to become a named fire casualty later.
+- The ordinary child archive-runner is established naturally as the boy with the turnips and permanently falling sock. He unloads the cart, carries records, and moves between wagons before any later danger requires him.
+- Elizabeth experiences the cookbook's second life: `Still Nana's. No longer hers.` She watches it become available to a community and intentionally walks away from it.
+- Stansbury is introduced for the correct reason. Mama Baga and Pathwell discuss the Chapter 1 anomaly: the blob was already at Elizabeth's door before the cookbook working failed; redirecting to fresh waste made sense, the original arrival did not.
+- The clean healing is **not** used as the reason to seek Stansbury.
+- Mama Baga notes Pathwell should have gone to Stansbury before the Camp delivery, reinforcing the way Pathwell inserts self-appointed obligations ahead of the unresolved problem.
+- Elizabeth is genuinely offered the option to stay at Camp. She chooses to continue to Stansbury without Pathwell holding her property and without an immediate monster forcing her onward.
+
+### Therefore / But chain
+
+W03 ends with Elizabeth voluntarily accompanying Pathwell's self-appointed Camp delivery **therefore** she reaches a community that genuinely needs the materials; **but** the real need does not erase the fact that Pathwell decided for Camp that he would solve it; **therefore** the chapter can show both his usefulness and his controlling pattern at the same time. The younger injured woman needs a well-matched healing source **but** no one demands Elizabeth's cookbook; **therefore** Elizabeth makes the costly choice herself and gives the whole book. The healing succeeds cleanly **but** that means the remainder must now live with the consequence of her choice rather than return conveniently to her; **therefore** she follows it into the archive and sees what donated history becomes in ordinary community use. Camp then offers a plausible place to stop **but** the unresolved Chapter 1 blob behavior still matters; **therefore** Pathwell finally goes to Stansbury and Elizabeth chooses to continue for answers/curiosity rather than leverage.
+
+### Value turn
+
+Elizabeth changes from carrying Nana's cookbook as private continuity to deliberately placing that history into communal custody for another person's life. Camp changes from a strange destination into a place the reader can imagine functioning without the plot. Pathwell's self-sacrificial competence is further complicated: he was right that Camp needed help and still wrong to assume that need gave him authority to appoint himself the solution.
+
+### Pleasure / tone
+
+Camp is allowed to be pleasurable before it becomes tragic: bark tea, onions, beetles practicing death, the boy's sock, the archivist's dry filing arguments, the multigenerational road-book dispute, Pathwell's objection to being told his brother is older, and Mama Baga's practical affection. The healing itself receives enough quiet to remain emotionally serious.
+
+### Loss-memory
+
+This chapter establishes several future losses as lived things rather than labels: Camp on an ordinary night, the archive as a practical community institution, the boy as an ordinary runner, the blue road notebook as something people actually consult, and Nana's cookbook as an active archive object that can still be used, copied from, argued over, spilled on, or left alone. The later fire now has actual remembered life to take away.
+
 ### Known next dependency
 
-Current `Chapter_04.txt` still contains several stale conflicts with the active W04 contract and W03 exit: Elizabeth arrives holding the cookbook rather than with it atop the Camp load; Mama Baga-era staging around the healing patient needs reconciliation to the younger injured stranger lock; successful healing currently leaves gold residue that attracts blobs, which violates the active rule that successful emotional-text casting resolves cleanly; and the archive/cookbook handoff needs expansion so the surviving cookbook becomes clearly lived-in Camp/archive property before the later fire. Address all of these only during W04 reconciliation.
+W05 must preserve the reason for the Stansbury visit established here: concern about the Chapter 1 blob anomaly and Pathwell's prior intent to consult his brother. The current Chapter 5 foam-weapon professionalism, school/loading-dock setting, waiting material, Cadillac, and brotherly irritation remain strong preserve candidates, but W05 must align Stansbury with the active competent/inventory-based rules and avoid reviving any generic cowardice/`keeps people small` arc.
