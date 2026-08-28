@@ -185,6 +185,51 @@ Camp is allowed to be pleasurable before it becomes tragic: bark tea, onions, be
 
 This chapter establishes several future losses as lived things rather than labels: Camp on an ordinary night, the archive as a practical community institution, the boy as an ordinary runner, the blue road notebook as something people actually consult, and Nana's cookbook as an active archive object that can still be used, copied from, argued over, spilled on, or left alone. The later fire now has actual remembered life to take away.
 
+---
+
+## W05 — Stansbury introduction / foam inventory — COMPLETE
+
+**Manuscript file:** `Story/Chapters/Chapter_05.txt`
+
+**Final implementation commit:** `8a4e90757f123d4f2a3eccd208c6490881c8dee0`
+
+### Contract checks
+
+- W04 causality is preserved: Pathwell comes to Stansbury because the Chapter 1 blob was already at Elizabeth's apartment before the cookbook working failed, not because of the clean Camp healing.
+- The school/loading-dock setting, Pathwell's inability to tolerate twenty minutes of waiting, maroon Cadillac, and brotherly irritation are preserved as strong existing-story material.
+- Stansbury approaches the anomaly through sequence rather than exposition: he asks what happened before and after the interrupted working and separates the blob's normal redirect toward fresh waste from its unexplained initial arrival.
+- Stansbury does **not** solve the mystery, identify Shade, or give Pathwell an exact historical diagnosis. His conclusion is that he wants to observe what happens next before deciding what happened first.
+- Elizabeth is included in the anomaly discussion rather than being automatically excluded; the later post-rescue exclusion remains available as an escalation rather than a repeated baseline.
+- Stansbury recognizes the physical aftermath of Pathwell's recent prune and learns only that the Shopkeeper called him `thin`; no numerical pruning meter or lifespan arithmetic is introduced.
+- Stansbury's foam weapons are established as ordinary working inventory/stock that he makes in batches and sells to people who know what they are buying.
+- The tools are already worked before the chapter begins. Stansbury does not improvise or imbue them on demand.
+- A non-practitioner can use a finished tool through ordinary physical action; Elizabeth does not need magical talent to operate the dagger.
+- Tool effects are specific by design rather than generic `magic foam` behavior.
+- Safety is explicitly engineered into the finished tool: the dagger is designed not to cut people. Foam itself is not established as universally safe.
+- Tools are reusable but not permanent; Stansbury establishes maintenance/wear without inventing a new fuel system.
+- The tree demonstration remains an irreverent competence beat and now requires no spoken activation or fresh casting.
+- Elizabeth is offered the dagger and chooses to take it. Stansbury answers `I don't know yet` when she asks whether she needs one, giving her a contrasting model of expertise that can admit uncertainty.
+- Stansbury remains practical and competent rather than being assigned a generic cowardice, `keeps people small`, or leadership-redemption arc.
+- The Cadillac remains intact and establishes enough physical/personality presence for its later deliberate wreck to register as consequence.
+- At the bar, Elizabeth is again given a real option to stay in the car or enter; she chooses to go inside.
+- Pathwell experiences a small pre-bar tension/stillness consistent with the weak side of the Pathwell–Shade draw. It provides no exact direction, target, information, or compulsion and is not used to decide for him.
+
+### Therefore / But chain
+
+W04 leaves the Chapter 1 arrival anomaly unresolved **therefore** Pathwell finally consults Stansbury; **but** Stansbury's sequence check shows that only the blob's behavior *after arrival* fits normal cleanup logic; **therefore** he joins to observe rather than pretending to have solved it. The uncertain situation may become dangerous **therefore** Stansbury brings normal professional inventory; **but** the absurd-looking foam equipment is genuinely functional and safety-engineered; **therefore** Elizabeth can choose a useful tool without becoming magical. Stansbury has just finished work **but** refuses to let Pathwell's urgency consume every ordinary choice; **therefore** the trio stops at the bar, where Pathwell's weak unexplained tension begins turning a pleasure/breathing sequence toward W06's mirror evidence.
+
+### Value turn
+
+Elizabeth gains a second model of magical competence: someone who can be precise, practical, and useful without pretending uncertainty has disappeared. She also gains physical access to a tool she chose herself. Pathwell gains a witness who is willing to help but not automatically accept his framing.
+
+### Pleasure / tone
+
+W05 preserves one of the strongest irreverent zones: Pathwell treating waiting as an existential hardship, a serious professional box of foam swords, a tree deliberately raining on Pathwell, smiling-dragon shields, old-brother precision, and a Cadillac driven at ten-and-two. The mystery remains present underneath the humor without swallowing the chapter.
+
+### Loss-memory
+
+The reader is allowed to know Stansbury as a working person with habits, inventory, standards, a car, and an old relationship with Pathwell before later asking him to risk himself and live with a scar. The Cadillac and the early trio also become ordinary enough that the later crash can destroy an arrangement the reader remembers functioning.
+
 ### Known next dependency
 
-W05 must preserve the reason for the Stansbury visit established here: concern about the Chapter 1 blob anomaly and Pathwell's prior intent to consult his brother. The current Chapter 5 foam-weapon professionalism, school/loading-dock setting, waiting material, Cadillac, and brotherly irritation remain strong preserve candidates, but W05 must align Stansbury with the active competent/inventory-based rules and avoid reviving any generic cowardice/`keeps people small` arc.
+W06 must preserve the bar as a genuine pleasure/breathing sequence before turning it. Pathwell's weak draw/tension may intensify enough to make the back-hall mirror and resemblance evidence meaningful, but it must remain sensation rather than tracking, telepathy, exact Shade knowledge, or compulsion. W06 should end with Pathwell's suspicion increasingly directed toward himself while still lacking the full answer; W07 then owns the blob attack, Elizabeth's rescue, and the consequential decision to exclude her from the brothers' central explanation.
