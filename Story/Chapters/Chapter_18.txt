@@ -103,7 +103,7 @@ Pathwell looked offended.
 
 "I am capable of growth."
 
-"You tried to redesign an archive wagon nobody asked you to redesign six days ago."
+"You tried to redesign an archive wagon nobody asked you to redesign less than two weeks ago."
 
 "I asked first."
 
@@ -957,4 +957,4 @@ Pathwell stopped beside her.
 
 "No."
 
-"Perfect."
+"Perfect."}
