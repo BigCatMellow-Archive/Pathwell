@@ -89,6 +89,54 @@ The chapter remains a breathing chapter: neon, mediocre lo mein, Pathwell's offe
 
 The chapter gives the reader more of the ordinary life Elizabeth is losing: a meeting, dry cleaning, the mixing spoon, unpacked boxes, work clothes, and the possibility of simply pretending the night never happened. The laundry ticket is allowed to be mundane before it disappears.
 
+---
+
+## W03 — Space Between / normal pruning — COMPLETE
+
+**Manuscript file:** `Story/Chapters/Chapter_03.txt`
+
+**Final implementation commit:** `5d3b3a6ae09dbab8f55601397382bf1537aec833`
+
+### Contract checks
+
+- W02 continuity preserved: Pathwell enters the chapter still carrying both Nana's cookbook and Elizabeth's intact diary.
+- Property leverage remains active until the Space Between transaction is fully settled.
+- The Space Between is presented as archive first and commerce second through the physical environment: journals, letters, recipes, drawings, ledgers, and dense accumulated emotional history.
+- Elizabeth's overwhelm is an ordinary-person response to ambient charge; no special sight, bloodline, destiny, or practitioner status is implied.
+- The terrible coffee is retained and made explicitly useful because it is familiar, preserving the later shared sensory anchor without announcing its future purpose.
+- The cat/Shopkeeper/ledger material provides dry practical weirdness without requiring a lore explanation.
+- Pathwell's Camp book purchase is substantial rather than a single token volume.
+- The Shopkeeper directly exposes Pathwell's self-appointment by asking whether Camp actually requested the order; Pathwell can only answer that they need it.
+- The transaction pays for both the substantial Camp order and Pathwell's old Space Between balance.
+- Pruning is shown as direct payment of **Pathwell's own future possibility** to a counterparty/system capable of accepting and settling it.
+- No charged text is required as pruning fuel.
+- No timeline selection, probability editing, alternate-life choice, or lifespan arithmetic is introduced.
+- The prune is non-numerical: the Shopkeeper recognizes Pathwell only as `thin` and warns that still standing is not the same condition as having broad possibility.
+- The pruning visual uses branching possibility as an experiential metaphor: many possible continuations visibly narrow when payment settles, without showing or selecting specific alternate timelines.
+- The transaction completes cleanly. No spillage or blob response is created.
+- Physical cost remains visible: Pathwell drops to his knees and his arm shakes after the substantial payment.
+- The Shopkeeper explicitly establishes that Elizabeth's cookbook and diary were never Pathwell's to spend.
+- Only after settlement are both belongings returned to Elizabeth.
+- Elizabeth is then offered a real exit back to the city/sidewalk. No property leverage or immediate monster threat forces her forward.
+- She chooses to place the cookbook and diary atop the Camp book load and continue through the forest threshold toward Camp.
+- The final continuation therefore belongs to Elizabeth rather than Pathwell.
+
+### Therefore / But chain
+
+W02 leaves Pathwell still holding Elizabeth's property **therefore** she follows him into the Space Between to reclaim it and obtain answers; **but** the archive's ambient charge overwhelms her and reveals how strange the world is without making her magically special; **therefore** she reaches the Shopkeeper/transaction and sees what Pathwell is actually doing; **but** the Camp order plus old debt cannot be covered by ordinary barter, so Pathwell pays with his own future possibility; **therefore** the book establishes a clean normal prune and Pathwell's self-sacrificial version of his flaw; **but** settlement also ends his material leverage over Elizabeth when her belongings are returned; **therefore** she reaches the first genuine larger choice point; **but** home remains possible; **therefore** she places her books atop the Camp load and voluntarily continues.
+
+### Value turn
+
+Elizabeth changes from constrained follower to voluntary participant. Pathwell's apparently generous/self-sacrificial behavior becomes more complicated: he is willing to pay a real personal cost for a need he decided was his responsibility to solve.
+
+### Pleasure / tone
+
+The Space Between remains one of the novel's central pleasure zones: impossible architecture, terrible coffee, a vindictive cat, old ledger jokes, the horse-incident notation, and the Shopkeeper withholding the handcart for decades. The prune itself is allowed to become quiet and expensive rather than jokey.
+
+### Loss-memory
+
+The reader gets the Space Between as a place worth returning to later, sees Elizabeth physically regain diary/cookbook ownership before choosing to continue, and sees the cookbook's missing sugar-cookie page as an actual family loss rather than only a magic cost.
+
 ### Known next dependency
 
-Current `Chapter_03.txt` still returns the cookbook/diary too early and contains stale diary condition/history. W03 must preserve Pathwell's possession leverage until the Space Between transaction is complete; **only then** are the belongings returned, creating the first meaningful voluntary continuation rung when Elizabeth chooses to keep going toward Camp.
+Current `Chapter_04.txt` still contains several stale conflicts with the active W04 contract and W03 exit: Elizabeth arrives holding the cookbook rather than with it atop the Camp load; Mama Baga-era staging around the healing patient needs reconciliation to the younger injured stranger lock; successful healing currently leaves gold residue that attracts blobs, which violates the active rule that successful emotional-text casting resolves cleanly; and the archive/cookbook handoff needs expansion so the surviving cookbook becomes clearly lived-in Camp/archive property before the later fire. Address all of these only during W04 reconciliation.
