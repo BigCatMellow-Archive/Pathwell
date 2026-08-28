@@ -10,7 +10,7 @@ Continues `MANUSCRIPT_RECONCILIATION_EXECUTION_LOG_CONTINUED_07_2026-08-28.md` a
 
 **Manuscript file:** `Story/Chapters/Chapter_13.txt`
 
-**Final W14 implementation commit:** `9d25b9d7b424eafffb1c2e162aee22bfb67c85a7`
+**Final W14 implementation commit:** `824a0a9a7731b1eebfc5cd12b8e32a1e0a8d7093`
 
 ### Structural decision
 
@@ -31,7 +31,8 @@ Continues `MANUSCRIPT_RECONCILIATION_EXECUTION_LOG_CONTINUED_07_2026-08-28.md` a
 - The recurring one-falling-sock child/runner is finally named **Milo** through ordinary Camp interaction rather than introduced as a climax victim.
 - Milo recruits Shade as the fourth player for Hearts. Shade knows the rules in the fragmentary inherited way established for him but explicitly says he does not remember actually playing.
 - Shade is bad at the game at first, then begins learning **the current people at the table** rather than relying on inherited memory. This gives him genuinely new lived experience.
-- Shade loses repeatedly, improves, wants to play again, develops a small rivalry with Milo, and keeps the queen of spades as joking `evidence` of corruption.
+- Shade loses repeatedly, improves, wants to play again, develops a small rivalry with Milo, and temporarily pockets the queen of spades as joking `evidence` of corruption.
+- A later continuity repair now shows Shade explicitly returning that queen to Milo before the final game, so the complete deck can be dealt and the queen can legitimately land face-up beside the escaped onion when the threshold interrupts the hand.
 - Shade gains present-tense preferences that are his: he likes the terrible coffee, likes playing Hearts, changes his mind about the green jacket's excessive pockets, and accepts that he does not yet know what else he likes.
 - Elizabeth does not demand a grand identity answer when Shade says `I don't know yet.` The scene allows uncertainty itself to be normal.
 - Shade participates in mundane Camp work carrying potatoes/onions and is accommodated pragmatically when the draw makes two-handed work unreliable.
