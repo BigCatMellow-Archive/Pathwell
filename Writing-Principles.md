@@ -72,7 +72,7 @@ If a sentence sounds wrong in your mouth, it reads wrong on the page. Prose is m
 
 A chapter should not survive merely because it contains good prose, useful lore, a fun set piece, or material we are fond of. It must earn its place in the story.
 
-Before drafting, preserving, expanding, or approving a chapter, answer all five questions:
+Before drafting, preserving, expanding, or approving a chapter, answer all six questions:
 
 ### 1. What later moment is this chapter helping earn?
 Name the later choice, sacrifice, death, betrayal, revelation, relationship turn, location loss, payoff, or emotional result that would be weaker without this material.
@@ -143,6 +143,22 @@ Ask what becomes worse:
 If removing the chapter changes little beyond page count, **cut it or redesign it**.
 
 If removing it makes later material noticeably less powerful, less believable, less clear, or less emotionally earned, it has justified its place.
+
+### 6. Before we take something away, what has the reader been allowed to have?
+For every person, place, relationship, object, identity, hope, or possibility that will later be lost, damaged, surrendered, or transformed, identify the reader's **lived memory of it before the loss**.
+
+Ask:
+
+- What ordinary moment lets the reader experience this person simply being alive rather than preparing to die?
+- What does this relationship feel like when it is not breaking?
+- What happens in this place on a normal night before it burns, closes, moves, or becomes unsafe?
+- How has this object participated in somebody's life before the story asks us to care that it is gone?
+- What future, habit, comfort, or version of self has the character actually inhabited before losing it?
+- If the later loss vanished from the outline, would these earlier moments still feel like real life rather than obvious setup?
+
+Do not rely on labels such as `beloved`, `important`, `irreplaceable`, `home`, `friend`, or `family` to manufacture attachment. Let the reader possess the thing emotionally before asking them to lose it.
+
+A loss should hurt because the reader remembers **having**, not because the narration explains why the absence matters.
 
 ### Governing expansion rule
 
