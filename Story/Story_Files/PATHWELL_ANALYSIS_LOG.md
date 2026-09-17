@@ -146,3 +146,26 @@ Major refinements beyond the first integrated experiment:
 Shortest experimental thesis:
 
 > **Living means closing doors. The difficult part is learning which doors are yours to close.**
+
+### Recovered newer decisions audit
+
+File: `PATHWELL_RECOVERED_NEWER_DECISIONS_AUDIT_2026-09-17.md`
+
+Purpose: recover later user decisions that were inconsistently carried into the current manuscript and Experimental V2, and distinguish accidental regression from deliberate experimental change.
+
+Important accidental regressions identified:
+
+- Pathwell should not be treated as a conventional burglar in the opening; preferred setup is that he crashed Elizabeth's welcome party, lingered after everyone else left, and opportunistically searched for an expendable charged handwritten book before finding the much stronger diary/cookbook;
+- lo mein should not be restored as Elizabeth's load-bearing early agency rung;
+- Elizabeth follows because Pathwell still has her diary and cookbook;
+- after recovering both at the Space Between and having a real route back to ordinary life, she chooses to continue;
+- the Space Between must not become a walking/explaining library tour;
+- the Chapter 1 blob follows the overlapping Pathwell/Shade signature, while the interrupted sugar-cookie working creates fresh spill that redirects it;
+- healing should not mechanically summon the next blob problem;
+- the later bar sequence remains mirror -> Pathwell bolts -> blob engulfs Pathwell -> Elizabeth frees him with Stansbury's ridiculous weapon;
+- Shade remains perceptive and inferential, not omniscient;
+- ordinary consequences such as injuries and the wrecked Cadillac should remain ordinary rather than being magically reset.
+
+The audit also isolates conscious forks that must be decided in a future V3 rather than inherited accidentally: Shade recognition timing after the crash, exact crash mechanics, Stansbury's arc size, Shade survival vs older death, and the diary-buyback function.
+
+Until a V3 consolidation is produced, this audit **supersedes Experimental V2 where it explicitly marks a decision RESTORE**.
