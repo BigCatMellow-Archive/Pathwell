@@ -204,7 +204,7 @@ Intentional experiment still open in V4:
 Current structural shorthand:
 
 - first crash: Elizabeth wakes into somebody else's adventure;
-- second crash: Elizabeth wakes into authorship;
+- second crash: Elizabeth wakes into **self-direction**;
 - final `Ready? / No. / Good.`: uncertainty remains, but the direction is freely chosen.
 
 ### V4 editorial assessment
@@ -223,7 +223,7 @@ Strongest conclusions:
 - removing the diary buyback reduces redundant thematic proof and keeps Elizabeth's archive/fire choice cleaner;
 - Stansbury's smaller `Let it be` arc is stronger than forcing another symmetrical philosophical transformation;
 - allowing Nana's cookbook to become a lived Camp object before loss increases its narrative and thematic weight;
-- the story is stronger when it expands beyond a narrow consent thesis into usefulness, identity, purpose, uncertainty, authorship, and responsibility.
+- the story is stronger when it expands beyond a narrow consent thesis into usefulness, identity, purpose, uncertainty, **self-direction**, and responsibility.
 
 Active editorial pushback retained:
 
@@ -233,3 +233,90 @@ Active editorial pushback retained:
 Editorial warning:
 
 > **The architecture is becoming stronger and more coherent, which increases the danger that the manuscript starts showing its design. The philosophy should make the adventure cohere, not replace the adventure.**
+
+### Length and earnedness audit
+
+File: `PATHWELL_LENGTH_AND_EARNEDNESS_AUDIT_2026-09-17.md`
+
+Commit introducing file: `a7b9910c6a2b7487b256c5b610966a0c07e272b0`
+
+Purpose: test the longstanding concern that the story's character/relationship changes may happen too quickly to feel earned.
+
+Central conclusion:
+
+> **The book does not primarily need more plot. It needs more time-in-state.**
+
+A major turn should occur only after the reader has had enough ordinary experience of the prior state for the change to register as loss, relief, rupture, or growth.
+
+Highest compression risks:
+
+- Elizabeth's continuation -> rescue -> second crash arc;
+- Elizabeth/Pathwell companionship before the rupture;
+- Camp becoming a real place/community before the archive fire;
+- Shade becoming a person and then having enough ordinary life for personhood to become old news;
+- Pathwell being forced to actually wait with an unresolved problem before he forces reintegration;
+- post-climax restitution occurring over enough visible time to provide evidence of changed behavior.
+
+The audit explicitly rejects protecting the inherited 18-chapter count or setting a word-count quota before the scene architecture is earned.
+
+### Dwell-time expansion map
+
+File: `PATHWELL_DWELL_TIME_EXPANSION_MAP_2026-09-17.md`
+
+Commit introducing file: `47f5fce36ffdb29524f0285c85fcea93a0ffdf06`
+
+Purpose: translate the earnedness audit into a concrete pacing architecture.
+
+Working approach:
+
+- expose roughly **25 chapter-functions** rather than forcing the story back into 18 chapters;
+- allow later consolidation where functions naturally share a chapter;
+- expand through companionship, Camp routines, recovery, Shade's ordinary life, failed alternatives, waiting, and restitution rather than new lore/villains/action systems;
+- use pacing itself thematically: fast Pathwell-controlled early book -> crash interrupts momentum -> slower unresolved middle -> Pathwell recreates velocity at the climax -> slow restitution -> freely chosen movement in the final beat.
+
+Important added intervals:
+
+- Camp arrival before cookbook sacrifice;
+- one low-stakes successful Elizabeth/Pathwell working adventure;
+- a post-bar interval where gratitude/companionship and information exclusion coexist;
+- a brief wrong-Pathwell interval before diner recognition;
+- museum aftermath before Shade domesticity;
+- a later `Shade is old news` Camp interval;
+- alternatives + genuine waiting before reintegration;
+- repeated restitution after the climax rather than montage-only repair.
+
+### Dwell-time scene proof
+
+File: `PATHWELL_DWELL_TIME_SCENE_PROOF_2026-09-17.md`
+
+Commit introducing file: `c832063a5280912ac4979880c01c915905cf3bd5`
+
+Purpose: prove five high-risk emotional chains at scene level using **state -> possession -> pressure -> turn -> new state** rather than relying on foreshadowing alone.
+
+Five proofs:
+
+1. Elizabeth + Pathwell companionship -> exclusion -> second crash;
+2. Shade appears -> becomes a person -> becomes ordinary -> acquires a future -> future threatened;
+3. Camp appears -> becomes familiar -> becomes home/community -> archive fire;
+4. Pathwell wants to solve -> refrains -> waits -> alternatives fail -> forces reintegration;
+5. catastrophe -> repeated restitution -> credible final invitation.
+
+Central conclusion:
+
+> **The novel likely needs several additional chapters of life, not several additional chapters of explanation.**
+
+The proofs are intentionally cross-functional so one good scene can earn multiple later turns without bloating the manuscript.
+
+### Elizabeth terminology correction — `self-direction`
+
+File: `PATHWELL_TERMINOLOGY_CORRECTION_SELF_DIRECTION_2026-09-17.md`
+
+Commit introducing file: `7ca9a8fc0f25944cd1b3b6709158f77a24755c4d`
+
+Purpose: retire metaphorical `authorship` language for Elizabeth because literal writing carries magic in this world and the term can falsely imply a writing-based power arc.
+
+Preferred arc language:
+
+> **adaptation -> preference -> voluntary continuation -> refusal -> deliberate action -> ownership of consequence -> self-direction**
+
+Hard clarification: Elizabeth remains entirely nonmagical; her arc is about deciding what she will do, not writing/activating magic.
