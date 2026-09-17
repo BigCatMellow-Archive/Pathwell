@@ -320,3 +320,60 @@ Preferred arc language:
 > **adaptation -> preference -> voluntary continuation -> refusal -> deliberate action -> ownership of consequence -> self-direction**
 
 Hard clarification: Elizabeth remains entirely nonmagical; her arc is about deciding what she will do, not writing/activating magic.
+
+### Experimental story breakdown — V5 candidate
+
+File: `PATHWELL_EXPERIMENTAL_STORY_BREAKDOWN_V5_CANDIDATE_2026-09-17.md`
+
+Commit introducing file: `1d63a3c57ed56c1f91b5d8ac4a00070a6e48a0ff`
+
+Status: **current readable V5 candidate story narrative; not yet promoted to formal architecture or manuscript canon**.
+
+Purpose: translate V4 plus the earnedness/dwell-time work into a beginning-to-end version of how the experimental novel now plays.
+
+Important changes carried into the candidate:
+
+- the old 18-chapter shape is no longer protected;
+- added first-half companionship and repeated exclusion earn the second crash;
+- Camp receives ordinary-life dwell time before later destruction;
+- Shade gets both a `becoming a person` phase and a later `personhood is now ordinary` phase;
+- the museum remains a causal Camp threshold, not a random set piece;
+- the diner identity timing and passive tracking bridge remain restored;
+- other approaches are actually attempted before Pathwell forces reintegration;
+- Pathwell must live with uncertainty long enough for his eventual failure to tolerate it to be meaningful;
+- post-climax restitution occurs across repeated behavioral tests rather than a short montage;
+- Elizabeth's arc is described as **self-direction**, never magical authorship;
+- current Shade survival remains explicitly experimental;
+- the final `Ready? / No. / Good.` remains the intended ending.
+
+### Fresh independent experimental-story review prompt
+
+File: `FRESH_INDEPENDENT_EXPERIMENTAL_STORY_REVIEW_PROMPT_2026-09-17.md`
+
+Commit introducing file: `902187a84dadb08c17a539e8b46c434ac00e3f30`
+
+Purpose: obtain a genuinely independent review of the V5 candidate before consolidating it into formal architecture or rewriting manuscript chapters.
+
+The reviewer is required to challenge:
+
+- causality;
+- earnedness / time-in-state;
+- padding risk;
+- Elizabeth's self-direction;
+- Pathwell's usefulness/authority flaw;
+- Shade personhood and survival;
+- Camp as lived community;
+- pruning / emotional-text / cleanup mechanics;
+- museum and climax mechanics;
+- restitution;
+- ending pruning ambiguity;
+- exposition / `Write the Sequel` discipline;
+- tone.
+
+Required verdict is exactly one of:
+
+- `READY FOR V5 CONSOLIDATION`
+- `V5 NEEDS TARGETED ARCHITECTURAL CHANGES`
+- `MAJOR ARCHITECTURAL REVISION STILL REQUIRED`
+
+Do not begin manuscript rewrite before this independent review is resolved unless explicitly directed otherwise.
