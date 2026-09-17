@@ -122,41 +122,34 @@ Rule:
 
 Old principles may be kept, adapted to preserve their useful craft function, or discarded when they no longer improve the revised novel.
 
-### Experimental Architecture V2 — current preferred experimental reference
+### Experimental Architecture V2 — historical experimental reference
 
 File: `PATHWELL_EXPERIMENTAL_ARCHITECTURE_V2_2026-09-17.md`
 
-Status: **current best experimental architecture**, still not manuscript canon.
+Status: **superseded by V3 as the preferred experimental reference**; retain for reasoning history.
 
-Purpose: consolidate the foundational rewrite, experimental plot, tone guidance, and selectively preserved writing principles into one working reference.
+Purpose: first consolidation of the foundational rewrite, experimental plot, tone guidance, and selectively preserved writing principles.
 
-Major refinements beyond the first integrated experiment:
+Important refinements introduced there and retained where still useful:
 
-- old principles are explicitly divided into hard-keep, soften, and drop/reinterpret categories;
-- `One unexplained thing per chapter` is dropped as a quota and retained only as a general world-depth habit;
-- `The Body Knows First`, `Every Scene Turns a Value`, `Locations Are Characters`, and similar rules become strong craft tendencies rather than mechanical absolutes;
-- the literal `Shade is the antagonist` rule is removed while retaining opposition-as-mirror as a useful craft function;
-- a small early Elizabeth agency rung is restored before the Space Between so the midpoint crash is properly earned;
-- Elizabeth's ladder is reframed as **authorship**, not generic assertiveness;
-- Camp and Shade receive more ordinary-life space before later threat/loss;
-- the 18-chapter experimental architecture is rebuilt around character wants, causal `therefore/but` progression, and reveal discipline;
-- the final third is explicitly required to preserve irreverence rather than turning into philosophical solemnity;
-- remaining open questions are isolated before any promotion into canon: Shade's exact origin event, pruning limits, handwritten-charge mechanics, museum object, Shade's post-severance state, and ordinary-life memories needed before the archive fire.
-
-Shortest experimental thesis:
-
-> **Living means closing doors. The difficult part is learning which doors are yours to close.**
+- old principles divided into hard-keep, soften, and drop/reinterpret categories;
+- `One unexplained thing per chapter` dropped as a quota;
+- `The Body Knows First`, `Every Scene Turns a Value`, `Locations Are Characters`, and similar rules softened into craft tendencies;
+- the literal `Shade is the antagonist` rule removed;
+- Elizabeth's ladder reframed as **authorship**, not generic assertiveness;
+- Camp and Shade given more ordinary-life space;
+- the final third explicitly required to preserve irreverence.
 
 ### Recovered newer decisions audit
 
 File: `PATHWELL_RECOVERED_NEWER_DECISIONS_AUDIT_2026-09-17.md`
 
-Purpose: recover later user decisions that were inconsistently carried into the current manuscript and Experimental V2, and distinguish accidental regression from deliberate experimental change.
+Purpose: recover later user decisions that were inconsistently carried into the current manuscript and V2, and distinguish accidental regression from deliberate experimental change.
 
 Important accidental regressions identified:
 
 - Pathwell should not be treated as a conventional burglar in the opening; preferred setup is that he crashed Elizabeth's welcome party, lingered after everyone else left, and opportunistically searched for an expendable charged handwritten book before finding the much stronger diary/cookbook;
-- lo mein should not be restored as Elizabeth's load-bearing early agency rung;
+- lo mein should not be a load-bearing early agency rung;
 - Elizabeth follows because Pathwell still has her diary and cookbook;
 - after recovering both at the Space Between and having a real route back to ordinary life, she chooses to continue;
 - the Space Between must not become a walking/explaining library tour;
@@ -166,6 +159,36 @@ Important accidental regressions identified:
 - Shade remains perceptive and inferential, not omniscient;
 - ordinary consequences such as injuries and the wrecked Cadillac should remain ordinary rather than being magically reset.
 
-The audit also isolates conscious forks that must be decided in a future V3 rather than inherited accidentally: Shade recognition timing after the crash, exact crash mechanics, Stansbury's arc size, Shade survival vs older death, and the diary-buyback function.
+The audit also isolated conscious forks rather than silently choosing them: Shade recognition timing after the crash, exact crash mechanics, Stansbury's arc size, Shade survival vs older death, and the diary-buyback function.
 
-Until a V3 consolidation is produced, this audit **supersedes Experimental V2 where it explicitly marks a decision RESTORE**.
+### Experimental Architecture V3 — current preferred experimental reference
+
+File: `PATHWELL_EXPERIMENTAL_ARCHITECTURE_V3_2026-09-17.md`
+
+Status: **current preferred experimental architecture**, still not manuscript canon.
+
+Purpose: consolidate V2 with the recovered later decisions so future development no longer has to mentally reconcile layered notes.
+
+V3 now explicitly incorporates:
+
+- the welcome-party opening: Pathwell crashed Elizabeth's party, lingered after everyone else left, and snooped for an expendable charged handwritten object before finding the diary/cookbook;
+- Pathwell retrieves the cookbook himself after Elizabeth tells him where it is;
+- the opening blob is following the Pathwell/Shade overlap, and the interrupted sugar-cookie working redirects it toward fresh spill;
+- Elizabeth follows because Pathwell still has her books;
+- lo mein may remain as human/comic breathing room but is **not** an agency milestone;
+- Elizabeth's first major voluntary continuation occurs only after she gets both books back at the Space Between and has a genuine route home;
+- no walking/explaining library tour;
+- Chapter 2 wrongness remains psychological/attentional rather than magical geography;
+- healing does not automatically create another blob event;
+- bar sequence restored as mirror -> Pathwell bolts -> blob engulfs Pathwell -> Elizabeth cuts him free with Stansbury's ridiculous weapon;
+- Shade remains inferential rather than omniscient;
+- ordinary consequences remain ordinary where possible;
+- conscious forks remain explicitly open rather than being inherited accidentally.
+
+Current experimental thesis:
+
+> **Living means closing doors. The difficult part is learning which doors are yours to close.**
+
+Current agency shorthand:
+
+> **Elizabeth begins by following to recover what is hers, chooses to continue only after she can leave, turns the wheel at the midpoint, and ends by choosing the next direction herself.**
