@@ -4,13 +4,25 @@ Status: working project record, not manuscript canon.
 
 ## Standing workflow
 
-For ongoing `Pathwell` story work, preserve substantive analysis, manuscript evaluations, architectural decisions, and revision recommendations in the repository so important reasoning does not exist only in chat history.
+For ongoing `Pathwell` story work, preserve substantive analysis, manuscript evaluations, architectural decisions, revision recommendations, and **decision-provenance corrections** in the repository so important reasoning does not exist only in chat history.
 
-When a response materially advances understanding of the story, identifies a meaningful manuscript problem, establishes a revision direction, or changes an earlier conclusion, archive that response or a faithful durable version of it under `Story/Story_Files/` and record it here.
+When a response materially advances understanding of the story, identifies a meaningful manuscript problem, establishes a revision direction, changes an earlier conclusion, or discovers that an earlier author choice was lost or misattributed, archive a faithful durable version under `Story/Story_Files/` and record it here.
 
-Routine conversational acknowledgments, tiny wording changes, and purely transient tool/status messages do not need separate archival entries.
+Routine acknowledgments, tiny wording changes, and transient tool/status messages do not need separate archival entries.
 
-This log is an index and workflow reminder. It does not override `canon.md`, locked Bible decisions, or other authority-bearing story documents.
+This log is an index/workflow reminder. It does not itself create manuscript canon.
+
+### Decision-provenance rule
+
+When support files conflict:
+
+1. later explicit author choice overrides earlier author choice;
+2. explicit author choice outranks assistant synthesis/proposal;
+3. explicit removal remains removed even if stale canon/roadmap/manuscript text still contains the beat;
+4. a newer planning file does not gain authority merely by copying an older stale decision;
+5. experimental departures must be labeled as experiments rather than mistaken for recovered intent.
+
+---
 
 ## 2026-09-17
 
@@ -18,7 +30,7 @@ This log is an index and workflow reminder. It does not override `canon.md`, loc
 
 File: `PATHWELL_STORY_IDENTITY_REFERENCE_2026-09-17.md`
 
-Purpose: reconstruct what kind of story the non-chapter material indicates `Pathwell` is trying to be, including the Elizabeth / Pathwell / Shade arcs, thematic role of pruning, tonal target, structural promise, and manuscript evaluation questions.
+Purpose: reconstruct the intended story identity from support material: Elizabeth / Pathwell / Shade arcs, pruning, tone, structural promise, and evaluation questions.
 
 Key shorthand: **A funny fantasy adventure about choosing.**
 
@@ -26,20 +38,15 @@ Key shorthand: **A funny fantasy adventure about choosing.**
 
 File: `PATHWELL_MANUSCRIPT_EVALUATION_2026-09-17.md`
 
-Purpose: evaluate Chapters 1–18 against the story-identity reference and active planning material.
+Purpose: evaluate Chapters 1–18 against the story identity and then-active planning material.
 
-Main conclusions preserved there:
-
-- the central novel architecture is genuinely present on the page;
-- Elizabeth's agency arc, Pathwell's authority flaw, Shade's personhood, the museum/archive escalation, irreversible consequences, and restitution largely work;
-- the missing diary-buyback, Chapter 18 speaker inversion, car-crash moral asymmetry, diner-architecture drift, over-explanation of thematic meaning, and overly easy moral case against Pathwell at the climax are the primary issues to address next;
-- the manuscript can be revised surgically if preserving the current architecture.
+Important note: some findings in this evaluation were later corrected by the decision-provenance recovery. In particular, the diary buyback should **not** be restored merely because older canon/planning contained it; the author explicitly removed it on 2026-08-25.
 
 ### Conservative revision direction
 
 File: `PATHWELL_REVISION_DIRECTION_2026-09-17.md`
 
-Purpose: preserve the current novel while fixing its largest structural and thematic weaknesses.
+Purpose: preserve the current novel while fixing its largest structural/thematic weaknesses.
 
 Protected echoes:
 
@@ -50,9 +57,9 @@ Protected echoes:
 
 File: `PATHWELL_TONE_NORTH_STAR_2026-09-17.md`
 
-Purpose: protect Pathwell's irreverent, fast, eccentric, ancient-but-boyish energy through revision.
-
 Core rule: **Do not cure Pathwell of being Pathwell. Fix the authority problem, not the irreverence.**
+
+Matt Smith's Doctor remains a trait-level tonal reference, not a dialogue/performance imitation.
 
 ### Revised story outline
 
@@ -64,47 +71,33 @@ Purpose: conservative 18-chapter revision outline using the manuscript's existin
 
 File: `PATHWELL_RADICAL_REVISION_OPTION_2026-09-17.md`
 
-Purpose: explore a more aggressive version in which plot, Shade's role, Camp, and climax are all negotiable while preserving the protected echoes, irreverence, Elizabeth's agency arc, and the core competence/authority problem.
+Purpose: test a more aggressive version in which plot, Shade's role, Camp, and climax are negotiable while protecting the echoes, irreverence, Elizabeth's agency, and Pathwell's competence/authority problem.
 
 ### Foundational revision options
 
 File: `PATHWELL_FOUNDATIONAL_REVISION_OPTIONS_2026-09-17.md`
 
-Purpose: redesign the underlying magic, characters, institutions, and philosophy rather than only changing plot progression.
-
-Key shift:
-
-> A life is shaped by possibilities, and trying to eliminate uncertainty can eliminate parts of the self that gets to choose.
-
-Important developments:
+Important experimental developments:
 
 - pruning closes future possibilities rather than selecting timelines;
 - Pathwell has spent centuries narrowing himself;
-- Elizabeth is adaptive/open-ended rather than simply passive;
-- Shade's origin explains him but does not define or own him;
-- Stansbury becomes the opposite failure: over-containment / under-intervention;
-- Camp preserves unresolved things rather than serving as a perfect consent culture;
+- Elizabeth is adaptive/open-ended rather than merely passive;
+- Shade's origin explains him but does not own him;
+- Camp preserves unresolved things rather than functioning as a perfect consent culture;
 - magic remains morally indifferent;
-- the moral question broadens from consent to `Whose decision is this?`.
+- the recurring question broadens to `Whose decision is this?`.
 
 ### Integrated experimental story
 
 File: `PATHWELL_INTEGRATED_EXPERIMENTAL_STORY_2026-09-17.md`
 
-Purpose: combine the radical plot with the foundational revision into one experimental architecture.
+Purpose: combine the radical plot and foundational revision.
 
-Major direction:
-
-- plot escalation is physically generated by Pathwell repeatedly narrowing possibilities;
-- Shade survives;
-- the climax turns when Pathwell stops trying to solve Shade and instead relinquishes his own claim/connection;
-- Pathwell retains pruning at the end and chooses not to use it.
+Major experimental departure: Shade survival through Pathwell relinquishing his own claim/connection rather than Shade dying through cleanup.
 
 ### Experimental writing contract
 
 File: `PATHWELL_EXPERIMENTAL_WRITING_CONTRACT_2026-09-17.md`
-
-Purpose: keep the more philosophical experimental architecture subordinate to the story's useful craft principles, especially `Write the Sequel`, causal progression, agency ladder, subtext, theme-through-action, and reveal discipline.
 
 Critical rule:
 
@@ -114,81 +107,102 @@ Critical rule:
 
 File: `PATHWELL_EXPERIMENTAL_PRINCIPLE_SELECTION_RULE_2026-09-17.md`
 
-Purpose: prevent historical planning material from becoming accidental canon.
-
 Rule:
 
 > **Do not preserve history for history's sake. Preserve what still earns its place.**
 
-Old principles may be kept, adapted to preserve their useful craft function, or discarded when they no longer improve the revised novel.
+Important qualification added by later recovery: this rule governs **deliberate story revision**, not accidental loss of prior author choices.
 
-### Experimental Architecture V2 — historical experimental reference
+### Experimental Architecture V2 — historical
 
 File: `PATHWELL_EXPERIMENTAL_ARCHITECTURE_V2_2026-09-17.md`
 
-Status: **superseded by V3 as the preferred experimental reference**; retain for reasoning history.
+Status: superseded.
 
-Purpose: first consolidation of the foundational rewrite, experimental plot, tone guidance, and selectively preserved writing principles.
-
-Important refinements introduced there and retained where still useful:
-
-- old principles divided into hard-keep, soften, and drop/reinterpret categories;
-- `One unexplained thing per chapter` dropped as a quota;
-- `The Body Knows First`, `Every Scene Turns a Value`, `Locations Are Characters`, and similar rules softened into craft tendencies;
-- the literal `Shade is the antagonist` rule removed;
-- Elizabeth's ladder reframed as **authorship**, not generic assertiveness;
-- Camp and Shade given more ordinary-life space;
-- the final third explicitly required to preserve irreverence.
-
-### Recovered newer decisions audit
+### Recovered newer decisions audit — historical first pass
 
 File: `PATHWELL_RECOVERED_NEWER_DECISIONS_AUDIT_2026-09-17.md`
 
-Purpose: recover later user decisions that were inconsistently carried into the current manuscript and V2, and distinguish accidental regression from deliberate experimental change.
+Purpose: first attempt to recover newer decisions that V2/manuscript carried inconsistently.
 
-Important accidental regressions identified:
+Important limitation: the deeper provenance pass later found that some items treated there as open forks were actually already selected or removed by the author.
 
-- Pathwell should not be treated as a conventional burglar in the opening; preferred setup is that he crashed Elizabeth's welcome party, lingered after everyone else left, and opportunistically searched for an expendable charged handwritten book before finding the much stronger diary/cookbook;
-- lo mein should not be a load-bearing early agency rung;
-- Elizabeth follows because Pathwell still has her diary and cookbook;
-- after recovering both at the Space Between and having a real route back to ordinary life, she chooses to continue;
-- the Space Between must not become a walking/explaining library tour;
-- the Chapter 1 blob follows the overlapping Pathwell/Shade signature, while the interrupted sugar-cookie working creates fresh spill that redirects it;
-- healing should not mechanically summon the next blob problem;
-- the later bar sequence remains mirror -> Pathwell bolts -> blob engulfs Pathwell -> Elizabeth frees him with Stansbury's ridiculous weapon;
-- Shade remains perceptive and inferential, not omniscient;
-- ordinary consequences such as injuries and the wrecked Cadillac should remain ordinary rather than being magically reset.
-
-The audit also isolated conscious forks rather than silently choosing them: Shade recognition timing after the crash, exact crash mechanics, Stansbury's arc size, Shade survival vs older death, and the diary-buyback function.
-
-### Experimental Architecture V3 — current preferred experimental reference
+### Experimental Architecture V3 — historical
 
 File: `PATHWELL_EXPERIMENTAL_ARCHITECTURE_V3_2026-09-17.md`
 
-Status: **current preferred experimental architecture**, still not manuscript canon.
+Status: **superseded by V4**.
 
-Purpose: consolidate V2 with the recovered later decisions so future development no longer has to mentally reconcile layered notes.
+V3 remains useful as reasoning history, but should not be treated as the standalone current architecture because deeper provenance recovery found several regressions:
 
-V3 now explicitly incorporates:
+- diner recognition timing was reopened even though it had been selected;
+- the post-diner tracking bridge was omitted;
+- Stansbury's arc size was reopened even though the smaller brother-specific turn had been selected;
+- diary-buyback language remained conditionally alive even though the buyback had been explicitly removed;
+- several selected world/mechanical rules were absent or blurred;
+- the ending made Pathwell's pruning ability explicit even though an older direct author choice left that ability unanswered by choice.
 
-- the welcome-party opening: Pathwell crashed Elizabeth's party, lingered after everyone else left, and snooped for an expendable charged handwritten object before finding the diary/cookbook;
-- Pathwell retrieves the cookbook himself after Elizabeth tells him where it is;
-- the opening blob is following the Pathwell/Shade overlap, and the interrupted sugar-cookie working redirects it toward fresh spill;
-- Elizabeth follows because Pathwell still has her books;
-- lo mein may remain as human/comic breathing room but is **not** an agency milestone;
-- Elizabeth's first major voluntary continuation occurs only after she gets both books back at the Space Between and has a genuine route home;
-- no walking/explaining library tour;
-- Chapter 2 wrongness remains psychological/attentional rather than magical geography;
-- healing does not automatically create another blob event;
-- bar sequence restored as mirror -> Pathwell bolts -> blob engulfs Pathwell -> Elizabeth cuts him free with Stansbury's ridiculous weapon;
-- Shade remains inferential rather than omniscient;
-- ordinary consequences remain ordinary where possible;
-- conscious forks remain explicitly open rather than being inherited accidentally.
+### Recovered decisions provenance audit — current authority for recovery
 
-Current experimental thesis:
+File: `PATHWELL_RECOVERED_DECISIONS_AUDIT_2026-09-17.md`
 
-> **Living means closing doors. The difficult part is learning which doors are yours to close.**
+Commit introducing file: `6ff70b7f056182f0aaa775dbbbc3239a067bf18b`
 
-Current agency shorthand:
+Purpose: distinguish **direct author choice**, **later author reversal**, **support-file lock of uncertain provenance**, **assistant proposal**, and **intentional current experiment**.
 
-> **Elizabeth begins by following to recover what is hers, chooses to continue only after she can leave, turns the wheel at the midpoint, and ends by choosing the next direction herself.**
+Most consequential recovered decisions:
+
+- opening `marked` claim is partly Pathwell exaggerating/inventing certainty to get Elizabeth moving;
+- Camp supplies are a real need Pathwell self-appoints to solve; nobody assigned him the job;
+- Elizabeth's first major voluntary continuation occurs only after she has the diary/cookbook back and can leave;
+- whole cookbook is voluntarily surrendered; one page is consumed; remainder becomes Camp/archive property and should have lived use before later loss;
+- at least one specific non-Elizabeth Camp/archive record must be known before the catastrophe;
+- diner identity timing was already selected: felt wrongness after crash, explicit recognition at diner when the man refers to Pathwell separately;
+- the selected passive post-diner tracking bridge uses a longing letter, shared terrible-coffee memory, and consumable handwritten shopping lists;
+- no magical perception veil; public explanations fragment/rationalize;
+- pruning does not require charged text; future possibility is generative but exact pruned branches do not return;
+- Pathwell/Shade draw is asymmetric and Shade's right hand can act as a recurring tell;
+- Elizabeth-dominant POV was selected;
+- Stansbury's arc was deliberately kept smaller and brother-specific; `Let it be` / chosen scar remains the key boundary;
+- Camp's healer, not Shade, handles Elizabeth's museum injury after an earlier Shade-treatment idea was superseded;
+- museum discharge should obey the selected contact/cascade mechanic;
+- Mama Baga recognizes the reintegration danger and tells Pathwell to stop;
+- Pathwell builds the climax working in real time while talking/misdirecting;
+- diary buyback was explicitly removed on 2026-08-25 and must not be resurrected by stale `canon.md`/roadmap material;
+- `Space Between -> blank page -> "somewhere" -> sunny parking lot` was traced to assistant-proposed architecture rather than a recoverable author selection and therefore is **not** restored as canon.
+
+### Experimental Architecture V4 — current preferred experimental reference
+
+File: `PATHWELL_EXPERIMENTAL_ARCHITECTURE_V4_2026-09-17.md`
+
+Commit introducing file: `2357feeee8c17614f956fdbdd38eb205614429ce`
+
+Status: **current preferred experimental architecture, not manuscript canon**.
+
+V4 incorporates the recovered author choices instead of leaving them as detached audit notes.
+
+Major corrections from V3:
+
+- diner recognition restored to the previously selected timing;
+- post-diner tracking bridge restored;
+- museum graffiti wall restored as the practical Camp anchor and the museum returns to the causal Ask -> Camp route;
+- Stansbury fixed to the selected smaller brother-specific turn rather than an artificial large-arc fork;
+- diary buyback removed completely;
+- cookbook becomes Camp/archive property after one-page healing use and is allowed lived presence before the fire;
+- Camp healer owns Elizabeth's museum treatment;
+- no magical public veil;
+- pruning/draw/POV rules restored;
+- Pathwell's deeper need to be useful/needed is restored as an engine beneath self-appointment;
+- Pathwell/Elizabeth remains explicitly non-romantic;
+- the older author choice that **the ending does not need to prove whether Pathwell can still prune** is restored: he chooses not to test capability;
+- current final wording remains `Ready? / No. / Good.`.
+
+Intentional experiment still open in V4:
+
+- **Shade survives** because Pathwell relinquishes his own claim/connection. Older architecture killed Shade; survival remains an explicit experiment requiring deliberate promotion rather than a recovered author choice.
+
+Current structural shorthand:
+
+- first crash: Elizabeth wakes into somebody else's adventure;
+- second crash: Elizabeth wakes into authorship;
+- final `Ready? / No. / Good.`: uncertainty remains, but the direction is freely chosen.
