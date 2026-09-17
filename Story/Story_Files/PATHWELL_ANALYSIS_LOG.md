@@ -206,3 +206,30 @@ Current structural shorthand:
 - first crash: Elizabeth wakes into somebody else's adventure;
 - second crash: Elizabeth wakes into authorship;
 - final `Ready? / No. / Good.`: uncertainty remains, but the direction is freely chosen.
+
+### V4 editorial assessment
+
+File: `PATHWELL_V4_EDITORIAL_ASSESSMENT_2026-09-17.md`
+
+Commit introducing file: `058c798bd270ce0d9871520d3caa84364b9c4723`
+
+Purpose: preserve an independent critique of V4 rather than silently treating every recovered or experimental choice as equally strong.
+
+Strongest conclusions:
+
+- recovered diner recognition timing improves Elizabeth's arc because agency does not instantly erase old habits;
+- restoring Ask -> Camp -> museum threshold materially strengthens causality and makes the museum a true rehearsal of the climax;
+- `Pathwell needs to be needed` may be the most important recovered character idea because it gives emotional necessity to his self-appointed solving;
+- removing the diary buyback reduces redundant thematic proof and keeps Elizabeth's archive/fire choice cleaner;
+- Stansbury's smaller `Let it be` arc is stronger than forcing another symmetrical philosophical transformation;
+- allowing Nana's cookbook to become a lived Camp object before loss increases its narrative and thematic weight;
+- the story is stronger when it expands beyond a narrow consent thesis into usefulness, identity, purpose, uncertainty, authorship, and responsibility.
+
+Active editorial pushback retained:
+
+1. **Ending pruning ambiguity:** the recovered older choice is elegant, but it may weaken the dramatic proof of Pathwell's restraint. Test both an untested-capability ending and a clearly-intact-capability ending in prose before deciding.
+2. **Shade survival:** the severance idea is philosophically strong, but survival risks softening the person-shaped irreversible cost of the old ending. If Shade survives, severance should impose permanent cost and Pathwell should not receive Shade back as a relational reward; a living Shade who leaves Pathwell's life may actually be the harsher consequence.
+
+Editorial warning:
+
+> **The architecture is becoming stronger and more coherent, which increases the danger that the manuscript starts showing its design. The philosophy should make the adventure cohere, not replace the adventure.**
