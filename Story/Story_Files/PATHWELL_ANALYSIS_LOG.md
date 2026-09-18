@@ -563,3 +563,47 @@ The lean skeleton now carries:
 Commit: `5ce6b12457844441dcaca3c5aa13063fe032ef79`
 
 The alternatives/waiting chain is now provisionally satisfied structurally, while P0 Shade survival/cleanup mechanics remains the principal blocker to formal V5 consolidation.
+
+
+### Original-vision re-anchor audit
+
+File: `PATHWELL_ORIGINAL_VISION_REANCHOR_AUDIT_2026-09-18.md`
+
+Commit: `93d2d06d9a9c9f66f5834a7728bcb5d51cbac7ad`
+
+Purpose: compare the current lean V5 architecture against the original Elizabeth-centered vision:
+
+> **a story about someone who is used to life happening to her, and finally taking control**
+
+Main finding:
+
+> **The story has not lost Elizabeth's arc, but the late experimental architecture has partially drifted in center of gravity toward Pathwell's authority problem, Shade's personhood/survival, Camp safety, and cleanup mechanics.**
+
+The drift is concentrated in the alternatives/waiting/reintegration/climax material.
+
+The opening, voluntary continuation, bar rescue, second crash, diner, Ask, choosing Camp, museum refusal, and final invitation still strongly serve `Pulled -> Pushing -> Choosing`.
+
+The current greatest risk is the climax: if the core resolution is primarily `Pathwell decides whether to respect Shade / Shade survives or dies` while Elizabeth only rescues Milo, Elizabeth's arc effectively peaks at the midpoint and she becomes a witness to the book's principal late conflict.
+
+Re-anchor hierarchy:
+
+1. **Elizabeth choosing**
+2. Pathwell confronted by choices he cannot own
+3. Shade becoming a person whose choices matter
+4. world/magic consequences
+
+New scene diagnostic:
+
+> **How does this scene change Elizabeth's relationship to choosing the direction of her own life?**
+
+If a scene is primarily about Pathwell/Shade/Camp, it must be necessary to create or pressure a later Elizabeth choice.
+
+Climax requirement:
+
+> **Elizabeth's final major choice must materially alter the course of the central conflict without making her magical or uniquely cosmically important.**
+
+Her choice need not solve the magic, but if removed the climax should unfold differently.
+
+Shortest re-anchor statement:
+
+> **Pathwell is the story of a woman who has spent her life adapting to what happens to her. A magical catastrophe gives her increasingly consequential chances to decide what happens next. The point is not that she gains control over the world. The point is that she finally takes responsibility for choosing her direction inside a world she cannot control.**
