@@ -164,71 +164,95 @@ Do not lock yet.
 
 ---
 
-# Disagreement 2 — Should the ending prove Pathwell can still prune?
+# Resolved decision 2 — Pathwell does not find out whether he can still prune
 
 ## Current state
 
-**AUTHOR LEAN / earlier explicit choice:** the ending does **not** need to prove whether Pathwell can still prune. He chooses not to make capability the question.
+**AUTHOR DECISION:** Pathwell should **think about testing whether he can still prune, but deliberately choose not to find out**.
 
-**EDITORIAL LEAN:** there remains a strong case for proving that he still can, because otherwise restraint may be mistaken for incapacity.
+He does not know whether the ability survived.
 
-**Status:** OPEN, but current architecture follows the author's ambiguity preference.
+He does not know whether it is gone.
 
-## Case for leaving capability untested
+He does not want the certainty badly enough to test it.
 
-### 1. It changes the question
+**Status:** RESOLVED — no longer an active disagreement.
 
-The ending says:
+## Why this is stronger than either proof
 
-> **Whether I can is no longer the important thing.**
+This is not merely:
 
-That is elegant and mature.
+> whether I can is no longer important.
 
-### 2. Avoids one more moral exam
+It is more specific:
 
-Restitution should already demonstrate changed behavior.
+> **I could try to know. I am choosing not to.**
 
-A final explicit test risks repeating:
+For most of the novel, Pathwell treats uncertainty as a problem that demands action.
 
-> Look, Pathwell learned the lesson.
+A capability test would be another version of that reflex:
 
-### 3. Preserves mystery
+- identify unknown;
+- perform procedure;
+- obtain answer;
+- regain certainty.
 
-The story does not need to close every mechanical question.
+His refusal to test therefore matters even though it yields no mechanical proof.
 
-### 4. Supports Elizabeth's ending
+He finally permits an important fact about himself to remain unresolved.
 
-The final scene stays about her chosen direction and their relationship rather than returning focus to Pathwell's power.
+## Important handling
 
-## Case for proving capability remains
+The scene should make clear enough that **a test is conceivable**.
 
-### 1. It removes the easiest alternative explanation
+Pathwell considers it.
 
-If the reader suspects:
+He does not begin the prune far enough to produce evidence.
 
-> maybe he simply cannot prune anymore,
+Do not show:
 
-then not pruning proves nothing about restraint.
+- familiar pruning signs proving ability;
+- a failed attempt proving inability;
+- an external authority telling him whether he still can;
+- a later scene answering the question indirectly.
 
-### 2. It makes choice visible
+The reader remains in the same uncertainty Pathwell accepts.
 
-Pathwell can do the old thing and deliberately does not.
+## Why the ambiguity is not a cheat
 
-That parallels Elizabeth's agency theme cleanly.
+The point is not to demonstrate restraint through a laboratory test.
 
-### 3. It protects the end-state from mechanical ambiguity
+Restitution and prior behavior should already demonstrate that Pathwell can respect boundaries.
 
-The reader need not wonder whether the climax permanently damaged Pathwell in a way that forced his growth.
+The final ambiguity demonstrates something different:
 
-## Current editorial assessment
+> **he no longer needs every uncertainty converted into an answer.**
 
-If the manuscript elsewhere gives the reader no reason to think his ability disappeared, **untested capability is probably stronger** because it keeps the final scene on Elizabeth and avoids redundant proof.
+That is especially appropriate if Shade's fate teaches him that responsibility does not grant omnipotence or resolution.
 
-If the climax naturally creates serious doubt about whether Pathwell still has pruning ability, some earlier evidence may be needed so the ending is not accidentally read as incapacity.
+## Relationship to Elizabeth's ending
 
-The best compromise may be:
+Keep this moment brief enough that it does not reclaim the ending from Elizabeth.
 
-> establish before the final scene that nothing suggests the ability is gone, but do not stage an explicit final pruning test.
+Pathwell considers the unanswered question.
+
+He leaves it unanswered.
+
+Then Elizabeth arrives having chosen where she wants to go next.
+
+The final movement therefore shifts from:
+
+> Pathwell deciding whether to test himself
+
+to:
+
+> Elizabeth deciding where life goes next.
+
+## Protected outcome
+
+> **Neither Pathwell nor the reader learns whether Pathwell can still prune.**
+
+That uncertainty is intentional, not an unresolved drafting problem.
 
 ---
 
