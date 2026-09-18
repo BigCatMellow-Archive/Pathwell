@@ -482,3 +482,84 @@ The audit also found several current `Writing-Principles.md` rules stale or over
 - default incomplete/evasive answers — should arise from motive/knowledge/reader-state rather than rule.
 
 No manuscript or Pathwell writing-principle file was changed by this audit.
+
+
+### Writing Bible changes applied
+
+The Writing Bible application audit was converted into active Pathwell working changes.
+
+#### Writing-Principles.md revised
+
+Commit: `e4a20e7c7822697617834376c1fe630dd6db7738`
+
+Changes include:
+
+- `Every Scene Turns a Value` replaced by a broader story-state / later-impact requirement;
+- `The Body Knows First` softened from an `always` rule;
+- `Characters Want Things` expanded to mixed/conflicting/social wants;
+- `The Lie and the Truth` replaced by pressure on a character's self-story / identity pattern;
+- incomplete answers now require a knowledge/motive/relationship reason rather than functioning as a default;
+- breathing room is now justified by reader possession/consequence rather than alternating-rhythm quota;
+- `Locations Are Characters` reframed as functional/place specificity;
+- `Subtext Over Text` reframed as recoverable inference, with direct speech allowed where earned;
+- `The Antagonist Is a Mirror` removed as current Shade doctrine and replaced with a rule that characters exceed structural/thematic function;
+- `One Unexplained Thing Per Chapter` removed as a quota;
+- `Rules Are Sacred` explicitly blocks theme-driven climax exceptions;
+- power-type, conflicting-goods, reader-state, and humor-as-social-action diagnostics added;
+- comedy no longer requires a universal post-trauma waiting period; the serious reality must simply be established enough for the wrong-register response to create the Pathwell gap.
+
+#### Reader-state / disclosure ledger
+
+File: `PATHWELL_V5_READER_STATE_DISCLOSURE_LEDGER_2026-09-18.md`
+
+Commit: `11a7cb2f0ce7c833638e0bbf9c0ba8cbbae2003b`
+
+Purpose: distinguish story truth, Elizabeth/Pathwell/Shade knowledge, intended reader belief, open questions, and retrieval/revision cues through the central mystery/reveal chain.
+
+#### Power / authority matrix
+
+File: `PATHWELL_V5_POWER_AUTHORITY_MATRIX_2026-09-18.md`
+
+Commit: `3c4f914c9755b9a91876371afbe320d68563fd43`
+
+Core distinction:
+
+> Pathwell often genuinely possesses expertise, prestige, causal responsibility, resource control, or ability to impose. His failure is promoting those into decision authority he was not actually given.
+
+The matrix applies this to the opening, Space Between, second crash, museum, reintegration, and restitution.
+
+#### Conflicting-goods / alternatives matrix
+
+File: `PATHWELL_V5_CONFLICTING_GOODS_TRADEOFF_MATRIX_2026-09-18.md`
+
+Commit: `8b49fcb3173f65c3f595d40e1440d92e953f4777`
+
+Current provisional late-story chain:
+
+1. Pathwell leaves Camp while Shade stays.
+2. Distance helps but does not solve the underlying problem.
+3. Camp chooses a slower procedural risk-management plan using established tools/procedures.
+4. Pathwell gets a real opportunity to override and stops himself.
+5. The plan produces genuine partial success.
+6. A later mechanically consistent breach proves waiting also has real cost.
+7. Shade still refuses reintegration.
+8. Pathwell proceeds anyway.
+
+Important: exact cleanup behavior remains dependent on the unresolved Shade/cleanup mechanics and should not be distorted to preserve Shade survival.
+
+#### Lean V5 structure updated
+
+Commit: `b75d033e709f62c8511c4ad2de11cb10390d727e`
+
+The lean skeleton now carries:
+
+- the provisional alternatives/waiting causal chain;
+- Camp specificity through recurring procedure rather than generic atmosphere;
+- Shade ordinary work folded into already-needed Camp functions;
+- reciprocal humor/play as likely evidence of renewed Elizabeth/Pathwell affiliation after Pathwell respects a real Elizabeth choice.
+
+#### V5 correction plan updated
+
+Commit: `5ce6b12457844441dcaca3c5aa13063fe032ef79`
+
+The alternatives/waiting chain is now provisionally satisfied structurally, while P0 Shade survival/cleanup mechanics remains the principal blocker to formal V5 consolidation.
