@@ -287,3 +287,48 @@ Do not later answer this through implication, side effect, another character, or
 This is an intentional unknown.
 
 It should remain brief so Elizabeth's chosen next direction still owns the ending.
+
+
+# 13. Author clarification — exact final cookbook behavior
+
+The author clarified the intended final Space Between beat.
+
+Selected staging:
+
+1. Pathwell notices another family's cookbook while they are in the Space Between.
+2. It reminds him of the lost Nana cookbook.
+3. His old reflex is to think about **buying it for Elizabeth** — replacing the lost object, reducing the damage, doing something useful.
+4. He silently puts it back.
+5. He does **not** ask what it costs.
+6. He does **not** start a transaction.
+7. He does **not** explicitly test or discuss whether pruning still works.
+8. Elizabeth then comes over and asks if he is ready.
+9. The protected final exchange follows:
+   - `"Ready?" Elizabeth asked.`
+   - `"No," Pathwell said.`
+   - `"Good."`
+
+Important correction to the immediately prior note:
+
+> Pathwell should **not** stage a conscious pruning-capability test in the ending.
+
+The unknown remains because he declines the whole chain before it becomes a procedure:
+
+> **see loss -> replace loss -> ask price -> solve transaction -> learn what power remains**
+
+He stops at:
+
+> **see loss -> want to replace it -> put it back**
+
+This is stronger because the scene stays concrete and behavioral.
+
+The pruning question remains intentionally unanswered, but it does not need to become explicit exposition. Pathwell does not know whether he still can prune, and he does not go looking for the answer.
+
+The cookbook beat primarily demonstrates:
+
+- respect for Elizabeth's lost history rather than substituting an equivalent object;
+- restraint from turning grief into a solvable transaction;
+- acceptance that some losses remain losses;
+- Pathwell allowing an unanswered capability question to remain unanswered.
+
+No dialogue should explain these meanings.
