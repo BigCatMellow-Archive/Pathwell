@@ -607,3 +607,40 @@ Her choice need not solve the magic, but if removed the climax should unfold dif
 Shortest re-anchor statement:
 
 > **Pathwell is the story of a woman who has spent her life adapting to what happens to her. A magical catastrophe gives her increasingly consequential chances to decide what happens next. The point is not that she gains control over the world. The point is that she finally takes responsibility for choosing her direction inside a world she cannot control.**
+
+
+### Current author intent / Shade consequence notes
+
+File: `PATHWELL_CURRENT_AUTHOR_INTENT_SHADE_CONSEQUENCE_NOTES_2026-09-18.md`
+
+Commit: `59816a95245c6bebef2665f88d4dc6a69dd89d76`
+
+Purpose: preserve the current author discussion before further architecture work.
+
+Key points:
+
+- original Elizabeth-centered vision is reasserted as primary;
+- author explicitly invites substantive editorial pushback rather than automatic validation;
+- Shade death is valued because Pathwell may have to live with responsibility for an actual person's death and no future reconciliation/fix;
+- survival remains conceptually interesting because a living Shade could deny Pathwell closure, but current mechanics leave cleanup/blobs unresolved and preserve a future-repair escape hatch;
+- even if Shade dies, he must remain a person rather than a punishment mechanism for Pathwell;
+- exact degree of Pathwell's causal responsibility for Shade's death remains open;
+- Elizabeth still needs a climax choice that materially changes the central conflict;
+- assistant proposals must remain visibly distinct from author decisions.
+
+### Author / editorial disagreement register
+
+File: `PATHWELL_AUTHOR_EDITORIAL_DISAGREEMENT_REGISTER_2026-09-18.md`
+
+Commit: `302dafdfbd131b8ce9ed732865d2a0134cf559b2`
+
+Current genuine disagreements / open comparisons:
+
+1. Shade dies vs survives.
+2. Whether the ending should explicitly prove Pathwell can still prune.
+3. Midpoint crash staging: deliberate crash vs deliberate route refusal with unintended collision.
+4. How much late Pathwell architecture belongs in Elizabeth's novel.
+5. Whether survival is needed to prove Shade personhood — now largely resolved: no.
+6. How philosophically explicit the final manuscript should be — now largely resolved: philosophy stays backstage.
+
+Items explicitly marked **not current disagreements** include Elizabeth remaining nonmagical, no Pathwell/Elizabeth romance, diary buyback remaining removed, Camp healer owning museum treatment, smaller Stansbury arc, diner recognition timing, Elizabeth choosing Camp, Elizabeth issuing the final invitation, and the scene-necessity anti-bloat rule.
