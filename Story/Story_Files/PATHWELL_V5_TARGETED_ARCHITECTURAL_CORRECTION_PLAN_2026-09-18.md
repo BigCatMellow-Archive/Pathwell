@@ -362,9 +362,11 @@ The reader should infer the principle from behavior.
 
 Retain as current preference:
 
-- Pathwell does **not** test whether he can still prune in the final cookbook scene;
-- do not imply that he cannot;
-- avoid a second ending-sized ethics test if restitution has already proved restraint;
+- Pathwell **thinks about whether he can still prune and deliberately refuses to test it**;
+- neither Pathwell nor the reader learns whether the ability remains;
+- do not imply either capability or incapacity through side effects, another character, or later exposition;
+- this is intentional uncertainty, not an unresolved drafting gap;
+- avoid turning the thought into a second ending-sized ethics test if restitution has already proved restraint;
 - Elizabeth chooses the next adventure;
 - Pathwell freely accompanies;
 - end immediately after:
