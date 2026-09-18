@@ -672,3 +672,40 @@ Files updated:
 - `PATHWELL_V5_LEAN_SURVIVING_STRUCTURE_2026-09-18.md` — commit `a0d2e9be2319adca00ffe47b88472930406d9ff1`
 - `PATHWELL_CURRENT_AUTHOR_INTENT_SHADE_CONSEQUENCE_NOTES_2026-09-18.md` — commit `efd7e258cc96752b95980e36dca5e33f3a18c473`
 - `PATHWELL_V5_TARGETED_ARCHITECTURAL_CORRECTION_PLAN_2026-09-18.md` — commit `a8e848eaca2756a5a722ae6dfe7f6d3c13dadf59`
+
+
+### Author clarification — final cookbook beat carries pruning ambiguity silently
+
+The prior pruning-ambiguity decision was refined into exact staging.
+
+Selected ending behavior:
+
+1. in the Space Between, Pathwell finds another family's cookbook;
+2. he thinks about buying it for Elizabeth;
+3. he silently puts it back;
+4. he does not ask the price or begin a transaction;
+5. he does not explicitly test or discuss whether pruning still works;
+6. Elizabeth comes over after the cookbook has been returned;
+7. she asks if he is ready;
+8. the exact `Ready? / No. / Good.` ending follows.
+
+This supersedes any wording that has Pathwell consciously staging a pruning-capability test.
+
+The pruning question remains intentionally unanswered because Pathwell declines the action chain that might answer it.
+
+The cookbook beat now simultaneously carries:
+
+- the old replacement/fixing reflex;
+- respect for Elizabeth's lost history;
+- acceptance that some losses remain losses;
+- tolerance for unanswered capability;
+- a clean handoff of the final scene back to Elizabeth's chosen direction.
+
+No dialogue should explain those meanings.
+
+Files updated:
+
+- `PATHWELL_V5_LEAN_SURVIVING_STRUCTURE_2026-09-18.md` — commit `3d53ea3639c336f92dca897fbce8bbcb5cbb5518`
+- `PATHWELL_CURRENT_AUTHOR_INTENT_SHADE_CONSEQUENCE_NOTES_2026-09-18.md` — commit `54e8ce70312001c2ba1e1ad48c3fd6b31efbd740`
+- `PATHWELL_AUTHOR_EDITORIAL_DISAGREEMENT_REGISTER_2026-09-18.md` — commit `0a66458ee2b07ea978d6c60a04955a947f2368c9`
+- `PATHWELL_V5_TARGETED_ARCHITECTURAL_CORRECTION_PLAN_2026-09-18.md` — commit `e9981fe35a1e8be42bee77e9ff8ab3a0d5066c01`
