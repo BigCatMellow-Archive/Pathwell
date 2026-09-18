@@ -7,6 +7,10 @@ Input:
 - V5 candidate breakdown
 - fresh independent review result
 - existing V4/recovery/dwell-time materials
+- `PATHWELL_WRITING_BIBLE_APPLICATION_AUDIT_2026-09-18.md`
+- `PATHWELL_V5_READER_STATE_DISCLOSURE_LEDGER_2026-09-18.md`
+- `PATHWELL_V5_POWER_AUTHORITY_MATRIX_2026-09-18.md`
+- `PATHWELL_V5_CONFLICTING_GOODS_TRADEOFF_MATRIX_2026-09-18.md`
 
 Goal:
 
@@ -67,9 +71,24 @@ This decision should be made **before** fixing lower-priority pacing details.
 
 ## P1 — Architect the alternatives / waiting chain
 
+**Status: PROVISIONAL STRUCTURE NOW SELECTED; exact cleanup outcomes remain dependent on P0.**
+
+Current experimental chain:
+
+1. Pathwell leaves Camp while Shade stays.
+2. Distance provides partial relief but does not solve the underlying problem.
+3. Camp chooses a slower procedural risk-management plan using already established tools/procedures.
+4. Pathwell gets a real opportunity to override that plan and deliberately stops himself.
+5. The slower plan produces genuine partial success.
+6. The temporary arrangement continues long enough to become a real state.
+7. A mechanically consistent breach creates serious cost despite restraint.
+8. Pathwell concludes waiting itself is becoming irresponsible.
+9. Shade still refuses reintegration.
+10. Pathwell proceeds anyway.
+
 This is the most important earnedness correction.
 
-The future architecture must name at least:
+The final architecture must still verify:
 
 1. the first alternative;
 2. why it is chosen;
@@ -82,15 +101,21 @@ The future architecture must name at least:
 9. why Shade still reasonably refuses reintegration;
 10. why Pathwell proceeds anyway.
 
-The chain should be written in explicit causal form:
+The chain must remain explicit causal form:
 
 > therefore -> but -> therefore -> but.
 
 No generic montage language such as `they try other things` is sufficient.
 
+See `PATHWELL_V5_CONFLICTING_GOODS_TRADEOFF_MATRIX_2026-09-18.md`.
+
 ---
 
 ## P2 — Recalibrate Pathwell's danger judgments
+
+**Status: POWER/AUTHORITY MODEL DEFINED; scene-level threat evidence still required.**
+
+See `PATHWELL_V5_POWER_AUTHORITY_MATRIX_2026-09-18.md`.
 
 The museum and reintegration must remain morally difficult.
 
@@ -124,6 +149,10 @@ This preserves ambiguity.
 ---
 
 ## P3 — Turn dwell functions into stories
+
+**Status: MAJOR REDUCTION COMPLETE; continue deletion pressure during V5 consolidation.**
+
+The necessity audit removed/combined standalone proof containers. The current lean structure is the owner for surviving chapter-functions.
 
 Do not protect every V5 chapter-function.
 
@@ -186,6 +215,22 @@ The crash should result from a real decision conflict, not an argument staged in
 
 ## P6 — Make Camp emotionally specific
 
+**Status: PROCEDURAL DIRECTION SELECTED; exact non-Elizabeth archive object still open.**
+
+Current preferred approach:
+
+> use one recurring archive intake / handling procedure as the main carrier of Camp specificity rather than adding generic atmosphere scenes.
+
+This procedure can also carry:
+
+- Elizabeth becoming more competent at Camp;
+- Shade having ordinary work;
+- cookbook afterlife;
+- the diary donation;
+- the specific archive object;
+- authority/provenance questions;
+- post-fire absence.
+
 Select now:
 
 ### One recurring routine
@@ -240,7 +285,15 @@ The purpose is for Shade to begin behaving as though **tomorrow belongs to him**
 
 ## P8 — Earn Elizabeth choosing Pathwell again
 
+**Status: RELATIONSHIP DIAGNOSTIC STRENGTHENED; exact scene still to be written/architected.**
+
 Restitution must include relationship-specific evidence.
+
+Writing Bible application adds:
+
+> reciprocal humor / play can demonstrate renewed affiliation more efficiently than another explicit trust conversation.
+
+Use this only after Pathwell respects a real Elizabeth choice so the humor reads as restored relationship, not avoidance.
 
 At least one post-catastrophe scene should involve Elizabeth and Pathwell directly in a situation where:
 
@@ -285,6 +338,8 @@ Elizabeth's central self-direction proof remains distributed across:
 
 ## P10 — Hide the design
 
+**Status: REINFORCED BY WRITING BIBLE PRAGMATICS / PHILOSOPHY REVIEW.**
+
 The following are author-side concepts and should not become explicit manuscript conclusions:
 
 - `whose decision is this?`;
@@ -322,19 +377,32 @@ Retain as current preference:
 
 ---
 
+# Additional completed diagnostic work
+
+The following are now complete enough to constrain formal V5:
+
+- reader-state/disclosure ledger;
+- power/authority matrix;
+- conflicting-goods alternatives matrix;
+- Writing-Principles cleanup using mechanisms-over-maxims;
+- scene-necessity reduction pass;
+- lean V5 skeleton updated with the provisional alternatives chain.
+
+These do not resolve P0.
+
 # Correction completion gate
 
 Do not consolidate formal V5 until all are true:
 
 - [ ] Shade survival/death is mechanically resolved without a climax-only exception.
-- [ ] Alternatives/waiting have a real therefore/but chain.
-- [ ] Pathwell's museum and reintegration danger judgments are credible.
+- [x] Alternatives/waiting have a real provisional therefore/but chain; exact cleanup outcomes remain conditional on P0.
+- [ ] Pathwell's museum and reintegration danger judgments are credible in-scene; authority distinctions are now defined, but exact threat evidence remains to be selected.
 - [ ] Smaller adventure causally leads to the bar.
 - [ ] Post-bar withholding practically causes the crash conflict.
-- [ ] Camp routine/object are specific.
+- [ ] Camp routine/object are specific; recurring archive procedure direction is selected, exact non-Elizabeth object remains open.
 - [ ] Cookbook has lived second-life evidence.
 - [ ] Shade has a concrete expected future.
-- [ ] Elizabeth/Pathwell renewed companionship has direct evidence.
+- [ ] Elizabeth/Pathwell renewed companionship has direct evidence; reciprocal humor/play is selected as a likely carrier, exact scene remains open.
 - [ ] Dwell chapters have active scene engines or are combined.
 - [ ] Milo choice is not overloaded as agency proof.
 - [ ] Author-side philosophy is suppressed from manuscript exposition.
