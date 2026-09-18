@@ -362,11 +362,13 @@ The reader should infer the principle from behavior.
 
 Retain as current preference:
 
-- Pathwell **thinks about whether he can still prune and deliberately refuses to test it**;
+- in the final Space Between, Pathwell notices another family's cookbook and briefly thinks about buying it for Elizabeth;
+- he silently puts it back;
+- he does **not** ask the price, begin a transaction, or explicitly test whether pruning still works;
 - neither Pathwell nor the reader learns whether the ability remains;
 - do not imply either capability or incapacity through side effects, another character, or later exposition;
-- this is intentional uncertainty, not an unresolved drafting gap;
-- avoid turning the thought into a second ending-sized ethics test if restitution has already proved restraint;
+- this is intentional uncertainty carried through behavior, not an unresolved drafting gap;
+- avoid turning the moment into an explicit ethics speech or capability test;
 - Elizabeth chooses the next adventure;
 - Pathwell freely accompanies;
 - end immediately after:
