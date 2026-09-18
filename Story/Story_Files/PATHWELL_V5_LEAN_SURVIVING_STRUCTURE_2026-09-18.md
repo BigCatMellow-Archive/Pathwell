@@ -10,6 +10,16 @@ It does **not** solve the current Shade-survival mechanics blocker. The climax r
 
 The purpose is reduction: preserve only chapter-functions that have distinct downstream consequences.
 
+Companion diagnostics now governing this skeleton:
+
+- `PATHWELL_V5_READER_STATE_DISCLOSURE_LEDGER_2026-09-18.md`
+- `PATHWELL_V5_POWER_AUTHORITY_MATRIX_2026-09-18.md`
+- `PATHWELL_V5_CONFLICTING_GOODS_TRADEOFF_MATRIX_2026-09-18.md`
+
+Writing Bible application rule:
+
+> **Do not add plot to solve a diagnosis that can be solved by better reader-state control, relationship behavior, procedural specificity, or clearer authority distinctions.**
+
 ---
 
 # ACT I — PULLED ALONG
@@ -62,7 +72,7 @@ Combine the old `Camp gets to exist` material here.
 
 Must include:
 
-- real Camp routines;
+- real Camp routines, preferably including a recurring archive intake / handling procedure rather than generic bustle;
 - people for whom Pathwell's intervention has genuinely helped;
 - Mama Baga's ordinary care;
 - Elizabeth voluntarily gives whole cookbook;
@@ -183,9 +193,12 @@ Combine:
 - Elizabeth now knows Camp routines;
 - diary donation if dramatically natural here;
 - cookbook visibly existing in post-healing Camp life;
-- introduction/recurrence of one non-Elizabeth archive object.
+- introduction/recurrence of one non-Elizabeth archive object;
+- recurrence of the same Camp archive procedure seen earlier, now familiar enough that Elizabeth understands what people are doing without explanation.
 
 No separate `Camp exists` or `archive life` proof chapter.
+
+Camp specificity should come from **what experienced residents notice and do**, not from extra decorative detail.
 
 ## 13. Shade ordinary life
 
@@ -204,6 +217,8 @@ Also add **one concrete expected future**:
 
 something Shade believes he will do next week/later.
 
+His ordinary work should preferably intersect with an already-needed Camp procedure so personhood, Camp specificity, archive continuity, and later loss are earned in the same active material.
+
 This chapter proves personhood once.
 
 From here onward, the story assumes it.
@@ -212,52 +227,102 @@ From here onward, the story assumes it.
 
 # ACT V — THEY TRY NOT TO DO THE WRONG THING
 
-## 14. No good answer -> first alternative
+## 14. Pathwell pays first -> distance test
 
-Do not make this a debate-only chapter.
+Do not begin with an options seminar.
 
-The conflict about options must immediately produce action.
+The first less-invasive response is currently:
 
-Requirements:
+> **Pathwell leaves Camp while Shade stays.**
 
-- danger is real;
-- Shade refuses reintegration;
-- first less-invasive option is selected;
-- the option is attempted;
-- its result changes what they try next.
+Why this passes the authority test:
 
-Shade's ordinary Camp relationships continue in the background without another personhood chapter.
+- Pathwell acts on his own location rather than Shade's existence;
+- Shade is not exiled for a problem he did not create;
+- Camp gets to decide whether it continues sheltering Shade;
+- Pathwell bears a real cost himself.
 
-## 15. Second-stage alternative / Pathwell restraint
+The scene must **test** something.
 
-Must contain the most important new evidence:
+Provisional experimental result:
 
-- Pathwell sees a moment where he could take over;
-- he actually stops;
-- somebody else's choice governs;
-- the alternative produces **real partial success** or at least credible relief;
-- the success carries a new cost/limitation.
+- distance provides some relief;
+- the underlying cleanup problem does not disappear.
 
-Without this chapter/function, the later reintegration is too easy to excuse as emergency reflex.
+Do not lock the exact magical behavior until the Shade/cleanup mechanics blocker is solved.
 
-## 16. Waiting -> worsening event
+The important causal result is:
 
-Not a waiting montage.
+> therefore distance alone is insufficient.
 
-Camp lives under the temporary arrangement.
+Shade's ordinary Camp relationships continue in the background without another personhood-proof chapter.
 
-Shade behaves as someone with an expected future.
+## 15. Camp chooses the slower method / Pathwell restrains himself
 
-Then a concrete event demonstrates that restraint also has cost:
+Because distance is insufficient, Camp chooses a temporary risk-management approach using **already established** procedures/tools rather than a new convenient magic system.
 
-- someone is endangered;
-- cleanup pressure breaches a safeguard;
-- Camp must evacuate/lose something;
-- or equivalent consequence consistent with the final mechanics.
+Possible components already supported by the story:
 
-This event must make a reasonable Pathwell believe continued waiting may itself be irresponsible.
+- Stansbury's defensive/disruptive weapons;
+- watch/response procedures;
+- restricted access around especially vulnerable archive areas;
+- evacuation readiness;
+- observation/logging of draw/cleanup behavior;
+- keeping Pathwell physically separate where useful.
 
-Only then does he decide they have waited long enough.
+The plan must produce **real partial success**.
+
+This is critical.
+
+During a tense warning sign:
+
+- Pathwell sees a stronger intervention he could impose;
+- Mama / Camp / Shade choose to continue the agreed slower procedure;
+- Pathwell actually stops himself.
+
+For once, somebody else's choice governs while Pathwell still believes his own option is better.
+
+The slower plan works well enough to give genuine relief.
+
+**But:** it carries ongoing burden and does not remove the underlying condition.
+
+Without this function, the later reintegration is too easy to excuse as emergency reflex.
+
+## 16. Waiting under a working plan -> concrete breach
+
+This is not a waiting montage.
+
+Because the temporary plan is working, they keep using it.
+
+Camp lives.
+Shade continues behaving like someone who expects next week to happen.
+Pathwell has to experience responsibility without complete control.
+
+**But:** a mechanically consistent cleanup event breaches the temporary arrangement and causes serious harm, near-loss, evacuation, or equivalent consequence.
+
+The exact breach remains blocked on the final cleanup rules.
+
+The event must prove:
+
+> **restraint and waiting also impose real costs.**
+
+Now a reasonable Pathwell can conclude that continued delay may itself be irresponsible.
+
+Shade can still reasonably refuse reintegration.
+
+Camp can still refuse to grant Pathwell blanket authority.
+
+Only then does Pathwell decide that the danger has crossed the line anyway.
+
+**Therefore:** forced reintegration.
+
+The moral structure is not:
+
+> good option failed, so Pathwell chose bad option.
+
+It is:
+
+> every available option protects something legitimate and makes someone else pay.
 
 ---
 
@@ -334,7 +399,10 @@ Use an active museum-repair/restitution problem in which:
 - Elizabeth's preference materially matters;
 - Pathwell behaves differently without making a show of it;
 - the museum debt remains incomplete;
-- Elizabeth and Pathwell are also recognizably able to enjoy one another again.
+- Elizabeth and Pathwell are also recognizably able to enjoy one another again;
+- some reciprocal humor / teasing / wrong-register play returns **after** Pathwell respects one of her choices, showing renewed affiliation rather than merely ethical approval.
+
+The scene should not contain a speech in which Elizabeth certifies that Pathwell has changed.
 
 If Chapter 20 can accomplish this relationship-specific function honestly, combine them.
 
