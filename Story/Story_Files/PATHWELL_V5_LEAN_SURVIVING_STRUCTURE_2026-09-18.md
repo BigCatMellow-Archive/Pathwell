@@ -418,8 +418,11 @@ Keep brief.
 
 - another family's cookbook triggers replacement instinct;
 - Pathwell leaves it alone;
-- do not retest every lesson;
-- pruning capability need not be tested;
+- Pathwell privately considers whether he could still prune and recognizes that he could attempt to test the question;
+- **he deliberately does not test it**;
+- neither Pathwell nor the reader learns whether the ability still exists;
+- the unresolved capability is intentional: he no longer needs uncertainty converted into an answer;
+- do not retest every other lesson;
 - Elizabeth has chosen the next destination;
 - she asks Pathwell to come;
 - he chooses yes.
