@@ -258,3 +258,32 @@ Before promoting any future story change, ask:
 6. If it is clever but not necessary, should it be removed?
 
 Do not let accumulated assistant architecture outrank the original story merely because it is newer or more elaborate.
+
+
+# 12. Author decision — Pathwell deliberately refuses to learn whether he can still prune
+
+The ending should preserve **intentional uncertainty** about Pathwell's pruning capability.
+
+Selected behavior:
+
+- Pathwell thinks about whether he can still prune;
+- he understands that he could attempt to test the question;
+- he chooses not to;
+- he receives no evidence either way;
+- the reader receives no evidence either way.
+
+The important change is not:
+
+> Pathwell discovers he can live without pruning.
+
+It is:
+
+> **Pathwell discovers he can live without knowing.**
+
+For a character whose instinct is to convert uncertainty into action, procedure, and solution, refusing the test is itself meaningful.
+
+Do not later answer this through implication, side effect, another character, or mechanical exposition.
+
+This is an intentional unknown.
+
+It should remain brief so Elizabeth's chosen next direction still owns the ending.
