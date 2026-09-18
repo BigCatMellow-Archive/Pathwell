@@ -644,3 +644,31 @@ Current genuine disagreements / open comparisons:
 6. How philosophically explicit the final manuscript should be — now largely resolved: philosophy stays backstage.
 
 Items explicitly marked **not current disagreements** include Elizabeth remaining nonmagical, no Pathwell/Elizabeth romance, diary buyback remaining removed, Camp healer owning museum treatment, smaller Stansbury arc, diner recognition timing, Elizabeth choosing Camp, Elizabeth issuing the final invitation, and the scene-necessity anti-bloat rule.
+
+
+### Author decision — Pathwell refuses to learn whether he can still prune
+
+The prior open disagreement over whether the ending should prove Pathwell's pruning capability is now resolved.
+
+Selected behavior:
+
+- Pathwell considers whether he can still prune;
+- he recognizes that he could attempt to test the question;
+- he deliberately chooses **not** to test it;
+- neither Pathwell nor the reader receives evidence of capability or incapacity;
+- no later side effect, authority figure, or exposition should answer the question.
+
+Core meaning:
+
+> **Pathwell can live without knowing.**
+
+This differs from merely leaving the mechanic unexplained. The unknown is itself chosen.
+
+For a character whose long-standing reflex is to convert uncertainty into action/procedure/solution, refusing the test is a meaningful end-state behavior.
+
+Files updated:
+
+- `PATHWELL_AUTHOR_EDITORIAL_DISAGREEMENT_REGISTER_2026-09-18.md` — commit `d01f32205422fc0aeab76a2a3c8abbf4a7a3b5ac`
+- `PATHWELL_V5_LEAN_SURVIVING_STRUCTURE_2026-09-18.md` — commit `a0d2e9be2319adca00ffe47b88472930406d9ff1`
+- `PATHWELL_CURRENT_AUTHOR_INTENT_SHADE_CONSEQUENCE_NOTES_2026-09-18.md` — commit `efd7e258cc96752b95980e36dca5e33f3a18c473`
+- `PATHWELL_V5_TARGETED_ARCHITECTURAL_CORRECTION_PLAN_2026-09-18.md` — commit `a8e848eaca2756a5a722ae6dfe7f6d3c13dadf59`
