@@ -203,11 +203,13 @@ He finally permits an important fact about himself to remain unresolved.
 
 ## Important handling
 
-The scene should make clear enough that **a test is conceivable**.
+The final cookbook beat carries the decision **without turning it into an explicit capability test**.
 
-Pathwell considers it.
+Pathwell sees another family's cookbook in the Space Between and thinks about buying it for Elizabeth.
 
-He does not begin the prune far enough to produce evidence.
+He silently puts it back.
+
+He does not ask the price, begin a transaction, or ask himself in explicit prose whether pruning still works.
 
 Do not show:
 
@@ -215,6 +217,8 @@ Do not show:
 - a failed attempt proving inability;
 - an external authority telling him whether he still can;
 - a later scene answering the question indirectly.
+
+The capability uncertainty survives because Pathwell declines to pursue the chain of action that might answer it.
 
 The reader remains in the same uncertainty Pathwell accepts.
 
@@ -232,11 +236,9 @@ That is especially appropriate if Shade's fate teaches him that responsibility d
 
 ## Relationship to Elizabeth's ending
 
-Keep this moment brief enough that it does not reclaim the ending from Elizabeth.
+Keep this moment nearly wordless.
 
-Pathwell considers the unanswered question.
-
-He leaves it unanswered.
+Pathwell puts the cookbook back.
 
 Then Elizabeth arrives having chosen where she wants to go next.
 
