@@ -416,16 +416,17 @@ Otherwise keep both.
 
 Keep brief.
 
-- another family's cookbook triggers replacement instinct;
-- Pathwell leaves it alone;
-- Pathwell privately considers whether he could still prune and recognizes that he could attempt to test the question;
-- **he deliberately does not test it**;
-- neither Pathwell nor the reader learns whether the ability still exists;
-- the unresolved capability is intentional: he no longer needs uncertainty converted into an answer;
-- do not retest every other lesson;
-- Elizabeth has chosen the next destination;
-- she asks Pathwell to come;
-- he chooses yes.
+- while moving through the Space Between, Pathwell finds another family's cookbook that reminds him of Nana's;
+- his old instinct is immediate: **buy it for Elizabeth; replace what was lost; make the damage smaller**;
+- he considers it, then silently puts the cookbook back;
+- he does **not** ask the price, begin a transaction, or test whether pruning is still available to him;
+- neither Pathwell nor the reader learns whether he can still prune;
+- the capability question remains intentionally unresolved because Pathwell does not want to know badly enough to turn the moment into another procedure;
+- there is no explanatory dialogue around the cookbook;
+- Elizabeth comes over after he has put it back;
+- she has already chosen the next destination;
+- she asks if he is ready;
+- he answers freely.
 
 End:
 
