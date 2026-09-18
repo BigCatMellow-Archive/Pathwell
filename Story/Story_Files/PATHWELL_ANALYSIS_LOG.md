@@ -377,3 +377,47 @@ Required verdict is exactly one of:
 - `MAJOR ARCHITECTURAL REVISION STILL REQUIRED`
 
 Do not begin manuscript rewrite before this independent review is resolved unless explicitly directed otherwise.
+
+
+### V5 fresh independent review result
+
+File: `PATHWELL_V5_FRESH_INDEPENDENT_REVIEW_RESULT_2026-09-18.md`
+
+Commit introducing file: `6f8fa4819a2eadc9d43fbdd6faba33c511606662`
+
+Verdict:
+
+> **V5 NEEDS TARGETED ARCHITECTURAL CHANGES**
+
+Highest-priority findings:
+
+- the proposed Shade-survival severance does not yet follow from the established cleanup/pruning rules;
+- Pathwell's waiting/restraint period is still described more than causally architected;
+- several dwell-time intervals risk becoming visible proof-chapters/padding;
+- museum and reintegration danger must remain credible enough that Pathwell is understandable before being wrong;
+- restitution currently proves ethical improvement more strongly than renewed Elizabeth/Pathwell companionship;
+- the Milo rescue should carry loss/consequence weight rather than being overloaded as the ultimate self-direction proof;
+- author-side philosophical design must remain hidden in manuscript execution.
+
+The review considered the V5 candidate substantially stronger than V4 but not ready for consolidation.
+
+### V5 targeted architectural correction plan
+
+File: `PATHWELL_V5_TARGETED_ARCHITECTURAL_CORRECTION_PLAN_2026-09-18.md`
+
+Commit introducing file: `03f1c90e2981539d706084a47bea7a00862ead7d`
+
+Priority order:
+
+1. solve the Shade survival / cleanup contradiction;
+2. architect the actual alternatives-and-waiting therefore/but chain;
+3. recalibrate Pathwell's museum/reintegration threat judgments;
+4. combine or activate dwell-time proof chapters;
+5. define the smaller adventure so it causally leads to the bar;
+6. define the post-bar withholding/route conflict that causes the crash;
+7. select a recurring Camp routine, archive object, and cookbook afterlife beat;
+8. give Shade a concrete expected future;
+9. add relationship-specific evidence that earns Elizabeth choosing Pathwell again;
+10. suppress explicit author-side philosophy from manuscript prose.
+
+Do not promote V5 or begin manuscript rewriting until the correction gate in that file is satisfied.
