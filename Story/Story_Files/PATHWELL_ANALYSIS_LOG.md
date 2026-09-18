@@ -421,3 +421,26 @@ Priority order:
 10. suppress explicit author-side philosophy from manuscript prose.
 
 Do not promote V5 or begin manuscript rewriting until the correction gate in that file is satisfied.
+
+
+### V5 scene necessity audit
+
+File: `PATHWELL_V5_SCENE_NECESSITY_AUDIT_2026-09-18.md`
+
+Commit introducing file: `84e9a80b41a7b57d8999f94142247d69bd591169`
+
+Purpose: apply the hard editorial rule that a scene survives only if removing it materially weakens a later beat. Redundant standalone proof containers are cut or merged.
+
+### V5 lean surviving structure
+
+File: `PATHWELL_V5_LEAN_SURVIVING_STRUCTURE_2026-09-18.md`
+
+Commit introducing file: `050c3aaea66c19a807ab40bb4b436d48ad5b78ec`
+
+Status: current post-audit correction skeleton; not formal V5 or manuscript canon.
+
+The candidate drops from roughly 27 exposed chapter-functions to roughly 22 maximum justified functions, with further reduction allowed. Standalone `Camp gets to exist`, exclusion, tracking, `Shade is old news`, diary/archive-life, pure options discussion, and detached Shade-resolution containers are removed or merged into active scenes.
+
+Hard rule going forward: if removing a scene does not specifically damage causality, character choice, relationship evidence, world attachment, setup/payoff, escalation, or necessary contrast, cut it. If two scenes protect the same later effect, combine them.
+
+Shade survival/cleanup mechanics remain unresolved and still block formal V5 consolidation.
