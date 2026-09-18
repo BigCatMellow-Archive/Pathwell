@@ -444,3 +444,41 @@ The candidate drops from roughly 27 exposed chapter-functions to roughly 22 maxi
 Hard rule going forward: if removing a scene does not specifically damage causality, character choice, relationship evidence, world attachment, setup/payoff, escalation, or necessary contrast, cut it. If two scenes protect the same later effect, combine them.
 
 Shade survival/cleanup mechanics remain unresolved and still block formal V5 consolidation.
+
+
+### Writing Bible application audit
+
+File: `PATHWELL_WRITING_BIBLE_APPLICATION_AUDIT_2026-09-18.md`
+
+Commit introducing file: `14d395cc55b3ca1ded425b836bdffbdfb5aa8671`
+
+Source basis:
+
+- `BigCatMellow/Pilot_Projects`
+- branch: `writing-bible-bootstrap`
+- inspected branch head: `7c2762130447f673e0e3b48df77af1894b733ff5`
+
+Important authority note: the Writing Bible remains research-open with **no promoted rule corpus**. Its material was applied as diagnostic lenses, not imported as authority over Pathwell.
+
+Highest-value findings:
+
+- Pathwell's flaw is more precisely a confusion among expertise, prestige, resource control, dependence, delegated authority, responsibility, and actual decision ownership rather than one generic `authority` variable.
+- the late Shade/Camp problem should be built as a conflict among legitimate goods so Pathwell remains understandable before he is wrong;
+- Elizabeth's second crash benefits from moral-luck complexity rather than being sanitized into a consequence-free empowerment beat;
+- humor can carry relationship/status information and may be one of the best ways to earn renewed Elizabeth/Pathwell companionship without another proof scene;
+- Pathwell needs a small reader-state/disclosure ledger for the central mystery because story truth, character knowledge, reader belief, and reader expectation are not the same;
+- Camp specificity should come from expertise/procedure rather than generic atmosphere; one recurring archive procedure may perform several currently needed story jobs;
+- major dialogue beats such as the Ask, `I don't need to be rescued`, `Let it be`, and final `Ready?` are strongest when treated as social actions rather than thematic statements;
+- current exact callbacks are strong because later context transforms earlier meaning; do not add callbacks merely because callback research exists;
+- the unresolved Shade-survival mechanic remains blocked; the Writing Bible's mechanism-over-theme discipline strengthens the case against a climax-only magical exception.
+
+The audit also found several current `Writing-Principles.md` rules stale or over-universal and recommends a cleanup before manuscript drafting, especially:
+
+- `The Antagonist Is a Mirror` — stale for current Shade;
+- `One Unexplained Thing Per Chapter` — quota-driven decorative mystery risk;
+- `The Lie and the Truth` — too schematic as a universal character model;
+- `The Body Knows First — Always` — `always` is unjustified;
+- `Subtext Over Text` — should become recoverable inference rather than compulsory indirectness;
+- default incomplete/evasive answers — should arise from motive/knowledge/reader-state rather than rule.
+
+No manuscript or Pathwell writing-principle file was changed by this audit.
