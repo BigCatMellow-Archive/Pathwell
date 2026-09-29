@@ -1,0 +1,101 @@
+# History: lessons from the first collection
+
+## Status
+
+**Archive and writing reference: an anonymized record of how the first Sunday Morning collection was developed, kept as evidence behind the method.** The first collection was seven stories, about 32,000 words, written 2026-09-27 to 2026-09-29. This page owns what happened, what was checked, what went wrong, and where each lesson lives now. It's evidence, not instruction. The method is on [Pipeline](Pipeline.md); craft is on [Craft](Craft.md); rulings are on [Decisions](Decisions.md). During that work, each story's own change notes lived on its story page, in the development record.
+
+This page is closed: it records the first collection. Each new collection keeps its own pass log (`History.md` in its folder; see [Starting a new collection](README.md#starting-a-new-collection)): one timeline row per collection-wide pass, and a line in the check log if an independent check ran. A lesson that changes the method is folded into Pipeline, Craft or Rules, and gets a line here under [what went wrong](#what-went-wrong-and-where-the-lesson-lives-now).
+
+## Summary
+
+Seven story concepts went from a framework import to fourth-pass prose drafts, about 32,000 words. The planning half (THINK and PLAN to L2, the tie to the larger web and the collection design) worked largely as designed. The drafting half taught most of the lessons. It took four drafting passes, and each of the last three corrected a mistake the previous one had made about *voice* or *sameness*, not about plot.
+
+The most important lesson: **get the author's own voice before drafting a word.** The first draft was written in a voice James never provided, and three passes went into getting back to his.
+
+## Timeline
+
+| Step | What happened |
+| --- | --- |
+| 1. Import | The Sunday Morning framework was imported verbatim, with a guide for applying it to the setting and seven story concepts (L0). |
+| 2. Method | MAPS_L, THINK and PLAN were reviewed and adapted into the [story pipeline](Pipeline.md), then piloted on one story. |
+| 3. Plans | All seven were taken to L2: THINK pass, PLAN handoff, scene plan, promise ledger and reconsideration triggers. Every THINK pass changed at least one load-bearing premise (see [below](#what-the-think-passes-changed)). |
+| 4. Tie to the larger web | At James's direction, the collection was tied into the saga's cause-and-effect web: "background only" became [connected, not driven](Rules.md#connecting-to-a-larger-story). Every story became a node on the larger web. |
+| 5. Deeper THINK/PLAN | A collection-level pass ([Collection](Collection.md#collection-level-think-and-plan)) and a reserve-method pass on each story, every method tied to a named failure signal. The [cross-story promise ledger](Collection.md#cross-story-promise-ledger) was created. |
+| 6. Connected offers | James decided that two anonymous offers, in two different stories, share one hand. |
+| 7. First drafts | All seven drafted to L3 from their scene plans. |
+| 8. "How do you know it's my voice?" | James asked, and the honest answer was that nothing had been based on his writing. He shared two sample chapters, and all seven were rewritten to notes taken from them. |
+| 9. The voice guide | James shared an in-depth analysis of his style. It showed the rewrite had **overcorrected** into fragments, which the guide warns against by name. The guide became the authority on voice. |
+| 10. Test story | Rather than rewrite all seven again, one story was revised against the guide. James approved it. |
+| 11. "That formulaic… That sounds pretty predictable" | The plan to give every story the same guide-driven beats was dropped; the guide is applied as a sensibility. Two formula beats (a late wife, a smell-of-home moment) were removed. |
+| 12. Fit and uniqueness | All seven checked against the project's goals and each other. Six of seven were resolved by reading a document closely; two climaxes and several openings and endings changed. |
+| 13. Names and phrases | James noticed that two protagonists shared initials. Six names changed, and one replacement created a new clash that the new checker caught. The checker also found repeated five-word phrases across stories that no reading pass had noticed. The [Registry](Registry.md) and `tools/sunday_morning_check.py` were added. |
+| 14. Sunday Morning check | An audit against the Framework found every story kept the core promise, but the guide's "unexpectedly sad" had overshot in places: one story told the same estrangement three times; a character was shamed in public; one story's stakes had grown to a whole region; "bad year" exposition repeated across stories. Fixed by lightening, not cutting feeling. The [tone guardrails](Rules.md#tone-guardrails) came from this. |
+| 15. Storytelling principles | James's Pathwell notes were adapted into [Craft](Craft.md#telling). A diagnostic pass found no "and then" transitions and no scene that failed the deletion test, but sixteen places where the narrator or a character explained what the scene had just shown, including three grammar lectures earlier passes thought were gone. All were cut. The checker began counting filter verbs. |
+| 16. Notes reorganized | At James's request, nine flat note pages that had grown by accretion (plus the old folder index) were consolidated into one indexed notes folder, one owner per concept. |
+| 17. Notes pass | At James's request, independent audits of each draft and of the whole collection against the new notes. Every story already met them; the fixes were small: continuity (one story's timeline, a count of judges, a permit list, a region's terrain), a fair-play gap in one story (why nobody opens the obvious container), setups for payoffs (a pledge's clause, a character staking a path), one story's missing meal, and cross-story echoes (the same retelling twice, "wrote everything down", one character's grievance in another's mouth, two near-identical names). Explanation after showing and extra silences were trimmed. |
+| 18. L4 review | At James's go-ahead, an independent JUDGE for each story read it cold, as a reader, before checking it against its plan and the notes, and a separate reader read all seven in order, cold. All seven passed (six with small fixes). The fixes were line-level clarity (who a character's relative was, who built a boat, which half of town was whose), explanation after showing, and one motivation (why a character put back the wrong stone). One story's ending was reordered so it no longer ends twice, and another's ending changed after two readers recognized it as a different story's ending. The in-order reader confirmed the collection's intended reader state, including an inference the sixth story relies on. |
+| 19. Spoken register | James: people used to tell him he "wrote how people talked", and the drafts lacked it, in narration as much as dialogue. Research (free indirect style and Kenner's "Uncle Charles principle"; Elmore Leonard's "If it sounds like writing, I rewrite it") became [Craft: Write how people talk](Craft.md#write-how-people-talk), and the checker now counts uncontracted forms in narration. One story was rewritten first as the test story. |
+| 20. Mapping the web | At James's request, every event in the saga's web was mapped with the stories placed on it, showing which parts had no story yet. One data file is the source; a script validates it and generates the map. First count: of 30 ground-level events, 7 had a story, 14 were touched, 4 had only a story seed and 5 were open. |
+
+## Check log
+
+Every pass got a fresh check from a subagent that hadn't written the text. It found something real every time; the writer never caught these on its own.
+
+- **First drafts (step 7):** checked against the story pages, the cross-story ledger and the connected-not-driven rule. *Held everywhere:* the saga's antagonist never appears; the hidden powers never act as a named body; nobody connects the two anonymous offers; no open question in the setting's owner pages is settled; nothing the setting rules out appears, and the antagonist's scheme does no on-page harm; the ledger's cross-story details match. *Fixed:* a mechanism and its countdown that didn't work as written; a pledge's wording, which gave its twist away; lines past the canon limit for the saga's protagonist; a ledger item's wording; an object's path from one story into another; the versions of a clause within one story; small number and date slips; one event's date across stories; two status lines that read as if they marked things canon.
+- **Voice rewrite (step 8):** compared with the first pass. No lost cross-story links, no canon breaks, consistent timings. *Fixed:* a custom that read as a whole region's rather than one village's, a missing step in one story's mystery, dropped countdowns, an orphaned callback, one lost joke and some narrator wit.
+- **Guide revision (steps 10–11):** drift, canon and repetition across the collection. No lost cross-story details. *Fixed:* three continuity holes (a form's condition, the set-up for a character's "we", a log's dating) and repeated moves: old records read aloud, "wrote it down" and silence as scene endings, two favor-asking endings, the same thirty-year custodian figure twice, tea twice.
+- **Fit and uniqueness (step 12):** found the six document resolutions, repeated dialogue openings, back-to-back favor endings, two "I saw it" endings from the same region and pairs of stories sharing devices. A fresh review then checked each story against the Framework, the connected-not-driven rule, the collection design and the voice guide, and every one passed. It built a uniqueness matrix and caught the continuity slips the changes introduced.
+- **Names (step 13):** the checker's first run caught a cluster of three names sharing the same opening syllable that the manual audit had missed.
+- **Sunday Morning (step 14)** and **storytelling (step 15):** audits against the Framework and the Pathwell diagnostic; findings above.
+- **L4 review (step 18):** a cold read per story plus a cold in-order read of all seven. Nothing failed canon, the ledger or the tone rules. The in-order reader felt structural sameness (a countdown, a word that means more than assumed, a public reckoning, a feast) by stories 5 and 6. It's the collection's design, and they thought it mostly disappears read one a week. The sharpest echoes were cut.
+
+## What worked
+
+- **Plans before prose.** L2 scene plans with "must establish" items and promise ledgers gave every later pass something to check drift against. Four rewrites kept every cross-story detail because the ledger said exactly what had to survive.
+- **THINK's fixed four as a single path.** Every THINK pass changed a premise, and none needed branching, matching THINK's own finding.
+- **Reserve methods only on named failure signals.** Perspective shift, inversion and systems thinking earned their place by fixing specific problems (a faceless antagonist, a too-tidy win, stories that didn't touch each other).
+- **Independent checks after every pass** (see the [check log](#check-log)).
+- **One test story before a batch.** Revising one story alone, and waiting for James's verdict, cost one story instead of seven.
+- **Recording the trail.** Each story page's development record kept what drafting changed and why, including reversed versions, so any decision can be undone.
+
+## What went wrong, and where the lesson lives now
+
+| Problem | Cause | Lesson | Now lives in |
+| --- | --- | --- | --- |
+| First drafts in a generic, cozy storybook voice | Drafting began with no sample of the author's writing | Get the author's voice before the first draft | [Pipeline: before the first draft](Pipeline.md#before-the-first-draft) |
+| The first voice rewrite overcorrected into fragments | Two short samples were read for their most visible habits, not their range | A voice read from a small sample is a hypothesis; test it on one story before a batch | [Pipeline](Pipeline.md#before-the-first-draft) (test before batch); [Craft: voice](Craft.md#voice) |
+| A checklist of beats applied to every story | The guide's examples were read as requirements | Treat a voice guide as a sensibility | [Craft: voice](Craft.md#voice); [Decisions: standing rulings](Decisions.md#standing-rulings) |
+| Six of seven stories solved by reading a document | Each plan was sensible alone; the running element (language habits) pulled every story toward textual precision, and nobody compared shapes | Check the collection's *shapes* before drafting | [Pipeline: collection shape check](Pipeline.md#collection-shape-check-for-a-set-of-stories); [Registry: story shapes](Registry.md#story-shapes) |
+| Scene endings became a new habit after each fix | Removing one tic in bulk invites a replacement | Look for the replacement tic | [Pipeline: after every pass](Pipeline.md#after-every-pass) |
+| Status notes drifted from the text ("no beats added") | Notes were written from intent, not from the diff | Write change notes from the diff | [Pipeline: after every pass](Pipeline.md#after-every-pass) |
+| Two protagonists shared initials; other names clustered | Names invented story by story with no shared list; even the fix introduced a clash (a new name that nearly matched an existing one) | Register names at L0 and run the checker | [Pipeline: Stage 0](Pipeline.md#stage-0--add-a-story); [Registry: names](Registry.md#names) |
+| Too much sadness; a public shaming | The guide's "unexpectedly sad" was followed without the Framework's limit | The Framework sets tone; the guide works inside it | [Order of authority](README.md#order-of-authority); [tone guardrails](Rules.md#tone-guardrails) |
+| Explaining what a scene had just shown | The commonest AI-drafting habit, and one of James's own | Tell it like the sequel, then stop | [Craft: scene diagnostic](Craft.md#sunday-morning-scene-diagnostic) |
+| Notes grew as flat pages that repeated each other | Each pass added a page or section where it was working | One concept, one owner, with an index and a rule for where new notes go | [README: keeping the notes tidy](README.md#keeping-the-notes-tidy) |
+
+## What the THINK passes changed
+
+From the pilot and the six that followed it. Every THINK pass changed at least one load-bearing premise, and none needed branching. With the story names removed, each change is a lesson about making the mechanism true:
+
+- In the pilot, the season's traffic and the physics of weight shaped the mechanism, the caravan master became a victim, and the story turned on a confession.
+- A repair that needs no fire couldn't make the wait; a cracked tang did. The dispute became one about quench water, which the protagonist's own work can answer, and the saga's protagonist asks a question instead of winning an argument.
+- Festivals follow crops, so a bumper harvest caused the collision between two celebrations. A feast can't eat a granary, so patronage plus redistribution did, and the protagonist makes the sides settle instead of ruling.
+- The grandmother isn't testing anyone; the ritual belongs to one family, not a whole region; a side character holds the missing fragment.
+- Sixty years of interest can't be paid, so the pledge's own wording resolved it.
+- A cooper can't build a boat in weeks but can steam a plank; an elder's "we" must follow something he witnessed.
+- Terms in an institution's own file would have been found; they now sit in a sealed archive deposit nobody asked for.
+
+## The drafts against the voice guide, second pass (superseded)
+
+An assessment from 2026-09-27, kept as evidence of what the guide revision fixed. The third pass addressed the rhythm, endings and shared-humor gaps; it no longer describes the drafts.
+
+| Guide says | The second-pass drafts | Gap then |
+| --- | --- | --- |
+| Rhythm varies: medium sentences by default, fragments for danger and comedy | Fragments and one-line paragraphs almost everywhere; a "Then X." habit | Large |
+| Not every scene ends on a joke | Most scenes ended on a button line | Large |
+| Not everyone shares the same sense of humor | Six characters across the stories, from a tea seller to a permit clerk, all used the same dry deadpan | Large |
+| "That was unexpectedly sad" | Present in places, rarely allowed to stay quiet | Medium |
+| Philosophy through question → choice → consequence | Mostly implicit in the plot | Medium |
+| The comic character sometimes stops joking | Few characters dropped the act | Medium |
+| Emotion through objects | Mostly met | Small |
+| Mundane concerns during big events | Mostly met | Small |

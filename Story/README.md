@@ -34,6 +34,16 @@ Story_Files/
 
 These files explain the manuscript but are not themselves chapters.
 
+## Sunday Morning notes
+
+A general guideline for writing Sunday Morning stories (low-pressure, character-forward stories) in any setting: the framework, James's voice guide, rules, craft, a step-by-step pipeline, collection templates and a freshness checker. It isn't part of the Pathwell manuscript.
+
+```text
+Sunday-Morning/
+```
+
+Start at `Sunday-Morning/README.md`.
+
 ## MAP coordination system
 
 The project-local MAP coordination system lives in:
