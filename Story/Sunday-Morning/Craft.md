@@ -6,6 +6,7 @@
 
 - the storytelling principles, adapted from the author's Pathwell notes;
 - how to use the author's [voice guide](Sources/Voice-Guide.md);
+- writing against sameness, and awareness of common AI tells;
 - who writes what, AI or the author;
 - The author's own watch-list of habits;
 - the scene diagnostic run on every draft.
@@ -111,7 +112,7 @@ Listen for cadence, character voice, comic timing, awkward exposition, repeated 
 
 **Sample-chapter habits that still hold,** because the guide agrees with them: starting in motion; dialogue carrying scenes; humor from character contrast and mundane worries; feeling through smell and taste; grief carried by objects; callbacks; a turn on the last line.
 
-**Narration with an opinion, reconciled** ([W3](Decisions.md#working-decisions)). Pathwell's [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md) warns that the author's narration can go invisible ("half the wit lives in the narration's asides", of Pratchett). The guide warns against "self-consciously clever narration". Both hold: **narration may have attitude, a point of view that notices and judges, but it shouldn't compete with the characters for laughs.** Earlier passes on the first collection cut narrator jokes to about one per story. That was a fair correction for AI-drafted prose, not a rule that narration has no voice. When the author writes over these drafts, the narration's attitude is his. For Pathwell, the narrator's register (when it is present and when it steps aside) is in [pathwell_narrator_register.md](../Story_Files/pathwell_narrator_register.md).
+**Narration with an opinion, reconciled** ([W3](Decisions.md#working-decisions)). Pathwell's [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md) warns that the author's narration can go invisible ("half the wit lives in the narration's asides", of Pratchett). The guide warns against "self-consciously clever narration". Both hold: **narration may have attitude, a point of view that notices and judges, but it shouldn't compete with the characters for laughs.** Earlier passes on the first collection cut narrator jokes to about one per story. That was a fair correction for AI-drafted prose, not a rule that narration has no voice. When the author writes over these drafts, the narration's attitude is his. **The narrator has its own voice,** and its register says where that voice speaks and where it steps aside ([writing against sameness](#writing-against-sameness)). In the Pathwell revision a note reading the author's quiet sample narration as the target was wrong: his own watch-list names invisible narration as his weakness. For Pathwell, the register is [pathwell_narrator_register.md](../Story_Files/pathwell_narrator_register.md).
 
 ### Write how people talk
 
@@ -126,12 +127,47 @@ The author's own strength, in his words: people told him he "wrote how people ta
 
 **Sources:** [Uncle Charles Principle (Wikipedia)](https://en.wikipedia.org/wiki/Uncle_Charles_Principle); [Story Street Writers on the Uncle Charles principle](https://storystreetwriters.com/writing-craft/mind-the-gap-how-the-uncle-charles-principle-and-its-adaptations-can-close-the-gap-between-narrator-and-reader-in-different-narrative-points-of-view/); [Elmore Leonard's 10 Rules of Writing](https://www.themarginalian.org/2013/08/21/elmore-leonard-10-rules-of-writing/); [Kathy Steinemann on contractions](https://kathysteinemann.com/Musings/contractions/).
 
+## Writing against sameness
+
+**The biggest lesson of the Pathwell revision (2026-09-30).** A single sentence rarely gives AI prose away. What does is *sameness*: a small set of polished moves used with the same success everywhere. The same joke construction twice in a chapter, every character sharing one dry deadpan, a clever conceit in every paragraph, and a neat closing line on every scene. The Pathwell revision brought its checker numbers (contractions, "Not X. / Y." fragments, commentary) close to the author's own chapters, and the chapter still read as generated, because the sameness was untouched ([D17](Decisions.md#standing-rulings)). The voice guide already asks for everything below ("everyone sharing the same sense of humor", "Do not turn every observation into a clever observation", "Not every line should be quotable"). This section turns it into steps. What research reports about AI fiction is collected, for awareness, in [AI tells](Sources/AI-Tells.md) ([D18](Decisions.md#standing-rulings)).
+
+These are guides for judgment, not rules. Any of them can be broken on purpose. What they catch is a move made by habit.
+
+**Before writing a scene**
+
+- **Map the narrator's register.** Mark the stretches where the narrator steps aside (action, sensation and magic, the line after a punchline, any character whose register is precise) and where it's present (arrivals, transitions, aftermath, one-line character observations, what the viewpoint character hasn't named yet). The narrator's attitude goes where the map puts it, and usually small: "anyway", "probably", the wrong detail noticed, an absence noted. A setting can own its narrator's register (Pathwell's is [pathwell_narrator_register.md](../Story_Files/pathwell_narrator_register.md)).
+- **Know whose joke it is.** Give each character a source for their humour: their worldview and defences, what they notice, how they dodge ([Craft 16](#16-humor-is-social-action-carries-over); the voice guide's "Pathwell-Style Comic Character"). Before a joke goes in, ask whether someone else in the scene could have said it. If they could, it probably isn't that character's joke yet. A voice note that gives the whole cast one register invites one shared voice; keep the register for the book, and the humour for each person.
+- **Let the situation be funny first** (voice guide). If a scene is funny, the characters are usually sincere in it. If only the phrasing is funny, the scene is being decorated.
+
+**While writing**
+
+- **Let people think like people.** Worries, lists, wrong guesses and half-finished thoughts, not a neat diagnosis of their own psychology. A line where a character names her own motive precisely is emotional material: flag it for the author.
+- **Usually no more than one polished closing line per scene:** an aphorism, a neat reversal, a two-part antithesis, a "for the first time" turn. Most paragraphs can end on an action, a line of dialogue or a plain fact.
+- **Some texture is just texture.** Not every object needs to be a symbol, a callback or a setup ("Do not force every event to symbolize something").
+- **Vary the move, not the words.** Synonym swaps don't help. If a construction has been used nearby, the next beat needs a different kind of move: an action, a line of dialogue, or silence.
+- **New emotional lines and new jokes stay plain and get flagged** ([who writes what](#ai-and-the-author-who-writes-what)).
+- **Never make the prose worse on purpose.** No typos, filler or random fragments. The aim is the story the guide describes, not prose that fools a detector.
+
+**After writing**, inside [after every pass](Pipeline.md#after-every-pass):
+
+- **Two benchmarks, not one number.** Compare the thinking, the senses and how distinct the voices are with the author's own writing. Compare the narrator with its register. The checker's counts are a floor, not the test.
+- **Track joke shapes** in the collection's Registry, as names and openings are tracked ([Registry: devices](Registry.md#devices-already-used)); count the ones a pattern can catch as [watch patterns](Registry.md#watch-patterns-optional).
+- **The fresh check reads for sameness.** Beyond drift and repetition, it asks:
+  1. Is any joke construction, closing line or gesture repeated within the story, or from its neighbours?
+  2. Does each joke belong to the character who says it?
+  3. Is the narrator speaking where its register says to step aside, or quiet where it should be present?
+  4. Do people think like people?
+  5. How many polished closing lines does each scene have?
+  6. Does anything on the [AI tells](Sources/AI-Tells.md) list cluster here?
+- **A detector score isn't a check** ([D17](Decisions.md#standing-rulings)).
+
 ## AI and the author: who writes what
 
 The guide sets the division of labor ("AI Collaboration Guidance"), and it applies to every pass:
 
 - **AI leads on** continuity, structure, motivation, pacing, action clarity, repeated beats and thematic consistency. The strongest AI contributions in the first collection were structural: plans, ledgers, continuity and the uniqueness matrix.
 - **AI is cautious with** jokes, emotional language, philosophical statements, character-defining dialogue, metaphors, narrator commentary and final sentence rhythm. Lines in these categories are scaffolding for the author and should be flagged for his review.
+- **New text in those categories stays plain and flagged.** When a fix needs a new emotional line or joke, put in the plainest version that does the job and list it for the author with an alternative or two. In the Pathwell revision the reviser's own new lines were among those a detector flagged hardest.
 - **A voice problem routes to DO if it's a line, and to the author if it's taste** ([routing](Pipeline.md#stage-3--do-draft)).
 - **The drafts are scaffolds for the author to write over,** not a substitute voice. Taste, humor and voice are his call, which is why L4 requires his reading ([Pipeline](Pipeline.md#stage-4--judge-review-independently)).
 

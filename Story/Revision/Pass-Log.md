@@ -316,3 +316,42 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 - stock gestures: 19, the densest in Chapters 7–9.
 
 **Lesson, for the method:** a voice note that sets one register for "all characters" invites a shared voice. Keep the register for the book, and give each character a source for their humour.
+
+## P6, 2026-09-30: the lessons folded into the Sunday Morning notes
+
+**Why:** The author asked: "lets make sure all these notes are part of the repo for pathwell sunday notes". The lessons of P1b to P5 lived in the revision's records. The method they change is this repository's copy of the Sunday Morning notes (W13).
+
+**What changed (from the diff)**, all in `Story/Sunday-Morning/`:
+
+- **Craft:**
+  - a new section, "Writing against sameness": the general principles, the before/while/after steps and the fresh check's six questions;
+  - "Narration with an opinion" now says the narrator has its own voice and a register;
+  - "Who writes what" gains the rule that new text in the cautious categories stays plain and flagged;
+  - the Status list is updated.
+- **Pipeline:**
+  - before the first draft: map the narrator's register and each character's humour;
+  - after every pass: joke shapes in step 2; checker numbers as a floor in step 3; the sameness questions, and the check that new text stayed plain, in step 5.
+- **Registry template:** a "Joke shapes already used" section, and example watch-pattern lines.
+- **Sources/AI-Tells:** new. The researched general list with its sources, each tell set against the voice guide and Craft rather than against Pathwell.
+- **Decisions:** D17 (a detector is not a target), D18 (awareness, not rules; for now only this copy changes), and W3 extended (the narrator has its own voice).
+- **History:** seven lines, marked as Pathwell-revision lessons:
+  - read the primary record;
+  - check the voice sample's history;
+  - checker numbers are a floor;
+  - track joke shapes;
+  - one register for the cast invites one voice;
+  - keep new text plain and flagged;
+  - the narrator has its own voice, and a concept's owner should be checked before archiving.
+- **README:**
+  - the index gains the AI tells row, and the Craft, Registry and History rows are updated;
+  - four new "Find it fast" questions;
+  - a new tidiness rule (check a concept has a current owner before archiving);
+  - the Status names the Pathwell additions.
+
+**In `Story/Revision/`:**
+
+- `AI-Tells.md` is now "AI tells in Pathwell": what the manuscript shows, and each tell set against this book's guides. The general tables and sources moved to the Sunday Morning notes.
+- `Writing-Against-Sameness.md` is marked as Pathwell's application of the Craft section.
+- The README's index rows and Decisions W13 are updated.
+
+No chapter file was touched. The 10 Kings copy of the method is unchanged (D18).

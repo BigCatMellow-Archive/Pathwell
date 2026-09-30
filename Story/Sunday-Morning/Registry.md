@@ -73,6 +73,19 @@ Devices that repeated in the first collection, as a starting list to watch for:
 - an unnamed polite antagonist;
 - a stamp or mark as the payoff.
 
+## Joke shapes already used
+
+A joke's *construction* repeats even when its words don't, and the reader still sees the mold ([Craft: writing against sameness](Craft.md#writing-against-sameness)). List each recurring shape and where it's used. Try not to repeat a shape within a story unless it's deliberate. Examples from the Pathwell revision:
+
+- a narrator's "as if / as though X were…" conceit, and "…nodded as though X were a Y";
+- objects and places given human verbs (a sock "surrendered", a fiddle "rejected" three notes);
+- formal phrasing as a punchline, shared by the whole cast ("Efficient system." "Important distinction.");
+- a two-part antithesis as a scene's last word.
+
+| Shape | Where |
+| --- | --- |
+|  |  |
+
 ## Stock phrases to avoid
 
 These became tics during AI drafting of the first collection, and they're a good starting list for any collection. Add the collection's own as they appear. The checker reports any listed phrase still in the drafts, and any five-word phrase that appears in two or more stories.
@@ -95,7 +108,14 @@ Also watch for, by reading (the checker can't catch them reliably):
 
 ## Watch patterns (optional)
 
-Habits that are right some of the time, where the question is how often rather than whether: a sentence shape, an evaluative follow-up, a recurring gesture. Each line is `- label :: regex`, counted per 1,000 words of narration; end the line with `:: all` to count dialogue too. The checker reports the counts; it never treats them as errors. Leave the block empty if the collection doesn't need it.
+Habits that are right some of the time, where the question is how often rather than whether: a sentence shape, an evaluative follow-up, a recurring gesture. Each line is `- label :: regex`, counted per 1,000 words of narration; end the line with `:: all` to count dialogue too. The checker reports the counts; it never treats them as errors. Leave the block empty if the collection doesn't need it. Lines that have been useful (from the Pathwell revision; the [AI tells](Sources/AI-Tells.md) list has more):
+
+```text
+- paragraphs opening "Not…" or "No…" :: ^(?:Not|No)\b[^\n]{0,80}$
+- narrator's "as if / as though X were…" :: (?i)\bas (?:if|though)\b[^.\n]{0,60}\b(?:were|was)\b
+- stock gestures :: (?i)\bswallowed\b|\bjaw (?:tightened|clenched|set)\b|\beyes widened\b|\bheart (?:hammered|pounded|raced)\b
+- "for the first time" / "for once" :: (?i)\bfor (?:the first time|once)\b
+```
 
 <!-- registry:watch:start -->
 <!-- registry:watch:end -->

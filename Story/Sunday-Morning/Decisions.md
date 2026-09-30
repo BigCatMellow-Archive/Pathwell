@@ -25,6 +25,8 @@
 | D14 | 2026-09-28 | The stories need the author's touch: write how people talk, in narration as well as dialogue ("No one would say 'he did not manage it'"). Test it on one story first. | [Craft: write how people talk](Craft.md#write-how-people-talk) |
 | D15 | 2026-09-29 | When the collection belongs to a saga, map the saga's web with the stories placed on it, "so you could see what parts … still need stories and we can track what's connected to what". | [Pipeline: larger-story check](Pipeline.md#larger-story-check) |
 | D16 | 2026-09-29 | Keep these notes as a general guideline, free of any one setting, so they can be used with other stories ("a better guideline that can be used with other stories"). | this folder |
+| D17 | 2026-09-30 | On a GPTZero read of a revised Pathwell chapter: "we dont need to over correct here, or even correct. For now its just somehting to learn from." A detector score is not a target, and no line is changed because a detector flagged it; the lessons go into the craft. (Pathwell revision, R17.) | [Craft: writing against sameness](Craft.md#writing-against-sameness); [AI tells](Sources/AI-Tells.md) |
+| D18 | 2026-09-30 | Research AI giveaways and learn from them, as awareness, not rules: "obviously we dont need to adheare to every. single. rule. but it does help to be aware … The goal isnt to deceive but just provide the best product we can that matches the guide and stlye we have in place now." (Pathwell revision, R18.) For now these notes change only in the Pathwell repository's copy. | [AI tells](Sources/AI-Tells.md); [Craft: writing against sameness](Craft.md#writing-against-sameness) |
 
 ## Working decisions
 
@@ -34,7 +36,7 @@ Made in the work on the first collection, waiting for the author's reading. Each
 | --- | --- | --- | --- |
 | W1 | The author's voice guide outranks notes taken from his sample chapters. | The guide is his own full analysis; the sample notes were inferred from two short chapters and overcorrected into fragments. | [Craft: voice](Craft.md#voice) |
 | W2 | Withhold lore, never clarity. | Reconciles the sequel principle with the Framework's attention test. | [Craft: telling](Craft.md#telling) |
-| W3 | Narration may have attitude, but doesn't compete with the characters for laughs. | Reconciles Pathwell's warning about invisible narration with the guide's warning about clever narration. | [Craft: voice](Craft.md#voice) |
+| W3 | Narration may have attitude, but doesn't compete with the characters for laughs. The narrator has its own voice, and its register says where it speaks and where it steps aside (confirmed by the author on the Pathwell revision, 2026-09-30: "there should be a note that the narrator has its own voice"). | Reconciles Pathwell's warning about invisible narration with the guide's warning about clever narration. | [Craft: voice](Craft.md#voice); [writing against sameness](Craft.md#writing-against-sameness) |
 | W7 | The full order of authority: Decisions, Framework, Rules, Craft (telling, then voice), Registry. | D9 puts the Framework first; the rest was set when the Pathwell principles were adapted and the notes were reorganized. | [Order of authority](README.md#order-of-authority) |
 
 ## Per-collection decisions

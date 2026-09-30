@@ -171,6 +171,7 @@ Vary them here, using the Registry's rule for how much. In the first collection,
 - **Voice source first.** Draft from the author's own voice, recorded on [Craft](Craft.md#voice) and in the [voice guide](Sources/Voice-Guide.md). A draft written without one is in a substitute voice, however good it is. When the voice sample is the author's own earlier chapters, check in the file history that they're still the author's text and haven't been rewritten since; on the Pathwell revision, the "benchmark" chapters turned out to be a later rewrite ([pass log](../Revision/Pass-Log.md)).
 - **Test before batch.** In a collection, draft or revise one story, get the author's verdict, then do the rest.
 - **Sensibility, not checklist.** Voice and craft guidance shapes the prose. It doesn't assign the same beats to every story.
+- **Map the narrator's register and each character's humour** before drafting a scene ([Craft: writing against sameness](Craft.md#writing-against-sameness)). Sameness is the commonest way AI prose gives itself away.
 - **Respect the author's AI boundaries.** See [who writes what](Craft.md#ai-and-the-author-who-writes-what): flag lines in the cautious categories for the author.
 - **Check [Decisions](Decisions.md)** (and the collection's own decisions list) before changing anything a decision covers. Where the author's rulings were gathered in an earlier record (an interview, a decision log), read that record itself, not a later summary of it: a summary written for another purpose can misstate what is settled. (Learned on the Pathwell revision; see its [pass log](../Revision/Pass-Log.md).)
 
@@ -190,16 +191,16 @@ This is PLAN's DO / PLAN / THINK / authority routing, applied to prose.
 Every drafting or revision pass ends with this routine, not only at L4. Priorities are in order: the costliest problems so far came first in this list.
 
 1. **Sunday Morning first.** Check the pass against the [tone guardrails](Rules.md#tone-guardrails) before anything else.
-2. **Shapes before sentences.** If the pass changed an opening, engine, resolution or ending, update the collection Registry's [story shapes](Registry.md#story-shapes) and check for sameness across the collection.
+2. **Shapes before sentences.** If the pass changed an opening, engine, resolution or ending, update the collection Registry's [story shapes](Registry.md#story-shapes) and check for sameness across the collection. Do the same for joke shapes ([Craft: writing against sameness](Craft.md#writing-against-sameness)).
 3. **Run the checker** from the repository root:
 
    ```text
    python3 Story/Sunday-Morning/tools/sunday_morning_check.py --registry <Collection>/Registry.md --drafts <Collection>/Drafts
    ```
 
-   It flags name clashes, five-word phrases shared across stories, registered stock phrases and filter verbs. It reads only what the collection's [Registry](Registry.md) says, so update the Registry first.
+   It flags name clashes, five-word phrases shared across stories, registered stock phrases and filter verbs. It reads only what the collection's [Registry](Registry.md) says, so update the Registry first. **Its numbers are a floor, not the test:** in the Pathwell revision a chapter matched the author's own chapters on contractions, fragments and commentary and still read as generated. Judge the voice by reading, against the author's own writing and the narrator's register.
 4. **Run the [scene diagnostic](Craft.md#sunday-morning-scene-diagnostic).** Tell it like the sequel, then stop: the most common remaining fault is explaining after showing. Prefer cuts.
-5. **Get a fresh check** from a pass that didn't write the text. Compare the new version with the previous one (drift) and the stories with each other (repetition). In the first collection it found something real every time.
+5. **Get a fresh check** from a pass that didn't write the text. Compare the new version with the previous one (drift) and the stories with each other (repetition). In the first collection it found something real every time. It also answers the [sameness questions](Craft.md#writing-against-sameness): repeated joke shapes, whose joke each is, the narrator's register, whether people think like people, polished closing lines, and clusters from the [AI tells](Sources/AI-Tells.md) list. When a fix writes new text in a cautious category, check that it stayed plain and was flagged.
 6. **Look for the replacement tic.** After removing a repeated move, check that another hasn't taken its place. (In the first collection, punchlines became silences, which became "wrote it down".)
    In the first collection, the working rule that settled it: keep one silence per story, at its peak, and cut narration that restates a moment.
 7. **Leave deliberate ambiguity alone.** Some gaps are [decisions](Decisions.md).

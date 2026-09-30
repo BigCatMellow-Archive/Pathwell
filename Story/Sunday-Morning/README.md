@@ -4,7 +4,7 @@
 
 **Index. Writing reference: a general guideline for Sunday Morning stories in any setting.** A Sunday Morning story is a low-pressure, character-forward story: a clear premise, a memorable little world, manageable stakes, and people the reader enjoys spending time with. Its promise to the reader: "You do not need to brace yourself."
 
-This folder holds everything needed to make one, or a whole collection: the framework, the author's voice guide, the rules and craft, the step-by-step pipeline, templates for a collection, and the lessons from the first collection (seven stories, 2026-09-27 to 29). It's organized with MAPS_L: **one concept, one owner**, each note labeled by the kind of information it holds and its lifecycle state, and linked rather than repeated. Start here.
+This folder holds everything needed to make one, or a whole collection: the framework, the author's voice guide, the rules and craft, the step-by-step pipeline, templates for a collection, and the lessons from the first collection (seven stories, 2026-09-27 to 29) and from the Pathwell revision (2026-09-30: writing against sameness, the narrator's voice, AI tells). This copy lives in the Pathwell repository; the 2026-09-30 additions haven't been carried to other copies yet ([D18](Decisions.md#standing-rulings)). It's organized with MAPS_L: **one concept, one owner**, each note labeled by the kind of information it holds and its lifecycle state, and linked rather than repeated. Start here.
 
 Nothing here belongs to any one world. When a collection is set in a particular setting, the setting's own owner pages (its bible or wiki) outrank everything in this folder on setting facts ([Rules: canon discipline](Rules.md#canon-discipline)).
 
@@ -27,12 +27,13 @@ When two notes pull in different directions, each decides its own ground, in thi
 | [Decisions](Decisions.md) | The author's standing rulings, working decisions waiting for him, the shape of a collection's own decisions list | authority | active | before changing anything a ruling might cover |
 | [Framework](Sources/Framework.md) | the Sunday Morning framework, verbatim | authority (imported source) | active, never edited | shaping a premise; the checklist (§20) and template (§23) |
 | [Voice Guide](Sources/Voice-Guide.md) | The author's analysis of his own style, verbatim | authority (imported source) | active, never edited | drafting or revising prose |
+| [AI tells](Sources/AI-Tells.md) | what research and editors report as common features of AI-generated fiction, each set against the voice guide, with sources; awareness, not rules ([D18](Decisions.md#standing-rulings)) | reference | active | checking a draft for sameness; before a fresh check |
 | [Rules](Rules.md) | tone guardrails; connecting to a larger story ("connected, not driven"); canon discipline and promotion; using the saga's main characters; setting rules that still apply; the checklist addendum; building a setting palette | authority / invariant | active | planning a story; checking any pass |
-| [Craft](Craft.md) | the 17 storytelling principles, how to use the voice guide, writing how people talk, who writes what (AI or the author), the author's watch-list, the one-line test, the scene diagnostic | skill | active | drafting; reviewing scenes |
+| [Craft](Craft.md) | the 17 storytelling principles, how to use the voice guide, writing how people talk, writing against sameness, who writes what (AI or the author), the author's watch-list, the one-line test, the scene diagnostic | skill | active | drafting; reviewing scenes |
 | [Pipeline](Pipeline.md) | levels L0–L4, Stage 0 to RECONCILE, routing, the after-every-pass routine, restraint rules | procedure | active | starting, advancing or reviewing any story |
 | [Collection](Collection.md) | how a set of stories works together: reading order and expected reader state, cross-story links and the promise ledger, the larger web, collection-level THINK and PLAN; with fill-in templates | procedure + template | active | planning a collection; touching anything another story depends on |
-| [Registry](Registry.md) | template: names, name rules, story shapes, devices, stock phrases, checker exceptions | template, read by the checker | copy into each collection; update on every new name or shape change | inventing a name; choosing an opening, device or ending |
-| [History](History.md) | lessons from the first collection: timeline, check log, what worked, what went wrong and where each lesson lives now | evidence | archive | asking why something is the way it is |
+| [Registry](Registry.md) | template: names, name rules, story shapes, devices, joke shapes, stock phrases, watch patterns, checker exceptions | template, read by the checker | copy into each collection; update on every new name or shape change | inventing a name; choosing an opening, device or ending |
+| [History](History.md) | lessons from the first collection (and, marked, from the Pathwell revision): timeline, check log, what worked, what went wrong and where each lesson lives now | evidence | archive | asking why something is the way it is |
 
 **The checker:** [`tools/sunday_morning_check.py`](tools/sunday_morning_check.py). It reports name clashes, five-word phrases shared across stories, stock phrases, filter verbs, uncontracted narration, very short paragraphs and any watch patterns the Registry lists. It reads a collection's copy of the Registry and its drafts; it never edits. Run it from the repository root:
 
@@ -63,6 +64,9 @@ For a single long work kept as plain files (a novel's chapters, say), add `--pat
 | How do I check a scene? | [Craft: scene diagnostic](Craft.md#sunday-morning-scene-diagnostic) |
 | Which of the author's habits should I watch for? | [Craft: watch-list](Craft.md#the-authors-watch-list) |
 | What should AI write, and what is the author's? | [Craft: who writes what](Craft.md#ai-and-the-author-who-writes-what) |
+| Does this read as generated? Is everyone funny the same way? | [Craft: writing against sameness](Craft.md#writing-against-sameness) |
+| What's common in AI-written fiction? | [AI tells](Sources/AI-Tells.md) (awareness, not rules) |
+| Should the narrator have a voice? | [Craft: voice](Craft.md#voice) (yes, with a register) |
 | What order should a collection be read in, and what does the reader know by each story? | [Collection: reading order](Collection.md#reading-order) |
 | Which details must match across stories? | [Collection: promise ledger](Collection.md#cross-story-promise-ledger) |
 | Is this name taken, or too close to another? | the collection's copy of the [Registry](Registry.md#names), then run the checker |
@@ -107,7 +111,8 @@ How this folder grows without becoming a pile:
 2. **Link, don't restate.** Elsewhere, write the local implication in one line and link to the owner.
 3. **Rulings go to [Decisions](Decisions.md) first,** then into the page where they apply. A ruling about one collection's stories goes to that collection's own decisions list.
 4. **Lessons become method.** Fold a lesson into Pipeline, Craft or Rules. History records only what happened and where the lesson now lives.
-5. **Per-story notes stay on the story page** (its Stage 3 — DO section). A collection-wide pass adds one row to that collection's own pass log. A lesson that changes the method is folded into Pipeline, Craft or Rules, and noted in [History](History.md#what-went-wrong-and-where-the-lesson-lives-now).
+5. **Check a concept has a current owner before archiving a note.** A note isn't secondary just because it's one of several on a topic. If no current page owns what it says, fold it into an owner or keep it current. (Pathwell revision: the narrator-register note was archived by mistake.)
+6. **Per-story notes stay on the story page** (its Stage 3 — DO section). A collection-wide pass adds one row to that collection's own pass log. A lesson that changes the method is folded into Pipeline, Craft or Rules, and noted in [History](History.md#what-went-wrong-and-where-the-lesson-lives-now).
 6. **Keep this folder setting-free.** Anything that names a particular world's places, people or events belongs in that collection's folder or the setting's own pages.
 7. **Don't leave a stale snapshot looking current.** Move it to History, marked superseded, or update it.
 8. **Sources stay verbatim.** Notes about a source go on the page that uses it, never inside the source.

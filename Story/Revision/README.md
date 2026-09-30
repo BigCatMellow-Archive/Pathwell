@@ -24,8 +24,8 @@ When two notes pull in different directions, each decides its own ground in this
 | --- | --- | --- | --- |
 | [Decisions](Decisions.md) | The author's rulings for this revision; earlier rulings recorded elsewhere, and whether the manuscript reflects them; working decisions; open questions for the author | authority | active |
 | [Plan](Plan.md) | the book-level THINK pass, the prioritized plan routed by level, reconsideration triggers, the Step 2 test | procedure | active, awaiting approval |
-| [Writing against sameness](Writing-Against-Sameness.md) | how a pass writes and checks against sameness: the register map, whose joke it is, Elizabeth's interiority, usually one polished closing line per scene, new emotional lines left to the author, the two benchmarks, the fresh check's sameness questions | procedure | active |
-| [AI tells](AI-Tells.md) | common features of AI-generated fiction, researched, each set against what this book's guides say; for awareness, not a rulebook | reference | active |
+| [Writing against sameness](Writing-Against-Sameness.md) | Pathwell's application of [Craft: writing against sameness](../Sunday-Morning/Craft.md#writing-against-sameness): the register map, whose joke it is, Elizabeth's interiority, usually one polished closing line per scene, new emotional lines left to the author, the two benchmarks, the fresh check's sameness questions | procedure | active |
+| [AI tells in Pathwell](AI-Tells.md) | what the manuscript shows, and each common AI tell set against this book's guides; the researched general list is in the Sunday Morning notes' [AI tells](../Sunday-Morning/Sources/AI-Tells.md). Awareness, not a rulebook | reference | active |
 | [Promise ledger](Promise-Ledger.md) | every setup and payoff across the chapters, with its status | working record | active |
 | [Registry](Registry.md) | names, chapter shapes, devices, stock phrases, watch patterns and checker exceptions | template copy, read by the checker | active |
 | [Pass log](Pass-Log.md) | one entry per pass: what ran, what changed (change notes from the diff), the check log | evidence | active |
