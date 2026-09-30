@@ -60,7 +60,7 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 
 | Ch | Engine | Resolved by | Register | Opening | Final line |
 | --- | --- | --- | --- | --- | --- |
-| 1 | the guest who stayed, going through her boxes after her welcome party (P7); the blob at the door | an act (Elizabeth grabs the book) and flight | comic panic | "It was the crash that woke her." | "Ready?" / "No." / "Perfect." |
+| 1 | the guest who stayed, casually reading her diary after her welcome party, until the blob at the door makes him think it's there for her (P7, P7b) | an act (Elizabeth grabs the book) and flight | comic panic | "It was the crash that woke her." | "Ready?" / "No." / "Perfect." |
 | 2 | Pathwell walks off with her books | her choice to follow | numb grief, comic | dialogue ("Will you slow down?") | follows him (motive list: "Not because… Because…") |
 | 3 | get the books back; the Space Between | a transaction (future paid on the ledger) | wonder, cost | Pathwell at a streetlight, "Again." | "The shopkeeper closed the door behind them." (she goes with him) |
 | 4 | arrival at Camp; the dying woman | a gift (the whole cookbook) | tender | "She had assumed…the word camp would mean something she could leave." | "Camp Cunnan kept being a place without asking permission." (she follows) |

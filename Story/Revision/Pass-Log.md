@@ -472,3 +472,35 @@ Most are narrator wit, of the kind the [AI detection notes](AI-Detection-Notes-2
 - **Knock-on for Chapter 2:** "You broke into my apartment." now contradicts "her last guest". The narration's "the stranger" is softer now that she never caught his name. Both are in the plan's Chapter 2 row.
 
 **Result:** Chapter 1 is at L3, waiting for the author's verdict.
+
+## P7b, 2026-09-30: Chapter 1, restaged to the lock
+
+**Why:** The author: "this is an outdated version I can tell, cause he is supposed to be more casually going through the boxes and then the blob shows up and he thinks its there for her. Should be notes on that". There are notes: [Bible decisions 08-22 §3](../Interview/BIBLE_DECISIONS_2026-08-22.md#3-chapter-1-entry-and-false-importance-setup) says "The blob is what changes Pathwell's behavior toward Elizabeth… that assumption kicks him into the urgent 'I need a cookbook' defense". The character bible's entry behavior says he is "calm, unhurried, insultingly comfortable in spaces that aren't his".
+
+**Why P7 missed it:**
+
+- P7 rebuilt the chapter on the author's July text, which predates that lock. July has him "tearing through boxes" and demanding the cookbook before the blob arrives.
+- The independent check then passed the chapter because its prompt carried a summary of the locks that left that line out.
+- Lesson: the author's older text is the ear for the voice, not the source for what happens; the newest lock wins on story. Give the checker the primary records, not a summary. This went into [Pipeline](../Sunday-Morning/Pipeline.md#after-every-pass) and [History](../Sunday-Morning/History.md#what-went-wrong-and-where-the-lesson-lives-now).
+
+**What changed (from the diff):**
+
+- **The opening is restaged:**
+  - "found a man going through her boxes" (it was "tearing through her boxes, hurling their contents across the floor");
+  - "He sat on the floor with a box open beside him, reading her diary like a magazine in a waiting room.";
+  - "Do you mind?" / "Not at all," he said, and turned a page.
+- **The blob changes him:** "It came again. A thud against the front door. Wet. Heavy." (so the crash that woke her was its first hit) / "He looked up at the door. Then at her." / "Friend of yours?" / "What?" / "The door bowed in its frame and settled back." / "He was on his feet with the diary under his arm, tearing into the next box."
+- **Then July's lines resume:** "Where's your cookbook?…" ("Another box" became "A box"), "We need it.", "Another thud, harder.", "Now."
+- **Knock-on fixes:** "what looked like her diary" became "her diary", since she's watched him read it; "He tucked the diary under his arm" became "He shifted the diary under his arm".
+- 949 words.
+
+**For the author (new text):**
+
+- "reading her diary like a magazine in a waiting room";
+- "Not at all," he said, and turned a page;
+- "Friend of yours?", which makes the misread legible;
+- "It came again."
+
+These are character-defining lines, so they're yours to judge. The checker noted one strain: the lock says he takes material "he believes will not be noticed missing", and reading her diary in front of her pushes on that.
+
+**Check:** Re-checked against the full text of the 08-22 §3 lock, the character bible's entry behavior and misread blocks, W01, Q112 and Q113. Casual until the blob: yes. The blob changes him: yes. He thinks it's there for her: legible. The three continuity slips it found are fixed (what woke her; the stray "Another"; "what looked like"). The checker's numbers are unchanged in kind: 0 uncontracted forms and 0 "Not…" paragraphs.
