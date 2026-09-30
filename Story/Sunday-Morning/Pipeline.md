@@ -172,7 +172,7 @@ Vary them here, using the Registry's rule for how much. In the first collection,
 - **Test before batch.** In a collection, draft or revise one story, get James's verdict, then do the rest.
 - **Sensibility, not checklist.** Voice and craft guidance shapes the prose. It doesn't assign the same beats to every story.
 - **Respect the author's AI boundaries.** See [who writes what](Craft.md#ai-and-james-who-writes-what): flag lines in the cautious categories for James.
-- **Check [Decisions](Decisions.md)** (and the collection's own decisions list) before changing anything a decision covers.
+- **Check [Decisions](Decisions.md)** (and the collection's own decisions list) before changing anything a decision covers. Where the author's rulings were gathered in an earlier record (an interview, a decision log), read that record itself, not a later summary of it: a summary written for another purpose can misstate what is settled. (Learned on the Pathwell revision; see its [pass log](../Revision/Pass-Log.md).)
 
 Draft scene by scene from the plan, keeping its "must establish" items. When drafting surfaces a problem, route it to the right level instead of patching it where it shows up:
 
