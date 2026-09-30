@@ -28,7 +28,7 @@ CONCEPT ──► THINK ──► PLAN ──► DO ──► JUDGE ──► RE
               ▲         ▲        │       │
               │         └────────┴───────┤  plan/structure problem → PLAN
               └──────────────────────────┘  frame/concept problem  → THINK
-                          canon or taste decision → James
+                          canon or taste decision → the author
 ```
 
 This is the Pilot idea lifecycle (THINK → PLAN → DO → JUDGE → RECONCILE) applied to one story. The backward edges matter as much as the forward path.
@@ -43,7 +43,7 @@ MAPS_L requires DONE to be defined before work starts. Choose a target level per
 | **L1 Hardened** | THINK pass recorded; alternatives and unknowns explicit; handoff written | story page → Development record |
 | **L2 Outlined** | Scene plan, promise ledger and reconsideration triggers recorded; collection shape check done | story page → Development record |
 | **L3 Drafted** | Full prose draft exists, written from a recorded voice source and checked independently against the plan | a separate draft in `<Collection>/Drafts/`, linked from the story page |
-| **L4 Reviewed** | Independent JUDGE pass done and findings reconciled; James has read it | story page + review notes |
+| **L4 Reviewed** | Independent JUDGE pass done and findings reconciled; the author has read it | story page + review notes |
 
 ---
 
@@ -112,7 +112,7 @@ frame               what the story is, in one sentence
 selected strategy   the chosen mechanism / shape
 alternatives        options considered and why set aside (keep them: a revision may need one)
 assumptions         load-bearing, with status
-unknowns            what remains open; canon questions go to James
+unknowns            what remains open; canon questions go to the author
 reconsider if       evidence that would send the story back to THINK
 ```
 
@@ -169,9 +169,9 @@ Vary them here, using the Registry's rule for how much. In the first collection,
 ### Before the first draft
 
 - **Voice source first.** Draft from the author's own voice, recorded on [Craft](Craft.md#voice) and in the [voice guide](Sources/Voice-Guide.md). A draft written without one is in a substitute voice, however good it is. When the voice sample is the author's own earlier chapters, check in the file history that they're still the author's text and haven't been rewritten since; on the Pathwell revision, the "benchmark" chapters turned out to be a later rewrite ([pass log](../Revision/Pass-Log.md)).
-- **Test before batch.** In a collection, draft or revise one story, get James's verdict, then do the rest.
+- **Test before batch.** In a collection, draft or revise one story, get the author's verdict, then do the rest.
 - **Sensibility, not checklist.** Voice and craft guidance shapes the prose. It doesn't assign the same beats to every story.
-- **Respect the author's AI boundaries.** See [who writes what](Craft.md#ai-and-james-who-writes-what): flag lines in the cautious categories for James.
+- **Respect the author's AI boundaries.** See [who writes what](Craft.md#ai-and-the-author-who-writes-what): flag lines in the cautious categories for the author.
 - **Check [Decisions](Decisions.md)** (and the collection's own decisions list) before changing anything a decision covers. Where the author's rulings were gathered in an earlier record (an interview, a decision log), read that record itself, not a later summary of it: a summary written for another purpose can misstate what is settled. (Learned on the Pathwell revision; see its [pass log](../Revision/Pass-Log.md).)
 
 Draft scene by scene from the plan, keeping its "must establish" items. When drafting surfaces a problem, route it to the right level instead of patching it where it shows up:
@@ -181,7 +181,7 @@ Draft scene by scene from the plan, keeping its "must establish" items. When dra
 | a line, beat or transition doesn't work | **DO** | fix it in the draft |
 | a scene can't carry what it must establish, or the order causes problems | **PLAN** | reorder, merge, split or reassign "must establish" items; update the ledger |
 | the mechanism, premise or ending stops making sense | **THINK** | return to the THINK pass with the specific failure; consider one alternative route or a frame challenge |
-| a canon fact is needed that the setting's owner pages leave open, or a taste call changes the story | **James** | stop that branch, continue other work, ask, and record the answer in [Decisions](Decisions.md) |
+| a canon fact is needed that the setting's owner pages leave open, or a taste call changes the story | **The author** | stop that branch, continue other work, ask, and record the answer in [Decisions](Decisions.md) |
 
 This is PLAN's DO / PLAN / THINK / authority routing, applied to prose.
 
@@ -213,14 +213,14 @@ MAPS_L: **no owner approves their own substantive work.** An L4 review is a fres
 
 It checks:
 
-- the [scene diagnostic](Craft.md#sunday-morning-scene-diagnostic) and [James's watch-list](Craft.md#jamess-watch-list);
+- the [scene diagnostic](Craft.md#sunday-morning-scene-diagnostic) and [the author's watch-list](Craft.md#the-authors-watch-list);
 - every "must establish" item and every ledger promise: paid off, transformed, or deliberately left open;
 - the [cross-story ledger](Collection.md#cross-story-promise-ledger) and the expected reader state in the [reading order](Collection.md#reading-order);
 - the [Framework checklist](Sources/Framework.md#20-the-sunday-morning-story-checklist) and the [Rules checklist addendum](Rules.md#checklist-addendum);
 - canon ([canon discipline](Rules.md#canon-discipline)): no question the setting's owner pages leave open is settled, and every new name is provisional and registered;
 - the revision level of each finding: whole story, scene or line. These are the Writing Bible's candidate macro, meso and micro levels; diagnose the level before rewriting.
 
-Findings go back through the routing table in Stage 3. When settling the reviewers' questions, the first collection's test was: change a line if the change removes an explanation, a cross-story echo or an unkindness; keep it if it does work in its own story. **L4 also requires James to read it.** Taste, humor and voice are human judgments that the Writing Bible itself says should not be reduced to a score.
+Findings go back through the routing table in Stage 3. When settling the reviewers' questions, the first collection's test was: change a line if the change removes an explanation, a cross-story echo or an unkindness; keep it if it does work in its own story. **L4 also requires the author to read it.** Taste, humor and voice are human judgments that the Writing Bible itself says should not be reduced to a score.
 
 ## Stage 5 — RECONCILE: keep the records honest
 

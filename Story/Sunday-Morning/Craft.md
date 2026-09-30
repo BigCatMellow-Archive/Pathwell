@@ -4,17 +4,17 @@
 
 **Writing reference: a general guideline for Sunday Morning stories in any setting.** This page owns how a Sunday Morning story is *told* and how its prose should *sound*:
 
-- the storytelling principles, adapted from James's Pathwell notes;
-- how to use James's [voice guide](Sources/Voice-Guide.md);
-- who writes what, AI or James;
-- James's own watch-list of habits;
+- the storytelling principles, adapted from the author's Pathwell notes;
+- how to use the author's [voice guide](Sources/Voice-Guide.md);
+- who writes what, AI or the author;
+- The author's own watch-list of habits;
 - the scene diagnostic run on every draft.
 
 Scene-level texture (what the world was doing yesterday) comes from the setting's own notes. Tone and stakes belong to the [Framework](Sources/Framework.md) and the [tone guardrails](Rules.md#tone-guardrails). Where craft and tone pull apart, tone wins; see the [order of authority](README.md#order-of-authority).
 
 ## Telling
 
-**Source:** James's Pathwell notes in this repo, brought in on his call ([D10](Decisions.md#standing-rulings)): [`Writing-Principles.md`](../../Writing-Principles.md), [`Quick-Diagnostic.md`](../Archive/Wiki-2026-06/Quick-Diagnostic.md), [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md), [`pathwell_prose_voice.md`](../Story_Files/pathwell_prose_voice.md) and [`INS-0001-unpaid-plot-debts-must-be-paid-on-page.md`](../insights/INS-0001-unpaid-plot-debts-must-be-paid-on-page.md).
+**Source:** The author's Pathwell notes in this repo, brought in on his call ([D10](Decisions.md#standing-rulings)): [`Writing-Principles.md`](../../Writing-Principles.md), [`Quick-Diagnostic.md`](../Archive/Wiki-2026-06/Quick-Diagnostic.md), [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md), [`pathwell_prose_voice.md`](../Story_Files/pathwell_prose_voice.md) and [`INS-0001-unpaid-plot-debts-must-be-paid-on-page.md`](../insights/INS-0001-unpaid-plot-debts-must-be-paid-on-page.md).
 
 Pathwell is a literary urban fantasy novel, written for a longer, darker book, so each principle is marked **carries over**, **adapted** or **in tension**.
 
@@ -72,7 +72,7 @@ Know what is said, what is meant, what can be inferred, what each person knows a
 
 ### 12. Promise, progress, payoff (carries over)
 
-The opening promises an *experience*, not only plot facts. The middle changes or deepens what the reader is waiting for. The ending fulfills, transforms or deliberately leaves open (in the first collection, James chose to leave one story's central relationship open). The story pages' promise ledgers already do this.
+The opening promises an *experience*, not only plot facts. The middle changes or deepens what the reader is waiting for. The ending fulfills, transforms or deliberately leaves open (in the first collection, the author chose to leave one story's central relationship open). The story pages' promise ledgers already do this.
 
 ### 13. Theme through action, not speeches (carries over)
 
@@ -98,7 +98,7 @@ Listen for cadence, character voice, comic timing, awkward exposition, repeated 
 
 ## Voice
 
-**Sources.** James's [voice guide](Sources/Voice-Guide.md), verbatim, is the authority on how sentences sound. Notes from two of his sample chapters (a Pathwell and an Elizabeth story, shared 2026-09-27 and not stored here) are secondary evidence and give way wherever the two disagree ([W1](Decisions.md#working-decisions)).
+**Sources.** The author's [voice guide](Sources/Voice-Guide.md), verbatim, is the authority on how sentences sound. Notes from two of his sample chapters (a Pathwell and an Elizabeth story, shared 2026-09-27 and not stored here) are secondary evidence and give way wherever the two disagree ([W1](Decisions.md#working-decisions)).
 
 **Use the guide as a sensibility, not a checklist** ([D6](Decisions.md#standing-rulings)). Each story takes only what it already wants from it. A checklist of beats per story (a sad beat, a choice, a dropped joke, a callback) makes a collection predictable ([History](History.md#what-went-wrong-and-where-the-lesson-lives-now)).
 
@@ -111,11 +111,11 @@ Listen for cadence, character voice, comic timing, awkward exposition, repeated 
 
 **Sample-chapter habits that still hold,** because the guide agrees with them: starting in motion; dialogue carrying scenes; humor from character contrast and mundane worries; feeling through smell and taste; grief carried by objects; callbacks; a turn on the last line.
 
-**Narration with an opinion, reconciled** ([W3](Decisions.md#working-decisions)). Pathwell's [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md) warns that James's narration can go invisible ("half the wit lives in the narration's asides", of Pratchett). The guide warns against "self-consciously clever narration". Both hold: **narration may have attitude, a point of view that notices and judges, but it shouldn't compete with the characters for laughs.** Earlier passes on the first collection cut narrator jokes to about one per story. That was a fair correction for AI-drafted prose, not a rule that narration has no voice. When James writes over these drafts, the narration's attitude is his.
+**Narration with an opinion, reconciled** ([W3](Decisions.md#working-decisions)). Pathwell's [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md) warns that the author's narration can go invisible ("half the wit lives in the narration's asides", of Pratchett). The guide warns against "self-consciously clever narration". Both hold: **narration may have attitude, a point of view that notices and judges, but it shouldn't compete with the characters for laughs.** Earlier passes on the first collection cut narrator jokes to about one per story. That was a fair correction for AI-drafted prose, not a rule that narration has no voice. When the author writes over these drafts, the narration's attitude is his.
 
 ### Write how people talk
 
-James's own strength, in his words: people told him he "wrote how people talked", in narration as much as in dialogue ([D14](Decisions.md#standing-rulings)). His example of the failure: "He meant to walk straight to the mill. He did not manage it." Nobody says "he did not manage it", so it sits on the page. Said the way a person would: "He didn't get very far."
+The author's own strength, in his words: people told him he "wrote how people talked", in narration as much as in dialogue ([D14](Decisions.md#standing-rulings)). His example of the failure: "He meant to walk straight to the mill. He did not manage it." Nobody says "he did not manage it", so it sits on the page. Said the way a person would: "He didn't get very far."
 
 - **The test.** Would somebody telling this story out loud, to a friend, say the sentence this way? If it sounds like writing, rewrite it (Elmore Leonard: "If it sounds like writing, I rewrite it.").
 - **The narrator borrows the character's words.** Close third person soaks up the idiom of whoever it's following: what a retired farmer would call a thing, how a stonemason would size up a crack. This is free indirect style, and critic Hugh Kenner named its word-level form the "Uncle Charles principle", after Joyce. It gives the narration a person's voice without a speech.
@@ -126,16 +126,16 @@ James's own strength, in his words: people told him he "wrote how people talked"
 
 **Sources:** [Uncle Charles Principle (Wikipedia)](https://en.wikipedia.org/wiki/Uncle_Charles_Principle); [Story Street Writers on the Uncle Charles principle](https://storystreetwriters.com/writing-craft/mind-the-gap-how-the-uncle-charles-principle-and-its-adaptations-can-close-the-gap-between-narrator-and-reader-in-different-narrative-points-of-view/); [Elmore Leonard's 10 Rules of Writing](https://www.themarginalian.org/2013/08/21/elmore-leonard-10-rules-of-writing/); [Kathy Steinemann on contractions](https://kathysteinemann.com/Musings/contractions/).
 
-## AI and James: who writes what
+## AI and the author: who writes what
 
 The guide sets the division of labor ("AI Collaboration Guidance"), and it applies to every pass:
 
 - **AI leads on** continuity, structure, motivation, pacing, action clarity, repeated beats and thematic consistency. The strongest AI contributions in the first collection were structural: plans, ledgers, continuity and the uniqueness matrix.
-- **AI is cautious with** jokes, emotional language, philosophical statements, character-defining dialogue, metaphors, narrator commentary and final sentence rhythm. Lines in these categories are scaffolding for James and should be flagged for his review.
-- **A voice problem routes to DO if it's a line, and to James if it's taste** ([routing](Pipeline.md#stage-3--do-draft)).
-- **The drafts are scaffolds for James to write over,** not a substitute voice. Taste, humor and voice are his call, which is why L4 requires his reading ([Pipeline](Pipeline.md#stage-4--judge-review-independently)).
+- **AI is cautious with** jokes, emotional language, philosophical statements, character-defining dialogue, metaphors, narrator commentary and final sentence rhythm. Lines in these categories are scaffolding for the author and should be flagged for his review.
+- **A voice problem routes to DO if it's a line, and to the author if it's taste** ([routing](Pipeline.md#stage-3--do-draft)).
+- **The drafts are scaffolds for the author to write over,** not a substitute voice. Taste, humor and voice are his call, which is why L4 requires his reading ([Pipeline](Pipeline.md#stage-4--judge-review-independently)).
 
-## James's watch-list
+## The author's watch-list
 
 From Pathwell's [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md), which records habits flagged across that project, not generic advice. AI drafting shares several of them.
 

@@ -2,7 +2,7 @@
 
 ## Status
 
-**Authority: James's own rulings.** In late August James answered questions about the book one at a time, and each answer was locked. This folder holds that record. It's the primary source for what James decided about the story and the world; the revision's [Decisions](../Revision/Decisions.md) page indexes the locks that matter for revision, and a later record that disagrees with a lock is put to James rather than assumed ([W8](../Revision/Decisions.md#working-decisions)). Moved here from `Story_Files/` on 2026-09-30 so it isn't mixed with support notes. The files are unchanged.
+**Authority: the author's own rulings.** In late August the author answered questions about the book one at a time, and each answer was locked. This folder holds that record. It's the primary source for what the author decided about the story and the world; the revision's [Decisions](../Revision/Decisions.md) page indexes the locks that matter for revision, and a later record that disagrees with a lock is put to the author rather than assumed ([W8](../Revision/Decisions.md#working-decisions)). Moved here from `Story_Files/` on 2026-09-30 so it isn't mixed with support notes. The files are unchanged.
 
 ## How it's organized
 
@@ -17,4 +17,4 @@ To find a lock: search this folder for the question number (`Q112`) or a heading
 ## After the interview
 
 - The chapters were rewritten to these locks on 2026-08-28. Where the chapters still don't follow a lock, the revision's [Decisions](../Revision/Decisions.md#the-bible-interview-locks-the-manuscript-doesnt-yet-follow) lists it.
-- James's later answers (2026-09-30) are rulings R9–R15 on the same page.
+- The author's later answers (2026-09-30) are rulings R9–R15 on the same page.

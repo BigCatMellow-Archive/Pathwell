@@ -2,7 +2,7 @@
 
 **These ten scenes must exist in the final manuscript. They are the structural pillars.**
 
-> **Status, 2026-09-30:** brought into line with the Bible interview (2026-08-21 to 08-27) at James's direction ([revision Decisions, R14](Story/Revision/Decisions.md#jamess-rulings-for-this-revision)). The earlier list predated the interview; it's in git history. Each scene names the lock behind it; the climax (8–9) is still being explored ([Q-E](Story/Revision/Decisions.md#open-for-james)).
+> **Status, 2026-09-30:** brought into line with the Bible interview (2026-08-21 to 08-27) at the author's direction ([revision Decisions, R14](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)). The earlier list predated the interview; it's in git history. Each scene names the lock behind it; the climax (8–9) is still being explored ([Q-E](Story/Revision/Decisions.md#open-for-the-author)).
 
 ---
 
@@ -12,7 +12,7 @@
 
 3. **The cookbook given to heal a stranger.** A young woman hurt in a wagon accident at Camp; Elizabeth gives the whole book, one page is spent, and the rest becomes the archive's, with a lived life there before it burns. (Q129)
 
-4. **The midpoint crash, chosen.** Elizabeth deliberately puts the car in the ditch because the brothers keep talking around her. She chooses the crash, not its consequences. "It was the crash that woke her." recurs here, bare. (Refinements §9; James, 2026-09-30)
+4. **The midpoint crash, chosen.** Elizabeth deliberately puts the car in the ditch because the brothers keep talking around her. She chooses the crash, not its consequences. "It was the crash that woke her." recurs here, bare. (Refinements §9; the author, 2026-09-30)
 
 5. **The diner.** Elizabeth recognizes that the man isn't Pathwell when he refers to Pathwell as someone else, then learns she was never the point. Shade doesn't hand her a confession: "He knows what he did. Ask him." (Refinements §11–15)
 
@@ -24,4 +24,4 @@
 
 9. **Shade's death.** His own last choice, an informed risk: he sees his pursuit making others pay and stops. The cleanup takes him; the draw quiets because his anomaly is gone, not because of eye contact. Camp names him. (Continued 27–30; Q132)
 
-10. **The quiet refusal at the Space Between.** Pathwell sees another family's cookbook, wants to buy it to fill Nana's place, and silently puts it back. He chooses not to find out whether he can still prune. Then Elizabeth chooses the next direction, and the book ends on "Are you ready?" / "No." / "Perfect." (Q93–Q103; James, 2026-09-30)
+10. **The quiet refusal at the Space Between.** Pathwell sees another family's cookbook, wants to buy it to fill Nana's place, and silently puts it back. He chooses not to find out whether he can still prune. Then Elizabeth chooses the next direction, and the book ends on "Are you ready?" / "No." / "Perfect." (Q93–Q103; the author, 2026-09-30)

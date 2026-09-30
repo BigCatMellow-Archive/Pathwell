@@ -2,11 +2,11 @@
 
 ## Status
 
-**Evidence, closed. Created 2026-09-30 in [pass P4b](Pass-Log.md#p4b-2026-09-30-what-the-ai-detection-read-teaches).** James ran the revised Chapter 12 (as of [pass P4](Pass-Log.md#p4-2026-09-30-step-2-chapter-12)) through GPTZero and shared the conversation about it. His ruling ([R17](Decisions.md#jamess-rulings-for-this-revision)): *"we dont need to over correct here, or even correct. For now its just somehting to learn from."* So nothing here is a work item. A detector score is not a target for this revision, and no line is changed because a detector flagged it. This page records what the read teaches. His handoff is kept unchanged [below](#the-handoff-as-james-gave-it).
+**Evidence, closed. Created 2026-09-30 in [pass P4b](Pass-Log.md#p4b-2026-09-30-what-the-ai-detection-read-teaches).** The author ran the revised Chapter 12 (as of [pass P4](Pass-Log.md#p4-2026-09-30-step-2-chapter-12)) through GPTZero and shared the conversation about it. His ruling ([R17](Decisions.md#the-authors-rulings-for-this-revision)): *"we dont need to over correct here, or even correct. For now its just somehting to learn from."* So nothing here is a work item. A detector score is not a target for this revision, and no line is changed because a detector flagged it. This page records what the read teaches. His handoff is kept unchanged [below](#the-handoff-as-the-author-gave-it).
 
 ## What it teaches this revision
 
-1. **The passage is AI-written, and the detector was right about that.** The Chapter 12 James tested is the 2026-08-28 rewrite's text as revised in P4. Every word of it is either the rewrite's or mine. This confirms [W9](Decisions.md#working-decisions): the current chapters' prose isn't James's.
+1. **The passage is AI-written, and the detector was right about that.** The Chapter 12 the author tested is the 2026-08-28 rewrite's text as revised in P4. Every word of it is either the rewrite's or mine. This confirms [W9](Decisions.md#working-decisions): the current chapters' prose isn't the author's.
 
 2. **P4 moved the surface numbers, not the voice underneath.** The checker measures uncontracted narration, "Not X. / Y." fragments and commentary paragraphs. P4 brought all three close to the benchmark. The handoff names a deeper set of patterns, and P4 left them as they were:
    - the narrator's own wit;
@@ -16,7 +16,7 @@
    - interior thought that diagnoses itself exactly;
    - one dry, formal comedy engine shared by every character.
 
-3. **James's own Chapters 1–2 show the difference plainly** ([benchmark](Voice-Benchmark/README.md)). There:
+3. **The author's own Chapters 1–2 show the difference plainly** ([benchmark](Voice-Benchmark/README.md)). There:
    - The narrator hardly jokes. There are no `as if / as though` lines and almost no personification. The humour is in the dialogue, mostly Pathwell's: breezy, polite, evasive ("I wouldn't say hungry, I'm more peckish.", "Just a really weird Tuesday for you.").
    - Elizabeth's interior is a messy run of worries and questions (the landlord, the door, the dry cleaning, the meeting), not a precise self-diagnosis.
    - Scenes are carried by the senses: smell, sound, texture ("a stench of low tide", "The impact sang.").
@@ -29,7 +29,7 @@
    - "At the museum she'd watched letters survive a war and then fail to survive one bad decision in a gallery." (P4 added "then")
    - The merged loan sentence, which the handoff singles out as unusually precise self-diagnosis.
 
-   This backs the rule that new emotional text is James's to write, not the reviser's.
+   This backs the rule that new emotional text is the author's to write, not the reviser's.
 
 5. **A repeated joke was missed.** "He nodded as if mostly were a medically useful category." and "He nodded as though museums were a recognized injury category." are the same joke, about a hundred lines apart. Neither the checker nor P4's fresh check caught it. A fresh check should be asked to look for repeated joke templates within the chapter.
 
@@ -37,11 +37,11 @@
 
 7. **Detector explanations aren't evidence.** The detector's sentence-level labels, such as "Mechanical Writing" and "Rich Yet Shallow", are weak, and several of the lines it flagged are doing real work ("Nobody reached for her." belongs to the chapter's consent motif). Only the document-level verdict and the pattern-level reading are worth keeping.
 
-**If James later decides to act on this:** the likely route is a THINK pass on voice. It would ask where the humour lives, whose comedy it is and how clean the interiority is, and read these against his Chapters 1–2 before any more line work. It fits the first [reconsideration trigger](Plan.md#reconsideration-triggers) ("James says the test chapter doesn't sound like him"). Until then, nothing changes.
+**If the author later decides to act on this:** the likely route is a THINK pass on voice. It would ask where the humour lives, whose comedy it is and how clean the interiority is, and read these against his Chapters 1–2 before any more line work. It fits the first [reconsideration trigger](Plan.md#reconsideration-triggers) ("the author says the test chapter doesn't sound like him"). Until then, nothing changes.
 
 ---
 
-## The handoff, as James gave it
+## The handoff, as the author gave it
 
 Unchanged, apart from its headings being moved down one level to sit under this one.
 

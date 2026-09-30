@@ -411,7 +411,7 @@ Pruning can technically be accepted, but Camp strongly discourages it and may re
 
 **Elizabeth gives her diary to the archive voluntarily. She does not perform magic.** The act is a surrender of ownership and a choice to stop carrying the diary as a private tether.
 
-**No diary buyback** (removed by James; Interview, Continued 16). The diary stays in the archive and burns in ordinary fire when Elizabeth runs past it to the child. Do not restore the diary-as-weapon version either. (Updated 2026-09-30 to the Bible interview's later lock; see [revision Decisions](../Revision/Decisions.md).)
+**No diary buyback** (removed by the author; Interview, Continued 16). The diary stays in the archive and burns in ordinary fire when Elizabeth runs past it to the child. Do not restore the diary-as-weapon version either. (Updated 2026-09-30 to the Bible interview's later lock; see [revision Decisions](../Revision/Decisions.md).)
 
 ---
 

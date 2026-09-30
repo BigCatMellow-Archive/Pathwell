@@ -22,7 +22,7 @@ Every collection is Sunday Morning first (a [standing ruling](Decisions.md#stand
 
 *Optional. This section applies only if the collection belongs to a larger setting or saga. Stories that stand alone skip it.*
 
-*"Connected, not driven" was set 2026-09-27 at James's direction (a [standing ruling](Decisions.md#standing-rulings)). The earlier rule kept the saga as background only.*
+*"Connected, not driven" was set 2026-09-27 at the author's direction (a [standing ruling](Decisions.md#standing-rulings)). The earlier rule kept the saga as background only.*
 
 When a collection sits inside a saga, every Sunday Morning story can be a **node in the larger web**: the saga's cause-and-effect chain of current events, schemes and ripple chains. The story is told from the ground, where the people involved can't see the web. This suits sagas whose plot moves through causal handoffs, where the saga's protagonist and ordinary people like them change the larger game without understanding it at first.
 
@@ -71,7 +71,7 @@ The saga's protagonist can headline a Sunday Morning story, especially one whose
 - Keep what the setting says they are *not* (not the cleverest, not chosen, not the rightful anything, if that's their canon).
 - Keep where their influence comes from in canon, rather than handing them speeches or strategy the saga wouldn't.
 - Their canonical weaknesses work well as gentle comedy and quiet heart.
-- Anything the setting leaves open about them (exact age, biography, family, starting point) stays open. A story should not settle it in passing. If a draft needs their past, stop and ask James.
+- Anything the setting leaves open about them (exact age, biography, family, starting point) stays open. A story should not settle it in passing. If a draft needs their past, stop and ask the author.
 
 Most Sunday Morning stories should **not** star them. The world exists when the protagonists are absent, and a town may solve its own problem before the hero arrives.
 

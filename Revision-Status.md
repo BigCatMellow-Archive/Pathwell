@@ -8,27 +8,27 @@
 
 The canonical text is `Story/Chapters/Chapter_01.txt` to `Chapter_18.txt`, read in order. All eighteen were rewritten in the reconciliation of 2026-08-28 to the [chapter contracts](Story/Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md) and haven't changed since. The old ending, `Coda.txt`, was retired to [Story/Archive](Story/Archive/README.md) on 2026-09-30; the Bible interview's Q93–Q103 name its contents stale. About 48,800 words including the Coda.
 
-**Levels** are defined in the [revision README](Story/Revision/README.md#development-levels-for-a-chapter): L0 contract, L1 hardened, L2 planned, L3 revised from the voice sources and checked, L4 independently reviewed and read by James. Every chapter's target is L4.
+**Levels** are defined in the [revision README](Story/Revision/README.md#development-levels-for-a-chapter): L0 contract, L1 hardened, L2 planned, L3 revised from the voice sources and checked, L4 independently reviewed and read by the author. Every chapter's target is L4.
 
 ## Chapter-by-chapter
 
 | Chapter | Contract | Level | Where it stands | Blocked by |
 | --- | --- | --- | --- | --- |
-| **1** | W01 | L2 | The August rewrite of James's July chapter. Her welcome party goes in (R10); rebuild from his July text where the locks allow | Q-H (how well he knows her) |
-| **2** | W02 | L2 | The August rewrite of James's July chapter. No lo mein order: she goes after her books, as in his July ending (R12) | Q-H (two lines) |
+| **1** | W01 | L2 | The August rewrite of the author's July chapter. Her welcome party goes in (R10); rebuild from his July text where the locks allow | Q-H (how well he knows her) |
+| **2** | W02 | L2 | The August rewrite of the author's July chapter. No lo mein order: she goes after her books, as in his July ending (R12) | Q-H (two lines) |
 | **3** | W03 | L2 | Strong; closest of the later chapters to the benchmark. Line work only | — |
 | **4** | W04 | L2 | Strong (the cookbook given). Line work, light trim | — |
 | **5** | W05 | L2 | Needs a bridge at the top (a missing day; the dropped meeting); line fixes | — |
 | **6** | W06 | L2 | Line work (filter verbs); the dart and mirror are among the best beats | — |
-| **7** | W07 | L2 | Strong action; line work; two lines for James | — |
+| **7** | W07 | L2 | Strong action; line work; two lines for the author | — |
 | **8** | W08 | L2 | Strong midpoint; heavy commentary; one missing beat of cost. The first line recurs here (R11); Shade names himself here, but the interview locked the recognition at the diner | — |
 | **9** | W09 | L2 | Heavy commentary; two logic lines; the recognition moves here (lock) | — |
 | **10** | W10–W11 | L2 | The Ask repeats its facts; narrator states the thesis | — |
 | **11** | W12 | L2 | The best-built chapter; line work only | — |
-| **12** | W13 | **L3** | **Revised 2026-09-30 (Step 2, [pass P4](Story/Revision/Pass-Log.md#p4-2026-09-30-step-2-chapter-12)):** narration contracted, fragment stacks merged, explaining lines cut, the scans continuity error fixed; dialogue untouched. Waiting for James's verdict and his calls on the flagged lines | James's verdict |
+| **12** | W13 | **L3** | **Revised 2026-09-30 (Step 2, [pass P4](Story/Revision/Pass-Log.md#p4-2026-09-30-step-2-chapter-12)):** narration contracted, fragment stacks merged, explaining lines cut, the scans continuity error fixed; dialogue untouched. Waiting for the author's verdict and his calls on the flagged lines | The author's verdict |
 | **13** | W14 | L2 | Required; the middle vignettes repeat one point | — |
 | **14** | W15 | L2 | Strong; Prague contradiction; the climax is being explored | Q-E |
-| **15** | W16 | L2 | The climax; Shade's reason unclear and not the locked one; all line changes are for James | Q-E |
+| **15** | W16 | L2 | The climax; Shade's reason unclear and not the locked one; all line changes are for the author | Q-E |
 | **16** | W17 | L2 | The most commentary in the book; the hearing reads as a rules list | — |
 | **17** | W18 | L2 | The correction montage repeats; the museum section's viewpoint blurs | — |
 | **18** | WC | L2 | Lands, but drifted from the interview's locks: the cookbook moment should be silent and Pathwell shouldn't test the prune. Ends on "Perfect." (R9); a stray `}` after the last word | — |
@@ -40,15 +40,15 @@ Details for every chapter: the [assessment](Story/Revision/Assessment-2026-09-29
 
 ## What's next
 
-1. **James reads the revised Chapter 12** and gives his verdict: does it sound like him? His calls on the [flagged lines](Story/Revision/Pass-Log.md#for-james-lines-to-rule-on) set how the next chapters treat the same kinds of line.
-2. James answers the two [open questions](Story/Revision/Decisions.md#open-for-james) ("he knows her", and the climax options).
+1. **The author reads the revised Chapter 12** and gives his verdict: does it sound like him? His calls on the [flagged lines](Story/Revision/Pass-Log.md#for-the-author-lines-to-rule-on) set how the next chapters treat the same kinds of line.
+2. The author answers the two [open questions](Story/Revision/Decisions.md#open-for-the-author) ("he knows her", and the climax options).
 3. Then the chapters nothing blocks, in reading order; then the blocked ones as their questions are settled.
 
 ---
 
 ## Known recurring weaknesses
 
-From the [assessment](Story/Revision/Assessment-2026-09-29.md#book-level-findings), with counts for the current chapters. None of them is in James's own pre-August Chapters 1–2; they came in with the 2026-08-28 rewrite, so the revision's job is to keep the rewrite's story and return the prose to his voice. Watch for them in every pass:
+From the [assessment](Story/Revision/Assessment-2026-09-29.md#book-level-findings), with counts for the current chapters. None of them is in the author's own pre-August Chapters 1–2; they came in with the 2026-08-28 rewrite, so the revision's job is to keep the rewrite's story and return the prose to his voice. Watch for them in every pass:
 
 - **Explaining what the scene just showed**, including the narrator stating the theme (240 short commentary paragraphs; 2–6 per chapter in Chapters 1–3, up to 30 in Chapter 16).
 - **One cadence for every register:** "Not X. / Y." fragments (238) and stacked one-line paragraphs, so the climax sounds like the banter.

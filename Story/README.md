@@ -19,8 +19,8 @@ The old ending (`Coda.txt`), `Pathwell Working.docx`, the June review notes and 
 | Folder | What it is | State |
 | --- | --- | --- |
 | [Chapters/](Chapters/) | The manuscript | current |
-| [Interview/](Interview/README.md) | The Bible interview (2026-08-21 to 08-27): James's locked answers about the story and the world | authority |
-| [Revision/](Revision/README.md) | The current revision: order of authority, decisions, plan, promise ledger, registry, pass log, and James's pre-August chapters as the [voice benchmark](Revision/Voice-Benchmark/README.md) | current |
+| [Interview/](Interview/README.md) | The Bible interview (2026-08-21 to 08-27): the author's locked answers about the story and the world | authority |
+| [Revision/](Revision/README.md) | The current revision: order of authority, decisions, plan, promise ledger, registry, pass log, and the author's pre-August chapters as the [voice benchmark](Revision/Voice-Benchmark/README.md) | current |
 | [Story_Files/](Story_Files/README.md) | Canon, the world and character bibles, the chapter contracts, the voice reference | current |
 | [Sunday-Morning/](Sunday-Morning/README.md) | The writing method the revision uses (its tone isn't used for this book) | current |
 | [ideas/](ideas/), [insights/](insights/) | Two promoted MAP records (the unpaid-plot-debts insight) | history, still cited by the method |

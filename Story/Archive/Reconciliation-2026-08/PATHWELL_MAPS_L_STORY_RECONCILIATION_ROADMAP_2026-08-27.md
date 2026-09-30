@@ -2,7 +2,7 @@
 
 - State: `WORKING`
 - Mode: **planning/reconciliation only; manuscript chapters are not edited by this document**
-- Owner/operator: James
+- Owner/operator: the author
 - Source-of-truth repository: `BigCatMellow-Archive/Pathwell`
 - Method source: `BigCatMellow/MAPS_Lean` — Project Bootstrap / roadmap discipline
 

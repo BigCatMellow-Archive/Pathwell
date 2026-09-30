@@ -4,7 +4,7 @@
 
 **Writing reference: a general guideline for Sunday Morning stories in any setting.** This page is a **template**. Copy it into each collection's folder (for example `Story/My-Collection/Registry.md`) and fill it in there. The copy owns what that collection has already used (names, story shapes, devices and stock phrases) so new stories and new passes stay fresh instead of quietly repeating the last ones.
 
-The idea came from the first collection, after James noticed two protagonists with the same initials ([D8](Decisions.md#standing-rulings): keep every story unique and fresh). The lessons behind each rule below are in [History](History.md#what-went-wrong-and-where-the-lesson-lives-now).
+The idea came from the first collection, after the author noticed two protagonists with the same initials ([D8](Decisions.md#standing-rulings): keep every story unique and fresh). The lessons behind each rule below are in [History](History.md#what-went-wrong-and-where-the-lesson-lives-now).
 
 The checker reads this page's marked sections and the collection's drafts, and reports clashes, repeated phrases, stock phrases, filter verbs and uncontracted narration. Run it from the repository root:
 

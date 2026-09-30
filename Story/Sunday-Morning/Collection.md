@@ -159,7 +159,7 @@ Run THINK and PLAN once for the collection as a whole. In the first collection t
 
 ### THINK at collection level
 
-**Reasoning allocation:** structured single path plus reserve methods. THINK's tests don't earn extra methods by default. Reserve methods come in only when each is tied to a specific failure signal found in the collection; that is THINK's rule for bringing them in (see [Stage 1](Pipeline.md#stage-1--think-harden-the-concept)). In the first collection they were used at James's request, each tied to a signal.
+**Reasoning allocation:** structured single path plus reserve methods. THINK's tests don't earn extra methods by default. Reserve methods come in only when each is tied to a specific failure signal found in the collection; that is THINK's rule for bringing them in (see [Stage 1](Pipeline.md#stage-1--think-harden-the-concept)). In the first collection they were used at the author's request, each tied to a signal.
 
 | Method | Failure signal it answers | Finding (generalized from the first collection) |
 | --- | --- | --- |

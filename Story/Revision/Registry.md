@@ -99,7 +99,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | The Space Between coffee memory recited ("two in the morning", "highlighters") | 3, 9, 10, 13, 18 |
 | Pathwell goes still as a tell | 1, 4, 5, 6, 7, 8, 10, 11 and later |
 | A found document read aloud as a small payoff (accession card, road book, Merritt margins) | 4, 11, 17, 18 |
-| Unnamed functional roles (healer, archivist, shopkeeper, curator) | throughout; deliberate, but see [Open for James](Decisions.md#open-for-james) on the healer |
+| Unnamed functional roles (healer, archivist, shopkeeper, curator) | throughout; deliberate, but see [Open for the author](Decisions.md#open-for-the-author) on the healer |
 | Rhymed choices: "It was an absurdly small decision. / It was still hers." → "The choice was ridiculous. / It was still hers." | 2 → 17 |
 | Rhymed choices: "That was the choice. / Everything afterward was consequence." → "…Everything else burned afterward." | 4 → 15 |
 | The ledger payment and its mirror | 3 → 18 (and Coda) |
@@ -120,7 +120,7 @@ The template's list, which the checker reports if any appear. The book's own hab
 
 ## Watch patterns
 
-Counted per 1,000 words of narration (dialogue removed) unless the line ends `:: all`. They measure the watch-list items in [Craft](../Sunday-Morning/Craft.md#jamess-watch-list) and the habits the [cold read](Cold-Read-2026-09-29.md#repeated-habits-across-chapters) found. A count is a pointer for reading, not a verdict.
+Counted per 1,000 words of narration (dialogue removed) unless the line ends `:: all`. They measure the watch-list items in [Craft](../Sunday-Morning/Craft.md#the-authors-watch-list) and the habits the [cold read](Cold-Read-2026-09-29.md#repeated-habits-across-chapters) found. A count is a pointer for reading, not a verdict.
 
 <!-- registry:watch:start -->
 - paragraphs opening "Not…" or "No…" (fragment rhythm) :: ^(?:Not|No)\b[^\n]{0,80}$
@@ -138,7 +138,7 @@ Counted per 1,000 words of narration (dialogue removed) unless the line ends `::
 - "Lizzy" :: Lizzy :: all
 - bureaucratic imagery :: (?i)\badministrative\b|\bpaperwork\b|\bbureaucra
 - "noticed that too" / "saw that too" :: (?i)\b(?:noticed|saw)(?: that| it)? too\b
-- "mouth moved at one corner" (stock gesture, or a family tell shared by Mama Baga, Shade and Pathwell? for James, P4) :: (?i)mouth (?:moved|twitched) at one corner|mouth moved\b :: all
+- "mouth moved at one corner" (stock gesture, or a family tell shared by Mama Baga, Shade and Pathwell? for the author, P4) :: (?i)mouth (?:moved|twitched) at one corner|mouth moved\b :: all
 - commentary paragraph (a short line that evaluates the beat just shown) :: ^(?:That|This|It was|Which|For once|Neither|There it was|Good\.|Elizabeth (?:appreciated|liked|noticed|understood|believed|approved|found|realized|knew|felt)|She (?:believed|appreciated|understood|resented|hated|knew)|The (?:answer|sentence|word|question|correction|distinction))\b[^\n]{0,90}$
 <!-- registry:watch:end -->
 

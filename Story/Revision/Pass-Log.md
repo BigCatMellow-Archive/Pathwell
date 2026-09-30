@@ -10,16 +10,16 @@ A short account of how the chapters got to where they are, so a later pass doesn
 
 | When | What happened | Record |
 | --- | --- | --- |
-| to June 2026 | Discovery draft; Chapters 1–2 revised with James and adopted as the voice benchmark | [pathwell_editorial_operations.md](../Archive/Notes-2026-06-to-08/pathwell_editorial_operations.md), `chapter1_revision_journey.md`, `chapter2_revision_journey.md` |
+| to June 2026 | Discovery draft; Chapters 1–2 revised with the author and adopted as the voice benchmark | [pathwell_editorial_operations.md](../Archive/Notes-2026-06-to-08/pathwell_editorial_operations.md), `chapter1_revision_journey.md`, `chapter2_revision_journey.md` |
 | June–July 2026 | Multi-agent (MAP) review and prose passes; Chapters 1–2 locked (2026-07-01); the Coda made the only ending | [session_progress.md](../Archive/Notes-2026-06-to-08/session_progress.md), [INS-0001](../insights/INS-0001-unpaid-plot-debts-must-be-paid-on-page.md) |
-| 2026-08-21 to 08-27 | The Bible interview: James answered one question at a time (the Bible decisions, then audit questions Q1–Q149), and each answer was locked | `BIBLE_DECISIONS_2026-08-2*.md`, `MANUSCRIPT_RECONCILIATION_AUDIT*`; indexed on [Decisions](Decisions.md#the-bible-interview-locks-the-manuscript-follows) |
+| 2026-08-21 to 08-27 | The Bible interview: the author answered one question at a time (the Bible decisions, then audit questions Q1–Q149), and each answer was locked | `BIBLE_DECISIONS_2026-08-2*.md`, `MANUSCRIPT_RECONCILIATION_AUDIT*`; indexed on [Decisions](Decisions.md#the-bible-interview-locks-the-manuscript-follows) |
 | 2026-08-28 | The reconciliation executed: all eighteen chapters rewritten to the [chapter contracts](../Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md); Chapter 18 written as the new coda; Chapter 12b removed. `Coda.txt` wasn't touched and wasn't removed | `MANUSCRIPT_RECONCILIATION_EXECUTION_LOG*` |
 | 2026-09-17 to 09-18 | Experimental Architecture V2–V5, recovered-decision audits and author-intent notes. Several author decisions recorded; nothing applied to the chapters | the 09-17/18 files in [Story_Files](../Story_Files/); indexed on [Decisions](Decisions.md#later-recorded-rulings-2026-09-1718) |
-| 2026-09-27 to 09-29 | The Sunday Morning method built on a seven-story collection, with James's voice guide (09-27) | [Sunday-Morning/History](../Sunday-Morning/History.md) |
+| 2026-09-27 to 09-29 | The Sunday Morning method built on a seven-story collection, with the author's voice guide (09-27) | [Sunday-Morning/History](../Sunday-Morning/History.md) |
 
 ## P1, 2026-09-29: take stock (Step 1)
 
-**Goal:** inventory, cold read, assessment, THINK and PLAN; no chapter edits ([R6](Decisions.md#jamess-rulings-for-this-revision)).
+**Goal:** inventory, cold read, assessment, THINK and PLAN; no chapter edits ([R6](Decisions.md#the-authors-rulings-for-this-revision)).
 
 **What ran**
 
@@ -37,7 +37,7 @@ A short account of how the chapters got to where they are, so a later pass doesn
 - Changed: `Story/Sunday-Morning/tools/sunday_morning_check.py` (options above; no change to how `.md` drafts are chosen or split); `Story/Sunday-Morning/Registry.md` (an empty, optional watch block); `Story/Sunday-Morning/README.md` (the checker paragraph); `Revision-Status.md` (rewritten); `Open-Questions.md`, `Structural-Risks.md` (a status line each); `Story/README.md` (a pointer).
 - Not changed: every chapter file, and every other record.
 
-**Result:** every chapter at L2 ([levels](README.md#development-levels-for-a-chapter)); nine questions for James; plan awaiting approval. Stopped here. (Nine became seven in P1b.)
+**Result:** every chapter at L2 ([levels](README.md#development-levels-for-a-chapter)); nine questions for the author; plan awaiting approval. Stopped here. (Nine became seven in P1b.)
 
 ### Check log
 
@@ -46,7 +46,7 @@ A short account of how the chapters got to where they are, so a later pass doesn
 
 ## P1b, 2026-09-29 to 30: the Bible interview checked
 
-**Why:** James pointed out that the repository holds the interview that "straightened everything out". P1 had indexed those files but read only the September audits that summarize them, so several of its questions were ones James had already answered.
+**Why:** The author pointed out that the repository holds the interview that "straightened everything out". P1 had indexed those files but read only the September audits that summarize them, so several of its questions were ones the author had already answered.
 
 **What ran**
 
@@ -61,16 +61,16 @@ A short account of how the chapters got to where they are, so a later pass doesn
 
 **Lesson, for the method:** read the author's primary decision record before any summary of it; a summary written for an experiment can misstate what's settled. This goes into the Sunday Morning [Pipeline](../Sunday-Morning/Pipeline.md#before-the-first-draft) as a line under "Check Decisions".
 
-## P2, 2026-09-30: James's answers; the voice benchmark; the pillar pages
+## P2, 2026-09-30: the author's answers; the voice benchmark; the pillar pages
 
-**James's answers** (recorded as [R9–R15](Decisions.md#jamess-rulings-for-this-revision)): the book ends on "Perfect."; the party is Elizabeth's own welcome party, and "he knows her"; "It was the crash that woke her." repeats at the midpoint; she never orders the lo mein, she goes after her books; the climax is still open and he wants to see what the story needs; yes to bringing the pillar pages into line; the healer's name, the dagger and the test chapter don't matter to him.
+**The author's answers** (recorded as [R9–R15](Decisions.md#the-authors-rulings-for-this-revision)): the book ends on "Perfect."; the party is Elizabeth's own welcome party, and "he knows her"; "It was the crash that woke her." repeats at the midpoint; she never orders the lo mein, she goes after her books; the climax is still open and he wants to see what the story needs; yes to bringing the pillar pages into line; the healer's name, the dagger and the test chapter don't matter to him.
 
-**Finding: the benchmark chapters aren't his.** Checking the lo mein against git showed that James's July Chapter 2 ends with "He still has it." and has no lo mein order, and that the 2026-08-28 reconciliation rewrote Chapters 1 and 2 along with the rest (Ch1: 729 → 1,680 words; Ch2: 1,141 → 1,807). Before the rewrite, the whole manuscript (Chapters 1–12b and the Coda, git `765b69b`) was about 16,600 words, with 2.8 uncontracted forms, 0.2 "Not…"/"No…" fragment paragraphs and 0.5 commentary paragraphs per 1,000 words of narration. It's now about 48,700 words at roughly 5 per 1,000 on each of those measures. James's own Chapters 1–2 score zero, zero and one commentary paragraph between them. So the prose-layer faults are the rewrite's, not his; the revision keeps the rewrite's story (which follows his locks) and returns the prose to his voice. His July chapters become the voice benchmark ([W9](Decisions.md#working-decisions)); the assessment carries a correction note.
+**Finding: the benchmark chapters aren't his.** Checking the lo mein against git showed that the author's July Chapter 2 ends with "He still has it." and has no lo mein order, and that the 2026-08-28 reconciliation rewrote Chapters 1 and 2 along with the rest (Ch1: 729 → 1,680 words; Ch2: 1,141 → 1,807). Before the rewrite, the whole manuscript (Chapters 1–12b and the Coda, git `765b69b`) was about 16,600 words, with 2.8 uncontracted forms, 0.2 "Not…"/"No…" fragment paragraphs and 0.5 commentary paragraphs per 1,000 words of narration. It's now about 48,700 words at roughly 5 per 1,000 on each of those measures. The author's own Chapters 1–2 score zero, zero and one commentary paragraph between them. So the prose-layer faults are the rewrite's, not his; the revision keeps the rewrite's story (which follows his locks) and returns the prose to his voice. His July chapters become the voice benchmark ([W9](Decisions.md#working-decisions)); the assessment carries a correction note.
 
 **What changed (from the diff)**
 
 - `Decisions.md`: R9–R15; W9; the September records table updated; open questions reduced to Q-H ("he knows her": from the party, or from before?) and Q-E (the climax, exploring).
-- `Plan.md`: new section, [the climax: what the story has already planted](Plan.md#the-climax-what-the-story-has-already-planted), with four options grown from the text; Step 2 set to Chapter 12 with James's July chapters as the ear; chapter work lists for Ch1, 2, 8, 14, 15 and 18 updated; triggers updated.
+- `Plan.md`: new section, [the climax: what the story has already planted](Plan.md#the-climax-what-the-story-has-already-planted), with four options grown from the text; Step 2 set to Chapter 12 with the author's July chapters as the ear; chapter work lists for Ch1, 2, 8, 14, 15 and 18 updated; triggers updated.
 - `Non-Negotiable-Scenes.md` rewritten to the interview's locks; two rows and one sentence of `Thesis-and-Controlling-Ideas.md`; beats 5, 9, 11 and 12 of `Story_Files/canon.md` (each page marked with a dated status line).
 - `Promise-Ledger.md` (R1, R2, R5, P1, O4), `Assessment-2026-09-29.md` (correction note), `README.md`, `Revision-Status.md`.
 - `Sunday-Morning/Pipeline.md`: one sentence under "Voice source first" (check that an author's sample chapters are still the author's text).
@@ -78,7 +78,7 @@ A short account of how the chapters got to where they are, so a later pass doesn
 
 ## P3, 2026-09-30: one current version of anything
 
-**Why:** James: "Theres a lot of versions and notes, we should make sure that we are putting some things in like archive / legacy so that we dont keep running in to conflicting versions" (R16). The repository had three layers of rulings, a June wiki that contradicted the interview, a superseded ending still in `Chapters/`, and about 220 notes files mixed together, which is how P1 read summaries in place of James's own answers.
+**Why:** The author: "Theres a lot of versions and notes, we should make sure that we are putting some things in like archive / legacy so that we dont keep running in to conflicting versions" (R16). The repository had three layers of rulings, a June wiki that contradicted the interview, a superseded ending still in `Chapters/`, and about 220 notes files mixed together, which is how P1 read summaries in place of the author's own answers.
 
 **What ran**
 
@@ -86,7 +86,7 @@ A short account of how the chapters got to where they are, so a later pass doesn
 2. Moved 229 files with `git mv`, unchanged, and rewrote 77 links that pointed at them; converted the dead wiki links in the three root pages to plain text. Every link in the current pages resolves.
 3. Corrected the stale lines in the pages that stay current (character_bible: 6; world_bible: 1; glossary: Papa Baga), each with a dated note.
 4. Wrote an index for each folder: the [repository README](../../README.md), [Story/README](../README.md), the [archive](../Archive/README.md) (with what replaced each group and rules to keep it from piling up again), the [interview](../Interview/README.md), [Story_Files](../Story_Files/README.md), and the [voice benchmark](Voice-Benchmark/README.md).
-5. Saved James's pre-August Chapters 1–2 as the voice benchmark, read-only, so the ear for the revision isn't only in git.
+5. Saved the author's pre-August Chapters 1–2 as the voice benchmark, read-only, so the ear for the revision isn't only in git.
 
 **The layout now**
 
@@ -100,9 +100,9 @@ A short account of how the chapters got to where they are, so a later pass doesn
 
 ## P4, 2026-09-30: Step 2, Chapter 12
 
-**Goal:** revise one chapter from the voice sources and check it, then stop for James's verdict ([plan](Plan.md#step-2-the-test-chapter)). James: "go ahead with chapter 12".
+**Goal:** revise one chapter from the voice sources and check it, then stop for the author's verdict ([plan](Plan.md#step-2-the-test-chapter)). The author: "go ahead with chapter 12".
 
-**Approach.** The story, the dialogue and every ledger fact stay as they were. The prose moves toward James's pre-August Chapters 1–2 ([benchmark](Voice-Benchmark/README.md)). That means narration contracted the way people talk; ordinary movement written as sentences instead of stacks of one-line fragments; and narrator lines that only restate what the scene just showed cut. Lines in the cautious categories were left alone unless the change was plainly a cut of redundant explanation, and every one of them is listed below for James ([plan](Plan.md#step-2-the-test-chapter), step 2).
+**Approach.** The story, the dialogue and every ledger fact stay as they were. The prose moves toward the author's pre-August Chapters 1–2 ([benchmark](Voice-Benchmark/README.md)). That means narration contracted the way people talk; ordinary movement written as sentences instead of stacks of one-line fragments; and narrator lines that only restate what the scene just showed cut. Lines in the cautious categories were left alone unless the change was plainly a cut of redundant explanation, and every one of them is listed below for the author ([plan](Plan.md#step-2-the-test-chapter), step 2).
 
 ### What changed (from the diff)
 
@@ -136,12 +136,12 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 
 **Fixes:**
 
-- *Continuity.* The old text had "She had watched Pathwell say the scans still had the information. / She had understood immediately why that was not enough." But Elizabeth goes through the wall at Chapter 11 before Pathwell says the scans line, so she couldn't have watched him say it. It now reads: "The first night here, the archivist had told her a copy wouldn't be the same thing, and she'd said she knew." That is the Chapter 4 exchange ("The copy won't be the same thing." / "I know."). **This is new text in an emotional passage; it's for James.**
+- *Continuity.* The old text had "She had watched Pathwell say the scans still had the information. / She had understood immediately why that was not enough." But Elizabeth goes through the wall at Chapter 11 before Pathwell says the scans line, so she couldn't have watched him say it. It now reads: "The first night here, the archivist had told her a copy wouldn't be the same thing, and she'd said she knew." That is the Chapter 4 exchange ("The copy won't be the same thing." / "I know."). **This is new text in an emotional passage; it's for the author.**
 - *Logic.* The old text had "Loan meant it remained hers in a different building. / Deposit meant she could tell herself…", but she had just said no to "Store". The two lines are now one, about the loan: "A loan meant it stayed hers in a different building, and she could tell herself she'd only moved the checking somewhere safer."
-- *Time of day.* Chapter 11 ends in daylight; Camp is lit by lanterns and dawn comes at the end of Chapter 12. The line now reads "Then lantern light; here it was still dark." (the plan's C item for Chapter 12). **This is new text; it's for James.**
+- *Time of day.* Chapter 11 ends in daylight; Camp is lit by lanterns and dawn comes at the end of Chapter 12. The line now reads "Then lantern light; here it was still dark." (the plan's C item for Chapter 12). **This is new text; it's for the author.**
 - *Repetition with Chapter 11.* The old text had "No hand offered. / No argument. / He walked beside her instead." Chapter 11 says the same thing about ten minutes earlier in story time ("No argument. / No theatrical offer of his hand."). The line is cut to "He walked beside her."
 
-**Cut:** narrator commentary that explains what the scene just showed. Each cut is listed below so James can restore it.
+**Cut:** narrator commentary that explains what the scene just showed. Each cut is listed below so the author can restore it.
 
 **Kept on purpose:**
 
@@ -150,7 +150,7 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 - *A family gesture:* Mama Baga's "mouth moved at one corner", which a book-wide check suggests is a family gesture ([ledger R17](Promise-Ledger.md#relationships-and-running-elements)).
 - *Every line of dialogue.*
 
-### For James: lines to rule on
+### For the author: lines to rule on
 
 **Cuts you may want back.** Every one is narrator commentary.
 
@@ -168,7 +168,7 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 
 - **The opening,** "Camp Cunnan was awake enough to notice trouble and asleep enough to resent it." It's the second of three personified openings in a row (11, 12, 13). The plan varies Chapter 13's opening instead, so this one can stay.
 - **"It was terrible. / That, at least, felt normal."** This is the drink gag's fifth use (3, 4, 9, 12, 13, 18). Keep it here, or cut "That, at least, felt normal."
-- **"Receiving weight rather than claiming it."** It echoes Chapter 4's "Receiving the weight rather than examining it." and is more aphoristic than James writes. It could go now that the sentence before it names the cookbook.
+- **"Receiving weight rather than claiming it."** It echoes Chapter 4's "Receiving the weight rather than examining it." and is more aphoristic than the author writes. It could go now that the sentence before it names the cookbook.
 - **"Still being used. Still itself."** (the blue road notebook). This fragment pair is fine as it is.
 - **"The book belonged here now. That still hurt. It also no longer felt like disappearance."** The emotional turn is unchanged; only the paragraphing changed.
 - **"Elizabeth understood."** (before "Do it."). It can be cut, since "The healer waited." already carries it.
@@ -206,7 +206,7 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 - **Replacement tics.** The check found the main new tic: ", then" chains (9 against 1 before, four of them "looked at X, then at Y"). They're now down to 4. Other counts:
   - ", and he/she" joins: 5;
   - colon lists: 4 (against 2 before);
-  - one "and… and… and" chain (the diary's contents; James's own "and" runs are similar);
+  - one "and… and… and" chain (the diary's contents; the author's own "and" runs are similar);
   - no "didn't quite".
 
   Watch all of these in the next chapter.
@@ -214,26 +214,26 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 - **Left for Chapter 13's pass:** the closing blanket "over the good shoulder" by the fire is repeated almost word for word in Chapter 13's second paragraph.
 - **Still not run:** the independent fact-check of the P1 records (see P1's check log). It was declined in the session and hasn't been re-asked.
 
-**Result:** Chapter 12 is at L3. It's waiting for James's verdict; no other chapter has been touched.
+**Result:** Chapter 12 is at L3. It's waiting for the author's verdict; no other chapter has been touched.
 
 ## P4b, 2026-09-30: what the AI-detection read teaches
 
-**Why:** James ran the P4 Chapter 12 through GPTZero and shared the conversation about it. It classified the passage as AI-written, which it is. His ruling: "we dont need to over correct here, or even correct. For now its just somehting to learn from." ([R17](Decisions.md#jamess-rulings-for-this-revision))
+**Why:** The author ran the P4 Chapter 12 through GPTZero and shared the conversation about it. It classified the passage as AI-written, which it is. His ruling: "we dont need to over correct here, or even correct. For now its just somehting to learn from." ([R17](Decisions.md#the-authors-rulings-for-this-revision))
 
 **What changed (from the diff):**
 
-- New page, [AI detection notes](AI-Detection-Notes-2026-09-30.md). It holds James's handoff unchanged, under a short account of what it teaches this revision.
+- New page, [AI detection notes](AI-Detection-Notes-2026-09-30.md). It holds the author's handoff unchanged, under a short account of what it teaches this revision.
 - R17 in Decisions.
 - A row in the README's table.
 - One clause on the Plan's first reconsideration trigger, pointing to the notes.
 - No chapter file was touched.
 - The checker, the Registry and the plan's work are unchanged.
 
-**Lessons,** held here as candidates. None goes into the Sunday Morning method unless James acts on this.
+**Lessons,** held here as candidates. None goes into the Sunday Morning method unless the author acts on this.
 
-- P4's measures (contractions, "Not…" fragments, commentary paragraphs) track the surface of the rewrite's habits, not the voice underneath. Against James's Chapters 1–2 the larger differences are these:
+- P4's measures (contractions, "Not…" fragments, commentary paragraphs) track the surface of the rewrite's habits, not the voice underneath. Against the author's Chapters 1–2 the larger differences are these:
   - where the humour lives: in his chapters, in Pathwell's dialogue, not the narrator's wit;
   - how clean Elizabeth's interior thought is: in his chapters, messy worry, not precise self-diagnosis;
   - how much the senses carry a scene.
-- The new text P4 wrote was among the lines the detector flagged most strongly. That supports keeping new emotional text for James.
+- The new text P4 wrote was among the lines the detector flagged most strongly. That supports keeping new emotional text for the author.
 - The fresh check should also look for repeated joke templates inside a chapter. P4's missed "as if mostly were a medically useful category" / "as though museums were a recognized injury category".

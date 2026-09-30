@@ -1,6 +1,6 @@
 # Thesis and Controlling Ideas
 
-> **Status, 2026-09-30:** the character rows and one sentence brought into line with the Bible interview at James's direction ([R14](Story/Revision/Decisions.md#jamess-rulings-for-this-revision)); the controlling idea and thesis are unchanged. Whether Elizabeth's climax choice must also change the Pathwell–Shade outcome is being explored ([Q-E](Story/Revision/Decisions.md#open-for-james)).
+> **Status, 2026-09-30:** the character rows and one sentence brought into line with the Bible interview at the author's direction ([R14](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)); the controlling idea and thesis are unchanged. Whether Elizabeth's climax choice must also change the Pathwell–Shade outcome is being explored ([Q-E](Story/Revision/Decisions.md#open-for-the-author)).
 
 ## The Controlling Idea
 
