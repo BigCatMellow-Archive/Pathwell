@@ -1,5 +1,7 @@
 # Pathwell — Narrator Register Guide
 
+> **Status, 2026-09-30: current.** This page owns how the narrator sounds: when the narration carries its own dry, slightly irreverent voice and when it steps aside. Pass P3 archived it by mistake with the secondary voice notes; it came back in [pass P4c](../Revision/Pass-Log.md#p4c-2026-09-30-the-narrator-has-its-own-voice) ([W11](../Revision/Decisions.md#working-decisions)). It sits beside the [voice guide](../Sunday-Morning/Sources/Voice-Guide.md) and [pathwell_prose_voice.md](pathwell_prose_voice.md). The two general guides it tells you to read first are in the [archive](../Archive/Voice-notes/); this page doesn't depend on them. Its calibration lines come from the author's older chapters.
+
 Two registers in the narration: **clinical precision** and **irreverent oral storytelling**. Both are correct. Knowing when to use each is the difference between narration that lands and narration that's just stage direction.
 
 This guide is the Pathwell-specific companion to `cadence-rhythm-euphony-ai-review-guide.md` and `natural-oral-storytelling-prose-ai-guide.md`. Read those first for the general framework. This file applies it to this book.

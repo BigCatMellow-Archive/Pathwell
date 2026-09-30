@@ -12,5 +12,6 @@
 | [glossary.md](glossary.md) | Names and terms | Papa Baga marked cut |
 | [PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md](PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md) | What each chapter must accomplish (W01–WC) | Each chapter's plan in the revision; later locks and rulings override it where they differ ([Decisions](../Revision/Decisions.md)) |
 | [pathwell_prose_voice.md](pathwell_prose_voice.md) | How the prose sounds, drawn from the author's Chapters 1–2 | Voice authority, after the [voice guide](../Sunday-Morning/Sources/Voice-Guide.md) |
+| [pathwell_narrator_register.md](pathwell_narrator_register.md) | The narrator's own voice: dry, slightly irreverent, noticing the wrong detail; when it's present (arrivals, transitions, aftermath) and when it steps aside (action, sensation, Shade, punchlines) | Voice authority, beside pathwell_prose_voice; back from the archive on 2026-09-30 ([W11](../Revision/Decisions.md#working-decisions)) |
 | [forbidden_patterns.md](forbidden_patterns.md) | The author's own habits to watch for | Feeds the [watch-list](../Sunday-Morning/Craft.md#the-authors-watch-list) |
 | [quote_and_character_voice_reference.md](quote_and_character_voice_reference.md) | A bank of lines and character-voice notes the author approved for use | A resource, not a rule |

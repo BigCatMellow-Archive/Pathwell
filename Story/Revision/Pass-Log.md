@@ -237,3 +237,26 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
   - how much the senses carry a scene.
 - The new text P4 wrote was among the lines the detector flagged most strongly. That supports keeping new emotional text for the author.
 - The fresh check should also look for repeated joke templates inside a chapter. P4's missed "as if mostly were a medically useful category" / "as though museums were a recognized injury category".
+
+## P4c, 2026-09-30: the narrator has its own voice
+
+**Why:** The author, on the AI-detection notes: "iirc there should be a note that the narrator has its own voice". There is one: [pathwell_narrator_register.md](../Story_Files/pathwell_narrator_register.md). P3 had filed it in the archive with the secondary voice notes, and P4b's notes had wrongly read the benchmark's quiet narration as the target.
+
+**What changed (from the diff):**
+
+- `pathwell_narrator_register.md` moved from `Archive/Voice-notes/` back to `Story_Files/`, with a status line. The guide's own text is unchanged.
+- Decisions: W11.
+- The revision README's order of authority (voice) and its inventory.
+- The Story_Files and Archive indexes.
+- The Plan's first reconsideration trigger.
+- A sentence in the Sunday Morning Craft page's "Narration with an opinion".
+- AI detection notes, points 2–3 and the closing paragraph, rewritten with a correction note.
+- No chapter file was touched.
+
+**What it means:**
+
+- The narrator's attitude is wanted. The author names invisible narration as his own weakness.
+- What reads as AI in Chapter 12 is a narrator voice that ignores its register. It's too frequent, all the same move, present in the places the guide keeps it out of (sensation, around Shade), and loud where the guide is quiet.
+- P4's cuts match the guide's "does NOT do" list. P4's kept lines weren't checked against the guide. That happens in the next pass, if the author wants one.
+
+**Lesson, for the method:** before archiving a note as secondary, check that a current page owns its concept. Here no current page owned the narrator's register; the Craft page had one paragraph on it. This joins the archive rules ([archive README](../Archive/README.md#rules-so-this-doesnt-pile-up-again)).

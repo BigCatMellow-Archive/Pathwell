@@ -9,20 +9,21 @@
 1. **The passage is AI-written, and the detector was right about that.** The Chapter 12 the author tested is the 2026-08-28 rewrite's text as revised in P4. Every word of it is either the rewrite's or mine. This confirms [W9](Decisions.md#working-decisions): the current chapters' prose isn't the author's.
 
 2. **P4 moved the surface numbers, not the voice underneath.** The checker measures uncontracted narration, "Not X. / Y." fragments and commentary paragraphs. P4 brought all three close to the benchmark. The handoff names a deeper set of patterns, and P4 left them as they were:
-   - the narrator's own wit;
-   - personified details (the sock "surrendered", the fiddle "rejected" notes);
-   - `as if / as though X were…` punchlines;
+   - personified details in nearly every beat (the sock "surrendered", the fiddle "rejected" notes, the realization "arrived");
+   - `as if / as though X were…` punchlines, including the same joke twice;
    - polished antithesis ("The diary belonged to Camp now. The life in its pages was still hers.");
    - interior thought that diagnoses itself exactly;
-   - one dry, formal comedy engine shared by every character.
+   - one dry, formal comedy engine shared by the narrator and every character.
 
-3. **The author's own Chapters 1–2 show the difference plainly** ([benchmark](Voice-Benchmark/README.md)). There:
-   - The narrator hardly jokes. There are no `as if / as though` lines and almost no personification. The humour is in the dialogue, mostly Pathwell's: breezy, polite, evasive ("I wouldn't say hungry, I'm more peckish.", "Just a really weird Tuesday for you.").
-   - Elizabeth's interior is a messy run of worries and questions (the landlord, the door, the dry cleaning, the meeting), not a precise self-diagnosis.
-   - Scenes are carried by the senses: smell, sound, texture ("a stench of low tide", "The impact sang.").
-   - The two voices are distinct. Pathwell is chatty; Elizabeth panics and snaps.
+3. **The narrator having a voice is not the problem** (corrected in [P4c](Pass-Log.md#p4c-2026-09-30-the-narrator-has-its-own-voice); the first version of this point said the author's narrator "hardly jokes" and read that as the target). The book's own notes say the narrator has its own voice. The [narrator register guide](../Story_Files/pathwell_narrator_register.md) calls it dry and slightly irreverent: "a person in the room, watching with a slightly raised eyebrow. Not commenting out loud. Just noticing the wrong thing at the right moment." The author's watch-list goes further and names *invisible* narration as his own weakness ([forbidden patterns 6](../Story_Files/forbidden_patterns.md): "In Pratchett, half the wit lives in the narration's asides and attitude"). The guide even lists "as if it had personally disappointed him" among its tools. So the benchmark chapters' quiet narration is his starting point, not the aim.
 
-   So the benchmark differs from the current chapters in where the humour lives and in how clean the interiority is, not only in contractions.
+   What the detector picked up is a narrator voice that ignores its own register:
+   - **Too often, and all the same.** The guide says to use the small words of attitude "sparingly; they lose power if overused". Chapter 12 has a conceit in almost every paragraph, and the same joke twice.
+   - **In the wrong places.** The guide keeps the narrator out of sensation and away from Shade ("When Shade is in frame, the narrator adopts something close to his eerie exactness"). The narrator should be most present at arrivals, transitions and aftermath. In Chapter 12 the wit runs through all of them alike, and the [cold read](Cold-Read-2026-09-29.md) found Shade's humour and the narrator's converging.
+   - **Loud rather than noticing.** The guide's calibration lines are small: "Then he stayed there awhile longer anyway." "Nobody looked up when Pathwell walked through." The rewrite's narrator makes polished jokes.
+   - **Explaining and theming.** The guide's "does NOT do" list (explaining the gap, telling the reader what to feel, commenting on theme, commentary after a punchline) matches the lines P4 cut. So P4 followed the guide there without having read it.
+
+   What the benchmark still shows clearly: Elizabeth's interior is a messy run of worries (the landlord, the door, the dry cleaning, the meeting), not a precise self-diagnosis; scenes are carried by the senses ("a stench of low tide", "The impact sang."); and Pathwell and Elizabeth sound nothing alike.
 
 4. **The new lines P4 wrote were among the ones flagged most strongly.**
    - "The first night here, the archivist had told her a copy wouldn't be the same thing, and she'd said she knew." (the continuity fix)
@@ -37,7 +38,7 @@
 
 7. **Detector explanations aren't evidence.** The detector's sentence-level labels, such as "Mechanical Writing" and "Rich Yet Shallow", are weak, and several of the lines it flagged are doing real work ("Nobody reached for her." belongs to the chapter's consent motif). Only the document-level verdict and the pattern-level reading are worth keeping.
 
-**If the author later decides to act on this:** the likely route is a THINK pass on voice. It would ask where the humour lives, whose comedy it is and how clean the interiority is, and read these against his Chapters 1–2 before any more line work. It fits the first [reconsideration trigger](Plan.md#reconsideration-triggers) ("the author says the test chapter doesn't sound like him"). Until then, nothing changes.
+**If the author later decides to act on this:** the likely route is a THINK pass on voice, before any more line work. It would ask three things. Does the narrator's voice keep to its [register](../Story_Files/pathwell_narrator_register.md)? Is each character's humour their own? Is the interiority as messy as a person's? It would read these against his Chapters 1–2 and the guide's calibration lines. It fits the first [reconsideration trigger](Plan.md#reconsideration-triggers) ("the author says the test chapter doesn't sound like him"). Until then, nothing changes.
 
 ---
 
