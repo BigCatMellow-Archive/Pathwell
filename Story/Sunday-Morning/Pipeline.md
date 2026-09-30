@@ -168,7 +168,7 @@ Vary them here, using the Registry's rule for how much. In the first collection,
 
 ### Before the first draft
 
-- **Voice source first.** Draft from the author's own voice, recorded on [Craft](Craft.md#voice) and in the [voice guide](Sources/Voice-Guide.md). A draft written without one is in a substitute voice, however good it is.
+- **Voice source first.** Draft from the author's own voice, recorded on [Craft](Craft.md#voice) and in the [voice guide](Sources/Voice-Guide.md). A draft written without one is in a substitute voice, however good it is. When the voice sample is the author's own earlier chapters, check in the file history that they're still the author's text and haven't been rewritten since; on the Pathwell revision, the "benchmark" chapters turned out to be a later rewrite ([pass log](../Revision/Pass-Log.md)).
 - **Test before batch.** In a collection, draft or revise one story, get James's verdict, then do the rest.
 - **Sensibility, not checklist.** Voice and craft guidance shapes the prose. It doesn't assign the same beats to every story.
 - **Respect the author's AI boundaries.** See [who writes what](Craft.md#ai-and-james-who-writes-what): flag lines in the cautious categories for James.

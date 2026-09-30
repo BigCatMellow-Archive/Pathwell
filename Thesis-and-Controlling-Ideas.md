@@ -1,5 +1,7 @@
 # Thesis and Controlling Ideas
 
+> **Status, 2026-09-30:** the character rows and one sentence brought into line with the Bible interview at James's direction ([R14](Story/Revision/Decisions.md#jamess-rulings-for-this-revision)); the controlling idea and thesis are unchanged. Whether Elizabeth's climax choice must also change the Pathwell–Shade outcome is being explored ([Q-E](Story/Revision/Decisions.md#open-for-james)).
+
 ## The Controlling Idea
 
 > **Control is not competence.** When you treat "future possibility" as leverage, you eventually destroy your ability to choose — and other people pay for your convenience.
@@ -8,7 +10,7 @@
 
 > Freedom is preserved when a person chooses to act despite uncertainty, because the act of choosing — not the outcome — is what makes you human.
 
-Every scene argues for or against this. [[Elizabeth]]'s arc argues for it. [[Shade]]'s existence argues against it. [[Pathwell (Character)|Pathwell]] sits in the middle, proving both — he chose freely once, and now he's losing the ability to choose. The climax settles the argument through action, not words.
+Every scene argues for or against this. [[Elizabeth]]'s arc argues for it. [[Shade]] is what one of Pathwell's choices made, and then a person making his own. [[Pathwell (Character)|Pathwell]] sits in the middle: every prune narrows the futures his choices can open into, though it never takes the choosing away. The climax settles the argument through action, not words.
 
 ## The Novel's Thesis
 
@@ -22,8 +24,8 @@ Every scene argues for or against this. [[Elizabeth]]'s arc argues for it. [[Sha
 |---|---|
 | **Elizabeth** | Proves the thesis. Her choices matter without power. She acts under uncertainty with nothing. |
 | **Pathwell** | IS the controlling idea made flesh. His need to manage everything destroys what he's trying to protect. |
-| **Shade** | The endpoint — what happens when all choices are sold. The Lie made manifest. |
-| **Stansbury** | The uncomfortable middle ground. Agency isn't always pretty. He chose his morally questionable path with open eyes. |
+| **Shade** | Made from one of Pathwell's failed prunes, and then his own person: he says no, stays at Camp, plays cards badly, and makes his last choice himself. "Origin explains Shade. Origin does not own Shade." |
+| **Stansbury** | Avoids responsibility and calls it prudence (Q127); his turn is small and brother-specific: "Let it be." (Q128) |
 
 ## How Themes Must Land
 
