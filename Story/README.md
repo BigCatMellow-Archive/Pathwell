@@ -24,6 +24,16 @@ python3 Story/assemble_manuscript.py
 
 That writes `Story/Pathwell.txt` from Chapters 1–18. The chapter files remain authoritative if the generated file ever differs.
 
+## Revision
+
+The current revision of the manuscript, using the Sunday Morning method (not its tone), is recorded in:
+
+```text
+Revision/
+```
+
+Start at `Revision/README.md`: its order of authority, the plan, the open questions for James, the promise ledger and the pass log.
+
 ## Story support material
 
 Planning, canon, audit, reconciliation, and execution-support documents live in:

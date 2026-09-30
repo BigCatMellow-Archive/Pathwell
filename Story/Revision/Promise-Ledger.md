@@ -1,0 +1,75 @@
+# Promise ledger: Pathwell
+
+## Status
+
+**Active. Book record, created 2026-09-29 in [pass P1](Pass-Log.md).** This page owns the book-wide list of setups and their payoffs: what a chapter promises, where the promise is triggered, where it's paid, and whether it's paid on the page. It uses the Pipeline's [promise ledger](../Sunday-Morning/Pipeline.md#promise-ledger) shape across chapters instead of across stories. Every revision pass checks it before and after: a change that touches a setup or a payoff updates the row here in the same commit.
+
+It doesn't restate the chapter contracts. Each chapter's "must establish" items live in the [chapter contract matrix](../Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md#4-detailed-chapter-contracts) (W01 is Chapter 1 through W09 as Chapter 9; W10 and W11 are Chapter 10; W12 to W18 are Chapters 11 to 17; WC is Chapter 18). This ledger tracks the promises the reader actually carries, which is what the [cold read](Cold-Read-2026-09-29.md) tests.
+
+**Status values:** `paid` (on the page, and felt); `transformed` (paid by turning it into something else); `open-deliberate` (left open on purpose, by a ruling or because the world should exceed the story); `thin` (paid, but too lightly for how hard it was set up); `unpaid` (set up and dropped); `broken` (contradicted by a later chapter or by a ruling). Rows marked unpaid, broken or thin are routed in the [plan](Plan.md).
+
+## Premise and mystery
+
+| # | Promise | Set up | Triggered | Pays off | Kind | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| P1 | Why was Pathwell in her apartment, and why did he pick her boxes? | Ch1 (burglary "with very specific standards"; "Handwritten if possible. Family is better.") | Ch2 ("I don't know why you were in my apartment") | nowhere; his motive (a charged family record) is implied, the choice of her apartment never is | mystery | **unpaid**; the [welcome-party ruling](Decisions.md#recorded-rulings-not-yet-in-the-manuscript) answers it ([Q3](Decisions.md#open-for-james)) |
+| P2 | How does he know to call her "Lizzy"? | Ch2 ("The choice is yours, Lizzy.") | Ch3, 7, 8, 10, 14 (her correction) | nowhere; inverted in Ch16 ("He did not say Lizzy.") | mystery / relationship | **unpaid** as a mystery; the correction pattern itself is paid. Same fix as P1 |
+| P3 | Why was the blob at her door before any magic was worked? | Ch4 (Mama Baga: "It was already at the door before you used the cookbook?") | Ch5 ("Was it?"), Ch6 (mirror, "Mine."), Ch7 (it goes for Pathwell) | Ch9 ("You were never the point"), Ch15 (the blob takes Shade, then the spill, then leaves Pathwell) | mystery | paid |
+| P4 | "Your apartment's marked." | Ch1 | Ch7 ("He had pulled her out of it because he was certain the danger belonged to her") | Ch8 ("because you decided a monster was after me"), Ch9 | mystery / flaw | transformed; whether it reads as a *bluff* ([ruling A4](Decisions.md#recorded-rulings-reflected-in-the-manuscript)) rests on one line in Ch1 ("his face settled into certainty again") |
+| P5 | "The prune that went wrong": what did Pathwell do? | Ch7 | Ch8 (asked four times), Ch9 (Shade: "Ask him what he chose") | Ch10 (the Ask: "But you still chose it." / "Yes.") | mystery / moral | paid morally; the *content* (who asked for help, what the problem was) is withheld. **Open for James** ([Q8](Decisions.md#open-for-james)) |
+| P6 | What is Shade? | Ch6 (mirror), Ch8 ("I remember things I did not live") | Ch9, Ch10 ("My choice produced the failure he came from") | Ch13, Ch16 ("Person is the word I have for that.") | mystery / character | paid |
+| P7 | Pathwell is "thin": how much future is left? | Ch3 ("You're thin." "Still standing.") | Ch5, Ch6 (the missed dart), Ch14 (branches "thinner") | Ch18 ("Still capable of division. Still his."); Coda (the prune fails) | mechanism | paid in Ch18, contradicted by the Coda, and both conflict with the [2026-09-18 ruling](Decisions.md#recorded-rulings-not-yet-in-the-manuscript) that neither Pathwell nor the reader learns whether he can still prune. **Broken** until [Q1 and Q2](Decisions.md#open-for-james) are settled |
+| P8 | The draw: Shade's right hand | Ch6 (Pathwell's tension), Ch8 (the hand opens) | Ch9, 11, 12, 13, 14 | Ch15 ("His right hand closed… Shade closed it himself."; the draw vanishes) | image / mechanism | paid |
+
+## Objects
+
+| # | Promise | Set up | Triggered | Pays off | Kind | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| O1 | Nana's cookbook | Ch1 (blue marker, rubber bands, sugar cookies) | Ch4 (given whole; one page spent), Ch12 (its card: RESERVE / ASK BEFORE USE) | Ch15 (burns while she saves Milo), Ch18 (the Merritt book "stays itself") | object / grief | paid |
+| O2 | The sugar-cookie memory ("Don't overmix them, baby.") | Ch1, the book's benchmark scene | Ch4 ("Elizabeth almost said sugar cookies. The answer hurt…") | Ch18, one line in a list ("The torn sugar-cookie page.") | image / grief | **thin**. The cold reader expected it back; nothing requires it. Any return is an emotional line for James ([cautious category](../Sunday-Morning/Craft.md#ai-and-james-who-writes-what)) |
+| O3 | Elizabeth's diary | Ch1 (taken) | Ch3 (returned), Ch12 (given: "Ask me before anyone reads it") | Ch15 (burns; she steps over it), Ch16–17 (the checking gesture) | object / agency | paid. Continuity: it rides "against her ribs" inside her coat in Ch12 but "at her hip" in Ch16 and Ch17 |
+| O4 | The foam dagger ("Cuts separation into things that don't separate easily… Certain magical bindings.") | Ch5 | Ch7 (cuts Pathwell out of the blob) | last seen Ch10 (her waistband). Never mentioned again, though the climax turns on a magical binding between two men | tool | **unpaid**. The contract says only that its placement "must be tracked consistently" ([W08](../Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md#w08--deliberate-crash--shade-arrival)); the cold reader named it the biggest dropped setup |
+| O5 | Nana's mixing spoon | Ch2 (beside the stove) | Ch12 (diary list: FIND NANA'S SPOON, checked twice), Ch15 (read in the fire) | Ch17 (drawer, crock, drawer: "It was still hers.") | object | paid |
+| O6 | The laundry ticket and the dry cleaning | Ch2 (down the storm drain) | Ch3 | Ch17 ("permanently gone") | object / ordinary life | paid |
+| O7 | The front door, the landlord | Ch1, Ch2 | — | Ch18 ("The landlord had replaced it with something brown, heavy, and aggressively ordinary.") | ordinary life | paid |
+| O8 | The blue road notebook (the non-Elizabeth Camp record the fire needs, [ruling B5](Decisions.md#recorded-rulings-reflected-in-the-manuscript)) | Ch4 (DO NOT TRUST THE SOUTH BANK…) | Ch12 (still in use), Ch14 | Ch15 (Stansbury saves it), Ch17 (HESS SAYS FOUR; "Copy the smudge.") | object / Camp | paid |
+| O9 | The museum records (buttons card, Daniel Vale's sock letters, SAM HOME TODAY, the soap ledger) | Ch11, first half | Ch11 (destroyed) | Ch17 (facsimiles, one case left empty, the Henry Vale refusal) | object / loss | paid |
+| O10 | The Ellison letter and the grocery lists | Ch10 | Ch10 | Ch10 (spent; "A letter that deserved better, two grocery lists…") | object / mechanism | paid |
+| O11 | The Merritt family cookbook | Ch18 | Ch18 | Ch18 ("Then it stays itself.") | object | paid in Ch18; its staging conflicts with the [2026-09-18 ruling](Decisions.md#recorded-rulings-not-yet-in-the-manuscript) ([Q2](Decisions.md#open-for-james)) |
+
+## Relationships and running elements
+
+| # | Promise | Set up | Triggered | Pays off | Kind | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| R1 | "Ready?" / "No." / "Perfect." | Ch1 (Pathwell asks, momentum over her) | — | Ch18 (meant to be Elizabeth asking; as written the attribution reads as Pathwell asking again); Coda (Elizabeth asks) | callback | **broken** twice over: the ending runs it twice, and the recorded ruling is "Ready?" (Elizabeth) / "No." (Pathwell) / "Good." ([Q1, Q2](Decisions.md#open-for-james)) |
+| R2 | "It was the crash that woke her." as a protected line that repeats at the midpoint ([ruling A1](Decisions.md#recorded-rulings-not-yet-in-the-manuscript)) | Ch1 | Ch8 (the crash) | nowhere; the line appears only in Ch1 | callback | **broken** against a ruling. Placement is James's (final-sentence rhythm) |
+| R3 | Elizabeth follows Pathwell | Ch1–5 (each chapter ends on it) | Ch8 ("following another man who sounded certain") | Ch18 ("Already chosen to follow. / Not leading. / Not being dragged. / Coming.") | pattern | paid |
+| R4 | "The choice is yours" (constrained) | Ch2 | Ch5 ("Whichever one you choose"), Ch7 ("Whose decision was that?") | Ch18 ("Do you want to come?") | relationship / theme | transformed |
+| R5 | "It was an absurdly small decision. / It was still hers." (lo mein) | Ch2 | — | Ch17 (the spoon: "The choice was ridiculous. / It was still hers.") | callback / agency | paid, but the recorded ruling says lo mein is not an agency rung ([Q3](Decisions.md#open-for-james)) |
+| R6 | "That was the choice. / Everything afterward was consequence." | Ch4 (the cookbook given) | — | Ch15 ("That was the choice. / Everything else burned afterward.") | callback | paid |
+| R7 | The Space Between coffee ("two in the morning and highlighters") | Ch3 | Ch9 (the diner), Ch10 (the tracking anchor) | Ch13 (Shade's "then it's yours"), Ch18 | callback / mechanism | paid; recited in full four times, which the cold reader skimmed by the fourth |
+| R8 | Pathwell's self-appointed deliveries | Ch3 ("Did Camp Cunnan ask you for all of this?"), Ch4 ("You appointed yourself a delivery.") | Ch5 ("You invented a delivery.") | Ch14 (Stansbury: "How many times are you going to call that responsibility…"), Ch16 (restitution "Defined by whom?" / "Not me.") | flaw | paid |
+| R9 | Stansbury's "copy before you buy"; the information is not the thing | Ch10 | Ch11 ("The information can be copied…" / "The information.") | Ch17 (FACSIMILE; "The information survived. The page did not.") | theme | paid |
+| R10 | Stansbury's scar and "Let it be" ([ruling E3](Decisions.md#recorded-rulings-reflected-in-the-manuscript)) | Ch15 (the burn) | Ch16 | Ch16, Ch17 ("Pathwell never mentioned changing it again.") | relationship | paid |
+| R11 | Milo: the sock, the name, the cards | Ch4 (the turnip boy) | Ch13 (named; Hearts; "You look like Pathwell."), Ch14 (sent to the archive) | Ch15 ("His sock had finally stayed up."; "You still owe me a hand."), Ch16, Ch17 (the mismatched boots; "Shade was better.") | character / running | paid |
+| R12 | "That hand was promising." / the queen of spades | Ch13 | Ch14 | Ch15 (the card by the onion; Elizabeth remembers the line) | callback | paid |
+| R13 | Shade's personhood before his death ([author intent §6](../Story_Files/PATHWELL_CURRENT_AUTHOR_INTENT_SHADE_CONSEQUENCE_NOTES_2026-09-18.md#6-pushback-retained-against-using-shade-only-as-pathwells-punishment)) | Ch9 ("He used to."), Ch12 | Ch13 (coffee, the green jacket, pockets, Hearts, "I want to stay here.") | Ch16 (LIKED POCKETS.) | character | paid |
+| R14 | Shade's last choice | Ch14 ("I am the person living with it." "Then no.") | Ch15 (walks away to separate the signals) | Ch15 | character / climax | **thin**. The act lands; the reason doesn't. The closing paragraph ("He had been right about what it chose first…") reads backward to the cold reader, who could not tell sacrifice from miscalculation |
+| R15 | Elizabeth's agency ladder ([Writing Principles 7](../../Writing-Principles.md#7-agency-is-a-ladder)) | Ch2, Ch3 (continues after her books are back), Ch4 (the cookbook), Ch7 (the dagger), Ch8 (the crash) | Ch9, Ch10 (the Ask; she chooses Camp), Ch11 ("I don't need to be rescued."), Ch12 (the diary) | Ch15 (Milo over the diary and cookbook), Ch18 (she asks him to come) | arc | paid as a ladder; whether her climax choice changes the central conflict is [Q4](Decisions.md#open-for-james) |
+| R16 | Pathwell's control arc: denial → forcing → restitution → restraint | Ch1 onward | Ch11 (the museum), Ch14 (the frame) | Ch16–17 (terms kept), Ch18 (the refusal) | arc | paid; its final beat is [Q2](Decisions.md#open-for-james) |
+| R17 | Mama Baga as Pathwell's mother, shown through ordinary care ([ruling E2](Decisions.md#recorded-rulings-reflected-in-the-manuscript)) | Ch4 (straightens his collar "as though he were twelve") | Ch12, Ch14 ("Mama." / "No.") | Ch14 ("Stop."), Ch16 (the hearing) | relationship | paid, lightly; the relationship is never named on the page, which the ruling allows |
+
+## Ordinary life and loose threads
+
+| # | Promise | Set up | Triggered | Pays off | Kind | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| L1 | The nine o'clock meeting | Ch2 (twice), Ch3 (three times) | — | Ch12 ("missing meetings", in the diary), Ch17 ("She went back to work.") | ordinary life | **thin**. Set up five times, then dropped at the cut into Ch5. [Ruling H1](Decisions.md#recorded-rulings-reflected-in-the-manuscript) says her logistics needn't close neatly, but the meeting is her strongest early want, so its passing wants one line |
+| L2 | Elizabeth's mother ("My mom used to say that.") | Ch6 | — | — | character | open-deliberate is defensible; the cold reader asked why she isn't someone to call from the diner phone (Ch9) |
+| L3 | The police | Ch2, Ch3 | — | — | ordinary life | open-deliberate (ruling H1) |
+| L4 | The cat's scratch ("He likes documentation.") | Ch3 | — | Ch18 ("He remembers winning.") | comic | paid |
+| L5 | The horse incident; Celia who hated pears; Margaret Bell's bans | Ch3, Ch9, Ch11 | — | — | world | open-deliberate (the world exceeds the scene) |
+| L6 | Prague | Ch9 (Shade: "A room in Prague I have never entered.") | Ch14 (Shade: "I don't remember the name.") | — | continuity | **broken**: Ch14 contradicts Ch9 |
+| L7 | "The prune that went wrong" | Ch7 (Stansbury's words) | Ch8 (Elizabeth quotes it as "the big prune") | — | continuity | **broken** (misquote), unless she's meant to misremember |
+| L8 | Where Pathwell was headed after the bar | — | Ch9 ("she did know where Pathwell had been headed before she wrecked the car") | — | continuity | **broken**: nobody said a destination in Ch7 |
+| L9 | "DONOR PERMISSION REQUIRED. PATHWELL IS NOT DONOR." | Ch12 | — | — | comic / flaw | open; never tested, which is fine |
+| L10 | The shopkeeper's errand card; the French technique paperback | Coda | — | — | hook | **unpaid** inside the book; belongs to [Q1](Decisions.md#open-for-james) |

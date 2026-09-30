@@ -2,6 +2,8 @@
 
 **Unresolved structural problems and gaps that need solving.**
 
+> **Status, 2026-09-29:** written around June, before the 2026-08-28 reconciliation. Checked against the chapters in [pass P1](Story/Revision/Pass-Log.md): the manuscript has since settled the diary's placement (given to the archive in Ch12, burned in Ch15 while she runs past it), the Act III blank (Ch9 diner → Ch10 tracking bridge and the Ask → Ch11 museum), Shade's emotional development (Ch13), Mama Baga's relationship (shown through ordinary care, ruling E2), Stansbury's arc (kept small, ruling E3), the book continuity in Chapter 3, the diary-use placement (never used; Elizabeth stays nonmagical), the drinking question (nobody is drunk) and the draw's tell (Shade's right hand). Shade's blind spot is partly settled. The banked line is still unused. Current open questions are on the revision's [Decisions page](Story/Revision/Decisions.md#open-for-james).
+
 ---
 
 ## Active Structural Gaps

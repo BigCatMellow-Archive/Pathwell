@@ -34,11 +34,13 @@ When two notes pull in different directions, each decides its own ground, in thi
 | [Registry](Registry.md) | template: names, name rules, story shapes, devices, stock phrases, checker exceptions | template, read by the checker | copy into each collection; update on every new name or shape change | inventing a name; choosing an opening, device or ending |
 | [History](History.md) | lessons from the first collection: timeline, check log, what worked, what went wrong and where each lesson lives now | evidence | archive | asking why something is the way it is |
 
-**The checker:** [`tools/sunday_morning_check.py`](tools/sunday_morning_check.py). It reports name clashes, five-word phrases shared across stories, stock phrases, filter verbs and uncontracted narration. It reads a collection's copy of the Registry and its drafts; it never edits. Run it from the repository root:
+**The checker:** [`tools/sunday_morning_check.py`](tools/sunday_morning_check.py). It reports name clashes, five-word phrases shared across stories, stock phrases, filter verbs, uncontracted narration, very short paragraphs and any watch patterns the Registry lists. It reads a collection's copy of the Registry and its drafts; it never edits. Run it from the repository root:
 
 ```text
 python3 Story/Sunday-Morning/tools/sunday_morning_check.py --registry <Collection>/Registry.md --drafts <Collection>/Drafts
 ```
+
+For a single long work kept as plain files (a novel's chapters, say), add `--pattern "Chapter_*.txt"` to read those files in place, and `--min-files 3` so that a callback shared by two chapters isn't reported as repetition.
 
 ## Find it fast
 

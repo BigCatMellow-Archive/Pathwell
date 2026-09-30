@@ -93,6 +93,13 @@ Also watch for, by reading (the checker can't catch them reliably):
 - "wrote it down" or a silence as the default scene ending (after one tic is removed, check that another hasn't taken its place);
 - "the way you might…" similes, more than one per story (the checker allows one).
 
+## Watch patterns (optional)
+
+Habits that are right some of the time, where the question is how often rather than whether: a sentence shape, an evaluative follow-up, a recurring gesture. Each line is `- label :: regex`, counted per 1,000 words of narration; end the line with `:: all` to count dialogue too. The checker reports the counts; it never treats them as errors. Leave the block empty if the collection doesn't need it.
+
+<!-- registry:watch:start -->
+<!-- registry:watch:end -->
+
 ## Checker exceptions
 
 Deliberate exceptions. Keep them short, and give each a reason.
