@@ -355,3 +355,120 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 - The README's index rows and Decisions W13 are updated.
 
 No chapter file was touched. The 10 Kings copy of the method is unchanged (D18).
+
+## P7, 2026-09-30: Chapter 1, from the author's July text
+
+**Goal:** The author: "lets do Chapter 1, and see how it comes out". This is the first chapter revised with [Craft: writing against sameness](../Sunday-Morning/Craft.md#writing-against-sameness). Per the [plan](Plan.md#chapter-work-lists), it is rebuilt from the author's own July Chapter 1 ([benchmark](Voice-Benchmark/README.md)) wherever the locks allow, with her welcome party as aftermath (R10). [Q-H](Decisions.md#open-for-the-author) is still open, so the chapter takes its recommended default: he met her at the party.
+
+**How:** The August rewrite (1,680 words) was set aside and the chapter rebuilt on the July text (729 words). It keeps **79 of the author's 102 sentences word for word**, including the whole sugar-cookie passage. It adds what the later locks and chapters need, in a few plain lines. It's now 884 words.
+
+**The register map, before writing:**
+
+| Stretch | Register | What that meant |
+| --- | --- | --- |
+| Waking; the living room | narrator present (arrival) | the party's aftermath, with one small wrong detail ("cheese cubes going shiny") |
+| The cookbook demand, the door | action | clinical; the dialogue carries it |
+| The working and the memory | sensation and magic | narrator quiet; July's sentences, word for word |
+| The blob, the bathroom | action | clinical; July's sentences, plus two plain lines of mechanism |
+| The wrecked room | narrator present (aftermath) | one detail ("The banner had come down into it."), "her last guest" |
+| The talk, then shoes | dialogue | July's lines; one narrator line for what Elizabeth hasn't named (the bluff) |
+
+**Whose joke:**
+
+- Pathwell's humour stays his breezy, polite evasion: "That confusion is quite normal." "I did say please." "Yes, I did mention the marked thing, didn't I?"
+- Elizabeth stays sincere and snapping: "Do you mind?" "I'm not going anywhere with you."
+- The narrator makes almost no jokes. That's July's balance.
+
+### What changed (from the diff, against the author's July text)
+
+**New lines, each written to meet a lock or a later chapter:**
+
+1. **The party:** "The party was still out here. Paper cups on every flat surface, a tray of cheese cubes going shiny. Somebody's WELCOME LIZZY banner hung by one corner over the kitchen doorway. The guests had gone home hours ago." (Q112 and R10; the banner plants "Lizzy", ledger P2.)
+2. **Who he is:** "She knew him, a little. He'd been at the party, talking to everybody. She'd never caught his name." (R10 and the Q-H default; supports Ch2's "What is your name?".)
+3. **The cookbook:** "Nana's cookbook, three rubber bands around the spine and the title in Nana's blue marker." (Ch4's rubber bands; ledger O1.)
+4. **Where the book goes:** "The cookbook fell out of her hands." (Staging: the cookbook ends with him, W01.)
+5. **The mechanism:** "The light under his palm had gone wrong. It spat and flickered, and loose threads of gold dropped onto the carpet." and "It rolled over the gold on the carpet, and the gold went out." (W01: the interruption leaves loose waste, and the blob is cleanup, not a predator.)
+6. **The aftermath:** "The banner had come down into it."
+7. **What he's holding:** "stood her last guest, holding Nana's cookbook and what looked like her diary". July had "a stranger, holding what looked like her diary".
+8. **Before "marked":** "Then he went still. / When he turned back, he was sure of himself again." (The bluff, ledger P4; Ch4's "The same kind of still he had gone in her apartment hallway before declaring the place marked".) July's hall check ("He was already moving towards the door… checked up and down the hall") moved here from after "Why could I hear my Nana?", with "the door" made "the empty doorway".
+9. **The torn page:** "She looked at the cookbook in his hand. A ragged edge stuck out where the page had been." (Ch2, Ch3, Ch4 and Ch18 all refer to the torn page.)
+
+**Small edits to the author's sentences:**
+
+- "a man tearing through boxes" became "…her boxes".
+- "the stranger said" became "he said", since she knows him.
+- "Another box hitting the ground," became "Another box hit the ground."
+- "with book in hand" became "with the book in hand".
+- "crisp, and stained" became "crisp and stained".
+- Missing end punctuation added ("Now." "Reasonable, even." "Yes, but—").
+- The comma removed from "until you tell me, what is going on".
+- "She asked" became "she asked".
+- "Tucking the diary under his arm, "We should…"" became "He tucked the diary under his arm."
+- "His attention shifted to down the hall" became "…shifted down the hall".
+- Straight quotes and em dashes, to match the manuscript.
+
+**Kept from July on purpose (the author's call if he wants them changed):**
+
+- the comma splice "He placed his hand flat on the page, the letters glowed a soft gold.";
+- the fragment "Bringing a stench of low tide that churned her stomach.";
+- "They're… they're in the kitchen?" (plural);
+- "She watched for a moment" (a filter verb);
+- the short breath before "Ready?".
+
+**Gone with the August rewrite:** every line of it, apart from what July already had. Lines the author might want back:
+
+- "Because it was hers." / "That's not an answer." / "No. It's the amount of answer we have time for.";
+- the "tiers" exchange ("Second-tier question." "There are tiers?" "There are now.");
+- "Don't overmix them, baby. You'll toughen them.";
+- "Annoyance arriving one second before fear became necessary.";
+- "That's new.";
+- "Oh, don't be greedy.";
+- "Her heart was loud enough to qualify as a second emergency.";
+- "The living room looked as though a storm had developed strong opinions about personal property.";
+- the burglary "being conducted by someone with very specific standards".
+
+Most are narrator wit, of the kind the [AI detection notes](AI-Detection-Notes-2026-09-30.md#what-it-teaches-this-revision) and the sameness checks flag. A few (the first two above) are Pathwell's own dialogue.
+
+### For the author: Chapter 1
+
+1. **Does it sound like you?** It's mostly your July chapter.
+2. **Q-H:** is "She knew him, a little. He'd been at the party… She'd never caught his name." right? That is, he met her at the party.
+3. **The banner:** does "WELCOME LIZZY" suit you as where he gets "Lizzy"? The alternative is "WELCOME ELIZABETH", leaving "Lizzy" unexplained.
+4. **The party details** (paper cups, cheese cubes, banner) and who threw the party. The interview left the logistics open, and the chapter doesn't say.
+5. **The bluff line:** "When he turned back, he was sure of himself again." It's narrator interpretation, but the lock needs the bluff readable.
+6. **The two lines of mechanism** (the light going wrong; the gold going out). Are they needed, or does "It darted for the light in the man's hand" carry it?
+7. **The opening:** the lock says the blob's pounding woke her, and "the crash" now reads as the boxes. Leave it as July has it?
+8. **Anything from the August list above** you want back.
+
+### Check log
+
+- **Shapes.** The opening line and the final exchange are unchanged. The engine is now "the guest who stayed", and the Registry is updated. Nothing is repeated from neighbouring chapters.
+- **Checker** (Chapter 1: August version → now; the author's July chapter in brackets):
+  - uncontracted narration: 2.8 → 0 per 1,000 words (0);
+  - "Not…"/"No…" paragraphs: 4.2 → 0 (0);
+  - commentary paragraphs: 2.1 → 2.8 (1.8). The new count is two short lines, "It was the crash that woke her." (his) and "She knew him, a little…" (new);
+  - "for the first time" and "apparently": gone;
+  - filter verbs: 0.6 → 2.2 (2.7);
+  - very short paragraphs: 38% → 19% (35% in his formatting).
+- **Scene diagnostic:**
+  - *Want:* Elizabeth wants him out and her things safe; he wants a charged family record.
+  - *Therefore / but:* the blob at the door, *therefore* the cookbook; *but* she grabs it, *therefore* the working breaks and the blob goes for the light.
+  - *Changed:* home becomes unsafe; she leaves with him, pulled.
+  - *Explaining after showing:* none.
+  - *Deletion test:* the opening promise and the magic's calibration.
+- **Fresh independent check.** A reader who didn't write it compared the new version with the August version, the July chapter, the locks, the contract and every later chapter's references to Chapter 1.
+  - **Every lock passes:** first line; the party as evidence only; the guest who stayed; the blob before the working; she tells him where the book is and he fetches it; the page can't be saved; the loose light draws the blob; "marked" as invented certainty; both objects end with him; she leaves pulled.
+  - **Nothing that worked in July was dropped.**
+  - **Found and fixed:**
+    - a duplicated hall check, which is now one;
+    - "Most of them." spending the chapter's "mostly" joke early (cut);
+    - two three-item lists in the new text (cut to one and a pair);
+    - "Lizzy" and "What is your name?" not yet planted (the banner, and "She'd never caught his name.");
+    - the torn page never confirmed (the ragged-edge line);
+    - "the man from her party" (now "her last guest");
+    - the front door's absence resting on one line ("the empty doorway").
+  - **Re-check:** all the fixes landed, and no errors are left in Chapter 1.
+- **Replacement tics.** None found. The new lines are plain; the one "Then… Then…" run is July's.
+- **Knock-on for Chapter 2:** "You broke into my apartment." now contradicts "her last guest". The narration's "the stranger" is softer now that she never caught his name. Both are in the plan's Chapter 2 row.
+
+**Result:** Chapter 1 is at L3, waiting for the author's verdict.

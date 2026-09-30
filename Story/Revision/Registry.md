@@ -60,7 +60,7 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 
 | Ch | Engine | Resolved by | Register | Opening | Final line |
 | --- | --- | --- | --- | --- | --- |
-| 1 | intrusion; the blob at the door | an act (Elizabeth grabs the book) and flight | comic panic | "It was the crash that woke her." | "Ready?" / "No." / "Perfect." |
+| 1 | the guest who stayed, going through her boxes after her welcome party (P7); the blob at the door | an act (Elizabeth grabs the book) and flight | comic panic | "It was the crash that woke her." | "Ready?" / "No." / "Perfect." |
 | 2 | Pathwell walks off with her books | her choice to follow | numb grief, comic | dialogue ("Will you slow down?") | follows him (motive list: "Not because… Because…") |
 | 3 | get the books back; the Space Between | a transaction (future paid on the ledger) | wonder, cost | Pathwell at a streetlight, "Again." | "The shopkeeper closed the door behind them." (she goes with him) |
 | 4 | arrival at Camp; the dying woman | a gift (the whole cookbook) | tender | "She had assumed…the word camp would mean something she could leave." | "Camp Cunnan kept being a place without asking permission." (she follows) |
@@ -95,7 +95,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | Opening on a personified place or group | 6, 11, 12, 13 (and a similar witty verdict in 17) |
 | A drink that "was terrible" | 3, 4, 9, 12, 13, 18 |
 | Milo's falling sock | 4, 12, 13, 14, 15, 16 |
-| "Lizzy—" / "Elizabeth." correction | 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
+| "Lizzy—" / "Elizabeth." correction | planted in 1 ("Somebody's WELCOME LIZZY banner", P7); 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
 | The Space Between coffee memory recited ("two in the morning", "highlighters") | 3, 9, 10, 13, 18 |
 | Pathwell goes still as a tell | 1, 4, 5, 6, 7, 8, 10, 11 and later |
 | A found document read aloud as a small payoff (accession card, road book, Merritt margins) | 4, 11, 17, 18 |

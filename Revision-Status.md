@@ -14,8 +14,8 @@ The canonical text is `Story/Chapters/Chapter_01.txt` to `Chapter_18.txt`, read 
 
 | Chapter | Contract | Level | Where it stands | Blocked by |
 | --- | --- | --- | --- | --- |
-| **1** | W01 | L2 | The August rewrite of the author's July chapter. Her welcome party goes in (R10); rebuild from his July text where the locks allow | Q-H (how well he knows her) |
-| **2** | W02 | L2 | The August rewrite of the author's July chapter. No lo mein order: she goes after her books, as in his July ending (R12) | Q-H (two lines) |
+| **1** | W01 | **L3** | **Rebuilt 2026-09-30 from the author's own July chapter ([pass P7](Story/Revision/Pass-Log.md#p7-2026-09-30-chapter-1-from-the-authors-july-text)):** 79 of his 102 sentences kept word for word, including the whole sugar-cookie passage; her welcome party added as aftermath, and the locks' mechanics in a few plain lines. Waiting for the author's verdict and his calls on the flagged lines | the author's verdict; Q-H taken at its default (from the party), to confirm |
+| **2** | W02 | L2 | The August rewrite of the author's July chapter. No lo mein order: she goes after her books, as in his July ending (R12). After P7, "You broke into my apartment" no longer fits (he was her last guest), and the narration's "the stranger" wants a look | Q-H (two lines) |
 | **3** | W03 | L2 | Strong; closest of the later chapters to the benchmark. Line work only | — |
 | **4** | W04 | L2 | Strong (the cookbook given). Line work, light trim | — |
 | **5** | W05 | L2 | Needs a bridge at the top (a missing day; the dropped meeting); line fixes | — |
@@ -41,9 +41,10 @@ Details for every chapter: the [assessment](Story/Revision/Assessment-2026-09-29
 ## What's next
 
 1. **The author reads the revised Chapter 12** and gives his verdict: does it sound like him? His calls on the [flagged lines](Story/Revision/Pass-Log.md#for-the-author-lines-to-rule-on) set how the next chapters treat the same kinds of line.
-2. If the author wants it, a second pass on Chapter 12 with the new craft ([Writing against sameness](Story/Revision/Writing-Against-Sameness.md): the narrator's register, whose joke it is, Elizabeth's interiority), compared with P4's version.
-3. The author answers the two [open questions](Story/Revision/Decisions.md#open-for-the-author) ("he knows her", and the climax options).
-4. Then the chapters nothing blocks, in reading order; then the blocked ones as their questions are settled.
+2. **The author reads the rebuilt Chapter 1** ([flags](Story/Revision/Pass-Log.md#for-the-author-chapter-1)). If it sounds like him, Chapter 2 is next, rebuilt the same way from his July Chapter 2.
+3. If the author wants it, a second pass on Chapter 12 with the new craft ([Writing against sameness](Story/Revision/Writing-Against-Sameness.md): the narrator's register, whose joke it is, Elizabeth's interiority), compared with P4's version.
+4. The author answers the two [open questions](Story/Revision/Decisions.md#open-for-the-author) ("he knows her", and the climax options).
+5. Then the chapters nothing blocks, in reading order; then the blocked ones as their questions are settled.
 
 ---
 
