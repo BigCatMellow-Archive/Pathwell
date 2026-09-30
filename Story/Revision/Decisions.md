@@ -38,6 +38,7 @@ From James's answers of 2026-09-30:
 | R14 | "Sure": bring Non-Negotiable-Scenes.md and the Thesis page into line with the interview (and canon.md's superseded beats). | those pages ([pass log](Pass-Log.md)) |
 | R15 | The healer's name, the dagger's fate and the test chapter: "Doesnt matter, no idea yet, and doesnt matter to me." The healer stays unnamed unless a pass needs a name; the dagger joins the climax exploration; I pick the test chapter. | [Plan](Plan.md) |
 | R16 | "Theres a lot of versions and notes, we should make sure that we are putting some things in like archive / legacy so that we dont keep running in to conflicting versions." Superseded material goes to `Story/Archive/` with an index of what replaced it; the active folders hold one current version of anything. | [Archive README](../Archive/README.md); [repository README](../../README.md) |
+| R17 | On the GPTZero read of the revised Chapter 12: "we dont need to over correct here, or even correct. For now its just somehting to learn from." Detector scores aren't a target, and no line is changed because a detector flagged it. | [AI detection notes](AI-Detection-Notes-2026-09-30.md) |
 
 ## The Bible interview: locks the manuscript doesn't yet follow
 

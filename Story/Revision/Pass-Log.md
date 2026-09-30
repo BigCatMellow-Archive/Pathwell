@@ -215,3 +215,25 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 - **Still not run:** the independent fact-check of the P1 records (see P1's check log). It was declined in the session and hasn't been re-asked.
 
 **Result:** Chapter 12 is at L3. It's waiting for James's verdict; no other chapter has been touched.
+
+## P4b, 2026-09-30: what the AI-detection read teaches
+
+**Why:** James ran the P4 Chapter 12 through GPTZero and shared the conversation about it. It classified the passage as AI-written, which it is. His ruling: "we dont need to over correct here, or even correct. For now its just somehting to learn from." ([R17](Decisions.md#jamess-rulings-for-this-revision))
+
+**What changed (from the diff):**
+
+- New page, [AI detection notes](AI-Detection-Notes-2026-09-30.md). It holds James's handoff unchanged, under a short account of what it teaches this revision.
+- R17 in Decisions.
+- A row in the README's table.
+- One clause on the Plan's first reconsideration trigger, pointing to the notes.
+- No chapter file was touched.
+- The checker, the Registry and the plan's work are unchanged.
+
+**Lessons,** held here as candidates. None goes into the Sunday Morning method unless James acts on this.
+
+- P4's measures (contractions, "Not…" fragments, commentary paragraphs) track the surface of the rewrite's habits, not the voice underneath. Against James's Chapters 1–2 the larger differences are these:
+  - where the humour lives: in his chapters, in Pathwell's dialogue, not the narrator's wit;
+  - how clean Elizabeth's interior thought is: in his chapters, messy worry, not precise self-diagnosis;
+  - how much the senses carry a scene.
+- The new text P4 wrote was among the lines the detector flagged most strongly. That supports keeping new emotional text for James.
+- The fresh check should also look for repeated joke templates inside a chapter. P4's missed "as if mostly were a medically useful category" / "as though museums were a recognized injury category".

@@ -28,6 +28,7 @@ When two notes pull in different directions, each decides its own ground in this
 | [Registry](Registry.md) | names, chapter shapes, devices, stock phrases, watch patterns and checker exceptions | template copy, read by the checker | active |
 | [Pass log](Pass-Log.md) | one entry per pass: what ran, what changed (change notes from the diff), the check log | evidence | active |
 | [Cold read, 2026-09-29](Cold-Read-2026-09-29.md) | the independent cold read of the whole manuscript | evidence | closed |
+| [AI detection notes, 2026-09-30](AI-Detection-Notes-2026-09-30.md) | what James's GPTZero read of the revised Chapter 12 teaches; not a work item ([R17](Decisions.md#jamess-rulings-for-this-revision)) | evidence | closed |
 | [Assessment, 2026-09-29](Assessment-2026-09-29.md) | chapter-by-chapter assessment, shape check, checker results, watch-list | evidence | closed (describes the manuscript at pass P1) |
 
 Chapter status lives where it always has, in [Revision-Status.md](../../Revision-Status.md). Each chapter's plan is its contract in the [chapter contract matrix](../Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md) ([W3](Decisions.md#working-decisions)).

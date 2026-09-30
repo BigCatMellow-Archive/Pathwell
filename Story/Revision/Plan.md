@@ -138,7 +138,7 @@ What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#
 
 Evidence that would make this plan wrong. When one fires, stop that branch, record it in the [pass log](Pass-Log.md), and route it.
 
-- **James says the test chapter doesn't sound like him** → stop the batch. Go back to voice: re-derive the target from his pre-August Chapters 1–2 and the voice guide, or James writes over the test chapter first. (THINK)
+- **James says the test chapter doesn't sound like him** → stop the batch. Go back to voice: re-derive the target from his pre-August Chapters 1–2 and the voice guide, or James writes over the test chapter first. Start from the [AI detection notes](AI-Detection-Notes-2026-09-30.md#what-it-teaches-this-revision): where the humour lives, and how clean the interiority is, not only the checker's surface numbers. (THINK)
 - **A revised chapter loses the voice guide's range**: no fragments left even for danger or comedy, or no narrator attitude at all → over-correction toward flatness; revisit before the next chapter. James's own chapters have almost no fragment paragraphs and almost no commentary, but they aren't flat, so the checker's numbers can't catch this; the fresh check reads for it. (DO)
 - **A replacement tic appears** (cut commentary replaced by silences, "She let that stand.", or a new stock beat) → the replacement-tic check fails; fix before continuing. (DO)
 - **A line cut removes a setup the ledger needs** → update the [ledger](Promise-Ledger.md) and the paying chapter first. (PLAN)
