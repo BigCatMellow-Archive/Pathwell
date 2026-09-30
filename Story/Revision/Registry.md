@@ -104,6 +104,19 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | Rhymed choices: "That was the choice. / Everything afterward was consequence." → "…Everything else burned afterward." | 4 → 15 |
 | The ledger payment and its mirror | 3 → 18 (and Coda) |
 
+## Joke shapes already used
+
+A joke's *construction* repeats even when its words don't. The words can differ while the reader still sees the mold. Added in [pass P5](Pass-Log.md#p5-2026-09-30-craft-adjustments-and-ai-tells) ([Writing against sameness](Writing-Against-Sameness.md)). Try not to repeat a shape within a chapter unless it's deliberate. The counts are from the chapters as of P5.
+
+| Shape | Where |
+| --- | --- |
+| Narrator's "as if / as though X were…" conceit ("breathed as though breathing were the only task she had agreed to perform") | 2, 4 (×2), 6, 7, 9, 12 (×2); the checker's count also catches plainer uses (1, 2, 3) |
+| "…nodded as though X were Y" (a reaction read as a category or verdict) | 6 ("as though this were enough information"), 12 (×2, "a medically useful category", "a recognized injury category") |
+| "X is a category" (injuries, museums, Pathwell) | 12 (×3) |
+| Objects and places given human verbs in narration (a sock "surrendered", a fiddle "rejected" notes, a realization "arrived", body parts "deciding"). Some of this is the narrator's sanctioned attitude ("as if it had personally disappointed him", [register guide](../Story_Files/pathwell_narrator_register.md#the-grammar-of-narrator-attitude)); density is the concern | throughout; body parts are counted as a [watch pattern](#watch-patterns), the rest by reading. "One sock had surrendered halfway down his calf" is word for word in both 4 and 12 |
+| Formal phrasing used as a punchline in dialogue ("Efficient system." "Diversifying." "Strong sales pitch." "Important distinction.") | throughout, across most of the cast; see the [character bible's humour sources](../Story_Files/character_bible.md#where-each-characters-humour-comes-from) |
+| Two-part antithesis as a scene's last word ("The diary belonged to Camp now. The life in its pages was still hers.") | throughout; count by reading; usually no more than one per scene |
+
 ## Stock phrases to avoid
 
 The template's list, which the checker reports if any appear. The book's own habits are counted separately as [watch patterns](#watch-patterns), because most of them are right some of the time and the question is density, not presence.
@@ -130,6 +143,9 @@ Counted per 1,000 words of narration (dialogue removed) unless the line ends `::
 - body parts deciding :: (?i)\b(?:knees?|legs?|body|stomach|shoulder|feet|hands?)\b[^.\n]{0,40}\b(?:decided|decision|decisions|objected|participating|consulting|punished)\b
 - "without asking permission" :: (?i)without (?:asking (?:permission|whether)|anyone's permission)
 - narrator's "apparently" :: (?i)\bapparently\b
+- narrator's "as if / as though X were…" :: (?i)\bas (?:if|though)\b[^.\n]{0,60}\b(?:were|was)\b
+- "category" joke :: (?i)\bcategor(?:y|ies)\b :: all
+- stock gestures common in AI fiction (see AI-Tells) :: (?i)\bswallowed\b|\bjaw (?:tightened|clenched|set)\b|\beyes widened\b|\bheart (?:hammered|pounded|raced)\b|\b(?:let out|released) a breath\b|\bshiver\w* (?:ran )?down\b|\bsmile play\w*|\bghost of a smile\b|\bdidn't quite smile\b
 - going still :: (?i)\b(?:went|gone|go|goes|going|became|become|stood|remained)\s+(?:very |completely |abruptly )?still\b
 - choice words (theme density) :: (?i)\b(?:choice|choices|chose|choose|chosen|choosing)\b
 - "it was terrible" (drink gag) :: (?i)\bIt was terrible\b|\bThat(?:'s| is) terrible\b :: all
@@ -148,6 +164,10 @@ Also watch for, by reading (the checker can't catch them):
 - the narrator grading a line of dialogue ("The sentence changed the room." "That saved it.");
 - one shared deadpan: lines that could be swapped between Pathwell, Stansbury, Shade, the archivist and the shopkeeper;
 - a chapter ending on the same kind of beat as the one before it (see [shapes](#chapter-shapes)).
+- the same joke shape twice in one chapter (see [joke shapes](#joke-shapes-already-used));
+- a line of wit given to a minor character or to Shade that belongs to the narrator's or the shared deadpan;
+- several polished closing lines in one scene ([Writing against sameness](Writing-Against-Sameness.md#while-writing));
+- anything that clusters from the [AI-Tells](AI-Tells.md) list.
 
 ## Checker exceptions
 

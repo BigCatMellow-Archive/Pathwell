@@ -6,7 +6,7 @@
 
 It follows MAPS_L: **one concept, one owner**, linked rather than repeated. It holds only what didn't already exist; everything else is linked from the [inventory](#inventory-of-existing-process-records).
 
-**Where things stand:** pass P1 (Step 1: take stock) is done and stopped for the author's review. P1b checked the findings against the Bible interview's locked answers, which settle most of what P1 first asked. P2 (2026-09-30) recorded the author's answers, brought the pillar pages into line, laid out the climax options, and found that the voice benchmark is his pre-August prose. P3 archived everything superseded. **P4 (Step 2) revised Chapter 12 and stopped for the author's verdict**: the [pass log](Pass-Log.md#p4-2026-09-30-step-2-chapter-12) has the change notes and the lines for him to rule on. No other chapter has been touched.
+**Where things stand:** pass P1 (Step 1: take stock) is done and stopped for the author's review. P1b checked the findings against the Bible interview's locked answers, which settle most of what P1 first asked. P2 (2026-09-30) recorded the author's answers, brought the pillar pages into line, laid out the climax options, and found that the voice benchmark is his pre-August prose. P3 archived everything superseded. **P4 (Step 2) revised Chapter 12 and stopped for the author's verdict**: the [pass log](Pass-Log.md#p4-2026-09-30-step-2-chapter-12) has the change notes and the lines for him to rule on. No other chapter has been touched. P4b–P5 (2026-09-30) took the lessons of the author's AI-detection read into Pathwell's craft, without correcting the chapter: the narrator's own voice ([register guide](../Story_Files/pathwell_narrator_register.md)), [Writing against sameness](Writing-Against-Sameness.md) and the researched [AI-Tells](AI-Tells.md) reference.
 
 ## Order of authority
 
@@ -24,6 +24,8 @@ When two notes pull in different directions, each decides its own ground in this
 | --- | --- | --- | --- |
 | [Decisions](Decisions.md) | The author's rulings for this revision; earlier rulings recorded elsewhere, and whether the manuscript reflects them; working decisions; open questions for the author | authority | active |
 | [Plan](Plan.md) | the book-level THINK pass, the prioritized plan routed by level, reconsideration triggers, the Step 2 test | procedure | active, awaiting approval |
+| [Writing against sameness](Writing-Against-Sameness.md) | how a pass writes and checks against sameness: the register map, whose joke it is, Elizabeth's interiority, usually one polished closing line per scene, new emotional lines left to the author, the two benchmarks, the fresh check's sameness questions | procedure | active |
+| [AI tells](AI-Tells.md) | common features of AI-generated fiction, researched, each set against what this book's guides say; for awareness, not a rulebook | reference | active |
 | [Promise ledger](Promise-Ledger.md) | every setup and payoff across the chapters, with its status | working record | active |
 | [Registry](Registry.md) | names, chapter shapes, devices, stock phrases, watch patterns and checker exceptions | template copy, read by the checker | active |
 | [Pass log](Pass-Log.md) | one entry per pass: what ran, what changed (change notes from the diff), the check log | evidence | active |
@@ -55,20 +57,24 @@ The Sunday Morning [scene diagnostic](../Sunday-Morning/Craft.md#sunday-morning-
 4. **Did anyone, including the narrator, explain what the scene already showed?** Cut it.
 5. **Deletion test:** "If this scene is removed, ______ becomes materially weaker." And before anything is lost: what has the reader been allowed to *have*? ([necessity test](../../Writing-Principles.md#universal-chapter-necessity-test))
 
+## Before and while writing
+
+Follow [Writing against sameness](Writing-Against-Sameness.md): map the scene's register before touching it, know whose joke each joke is, let Elizabeth think like a person, keep polished closing lines to usually one per scene, and leave new emotional lines and jokes to the author. The [AI-Tells](AI-Tells.md) reference lists what to be aware of.
+
 ## After every pass
 
 Every revision pass ends with this, in order. It's the Pipeline's [routine](../Sunday-Morning/Pipeline.md#after-every-pass) with the first step replaced.
 
 1. **The book's targets first.** Check the pass against [Decisions](Decisions.md), the Thesis page's test ("If a character says the theme out loud, it's failed", which here includes the narrator) and the world's rules ([canon.md](../Story_Files/canon.md), [Writing Principles 17](../../Writing-Principles.md#17-rules-are-sacred-once-established)).
-2. **Shapes before sentences.** If the pass changed an opening, engine, resolution or ending, update the [Registry's shapes](Registry.md#chapter-shapes) and check the neighbouring chapters for sameness.
-3. **Run the checker** from the repository root, and compare the chapter's numbers with the benchmark (Chapters 1–3):
+2. **Shapes before sentences.** If the pass changed an opening, engine, resolution or ending, update the [Registry's shapes](Registry.md#chapter-shapes) and check the neighbouring chapters for sameness. Do the same for [joke shapes](Registry.md#joke-shapes-already-used).
+3. **Run the checker** from the repository root, and compare the chapter's numbers with the author's own [pre-August Chapters 1–2](Voice-Benchmark/README.md). The numbers are a floor. The voice is judged by reading, against those chapters and the [narrator register guide](../Story_Files/pathwell_narrator_register.md)'s calibration lines ([two benchmarks](Writing-Against-Sameness.md#after-writing)):
 
    ```text
    python3 Story/Sunday-Morning/tools/sunday_morning_check.py --registry Story/Revision/Registry.md --drafts Story/Chapters --pattern "Chapter_*.txt" --min-files 3
    ```
 
 4. **Run the [scene diagnostic](#scene-diagnostic-for-pathwell)** on every scene the pass touched. Prefer cuts.
-5. **Get a fresh check** from a pass that didn't write the text, comparing the new version with the old one (drift, lost setups, new continuity errors) and with its neighbours (repetition).
+5. **Get a fresh check** from a pass that didn't write the text, comparing the new version with the old one (drift, lost setups, new continuity errors) and with its neighbours (repetition). It also answers the [sameness questions](Writing-Against-Sameness.md#after-writing): repeated joke shapes, whose joke each is, the narrator's register, how Elizabeth thinks, polished closing lines, and clusters from the [AI-Tells](AI-Tells.md) list.
 6. **Look for the replacement tic.** After removing a repeated move, check that another hasn't taken its place.
 7. **Leave deliberate ambiguity alone.** Some gaps are rulings (the prune's content, open by lock; whether Pathwell can still prune, which he chooses not to find out).
 8. **Write change notes from the diff,** not from intention, in the [pass log](Pass-Log.md); update the [ledger](Promise-Ledger.md) and [Revision-Status.md](../../Revision-Status.md).

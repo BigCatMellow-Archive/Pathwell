@@ -260,3 +260,59 @@ The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
 - P4's cuts match the guide's "does NOT do" list. P4's kept lines weren't checked against the guide. That happens in the next pass, if the author wants one.
 
 **Lesson, for the method:** before archiving a note as secondary, check that a current page owns its concept. Here no current page owned the narrator's register; the Craft page had one paragraph on it. This joins the archive rules ([archive README](../Archive/README.md#rules-so-this-doesnt-pile-up-again)).
+
+## P5, 2026-09-30: craft adjustments and AI tells
+
+**Why:** The author asked how to take the lessons into the way the writing is crafted. Then: "just to pathwell for now, and then lets research AI giveaways like these and learn from them as well… The goal isnt to deceive but just provide the best product we can that matches the guide and stlye we have in place now." ([R18](Decisions.md#the-authors-rulings-for-this-revision))
+
+**What ran**
+
+1. Read the voice guide's "Humor", "Pathwell-Style Comic Character" and "What to Avoid", the prose voice, the narrator register, and the character bible's voice section. Almost everything the lessons ask for was already in them. The character bible's voice section set one register for the whole cast ("dry, precise, slightly absurdist"). That's part of how the shared deadpan crept in.
+2. **Research:**
+   - Wikipedia's *Signs of AI writing*, read through a summary, since the page itself couldn't be fetched.
+   - Chakrabarty et al. (LAMP).
+   - The Antislop paper and the Slop Score.
+   - StoryScope, with its percentages checked by a second, verbatim fetch.
+   - Gorrie, Vollmer, Record Crash, Symban and The Argument.
+3. Counted the common tells across the eighteen chapters. The vocabulary tells are almost absent; the structural ones are everywhere.
+4. **Fresh check** by a separate reader, who verified every quote and statistic against its source, the manuscript counts, the guides, and the tone of the ruling. It found 13 problems, all fixed:
+   - four paraphrases presented as quotes (Gorrie, Vollmer twice, The Argument), replaced with the sources' actual words;
+   - three manuscript counts overstated: the mouth-corner count was 8, not 7; "jaw clenched" appears 0 times; the Chapters 7–9 "cluster" is only about half the uses;
+   - one contradiction with the guides: "let Elizabeth plainly know what she feels" conflicted with the register's "'She felt sad.' Cut." It's now "vary the vehicle, don't name the feeling";
+   - five lines that read as rules, softened to guidance ("usually one polished closing line per scene"; "consider changing, moving or cutting").
+
+   It also added notes that were taken up:
+   - Antislop's biggest ratios come from one model's output;
+   - one of The Argument's metaphors is its quote of Nostalgebraist;
+   - the narrator register sanctions "as if it had personally…";
+   - "character observations" belongs among the narrator-present stretches;
+   - the character-humour lines are largely inference, for the author to confirm;
+   - "One sock had surrendered halfway down his calf" is word for word in Chapters 4 and 12.
+
+**What changed (from the diff)**
+
+- New: [Writing against sameness](Writing-Against-Sameness.md), which covers:
+  - before writing: the register map, whose joke it is, the situation funny first;
+  - while writing: Elizabeth's interiority, polished closing lines, texture, varying the move, new emotional text left to the author, no degrading;
+  - after writing: two benchmarks, joke shapes, the fresh check's six sameness questions, no detector.
+- New: [AI-Tells](AI-Tells.md): the research, with each tell set against the book's guides and its present level in the manuscript. Awareness, not rules.
+- `character_bible.md`: "Where each character's humour comes from", for the author to confirm.
+- Registry:
+  - "Joke shapes already used";
+  - three watch patterns (the narrator's "as if / as though X were…", the "category" joke, stock gestures);
+  - four more things to watch for by reading.
+- The revision README:
+  - a "Before and while writing" section;
+  - after every pass: joke shapes in step 2, the two benchmarks in step 3 (replacing the stale "Chapters 1–3"), the sameness questions in step 5;
+  - two index rows;
+  - "where things stand".
+- Decisions: R18 and W12.
+- No chapter file was touched. The 10 Kings copy of the method is unchanged (R18).
+
+**Checker, new watch patterns** (across the book):
+
+- the narrator's "as if / as though X were…": 11;
+- "category": 9, with 3 of them in Chapter 12;
+- stock gestures: 19, the densest in Chapters 7–9.
+
+**Lesson, for the method:** a voice note that sets one register for "all characters" invites a shared voice. Keep the register for the book, and give each character a source for their humour.

@@ -41,8 +41,9 @@ Details for every chapter: the [assessment](Story/Revision/Assessment-2026-09-29
 ## What's next
 
 1. **The author reads the revised Chapter 12** and gives his verdict: does it sound like him? His calls on the [flagged lines](Story/Revision/Pass-Log.md#for-the-author-lines-to-rule-on) set how the next chapters treat the same kinds of line.
-2. The author answers the two [open questions](Story/Revision/Decisions.md#open-for-the-author) ("he knows her", and the climax options).
-3. Then the chapters nothing blocks, in reading order; then the blocked ones as their questions are settled.
+2. If the author wants it, a second pass on Chapter 12 with the new craft ([Writing against sameness](Story/Revision/Writing-Against-Sameness.md): the narrator's register, whose joke it is, Elizabeth's interiority), compared with P4's version.
+3. The author answers the two [open questions](Story/Revision/Decisions.md#open-for-the-author) ("he knows her", and the climax options).
+4. Then the chapters nothing blocks, in reading order; then the blocked ones as their questions are settled.
 
 ---
 
