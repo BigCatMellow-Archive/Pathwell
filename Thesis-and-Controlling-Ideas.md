@@ -10,7 +10,7 @@
 
 > Freedom is preserved when a person chooses to act despite uncertainty, because the act of choosing — not the outcome — is what makes you human.
 
-Every scene argues for or against this. [[Elizabeth]]'s arc argues for it. [[Shade]] is what one of Pathwell's choices made, and then a person making his own. [[Pathwell (Character)|Pathwell]] sits in the middle: every prune narrows the futures his choices can open into, though it never takes the choosing away. The climax settles the argument through action, not words.
+Every scene argues for or against this. Elizabeth's arc argues for it. Shade is what one of Pathwell's choices made, and then a person making his own. Pathwell sits in the middle: every prune narrows the futures his choices can open into, though it never takes the choosing away. The climax settles the argument through action, not words.
 
 ## The Novel's Thesis
 

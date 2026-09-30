@@ -6,7 +6,7 @@
 
 ## The manuscript
 
-The canonical text is `Story/Chapters/Chapter_01.txt` to `Chapter_18.txt`, read in order. All eighteen were rewritten in the reconciliation of 2026-08-28 to the [chapter contracts](Story/Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md) and haven't changed since. `Story/Chapters/Coda.txt` is an older ending that Chapter 18 replaced; the Bible interview's locks (Q93–Q103) name its contents as stale, so it's to be retired ([Decisions](Story/Revision/Decisions.md#the-bible-interview-locks-the-manuscript-doesnt-yet-follow)). About 48,800 words including the Coda.
+The canonical text is `Story/Chapters/Chapter_01.txt` to `Chapter_18.txt`, read in order. All eighteen were rewritten in the reconciliation of 2026-08-28 to the [chapter contracts](Story/Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md) and haven't changed since. The old ending, `Coda.txt`, was retired to [Story/Archive](Story/Archive/README.md) on 2026-09-30; the Bible interview's Q93–Q103 name its contents stale. About 48,800 words including the Coda.
 
 **Levels** are defined in the [revision README](Story/Revision/README.md#development-levels-for-a-chapter): L0 contract, L1 hardened, L2 planned, L3 revised from the voice sources and checked, L4 independently reviewed and read by James. Every chapter's target is L4.
 
@@ -32,7 +32,7 @@ The canonical text is `Story/Chapters/Chapter_01.txt` to `Chapter_18.txt`, read 
 | **16** | W17 | L2 | The most commentary in the book; the hearing reads as a rules list | — |
 | **17** | W18 | L2 | The correction montage repeats; the museum section's viewpoint blurs | — |
 | **18** | WC | L2 | Lands, but drifted from the interview's locks: the cookbook moment should be silent and Pathwell shouldn't test the prune. Ends on "Perfect." (R9); a stray `}` after the last word | — |
-| **Coda** | — | — | Superseded; to be retired | — |
+| **Coda** | — | — | Retired to [Story/Archive](Story/Archive/README.md) on 2026-09-30 | — |
 
 Details for every chapter: the [assessment](Story/Revision/Assessment-2026-09-29.md#chapter-by-chapter).
 

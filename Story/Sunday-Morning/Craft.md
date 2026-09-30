@@ -14,7 +14,7 @@ Scene-level texture (what the world was doing yesterday) comes from the setting'
 
 ## Telling
 
-**Source:** James's Pathwell notes in this repo, brought in on his call ([D10](Decisions.md#standing-rulings)): [`Writing-Principles.md`](../../Writing-Principles.md), [`Quick-Diagnostic.md`](../../Quick-Diagnostic.md), [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md), [`pathwell_prose_voice.md`](../Story_Files/pathwell_prose_voice.md) and [`INS-0001-unpaid-plot-debts-must-be-paid-on-page.md`](../insights/INS-0001-unpaid-plot-debts-must-be-paid-on-page.md).
+**Source:** James's Pathwell notes in this repo, brought in on his call ([D10](Decisions.md#standing-rulings)): [`Writing-Principles.md`](../../Writing-Principles.md), [`Quick-Diagnostic.md`](../Archive/Wiki-2026-06/Quick-Diagnostic.md), [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md), [`pathwell_prose_voice.md`](../Story_Files/pathwell_prose_voice.md) and [`INS-0001-unpaid-plot-debts-must-be-paid-on-page.md`](../insights/INS-0001-unpaid-plot-debts-must-be-paid-on-page.md).
 
 Pathwell is a literary urban fantasy novel, written for a longer, darker book, so each principle is marked **carries over**, **adapted** or **in tension**.
 
@@ -162,7 +162,7 @@ And the guide's revision rule: clarify first, strengthen second, embellish last.
 
 ## Sunday Morning scene diagnostic
 
-Pathwell's five-question [Quick Diagnostic](../../Quick-Diagnostic.md), adapted. Run it on every scene of a draft.
+Pathwell's five-question [Quick Diagnostic](../Archive/Wiki-2026-06/Quick-Diagnostic.md) (now archived; its last question was overruled by Writing Principles 18), adapted. Run it on every scene of a draft.
 
 1. **What does the viewpoint character want in this scene?** "Nothing" or "to understand what's happening" means passive. Give them a want, even a small one.
 2. **Therefore, but, or and then?** Fix "and then".

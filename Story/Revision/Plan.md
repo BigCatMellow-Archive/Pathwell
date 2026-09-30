@@ -103,7 +103,7 @@ Work in this order. Nothing below Priority 1 starts before James's verdict on th
 | 0 | Answer [Q-H](Decisions.md#open-for-james) ("he knows her") and pick a climax option or none (Q-E) | B | James | — |
 | 1 | **Step 2: revise Chapter 12** ([below](#step-2-the-test-chapter)) | L, with any small C items in that chapter | DO | James's go-ahead |
 | 2 | The chapter-by-chapter pass on chapters no open question blocks, in reading order: 3, 4, 5, 6, 7, 9, 10, 11, 13, 16, 17. Each chapter's pass takes its line items and its C items together (listed below), then runs [after every pass](README.md#after-every-pass) | L + C | DO, PLAN where a scene changes | the Step 2 verdict |
-| 3 | The chapters with work above line level: Ch1 (her welcome party; Q-H), Ch2 (no lo mein order; she goes after her books, R12; Q-H for two lines), Ch8 (the echo line, R11) and Ch8–9 (recognition at the diner), Ch14–15 (the climax option James picks, and Shade's locked reason), Ch18 (the silent cookbook, no test; "Perfect." confirmed); retire `Coda.txt` | C then L | PLAN, DO | Q-H for Ch1–2; Q-E for Ch14–15 |
+| 3 | The chapters with work above line level: Ch1 (her welcome party; Q-H), Ch2 (no lo mein order; she goes after her books, R12; Q-H for two lines), Ch8 (the echo line, R11) and Ch8–9 (recognition at the diner), Ch14–15 (the climax option James picks, and Shade's locked reason), Ch18 (the silent cookbook, no test; "Perfect." confirmed); `Coda.txt` retired (P3) | C then L | PLAN, DO | Q-H for Ch1–2; Q-E for Ch14–15 |
 | 4 | Records: keep the Registry's shapes, the ledger and Revision-Status current after every pass. (The pillar pages were brought into line in P2, R14) | records | RECONCILE | — |
 | 5 | **L4:** a fresh cold read of the whole book in order after the last pass, reconciled, then James's read | JUDGE | — | everything above |
 
@@ -131,7 +131,7 @@ What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#
 | 16 | the hearing's numbered rules; the narration grading Pathwell | "hip"; body-deciding; "That ended the conversation for now. Nothing more." | "That was the first thing Elizabeth understood about aftermath." |
 | 17 | compress the correction montage around the Henry Vale refusal; fix the museum section's viewpoint; a line on how she reaches Camp | "hip" | the closing summation; "2026" on the card |
 | 18 | the cookbook becomes a silent moment: he picks it up, considers it, puts it back; no price, no branches, no dialogue about it (Q96, Q99, Q103); "It was my fault" without naming Shade or a reply (Q95) | the stray `}`; the last exchange's attribution (Elizabeth asks) | the ending lines ("Perfect." confirmed, R9) |
-| Coda | retire: move it out of `Chapters/` (lock) | — | — |
+| Coda | done: moved to the [archive](../Archive/README.md) on 2026-09-30 | — | — |
 | all | the dagger's fate ([ledger O4](Promise-Ledger.md#objects)) goes with the climax option (3 or 3b); otherwise it's lost on the page at the museum | — | — |
 
 ## Reconsideration triggers

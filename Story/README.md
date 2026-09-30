@@ -1,8 +1,8 @@
-# Pathwell
+# Pathwell: the Story folder
 
-## Canonical manuscript
+## The manuscript
 
-The current manuscript source of truth is the numbered chapter sequence:
+The manuscript is the eighteen chapter files, read in order. Nothing else is the manuscript.
 
 ```text
 Chapters/Chapter_01.txt
@@ -10,68 +10,20 @@ Chapters/Chapter_01.txt
 Chapters/Chapter_18.txt
 ```
 
-Read those files in numeric order. Do not treat older working snapshots or planning files as manuscript canon.
+To assemble them into one plain-text file, run `python3 Story/assemble_manuscript.py`, which writes `Story/Pathwell.txt`. The chapter files win if the two ever differ.
 
-`Chapter_12b.txt` was a superseded climax draft and has been removed from the live chapter directory; it remains available through Git history.
+The old ending (`Coda.txt`), `Pathwell Working.docx`, the June review notes and every other earlier version are in [Archive/](Archive/README.md). Chapter 12b and the old `Pathwell.txt` are in git history.
 
-`Pathwell Working.docx` is a legacy working snapshot. It is retained for historical/reference purposes and is **not** the canonical manuscript.
+## What's in this folder
 
-The old hand-maintained `Pathwell.txt` was also removed because it contained the pre-reconciliation manuscript. To generate a fresh assembled plain-text manuscript from the canonical chapters, run:
+| Folder | What it is | State |
+| --- | --- | --- |
+| [Chapters/](Chapters/) | The manuscript | current |
+| [Interview/](Interview/README.md) | The Bible interview (2026-08-21 to 08-27): James's locked answers about the story and the world | authority |
+| [Revision/](Revision/README.md) | The current revision: order of authority, decisions, plan, promise ledger, registry, pass log, and James's pre-August chapters as the [voice benchmark](Revision/Voice-Benchmark/README.md) | current |
+| [Story_Files/](Story_Files/README.md) | Canon, the world and character bibles, the chapter contracts, the voice reference | current |
+| [Sunday-Morning/](Sunday-Morning/README.md) | The writing method the revision uses (its tone isn't used for this book) | current |
+| [ideas/](ideas/), [insights/](insights/) | Two promoted MAP records (the unpaid-plot-debts insight) | history, still cited by the method |
+| [Archive/](Archive/README.md) | Everything superseded, with what replaced it | never authority |
 
-```bash
-python3 Story/assemble_manuscript.py
-```
-
-That writes `Story/Pathwell.txt` from Chapters 1–18. The chapter files remain authoritative if the generated file ever differs.
-
-## Revision
-
-The current revision of the manuscript, using the Sunday Morning method (not its tone), is recorded in:
-
-```text
-Revision/
-```
-
-Start at `Revision/README.md`: its order of authority, the plan, the open questions for James, the promise ledger and the pass log.
-
-## Story support material
-
-Planning, canon, audit, reconciliation, and execution-support documents live in:
-
-```text
-Story_Files/
-```
-
-These files explain the manuscript but are not themselves chapters.
-
-## Sunday Morning notes
-
-A general guideline for writing Sunday Morning stories (low-pressure, character-forward stories) in any setting: the framework, James's voice guide, rules, craft, a step-by-step pipeline, collection templates and a freshness checker. It isn't part of the Pathwell manuscript.
-
-```text
-Sunday-Morning/
-```
-
-Start at `Sunday-Morning/README.md`.
-
-## MAP coordination system
-
-The project-local MAP coordination system lives in:
-
-```text
-MAP_System/
-```
-
-Start here:
-
-- `MAP_System/AGENTS.md` - shared Codex/Claude rules
-- `MAP_System/CLAUDE.md` - Claude Code instructions
-- `MAP_System/tasks/TASK-001.json` - first ready task
-- `MAP_System/shared/project_brief.md` - project objective
-- `MAP_System/archive/root-map-pathwell-run-2026-06-27/` - archived Pathwell task run separated from the reusable root MAP engine
-
-Validate the Pathwell task graph:
-
-```bash
-python3 MAP_System/scripts/validate_task_graph.py
-```
+The MAP coordination system that some older notes mention lives in the separate MultiAgentProject repository, not here.

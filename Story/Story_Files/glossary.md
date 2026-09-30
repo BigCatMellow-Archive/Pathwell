@@ -13,7 +13,7 @@
 | **Shade** | [OPEN] | Made from Pathwell's failed pruning. Introduces himself as **"Shade Pathwell"** — not lying, not telling the truth. NOTE: the name literalizes the metaphor (a shadow-self called Shade), which sits against the book's "don't explain the metaphor" principle. Flagged for a deliberate keep/change decision; tracked in the conflicts doc. Using it for now. |
 | **Stansbury** | yes | Pathwell's brother. Centuries old. |
 | **Mama Baga** | yes | Matriarch of Camp Cunnan; Pathwell's adopted mother. |
-| **Papa Baga** | [OPEN] | Co-parent figure, established then dropped. Keep-or-cut undecided; default not-present. Conflicts doc. |
+| **Papa Baga** | CUT | Cut cleanly from canon; Mama Baga is Pathwell's sole Camp parent (Bible decisions 2026-08-23 §4). |
 | **Boots** | yes | "Boots the Blood God" in the discovery draft — scratches Elizabeth, drinks blood, then nothing comes of it. Flagged since early development as underused. World flavor unless given a payoff. |
 
 ---

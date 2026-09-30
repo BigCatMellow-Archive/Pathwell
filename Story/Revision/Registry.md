@@ -12,7 +12,7 @@ Run it from the repository root. It reads the chapter files directly and never e
 python3 Story/Sunday-Morning/tools/sunday_morning_check.py --registry Story/Revision/Registry.md --drafts Story/Chapters --pattern "Chapter_*.txt" --min-files 3
 ```
 
-Add `Coda.txt` to a run with `--pattern "*.txt"` while [its status](Decisions.md#open-for-james) is undecided.
+`Coda.txt` was retired to the [archive](../Archive/README.md) on 2026-09-30; its row below is kept as history.
 
 **Update this page whenever a pass adds or renames a character, or changes a chapter's opening, engine, resolution or final line.** Keep the `<!-- registry:… -->` marker comments; the checker reads between them.
 
