@@ -97,3 +97,121 @@ A short account of how the chapters got to where they are, so a later pass doesn
 
 **Lesson, for the method:** the Sunday Morning notes already say not to leave a stale snapshot looking current (README, rule 7). Here the rule is now a folder: superseded material moves to the archive in the same change, with a line saying what replaced it ([archive rules](../Archive/README.md#rules-so-this-doesnt-pile-up-again)).
 
+
+## P4, 2026-09-30: Step 2, Chapter 12
+
+**Goal:** revise one chapter from the voice sources and check it, then stop for James's verdict ([plan](Plan.md#step-2-the-test-chapter)). James: "go ahead with chapter 12".
+
+**Approach.** The story, the dialogue and every ledger fact stay as they were. The prose moves toward James's pre-August Chapters 1–2 ([benchmark](Voice-Benchmark/README.md)). That means narration contracted the way people talk; ordinary movement written as sentences instead of stacks of one-line fragments; and narrator lines that only restate what the scene just showed cut. Lines in the cautious categories were left alone unless the change was plainly a cut of redundant explanation, and every one of them is listed below for James ([plan](Plan.md#step-2-the-test-chapter), step 2).
+
+### What changed (from the diff)
+
+The chapter goes from 2,497 to 2,411 words and from 408 to 282 paragraphs.
+
+**Contractions in narration.** There were nineteen: "did not" to "didn't", "had not" to "hadn't", "she had" to "she'd", "was not" to "wasn't" and so on. Dialogue is untouched, including Mama Baga's and the healer's uncontracted speech ("You are not using this arm today.", "That was not the question.").
+
+**Fragment stacks merged into sentences.** Nothing was added or lost in these:
+
+- the boy seeing her;
+- Shade's stopped hand;
+- the wagon's contents;
+- the healer's examination;
+- the no-glowing-paper line;
+- the setting of the joint;
+- the diary's contents;
+- the archivist's expected questions;
+- the intake rack;
+- Elizabeth looking from the cookbook to the diary;
+- Shade looking at her empty hand.
+
+**Plain words for stiff ones:**
+
+- "attempted" became "tried";
+- "discussed" became "talked about";
+- "Camp continued outside" became "Outside, Camp went on";
+- "Then continued with the bucket" became "Then he carried on with the bucket";
+- "newly received items" became "new arrivals";
+- "The Space Between had returned it" became "had given it back";
+- "the checking behavior" became "the checking".
+
+**Fixes:**
+
+- *Continuity.* The old text had "She had watched Pathwell say the scans still had the information. / She had understood immediately why that was not enough." But Elizabeth goes through the wall at Chapter 11 before Pathwell says the scans line, so she couldn't have watched him say it. It now reads: "The first night here, the archivist had told her a copy wouldn't be the same thing, and she'd said she knew." That is the Chapter 4 exchange ("The copy won't be the same thing." / "I know."). **This is new text in an emotional passage; it's for James.**
+- *Logic.* The old text had "Loan meant it remained hers in a different building. / Deposit meant she could tell herself…", but she had just said no to "Store". The two lines are now one, about the loan: "A loan meant it stayed hers in a different building, and she could tell herself she'd only moved the checking somewhere safer."
+- *Time of day.* Chapter 11 ends in daylight; Camp is lit by lanterns and dawn comes at the end of Chapter 12. The line now reads "Then lantern light; here it was still dark." (the plan's C item for Chapter 12). **This is new text; it's for James.**
+- *Repetition with Chapter 11.* The old text had "No hand offered. / No argument. / He walked beside her instead." Chapter 11 says the same thing about ten minutes earlier in story time ("No argument. / No theatrical offer of his hand."). The line is cut to "He walked beside her."
+
+**Cut:** narrator commentary that explains what the scene just showed. Each cut is listed below so James can restore it.
+
+**Kept on purpose:**
+
+- *Continuity facts:* the diary "against her ribs", the intake rack "just inside the archive entrance", the cookbook's card, FIND NANA'S SPOON checked twice, "missing meetings", "DONOR PERMISSION REQUIRED. PATHWELL IS NOT DONOR." and "Ask me before anyone reads it".
+- *Characters' tells:* Shade's right-hand tell and "Are you Pathwell?".
+- *A family gesture:* Mama Baga's "mouth moved at one corner", which a book-wide check suggests is a family gesture ([ledger R17](Promise-Ledger.md#relationships-and-running-elements)).
+- *Every line of dialogue.*
+
+### For James: lines to rule on
+
+**Cuts you may want back.** Every one is narrator commentary.
+
+1. "That was probably why it mattered." (after "Elizabeth hadn't expected the question.")
+2. "Nobody was moving the world around her while she decided." (after the fiddle)
+3. "Elizabeth found the ordinariness unexpectedly comforting." (after the sling)
+4. "Camp had absorbed their crisis by refusing to become only their crisis. / Elizabeth had not known she needed that." (after the stew). The fresh check called the first sentence one of the chapter's better lines, and it is the cut I'm least sure of.
+5. "Not pressure. / Room." (after "He waited one more beat."). The fresh check would restore it: without it the beat could read as pressure, in a chapter whose contract is about consent.
+6. "Those facts could coexist without canceling each other." (after "The life in its pages was still hers.")
+7. "Not because the objects were destined for anything. / … / That was enough." The middle line, "because someone had decided they were worth keeping", is kept and folded into the sentence before it.
+8. "Nobody was asking her to decide what happened when he arrived." (the second-to-last paragraph)
+9. "Not dramatically." (from "Camp was moving toward morning. / Not dramatically. / One person at a time."). This also removes an echo of Chapter 15's "Not dramatically."
+
+**Kept, but in a cautious category.** Suggestions only.
+
+- **The opening,** "Camp Cunnan was awake enough to notice trouble and asleep enough to resent it." It's the second of three personified openings in a row (11, 12, 13). The plan varies Chapter 13's opening instead, so this one can stay.
+- **"It was terrible. / That, at least, felt normal."** This is the drink gag's fifth use (3, 4, 9, 12, 13, 18). Keep it here, or cut "That, at least, felt normal."
+- **"Receiving weight rather than claiming it."** It echoes Chapter 4's "Receiving the weight rather than examining it." and is more aphoristic than James writes. It could go now that the sentence before it names the cookbook.
+- **"Still being used. Still itself."** (the blue road notebook). This fragment pair is fine as it is.
+- **"The book belonged here now. That still hurt. It also no longer felt like disappearance."** The emotional turn is unchanged; only the paragraphing changed.
+- **"Elizabeth understood."** (before "Do it."). It can be cut, since "The healer waited." already carries it.
+- **"Elizabeth's hand stayed suspended after the diary left it. Empty. She lowered it."** Kept as it was, now in one paragraph.
+- **The closing,** "For the first time since the museum, nothing required an immediate answer." "For the first time since…" closes Chapters 4, 7, 12, 16 and 17 (Registry). Keep it, or end on the last line alone: "Elizabeth pulled the blanket Mama Baga had left over the good shoulder and watched Camp wake up."
+
+### Check log
+
+- **Shapes.** No opening, engine, resolution or ending changed. The one Registry change is to the motive-list device: its "Not because X… Because Z." instance in Chapter 12 is gone.
+- **Checker** (Chapter 12, before → after, per 1,000 words):
+  - uncontracted narration: 9.0 → 0.5 (the benchmark is 0);
+  - "Not…"/"No…" paragraphs: 5.2 → 0 (benchmark 0);
+  - commentary paragraphs: 5.2 → 2.4 (benchmark 0–1.8);
+  - evaluative follow-ups: 0.5 → 0;
+  - filter verbs: 3.2 → 3.2;
+  - very short paragraphs: 49% → 47% (benchmark 12–35%).
+
+  The filter verbs are "Shade watched it.", "Elizabeth saw the inside of her own skull", "Shade watched him go." and the like. They're comic timing and action, not filtering, so they stay. The short-paragraph share is still high because most of what's left is one-line dialogue exchanges, and those were left alone.
+- **Scene diagnostic** (every scene touched):
+  - *arrival:* she wants to get to help without being carried; it works as a "therefore"; she ends inside the wagon.
+  - *the shoulder:* she wants it over with; "but" it's her shoulder, so she has to say when; the joint is set.
+  - *Shade's hand:* they get fed.
+  - *the stew:* "therefore" she goes to the archive.
+  - *the archive:* she wants to keep the diary and not keep checking it; she gives it.
+  - *dawn:* nothing needs an answer.
+
+  All six pass. The explained-after-showing lines are cut (listed above). **Deletion test:** without the chapter, the diary's gift, which Chapter 15's fire depends on, and a scene of care done with hands and cloth, not pages, would both be lost.
+- **Fresh independent check** (a pass that didn't write the text read the old and new versions, the neighbours, the benchmark, the contract and the ledger). *No lost setups*; Chapter 14's and 15's placements of the cookbook and diary are intact. *It confirmed the scans fix and the time-of-day fix, and found one new continuity error:* "no page going blank" contradicts the canon, where the page disappears. That was fixed back to "no page disappearing". *It flagged these other problems, all of which were fixed:*
+  - the "Deposit/Storing" logic;
+  - four cuts that were doing work (Mama Baga's mouth, Shade's "old Pathwell knowledge" line, the cookbook callback, "worth keeping"), all restored or folded in;
+  - editor-sounding new lines ("She knew it better now." cut; "didn't feel like disappearing anymore" reverted);
+  - the repeat of Chapter 11's hand-and-argument line.
+
+  *Re-check after the fixes:* all fixes landed, no continuity errors remain, and what's left is judgment calls, all in the list above.
+- **Replacement tics.** The check found the main new tic: ", then" chains (9 against 1 before, four of them "looked at X, then at Y"). They're now down to 4. Other counts:
+  - ", and he/she" joins: 5;
+  - colon lists: 4 (against 2 before);
+  - one "and… and… and" chain (the diary's contents; James's own "and" runs are similar);
+  - no "didn't quite".
+
+  Watch all of these in the next chapter.
+- **Also reverted as change for its own sake:** "His eyes went to her sling" (back to "dropped briefly to"), "sat down" (back to "sat"), and "Shade stayed by the wagon door" (back to "remained", which also removes a doubled "Shade stayed").
+- **Left for Chapter 13's pass:** the closing blanket "over the good shoulder" by the fire is repeated almost word for word in Chapter 13's second paragraph.
+- **Still not run:** the independent fact-check of the P1 records (see P1's check log). It was declined in the session and hasn't been re-asked.
+
+**Result:** Chapter 12 is at L3. It's waiting for James's verdict; no other chapter has been touched.

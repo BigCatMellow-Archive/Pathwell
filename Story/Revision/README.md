@@ -6,7 +6,7 @@
 
 It follows MAPS_L: **one concept, one owner**, linked rather than repeated. It holds only what didn't already exist; everything else is linked from the [inventory](#inventory-of-existing-process-records).
 
-**Where things stand:** pass P1 (Step 1: take stock) is done and stopped for James's review. P1b checked the findings against the Bible interview's locked answers, which settle most of what P1 first asked. P2 (2026-09-30) recorded James's answers, brought the pillar pages into line, laid out the climax options, and found that the voice benchmark is his pre-August prose. Read [Decisions](Decisions.md) first (the interview locks the chapters don't yet follow, then the few open questions), then the [plan](Plan.md). The manuscript itself hasn't been touched.
+**Where things stand:** pass P1 (Step 1: take stock) is done and stopped for James's review. P1b checked the findings against the Bible interview's locked answers, which settle most of what P1 first asked. P2 (2026-09-30) recorded James's answers, brought the pillar pages into line, laid out the climax options, and found that the voice benchmark is his pre-August prose. P3 archived everything superseded. **P4 (Step 2) revised Chapter 12 and stopped for James's verdict**: the [pass log](Pass-Log.md#p4-2026-09-30-step-2-chapter-12) has the change notes and the lines for him to rule on. No other chapter has been touched.
 
 ## Order of authority
 

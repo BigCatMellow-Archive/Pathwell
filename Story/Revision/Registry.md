@@ -89,7 +89,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | Device | Where |
 | --- | --- |
 | Elizabeth follows Pathwell as the chapter's last beat | 1, 2, 3, 4, 5; paid off deliberately in 8 ("following another man who sounded certain") and inverted in 18 |
-| Motive-list close: "Not because X. Not because Y. Because Z." | 2, 4, 9, 17 (and near the end of 12) |
+| Motive-list close: "Not because X. Not because Y. Because Z." | 2, 4, 9, 17 (Chapter 12's removed in P4) |
 | "For the first time since…" / "For once…" as a closing turn | 4, 7, 12, 16, 17 |
 | The world goes on "without asking permission" | 2, 4, 16, 18 |
 | Opening on a personified place or group | 6, 11, 12, 13 (and a similar witty verdict in 17) |
@@ -138,7 +138,7 @@ Counted per 1,000 words of narration (dialogue removed) unless the line ends `::
 - "Lizzy" :: Lizzy :: all
 - bureaucratic imagery :: (?i)\badministrative\b|\bpaperwork\b|\bbureaucra
 - "noticed that too" / "saw that too" :: (?i)\b(?:noticed|saw)(?: that| it)? too\b
-- "mouth moved at one corner" (stock gesture) :: (?i)mouth (?:moved|twitched) at one corner|mouth moved\b :: all
+- "mouth moved at one corner" (stock gesture, or a family tell shared by Mama Baga, Shade and Pathwell? for James, P4) :: (?i)mouth (?:moved|twitched) at one corner|mouth moved\b :: all
 - commentary paragraph (a short line that evaluates the beat just shown) :: ^(?:That|This|It was|Which|For once|Neither|There it was|Good\.|Elizabeth (?:appreciated|liked|noticed|understood|believed|approved|found|realized|knew|felt)|She (?:believed|appreciated|understood|resented|hated|knew)|The (?:answer|sentence|word|question|correction|distinction))\b[^\n]{0,90}$
 <!-- registry:watch:end -->
 

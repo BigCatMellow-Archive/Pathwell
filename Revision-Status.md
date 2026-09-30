@@ -25,7 +25,7 @@ The canonical text is `Story/Chapters/Chapter_01.txt` to `Chapter_18.txt`, read 
 | **9** | W09 | L2 | Heavy commentary; two logic lines; the recognition moves here (lock) | — |
 | **10** | W10–W11 | L2 | The Ask repeats its facts; narrator states the thesis | — |
 | **11** | W12 | L2 | The best-built chapter; line work only | — |
-| **12** | W13 | L2 | Strong healer scene inside heavy commentary. **Step 2 test chapter** | — |
+| **12** | W13 | **L3** | **Revised 2026-09-30 (Step 2, [pass P4](Story/Revision/Pass-Log.md#p4-2026-09-30-step-2-chapter-12)):** narration contracted, fragment stacks merged, explaining lines cut, the scans continuity error fixed; dialogue untouched. Waiting for James's verdict and his calls on the flagged lines | James's verdict |
 | **13** | W14 | L2 | Required; the middle vignettes repeat one point | — |
 | **14** | W15 | L2 | Strong; Prague contradiction; the climax is being explored | Q-E |
 | **15** | W16 | L2 | The climax; Shade's reason unclear and not the locked one; all line changes are for James | Q-E |
@@ -40,8 +40,8 @@ Details for every chapter: the [assessment](Story/Revision/Assessment-2026-09-29
 
 ## What's next
 
-1. James answers the two [open questions](Story/Revision/Decisions.md#open-for-james) ("he knows her", and the climax options) and gives the go-ahead for Step 2 on Chapter 12.
-2. Step 2: that one chapter is revised from the voice sources, checked, and stopped for James's verdict ([plan](Story/Revision/Plan.md#step-2-the-test-chapter)).
+1. **James reads the revised Chapter 12** and gives his verdict: does it sound like him? His calls on the [flagged lines](Story/Revision/Pass-Log.md#for-james-lines-to-rule-on) set how the next chapters treat the same kinds of line.
+2. James answers the two [open questions](Story/Revision/Decisions.md#open-for-james) ("he knows her", and the climax options).
 3. Then the chapters nothing blocks, in reading order; then the blocked ones as their questions are settled.
 
 ---
