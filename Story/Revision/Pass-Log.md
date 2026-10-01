@@ -585,3 +585,30 @@ These are character-defining lines, so they're yours to judge. The checker noted
 - Ch18: R19, the repeated cookbook and apology beats, and R9's attribution.
 
 **Records:** ledger O3 and L6 fixed; Revision-Status updated.
+
+## P11, 2026-10-01: Chapter 1 with and without the Sunday Morning tone
+
+**Why:** The author: "I feel like the story could benefit from at least some of the Sunday Stories tones, it can still have weight doing that, but i feel like thats really the tone Ive been shooting for, maybe we try chapter 1 with it, and chapter 1 without, and see if it helps hurts or does nothing for the story." This tests R1, which kept the Sunday Morning tone out of Pathwell. It isn't a ruling yet.
+
+**What ran:**
+
+1. Re-read the Sunday Morning tone sources: the Framework's core promise ("You do not need to brace yourself"; "substantial enough to matter, but comfortable enough that the reader never feels emotionally punished") and the tone guardrails (one sad moment said once, then somewhere soft to land; people the reader enjoys; human-scale stakes; endings land warm).
+2. Wrote a trial, [Chapter_01_sunday-tone.txt](Experiments/Chapter_01_sunday-tone.txt). It's the current Chapter 1 with four changes:
+   - the party paragraph warmed: the half-eaten "ELIZ" cake, "It had been a good party", the hall light switch;
+   - "He'd laughed at her joke about the landlord, which was more than anyone from work had managed.";
+   - a soft landing after the danger: "The cake, somehow, was fine.";
+   - a pause before his brush-off: "He stopped. For a second he wasn't in a hurry at all. / 'Because it was hers,' he said." (The second line is the August rewrite's own, restored.)
+
+   The sugar-cookie passage, the fight and every lock are unchanged. The trial runs 1,038 words; the current chapter, 949.
+3. A blind reader read both (current first), plus the Chapter 2 opening, without being told which was the trial. **It preferred the trial:**
+   - It "made me like Elizabeth before anything goes wrong" and gives the reader a reason "to spend time with both of them".
+   - The page's loss and the danger kept their weight, and "Because it was hers" adds weight: "someone who understands magic confirms that the page really held her grandmother's voice", and his carelessness becomes "a choice", "more troubling than ignorance".
+   - It leads into Chapter 2's comedy more naturally, and the landlord joke now pays off Chapter 2's "My landlord is going to kill me".
+   - The current version's "Again, understandable reaction" in answer to her grief "reads as plain dismissal".
+   - The riskiest line is "The cake, somehow, was fine.": "whimsy right next to rot", which works as release.
+4. Three of the reader's notes were applied to the trial:
+   - cut "more gently than anything he'd said so far" (the pause already shows it);
+   - removed "three weeks", which Chapter 2 reveals;
+   - put WELCOME ELIZABETH back on the banner, so "The banner had come down into it" keeps its sting.
+
+**For the author:** adopt the trial as Chapter 1, keep the current version, or take parts of it. If it's adopted, R1 would change: some of the Sunday Morning tone (warmth, people worth spending time with, a soft landing after the hard moment) would become part of Pathwell's voice, with the weight kept.
