@@ -636,3 +636,14 @@ These are character-defining lines, so they're yours to judge. The checker noted
 Chapter 1 runs 1,082 words.
 
 **For the author:** the new lines are "He lifted his head and sniffed…" / "His face changed.", "since the funeral", "You really don't know?" / "Know what?" / "Huh." and "He nodded at the ooze drying on her walls."
+
+## P13, 2026-10-01: Chapter 1, after reviewing the author's notes
+
+**Why:** The author asked for push-back on his notes (R26). The review kept five notes and questioned three. His answers are R27.
+
+**What changed (from the diff):**
+
+- **What woke her:** "Stepping out into the living room she found a man going through her boxes." gains "One stack had gone over, and her winter sweaters were all over the rug." The crash that woke her was the boxes. Otherwise Pathwell would be calmly reading through a blob slamming the door, as the author pointed out. This replaces the 08-22 lock's wording.
+- **The voice:** "A voice she hadn't heard since the funeral." became "A voice she hadn't heard in a long time." The funeral line is gone, and "in years" now appears only once (line 69, the author's own).
+- **"Marked":** no text change. The nod at the ooze stays as the prop that sells the bluff ([ledger P4](Promise-Ledger.md#premise-and-mystery)).
+- **Records:** Decisions R27; ledger P4.
