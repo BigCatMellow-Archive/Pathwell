@@ -599,7 +599,7 @@ These are character-defining lines, so they're yours to judge. The checker noted
    - a soft landing after the danger: "The cake, somehow, was fine.";
    - a pause before his brush-off: "He stopped. For a second he wasn't in a hurry at all. / 'Because it was hers,' he said." (The second line is the August rewrite's own, restored.)
 
-   The sugar-cookie passage, the fight and every lock are unchanged. The trial runs 1,038 words; the current chapter, 949.
+   The sugar-cookie passage, the fight and every lock are unchanged. The trial runs 1,037 words; the current chapter, 949.
 3. A blind reader read both (current first), plus the Chapter 2 opening, without being told which was the trial. **It preferred the trial:**
    - It "made me like Elizabeth before anything goes wrong" and gives the reader a reason "to spend time with both of them".
    - The page's loss and the danger kept their weight, and "Because it was hers" adds weight: "someone who understands magic confirms that the page really held her grandmother's voice", and his carelessness becomes "a choice", "more troubling than ignorance".
