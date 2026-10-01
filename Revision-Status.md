@@ -40,7 +40,7 @@ Details for every chapter: the [assessment](Story/Revision/Assessment-2026-09-29
 
 ## What's next
 
-0. **The currency audit (2026-10-01)** found where the chapters and notes follow outdated decisions ([report](Story/Revision/Currency-Audit-2026-10-01.md)). Four of the author's decisions disagree with each other and need his ruling first: Q-I to Q-L in [Decisions](Story/Revision/Decisions.md#open-for-the-author).
+0. **The currency audit (2026-10-01)** has been answered (R19–R23) and triaged on story merit ([triage](Story/Revision/Currency-Audit-2026-10-01/triage.md)): 27 FIX, 87 KEEP. The small continuity fixes are done (P10). What remains goes into chapter passes: Chapter 2 (R12, rebuilt from the July text), Chapter 8 (R11's echo line), Chapter 15 (Shade seeing what his pursuit costs, Q132) and Chapter 18 (R19, R9 and two repeated beats). The reference pages still need bringing into line with R19–R23.
 1. **The author reads the revised Chapter 12** and gives his verdict: does it sound like him? His calls on the [flagged lines](Story/Revision/Pass-Log.md#for-the-author-lines-to-rule-on) set how the next chapters treat the same kinds of line.
 2. **The author reads the rebuilt Chapter 1** ([flags](Story/Revision/Pass-Log.md#for-the-author-chapter-1)). If it sounds like him, Chapter 2 is next, rebuilt the same way from his July Chapter 2.
 3. If the author wants it, a second pass on Chapter 12 with the new craft ([Writing against sameness](Story/Revision/Writing-Against-Sameness.md): the narrator's register, whose joke it is, Elizabeth's interiority), compared with P4's version.

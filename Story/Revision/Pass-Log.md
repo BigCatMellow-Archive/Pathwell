@@ -555,3 +555,33 @@ These are character-defining lines, so they're yours to judge. The checker noted
 - Decisions: R19–R23. Q-I to Q-L are marked as answered. The Q-H default stands unless the author objects.
 
 **Next:** triage each audit finding under R23. Each one is marked FIX (a real story problem), KEEP (it differs only from a staging lock but works) or AUTHOR.
+
+## P10, 2026-10-01: triage and continuity fixes
+
+**Triage.** Under R23, three readers marked each audit finding FIX, KEEP or AUTHOR on story merit. The result was 27 FIX, 87 KEEP and 0 AUTHOR ([triage](Currency-Audit-2026-10-01/triage.md)). The reviser overrode two of the readers' calls:
+
+- The Chapter 7 "mirror" speaker stays as it is ("A conversation happening before anyone spoke" covers it).
+- The diary-placement slip is fixed with one change in Chapter 12, rather than two in Chapters 16–17, as one reader proposed.
+
+**Continuity fixes, applied (from the diff):**
+
+- **Ch5:** "the last few hours" became "last night".
+- **Ch8:**
+  - "Stansbury said 'the big prune.'" became "…'the prune that went wrong.'" (Ch7's words);
+  - "There's a diner twenty minutes east." became "There's coffee somewhere along this road." (with a named destination, the brothers' tracking spell in Ch10 had no reason).
+- **Ch9:**
+  - cut "No lucky guess. / No dead grandmother's preferences appearing in the mouth of a stranger." (it referred to a beat that no longer exists);
+  - "where Pathwell had been headed before she wrecked the car" became "where the night had started".
+- **Ch12:** "still inside her coat. Its corner pressed against her ribs" became "still in her coat pocket. Its corner pressed against her hip" (matching Ch16–17).
+- **Ch14:** "I don't remember the name." became "I've never been there." (matching Ch9's Prague).
+- **Ch17:** "went into the drawer Pathwell had originally braced three inches too low. / It now opened cleanly." became "went into a box under the rack Pathwell had originally braced three inches too low. / It slid out cleanly now." (The three-inch error was the rack's.)
+- **Ch18:** the stray `}` after "Perfect." is deleted.
+
+**Left for chapter passes** (each is more than a word or a line, or new text in a cautious category):
+
+- Ch2: R12.
+- Ch8: R11's placement.
+- Ch15: Shade seeing the cost, Q132. This is the author's emotional territory.
+- Ch18: R19, the repeated cookbook and apology beats, and R9's attribution.
+
+**Records:** ledger O3 and L6 fixed; Revision-Status updated.
