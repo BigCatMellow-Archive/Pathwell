@@ -73,3 +73,4 @@ It doesn't restate the chapter contracts. Each chapter's "must establish" items 
 | L8 | Where Pathwell was headed after the bar | — | Ch9 ("she did know where Pathwell had been headed before she wrecked the car") | — | continuity | **broken**: nobody said a destination in Ch7 |
 | L9 | "DONOR PERMISSION REQUIRED. PATHWELL IS NOT DONOR." | Ch12 | — | — | comic / flaw | open; never tested, which is fine |
 | L10 | The shopkeeper's errand card; the French technique paperback | Coda | — | — | hook | **unpaid** inside the book; retired with the Coda ([Decisions](Decisions.md#the-bible-interview-locks-the-manuscript-doesnt-yet-follow)) |
+| L11 | Thumper's six-toed paw print (the author's July Ch2) | Ch12 (in the diary she gives; restored in P14) | — | Ch15 (the diary burns) | object / grief | open-deliberate; a small life inside the diary, nothing requires it to return |

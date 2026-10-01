@@ -693,3 +693,7 @@ Chapter 1 runs 1,082 words.
   - filter verbs: 0.9 per 1,000 words;
   - very short paragraphs: 34%;
   - 1,120 words (July: 1,141).
+- **Follow-up, the same day.** The author agreed with all three suggestions:
+  - "Lizzy." stays as the trigger.
+  - The name exchange is reworded toward his July Pathwell: "That's it. Easy to remember." (it was "That's generally been enough.") and "Also Pathwell. Saves everybody time." (it was "…if the situation becomes formal."). These are new jokes in his register, for him to adjust.
+  - Thumper comes back where the diary is described in Ch12, in mostly the author's own July words: "Thumper was in there too: his six-toed paw print pressed into the center of a page, the ink still holding after all these years." So the diary she gives away (and that later burns) holds the cat too.
