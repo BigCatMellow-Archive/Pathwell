@@ -95,7 +95,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | Opening on a personified place or group | 6, 11, 12, 13 (and a similar witty verdict in 17) |
 | A drink that "was terrible" | 3, 4, 9, 12, 13, 18 |
 | Milo's falling sock | 4, 12, 13, 14, 15, 16 |
-| "Lizzy—" / "Elizabeth." correction | planted in 1 ("Somebody's WELCOME LIZZY banner", P7); 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
+| "Lizzy—" / "Elizabeth." correction | he hears it in Nana's echo in 1 (R21; the banner reads WELCOME ELIZABETH); first said in 2; corrected in 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
 | The Space Between coffee memory recited ("two in the morning", "highlighters") | 3, 9, 10, 13, 18 |
 | Pathwell goes still as a tell | 1, 4, 5, 6, 7, 8, 10, 11 and later |
 | A found document read aloud as a small payoff (accession card, road book, Merritt margins) | 4, 11, 17, 18 |

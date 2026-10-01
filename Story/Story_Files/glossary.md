@@ -9,7 +9,7 @@
 | Name | Spelling locked | Notes |
 |---|---|---|
 | **Pathwell** | yes | The ancient practitioner. Surname used as his name throughout. |
-| **Elizabeth** | yes | The protagonist. Nicknamed **"Lizzy"** by her grandmother — Pathwell knows this (sourced from her cookbook's marginalia). |
+| **Elizabeth** | yes | The protagonist. Nicknamed **"Lizzy"** by her grandmother. Pathwell knows it because he activated the sugar-cookie page in Chapter 1 and carried the echo of Nana's memory (the author, 2026-10-01; [revision R21](../Revision/Decisions.md#the-authors-rulings-for-this-revision)); the cookbook's own inscription or marginalia is the simple fallback. |
 | **Shade** | [OPEN] | Made from Pathwell's failed pruning. Introduces himself as **"Shade Pathwell"** — not lying, not telling the truth. NOTE: the name literalizes the metaphor (a shadow-self called Shade), which sits against the book's "don't explain the metaphor" principle. Flagged for a deliberate keep/change decision; tracked in the conflicts doc. Using it for now. |
 | **Stansbury** | yes | Pathwell's brother. Centuries old. |
 | **Mama Baga** | yes | Matriarch of Camp Cunnan; Pathwell's adopted mother. |

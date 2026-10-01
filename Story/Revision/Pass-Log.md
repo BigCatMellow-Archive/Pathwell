@@ -535,3 +535,23 @@ These are character-defining lines, so they're yours to judge. The checker noted
 - The biggest single block is Chapters 8–9: the road and the diner, which together hold about 20 findings from one lock family.
 
 **Lesson, for the method:** an AI rewrite that follows "the locks" can still drop the scene-level staging inside them (who's present, what's said aloud, which lines were to be kept). Before a chapter's pass, read the newest decisions for that chapter, not just the plan's summary of them. This is the same lesson as P1b and P7b at a larger scale. It's now on the [plan](Plan.md#chapter-work-lists).
+
+## P9, 2026-10-01: the author's answers to the audit (R19–R23)
+
+**Answers** (recorded in [Decisions](Decisions.md#the-authors-rulings-for-this-revision)):
+
+- **R19, the Chapter 18 prune.** "He chooses not to find out if he can still prune." Q96 stands.
+- **R20, the next errand.** "I dont think it makes a difference to the story." Chapter 18 keeps what it has.
+- **R21, "Lizzy".** He hears the name through the echo of Nana's memory when he activates the sugar-cookie page. The echo is already canon: the activating practitioner carries the strongest echo ([world bible](../Story_Files/world_bible.md#the-echo)). The cookbook's own inscription is the fallback.
+- **R22, the mirror.** "theres bound to be something that makes sense already."
+- **R23, the general rule.** "evaluate what works for the story overall… Keeping the answers with what works best for what we have now, rather than inventing new things that we have to make fit." The audit's staging findings are judged on story merit, preferring existing text and canon.
+
+**What changed (from the diff):**
+
+- Chapter 1: "Somebody's WELCOME LIZZY banner" became "A WELCOME ELIZABETH banner".
+- Registry: the "Lizzy" row.
+- Ledger: P2 is paid by canon (R21).
+- Glossary: Elizabeth's entry now gives the echo, with the marginalia as fallback.
+- Decisions: R19–R23. Q-I to Q-L are marked as answered. The Q-H default stands unless the author objects.
+
+**Next:** triage each audit finding under R23. Each one is marked FIX (a real story problem), KEEP (it differs only from a staging lock but works) or AUTHOR.
