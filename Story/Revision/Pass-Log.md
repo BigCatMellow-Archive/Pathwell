@@ -648,3 +648,48 @@ Chapter 1 runs 1,082 words.
 - **"Marked":** no text change. The nod at the ooze stays as the prop that sells the bluff ([ledger P4](Promise-Ledger.md#premise-and-mystery)).
 - **Records:** Decisions R27; ledger P4.
 - **Follow-up, the same day.** "A voice she hadn't heard in a long time." became "A voice that couldn't be here." This is the author's idea ("a voice that couldnt be real"), made more concrete after push-back: "couldn't be real" is a stock phrase.
+
+## P14, 2026-10-01: Chapter 2, from the author's July text
+
+**Goal:** The author: "lets go on chapter 2". Rebuild it the way P7 rebuilt Chapter 1. His July Chapter 2 sets the voice and most of the text. The newest decisions set the story:
+
+- R10: she knows him a little but never caught his name.
+- R12: no lo mein order; she goes after her books.
+- Q118: he walks off with them without noticing.
+- R21: "Lizzy" came from Nana's echo.
+- R23: prefer existing material.
+- R24: some Sunday Morning tone, with the weight kept.
+
+**How:** Most of the July text is kept word for word: the stairs, "Replaceable.", the run of worries, the pinch, "a really weird Tuesday" / "It's Thursday", the neighbourhood she doesn't recognize, "peckish", the dumplings, the ticket down the gutter, the crying, "Oh, fine, you can have a dumpling", the neon dragon, "Lizzy", "The choice is yours", the butter-and-sugar warmth and "He still has it."
+
+### What changed against the July text (from the diff)
+
+- **Narration:** "Pathwell" becomes "he" until he gives his name (R10). "Pathwell chuckled softly" comes after.
+- **The name exchange, from the August version:** "What's your name?" / "You went through my boxes. I feel like that's information I should have." / "Pathwell." / "That's it?" / "That's generally been enough." / "First name?" / "Pathwell." / "Last name?" / "Also Pathwell, if the situation becomes formal." / "He speared another dumpling." It follows "She wiped her face with the heel of her hand." Ch1 has her never catching his name, so Ch2 needs it.
+- **The books on the table:** "He sat down brimming with anticipation and dropped her books on the table beside the tray before noticing Elizabeth."
+- **The books leaving:** "He stood up, brushing his hands off and gathering up his things." Her point of view doesn't tell his things from hers, so the reader finds out when she does (Q118).
+- **The charred diary is cut:** "the diary caught the corner of her eye… charred edges… Thumper… six toed paw print…" goes. The later locks keep the diary intact and in his hands, which leaves the warmth without a trigger. It now has one: "Lizzy." on its own line, the word he just used, then "Then a warmth, the taste of butter and sugar…" (July had "Then another warmth"). R21 now shows on the page.
+- **Punctuation:** "please", "Oh, these", "brushed up against", "but nothing came out" and "half-chewed" are tidied; the dialogue tags are made consistent.
+- **Chapter 3:** "You said soon." / "This is soon." / "No. This is later." / "He considered that." / "Fair." are cut. They referred to a "Soon." that Ch2 no longer has.
+- **Chapter 17:** "She unpacked Nana's mixing spoon." becomes "She picked Nana's mixing spoon up off the counter." Ch2 has it already unpacked.
+
+### For the author
+
+1. **Does it sound like you?** It's mostly your July chapter.
+2. **"Lizzy." as the trigger:** the single word that sends her back to Nana's kitchen and then to the empty table. It's new placement of an existing word, and it's emotional, so it's your call.
+3. **Thumper:** the cat and his six-toed paw print went with the charred diary. If you want him back, he could live in the diary for a later chapter (it's in Ch12's archive scene).
+4. **The name exchange:** it's August's voice ("if the situation becomes formal") rather than your July Pathwell ("peckish", "I'm tellin' ya"). Keep it, or reword it in his folksier register.
+
+### Check log
+
+- **Fresh check:** a reader who didn't write it checked R10, R12, Q118 and R21, the continuity with Ch1 and Ch3–Ch18, the changed lines, the realization, "Lizzy" and the tone. The locks hold, and the tone is "the R24 shape exactly" (the hard moment, then "Oh, fine, you can have a dumpling").
+- **Found and fixed:**
+  - She watched him take the books, so "He still has it" wasn't a discovery. The line is now "gathering up his things".
+  - The warmth had no trigger; it now has "Lizzy.".
+  - Ch17 said she unpacked the spoon, which Ch2 has already unpacked.
+  - Two stacked AI beats in the name exchange ("She waited. / He kept eating.", "She stared at him.") were cut.
+- **Checker (Ch2):**
+  - uncontracted narration: 0;
+  - filter verbs: 0.9 per 1,000 words;
+  - very short paragraphs: 34%;
+  - 1,120 words (July: 1,141).
