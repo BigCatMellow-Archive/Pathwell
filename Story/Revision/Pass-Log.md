@@ -612,3 +612,27 @@ These are character-defining lines, so they're yours to judge. The checker noted
    - put WELCOME ELIZABETH back on the banner, so "The banner had come down into it" keeps its sting.
 
 **For the author:** adopt the trial as Chapter 1, keep the current version, or take parts of it. If it's adopted, R1 would change: some of the Sunday Morning tone (warmth, people worth spending time with, a soft landing after the hard moment) would become part of Pathwell's voice, with the weight kept.
+
+## P12, 2026-10-01: Chapter 1 in the Sunday tone, with the author's notes
+
+**Why:** The author: "I love the sunday tone" (R24), with line notes (R25). The trial from P11 becomes Chapter 1, and his notes are applied.
+
+**What changed (from the diff, against the trial):**
+
+- **What woke her:** "It came again. A thud against the front door." became "A thud hit the front door." The first thud no longer reads as a second one; the crash that woke her is left to his rummaging.
+- **He smells it:** after "Friend of yours?" / "What?": "He lifted his head and sniffed. Under the cheese and the cake there was something else, faint and wrong. Low tide, a long way from any sea. / His face changed." He smells the blob, then turns urgent. Elizabeth gets the full stench later, when the ooze comes through (the author's own line).
+- **Her answer:** "My Nana always made the best sugar cookies?" now ends in a question.
+- **The pages:** "crisp and stained pages" became "worn and stained pages".
+- **"In years" twice:** "A voice she hadn't heard in years." became "…since the funeral." "Something she hadn't felt in years" stays.
+- **The diary:** "Why are you holding my diary?" is cut, since she watched him read it. "What. What just happened?" stays.
+- **The misread made legible:** "Then he looked at her more carefully. / 'You really don't know?' / 'Know what?' / 'Huh.'"
+- **"Marked" (the author's idea):** "He nodded at the ooze drying on her walls." comes before "your house has now been marked". The exploded blob may be what marks it. His certainty that the danger is hers is still the misread ([ledger P4](Promise-Ledger.md#premise-and-mystery)).
+- **Records:**
+  - Decisions: R24 and R25.
+  - Plan: each pass brings in some of the Sunday tone, with the weight kept.
+  - The Experiments index.
+  - Ledger P4.
+
+Chapter 1 runs 1,082 words.
+
+**For the author:** the new lines are "He lifted his head and sniffed…" / "His face changed.", "since the funeral", "You really don't know?" / "Know what?" / "Huh." and "He nodded at the ooze drying on her walls."

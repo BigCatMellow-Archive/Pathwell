@@ -6,4 +6,4 @@
 
 | Trial | What it tests | Result | State |
 | --- | --- | --- | --- |
-| [Chapter_01_sunday-tone.txt](Chapter_01_sunday-tone.txt) | Chapter 1 with some of the Sunday Morning tone, against the current Chapter 1 without it ([pass P11](../Pass-Log.md#p11-2026-10-01-chapter-1-with-and-without-the-sunday-morning-tone)) | a blind reader preferred it: warmer, with no loss of weight | waiting for the author |
+| [Chapter_01_sunday-tone.txt](Chapter_01_sunday-tone.txt) | Chapter 1 with some of the Sunday Morning tone, against the current Chapter 1 without it ([pass P11](../Pass-Log.md#p11-2026-10-01-chapter-1-with-and-without-the-sunday-morning-tone)) | a blind reader preferred it: warmer, with no loss of weight. The author: "I love the sunday tone" (R24) | **adopted** as Chapter 1 with his notes (P12); this file is kept as the trial |
