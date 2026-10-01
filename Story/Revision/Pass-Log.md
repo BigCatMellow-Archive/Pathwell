@@ -504,3 +504,34 @@ Most are narrator wit, of the kind the [AI detection notes](AI-Detection-Notes-2
 These are character-defining lines, so they're yours to judge. The checker noted one strain: the lock says he takes material "he believes will not be noticed missing", and reading her diary in front of her pushes on that.
 
 **Check:** Re-checked against the full text of the 08-22 §3 lock, the character bible's entry behavior and misread blocks, W01, Q112 and Q113. Casual until the blob: yes. The blob changes him: yes. He thinks it's there for her: legible. The three continuity slips it found are fixed (what woke her; the stray "Another"; "what looked like"). The checker's numbers are unchanged in kind: 0 uncontracted forms and 0 "Not…" paragraphs.
+
+## P8, 2026-09-30: currency audit
+
+**Why:** The author: "this is why i worry about having had so many versions and drafts. I almost think we need to go over everything with a fine too comb tomake sure we have the current version." He chose "Everything": the decision timeline, all 18 chapters, and the reference notes. Report only, no edits.
+
+**What ran:**
+
+1. **The decision timeline.** Six readers extracted the decisions from the primary records into [Decision-Timeline.md](Decision-Timeline.md). That's 696 rows, each quoting its source, plus each reader's open items and conflict notes.
+   - Two of the readers hit the session's usage limit and were rerun after it reset.
+2. **The chapter audit.** Six readers audited three chapters each, against the timeline and the primary sections. Two groups finished before a second usage limit; the other four were rerun on 2026-10-01.
+3. **The reference audit.** Two readers covered canon, the world and character bibles, the glossary, the contract matrix, the voice notes, the root pages, the ledger and the plan.
+4. **Verification.** A separate reader checked the 18 most consequential findings against the primary record: 12 hold, 5 partly hold, none fails. Two had cited the wrong source; the corrections are in the verification file.
+
+**What changed (from the diff):**
+
+- New in the repository:
+  - `Decision-Timeline.md`;
+  - `Currency-Audit-2026-10-01.md`, the report;
+  - its folder, holding the eight readers' files and the verification.
+- Decisions: Q-I to Q-L, the four places where the author's decisions disagree (the Ch18 prune, the Ch18 errand, the source of "Lizzy", the Ch6 mirror).
+- Plan: a line before the chapter work lists. "Voice is the ear; the story is the newest decision", and each chapter's pass reads its audit findings first.
+- Revision-Status ("What's next") and the README index.
+- No chapter or reference page was edited.
+
+**Findings:**
+
+- 113 across the chapters, about a third already in the plan.
+- About 60 across the reference pages.
+- The biggest single block is Chapters 8–9: the road and the diner, which together hold about 20 findings from one lock family.
+
+**Lesson, for the method:** an AI rewrite that follows "the locks" can still drop the scene-level staging inside them (who's present, what's said aloud, which lines were to be kept). Before a chapter's pass, read the newest decisions for that chapter, not just the plan's summary of them. This is the same lesson as P1b and P7b at a larger scale. It's now on the [plan](Plan.md#chapter-work-lists).

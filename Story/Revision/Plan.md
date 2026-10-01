@@ -109,7 +109,7 @@ Work in this order. Nothing below Priority 1 starts before the author's verdict 
 
 ### Chapter work lists
 
-What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#chapter-by-chapter). Line items common to every chapter (cut explanation after showing and narrator verdicts; bring the "Not…" fragments and very short paragraphs back toward the author's own range, where fragments are kept for danger and comic timing; contract the narration except where it insists; cut filter verbs that only point) aren't repeated. The ear for all of it is the author's pre-August Chapters 1–2 ([W9](Decisions.md#working-decisions)).
+What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#chapter-by-chapter). Line items common to every chapter (cut explanation after showing and narrator verdicts; bring the "Not…" fragments and very short paragraphs back toward the author's own range, where fragments are kept for danger and comic timing; contract the narration except where it insists; cut filter verbs that only point) aren't repeated. The ear for all of it is the author's pre-August Chapters 1–2 ([W9](Decisions.md#working-decisions)). Voice is the ear; **the story is the newest decision**: before any chapter's pass, read its findings in the [currency audit](Currency-Audit-2026-10-01.md#the-chapters) (2026-10-01), which adds scene-level items the table below doesn't yet carry, and check the [decision timeline](Decision-Timeline.md) for its chapter.
 
 | Ch | Chapter / scene items (C) | Specific line items (L) | Flags for the author |
 | --- | --- | --- | --- |

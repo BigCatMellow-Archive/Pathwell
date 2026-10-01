@@ -121,4 +121,14 @@ Settled on 2026-09-30 (R9–R15): the last word, the party, the midpoint echo, l
 
 **Q-H. "He knows her": from the party, or from before?** If Pathwell met Elizabeth at her own welcome party that evening, he knows her name and a little about her, and the locks stand as they are: he came to scavenge charged material, and the blob made her a curiosity to him. If they knew each other before, that's a new backstory the interview never set up, and it pulls against "You were never the point" (Ch9), because she'd matter to him before the blob did. *Recommendation:* from the party. He's the guest nobody quite knows who talks to everyone, and "Lizzy" is what he heard someone call her all night. *Blocks:* Chapter 1, and a few lines of Chapter 2 ("What is your name?"; "You broke into my apartment"). **Chapter 1 was revised on the default (P7), for the author to confirm:** "She knew him, a little. He'd been at the party, talking to everybody. She'd never caught his name.", and the banner reads "WELCOME LIZZY", which is where he gets the name.
 
+**From the currency audit ([2026-10-01](Currency-Audit-2026-10-01.md#for-the-author-where-your-decisions-disagree-with-each-other)): four places where the author's own decisions disagree.**
+
+**Q-I. Chapter 18's prune: Q96 or Q140?** Q96 (08-26): he "chooses **not to find out**", superseding the visible-proof version. Q140 (08-27, a point-of-view lock) describes the passage as "privately begins a prune, confirms that he still can, and chooses to stop before release"; Q138 agrees he "remains fully capable". The revision has followed Q96 so far. *A version that satisfies both:* he feels the prune begin to take, so he knows privately he still can, and stops before it would settle or go wrong.
+
+**Q-J. Chapter 18's next errand: found in the shop (Q97, Q98) or chosen before she arrives (Q135, Q137)?**
+
+**Q-K. "Lizzy": from the party banner (Chapter 1 since P7) or her grandmother's name for her (the glossary)?**
+
+**Q-L. Chapter 6's mirror: the lock (he sees Shade through the wrong-angle reflection, 08-23 §6) or the scene as written (a vague wrongness he reasons from)?**
+
 **Q-E. The climax (open, exploring).** The author wants to see what the story needs before deciding (R13). The options, grown from what's already on the page, are in the [plan](Plan.md#the-climax-what-the-story-has-already-planted). Nothing is changed until he picks one or none.
