@@ -875,3 +875,14 @@ Your call:
 3. **The parting:** "'Mind the cart on the hill,' the shopkeeper called after them. 'It pulls left.' / Then he closed the door behind them." The chapter ends warm, and the joke is his: he knows the cart he never lent.
 
 All three are new lines in the cautious categories (an emotional beat, a joke), kept plain for him to judge. The prune, the cost and every lock are unchanged.
+
+## P18, 2026-10-02: Chapter 2 with the Sunday tone
+
+**Why:** The author asked: "what happened to Chapter 2 sunday tone?" Like Chapter 3, Chapter 2 never got its own Sunday trial. P14's fresh check judged that his July text already had the shape R24 asks for: the hard moment (the ticket, the tears), then "Oh, fine, you can have a dumpling." That's true, but it's no substitute for showing him a version. The trial is [Experiments/Chapter_02_sunday-tone.txt](Experiments/Chapter_02_sunday-tone.txt). The chapter itself is unchanged until he chooses.
+
+**What the trial adds:**
+
+1. **A stranger's kindness after the tears:** "Whoever was working the counter had sent a thick stack of napkins out with the tray." Later, "She wiped her face with one of the napkins." (it was "with the heel of her hand"). Someone noticed her crying, and nobody makes a speech about it.
+2. **A soft beat before the sting:** "He left the last dumpling on her side of the tray." This pays off his "I don't share", so the man walking off with her books has just been decent to her without making a thing of it. It doesn't spoil "He still has it.": when her eyes sweep the table, they find the dumpling and not the books.
+
+Both are new lines (a small kindness and a callback joke), kept plain for him to judge. Nothing else changes, and the locks (Q118, R12, R21) are untouched.
