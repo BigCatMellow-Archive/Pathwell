@@ -893,3 +893,15 @@ Both are new lines (a small kindness and a callback joke), kept plain for him to
   - **Ch3:** "It pulls left." It changes how the chapter ends. It's the borderline one, and his call.
 
   The lesson is in the Sunday notes ([Craft rule 4](../Sunday-Morning/Craft.md#lessons-from-the-authors-line-notes); [Line notes §4](../Sunday-Morning/Line-Notes.md#4-if-cutting-it-changes-nothing-cut-it-and-dont-replace-it)): warmth has to pass the cut test too.
+
+## P19, 2026-10-02: Chapter 3 ends on "Don't make anything of that."
+
+**Why:** The author: "Chapter 3 should end on \"Don't make anything of that.\", and then pick up in chapter 4, the rest after that isnt needed in the chapter" (R31).
+
+**What changed:**
+
+- **Ch3 and its Sunday-tone trial** now end on her laugh and "Don't make anything of that." Cut: the loading of the cart, the door to the pine forest, "If you want the sidewalk…", her weighing of home against Camp, the books placed on the cart, "Don't lose those." / "Wouldn't dream of it.", the closing "Camp Cunnan" exchange, and (in the trial) "It pulls left."
+- **Checked against the locks (R26).** Her free choice to continue once her books are back is locked (Q111, Q114, Q120b). Ch4's opening already shows the result: the books ride on the Camp books, and "She had put them there herself." What was missing was that she could have gone home. One line restores it: "The shopkeeper had offered to send her back to the sidewalk. She had put them there herself instead." It's plain and new, and it passes the cut test, because without it the choice looks forced. The threshold to Camp's edge (Q114) is now skipped over: Ch4 opens on "the last stretch of dirt road".
+- **Records:**
+  - Registry: Ch3's final line.
+  - Ledger: R15 (the choice is now told in Ch4); L1 and L3 (Ch3 no longer mentions the meeting or the police).
