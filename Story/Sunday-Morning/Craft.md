@@ -7,6 +7,7 @@
 - the storytelling principles, adapted from the author's Pathwell notes;
 - how to use the author's [voice guide](Sources/Voice-Guide.md);
 - writing against sameness, and awareness of common AI tells;
+- lessons from the author's line notes;
 - who writes what, AI or the author;
 - The author's own watch-list of habits;
 - the scene diagnostic run on every draft.
@@ -160,6 +161,27 @@ These are guides for judgment, not rules. Any of them can be broken on purpose. 
   5. How many polished closing lines does each scene have?
   6. Does anything on the [AI tells](Sources/AI-Tells.md) list cluster here?
 - **A detector score isn't a check** ([D17](Decisions.md#standing-rulings)).
+
+## Lessons from the author's line notes
+
+These rules come from his line notes on Pathwell's Chapters 1 and 2 (2026-10-01). He asked for them to be recorded "so that we can… make sure we keep the same quality". Each one links to the worked examples in [Line notes](Line-Notes.md): the note, the change and the reasoning ([D19](Decisions.md#standing-rulings)). Check a draft against them before it goes to him.
+
+1. **Walk the scene physically** ([examples](Line-Notes.md#1-walk-the-scene-physically)). Know where everyone is, what they're holding, what they can hear and what they left with. Count the events: "again" has to mean a second time. A worry must be true to the situation (she has no wallet; she didn't lose her transportation). A physical cause needs physical distance (the table is at the curb, so a passing truck can blow the ticket away).
+2. **Every piece of knowledge needs a source on the page, and no one asks about what they just saw** ([examples](Line-Notes.md#2-every-piece-of-knowledge-needs-a-source-and-no-one-asks-what-they-just-saw)). If a character changes their mind, show what changed it (he smells the blob). If a wrong belief drives the plot, make it visible ("You really don't know?").
+3. **Plant it, call it the same thing every time, and make it matter before it's lost** ([examples](Line-Notes.md#3-plant-it-name-it-the-same-way-and-make-it-matter-before-its-lost)). One name for one thing ("dry cleaning" in the outburst, "dry-cleaning ticket" in her pocket). Make the stake felt before it's taken away. Whatever sets off a feeling must be something the reader can recognize.
+4. **If cutting it changes nothing, cut it, and don't replace it** ([examples](Line-Notes.md#4-if-cutting-it-changes-nothing-cut-it-and-dont-replace-it)). This is his test. Naming grief outright makes it smaller; let objects and small losses carry it. Cut filler gestures.
+5. **Write how people talk, and let the line carry what they feel** ([examples](Line-Notes.md#5-write-how-people-talk-and-let-the-line-carry-what-they-feel)). After tears comes "Who the hell are you?", not "What's your name?". If no version of a line passes the talk test, cut it. Punctuation is voice too: a panicked answer can end in a question mark.
+6. **Check what each describing word suggests** ([examples](Line-Notes.md#6-check-what-each-word-carries)). "Crisp" pages sound new. Watch for the same phrase twice on one page. Don't trade one stock phrase for another.
+7. **Give two people a beat by having them answer each other** ([examples](Line-Notes.md#7-give-two-people-a-beat-and-let-them-answer-each-other)). An exchange that shows something about one of them does more than a stock gesture. An accusation is the speaker's reading of events; let the other character's reply correct it, not the narrator. Let a character take the other's word and turn it around ("crappy" → "Perfectly crappy").
+8. **Rhythm on the page** ([examples](Line-Notes.md#8-rhythm-on-the-page)). Give a beat that needs a moment its own paragraph. Two quips in a row with the same shape is one too many.
+
+**When pushing back on a note** ([examples](Line-Notes.md#where-a-note-was-adjusted-or-held-and-why)):
+
+- Close third person can name only what the viewpoint character notices, so a reveal is protected by what she *doesn't* register. Put the reader's clue where she can't see it.
+- Before changing an object, check the promise ledger for everything that depends on it.
+- Keep the opening hook fast. Put the stakes just after it, not inside it.
+- Read all the notes together before applying any of them; two notes can collide.
+- Fit a new idea to what the story already has before adding new lore.
 
 ## AI and the author: who writes what
 

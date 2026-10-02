@@ -721,6 +721,9 @@ Chapter 1 runs 1,082 words.
 
 ### Held for discussion (not applied)
 
+**Resolved the same day.** The author: "i agree with your push backs". Both stay as written. He also asked for the changes and the reasoning behind them to go into the Sunday notes: they are now in [Line notes](../Sunday-Morning/Line-Notes.md) (worked examples) and [Craft: lessons from the author's line notes](../Sunday-Morning/Craft.md#lessons-from-the-authors-line-notes) (the rules), under Sunday D19.
+
+
 - **The spoon (line 15).** It is the author's own July choice. His June–August revision notes say: "The answer: Her grandmother's mixing spoon. The only thing she unpacked." It is also a paid thread (ledger O5): FIND NANA'S SPOON in Ch12 and Ch15, and the drawer and crock in Ch17 ("Because it was a spoon."). Changing it means changing four chapters.
 - **"gathering up her things" (line 141).** Her point of view would see her books leave, and "He still has it." would stop being a discovery. P14's check found and fixed exactly that. "his things" is also Q118: to him they're just what he's carrying. The plant the reader gets is "dropped her books on the table beside the tray", while she's crying.
 
