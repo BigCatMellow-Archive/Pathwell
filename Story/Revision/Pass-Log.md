@@ -697,3 +697,34 @@ Chapter 1 runs 1,082 words.
   - "Lizzy." stays as the trigger.
   - The name exchange is reworded toward his July Pathwell: "That's it. Easy to remember." (it was "That's generally been enough.") and "Also Pathwell. Saves everybody time." (it was "…if the situation becomes formal."). These are new jokes in his register, for him to adjust.
   - Thumper comes back where the diary is described in Ch12, in mostly the author's own July words: "Thumper was in there too: his six-toed paw print pressed into the center of a page, the ink still holding after all these years." So the diary she gives away (and that later burns) holds the cat too.
+
+## P15, 2026-10-01: Chapter 2, the author's notes
+
+**Goal:** the author's line notes on Chapter 2 (R28). Under R26, each note was checked against the story, canon and the other rulings before it went in.
+
+### Applied
+
+- **"That's fair."** becomes **"Fair."**
+- **The rant:** "How am I going to even get to the meeting?" becomes "I don't have my wallet." In Ch1 she leaves with only her shoes and a coat, so the new worry is true. No later chapter has her pay for anything.
+- **Line breaks:** a paragraph break before "She looked back" and before "She hurried to catch him at the corner." "looked around one more time, looking back" becomes "looked back one more time".
+- **A beat after "I don't share":** "Then why am I here?" / "Company?" This is new and the reviser's. Pathwell hasn't thought about her at all, and that is his blind spot later (Q118). A narration beat like "She stared at him." was avoided, because P14's check had already cut one.
+- **The ticket:** "laundry ticket" becomes "dry-cleaning ticket" in Ch2 and Ch3. The rant already says "I have to get my dry cleaning before the meeting", and Ch17 calls it dry cleaning, so the reader knows what the ticket is for before it turns up. The order stays as it was: she finds the ticket, then empties her pockets.
+- **The meeting matters (Ch1):** "The guests had left hours ago, and she'd gone straight to bed. She had a meeting at nine, her first big one since she'd started." It goes in the party paragraph rather than at the wake-up, so the opening ("It was the crash that woke her." / a man in her boxes) stays as fast as it is. "Her first big one since she'd started" is new, and the author's call. The records leave her job status open (C65), and this doesn't settle it.
+- **The truck:** "a plastic table sat on the street" becomes "one of the plastic tables set out at the curb", and "a truck roared past close enough to rattle the table. The ticket skipped off the edge, caught the gutter, and was gone."
+- **Cut:** "A funeral she still hadn't cried at." Ch3 ("Nana. The funeral.") and Ch12 still carry the funeral.
+- **Cut:** "He drummed his fingers on the edge of the table, looking around aimlessly." "through half-chewed food" also comes off this line, so that the half-chewed mouthful happens once, on "Secondly".
+- **"Who the hell are you?"** replaces "What's your name?" The stiff "You went through my boxes. I feel like that's information I should have." is cut, not reworded.
+- **The name:** "That's it." (was "That's it. Easy to remember.") and "Don't need one. Saves everybody time." (was "Also Pathwell. Saves everybody time."). Two quips of the same shape in a row became one.
+- **"You won't let me go home."** goes into her outburst. It is her reading of him. His answer ("I wouldn't go back there tonight. But that's just me.") corrects it without forbidding anything.
+- **The dumplings:** "Secondly," he said through a half-chewed mouthful, "these things are perfect. Perfectly crappy. They aren't trying to be anything they're not. You have no idea how hard it is to find that kind of quality."
+- **The ending:** "She heard her again." comes before "Lizzy." It is the first time the reader learns "Lizzy" was Nana's word. "her" stays ambiguous for one line; the butter and sugar resolve it.
+
+### Held for discussion (not applied)
+
+- **The spoon (line 15).** It is the author's own July choice. His June–August revision notes say: "The answer: Her grandmother's mixing spoon. The only thing she unpacked." It is also a paid thread (ledger O5): FIND NANA'S SPOON in Ch12 and Ch15, and the drawer and crock in Ch17 ("Because it was a spoon."). Changing it means changing four chapters.
+- **"gathering up her things" (line 141).** Her point of view would see her books leave, and "He still has it." would stop being a discovery. P14's check found and fixed exactly that. "his things" is also Q118: to him they're just what he's carrying. The plant the reader gets is "dropped her books on the table beside the tray", while she's crying.
+
+### Check log
+
+- The checker (Ch1–2) found nothing new. "Lizzy" appears 4 times in Ch2 (there was no new use), and 33% of Ch2's paragraphs are very short.
+- "laundry" no longer appears for the ticket. Ch2's "shuttered laundromat" and Ch18's "For laundry?" are unrelated.
