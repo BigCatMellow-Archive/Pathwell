@@ -862,4 +862,4 @@ Your call:
   - **Cut:** the ledger-and-shadow version. Ch14's memory of it now reads "something like it" and "the tree had grown to his chest before it ever began to branch".
 
   Ch18 needs nothing: its plan already removes the visible prune (R19, Q96).
-  - **For the author:** the roots "searing the arm they wrapped". Does the prune leave marks on his arm? Nothing later mentions any, and the old text never said either way.
+  - **The author answered (R30):** "They dont leave marks." The answer is in the world bible, and Ch3 shows it in one plain line: "His right arm was shaking, but there wasn't a mark on it."

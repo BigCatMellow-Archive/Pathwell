@@ -36,6 +36,7 @@ There is no generic pruning battery or stored personal credit. A counterparty mu
 - Early cancellation can return cleanly if possibility has not truly been released/accepted.
 - Later failure after release can leave **unclaimed spillage**.
 - Immediate physical effects scale with the transaction: small prunes may be barely noticeable; large ones can cause shaking, weakness, nausea, disorientation, or collapse.
+- A prune leaves no marks. The roots and fire of a working may sear while it lasts, but nothing shows on the body afterward (the author, 2026-10-01: "They dont leave marks"; R30). The cost is the shaking, the collapse and the thinning, not a scar.
 
 ### Doubt and commitment
 
