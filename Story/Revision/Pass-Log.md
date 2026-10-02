@@ -886,3 +886,10 @@ All three are new lines in the cautious categories (an emotional beat, a joke), 
 2. **A soft beat before the sting:** "He left the last dumpling on her side of the tray." This pays off his "I don't share", so the man walking off with her books has just been decent to her without making a thing of it. It doesn't spoil "He still has it.": when her eyes sweep the table, they find the dumpling and not the books.
 
 Both are new lines (a small kindness and a callback joke), kept plain for him to judge. Nothing else changes, and the locks (Q118, R12, R21) are untouched.
+
+- **Follow-up to P17 and P18 (2026-10-02).** The author: "I dont think the strangers kindness passes the rule about if you remove it, does it change anything." Agreed. The napkins are cut from the Ch2 trial. The same test, applied to every trial addition, cuts the shopkeeper's glass of water from the Ch3 trial. What stays:
+  - **Ch2:** "He left the last dumpling on her side of the tray." It pays off "I don't share", and it changes how we read him as he leaves with her books.
+  - **Ch3:** "Elizabeth was halfway around it before she knew she'd moved." It changes her: she acts unprompted.
+  - **Ch3:** "It pulls left." It changes how the chapter ends. It's the borderline one, and his call.
+
+  The lesson is in the Sunday notes ([Craft rule 4](../Sunday-Morning/Craft.md#lessons-from-the-authors-line-notes); [Line notes §4](../Sunday-Morning/Line-Notes.md#4-if-cutting-it-changes-nothing-cut-it-and-dont-replace-it)): warmth has to pass the cut test too.
