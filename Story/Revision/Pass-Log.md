@@ -863,3 +863,15 @@ Your call:
 
   Ch18 needs nothing: its plan already removes the visible prune (R19, Q96).
   - **The author answered (R30):** "They dont leave marks." The answer is in the world bible, and Ch3 shows it in one plain line: "His right arm was shaking, but there wasn't a mark on it."
+
+## P17, 2026-10-02: Chapter 3 with the Sunday tone
+
+**Why:** The author asked: "theres no sunday morning version?" He was right to ask. P16 rebuilt Chapter 3 from his draft and the locks, but it never added the Sunday Morning tone that R24 asks each pass to bring in. Chapter 1 had been tried both ways, so Chapter 3 now gets a trial too: [Experiments/Chapter_03_sunday-tone.txt](Experiments/Chapter_03_sunday-tone.txt). The chapter itself is unchanged until he chooses.
+
+**What the trial adds.** His draft already does a lot of this: "Hey, it's okay. You're fine.", the coffee "just in time" after the panic, the love note. So there are only three additions, each a soft landing after the hardest moment (the million voices) or warmth from someone the reader should like:
+
+1. **Her:** "Elizabeth was halfway around it before she knew she'd moved." She goes to him when he falls, before anyone tells her to. It's a small first step out of compliance.
+2. **The shopkeeper:** "The shopkeeper set a glass of water by his hand, then slid Nana's cookbook…" He shows care under the grumbling, with no comment on it.
+3. **The parting:** "'Mind the cart on the hill,' the shopkeeper called after them. 'It pulls left.' / Then he closed the door behind them." The chapter ends warm, and the joke is his: he knows the cart he never lent.
+
+All three are new lines in the cautious categories (an emotional beat, a joke), kept plain for him to judge. The prune, the cost and every lock are unchanged.
