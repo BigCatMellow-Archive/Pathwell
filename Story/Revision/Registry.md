@@ -62,7 +62,7 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 | --- | --- | --- | --- | --- | --- |
 | 1 | the guest who stayed, casually reading her diary after her welcome party, until the blob at the door makes him think it's there for her (P7, P7b) | an act (Elizabeth grabs the book) and flight | comic panic | "It was the crash that woke her." | "Ready?" / "No." / "Perfect." |
 | 2 | Pathwell walks off with her books without noticing (Q118) | her realization: "He still has it." (R12; the author's July ending) | numb grief, comic, warm | dialogue ("Will you slow down!?") | "He still has it." |
-| 3 | get the books back; the Space Between | a transaction (future paid on the ledger) | wonder, cost | Pathwell at a streetlight, "Again." | "The shopkeeper closed the door behind them." (she goes with him) |
+| 3 | get the books back; the Space Between | a transaction (future paid on the ledger) | wonder, cost | Pathwell at a streetlight, the books under his arms (the author's opening, P16) | "The shopkeeper closed the door behind them." (she goes with him) |
 | 4 | arrival at Camp; the dying woman | a gift (the whole cookbook) | tender | "She had assumed…the word camp would mean something she could leave." | "Camp Cunnan kept being a place without asking permission." (she follows) |
 | 5 | meet Stansbury; the order of events | a question ("Was it?") | brisk comic | Pathwell on a Cadillac hood | "Elizabeth followed the brothers inside." |
 | 6 | the bar; the mirror (Pathwell POV section) | a realization ("Mine.") | warm, then uneasy | "The bar was neater than it had any right to be." | "Low tide. / Wet rot." (cliffhanger) |
@@ -96,7 +96,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | A drink that "was terrible" | 3, 4, 9, 12, 13, 18 |
 | Milo's falling sock | 4, 12, 13, 14, 15, 16 |
 | "Lizzy—" / "Elizabeth." correction | he hears it in Nana's echo in 1 (R21; the banner reads WELCOME ELIZABETH); first said in 2; corrected in 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
-| The Space Between coffee memory recited ("two in the morning", "highlighters") | 3, 9, 10, 13, 18 |
+| The Space Between coffee memory recited ("late nights spent studying") | 3, 9, 10, 13, 18 |
 | Pathwell goes still as a tell | 1, 4, 5, 6, 7, 8, 10, 11 and later |
 | A found document read aloud as a small payoff (accession card, road book, Merritt margins) | 4, 11, 17, 18 |
 | Unnamed functional roles (healer, archivist, shopkeeper, curator) | throughout; deliberate, but see [Open for the author](Decisions.md#open-for-the-author) on the healer |
@@ -200,8 +200,7 @@ Also watch for, by reading (the checker can't catch them):
 - hess says
 - ruth lied about the lard
 - queen of spades
-- two in the morning
-- highlighters
+- late nights spent studying
 - it's the useful version
 - wouldn't dream of it
 - one sock had surrendered

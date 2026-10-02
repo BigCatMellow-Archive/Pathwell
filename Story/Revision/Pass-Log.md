@@ -731,3 +731,116 @@ Chapter 1 runs 1,082 words.
 
 - The checker (Ch1–2) found nothing new. "Lizzy" appears 4 times in Ch2 (there was no new use), and 33% of Ch2's paragraphs are very short.
 - "laundry" no longer appears for the ticket. Ch2's "shuttered laundromat" and Ch18's "For laundry?" are unrelated.
+
+## P16, 2026-10-01: Chapter 3, from the author's own drafts
+
+**Goal:** The author asked to "do Chapter 3". The Plan had it as line work only, on the 2026-08-28 text. While looking for his voice, the pass found his own Chapter 3 drafts in `Story/Archive/Manuscript/Pathwell Working.docx`: "3 - Revised" (his latest) and "Chapter 3+4" (the barter at the counter). They're now saved unchanged in the [voice benchmark](Voice-Benchmark/README.md) ([W14](Decisions.md#working-decisions)). So the chapter was rebuilt the way P7 and P14 rebuilt Chapters 1 and 2: his text sets the voice and most of the lines, and the newest locks set the story.
+
+**Locks kept:**
+
+- She follows him because he still has her books (Q111, Q118b).
+- She gets them back only after the payment ("His transaction first", "These were never his to spend") (Q111, Q120b).
+- The Camp order sits at the counter, with no tome and no envelope (Q109, Q120).
+- One payment covers the order and "past bills and all", and the debt's origin isn't invented (Q109).
+- Nobody asks him to prune ("Did Camp Cunnan ask you…?", and he offers "potential" himself) (Q107, Q108).
+- The custodian accepts ("Are you sure?") (08-22 §1).
+- A clean prune with a proportionate cost: his right arm shakes (Q109, Q148b, Q149).
+- Branch imagery without timelines ("They weren't pictures of anything.") (Q148, AUDIT Ch3).
+- The terrible coffee is the anchor (C7 §4).
+- "Scars are outside my wheelhouse" (Q117 cites it).
+- No lore tour (SEP A6).
+- The choice at the door, and her books on top of the Camp books (Q111, Q114).
+
+### From the author's drafts
+
+- **His opening:** the streetlight; "So then, where to?"; "Sounds good, Lizzy."; "Isn't that what your grandmother called you?" / "That's… that's not an answer."; the bookstore "first"; "The right kind."; the paper that doubles into a door; "listening ears"; "the most amazing coffee"; "How do I know this isn't some kind of trap?" / "You don't."
+- **The shop:** the lavender page, the smell, "Not books — lives.", "would you mind closing the door?", the shush and his whole panic sequence.
+- **Waking and the cat:** the chair and the ottoman; "Just in time."; "It tasted like late nights spent studying. Like the past."; the cat's tribute; "Her eyes darted back and forth, looking for the punchline."; the love note ("Cures most wounds."); "You finish that coffee there…"; Boots, "full-time guardian and part-time blood god"; "We pay him in mice."; "Glad you asked."
+- **The barter (from 3+4):**
+  - "You already owe quite a bit." / "I'm good for it." / "All bills come due eventually, Mr. Pathwell."
+  - "They won't come cheap."
+  - the Rai Stone and the thirty Lydian coins; "Okay, now you're just messing with me." / "Aren't you?"
+  - "I've got potential to sell. Lots." / "You did."
+  - "Can we do this before I change my mind?"
+  - "Your bill has been paid in full. Will that be paper or plastic?"
+- **Tidied:** punctuation and typos only; "the keeper" is now "the shopkeeper" throughout (as the June review asked).
+
+### What was adapted from his drafts, and why
+
+- **The lo mein** is cut (R12).
+- **The leather tome, the "say the words" vow and the Latin are cut** (Q120 removes the tome). The prune happens on the ledger instead, using the pale branches from his shadow that Ch14 and Ch18 build on. His sick, half-dead tree is kept as "Some of them were already dark, stubs where something used to grow." (Q148b: "an old tree that has been aggressively pruned again and again"), which also explains "You did."
+- **The fire through the branches and "screamed in a million voices" are cut.** Ch3 is the "early clean example of pruning working normally" (Q107), and the cost has to stay proportionate (Q109). Fire belongs to the climax.
+- **"Pathwell Shade" becomes "Mr. Pathwell"** (the June review; his own drafts use "Mr. Pathwell" elsewhere).
+- **The magic lecture and Dewey shelving (the start of his Chapter 4) are left out.** He had marked it for cutting ("I could just remove it from the story"), and JUN 24 and SEP A6 cut the lecture.
+- **"a series of avoidable mistakes" (the fate line in 3+4) isn't used,** because his Revised draft dropped it. It's listed below in case he wants it back.
+- **She wakes in his chair:** his Revised has her in a chair with her feet on an ottoman, where 3+4 left her on the carpet. Ch10's memory is changed to match.
+
+### Kept from the 2026-08-28 text (needed for the locks, or used by later chapters)
+
+- "You said I'd get them back at the counter." / "And look. A counter." / "It's alarmingly close."
+- "His transaction first." / "Yours?" / "No." / "Good."
+- "I dislike paperwork" (Ch18 echoes it: "I dislike novelty.")
+- "Did Camp Cunnan ask you for all of this?" (Q108)
+- "Familiar things are useful." (Ch10)
+- the ledger, the two fingers, the knees and the shaking arm (Ch14 and Ch18)
+- "Surprise me." (in the pre-August Ch3, and cited by [pathwell_prose_voice.md](../Story_Files/pathwell_prose_voice.md) as his kind of line)
+- "These were never his to spend."
+- the heavier cookbook
+- "worse decisions with more confidence"
+- the handcart gag (Ch4 needs the cart)
+- the choice at the door and the ending
+
+All the dialogue is now contracted ("That's not the same thing").
+
+### Cut from the 2026-08-28 text
+
+- The alley, and the paper put on sideways.
+- "NEVER AGAIN", the horse incident, "eighty-three years" and "Debt is not cheese". The debt's origin isn't to be invented (Q109; audit 3.2).
+- "particular about that distinction" (audit 3.3).
+- "a father she had never buried" (Plan).
+- The napkin, which the love note replaces.
+- "He likes documentation."
+- "Camp what?" / "it is a noun".
+- The "Wouldn't dream of it" / "I know what you do" exchange, which referred back to nothing. The last "Wouldn't dream of it" stays.
+- About half of the one-line paragraphs.
+
+The chapter went from 2,416 to 2,108 words.
+
+### Knock-ons
+
+- **Ch9 and Ch10:** the coffee memory now matches. "Two in the morning. Highlighters…" becomes "Late nights spent studying."; *Drink.* becomes *Just in time.*; "on the floor" becomes "in a chair"; *That is terrible.* becomes *That's terrible.*
+- **Ledger:** P7, R7, L1, L4 and L5.
+- **Registry:** Ch3's opening, the coffee row and its watch pattern.
+- **Plan:** a Ch4 note. Line 510 refers to an "archive" that Ch3 has never named. The gap is older than this pass.
+
+### For the author
+
+New lines, kept plain:
+
+1. **"Don't call me that."** This is her first correction of "Lizzy", where the Registry expects it in Ch3. It also sets up your "listening ears, Lizzy" joke right after. If you'd rather she not push back yet, "How do you know that name?" does the same job.
+2. **"You'll get them back at the counter." / "What counter?"** These carry the promise that "And look. A counter." pays off.
+3. **"He still had her books."** before she steps through. This is her reason (Q111).
+4. **"Some of them were already dark, stubs where something used to grow."** This is your tree, kept small.
+5. **The barter order:** "Journals, bundles of letters, sheets of poetry, a few pages of music, blank archival paper, and a wooden crate tied with twine. Enough of it that the counter complained." Your list, made larger for Q109.
+
+Your call:
+
+- **The fate line from 3+4** ("I say fate because 'a series of avoidable mistakes' doesn't quite have the same ring to it"): restore it at the door?
+- **"Surprise me."**: keep it, or let "paper or plastic" stand alone?
+- **The handcart gag and her laugh:** these are August's lines, not yours.
+
+### Check log
+
+- **Fresh check (a reader who didn't write it):** the locks hold, Ch2 hands off cleanly, Ch4's opening agrees, and the coffee recalls match. It found eight problems, all fixed:
+  - "one more time" came before the first time;
+  - "So then, where to?" had no speaker;
+  - "get it" didn't match "get them";
+  - the prune imagery had lost "They weren't pictures of anything.", which Ch14 needs;
+  - "cut off a long time ago" was something she couldn't know;
+  - "over his glasses" and "out from behind the counter" were each used twice;
+  - a "narrow" door was too narrow for a loaded cart.
+- **Checker (Ch3):**
+  - uncontracted narration: 0;
+  - filter verbs: 0.6 per 1,000 words;
+  - very short paragraphs: 24% (it was about 45%; the author's Ch1 is 23%);
+  - 2,108 words.

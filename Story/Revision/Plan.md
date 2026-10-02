@@ -115,8 +115,8 @@ What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#
 | --- | --- | --- | --- |
 | 1 | **done in [P7](Pass-Log.md#p7-2026-09-30-chapter-1-from-the-authors-july-text)**: rebuilt from his July Chapter 1, her welcome party as aftermath, Q-H at its default | — | the P7 flag list |
 | 2 | **done in [P14](Pass-Log.md#p14-2026-10-01-chapter-2-from-the-authors-july-text)**: rebuilt from his July Chapter 2 | "You said the choice was—" seam (goes with the lo mein) | the new route to "He still has it." (emotional line); Ch17's spoon rhyme, "It was still hers.", loses its Ch2 source: keep it standing alone or cut it |
-| 3 | trim the opening "give them back" loop | "a father she had never buried" | — |
-| 4 | light trim of the post-healing vignettes, keeping the archive and road book | "Before tonight?"; "An absurdly small kindness."; the closing motive list | "That was the choice. / Everything afterward was consequence." (keep for the Ch15 rhyme?) |
+| 3 | **done in [P16](Pass-Log.md#p16-2026-10-01-chapter-3-from-the-authors-own-drafts)**: rebuilt from his own Chapter 3 drafts (W14) | — | the P16 flag list |
+| 4 | check his docx Chapter 4 draft first (W14); light trim of the post-healing vignettes, keeping the archive and road book; line 510, "The word felt different in her mouth than it had in the Space Between.", refers to an "archive" Ch3 never names (an older gap, found in P16) | "Before tonight?"; "An absurdly small kindness."; the closing motive list | "That was the choice. / Everything afterward was consequence." (keep for the Ch15 rhyme?) |
 | 5 | a one- or two-line bridge at the top: the missing day, and what became of the meeting | the Mama Baga attributions; "her bag" | — |
 | 6 | — | filter verbs; the narrator's verdicts on the brothers | — |
 | 7 | — | the uncertainty-appreciation line (third telling) | "Whose decision was that?"; the last line |
