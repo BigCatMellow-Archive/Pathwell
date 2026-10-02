@@ -844,3 +844,22 @@ Your call:
   - filter verbs: 0.6 per 1,000 words;
   - very short paragraphs: 24% (it was about 45%; the author's Ch1 is 23%);
   - 2,108 words.
+- **Follow-up the same day (R29).** The author asked: "why did we cut the leath tome, the vow, the fire, and million voices? i thought all that was good?" P16 had been wrong to treat all four as locked out. Only the tome was, by his Q120. Q120 was answered against the pre-August text, where the tome looked like the thing being bought and had no job. In his draft it is the instrument of the prune. His prune is restored from "Chapter 3+4" almost word for word:
+  - the safe in the paneling, and the tome with its branded dot and rings;
+  - "say the words": "I understand the cost of my needs." / "I give what may be, to protect what will." / "Perdat quod esse poterat.";
+  - the roots up his forearm and the sick tree;
+  - "You don't have much left to give" / "Take what you will, and spare me the lesson.";
+  - the fire, and the million voices "burning out to become memories never made".
+
+  Q120's purpose still holds: the Camp order on the counter is the purchase, and there is no envelope.
+
+  Adaptations, all small:
+  - **Naming:** "Pathwell Shade" becomes "Mr. Pathwell".
+  - **The shopkeeper's question** ("are you sure this cost is worth what you must?") is untangled to "are you sure this is worth what it will cost?".
+  - **His hands are swapped:** the right hand on the cover and the left across his chest, so the roots take the right arm whose tremor carries into Ch5 (Q149).
+  - **A point-of-view slip:** "The pain was alive now, front and center in his mind" was in Pathwell's head, so it becomes "Whatever the pain was, it had all of him now." (new, flagged).
+  - **"Then the roots let go, and he caught the counter with one hand."** is added so he can let go of the book (new, plain).
+  - **Cut:** the ledger-and-shadow version. Ch14's memory of it now reads "something like it" and "the tree had grown to his chest before it ever began to branch".
+
+  Ch18 needs nothing: its plan already removes the visible prune (R19, Q96).
+  - **For the author:** the roots "searing the arm they wrapped". Does the prune leave marks on his arm? Nothing later mentions any, and the old text never said either way.
