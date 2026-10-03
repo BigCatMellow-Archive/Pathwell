@@ -990,3 +990,53 @@ Your call:
   - filter verbs: 0.5 per 1,000 words;
   - very short paragraphs: about 26%;
   - about 3,950 words (it was 3,536). The new arrival accounts for the difference.
+
+## P21, 2026-10-03: the reader protocol, and Chapter 4 fixes
+
+**Why:** The author asked: "How did Elizabeth lose track of Pathwell so easily? I think we need an independent reader asking questions as they read to find stuff like that. Might be worth the time to set up a reader protocol and do some research on how to properly analyze a story…" The P20 fresh check had passed the staging. It was right about the locks and wrong as a reader: a loaded handcart on a root-crossed path is slow, and she had a hand on it.
+
+**What was built (Sunday D20):** [Reader-Protocol.md](../Sunday-Morning/Reader-Protocol.md), in the general Sunday notes. It rests on:
+
+- the event-indexing model: readers track time, space, cause, goals and who is present, and stop when one of them breaks without a reason;
+- Iser's gaps versus holes;
+- the plot-hole types and beta-reader question sets;
+- the idiot plot and Pixar's rule 19;
+- suspension of disbelief;
+- think-aloud reading;
+- Lerman's order of feedback.
+
+It is wired into the [Pipeline](../Sunday-Morning/Pipeline.md#after-every-pass) (the new step 6), [Craft](../Sunday-Morning/Craft.md#writing-against-sameness) and the README, and the author's question is now a worked example in [Line notes §1](../Sunday-Morning/Line-Notes.md#1-walk-the-scene-physically).
+
+**First run, as calibration** ([report](Reader-Reports/2026-10-03_Ch01-04.md)). A cold reader read Ch1–4 in order, with Ch4 as P20 left it. **It caught the known miss** (stopper 2; questions 4.4 and 4.5): she lets the cart carrying her books go ahead, and nothing explains how a cart outpaces her. It found about 50 other questions, most of them gaps the ledger already covers.
+
+### Fixed in Chapter 4 (holes and clear snags)
+
+- **Losing him:**
+  - She stops to shake something out of her office shoe ("Her shoes had been bought for an office."), which Ch10 already echoes.
+  - "Pathwell didn't look back."
+  - The cart's rattle goes on ahead, and the lantern light drops behind the slope.
+  - The path splits around a tree. "She picked a side. Her books were on that cart."
+  - The fallen-trunk sentence is gone.
+- **"there":** "She had put them there herself, after the shopkeeper had offered to send her back to the sidewalk." The R31 line had separated "them" from the books.
+- **"Did I say runemasters?" / "You did not."** The first list had already said runemasters, so "and the runemasters" is dropped. The joke now works as written: he forgot them, then remembers.
+- **"He has the rest of the cart."** becomes "The archivist has the rest of the cart.", because "he" was ambiguous.
+- **The cot is planted:** "a curtain was half drawn across the back" / "Behind the curtain was a cot she hadn't noticed."
+- **"You keep the original"** becomes "We keep the original".
+- **"Older," she said.** The line is now tagged.
+- **Cut:** "Not because something was chasing her. Nothing was." The narration was claiming something she can't know, against the "marked" bluff she still believes.
+- **The meeting is back, once,** where she chooses: "Back in the city, her meeting was still at nine. She noticed she hadn't thought about it in an hour." It's new, plain and flagged (ledger L1).
+- **The diary:** "Elizabeth followed him, the diary still under her arm." (O3).
+- **Cut:** "She couldn't decide whether that made the loss smaller or worse." The loss was being told about six times.
+- The archivist's "posture" becomes "stoop" ("posture" appeared three times).
+- **Chapter 3, and its trial:** "A cup of coffee swung into view, with Pathwell behind it." In the coffee exchange he was otherwise unplaced.
+
+### Left for the author (neutral questions from the report)
+
+- **Ch3:** nothing from Elizabeth during the tree-fire payment. The Sunday trial's "Elizabeth was halfway around it before she knew she'd moved" is one answer, and it waits on his choice of trial.
+- **Ch4:**
+  - Why this page, when the archive is full of recipe notebooks?
+  - Does Mama Baga bring her to that wagon on purpose?
+  - Which of the three handoffs (wagon, cart, archive) should carry the loss?
+  - Should the Camp's minor characters share the dry register, or be plainer?
+  - The narrator's remaining closers (the cookbook "heavier", "For the first time since the apartment…", the last line).
+- **Ch12:** "JONES FAMILY COOKBOOK" is printed there, against the Registry's rule about the family name.

@@ -161,6 +161,7 @@ These are guides for judgment, not rules. Any of them can be broken on purpose. 
   5. How many polished closing lines does each scene have?
   6. Does anything on the [AI tells](Sources/AI-Tells.md) list cluster here?
 - **A detector score isn't a check** ([D17](Decisions.md#standing-rulings)).
+- **Then a reader reads it cold** ([reader protocol](Reader-Protocol.md), D20). The rules above catch faults in the text. The reader catches the places where a person reading would stop.
 
 ## Lessons from the author's line notes
 
