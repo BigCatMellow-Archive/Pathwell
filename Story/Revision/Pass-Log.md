@@ -1097,3 +1097,16 @@ Nothing in the chapters changes until he answers Q-M and Q-N.
 
 - Should anyone notice the outfit? With the coat on, only she knows.
 - Her shoes stay hers. Ch10's sore heel pays that off.
+
+## P24, 2026-10-03: the open questions from Ch2–4, answered (R33)
+
+**Why:** The author asked to readdress the questions he'd glossed over, and answered all thirteen: "Go with your leans."
+
+**What changed:**
+
+- **Ch2 and Ch3** are now their Sunday-tone trials. Each adds one line ("He left the last dumpling on her side of the tray."; "Elizabeth was halfway around it before she knew she'd moved."). The Ch3 line also answers the reader's complaint that she does nothing during the fire.
+- **Ch4:**
+  - The healer: "What we had that would help, I've already used." This answers "why Nana's page, when the archive is full of recipe notebooks?"
+  - The healer is plainer: "Then she gets to be annoyed about being alive for a while." becomes "Then she wakes up sore and hungry."
+  - The muslin handoff is cut from eleven lines to two ("Archive," he said. / "I'm going that way," Elizabeth said.), so the loss is carried in the wagon and the shelf's "Available" carries the rest.
+- **Unchanged by choice:** "Don't call me that.", "Surprise me.", the choice/consequence rhyme, the beetle children, Mama Baga's two sides, her unsaid motive, and the outfit kept private. The fate line isn't restored.
