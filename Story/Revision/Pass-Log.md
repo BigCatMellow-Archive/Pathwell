@@ -905,3 +905,88 @@ Both are new lines (a small kindness and a callback joke), kept plain for him to
 - **Records:**
   - Registry: Ch3's final line.
   - Ledger: R15 (the choice is now told in Ch4); L1 and L3 (Ch3 no longer mentions the meeting or the police).
+
+## P20, 2026-10-02: Chapter 4, the author's Camp arrival
+
+**Goal:** The author said: "Go for chapter 4." Per W14, the pass checked his docx first. His latest "Chapter 4" was written for an older version of the story: a fortune-teller errand, Papa Baga, a morning arrival, and a second half at a school with Stansbury. The second half belongs to the current Ch5 and is kept for that pass. Papa Baga is cut from canon. What still fits is his Camp arrival, and it replaces the August one. The healing, the archive and the Stansbury ending are locked beats the assessment called strong. They stay as August wrote them, lightly trimmed. His draft is saved to the [voice benchmark](Voice-Benchmark/README.md).
+
+### From his draft
+
+- **The arrival on foot:**
+  - She falls behind and calls "Pathwell!", then "Darn it, where are you?"
+  - She trips on a root: "followed by another greeting with the ground. The taste of dirt kissed her lips."
+  - The old woman helps her up: "Now, you really do have to be careful, young lady. These trees are very spiteful." / "Where are you off to in such a hurry?" / "I was looking for my friend" ("between a confession and a complaint").
+  - "He said you would say that." / "He said you would say that too."
+  - "This way, if you please."
+  - She hops over trunks as tall as Elizabeth.
+- **The camp, seen a piece at a time through the wagons:**
+  - smoke, roasting, wood being chopped;
+  - the man in an old blazer with no shirt underneath, now playing a fiddle missing a string (the fiddle is the Camp's instrument in later chapters);
+  - the boar on the spit and the boy at the crank;
+  - children playing tag;
+  - the table of people laughing.
+- **Mama Baga's strength:** "There was no effort in it, no sound of strain. She simply picked it up and was on her way." It's now the crate Pathwell loaded with both hands.
+- **The bear and the welcome:**
+  - "You just left me in the woods." / "I did no such thing… I sent someone to get you… figuratively, and quite literally, lost without you. She's just a little nervous after the bear." / "There was a bear!?" / "Not if you didn't see her."
+  - The whole welcome speech, from "home of the Cunning Folk" to "Runemasters!". The world bible's own Camp entry agrees with it.
+  - "And the occasional no-good thief." / "I was only ever no good at being a thief."
+  - "Home is such a permanent term. I prefer… layover." / "Humph."
+
+### Adapted, and why
+
+- **Night, not morning.** Chapters 2–4 are one night (AUDIT §6). "Then lantern light through the trees." is restored, and Mama Baga carries a lantern.
+- **The handcart stays** (Ch3, Q114). Pathwell goes ahead with it, which is why she falls behind.
+- **Mama Baga is "the old woman" until Pathwell names her.** The narration follows Elizabeth, and she doesn't know the name yet.
+- **His guitar becomes a fiddle;** Ch11, 13, 14 and 16 use the Camp fiddle.
+- **Left out of his draft:**
+  - Papa Baga (cut from canon).
+  - "Mishka", the clothes, and the grandmothers' circle. They belong to the old fortune-teller errand, and the healing takes their place.
+  - "the whole bookkeeper thing or the life sucking amoeba thing" (here Pathwell discusses the blob openly with Mama Baga).
+
+### Fixes to the August text
+
+- "Less than yesterday" becomes "Less than I was." (it's the same night).
+- "Used tonight?" / "Before tonight?" becomes "Pages used?" / "One tonight." / "Before that?" / "One. Also tonight." Both pages went tonight.
+- The archive is "one of the nearest wagons on the ring" (Q75; audit #2).
+- "Camp had continued having an evening" becomes "Camp was still up."
+- Cut: "The word felt different in her mouth than it had in the Space Between." Ch3 never says "archive".
+- **Cut narrator verdicts:** "That was fine. / For the first time in several hours, fine was enough.", "An absurdly small kindness.", "This felt rude and was probably healthy.", "The moment was over because apparently archives also had opinions about sentimentality.", "For once, he didn't decide what the moment needed." (a repeat of "He didn't." in the wagon), and "Not a vault. Not a shrine."
+- **The closing list** loses "She wanted to know why Pathwell had gone still". Mama Baga "watching it too" at the edge of Camp now carries that, and Ch5 refers back to it.
+- "The corner of his mouth moved" for the archivist becomes "He almost smiled." Mama Baga keeps the gesture.
+- Narration is contracted. Mama Baga's dialogue stays uncontracted (her marker in the character bible). Fragment paragraphs are merged where they were only rhythm.
+- **Ch5:** "behind a door in a forest that had been behind a bookstore" becomes "down a dirt road from a bookstore inside a wall" (R31 cut that door).
+
+### No Sunday-tone trial this time
+
+His own arrival already carries the tone: the spiteful trees, a stranger helping her up, the bear joke, the welcome and "layover". The pass looked for anything more to add, and nothing passed his cut test, so there is no separate trial. If he wants one anyway, it's quick to make.
+
+### For the author
+
+New lines, kept plain:
+
+1. **The gap:** "Where the road gave out, a path went on into the trees… she could only hear the cart somewhere ahead of her." It explains why she's alone in the woods.
+2. **The crate:** "the crate tied with twine, the one Pathwell had loaded with both hands and a great deal of complaining". This is your strength beat, tied to Ch3.
+3. **"Less than I was."**
+4. **"Pages used?" … "One. Also tonight."**
+5. **"Word had gotten there before her."** This is how Pathwell knows about the healing.
+
+Your call:
+
+- "That was the choice. / Everything afterward was consequence." It's kept for the Ch15 rhyme ("That was the choice. Everything else burned afterward.").
+- The beetle children ("It's practicing." / "Being dead.") are August's.
+- Mama Baga's dry lines ("You look terrible." / "You look worse than that.") are August's too, next to your warmer Mama Baga.
+
+### Check log
+
+- **Fresh check:** the locks hold. It found 13 problems, all fixed:
+  - **Plants and names:** the crate had no plant; the narration named Mama Baga early; "the largest wagon" clashed with the larger archive.
+  - **Light and staging:** there was no light in the woods; her entry into the ring wasn't staged; she was "lifted up" and then "got to her feet".
+  - **Knowledge:** Pathwell knew about the healing with no source; Mama Baga's "first look" at him came after she'd already talked to him.
+  - **Prose:** "the same kind of still he'd gone" was garbled; the archivist copied Mama Baga's mouth gesture; there were too many stacked closers.
+  - **Ch5:** two callbacks referred to things that were cut.
+- **Not new, noted for Ch12 and Ch15:** the archive cards say "ONE PAGE USED — CHICKEN & DUMPLINGS". The cookbook has lost two pages, but only one was used at Camp, so the card can stand. Mama Baga's bracelets (Ch12–14) aren't planted in Ch4.
+- **Checker (Ch4):**
+  - uncontracted narration: 0 (one hit is Mama Baga's dialogue);
+  - filter verbs: 0.5 per 1,000 words;
+  - very short paragraphs: about 26%;
+  - about 3,950 words (it was 3,536). The new arrival accounts for the difference.
