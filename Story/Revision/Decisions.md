@@ -145,4 +145,10 @@ Settled on 2026-09-30 (R9–R15): the last word, the party, the midpoint echo, l
 
 **Q-L. Chapter 6's mirror: the lock (he sees Shade through the wrong-angle reflection, 08-23 §6) or the scene as written (a vague wrongness he reasons from)?**
 
+**From the first tenth seat ([2026-10-03](Tenth-Seat/2026-10-03_Ch4-cuts.md), ORANGE):**
+
+**Q-M. The Camp child: the girl, or Milo?** On JUN 16 the author wrote "yeah that works, keep it the existing girl": the girl from his own Chapter 4 draft who takes Elizabeth's hand and leads her through Camp (Mishka). August lock C2 §4 also says "the girl" is the archive runner and the child in the climax. The manuscript has Milo, a boy whose dropping sock is set up in Ch4 and paid off in Ch12–17. The triage kept Milo ("the girl belonged to a discarded draft") without asking the author. Default until he answers: Milo.
+
+**Q-N. New clothes at Camp?** His draft has a tall woman give Elizabeth clothes ("Belíssimo!"), which pays off his Ch2 line "Nothing to wear to it". The rebuilt Ch4 leaves it out. Bring it back (Mama Baga could be the one who gives them), or leave it?
+
 **Q-E. The climax (open, exploring).** The author wants to see what the story needs before deciding (R13). The options, grown from what's already on the page, are in the [plan](Plan.md#the-climax-what-the-story-has-already-planted). Nothing is changed until he picks one or none.

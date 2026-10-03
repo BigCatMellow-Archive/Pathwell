@@ -1040,3 +1040,31 @@ It is wired into the [Pipeline](../Sunday-Morning/Pipeline.md#after-every-pass) 
   - Should the Camp's minor characters share the dry register, or be plainer?
   - The narrator's remaining closers (the cookbook "heavier", "For the first time since the apartment…", the last line).
 - **Ch12:** "JONES FAMILY COOKBOOK" is printed there, against the Registry's rule about the family name.
+
+## P22, 2026-10-03: the tenth seat adopted; first report
+
+**Why:** The author asked: "would it also help to use MAPSL 10th seat review for this stuff as well? Not just the reviewing but the writing." He linked MAPS_L's [TENTH_SEAT_REVIEW.md](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/TENTH_SEAT_REVIEW.md).
+
+**Assessed before adopting (R26; MAPS_L invariant 14).** It fits one failure the reader protocol doesn't cover: a decision or verdict nobody argued against, which later passes then treat as settled. Every costly mistake in this revision was one of those:
+
+- Ch1 rebuilt on superseded staging;
+- the tome, vow and fire cut as if locked;
+- "no Sunday trial for Ch2";
+- the woods staging passed with no findings.
+
+The protocol's own warning is that it turns into ceremony if it fires on everything. So it's adopted narrowly (Sunday D21; [Pipeline: the tenth seat](../Sunday-Morning/Pipeline.md#the-tenth-seat-narrow-d21)), with three triggers:
+
+1. overriding the author's text because the record seems to require it;
+2. an unchallenged verdict that later passes will treat as settled;
+3. a clean pass after passes that found things.
+
+For the writing, it tests a rebuild's riskiest decision before the prose is drafted. It never tests the author's rulings and never writes prose. MAPS_L owns the method, and the Sunday notes link to it rather than copy it.
+
+**First report** ([Tenth-Seat/2026-10-03_Ch4-cuts.md](Tenth-Seat/2026-10-03_Ch4-cuts.md)). It fired on trigger 1: P20 left most of his drafted Chapter 4 out. **Verdict: ORANGE.** Four cuts hold: the morning, Papa Baga, the fortune errand and the grandparents' circle. The blanket claim that the rest "had to be left out" doesn't hold:
+
+- **Mishka.** His JUN 16 ruling ("keep it the existing girl") and the August lock C2 §4 both make the Camp child a girl. The book has Milo, and the triage settled that without asking him. Now Q-M.
+- **The clothes.** They pay off his own Ch2 line "Nothing to wear to it". Now Q-N.
+- **The "bookkeeper / amoeba" hush** could come back. It would show when Pathwell tells Mama Baga about the blob. It's low value and isn't raised with him.
+- **A caution:** "one night" (audit §6) was cited as if it bound, but it's an audit's likely sequence, not a lock. The morning cut still holds on Ch12's own lines.
+
+Nothing in the chapters changes until he answers Q-M and Q-N.

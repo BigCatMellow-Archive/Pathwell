@@ -207,6 +207,45 @@ Every drafting or revision pass ends with this routine, not only at L4. Prioriti
 8. **Leave deliberate ambiguity alone.** Some gaps are [decisions](Decisions.md).
 9. **Write change notes from the diff,** not from intention, in the story page's **Stage 3 — DO** section. A collection-wide pass also gets one row in the collection's own pass log (its `History.md`).
 
+### The tenth seat (narrow, D21)
+
+This adapts MAPS_L's [Tenth Seat Review](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/TENTH_SEAT_REVIEW.md), which owns the method. Its source is a fictional protocol built on real precedents, so cite it that way. **When a consequential claim is accepted without anyone arguing against it, a fresh agent builds the strongest case that it's wrong.** Nobody else does the work: not the reviser, and not the checker who passed it. The agent records that case as a minority report, and the report is kept whether it wins or loses.
+
+It doesn't replace the fresh check or the reader. Those find faults in the text. The tenth seat tests the decisions and verdicts that later passes will treat as settled. In the Pathwell revision, every expensive mistake so far was one of those, and nobody argued against any of them until the author did:
+
+- Chapter 1 was rebuilt on staging that had been superseded, and the checker agreed.
+- The author's tome, vow and fire were cut as "ruled out by the locks".
+- "Chapter 2 already has the Sunday shape, so no trial."
+- The woods staging passed a check with no findings.
+
+**It fires on three things only:**
+
+1. **Cutting or overriding the author's own text because a lock or rule seems to require it.** The claim being tested is "the record requires this cut".
+2. **A verdict that later passes will read as settled, accepted with no findings:** a story moved to L3 or L4, "the locks hold", or "nothing to fix" in a triage.
+3. **A clean pass after passes that found something.** For example, a reader or fresh check finds nothing, when the two runs before it each found real problems.
+
+**It doesn't fire on:**
+
+- line edits;
+- a check that already returned findings (someone has already argued the other side);
+- **the author's rulings** (he's the accountable party; [push-back](Craft.md#ai-and-the-author-who-writes-what) is the separate route there);
+- taste.
+
+**In the writing, not only the review.** Before a rebuild, the reviser writes down the pass's few big decisions: what it keeps from the author, what it cuts and why, and the key staging choices. The tenth seat then argues against the riskiest one before the prose is written. This tests decisions, not sentences. It never drafts prose.
+
+**The report** follows MAPS_L §4–5:
+
+- the claim, stated so that it could be proven wrong;
+- what must be true for it to hold, and which of those is weakest;
+- the strongest alternative a capable reader would defend;
+- what evidence that alternative predicts, checked against the primary records;
+- what would disprove the alternative;
+- how far the error would spread if the claim is wrong.
+
+Its verdict is GREEN (the claim holds; a success, not a waste), YELLOW (it holds with real doubts, so record what would reopen it), ORANGE (the evidence can't tell; narrow the claim) or RED (reopen). It sits beside the pass's other evidence, and it never gives or changes authority.
+
+**Signs it has become ceremony** (MAPS_L §7): every report is GREEN and short; it fires on most passes; it argues details and never foundations. If any of those holds, narrow the triggers rather than keep performing it.
+
 ## Stage 4 — JUDGE: review independently
 
 MAPS_L: **no owner approves their own substantive work.** An L4 review is a fresh pass that did not write the draft, working only from the story page, the draft and these notes.
