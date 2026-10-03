@@ -1068,3 +1068,32 @@ For the writing, it tests a rebuild's riskiest decision before the prose is draf
 - **A caution:** "one night" (audit §6) was cited as if it bound, but it's an audit's likely sequence, not a lock. The morning cut still holds on Ch12's own lines.
 
 Nothing in the chapters changes until he answers Q-M and Q-N.
+
+## P23, 2026-10-03: Chapter 4, new clothes (R32)
+
+**Why:** The author answered the tenth seat's questions. "Idk" on the girl or Milo, so Milo stays. On the clothes: "Yeah I think she should get some new clothes since it would be kinda symbolic of her entering their world."
+
+**What changed:**
+
+- **The clothes beat in Ch4,** after "Archive," she said. It's mostly his draft's material, given to Mama Baga (Q126: her motherhood shows through ordinary care; the tenth seat recommended her too):
+  - she looks at the pajama legs under Elizabeth's coat;
+  - his line: "Try these. Take what you like.";
+  - she hangs a quilt from a hook to make a corner;
+  - his outfit: "a mix of pastel linen, a short blazer and a thin gold chain, with a bandana holding her hair back";
+  - "clapped her hands together once";
+  - his draft's dropped clothes become "She left the pajamas folded on the onion crate."
+
+  She puts her own coat back on over the top, which keeps every later "coat" true (Ch5–18).
+- **New lines, plain and flagged:**
+  - "the pajama legs showing beneath it, which Elizabeth had been trying not to think about since the lobby of her building";
+  - "Better." (in place of his "Belíssimo!", which was another character's word);
+  - "Nothing matched. It was the most comfortable she'd been all night." "Nothing matched" deliberately echoes the Camp description, where nothing matched either.
+  - "The healer tucked Nana's cookbook under her arm and went out to find someone to take it." This stages the book leaving the wagon.
+- **Ch12:** "moved Elizabeth's coat aside" becomes "moved Elizabeth's coat and the borrowed blazer aside".
+
+**Reader check (D20, scaled to the change):** no stoppers; it passes the cut test. The reader asked where the healer and the cookbook were during the change, now staged. Ch13's clean clothes for Shade ("Take something that fits") and Ch16's "CAMP ISSUE" now read as rhymes with this beat.
+
+**For the author:**
+
+- Should anyone notice the outfit? With the coat on, only she knows.
+- Her shoes stay hers. Ch10's sore heel pays that off.
