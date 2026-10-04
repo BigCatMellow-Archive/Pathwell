@@ -171,6 +171,8 @@ Elizabeth's overwhelm in the Space Between collection is an ordinary-person reac
 
 **Using a charged work destroys the original work.** Charge and original human expression are inseparable.
 
+**Stansbury's source (the author's Ch5 draft, 2026-10-03; P25).** At the school, Stansbury harnesses the latent energy that children's work throws off while it's being made. That is not the finished piece's anchored charge, which is why "the kids get their work back" and the work is unharmed. He doesn't direct the work, since he "hasn't taught a class in years", and work made in order to be used is dead fuel. The energy feeds only his imbued tools, never healing and never Pathwell's workings. Whether it's harmless is left open on the page.
+
 A handwritten page, painting, drawing, carving, or other charged artwork is physically consumed, ruined, erased, cracked, burned, dissolved, or otherwise lost when its charge is spent.
 
 Information can sometimes be copied. The original human record cannot.

@@ -105,7 +105,7 @@ Work in this order. Nothing below Priority 1 starts before the author's verdict 
 | 2 | The chapter-by-chapter pass on chapters no open question blocks, in reading order: 3, 4, 5, 6, 7, 9, 10, 11, 13, 16, 17. Each chapter's pass takes its line items and its C items together (listed below), then runs [after every pass](README.md#after-every-pass) | L + C | DO, PLAN where a scene changes | the Step 2 verdict |
 | 3 | The chapters with work above line level: Ch1 (her welcome party; Q-H), Ch2 (no lo mein order; she goes after her books, R12; Q-H for two lines), Ch8 (the echo line, R11) and Ch8–9 (recognition at the diner), Ch14–15 (the climax option the author picks, and Shade's locked reason), Ch18 (the silent cookbook, no test; "Perfect." confirmed); `Coda.txt` retired (P3) | C then L | PLAN, DO | Q-H for Ch1–2; Q-E for Ch14–15 |
 | 4 | Records: keep the Registry's shapes, the ledger and Revision-Status current after every pass. (The pillar pages were brought into line in P2, R14) | records | RECONCILE | — |
-| 5 | check his docx draft first: the second half of his "Chapter 4" is the school and Stansbury (W14); **L4:** a fresh cold read of the whole book in order after the last pass, reconciled, then the author's read | JUDGE | — | everything above |
+| 5 | **L4:** a fresh cold read of the whole book in order after the last pass, reconciled, then the author's read | JUDGE | — | everything above |
 
 ### Chapter work lists
 
@@ -117,7 +117,7 @@ What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#
 | 2 | **done in [P14](Pass-Log.md#p14-2026-10-01-chapter-2-from-the-authors-july-text)**: rebuilt from his July Chapter 2 | "You said the choice was—" seam (goes with the lo mein) | the new route to "He still has it." (emotional line); Ch17's spoon rhyme, "It was still hers.", loses its Ch2 source: keep it standing alone or cut it |
 | 3 | **done in [P16](Pass-Log.md#p16-2026-10-01-chapter-3-from-the-authors-own-drafts)**: rebuilt from his own Chapter 3 drafts (W14) | — | the P16 flag list |
 | 4 | **done in [P20](Pass-Log.md#p20-2026-10-02-chapter-4-the-authors-camp-arrival)**: his Camp arrival from the docx; the healing, the archive and the ending kept, lightly trimmed | — | the P20 flag list |
-| 5 | a one- or two-line bridge at the top: the missing day, and what became of the meeting | the Mama Baga attributions; "her bag" | — |
+| 5 | **done in [P25](Pass-Log.md#p25-2026-10-03-chapter-5-the-authors-school-and-cadillac)**: his school arrival and Cadillac scene (W14); the missing day and the meeting bridged | — | the P25 flag list |
 | 6 | — | filter verbs; the narrator's verdicts on the brothers | — |
 | 7 | — | the uncertainty-appreciation line (third telling) | "Whose decision was that?"; the last line |
 | 8 | one beat of cost for leaving bruised Stansbury on the road; Shade doesn't give his name and the narration doesn't use it until the diner (lock); "It was the crash that woke her." repeats, bare (R11) | "the big prune" | the echo's placement. Two candidates: right after the engine dies ("Stopped."), or as the chapter's first line, ahead of "Elizabeth chose the ditch." |

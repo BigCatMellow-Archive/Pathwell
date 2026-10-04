@@ -64,7 +64,7 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 | 2 | Pathwell walks off with her books without noticing (Q118) | her realization: "He still has it." (R12; the author's July ending) | numb grief, comic, warm | dialogue ("Will you slow down!?") | "He still has it." |
 | 3 | get the books back; the Space Between | a transaction (future paid through the tome, R29) | wonder, cost | Pathwell at a streetlight, the books under his arms (the author's opening, P16) | "Don't make anything of that." (her laugh; the choice to go on is told at the top of Ch4, R31) |
 | 4 | arrival at Camp; the dying woman | a gift (the whole cookbook) | tender | "She had assumed…the word camp would mean something she could leave." | "Camp Cunnan kept being a place without asking permission." (she follows) |
-| 5 | meet Stansbury; the order of events | a question ("Was it?") | brisk comic | Pathwell on a Cadillac hood | "Elizabeth followed the brothers inside." |
+| 5 | the portal to the school; meet Stansbury; the order of events | a question ("Was it?") | brisk comic | a field at dawn; the portal (the author's, P25) | "Elizabeth followed him inside." |
 | 6 | the bar; the mirror (Pathwell POV section) | a realization ("Mine.") | warm, then uneasy | "The bar was neater than it had any right to be." | "Low tide. / Wet rot." (cliffhanger) |
 | 7 | blob takes Pathwell | an act (Elizabeth cuts him out); then being shut out | action, anger | "The smell reached Elizabeth before the shape did." | "For the first time since the apartment, nobody was telling Elizabeth where to go." |
 | 8 | the withheld prune | an act (the deliberate crash); Shade arrives | defiance | "Elizabeth chose the ditch." | "Too late to call it an accident." |

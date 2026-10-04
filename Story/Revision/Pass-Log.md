@@ -1110,3 +1110,114 @@ Nothing in the chapters changes until he answers Q-M and Q-N.
   - The healer is plainer: "Then she gets to be annoyed about being alive for a while." becomes "Then she wakes up sore and hungry."
   - The muslin handoff is cut from eleven lines to two ("Archive," he said. / "I'm going that way," Elizabeth said.), so the loss is carried in the wagon and the shelf's "Available" carries the rest.
 - **Unchanged by choice:** "Don't call me that.", "Surprise me.", the choice/consequence rhyme, the beetle children, Mama Baga's two sides, her unsaid motive, and the outfit kept private. The fate line isn't restored.
+
+## P25, 2026-10-03: Chapter 5, the author's school and Cadillac
+
+**Goal:** The author said: "Go for it." This is the first pass to run the full method, start to finish:
+
+- **Check his docx first (W14).** The second half of his "Chapter 4" has the portal, the closet, the school, Ken and Stansbury. His "Chapter 5" has the Cadillac and the drive to the bar.
+- **Write the big decisions down before drafting**, and let the **tenth seat** argue against the riskiest of them (D21). [Report](Tenth-Seat/2026-10-03_Ch5-decisions.md): YELLOW, with conditions.
+- **Draft.**
+- **Run the reader protocol** (D20; [report](Reader-Reports/2026-10-03_Ch05.md)) and **a fresh check against the locks**, both cold.
+- **Fix, record, push.**
+
+### What the chapter is now
+
+- **The bridge (new, plain):** they walk out of Camp until dawn. Pathwell sleeps off the Space Between until past noon, and Elizabeth sits awake with her hand on the diary in her coat pocket.
+- **His portal:**
+  - the crumpled pages of light, the spinning circle, the wind;
+  - the bandana from Mama Baga (R32) singed in half: "You mean that would have done this to my fingers?" / "Oh, most certainly.";
+  - "The pages in his hand were gone." (new: the portal costs paper; the tenth seat's condition);
+  - then "That was a portal." / "To where?" / "Here." / "Where is here!?" / "I don't know. Let's find out."
+- **His school:**
+  - the mop closet, "Air's fine.", "You brought us to a school!?", "Surely you've been to school before.";
+  - "We went where we needed to go… Sometimes where you want to go and where you need to go aren't the same place.";
+  - "It's Saturday." Then the bell and the "tidal wave of waist-high backpacks", and "Small child. What is today?";
+  - "I'm going to run out of ways to say 'I don't know'";
+  - Ken, "No, not at this time.", and Elizabeth's "I'm the missus… Mrs. Pathwell… Don't be rude, honey.";
+  - "They're here to see me, Ken." / "Stansbury. It's been too long."
+- **The adaptations, per the tenth seat:**
+  - **The goal is set, the place isn't.** "Looking for my brother." (Q121: he already meant to go to Stansbury; Mama Baga sent word ahead.)
+  - **"Friday."** It was "Monday" in his draft; Ch2 fixed the night as a Thursday. One line on the meeting: "her nine o'clock meeting had come and gone while she sat in a field."
+  - **The scene stops at "Give me twenty minutes."**
+- **His Cadillac:**
+  - "Is this what waiting is like?" / "If I have, it certainly wasn't this boring.";
+  - "friends become enemies… blah blah blah";
+  - the interrupted Bakhtak story;
+  - "He lies, you know… half-truths". This plants "I don't lie" at the bar door.
+- **His swords:**
+  - "Those are his weapons" / "That you need";
+  - the smacked hand and "They don't need to be pointy";
+  - the tree that soaks both of them, and "put your noodle away" / "Always so crass";
+  - "Shotgun!", which knocks her into the hood.
+- **Stansbury's work (his):** "He steals children's energy." / "That feels a bit reductive… It would never be used otherwise." / "That feels… harmless… I guess?" Plus a new clause tying it to the prune: "Spending something nobody was going to use."
+- **His town and bar lot:**
+  - "You would be forgiven for not stopping in the town…";
+  - Pathwell getting out through the window;
+  - the beer sign "they no longer sold and she doubted anyone still made";
+  - "you're gonna be fine… just bring one of Stansbury's little swords" / *He lies, you know.* / "I don't lie.";
+  - she takes the dagger herself (Q106: Stansbury made it, she chose to use it);
+  - corn across the road.
+- **Kept from August, because later chapters need them:**
+  - "You pruned" and the tremor (R30);
+  - the order of events and "Was it?" (Ledger P3; compressed, since Ch4 already runs most of it);
+  - the dagger line "Cuts separation into things that don't separate easily…", said at the school (Ch7:95 quotes it);
+  - the safety and wear lines (Q124, Q125);
+  - "How thin?" (now "He said I didn't have much left to give." to match Ch3's tome);
+  - "I brought myself to a bar. You happen to be in my car." (Ch6:44 rhymes with it).
+- **Left out, per the tenth seat (D4):**
+  - "kill him in the future" and the fortune errand;
+  - the office interrogation, in which Pathwell admits "marked" was a lie (R27: Ch7–9 pay the bluff off);
+  - "take me home", along with "the portal would have taken you home" and the "lost" speech (she already chose in Ch4; R31);
+  - Papa Baga;
+  - Stansbury calling her "Lizzy" (only Pathwell does).
+- **Records:**
+  - **world bible:** Stansbury's source, with the tenth seat's limits;
+  - **ledger:** new row O6b; R4, R8 and L1 updated;
+  - **Registry:** Ch5 row;
+  - **Plan:** the Ch5 row (and a stray edit from P20 on the stages table, removed);
+  - **voice benchmark:** his Ch5 draft.
+
+### Check log
+
+- **Tenth seat (before drafting):** YELLOW. Conditions met: the clock line, the portal as a one-off that costs paper, the scene stopping at "wait at his car", one line for the meeting, the author's own words on Stansbury's source with no narrated verdict, "He lies" planted, no mocking "Lizzy", and the dagger line at the school.
+- **Reader (cold, Ch1–5):** no stoppers. Fixed:
+  - the dagger "under her coat" (not under the linen);
+  - the diary in her coat pocket;
+  - the meeting line, which no longer reads as news;
+  - "Fine compared to what?";
+  - "That settled it.";
+  - the bookstore parallel made clear;
+  - the order-of-events replay compressed.
+- **Fresh check:** YELLOW. Fixed:
+  - the doubled "We went where we needed to go." (now "What do you mean, apparently?");
+  - the portal's cost;
+  - the Ch6 rhyme restored;
+  - "this week's stock" (Q122b);
+  - a narrated verdict on "harmless" cut;
+  - "It had been twenty minutes." twice;
+  - the hall seen before she'd looked, and an untagged line;
+  - "late afternoon" / "evening sun" (now "low sun");
+  - "It didn't reach the rest of his face." (a stock gesture) cut;
+  - "grey" made "gray".
+- **Checker (Ch5):**
+  - uncontracted narration: 0;
+  - very short paragraphs: 20%;
+  - 3,198 words (it was 2,155).
+
+### For the author
+
+New lines, kept plain:
+
+1. The dawn bridge: "slept until well past noon, the way she imagined people slept after giving blood."
+2. "The pages in his hand were gone."
+3. "Looking for my brother." / "Apparently." / "What do you mean, apparently?"
+4. The meeting line.
+5. "Give me twenty minutes."
+6. "Spending something nobody was going to use."
+
+Your call:
+
+- Stansbury smacking her hand. It's from your draft, and it's sharper than his August self.
+- The one second-person line, "You would be forgiven…". It's yours, and the only one in the chapter.
+- Stansbury's source now partly settles what Q106 left open. Keep it?
