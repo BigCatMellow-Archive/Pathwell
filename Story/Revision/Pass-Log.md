@@ -1221,3 +1221,38 @@ Your call:
 - Stansbury smacking her hand. It's from your draft, and it's sharper than his August self.
 - The one second-person line, "You would be forgiven…". It's yours, and the only one in the chapter.
 - Stansbury's source now partly settles what Q106 left open. Keep it?
+
+## P26, 2026-10-03: reader protocol on Chapters 1–5
+
+**Why:** The author said: "Use the independent reader protocol." A fresh reader read Ch1–5 cold, in order, as they stood after R34, and saw no earlier report ([report](Reader-Reports/2026-10-03_Ch01-05.md)). It found no plot holes. There were three small holes, three stoppers that each cost a reread, and a list of snags, most of them already tracked as deliberate.
+
+**Fixed:**
+
+- **Ch1, the doors.** "She opened the door all the way" becomes "She opened the bathroom door all the way". It was unclear which door she was behind.
+- **Ch1, the spoon and the cookbook.** "They're… they're in the kitchen?" becomes "They're… in a box in the kitchen?" Ch2 says the spoon was the only thing she'd unpacked.
+- **Ch5, Elizabeth's line.** "Spending something nobody was going to use." becomes "Selling off potential nobody was going to use." The reader couldn't tell what she meant. It now points back to Ch3's "I've got potential to sell".
+- **Ch5, why walk all night.** "Pathwell wouldn't open anything near the wagons, so they walked…" The reader asked why they didn't portal from Camp.
+- **Ch5, a repeated question.** The Cadillac's "How much?" / "Enough." / "That's not an amount." is cut. The car's "How thin?" asks it again, and better.
+- **Ch5, a typo:** "burst in to" becomes "burst into".
+- **Ch4, fragment paragraphs.** The "Not X. / Y." count drops from five to three. "Not gratitude. Not consolation. Just contact." becomes "Mama Baga put a hand on Elizabeth's shoulder and left it there a moment."; "Nothing glowed. Nothing announced itself as important." becomes "Nothing in it glowed."; the aphorism "That was the problem with important things. They almost always were." is cut. "Not burned. Spent.", "Not hidden. Not displayed. Available." and "Not because he had her things. He didn't." stay.
+- **Ledger:**
+  - P1's stale set-up cell now matches the current Ch1–2.
+  - O5's spoon location is fixed.
+  - New open-deliberate rows: L12 (the shadow in her window, the second thing from Ch1's hall), L13 (Pathwell and streetlights, a habit), L14 (the "no-good thief" line).
+
+**Left as they are (gaps already covered, or by design):**
+
+- why he's in her flat, and the diary (Q112, R10, R25, P1);
+- "Lizzy" (R21);
+- her choice told at the top of Ch4 (R31);
+- the cot behind the curtain (R33);
+- "Was it?" going unanswered (P3);
+- the meeting's quiet passing (L1);
+- "You would be forgiven" (R34).
+
+**For the author (the reader's neutral questions worth his time):**
+
+1. In Ch3, does Pathwell know the stacks will floor her, and is leaving her alone his choice? It's his own drafted scene.
+2. In Ch5, is her flat "You're unbelievable." the reaction he wants to losing the meeting, after Ch2's "a meeting that I cannot miss"?
+3. In Ch5, should Elizabeth react when Stansbury asks "Was it?" about her own door?
+4. Should the reader ever learn her family name, or Nana's first name? Ch4 keeps both off the page.
