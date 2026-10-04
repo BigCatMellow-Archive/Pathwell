@@ -1262,3 +1262,67 @@ Your call:
 - **Ch3 (and its trial):** "She pulled her hand back. None of that had been hers, and she held on to that. / Then something was. The next turn hit her like a door slamming." The books' feelings start it, and her own panic finishes it. That keeps the lock on ambient charge (08-21 §4.15), keeps Ch10's "a room full of other people's feelings", and takes up the author's instinct that it's a panic attack.
 - **Ch5:** after "nobody had answered": "Elizabeth almost asked whose door it was, if it wasn't hers. She didn't." It's new and plain. It answers the reader's question and leaves Ch9 to say it.
 - **Unchanged:** the meeting reaction; the names kept off the page.
+
+## P28, 2026-10-04: Chapter 6, the author's bar
+
+**Goal:** The author said: "Go for it." This was the same full process as P25: his drafts first (W14), the decisions written down and tested by the tenth seat ([report](Tenth-Seat/2026-10-04_Ch6-decisions.md), YELLOW), then the draft, then the reader ([report](Reader-Reports/2026-10-04_Ch06.md)) and a fresh check (GREEN with small fixes). His bar drafts come from an older architecture (the bar outside time, the brothers drunk, the blob attacking her in a void inside the bar). August had already followed his skeleton: the neat bar, the appletini, darts, the red sky and the keys.
+
+**From his drafts:**
+
+- **The bar:** "The bar wasn't nearly as dingy as she'd imagined. It sat as a point of pride for the owner and the patrons, neater than it should have been… The plastic on the seats was worn from years of supporting customers too inebriated to do it for themselves."
+- **The order:** "Good afternoon, ma'am. What will it be?" / "I'm not too sure." / "Well, what do you normally have?" / "She didn't have an answer for that either." Then his "Appletini for her, and a pair of something domestic for my friend here and I".
+- **His toast across her and Stansbury's shoulder turn:** "No idea what's up with him."
+- **His mint thud, adapted** (the tenth seat's conditions):
+  - It's a physical sound she happens to notice. There's no smell, Pathwell's head doesn't come up, and it comes before "Mine.".
+  - "She could have sworn one of them came a hair before his hand did. / She decided she was tired." This is the one line that leans on the world bible's "no special perception". It's his call.
+- **The red sky:** "Red sky at night, sailors' delight… My mom used to always tell me that. It means tomorrow's going to be nice." / "We have to get there first, Mrs. Elizabeth… We still have the night." (skipping down the steps).
+
+**The ending:**
+
+- **The chapter now ends on "Then, from the far side of the Cadillac, a thud. / Wet. Heavy."** It echoes Ch1's first thud, and Ch7 still opens on the smell. Before, the chapter ended "Then the smell reached them. Low tide. Wet rot.", which Ch7 then repeated.
+- Pathwell's closing stillness is cut, because Ch7 opens with it. Stansbury still sees where he's looking before handing over the keys.
+
+**Kept from August:**
+
+- the mirror scene in Pathwell's point of view (R22; now logged as W15 against 08-23 §6–§7);
+- "Mine." / "Not here.";
+- Stansbury's quiet check that she chose to come;
+- the dart that misses the board;
+- the fish argument;
+- "He disappears constantly. Quiet is newer.";
+- the tab argument;
+- the keys.
+
+**Left out of his drafts:** the bar outside time, the drinking, the void attack, "How do I know this is real?", her outburst, and Stansbury's cruel speech. The tenth seat confirmed this cut on 08-23 §8 ("Do not make the brothers cartoonishly cruel") and Q128b, not on the stale bible line about "keeping people small". Also left out: "She's in."
+
+**Trimmed (Plan's line items):**
+
+- **Narrator verdicts:** "That turned out to be good."; the "Nobody… Nobody… Nobody…" run; "It was the kind of familiarity built out of repetition rather than affection…"; "The room warmed around them. Not magically…"; "That felt irresponsible."; "The fun had not vanished… They couldn't."
+- **Fragment paragraphs** merged.
+
+**Fixed after the reader and the fresh check:**
+
+- "You said you came here because something didn't fit" becomes "Your brother said something didn't fit" (Stansbury said it, in Ch5).
+- A plant for Ch7's "The mirror": "Stansbury looked toward the back hall, then back at him."
+- **Staging:**
+  - he sits back down "on her other side";
+  - the thud comes from "down the bar";
+  - "Pathwell stopped mid-turn".
+- **Time:** "all evening" becomes "all day".
+- **Repetition:** "a few minutes" twice; "apparently" twice; "She saw that too."
+- **The sky sentence.**
+- **Drinks:** two beers on the tab, and his beer is no longer "untouched".
+
+**Records:**
+
+- Decisions W15;
+- Registry Ch6 row;
+- Plan (Ch7 still needs the triage fix for "The mirror" at 321 and 431, and "You said that inside" at 331);
+- ledger P4's stale quote;
+- voice benchmark: his Ch6–7 draft.
+- **Noted for the reference pass:** the character bible's Stansbury entry still carries "keeps others small", which Q127/Q128 superseded.
+
+**For the author:**
+
+1. The mint thud's "a hair before his hand did". Keep it, or make the thud plainly innocent?
+2. The bartender remembers Pathwell from seventeen years ago, but in Ch5 Pathwell asks "What are we doing here?" Fine as Pathwell not knowing where Stansbury was taking them?

@@ -118,7 +118,7 @@ What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#
 | 3 | **done in [P16](Pass-Log.md#p16-2026-10-01-chapter-3-from-the-authors-own-drafts)**: rebuilt from his own Chapter 3 drafts (W14) | — | the P16 flag list |
 | 4 | **done in [P20](Pass-Log.md#p20-2026-10-02-chapter-4-the-authors-camp-arrival)**: his Camp arrival from the docx; the healing, the archive and the ending kept, lightly trimmed | — | the P20 flag list |
 | 5 | **done in [P25](Pass-Log.md#p25-2026-10-03-chapter-5-the-authors-school-and-cadillac)**: his school arrival and Cadillac scene (W14); the missing day and the meeting bridged | — | the P25 flag list |
-| 6 | — | filter verbs; the narrator's verdicts on the brothers | — |
+| 6 | **done in [P28](Pass-Log.md#p28-2026-10-04-chapter-6-the-authors-bar)**: his bar opening, his mint-thud beat (adapted), ends on the thud | — | the P28 flag list; Ch7 still needs the triage fix (Stansbury's "The mirror", Ch7:321, 431) and "You said that inside" (Ch7:331) |
 | 7 | — | the uncertainty-appreciation line (third telling) | "Whose decision was that?"; the last line |
 | 8 | one beat of cost for leaving bruised Stansbury on the road; Shade doesn't give his name and the narration doesn't use it until the diner (lock); "It was the crash that woke her." repeats, bare (R11) | "the big prune" | the echo's placement. Two candidates: right after the engine dies ("Stopped."), or as the chapter's first line, ahead of "Elizabeth chose the ditch." |
 | 9 | the recognition clicks at the diner when he refers to Pathwell as someone else (lock) | the repeated Pathwell–Shade comparison; "No dead grandmother's preferences"; "where Pathwell had been headed" | "Agency, apparently, was not a staircase…" |
