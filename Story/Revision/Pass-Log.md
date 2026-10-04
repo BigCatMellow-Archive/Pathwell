@@ -1256,3 +1256,9 @@ Your call:
 2. In Ch5, is her flat "You're unbelievable." the reaction he wants to losing the meeting, after Ch2's "a meeting that I cannot miss"?
 3. In Ch5, should Elizabeth react when Stansbury asks "Was it?" about her own door?
 4. Should the reader ever learn her family name, or Nana's first name? Ch4 keeps both off the page.
+
+## P27, 2026-10-04: the reader's questions, answered (R35)
+
+- **Ch3 (and its trial):** "She pulled her hand back. None of that had been hers, and she held on to that. / Then something was. The next turn hit her like a door slamming." The books' feelings start it, and her own panic finishes it. That keeps the lock on ambient charge (08-21 §4.15), keeps Ch10's "a room full of other people's feelings", and takes up the author's instinct that it's a panic attack.
+- **Ch5:** after "nobody had answered": "Elizabeth almost asked whose door it was, if it wasn't hers. She didn't." It's new and plain. It answers the reader's question and leaves Ch9 to say it.
+- **Unchanged:** the meeting reaction; the names kept off the page.
