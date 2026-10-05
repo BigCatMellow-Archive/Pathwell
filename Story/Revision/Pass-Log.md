@@ -1605,3 +1605,126 @@ Your call:
 1. **The diner's sign.** His draft says "DINNER 24/7", and the narrator-register page quotes it. The manuscript says DINER. Was the misspelling deliberate?
 2. **Who says "Camp" first.** In Ch10, Pathwell says "Camp" first (his deferral) before she chooses it. The lock says Elizabeth says it first. That's the text from before this pass, and the triage kept it.
 3. **The three plain new lines are leans:** the raised hands, the toast, and Mama Baga not asking.
+
+## P35, 2026-10-05: the reader checks tone and rules across Chapters 1–10
+
+**Why:** The author said: "Okay so have the reader make sure he goes through all that and make sure we are sticking to the tone and the rules." The reader protocol now has a third pass, the [tone and rules check](../Sunday-Morning/Reader-Protocol.md#the-tone-and-rules-check) (Sunday D24). The reader goes through all eight items for every chapter:
+
+1. the tone guardrails and R24
+2. the scene diagnostic
+3. the line-note lessons
+4. writing against sameness
+5. the replacement tic
+6. who wrote what
+7. the records
+8. the routine itself
+
+Each item is marked holds, breaks or n/a. Two independent readers ran it across everything revised so far, each reading from Chapter 1: [Ch1–5](Reader-Reports/2026-10-05_Ch01-05_tone-and-rules.md) and [Ch6–10](Reader-Reports/2026-10-05_Ch06-10_tone-and-rules.md).
+
+**Verdicts:**
+
+| Chapter | Tone and rules |
+| --- | --- |
+| Ch1 | holds |
+| Ch2 | holds (one question for the author) |
+| Ch3 | holds |
+| Ch4 | breaks, mildly but widely |
+| Ch5 | mostly holds (a staging hole at the tree) |
+| Ch6–10 | hold, with tics to trim |
+
+No stoppers. No missing light-touch moments: every chapter already has its soft landing, and adding more would be the density the AI-tells list warns against.
+
+**Fixes, from the diff** (Ch4 −35/+17 lines, Ch5 3, Ch6 2, Ch7 4, Ch8 6, Ch9 9, Ch10 11):
+
+- **Ch4 (cuts only, no new text).** It was the worst chapter for sameness: 41 look beats, 9.8 per 1,000 words against about 2 in the author's pages, and ten "Not X." fragments, after P26 thought it had cut them to three.
+  - **Look beats:** eight cut. "Mama Baga looked at her." twice; "Elizabeth looked at the pile, then at her."; "Elizabeth looked at it."; the archivist's look; "Elizabeth looked at the boy, who was losing interest rapidly."; "He looked up."; "Mama Baga watched him for a moment."
+  - **Personifications:** four cut. The onions "accepted her without comment"; she "resented the blanket for trying"; the camp smelling "like a better decision than bark tea"; the horse drawn "from rumor".
+  - **"As though":** two cut ("saved lives before"; "the only task she had agreed to perform"). The collar line stays, because ledger R17 cites it as Mama Baga's care.
+  - **Fragments:** "Not quickly.", "Not theatrically." and the two "Nothing…" sentences cut.
+  - **Glosses:**
+    - "That mattered to Elizabeth more than it should have."
+    - the three "Because…" sentences at the archive
+    - "The unease under his joking didn't leave."
+    - "The offer surprised both of them."
+    - "and Nana's cookbook was inside" (the fourth telling of the loss; the guardrail is one sad thing, said once)
+    - "because it was there and didn't require either of them to say anything useful"
+  - **One name for one thing:** the blue notebook is "the notebook" throughout.
+  - **Smaller:** "That sounds as bad as she looks." (read twice by two readers). The closing "You were about to." is cut, so the shape isn't used a third time with Ch6.
+- **Ch5:**
+  - **The tree (a staging hole).** The Cadillac is "parked under the one tree in the lot", and Stansbury "stepped out from under the branches" before he strikes the trunk. That's why the other two get wet and he stays dry.
+  - **A gloss cut:** "Nobody said anything else about it, and nobody had answered."
+- **Ch6:** two glosses cut ("Elizabeth had started noticing that very little could be enough."; "and that was what made her believe it").
+- **Ch7:**
+  - Three glosses cut ("and that ended the joke"; "and that was answer enough from him"; "Now they were quiet together, holding whatever came next between them.").
+  - "Important enough to give up mine" → "…give up Nana's cookbook" (two readers found "mine" ambiguous).
+- **Ch8:**
+  - **New, plain, flagged:** "Or pull over and let me drive," Pathwell said. "I am an excellent driver." The reader asked why she couldn't just stop on an empty road. Stopping would only hand Pathwell the wheel and end the question; the ditch doesn't. It calls back his Ch6 line.
+  - **Restraint notes:** four cut ("Pathwell didn't answer.", "Pathwell said nothing.", "The man who always had an answer close at hand didn't have one.", "and didn't argue").
+  - **Hands on the wheel:** one of the four beats cut.
+- **Ch9:**
+  - **Contractions:** Elizabeth's three uncontracted lines that sounded like Shade are now contracted ("That's not the normal response.", "Don't start doing that.", "That's an extremely low bar.").
+  - **"Good.":** her "Good." becomes "Okay.", so "Good." is Shade's again.
+  - **Cut:** "He left it there."; "A person sorting his grammar around memories that didn't belong to his life."; "He didn't add anything to make it easier to hear."; "It wasn't for Elizabeth, and it wasn't exactly for Pathwell either."; "Pathwell in the car saying Drive." (the list keeps two).
+- **Ch10:**
+  - **The Ask.** "So you paid the cost yourself." / "Yes." / "And that made you feel…" merged into Elizabeth's one step: "And paying for it yourself made you feel like the method was yours to choose."
+  - **The letter.** The gloss before the longing is cut ("The page wasn't about finding anyone…"), because the images that follow carry it.
+  - **The heel.** It hurt at the start and then "started to rub" a mile later. Now the shoes are only uncomfortable at the start.
+  - **Cut:** "which was the worst injury by a considerable margin" (the opening had four jokes in fifteen lines); "because fast certainty had become its own problem"; Stansbury's second "Of course."
+  - **The van.** It comes up on the far side of the road and stops on the far shoulder.
+- **Records (stale quotes the readers found):**
+  - Ledger O6b and R34 note the newer Ch5 wording.
+  - Ledger R15 now quotes Ch4's opening as it stands.
+  - Registry: the Ch2 Pathwell row (the "if the situation becomes formal" line is gone from Ch2), and the "without asking permission" row (Ch2 dropped).
+  - Ledger L1 ("three times"; Ch5 now has the line it wanted).
+
+**Kept against a reader, as leans (R36):**
+
+1. **"It was a decent time. She let it be one."** (Ch6): it's her choosing to enjoy the evening, not a gloss.
+2. **"late to the decision"** (Ch8): the tenth seat and the triage keep it.
+3. **"Too late to call it an accident."** (Ch8's last line): the Registry and ledger R3 use it. The second reader found its "it" unclear and would end on her realizing. That one's for the author.
+4. **The slaps, "Bank it." and "big cat" run** (Ch10) are his own lines.
+5. **"The draw finds him."** stays: "draw" is the book's word.
+
+**Lines that aren't the author's and were never flagged one by one (item 6).** These are for him to confirm or cut. Each is plain unless noted:
+
+- **Ch3:** "the counter complained"; "as though posture had become the problem"; "which was stupid. Missing a page should have made it lighter."
+- **Ch4:** about twenty jokes and narrator lines kept from the August text. Among them:
+  - the sock that "surrendered"
+  - the tea "after a long argument with bark"
+  - the turnip boy who "forgot the interaction"
+  - the archivist's dry run at the door and the shelves
+  - "twelve and badly assembled"
+  - "soup was an argument you could win" (the reader would keep it)
+  - Elizabeth explaining why she gives the whole book
+  - her reasons for going, spelled out at the end
+- **Ch5:**
+  - "like a man measuring a room"
+  - "You pruned." / "Hello to you too."
+  - "That is a more compelling version." / "It's also a worse description."
+  - "That fixes it."
+- **Ch6:** "She let it be one."; "Not now. Not here. Not necessarily not her."
+- **Ch7:** "She had become very aware of how much machine she was responsible for."; "Elizabeth laughed once. Both men stopped. Nothing was funny."
+- **Ch8:** "Or pull over and let me drive… I am an excellent driver." (new in P35)
+- **Ch9:**
+  - "She believed him, mostly because he'd bothered to make the distinction."
+  - "Pathwell would have done that. Probably."
+  - "For the first time Shade smiled without looking like Pathwell. It was smaller, and meaner around the edges, and his own." (the reader would keep it)
+- **Ch10:** "less defense in it and more of something Elizabeth didn't trust herself to name"; "And paying for it yourself made you feel like the method was yours to choose." (new in P35)
+
+**The routine for P35 (D23):**
+
+| Step | P35 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader, item 1, all ten chapters) |
+| 2 Shapes in the Registry | done (the stale Registry rows are fixed; no opening or ending changed) |
+| 3 Checker | done |
+| 4 Scene diagnostic | done (reader, item 2) |
+| 5 Fresh check | done for Ch8–10 in P34. For Ch1–7 the last fresh checks are P7–P29. Not re-run: P35 is the readers' own fixes |
+| 6 Reader protocol | done (this pass); not re-run on its own fixes, which are cuts plus two plain lines |
+| 7 Replacement tic | done (reader, item 5, with counts) |
+| 8 Deliberate ambiguity | left alone |
+| 9 Change notes from the diff | done (above) |
+| Tenth seat | not triggered (cuts, and readers' findings are not an unopposed verdict) |
+| Light Sunday touch | checked: none missing in Ch1–10 |
+
+**The routine for earlier chapters.** The readers rebuilt it from the log. Ch1–5 never recorded step 4 (scene diagnostic) or step 7 (replacement-tic count) before this pass, and Ch5 never recorded step 1. Those passes came before D23, so it's a missing record rather than a broken rule. This pass has now run all three for Ch1–10.

@@ -141,7 +141,7 @@ It smelled like tea, lanolin, smoke, and something that might once have been sag
 
 "That is not a posture."
 
-Elizabeth sat on a wooden crate beside the wall. It had onions in it. The onions accepted her without comment.
+Elizabeth sat on a wooden crate beside the wall. It had onions in it.
 
 Mama Baga poured something into a chipped cup and put it in Elizabeth's hands. It was tea, or something tea had become after a long argument with bark.
 
@@ -153,7 +153,7 @@ Mama Baga didn't ask why Elizabeth's coat smelled faintly of low tide. She didn'
 
 She tucked the corner of a blanket away from Elizabeth's shoe.
 
-Elizabeth nearly cried again and resented the blanket for trying.
+Elizabeth nearly cried again.
 
 The wagon door opened behind them. The boy with the turnips came in backward, carrying Nana's cookbook in both hands, her diary balanced on top.
 
@@ -161,7 +161,7 @@ The wagon door opened behind them. The boy with the turnips came in backward, ca
 
 "Those are mine," Elizabeth said, faster than she meant to.
 
-The boy froze. Mama Baga looked at her.
+The boy froze.
 
 Elizabeth set down the tea. "I mean — yes. Mine."
 
@@ -177,7 +177,7 @@ He nodded once and immediately forgot the interaction. "Archivist wants the rest
 
 Mama Baga looked toward the door. "That is different."
 
-The boy nodded solemnly, as though this distinction had saved lives before, and disappeared.
+The boy nodded solemnly and disappeared.
 
 Elizabeth sat again with the cookbook on her knees. Her thumb found the torn edge of the missing sugar-cookie page.
 
@@ -189,13 +189,13 @@ A young woman lay beneath two blankets, maybe twenty-five, maybe younger. Her sk
 
 Beside her sat a slight woman with her sleeves rolled past the elbows. Camp healer, Elizabeth guessed before anyone said it.
 
-The healer pressed two fingers to the woman's wrist, waited, then moved a hand against her ribs. The woman on the cot breathed as though breathing were the only task she had agreed to perform.
+The healer pressed two fingers to the woman's wrist, waited, then moved a hand against her ribs. The woman on the cot was breathing, shallow and slow.
 
 "What happened?" Elizabeth asked.
 
 "Wagon slipped on the north grade," Mama Baga said. "She was between it and a tree."
 
-Elizabeth looked at the young woman again. "That sounds worse than she looks."
+Elizabeth looked at the young woman again. "That sounds as bad as she looks."
 
 "It was."
 
@@ -241,8 +241,6 @@ MORE IF THEY'RE SICK. THEY WON'T EAT ENOUGH.
 
 Elizabeth laughed once through her nose.
 
-Mama Baga looked at her.
-
 "She believed soup was an argument you could win," Elizabeth said.
 
 "Was she right?"
@@ -277,7 +275,7 @@ Mama Baga's eyes stayed on her.
 
 Elizabeth swallowed. "The whole book."
 
-Mama Baga took it before the healer could. Not quickly. Both hands under the spine, receiving the weight rather than examining it.
+Mama Baga took it before the healer could, both hands under the spine, receiving the weight rather than examining it.
 
 For one second Elizabeth nearly pulled it back.
 
@@ -319,7 +317,7 @@ The healer looked at the woman. "Then she wakes up sore and hungry."
 
 Elizabeth let out a breath. "That seems fair."
 
-The healer closed Nana's cookbook. A clean gap remained where the page had been. Nothing glittered in the air. Nothing clung to the blankets or the steps. The room smelled like chicken and dumplings for a few more seconds, and then it was a wagon again.
+The healer closed Nana's cookbook. A clean gap remained where the page had been. The room smelled like chicken and dumplings for a few more seconds, and then it was a wagon again.
 
 Mama Baga put a hand on Elizabeth's shoulder and left it there a moment.
 
@@ -343,8 +341,6 @@ Mama Baga looked at Elizabeth a moment longer. Then at the coat, and at the paja
 
 She went to a chest under the quilts and came back with an armful of clothes. "Try these. Take what you like."
 
-Elizabeth looked at the pile, then at her.
-
 Mama Baga hung a quilt from a hook to make a corner, and put the clothes into Elizabeth's hands.
 
 When Elizabeth came out from behind the quilt, she was dressed in a mix of pastel linen, a short blazer and a thin gold chain, with a bandana holding her hair back. Her own coat went back on over the top. Her pajamas were balled in one hand.
@@ -358,7 +354,7 @@ She left the pajamas folded on the onion crate.
 
 Outside, Camp was still up.
 
-The fiddle had acquired a second fiddle. Somebody had started cooking onions near the central fire, which meant the whole camp smelled briefly like a better decision than bark tea.
+The fiddle had acquired a second fiddle. Somebody had started cooking onions near the central fire.
 
 Pathwell was crouched beside the handcart, examining one of its wheels.
 
@@ -374,11 +370,9 @@ Word had gotten there before her. "She'll be fine," he said, eyes on the wheel.
 
 He nodded. "This wheel is new."
 
-Elizabeth looked at it.
-
 "Newer," Pathwell amended. "Relatively."
 
-She sat on the edge of the cart. For a while they looked at the wheel, because it was there and didn't require either of them to say anything useful.
+She sat on the edge of the cart. For a while they looked at the wheel.
 
 Then the boy with the turnips appeared again, carrying Nana's cookbook wrapped loosely in a square of clean muslin. "Archive," he said.
 
@@ -391,7 +385,7 @@ Pathwell stayed by the wheel.
 
 The archive was one of the nearest wagons on the ring, close enough to the central fire that people could reach it without thinking and far enough away that nobody had to sleep beside several generations of other people's feelings. It was larger than Mama Baga's wagon and considerably less decorative.
 
-The door stood open. Inside, shallow drawers climbed both walls. Shelves held wrapped books, boxes, bundles of letters, ledgers, loose paper between boards, recipe notebooks, notebooks that had once been ordinary school notebooks, and a child's drawing of a horse whose legs suggested the artist had been working from rumor.
+The door stood open. Inside, shallow drawers climbed both walls. Shelves held wrapped books, boxes, bundles of letters, ledgers, loose paper between boards, recipe notebooks, notebooks that had once been ordinary school notebooks, and a child's drawing of a horse.
 
 Nothing in it glowed.
 
@@ -409,7 +403,7 @@ The archivist finished the line he was writing before he looked up. He was somew
 
 "Donated?"
 
-The boy pointed at Elizabeth. The archivist looked at her, and she nodded.
+The boy pointed at Elizabeth, and she nodded.
 
 "Elizabeth."
 
@@ -433,9 +427,9 @@ Then it did. She told him, and the archivist wrote that down too.
 
 "Before that?"
 
-Elizabeth looked at the boy, who was losing interest rapidly. "One. Also tonight."
+"One. Also tonight."
 
-The archivist nodded and added two small marks in the margin. Then he unwrapped the book. His hands were clean. That mattered to Elizabeth more than it should have.
+The archivist nodded and added two small marks in the margin. Then he unwrapped the book. His hands were clean.
 
 He opened the cover, looked at the spine, checked the two missing places, then wrapped the book again in fresh paper that didn't quite cover the grease stains.
 
@@ -473,15 +467,13 @@ The archivist looked pointedly at the boy, who had found a loose button on the f
 
 "You were going to."
 
-The archivist sighed. The woman left with the blue road book.
-
-Elizabeth looked at the shelves again. People came in because they needed to know where the creek flooded. Because someone had written it down. Because someone else had kept the writing after the person was gone.
+The archivist sighed. The woman left with the notebook.
 
 The archivist was already filling in another line.
 
 "What happens to it?" Elizabeth asked.
 
-He looked up. She nodded toward Nana's cookbook.
+She nodded toward Nana's cookbook.
 
 "Whatever happens to any record people still need."
 
@@ -510,7 +502,7 @@ Behind her, Nana's cookbook stayed on the shelf, and Elizabeth didn't go back fo
 
 Pathwell was no longer by the handcart.
 
-She found him at the edge of Camp, looking into the trees. Not theatrically. He'd gone still, the way he had in her apartment hallway before declaring the place marked.
+She found him at the edge of Camp, looking into the trees. He'd gone still, the way he had in her apartment hallway before declaring the place marked.
 
 Mama Baga stood beside him with her arms folded, watching it too.
 
@@ -526,7 +518,7 @@ Mama Baga stood beside him with her arms folded, watching it too.
 
 "No."
 
-Pathwell looked toward the trees again. Mama Baga watched him for a moment.
+Pathwell looked toward the trees again.
 
 "Stansbury."
 
@@ -566,13 +558,11 @@ Pathwell's expression soured. Mama Baga smiled.
 
 "Go see your brother."
 
-Pathwell looked once more into the trees. The unease under his joking didn't leave. "Fine."
+Pathwell looked once more into the trees. "Fine."
 
 He turned to Elizabeth. "You can stay here."
 
-The offer surprised both of them.
-
-Elizabeth looked back toward the central fire. Someone had found the boy's turnips and was peeling them badly. The fiddle kept going. The woman with the blue road book was arguing with a man near a wagon, waving the notebook at him like legal evidence. The archive door stood open, and Nana's cookbook was inside.
+Elizabeth looked back toward the central fire. Someone had found the boy's turnips and was peeling them badly. The fiddle kept going. The woman with the notebook was arguing with a man near a wagon, waving it at him like legal evidence. The archive door stood open.
 
 For one minute the idea of staying felt possible. Back in the city, her meeting was still at nine. She noticed she hadn't thought about it in an hour.
 
@@ -593,8 +583,6 @@ Elizabeth pointed at him. "Don't."
 "Look pleased with yourself."
 
 "I wasn't."
-
-"You were about to."
 
 Mama Baga laughed behind them.
 

@@ -38,7 +38,8 @@ The checks already in place are audits: they compare a text against a list. This
 - **It reads in order from the start.** For a chapter of a novel, that means the earlier chapters first, the way a reader comes to it. A reader who hasn't seen Chapter 3 can't notice what Chapter 4 forgets.
 - **Pass 1, cold (think-aloud).** It reads the new text section by section and writes each question down where it arises, with the line number and what set it off. It writes down what it expects to happen next. It notes where it skimmed, where it was pulled out of the story, where it laughed and where it cared. It doesn't look anything up and doesn't go back to fix its questions. When a later line answers a question, it marks the question answered and says where.
 - **Then the [causality pass](#the-causality-pass):** beat by beat, with the record of the scene's state.
-- **Pass 2, informed.** Only then does it read the rules and the records: the [line-note lessons](Craft.md#lessons-from-the-authors-line-notes), [writing against sameness](Craft.md#writing-against-sameness), the [tone guardrails](Rules.md#tone-guardrails), [AI tells](Sources/AI-Tells.md), the setting's narrator register, and the story's own locks, decisions and promise ledger. It then sorts every question it left open.
+- **Pass 2, informed.** Only then does it read the rules and the records and sort every question it left open.
+- **Pass 3, tone and rules (D24).** It goes through the whole [tone and rules check](#the-tone-and-rules-check) below, item by item, and reports each item as *holds*, *breaks* (with lines) or *not applicable*. It doesn't stop at the items its questions happened to raise.
 
 ## The questions
 
@@ -80,6 +81,19 @@ It starts each chapter from the previous chapter's end state, so a break across 
 
 This is the procedure behind [Craft's "walk the scene physically"](Craft.md#lessons-from-the-authors-line-notes) and "every piece of knowledge needs a source", run on every beat instead of on the moments that happen to snag.
 
+## The tone and rules check
+
+The author asked for this (D24): "have the reader make sure he goes through all that and make sure we are sticking to the tone and the rules". The cold read finds where a reader stops. This pass makes sure nothing in the routine is left to the reviser's memory. Every item gets an answer.
+
+1. **Sunday Morning first: the [tone guardrails](Rules.md#tone-guardrails)**, one by one, and the setting's own ruling on how much of the tone it takes (in Pathwell, R24: a light touch, with the weight kept). Does any stretch make the reader brace with nowhere soft to land after it? Is any sad or hard thing told more than once? Is there a moment where nothing dramatic happens, and a meal? Does the ending land with some warmth? Is a mistake shown with what the person was doing right? If a light touch is missing, suggest one plain line from the people the story follows, and say what it would change. It must pass the author's cut test: if removing it changes nothing, it doesn't belong.
+2. **The [scene diagnostic](Craft.md#sunday-morning-scene-diagnostic)**, scene by scene: want; therefore, but, or "and then"; what changed; anything explained after it was shown; would a reader brace.
+3. **The [line-note lessons](Craft.md#lessons-from-the-authors-line-notes), 1 to 8,** each checked: the scene walked physically; a source for every piece of knowledge; one name for one thing; the cut test (warmth included); how people talk; what each describing word carries; two people answering each other; rhythm on the page.
+4. **[Writing against sameness](Craft.md#writing-against-sameness)**, its six questions, with counts: repeated joke constructions, gestures and closing lines, within the text and against its neighbours; whose joke each is; the narrator's register (stepping aside or present where the register says); people thinking like people; polished closing lines per scene; [AI-tell](Sources/AI-Tells.md) clusters.
+5. **The replacement tic.** What has multiplied since the last pass cut something (count it): negations that note what someone didn't do, a gesture family, objects acting like people, a reply one word long that every character shares, "the way…" similes, "which…" asides.
+6. **Who wrote what.** New lines in the [cautious categories](Craft.md#ai-and-the-author-who-writes-what) (jokes, emotional lines, character-defining dialogue, narrator commentary) that aren't the author's: is each plain, and is it flagged?
+7. **The records.** The locks, decisions and promise ledger, read in their primary records rather than a summary: what the text breaks, and what it spends early.
+8. **The routine itself (D23).** From the pass log, was every after-every-pass step run, or marked skipped with a reason? Name anything missing.
+
 ## Sorting open questions (pass 2)
 
 Each question still open at the end of the chapter gets one label:
@@ -100,9 +114,10 @@ Each question still open at the end of the chapter gets one label:
 1. **What worked.** Three to six lines with quotes: what the author should keep.
 2. **Question log.** A table with the line, the question, what set it off, whether it was answered (and where), the label and the severity.
 3. **Causality findings.** Every beat whose preconditions aren't met, and every later beat that ignores an earlier change, plus the chapter's end state for the next chapter's reader.
-4. **Stoppers.** Every place the reader was pulled out, with a line each.
-5. **Neutral questions for the author.** Taste matters, asked as questions, not verdicts ("What's the cart doing when she falls behind?" rather than "the cart is wrong").
-6. **Opinions, last, and marked as opinions.**
+4. **Tone and rules.** The eight items of the [tone and rules check](#the-tone-and-rules-check), each *holds*, *breaks* (with lines and the smallest fix) or *not applicable*, and any light-touch candidate.
+5. **Stoppers.** Every place the reader was pulled out, with a line each.
+6. **Neutral questions for the author.** Taste matters, asked as questions, not verdicts ("What's the cart doing when she falls behind?" rather than "the cart is wrong").
+7. **Opinions, last, and marked as opinions.**
 
 The reader suggests only the smallest fix for a hole. It doesn't rewrite the prose. Drafting stays with the reviser, and taste stays with the author.
 

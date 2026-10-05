@@ -25,7 +25,7 @@ Every named person in the manuscript. The Story column is the chapter where the 
 | --- | --- | --- | --- |
 | Ch01 | Elizabeth | viewpoint character; family name given in Ch4 but never printed | protagonist |
 | Ch01 | Nana Jones | Elizabeth's grandmother, dead before Ch1; her first name is spoken in Ch4 but never printed | cast |
-| Ch02 | Pathwell | practitioner; "also Pathwell, if the situation becomes formal" | cast |
+| Ch02 | Pathwell | practitioner; one name only ("Don't need one. Saves everybody time.") | cast |
 | Ch04 | Mama Baga | head of Camp Cunnan; Pathwell's adoptive mother (not stated on the page) | cast |
 | Ch04 | Olan | Camp; disputes the creek crossing (offstage) | minor |
 | Ch04 | Hess | Camp; dead 22 years, still quoted in the road book | minor |
@@ -92,7 +92,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | Elizabeth follows Pathwell as the chapter's last beat | 1, 2, 3, 4, 5; paid off deliberately in 8 ("following another man who sounded certain") and inverted in 18 |
 | Motive-list close: "Not because X. Not because Y. Because Z." | 2, 4, 9, 17 (Chapter 12's removed in P4) |
 | "For the first time since…" / "For once…" as a closing turn | 4, 7, 12, 16, 17 |
-| The world goes on "without asking permission" | 2, 4, 16, 18 |
+| The world goes on "without asking permission" | 4, 16, 18 |
 | Opening on a personified place or group | 6, 11, 12, 13 (and a similar witty verdict in 17) |
 | A drink that "was terrible" | 3, 4, 9, 12, 13, 18 |
 | Milo's falling sock | 4, 12, 13, 14, 15, 16 |
