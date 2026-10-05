@@ -1880,3 +1880,106 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 | Light Sunday touch | done: Mama Baga's blanket, shown |
 
 **Not re-run:** the reader and the fresh check on their own fixes.
+
+## P38, 2026-10-05: Chapter 13, Shade at Camp
+
+**Goal:** Plan row 13. Tighten the middle vignettes so each one changes something, keep the Hearts shift, vary the opening, and deal with Shade's procedural jokes (B7). The author's draft stops at the museum, so every line here is the August text. **This pass ran in two sittings.** An earlier run this morning wrote the decisions (K1–K5), ran a tenth seat on them (**YELLOW**) and made the first round of cuts, but was interrupted before it committed or reported. This afternoon's run picked up the working copy. It ran a second tenth seat on the triage's settled verdict, "Chapter 13 needs nothing" (trigger 2: **ORANGE**), and ran the reader with all three passes ([report](Reader-Reports/2026-10-05_Ch13_reader.md): no stoppers, five snags, 24 quibbles) and the fresh check ([report](Reader-Reports/2026-10-05_Ch13_fresh.md)). Both tenth seats are in [one file](Tenth-Seat/2026-10-05_Ch13-decisions.md). The change notes below are from the diff against the last commit (P37).
+
+**What changed, from the diff** (2,520 → 2,195 words; short paragraphs 57% → 38%; checker commentary paragraphs 10 → 1):
+
+- **The opening (K3).** It was the third personified opener in a row ("Camp Cunnan had decided Shade was neither an emergency nor an explanation."). Now it opens on people: Elizabeth by the fire, and Mama Baga pinching the museum glass out of Shade's sleeve. Ch12's blanket isn't repeated.
+- **The middle (K2).** Each vignette now changes something:
+  - The jacket: he gives up the coat.
+  - The coffee: he learns the Space Between memory isn't his ("Then I don't remember it.").
+  - Hearts: Milo's name, "I know the rules." / "I don't remember playing." / "Then today you play.", one queen-of-spades trap, and the shift from playing remembered rules to playing the people.
+  - The queen and "Pockets": what he likes.
+  - The onions: "You want to leave?" / "I want to stay here." / "Then stay." / "Asking."
+  - The last hand.
+  - **Cut:** the potato crate (one of nine "right hand opens" beats), the second trap, "They bounce." / "Good system.", the purple-foot set-up's extra lines, and the "chain of custody" queen return.
+  - **Kept for later chapters:** "I know Hearts." (Ch17), the queen going back into the deck (Ch14), "by fewer points" (Ch17), "Corruption." (Ch15).
+- **Shade's procedural jokes (B7).** Cut: "Laughing seems medically irresponsible.", "This camp communicates like a hostage situation.", "That seems deliberately dangerous.", "Chain of custody has already been compromised.", "That is inconvenient.". The kept ones are listed below for the author.
+- **Q82, placed** (ledger L16). Shade's "holding onto" reading, in the lock's own example wording: "He keeps acting like you're something he can hold onto." / Elizabeth, remembering the museum lot ("You took her from me."): "I know." It's plain and flagged. It's his own inference from what he saw in Ch11, with no telepathy.
+- **Staging (reader):**
+  - The grinder goes into Shade's hands, not his lap (he's standing).
+  - He works it with his bandaged left hand (Ch11–12 never said which palm; this pass picks the left).
+  - The cards don't slide from a hand that's already over.
+  - In the last hand his left jerks with the right, so the cards he's holding scatter.
+  - "Are you one?" replaces "I thought you weren't a guest." (nobody had said he wasn't).
+  - The archivist's "He's just better than you" is tagged.
+  - "Shade stood with the grinder" replaces an ambiguous "He".
+- **Narrator commentary and restraint notes cut:**
+  - "Elizabeth was getting better at that distinction."
+  - "That, apparently, settled it."
+  - "No philosophy followed."
+  - "This seemed to make him happier than winning might have."
+  - "No hesitation."
+  - "No follow-up inspection…"
+  - "That was becoming one of the easiest ways to tell them apart."
+  - "Not certainty. / Not distance. / An inference from pressure."
+  - "He was losing the fight with the draw by inches."
+  - "it wasn't Pathwell's smile" (Ch9 owns his first own smile)
+  - "Elizabeth let him have it."
+  - "The phrase came automatically."
+  - "and he didn't fill the silence"
+  - "His face had gone tight."
+  - "That's unfortunate."
+  - "He swallowed."
+  - a third blanket-adjust
+  - the pre-announcing "while his right hand opened and closed against his knee"
+  - the fiddle clause (its fourth use across Ch12–14, now "a dog asleep under the cooking wagon")
+- **Fragment runs merged** throughout. "That's a terrible answer." is contracted (Elizabeth contracts; Shade doesn't). "For the first time, Elizabeth had a name for him." → "Elizabeth finally had a name for him."
+- **Records:** W19; ledger L16 and L17; Registry rows 76 and 96; Plan row 13; the status table.
+
+**The tenth seat on the triage (ORANGE) and how it was answered:**
+
+- **13.1, no tree-line conversation.** The locks keep one: Q79, LOCKED C+A hybrid, which rejects "no advance discussion"; C15; C2 §11. The triage's test ("nothing later cites an earlier talk") tested the wrong thing. **Answered by W19:** kept out for now and put to the author, with Q82 placed here and C1 §6 left open as ledger L17.
+  - The seat also offered one marked prediction line as a trial. Not taken: Ch14's reveal reads as the reveal, and a prediction here would spend part of it. That's a lean, listed below.
+- **13.2, Milo a boy.** GREEN. Q-M stays open (R32: "idk"). The record's reason is corrected: the "girl" was the author's own Ch4 draft, not "a discarded draft", and a swap would be a rename plus pronouns.
+- **The contract's exit clause** (Shade "does not consent to reintegration"): "I want to stay here." carries it implicitly. Listed for the author.
+
+**Kept against the checks, as leans (R36):**
+
+1. **No tree-line conversation** (W19).
+2. **"He got the onion anyway."** It's his will against the draw, not a button.
+3. **Shade's two "Good."s on his own coffee.** One deliberate rhyme.
+4. **The older woman stays unnamed.** She's silent, and she's the one who wins.
+5. **"since before any of them were a logistical concern"** stays.
+
+**For the author:**
+
+- **W19,** and three questions the tenth seat says only he can settle:
+  - Should Shade predict Pathwell's attempt before the fire?
+  - Is the "holding onto" line wanted?
+  - Should Elizabeth say "I'm going to be there when he decides"?
+- **Milo or the girl** (Q-M).
+- **Which palm** is Shade's bandaged one (this pass says left).
+- **Shade's kept jokes:** "This child is cheating.", "Evidence." / "Corruption." / "Exactly. No one suspects him.", "This place is hostile.", "I can choose badly.", "My face is adjusting.", "You have already suffered enough.", "I've been told worse.", "That hand was promising.".
+- **Mama Baga's** "That one belonged to a man with unfortunate arms."
+
+**New lines, plain, flagged:**
+
+- "He worked the grinder with his bandaged left hand, because the right one couldn't be trusted to stay on the handle."
+- "He keeps acting like you're something he can hold onto." / "Elizabeth thought of the parking lot at the museum. 'I know.'"
+- "Are you one?"
+- "a dog asleep under the cooking wagon"
+- "His left jerked with it"
+
+**Carried to later passes:** Ch15:1118 says "Milo saying he was cheating", but in Ch13 it's Shade who says it (the Ch15 pass).
+
+**The routine (D23):**
+
+| Step | P38 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader item 1: holds; every brace lands within a few lines) |
+| 2 Shapes in the Registry | done (rows 76, 96) |
+| 3 Checker | done |
+| 4 Scene diagnostic | done (reader item 2: holds) |
+| 5 Fresh check | done |
+| 6 Reader protocol, with the tone and rules check | done |
+| 7 Replacement tic | done (gaze is still about 17 per 1,000 here; about a dozen looks cut over both sittings; carried book-wide) |
+| 8 Deliberate ambiguity | left alone |
+| 9 Change notes from the diff | done (above, against P37) |
+| Tenth seat | done twice (YELLOW on the decisions; ORANGE on the triage, answered by W19) |
+| Light Sunday touch | checked; none needed (the book's warmest chapter) |
+
+**Not re-run:** the reader and the fresh check on their own fixes.

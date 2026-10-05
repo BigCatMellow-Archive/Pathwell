@@ -73,7 +73,7 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 | 10 | the walk home and the tracking working (brothers' POV, the author's, P33); the Ask | a confession ("But you still chose it." / "Yes.") | brothers' banter, procedural, then bare | "She'd been walking for a little over an hour." | "Pathwell didn't correct the route." |
 | 11 | the museum; the quarantine letter | a disaster (Pathwell acts against her no) | wonder, then catastrophe | "The drive took most of what was left of the night." | "Outside the high windows, it was daylight." |
 | 12 | shoulder set; diary given | a gift (the diary) | recovery | "Camp Cunnan was awake enough to notice trouble and asleep enough to resent it." | she watches Camp wake, under Mama Baga's blanket (P37) |
-| 13 | Shade becomes a person at Camp | a choice ("I want to stay here.") | warm, funny | "By full morning, Camp Cunnan had decided Shade was neither an emergency nor an explanation." | "Then the threshold opened." (cliffhanger) |
+| 13 | Shade becomes a person at Camp | a choice ("I want to stay here.") | warm, funny | "By full morning, Elizabeth was still by the central fire when Mama Baga stopped beside Shade…" (P38) | "Then the threshold opened." (cliffhanger) |
 | 14 | the rejoining frame | a forced act (Pathwell releases payment) | dread | "The threshold opened onto the unfinished hand of Hearts." | "And inside it, Milo shouted again." (cliffhanger) |
 | 15 | the fire; Shade walks away | acts (Elizabeth saves Milo; Shade separates the signals) | grief | "Elizabeth reached the archive before the bucket line existed." | "Shade did not either." |
 | 16 | aftermath; restitution terms | people (a hearing, a boundary: "Let it be.") | grief, dry | "The archive roof came down and Camp Cunnan kept moving." | "…for once Pathwell would not be the person deciding what those things were." |
@@ -93,7 +93,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | Motive-list close: "Not because X. Not because Y. Because Z." | 2, 4, 9, 17 (Chapter 12's removed in P4) |
 | "For the first time since…" / "For once…" as a closing turn | 4, 7, 16, 17 |
 | The world goes on "without asking permission" | 4, 16, 18 |
-| Opening on a personified place or group | 6, 11, 12, 13 (and a similar witty verdict in 17) |
+| Opening on a personified place or group | 6, 12 (and a similar witty verdict in 17; 11 and 13 changed in P36/P38) |
 | A drink that "was terrible" | 3, 4, 9, 13, 18 |
 | Milo's falling sock | 4, 12, 13, 14, 15, 16 |
 | "Lizzy—" / "Elizabeth." correction | he hears it in Nana's echo in 1 (R21; the banner reads WELCOME ELIZABETH); first said in 2; corrected in 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
