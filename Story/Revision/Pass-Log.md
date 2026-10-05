@@ -1401,3 +1401,39 @@ Your call:
 2. Stansbury's walkie-talkie explains his arrival without a new line of dialogue.
 3. "Brother" rather than "friend" in Pathwell's order. It's the cheapest fix, and Pathwell knows exactly who he's ordering for.
 4. Ch7's direction is "the way the car was already facing", not a turn someone gives her. That keeps the last line true: nobody tells her where to go.
+
+## P31, 2026-10-04: Chapter 8, line pass and the echo
+
+**Goal:** a line pass on the midpoint crash and Shade's arrival, plus R11's echo. The author's own draft of this material (his "Chapter 7" in the docx) was written for the older story: a "meeting with himself in the future", a flash spell, and "Mr. Shade" blowing her flat and carrying her off. It's the voice source here, as W14 asks, but not the story. Decisions were written down before drafting, and the tenth seat tested them ([report](Tenth-Seat/2026-10-04_Ch8-decisions.md): **YELLOW**). Then came the reader with the causality pass ([report](Reader-Reports/2026-10-04_Ch08.md): no stoppers, four snags, twelve quibbles), and a check against the tenth seat's conditions.
+
+**What changed:**
+
+- **The echo (R11):** "It was the crash that woke her." is its own paragraph. It comes after the engine dies, the dust settles and the hubcap rolls away, and after "Her heart was beating hard enough to make the steering column feel alive under her palms." Placed there, "woke" reads as what it means, not as her being knocked out. Nothing near it points at the echo.
+- **The name:** the opening no longer repeats Ch7's correction beat for beat. Pathwell says "Elizabeth, keep driving." / "He'd gotten her name right. It didn't improve the sentence."
+- **From his draft:**
+  - Pathwell's "Okay. I understand that you might be upset," merged into the existing "extraordinary overreaction", so it stays one joke.
+  - The fence post the car clips, and "how upset the farmer was going to be when he saw it".
+  - Not used: the side mirror torn off by a pole (mirrors already carry weight in Ch6–7).
+- **Stansbury's beat of cost** (Plan row 8): he stands by the wreck with his hand on his ribs and doesn't tell her what to do. She holds out his dagger and he says "Keep it." The narration no longer says how she feels about it.
+- **Staging, from walking the scene and from the reader:**
+  - The farm driveway crosses the ditch on a concrete culvert. That's what the wheel hits, and why Stansbury's axle is "in a drainage culvert" (Ch10).
+  - Stansbury is already belted (Ch7). He checks her seatbelt and tells Pathwell to put his on. The box of foam swords goes over on Pathwell, who comes up with a hand at the back of his neck.
+  - Shade gets out under the dome light at the edge of his headlights. At fifty yards she sees only his height and the face; the coat and hair come once he has walked up to a car's length away.
+  - He no longer looks at a dagger he couldn't see; the dagger is on her, against the seat, as she gets in.
+  - Pathwell asks to come ("Then I'm coming with you."), and Shade refuses ("Not in my car. … Not you."). That answers why nobody takes the empty front seat.
+  - Pathwell, lit by the headlights, steps aside to let the car by. The sedan was facing the wreck, so she sees him through the windshield first.
+- **Line work:** short paragraphs went from 52% to 34%, and the checker's commentary paragraphs from 16 to 4. Cut: "Not finished. / Quiet. / There was a difference.", "That mattered.", "That was worse in a more satisfying way.", "That helped. A little.", "appreciated that against her will", "She appreciated him for it. / She resented that she noticed.", "That should have been satisfying. / It wasn't.", "That almost made the choice feel safer than it was." and the triage's optional "objected to the substitution". "somebody had finally said there were pieces…" was stale (Pathwell had said so in Ch7) and became "the man in the sedan had pieces Pathwell wouldn't give her". Kept because later pages or locks rely on them: "Not compulsion. Awareness.", "late to the decision", "No recognition.", "Wrong.", the hand, "Same ingredients. / Different recipe.", Shade's explanation (Ch9:394 quotes it), "Drive.", "following another man who sounded certain", "Too late to call it an accident."
+- **Records:**
+  - Ledger R2 is paid.
+  - Ledger L8 is marked fixed (Ch9's "where the night had started" was fixed in P10).
+  - W16 logged; Plan row 8 and the status table updated.
+
+**The reviser's leans (R36), for the author to overrule:**
+
+1. **The road reveal stays (W16).** This is the big one. In August he locked a different version. She takes the man for Pathwell after the crash, the brothers don't see her go, and she only recognizes him at the diner when he talks about Pathwell as someone else. The October triage kept the road version under R23. His own draft also has the reveal at the roadside, and it's what Ch9 is built on. Restoring the lock means rebuilding this chapter's second half and Ch9's first half. Under W8 a difference from a lock is his call, so it's put to him.
+2. **The echo goes after her heartbeat on the wheel,** not straight after "Stopped." The tenth seat allowed either; this one reads less like she was knocked out.
+3. **Stansbury lets her keep the dagger.** It's a new gesture, and it's plain: his one beat of cost, and the reason she still has the dagger in Ch9.
+4. **Shade refuses Pathwell a seat: "Not in my car. … Not you."** It's new, and a reader would otherwise ask why Pathwell just doesn't get in. It also fits the draw (his hand keeps opening toward Pathwell).
+5. **Kept despite the reader's quibbles:** the opening line gives away that she crashes (it's the lock's cited line, and the chapter's hook); "The thought made her unexpectedly angry."; Elizabeth's sarcastic "Perfect," (the word passes from Pathwell in Ch1 to her here, then to the ending).
+
+**Next:** Chapter 9. If W16 stands, its front half needs de-duplicating against the road (the tenth seat's note).
