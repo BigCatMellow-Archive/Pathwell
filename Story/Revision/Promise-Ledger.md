@@ -70,8 +70,8 @@ It doesn't restate the chapter contracts. Each chapter's "must establish" items 
 | L4 | The cat's scratch (Boots's "tribute", the love note, "scars are outside my wheelhouse"; P16) | Ch3 | — | Ch18 ("He remembers winning.") | comic | paid |
 | L5 | Celia who hated pears; Margaret Bell's bans (the Ch3 horse incident was cut in P16: Q109 leaves the old debt's origin undefined) | Ch9, Ch11 | — | — | world | open-deliberate (the world exceeds the scene) |
 | L6 | Prague | Ch9 (Shade: "A room in Prague I have never entered.") | Ch14 (Shade: "I don't remember the name.") | — | continuity | **fixed in P10:** Ch14 now has Shade say "I've never been there.", which echoes Ch9's "A room in Prague I have never entered." |
-| L7 | "The prune that went wrong" | Ch7 (Stansbury's words) | Ch8 (Elizabeth quotes it as "the big prune") | — | continuity | **broken** (misquote), unless she's meant to misremember |
-| L8 | Where Pathwell was headed after the bar | — | Ch9 ("she did know where Pathwell had been headed before she wrecked the car") | — | continuity | **broken**: nobody said a destination in Ch7 |
+| L7 | "The prune that went wrong" | Ch7 (Stansbury's words) | Ch8 (Elizabeth quotes it as "the big prune") | — | continuity | fixed: Ch8 now quotes it exactly ("Stansbury said 'the prune that went wrong.'") |
+| L8 | Where Pathwell was headed after the bar | — | Ch9 ("she did know where Pathwell had been headed before she wrecked the car") | — | continuity | **broken**: nobody said a destination in Ch7. Fix in the Ch8–9 pass (Plan) |
 | L9 | "DONOR PERMISSION REQUIRED. PATHWELL IS NOT DONOR." | Ch12 | — | — | comic / flaw | open; never tested, which is fine |
 | L10 | The shopkeeper's errand card; the French technique paperback | Coda | — | — | hook | **unpaid** inside the book; retired with the Coda ([Decisions](Decisions.md#the-bible-interview-locks-the-manuscript-doesnt-yet-follow)) |
 | L11 | Thumper's six-toed paw print (the author's July Ch2) | Ch12 (in the diary she gives; restored in P14) | — | Ch15 (the diary burns) | object / grief | open-deliberate; a small life inside the diary, nothing requires it to return |

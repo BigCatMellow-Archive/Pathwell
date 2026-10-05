@@ -1326,3 +1326,41 @@ Your call:
 
 1. The mint thud's "a hair before his hand did". Keep it, or make the thud plainly innocent?
 2. The bartender remembers Pathwell from seventeen years ago, but in Ch5 Pathwell asks "What are we doing here?" Fine as Pathwell not knowing where Stansbury was taking them?
+
+## P29, 2026-10-04: Chapter 7, line pass
+
+**Goal:** This is a line pass, not a rebuild. Chapter 7 is the locked blob fight (R0 §7: the blob goes for Pathwell, Elizabeth cuts him out with the dagger, Stansbury burns it), and the triage found nothing to fix in it. The author's own drafts of this fight come from the older architecture, where the blob takes Elizabeth. One exchange from them still fits. Because it's line work and not a rebuild, there was no tenth seat (D21's triggers didn't fire). The reader ([report](Reader-Reports/2026-10-04_Ch07.md)) and a fresh check did run. Per R36, the reviser's leans are applied and listed below, without stopping to ask.
+
+**What changed:**
+
+- **From his draft:** Pathwell "went for his coat, patted it, and came up with nothing." / "You mean to tell me you brought zero books with you!?" / "Yes! It slipped my mind! Would you please focus!?" Now there's a cause for his helplessness: Ch5's portal used his pages, and the books went to Camp.
+- **"The mirror" (the triage gap):** Stansbury, who had seen him go to the back hall (Ch6's new plant), says "The back hall"; Pathwell says "The mirror." "Not here." is Pathwell's again, so "You said that inside." is true.
+- **Fight staging, after the reader's stopper:**
+  - Pathwell stops "halfway across the lot".
+  - The blob rises at the far side of the Cadillac (Ch6's thud) and "crossed the lot toward him".
+  - Stansbury yanks open the back door for the box.
+  - Elizabeth plants her feet rather than a foot on the tire.
+  - Stansbury is "a few yards off".
+  - The light is "the last of the red light" and the ground is dirt (Ch5: "kicked-dust"), with no "pavement", "asphalt" or "parking-lot light".
+  - "Let's get off the road first" becomes "Let's get away from here first".
+- **Trimmed:**
+  - "Elizabeth accepted that because lately she had developed an appreciation for people who knew where their answers ended." (the Plan's third telling)
+  - "Not burned away. / Unmade, at least here."
+  - "There it was."
+  - "Not resolution. Not victory. Just the first time…"
+  - "That should have helped. It didn't."
+  - "years passed between them in about half a second"
+  - two of three "worse"es
+  - "Pathwell swallowed" (next to the blob "swallowing" him)
+  - "Not reassurance. Correction." became "like a correction"
+- **Her speech:** "Important enough to carry your books" became "Important enough to follow your cart through the woods" (she never carried them).
+- **Prose:** narration contracted, and fragment paragraphs merged where they were only rhythm. The fight keeps its short beats.
+- **Ch4:** its closing "For the first time since the apartment, Elizabeth walked away from it on purpose." became "…stayed on the shelf, and Elizabeth didn't go back for it." Ch7's last line is now the only "For the first time since the apartment".
+- **Ledger:** L7 marked fixed (Ch8 quotes "the prune that went wrong" exactly). L8 (Ch9's "where Pathwell had been headed") goes to the Ch8–9 pass.
+
+**The reviser's leans (R36), for the author to overrule:**
+
+1. **"Whose decision was that?"** and **the last line**, "For the first time since the apartment, nobody was telling Elizabeth where to go.", both stay. They're the chapter's turn, and they set up Ch8's crash.
+2. **The "Important enough…" speech stays.** The reader found it more built than her usual snapping voice, but it's her one speech and the book's turn into her agency.
+3. **"Not me." / "No."** stays (the triage kept it). The reader noted it spends some of Ch9's "theory dying"; that's for the Ch9 pass.
+4. **Ch8's "Lizzy—"**, five lines after Ch7's correction, goes to the Ch8 pass.
