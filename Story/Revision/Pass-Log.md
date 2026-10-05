@@ -1728,3 +1728,84 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 | Light Sunday touch | checked: none missing in Ch1–10 |
 
 **The routine for earlier chapters.** The readers rebuilt it from the log. Ch1–5 never recorded step 4 (scene diagnostic) or step 7 (replacement-tic count) before this pass, and Ch5 never recorded step 1. Those passes came before D23, so it's a missing record rather than a broken rule. This pass has now run all three for Ch1–10.
+
+## P36, 2026-10-05: Chapter 11, the museum
+
+**Goal:** a line pass on the museum, in the author's voice where his draft gives one. His museum draft was written for the older story: Shade hearing "the narrator", a lock-picking entrance and a jump scare, a fight with exploding sheets, and Stansbury healing Pathwell with a soldier's poem. The decisions were written down first, and the tenth seat ran on them ([report](Tenth-Seat/2026-10-05_Ch11-decisions.md): **ORANGE**). Its trigger was the triage's "Chapter 11 needs nothing", accepted with no findings and sending nothing to the author. Then the reader ran with all three passes, including the tone and rules check ([report](Reader-Reports/2026-10-05_Ch11_reader.md): one stopper, eight snags, sixteen quibbles), and the fresh check ran against the previous version ([report](Reader-Reports/2026-10-05_Ch11_fresh.md)). Their fixes are applied.
+
+**What changed, from the diff** (Ch11 rewritten in place, from 3,831 words to about 3,750; Ch10 −8 lines):
+
+- **The road accusation, restored** (C3 §3, LOCKED B; W18), in the lot: "You left the crash with her." / "Yes." / "You took her from me." / "She wasn't yours to take from." The 08-28 rewrite had dropped it. The triage kept it out because "no later chapter uses them", but three later locks cite this scene.
+- **The author's lines:**
+  - **Parking.** Stansbury drives past the disabled spaces: "Well, I don't want to get towed for parking in a blue spot. What if someone comes along and needs it?" / "Are you serious?" / "Look, just because we're trying to find a bad guy doesn't mean we need to be one." This replaces "I have suffered one vehicular loss tonight", the car-loss joke's fourth use.
+  - **The lobby.** "The museum was dim, the sparse glow of… lights cutting corners off the shadows… a cannon, flanked by two soldiers, one in dark blue and the other in gray: two brothers split by land and by ideology… photographs of still-framed ghosts, letters home."
+  - **The graffiti house, given to Pathwell:** "Civil War soldiers would come through and leave graffiti. Draw something silly. They were messages home, or attempts to be remembered as something beyond literal cannon fodder. These were men and boys looking for a chance not to be lost to time."
+  - **His soldier's poem, inverted.** It's planted on the tour: a man wondering if he'll ever again know the smell of lilac on his wife. In the aftermath, Stansbury looks at it and goes for the first-aid box instead. Spending a fourth record after three were destroyed would undercut "That is not the same as fixing it."
+- **The stopper (reader).** The Vale letters, the household notebook and the medical ledger were shown in the front rooms, but the blast that destroys them is in the far gallery. They're now its side cases ("the museum's best things kept close to its oldest one"). The tour through the rooms keeps the poem and the floorboard.
+- **Causality:**
+  - **The clock.** "The drive took most of what was left of the night." Ch10 ends around one in the morning; the museum is pre-dawn gray; that's unconfirmed, a reading of the text.
+  - **The letter.** Pathwell had no pages after Ch7. Now Stansbury: "That's from my library. You took that while I was upstairs."
+  - **Her hand.** "her good hand" → "her hand" (she isn't hurt by the case yet).
+  - **Staging.** Elizabeth is "a step from the plane's edge", and "the nearest case" hits her.
+  - **His ribs.** Pathwell has "one arm across his ribs", and the cold pack goes to his ribs, because Ch14 relies on his rib pain.
+  - **The dagger.** It's seen at the back of her waistband in the lot (ledger O4).
+  - **The healer.** Stansbury: "Find the healer before you do anything else." She goes through hurt and alone, and Ch12 has the healer.
+- **Plan row 11:**
+  - Cut: "good hand", the "Three adults" exchange, the narrator's "because she had chosen Camp and the route belonged to that choice", and "The sentence changed the room. / Not magically. / More effectively."
+  - Kept: her three spoken "Camp"s.
+- **Ch10.** "Pathwell likes museums." / "Museums like me." / "They do not." is cut. It's the same shape as Ch11's "I support the arts." exchange, which is the better one.
+- **Line work (tone and rules):**
+  - **Glosses and flourishes cut:**
+    - "left it behind with excellent signage", "three fonts", "calling the ocean damp", "the proportions of an unsuccessful dog"
+    - "That was irritatingly good."
+    - the narrator's verdicts on Pathwell ("as though seeing the difference between a plan and its consequences…"; "among the consequences of protecting her after she told him not to")
+    - "Possibly because Stansbury's tone had finally discovered a frequency…"
+    - "Which was worse."
+    - "No softening. / No correction."
+    - the "Not X. / Y." runs in the blast, which become one contrast: "a quartermaster's rather than a battlefield's"
+  - **Repetition cut:** about twelve look beats and two draw-hand beats; the second "Three times."; "I support this policy." (the same shape as "I support the arts."); "Shade kept walking."; "I'm standing right here" (her speech has "I'm standing here"); the second "Yes." after "The information."
+  - "A porch in summer" (Ch10's letter) becomes "A kitchen door in summer".
+  - The last line is plain: "Outside the high windows, it was daylight."
+  - The checker counts no commentary paragraphs (11 before); short paragraphs are down from 48% to about 32%.
+- **Records:** W18; ledger O4; Registry row 11; Plan row 11; the status table.
+
+**The routine (D23):**
+
+| Step | P36 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader, item 1: holds; no light touch needed) |
+| 2 Shapes in the Registry | done (row 11 updated) |
+| 3 Checker | done |
+| 4 Scene diagnostic | done (reader, item 2) |
+| 5 Fresh check | done |
+| 6 Reader protocol, with the tone and rules check | done |
+| 7 Replacement tic | done (reader and fresh check: ", and" joins and colon lists rose. The worst joins in the blast are split; the rest go to the next fresh check) |
+| 8 Deliberate ambiguity | left alone |
+| 9 Change notes from the diff | done (above) |
+| Tenth seat | done (ORANGE; answered by W18 and the author questions below) |
+| Light Sunday touch | checked; none needed (the tour is the chapter's quiet stretch) |
+
+**Not re-run:** the reader and the fresh check on the fixes themselves. The fixes are the readers' own suggestions, plus the gallery move.
+
+**Carried to later passes:**
+
+- Ch14 says "I can hold it" where Ch11 says "I can contain this".
+- Ch12 has Shade say "All right.", the word Pathwell broke here.
+- The shared deadpan across Pathwell, Stansbury and Shade is still flagged book-wide.
+
+**The reviser's leans (R36), for the author to overrule:**
+
+1. **The museum staging stays as written (W18).** Shade waits by his car, he slips and grabs her arm, and "I don't need to be rescued" answers an argument. His August refinements had Shade wandering inside, a small open-handed step, and Pathwell's body-block.
+2. **The road accusation is back.**
+3. **The graffiti-house speech is Pathwell's.** In his draft it's Shade's, but here Shade isn't the one pitching her.
+4. **The cannon points at the gift shop** (six places use the joke), not the front door as in his draft.
+5. **The poem is planted and then left on the wall.**
+6. **"For the record, I hate you both." is not used.** "Both" would blame Shade for a blast that's Pathwell's.
+
+**New lines that aren't his (plain, flagged):**
+
+- "That's from my library. You took that while I was upstairs."
+- "Find the healer before you do anything else."
+- "Side cases stood around the gallery, the museum's best things kept close to its oldest one."
+- Stansbury looking at the poem.
+- "a quartermaster's rather than a battlefield's".
