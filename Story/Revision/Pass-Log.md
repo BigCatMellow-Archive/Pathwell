@@ -1523,3 +1523,85 @@ Your call:
 2. **The estate letter stays, not the lovesick kid's.** The kid's letter would break Stansbury's "copy before I buy", which Ch11 and Ch17 pay off. His school still shows up, in the children's stories.
 3. **His walk-home banter is kept nearly whole,** even though it runs past the tenth seat's length. Dropped from it: the gate that knocks Stansbury over, the fridge raid (chicken thigh, pasta salad), the kicking match in the booth and the drunk line.
 4. **The slaps stay.** They're his, and they show two very old brothers being children with each other.
+
+## P34, 2026-10-05: the after-pass routine, caught up for Chapters 8–10
+
+**Why:** The author asked: "Just to be sure, you're following all the protocols that have been built including the Sunday stories". Not all of them were being followed. P31–P33 ran the decisions, the tenth seat, the reader with the causality pass, the checker, and the records. They skipped steps 1 (Sunday Morning tone guardrails), 4 (scene diagnostic), 5 (fresh check), 7 (replacement tic) and 9 (change notes from the diff), and the light Sunday touch R24 asks for. A pass that didn't write the text ran those steps on all three chapters, against the primary records ([report](Reader-Reports/2026-10-05_Ch08-10_fresh-check.md)). It found real problems in each. New standing rule: Sunday D23 / Pipeline step 10, under which every pass reports the routine step by step.
+
+**What the fresh check found:**
+
+- **Replacement habits.** The "Not X. / Y." fragments were gone, but other habits had grown in their place:
+  - people pointedly *not* doing things (17 uses);
+  - jaw, stomach and "went still" gestures (24);
+  - objects acting like people (11);
+  - a spoken "Good." shared by four characters (8).
+- **Closing lines.** Chapters 8 and 9 had about one polished closing line every hundred words.
+- **Chapter 8's ending.** It was the only one with weight and nothing warm after it.
+- **Told twice.** The diner told "never the point" twice: the narrator's "a theory dying…" came first and did Shade's line's job. The Ask said its central point about four times.
+
+**Changes, from the diff** (Ch8 +10/−12 lines, Ch9 +16/−18, Ch10 +5/−21):
+
+- **Chapter 8:**
+  - **The ending.** "Her stomach tightened." is cut. Light Sunday touch, flagged: "Beside the Cadillac, Stansbury, one hand still on his ribs, raised the other. Elizabeth raised hers." It's the warm beat before the hard close, and it sets up Ch10's lifted hand from the wheel.
+  - **Narrator conceits cut:**
+    - "The rest of the Cadillac objected."
+    - "His hair had finally achieved something he couldn't defend."
+    - "where his hubcap had died" (now "where the hubcap lay")
+    - "as if it had answered a question he hadn't wanted asked out loud" (Ch9's wrist line keeps that image)
+    - "as if it had personally chosen to become relevant"
+    - "Pathwell's coat moved like punctuation…"
+  - **Smaller fixes:**
+    - "That's fair." → "Fair." (as R28 ruled for the same line in Ch2)
+    - "That is a terrible start." → "That's…"
+    - Elizabeth's "Good." after "I'm getting coffee." cut
+    - "gotten behind her" → "gotten down the road" (Pathwell was standing next to her)
+- **Chapter 9:**
+  - **The reveal.** "Something small and embarrassing came loose… a flattering explanation." is cut, so "You were never the point." is the first time the verdict is said. The concrete line the lock wants back (refinements §13) is restored: "pulling her into the hallway because he'd already decided the danger belonged to her".
+  - **Shade's script.** "And if he says he doesn't?" / "Then ask what he decided he was allowed to do." is cut. It scripted Elizabeth's own step in the Ask (§15). "Ask him what he chose." stays (ledger P5).
+  - **Repeated "pieces".** The second telling ("I know what he knew in places. I remember what he remembered in pieces.") is cut.
+  - **Narrator glosses cut:**
+    - "The gesture was Pathwell's. The restraint around it wasn't."
+    - "Not Pathwell done badly, or Pathwell in another coat."
+    - "and Elizabeth believed that too"
+    - "That was what made it hard."
+    - "That one she understood more than she wanted to."
+    - "Nobody had sent her, and nobody had called her back."
+  - **Hand beats.** Two of six are cut. The peak at the table and the closing image stay.
+  - **Coffee props.** The mug, cat and "Just in time" are cut here; Ch10 gives them from Pathwell's side.
+  - **Smaller fixes:** Elizabeth's "Good. Keep remembering that." loses the "Good."; the dagger lies "beside her", since the coat is on her.
+  - **Light Sunday touch, flagged:** after Shade pays, "Elizabeth took the last triangle of toast off his plate. Shade let her." It shows the thaw without a sentence about it.
+- **Chapter 10:**
+  - **The Ask.**
+    - Cut: "For them." / "Without asking them." (466 had already said it, and the run of "Yes." was using up the final one); the narrator's "He had spent himself, and somehow he'd turned that into permission."; the third telling of "Shade remembers pieces of you. / Old pieces."
+    - **Pushed back on one cut.** The fresh check also wanted "a thing in his hand" and "The blobs keep confusing the two of you" gone. They stay: C4 §1a puts the draw in the Ask, and the triage kept Elizabeth's restatement as the version of it the chapter has.
+  - **Camp.** Her abstract motive ("I want somewhere this isn't just…") becomes a remembered one, which is what Continued 10 asks for. New and flagged: "Mama Baga didn't ask me anything I didn't want to tell her." (from Ch4, where Mama Baga didn't ask about the coat or the apartment).
+  - **Smaller fixes:** the shoe "started to rub" (it was personified twice); the peas are on his neck in the van; "That is not what I asked." → "That's…".
+- **Ledger:** L2's note about the diner phone is updated (the phone has been gone since P32).
+
+**The routine for P31–P34, step by step (D23):**
+
+| Step | P31 (Ch8) | P32 (Ch9) | P33 (Ch10) | Now (P34) |
+| --- | --- | --- | --- | --- |
+| 1 Sunday tone guardrails | skipped | skipped | skipped | done (all three) |
+| 2 Shapes in the Registry | partly (Ch8 row not updated) | done | done | Ch8 row checked: its opening and ending lines still hold |
+| 3 Checker | done | done | done | done |
+| 4 Scene diagnostic | skipped | skipped | skipped | done (fresh check §§8.2, 9.2, 10.2) |
+| 5 Fresh check | skipped | skipped | skipped | done |
+| 6 Reader protocol (causality) | done | done | done | n/a (P34 is cuts plus three plain lines) |
+| 7 Replacement tic | skipped | skipped | skipped | done; fixed in part (see below) |
+| 8 Deliberate ambiguity left alone | done | done | done | done |
+| 9 Change notes from the diff | from intention | from intention | from intention | from the diff (above) |
+| Tenth seat | done (YELLOW) | not triggered | done (YELLOW) | not triggered (cuts) |
+| Light Sunday touch (R24) | skipped | skipped | skipped | done: Ch8 the raised hands, Ch9 the toast; Ch10 needed none |
+
+**Still open:**
+
+- The shared "That is…" / "Do not…" deadpan, used by Elizabeth, Pathwell and Stansbury alike, is only partly fixed.
+- The "Elizabeth looked at X" rate is 5–9 per 1,000 words, against about 2 in the author's own pages.
+- Both are book-wide habits. They belong to the reference-pages pass and the remaining chapter passes, not a patch here.
+
+**For the author:**
+
+1. **The diner's sign.** His draft says "DINNER 24/7", and the narrator-register page quotes it. The manuscript says DINER. Was the misspelling deliberate?
+2. **Who says "Camp" first.** In Ch10, Pathwell says "Camp" first (his deferral) before she chooses it. The lock says Elizabeth says it first. That's the text from before this pass, and the triage kept it.
+3. **The three plain new lines are leans:** the raised hands, the toast, and Mama Baga not asking.

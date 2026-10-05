@@ -65,7 +65,7 @@ It doesn't restate the chapter contracts. Each chapter's "must establish" items 
 | # | Promise | Set up | Triggered | Pays off | Kind | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | L1 | The nine o'clock meeting | Ch1 (planted, P15), Ch2 (twice) | Ch4 ("still at nine"), Ch5 ("had come and gone while she sat in a field", P25) | Ch12 ("missing meetings", in the diary), Ch17 ("She went back to work.") | ordinary life | **thin**. Set up five times, then dropped at the cut into Ch5. [Ruling H1](Decisions.md#the-bible-interview-locks-the-manuscript-follows) says her logistics needn't close neatly, but the meeting is her strongest early want, so its passing wants one line |
-| L2 | Elizabeth's mother ("My mom used to say that.") | Ch6 | — | — | character | open-deliberate is defensible; the cold reader asked why she isn't someone to call from the diner phone (Ch9) |
+| L2 | Elizabeth's mother ("My mom used to say that.") | Ch6 | — | — | character | open-deliberate is defensible; the cold reader asked why she isn't someone to call from the diner phone (Ch9); the phone is gone since P32 (she has no money), which takes the question with it |
 | L3 | The police | Ch2 | — | — | ordinary life | open-deliberate (ruling H1) |
 | L4 | The cat's scratch (Boots's "tribute", the love note, "scars are outside my wheelhouse"; P16) | Ch3 | — | Ch18 ("He remembers winning.") | comic | paid |
 | L5 | Celia who hated pears; Margaret Bell's bans (the Ch3 horse incident was cut in P16: Q109 leaves the old debt's origin undefined) | Ch9, Ch11 | — | — | world | open-deliberate (the world exceeds the scene) |

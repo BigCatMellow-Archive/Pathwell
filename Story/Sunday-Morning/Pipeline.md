@@ -206,6 +206,7 @@ Every drafting or revision pass ends with this routine, not only at L4. Prioriti
    In the first collection, the working rule that settled it: keep one silence per story, at its peak, and cut narration that restates a moment.
 8. **Leave deliberate ambiguity alone.** Some gaps are [decisions](Decisions.md).
 9. **Write change notes from the diff,** not from intention, in the story page's **Stage 3 — DO** section. A collection-wide pass also gets one row in the collection's own pass log (its `History.md`).
+10. **Report the routine itself (D23).** Every pass record and every report to the author lists steps 1–9, plus the tenth seat and the light Sunday touch, each marked *done*, *skipped (why)* or *not applicable*. A skipped step is said out loud, not left out. On the Pathwell revision, three passes in a row (P31–P33) quietly skipped steps 1, 4, 5, 7 and 9. When the author asked, the catch-up fresh check found real problems in all three chapters.
 
 ### The tenth seat (narrow, D21)
 
