@@ -1437,3 +1437,44 @@ Your call:
 5. **Kept despite the reader's quibbles:** the opening line gives away that she crashes (it's the lock's cited line, and the chapter's hook); "The thought made her unexpectedly angry."; Elizabeth's sarcastic "Perfect," (the word passes from Pathwell in Ch1 to her here, then to the ending).
 
 **Next:** Chapter 9. If W16 stands, its front half needs de-duplicating against the road (the tenth seat's note).
+
+## P32, 2026-10-04: Chapter 9, the diner
+
+**Goal:** a line pass on the drive and the diner. The author said "Go for it" after P31 without overruling W16. So the road reveal stands, and this pass takes the tenth seat's note: the front half of Ch9 shouldn't re-tell the road. His own draft of the diner chapter is in the older story: Shade calls her "Lizzy" and orders her breakfast, reads her mind, explains the salt and pepper shakers and the "observer", and wolves come out of the dark. It was used for voice and small things, not story (W14). No tenth seat: as in P29, none of D21's triggers fired. The reader ran with the causality pass ([report](Reader-Reports/2026-10-04_Ch09.md)): no stoppers, six snags and fourteen quibbles. Its fixes are applied.
+
+**What changed:**
+
+- **No longer re-told from the road (Ch8):**
+  - Shade's "it only tells me which way" exchange.
+  - The resemblance paragraph (habits, head tilt, empty space; Ch8 already did this).
+  - "You know pieces. / Of Pathwell. / But not now." (the diner now opens with "You don't know me." / "I met you on the road twenty-five minutes ago.").
+  - The "old versions of his excuses" back-and-forth. The draw beat now comes in through "You drove toward him because your hand told you to." / "I drove because it wouldn't stop."
+  - Kept: the hand opening and the quiet "No" (C4 §1b), "He used to," and the list of nouns.
+- **From his draft:**
+  - The old song on the radio, her humming giving her away, Shade tapping the wheel and singing under his breath until he loses the words.
+  - "You don't have to sit back there."
+  - The waitress (blue-and-white uniform, wild hair under a little white cap) looking at her Camp clothes and deciding not to ask.
+  - The coffee: grounds "used once already", her face not hiding it, the waitress unsurprised.
+  - Her order: cheesy grits with extra pepper, two eggs sunny side up. She still orders it herself (C4 §3).
+  - The bacon she chews and chews, and that's exactly how she'd have made it.
+  - "I assume you're paying for this." / "All I have to my name right now is my diary and a foam dagger."
+- **Causality:**
+  - **Money.** She has had no wallet since Ch2, so she can't pay at the register. Shade pays for both, and the pay-phone beat goes with it (no coins). "She did know where the night had started." (ledger L8) moves outside under the sign.
+  - **The receipt.** The waitress writes the directions on the back in blocky capitals and underlines the second left after the water tower twice, which is what Ch10 says. Before, Elizabeth wrote them herself.
+  - **The coffee.** Ch9 no longer recalls the Space Between coffee. Ch10 makes that recall on the road, where the tracking spell catches it, so it isn't spent twice.
+  - **"Never the point."** Shade can only conclude this because she now tells him the blob came "while he was standing in my living room".
+  - **The clock.** The crash was after dark and the diner less than an hour later, so outside it's "still full night". Ch10 opens with one clause: "She had been walking for most of the night."
+  - **Mirrors.** "the way Pathwell did" is cut: she has never seen him drive.
+- **Line work:**
+  - Commentary paragraphs went from 19 to 3, and short paragraphs from 47% to 36%.
+  - Cut: "Agency, apparently, was not a staircase…" (Plan), "That saved it. / Barely.", "There it was." (twice), "Of course.", "Good." as narration, "Ordinary information. / Again.", "almost enough to make him sympathetic", "Not because Shade had sent her. / Not because Pathwell had called her back."
+  - The end is now "Nobody had sent her, and nobody had called her back. She had a question now, and this time she intended to make him answer it."
+
+**The reviser's leans (R36), for the author to overrule:**
+
+1. **W16 stands** on his "Go for it", so Ch9 is built on the road reveal. If he wants the August version after all, Ch8's second half and this chapter's first half are the rebuild.
+2. **Shade pays for both breakfasts.** She has no money, and it's his own line ("I assume you're paying for this"). No thank-you exchange; the cut test took "I'll pay you back."
+3. **The Space Between coffee recall is left to Ch10.** In Ch9 the coffee is just terrible and still settles her shoulders.
+4. **Kept despite the reader's quibbles:** "twenty-five minutes" twice (it's Shade's running joke, and she calls it); the "Good." / "Fair." rhythm in Shade's dialogue (it's his voice).
+
+**For the Ch10 pass:** after a night of walking, "Her mouth still tasted like coffee." and "another hundred yards" need checking against the new clock.
