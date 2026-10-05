@@ -1364,3 +1364,5 @@ Your call:
 2. **The "Important enough…" speech stays.** The reader found it more built than her usual snapping voice, but it's her one speech and the book's turn into her agency.
 3. **"Not me." / "No."** stays (the triage kept it). The reader noted it spends some of Ch9's "theory dying"; that's for the Ch9 pass.
 4. **Ch8's "Lizzy—"**, five lines after Ch7's correction, goes to the Ch8 pass.
+
+- **Follow-up to P28 (2026-10-04).** The author: "I noticed in the bar scene that stansbury smiled into his beer before he got it." Fixed: "Stansbury smiled down at the bar." The reader and the fresh check both missed it. The reader protocol's staging questions now ask "Is anything used before it arrives?", and the author's note is in Line notes §1.

@@ -43,7 +43,7 @@ The checks already in place are audits: they compare a text against a list. This
 
 These are prompts for noticing, not a form to fill in. Ask whichever ones the page raises.
 
-1. **Space and staging.** Where is everyone, and how far apart are they? What is each person holding? Could she see or hear that from where she is? How did that thing get there, or get lost? Does the physical cause work at that distance and speed?
+1. **Space and staging.** Where is everyone, and how far apart are they? What is each person holding? Could she see or hear that from where she is? How did that thing get there, or get lost? Is anything used before it arrives (a drink sipped before it's poured, a tool swung before it's picked up)? Does the physical cause work at that distance and speed?
 2. **Time and light.** What time is it, and how much time has passed? Is it still the same night? Do the light, the weather and the season fit? Could she see that colour in the dark?
 3. **Cause.** Why did this happen now? Would it physically work? Is a coincidence getting someone out of trouble?
 4. **Goals.** What does each character want in this scene? Why doesn't she just do the obvious thing? (the idiot-plot test) Would this person really do or say this?
