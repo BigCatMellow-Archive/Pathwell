@@ -1366,3 +1366,38 @@ Your call:
 4. **Ch8's "Lizzy—"**, five lines after Ch7's correction, goes to the Ch8 pass.
 
 - **Follow-up to P28 (2026-10-04).** The author: "I noticed in the bar scene that stansbury smiled into his beer before he got it." Fixed: "Stansbury smiled down at the bar." The reader and the fresh check both missed it. The reader protocol's staging questions now ask "Is anything used before it arrives?", and the author's note is in Line notes §1.
+
+## P30, 2026-10-04: Causality pass, Chapters 1–7 (calibration and fixes)
+
+**Goal:** The author suggested turning the "used before it arrives" question into a fuller causality check. D22 added the causality pass to the reader protocol (commit 31c0d7b). This run tests it on Ch1–7, using Ch6 as it stood before the beer fix. **It caught the beer** as a snag, along with other gaps the earlier passes had missed. [Report](Reader-Reports/2026-10-04_Ch01-07_causality.md).
+
+**Fixed (smallest fix each):**
+
+- **Ch1:**
+  - "She'd thought he'd left with the rest." (why a man is still in her living room after the party)
+  - "she heard tape rip in the kitchen before he came back with the book in hand" (how he found the cookbook in a box)
+- **Ch4:** The turnip boy says "Pathwell said bring these to you," to Mama Baga. That's why he has the books.
+- **Ch5:**
+  - Stansbury arrives "a walkie-talkie still in one hand". He answered Ken's radio call, which explains how he knew where they were.
+  - "Her sleeves were still damp from the tree." The sword soaked them, and the soaking now carries over.
+- **Ch6:** "for my brother here and I". The second beer is now plainly Stansbury's.
+- **Ch7:**
+  - "She shoved the keys into her coat pocket" before the dagger.
+  - Pins and needles return to her numb fingers before she has to drive.
+  - Stansbury collects "the foam sword and the baton".
+  - She pulls out "the way the car was already facing", since nobody tells her where to go.
+
+**Left alone, as by design or locked:**
+
+- Ch2: the books leaving under her nose (Q118/R28).
+- Ch2: the spoon as "the only thing she'd bothered to unpack" (O5).
+- Ch2: the coins left on the table.
+- Ch4: no transit from the Space Between to the road (R31 cut it there).
+- Ch4: Mama Baga knowing the order of events. Pathwell told her off the page, and "Word had gotten there" covers it.
+
+**The reviser's leans (R36), for the author to overrule:**
+
+1. The Ch5 soaking stays, now carried over by one line, and isn't cut. It's the swords' first demonstration, and it's funny.
+2. Stansbury's walkie-talkie explains his arrival without a new line of dialogue.
+3. "Brother" rather than "friend" in Pathwell's order. It's the cheapest fix, and Pathwell knows exactly who he's ordering for.
+4. Ch7's direction is "the way the car was already facing", not a turn someone gives her. That keeps the last line true: nobody tells her where to go.
