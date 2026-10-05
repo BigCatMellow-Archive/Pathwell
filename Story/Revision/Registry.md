@@ -72,7 +72,7 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 | 9 | the diner | a conversation (Shade: "You were never the point") | quiet, sharp | "The radio glowed blue through the dark." | she walks back ("She had a question now, and this time she intended to make him answer it.") |
 | 10 | the walk home and the tracking working (brothers' POV, the author's, P33); the Ask | a confession ("But you still chose it." / "Yes.") | brothers' banter, procedural, then bare | "She'd been walking for a little over an hour." | "Pathwell didn't correct the route." |
 | 11 | the museum; the quarantine letter | a disaster (Pathwell acts against her no) | wonder, then catastrophe | "The drive took most of what was left of the night." | "Outside the high windows, it was daylight." |
-| 12 | shoulder set; diary given | a gift (the diary) | recovery | "Camp Cunnan was awake enough to notice trouble and asleep enough to resent it." | "For the first time since the museum…" then she watches Camp wake |
+| 12 | shoulder set; diary given | a gift (the diary) | recovery | "Camp Cunnan was awake enough to notice trouble and asleep enough to resent it." | she watches Camp wake, under Mama Baga's blanket (P37) |
 | 13 | Shade becomes a person at Camp | a choice ("I want to stay here.") | warm, funny | "By full morning, Camp Cunnan had decided Shade was neither an emergency nor an explanation." | "Then the threshold opened." (cliffhanger) |
 | 14 | the rejoining frame | a forced act (Pathwell releases payment) | dread | "The threshold opened onto the unfinished hand of Hearts." | "And inside it, Milo shouted again." (cliffhanger) |
 | 15 | the fire; Shade walks away | acts (Elizabeth saves Milo; Shade separates the signals) | grief | "Elizabeth reached the archive before the bucket line existed." | "Shade did not either." |
@@ -91,10 +91,10 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | --- | --- |
 | Elizabeth follows Pathwell as the chapter's last beat | 1, 2, 3, 4, 5; paid off deliberately in 8 ("following another man who sounded certain") and inverted in 18 |
 | Motive-list close: "Not because X. Not because Y. Because Z." | 2, 4, 9, 17 (Chapter 12's removed in P4) |
-| "For the first time since…" / "For once…" as a closing turn | 4, 7, 12, 16, 17 |
+| "For the first time since…" / "For once…" as a closing turn | 4, 7, 16, 17 |
 | The world goes on "without asking permission" | 4, 16, 18 |
 | Opening on a personified place or group | 6, 11, 12, 13 (and a similar witty verdict in 17) |
-| A drink that "was terrible" | 3, 4, 9, 12, 13, 18 |
+| A drink that "was terrible" | 3, 4, 9, 13, 18 |
 | Milo's falling sock | 4, 12, 13, 14, 15, 16 |
 | "Lizzy—" / "Elizabeth." correction | he hears it in Nana's echo in 1 (R21; the banner reads WELCOME ELIZABETH); first said in 2; corrected in 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
 | The Space Between coffee memory recited ("late nights spent studying") | 3, 9, 10, 13, 18 |
@@ -113,7 +113,7 @@ A joke's *construction* repeats even when its words don't. The words can differ 
 | --- | --- |
 | Narrator's "as if / as though X were…" conceit ("breathed as though breathing were the only task she had agreed to perform") | 2, 4 (×2), 6, 7, 9, 12 (×2); the checker's count also catches plainer uses (1, 2, 3) |
 | "…nodded as though X were Y" (a reaction read as a category or verdict) | 6 ("as though this were enough information"), 12 (×2, "a medically useful category", "a recognized injury category") |
-| "X is a category" (injuries, museums, Pathwell) | 12 (×3) |
+| "X is a category" (injuries, museums, Pathwell) | 12 (×2, since P37) |
 | Objects and places given human verbs in narration (a sock "surrendered", a fiddle "rejected" notes, a realization "arrived", body parts "deciding"). Some of this is the narrator's sanctioned attitude ("as if it had personally disappointed him", [register guide](../Story_Files/pathwell_narrator_register.md#the-grammar-of-narrator-attitude)); density is the concern | throughout; body parts are counted as a [watch pattern](#watch-patterns), the rest by reading. "One sock had surrendered halfway down his calf" is word for word in both 4 and 12 |
 | Formal phrasing used as a punchline in dialogue ("Efficient system." "Diversifying." "Strong sales pitch." "Important distinction.") | throughout, across most of the cast; see the [character bible's humour sources](../Story_Files/character_bible.md#where-each-characters-humour-comes-from) |
 | Two-part antithesis as a scene's last word ("The diary belonged to Camp now. The life in its pages was still hers.") | throughout; count by reading; usually no more than one per scene |

@@ -1809,3 +1809,74 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 - "Side cases stood around the gallery, the museum's best things kept close to its oldest one."
 - Stansbury looking at the poem.
 - "a quartermaster's rather than a battlefield's".
+
+## P37, 2026-10-05: Chapter 12, Camp and the diary
+
+**Goal:** a line pass. The author's working draft stops at the museum, so nothing in this chapter is his. Every line is the August text as P4 revised it, and that makes item 6 (who wrote what) the whole chapter. The reader ran with all three passes ([report](Reader-Reports/2026-10-05_Ch12_reader.md): no stoppers, seven snags, seventeen quibbles). The fresh check ran against the previous version ([report](Reader-Reports/2026-10-05_Ch12_fresh.md)) and found no misattribution in the merged beats; one slip was caught by me first. Their fixes are applied.
+
+**What changed, from the diff** (Ch12 2,440 → about 2,250 words):
+
+- **Tone (R24, Craft rule 4).**
+  - Cut: a stranger "put a piece of bread beside Elizabeth without breaking off her conversation", the kind of offstage kindness the author cut in Ch2.
+  - Shown instead, from a person the story follows: "Mama Baga came out with a blanket and left it folded beside Elizabeth without a word." The last line now says "Mama Baga's blanket" rather than reporting it. That also pays ledger R17 (her care, shown in ordinary things).
+  - Kept: Mama Baga's "mouth moved at one corner" before "Drink.". Ledger R17 and the Registry hold it as a possible family tell for the author, and P4 restored it for that reason.
+- **Knowledge.** Shade's "Stansbury has infected you" answered "I have standards", a line from Ch10 that neither he nor Elizabeth heard. Cut, with the two lines that led to it ("You have one functioning arm and are becoming reckless with it.").
+- **Staging.** After the sling, the healer "eased Elizabeth's coat back over it" (the diary rides in that coat pocket later).
+- **The diary (one sad thing, said once):**
+  - Cut: the museum retelling ("At the museum she'd watched letters survive a war…"); "The diary felt heavier because she knew where she was taking it."; "That still hurt." on the cookbook card; "That question was harder."; "The diary belonged to Camp now. The life in its pages was still hers."; and the closing list of "two pieces of her life".
+  - Kept: the lock's reason, "something larger than herself" (08-21 §2), carried by "The diary wasn't important the way Daniel Vale's letters were important…" / "That wasn't the same as saying it was nothing."; and the rhyme with Ch4, "with both hands, the way Mama Baga had taken the cookbook".
+- **Cut (commentary and narrator jokes):**
+  - "This seemed to require active effort."
+  - "It was terrible. / That, at least, felt normal." (Plan row 12)
+  - "Shade obeyed. The simplicity of it seemed to annoy him. Elizabeth approved."
+  - "For a second Elizabeth thought he might smile. He didn't."
+  - "because somebody had apparently explained physics to him"
+  - "He nodded as if mostly were a medically useful category."
+  - "Instead: what do you need?"
+  - "Elizabeth understood."
+  - "For the first time since the museum, nothing required an immediate answer." (a fifth "for the first time" closer)
+  - "No glowing paper, no borrowed memory, no page disappearing." became "There was no paper in it anywhere".
+- **"Good." and "All right".**
+  - The healer's closing "Good." became a nod.
+  - Shade's first "All right." is cut. His second, when she goes to the archive, stays as the real one, after the chapter where Pathwell broke the word.
+- **Rhythm:** 49 one-line action beats merged into the dialogue they introduce; short paragraphs went from 48% to about 33%. One merge put the healer's "That?" after Elizabeth's beat; it's separated and tagged. "Hand," is tagged to Shade.
+- **Records:** Registry rows 75, 94, 97 and 116; Plan row 12; the status table.
+
+**Kept, as leans (R36):**
+
+1. **"ONE PAGE USED — CHICKEN & DUMPLINGS" on the card** stays. The reader noted that Ch4 counts two missing places; P23 weighed this and kept the card, and Ch15 repeats it.
+2. **The dagger** isn't mentioned (ledger O4 tracks it as unpaid). Adding a beat here would only be bookkeeping.
+3. **The archive's dry run** ("museums were a recognized injury category", "Is that also a category?", "He respects paperwork more consistently than people.") stays, as the archivist's register (R33: "the archivist stays the one dry wit"). "That's bleak." is contracted.
+
+**New lines, plain, flagged:**
+
+- "There was no paper in it anywhere"
+- "She eased Elizabeth's coat back over it."
+- "Mama Baga came out with a blanket and left it folded beside Elizabeth without a word."
+- "The healer nodded."
+- "Shade washed it."
+
+**For the author:** this chapter has no line of his. The emotional lines around the diary are listed here for his eye:
+
+- "There was still time to choose that. A loan meant it stayed hers in a different building…"
+- "That wasn't the same as saying it was nothing."
+- "The book belonged here now, and it no longer felt like a disappearance."
+- "Don't let Pathwell decide the restriction expired."
+
+**The routine (D23):**
+
+| Step | P37 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader item 1; the offstage kindness replaced by Mama Baga's) |
+| 2 Shapes in the Registry | done (rows 75, 94, 97, 116) |
+| 3 Checker | done |
+| 4 Scene diagnostic | done (reader item 2: holds) |
+| 5 Fresh check | done |
+| 6 Reader protocol, with the tone and rules check | done |
+| 7 Replacement tic | done (fresh check: the merges created a "[Name] considered / understood / thought about it." shape six times; three are cut) |
+| 8 Deliberate ambiguity | left alone |
+| 9 Change notes from the diff | done (above) |
+| Tenth seat | not triggered (line edits; the triage's "needs one word" had a finding and was fixed in P10) |
+| Light Sunday touch | done: Mama Baga's blanket, shown |
+
+**Not re-run:** the reader and the fresh check on their own fixes.
