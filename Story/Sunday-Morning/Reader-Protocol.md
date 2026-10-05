@@ -37,15 +37,16 @@ The checks already in place are audits: they compare a text against a list. This
 - **A reader who didn't write or revise the text.** It gets no account of the pass and no list of intended fixes before the cold read.
 - **It reads in order from the start.** For a chapter of a novel, that means the earlier chapters first, the way a reader comes to it. A reader who hasn't seen Chapter 3 can't notice what Chapter 4 forgets.
 - **Pass 1, cold (think-aloud).** It reads the new text section by section and writes each question down where it arises, with the line number and what set it off. It writes down what it expects to happen next. It notes where it skimmed, where it was pulled out of the story, where it laughed and where it cared. It doesn't look anything up and doesn't go back to fix its questions. When a later line answers a question, it marks the question answered and says where.
+- **Then the [causality pass](#the-causality-pass):** beat by beat, with the record of the scene's state.
 - **Pass 2, informed.** Only then does it read the rules and the records: the [line-note lessons](Craft.md#lessons-from-the-authors-line-notes), [writing against sameness](Craft.md#writing-against-sameness), the [tone guardrails](Rules.md#tone-guardrails), [AI tells](Sources/AI-Tells.md), the setting's narrator register, and the story's own locks, decisions and promise ledger. It then sorts every question it left open.
 
 ## The questions
 
 These are prompts for noticing, not a form to fill in. Ask whichever ones the page raises.
 
-1. **Space and staging.** Where is everyone, and how far apart are they? What is each person holding? Could she see or hear that from where she is? How did that thing get there, or get lost? Is anything used before it arrives (a drink sipped before it's poured, a tool swung before it's picked up)? Does the physical cause work at that distance and speed?
+1. **Space and staging.** Where is everyone, and how far apart are they? What is each person holding? Could she see or hear that from where she is? How did that thing get there, or get lost? Does the physical cause work at that distance and speed?
 2. **Time and light.** What time is it, and how much time has passed? Is it still the same night? Do the light, the weather and the season fit? Could she see that colour in the dark?
-3. **Cause.** Why did this happen now? Would it physically work? Is a coincidence getting someone out of trouble?
+3. **Cause.** Why did this happen now? Would it physically work? Is a coincidence getting someone out of trouble? (The [causality pass](#the-causality-pass) checks every beat for this.)
 4. **Goals.** What does each character want in this scene? Why doesn't she just do the obvious thing? (the idiot-plot test) Would this person really do or say this?
 5. **Knowledge.** How does he know that? Who told whom, and when? Does the narration know something the viewpoint character doesn't? Is anyone named before the viewpoint character learns the name?
 6. **Who.** Who is this? Have we met them? Is it the same person as before?
@@ -53,6 +54,31 @@ These are prompts for noticing, not a form to fill in. Ask whichever ones the pa
 8. **Reaction.** Did anyone react to the big thing? Is the reaction the right size for this person?
 9. **Promise.** What do I expect next? Was something set up and then dropped? Was something paid off that was never set up?
 10. **Engagement.** Where did I skim? Where was I pulled out of the story? Where did I laugh? Where did I care? Which line would I quote?
+
+## The causality pass
+
+The author asked for this (D22). The cold read catches the moments a person stops at. It can miss a beat that reads smoothly but couldn't have happened yet: Stansbury "smiled into his beer" three lines before the drinks were poured. A person reading skims past that. A check of preconditions doesn't.
+
+So, after the cold read and before the informed pass, the reader goes through the chapter again **beat by beat**, keeping a running record of the state of the scene. For each beat it asks two things:
+
+- **What must already be true for this to happen?** The person is in the room and close enough. The object is in their hands (poured, picked up, not given away, not used up). They know what they act on, and the page shows where they learned it. There's enough light to see it. Enough time has passed, and it's the right time of day. The door is open. The tool still works. The wound allows the movement.
+- **What does this beat change?** Someone moves or leaves. An object changes hands, breaks or is spent. Something is learned. Time passes. Later beats have to respect the change: a spent page can't be used again, someone who left can't answer, a secret told in the car is known afterward.
+
+**The record it keeps,** short, updated as it goes:
+
+| Track | For example |
+| --- | --- |
+| **Where** | who is in the scene, and roughly where (seated, across the lot, at the door) |
+| **Holding** | what each person has in hand or on them (drink, dagger, keys, diary, coat) |
+| **Spent or broken** | what's used up, gone or damaged (the pages, the bandana, the car) |
+| **Knows** | what each person has been told or has seen, and what they haven't |
+| **Time and light** | the hour, the day, the light source, the weather |
+
+It starts each chapter from the previous chapter's end state, so a break across a chapter seam gets caught too.
+
+**What it reports:** every beat whose preconditions aren't on the page, as "line, beat, what it needs, what the page has", labeled with the protocol's usual labels (most are holes or snags). It also reports any later beat that ignores an earlier change. It doesn't report preconditions a reader would supply without noticing, like a man who has been sitting being able to stand up. The test is whether a careful reader picturing the scene would hit the gap.
+
+This is the procedure behind [Craft's "walk the scene physically"](Craft.md#lessons-from-the-authors-line-notes) and "every piece of knowledge needs a source", run on every beat instead of on the moments that happen to snag.
 
 ## Sorting open questions (pass 2)
 
@@ -73,9 +99,10 @@ Each question still open at the end of the chapter gets one label:
 
 1. **What worked.** Three to six lines with quotes: what the author should keep.
 2. **Question log.** A table with the line, the question, what set it off, whether it was answered (and where), the label and the severity.
-3. **Stoppers.** Every place the reader was pulled out, with a line each.
-4. **Neutral questions for the author.** Taste matters, asked as questions, not verdicts ("What's the cart doing when she falls behind?" rather than "the cart is wrong").
-5. **Opinions, last, and marked as opinions.**
+3. **Causality findings.** Every beat whose preconditions aren't met, and every later beat that ignores an earlier change, plus the chapter's end state for the next chapter's reader.
+4. **Stoppers.** Every place the reader was pulled out, with a line each.
+5. **Neutral questions for the author.** Taste matters, asked as questions, not verdicts ("What's the cart doing when she falls behind?" rather than "the cart is wrong").
+6. **Opinions, last, and marked as opinions.**
 
 The reader suggests only the smallest fix for a hole. It doesn't rewrite the prose. Drafting stays with the reviser, and taste stays with the author.
 
