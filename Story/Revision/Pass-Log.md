@@ -1983,3 +1983,85 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 | Light Sunday touch | checked; none needed (the book's warmest chapter) |
 
 **Not re-run:** the reader and the fresh check on their own fixes.
+
+## P39, 2026-10-05: Chapter 14, the confrontation
+
+**Goal:** Plan row 14 and the climax (Q-E), under **R37** ("You decide and then go on to 14."). The author's draft stops at the museum, so every line here is the August text. The decisions were written before drafting (M1–M5) and the tenth seat ran on them ([file](Tenth-Seat/2026-10-05_Ch14-decisions.md): **ORANGE** overall; M1 ORANGE, M2, M3 and M5 YELLOW, M4 GREEN). The reader ran all three passes, including the tone and rules check ([report](Reader-Reports/2026-10-05_Ch14_reader.md): no stoppers, 12 snags, 24 quibbles; Pass 3 two holds, six mild breaks, two of them records only). The fresh check ran against the pre-pass text ([report](Reader-Reports/2026-10-05_Ch14_fresh.md)). The change notes below are from the diff against the last commit (P38).
+
+**What changed, from the diff** (3,463 → 3,247 words; paragraphs 618 → 308; short paragraphs 50% → 32%; checker commentary paragraphs 17 → 2; filter verbs 10 → 4):
+
+- **The climax decision (Q-E).** Decided as **option 2 with 3b**. Option 1 (her "Let it fail" makes him take his hands off) was the first choice and was **dropped after the tenth seat**: on the page Shade is already not folded in (the frame collapses toward Pathwell with his hands on the loop), so the beat could change nothing without inventing a rule at the climax, and his letting go would soften Ch16 ("chose not to stop") and Ch18's lift. Her line stays unheeded; "He does it anyway" stands. Option 2 is the Ch15 pass. R37, Q-E and the Plan's climax section are corrected to say so.
+- **3b, the dagger** (ledger O4, paid by refusal). Planted after "Your occupation is causing paperwork." ("Elizabeth felt the foam dagger at the back of her waistband and didn't mention it."). When the draw goes rigid, her hand goes to it and stays, with the reason on the page: she doesn't know what it would cut, "or whose it was to cut." The tenth seat's caution is kept: Shade doesn't shake his head at her; the choice to leave it is hers.
+- **C1 §6, placed** (ledger L17). After "I am the person living with it," Shade looks at her: "You don't have to stay for this." / "I'm going to be there when he decides." Only the lock's second sentence is used; the first ("I'm not going to tell him what to do") would be false a page later.
+- **Continuity.** "I can hold it." → "I can contain it.", so "That's what you said at the museum." is true (Ch11: "I can contain this."). The fiddle stopping is cut. *Correction to M4 and P38:* this was not the fiddle's "fourth use across Ch12–14"; P38 had already cut Ch13's, so Ch14's was the second remaining, and only Ch12:132 is left in Ch12–14. Ch16 keeps the fiddle as Camp's pulse.
+- **The "Not X. / Y." runs and commentary.** Every run in the M5 list is merged or cut. Gone, among others: "Not louder. / Less casual.", "Not permission. / Not surrender.", "Not fear. / Recognition.", "Not toward Shade. / Not toward Elizabeth." (kept as one clause: "not toward Shade or Elizabeth, but toward the practitioner…"), "That was the problem with Pathwell…", "The answer unsettled her more than one would have.", "That helped him. Elizabeth understood that only later.", "It was not an apology…", "Elizabeth had never heard the word sound so merciful.", "There it was.", "It wasn't permission.". About 87 short beats were merged into the lines they belong to; every merge was checked for its speaker.
+- **Speakers (the merge script misattributed three; all fixed):** "Am I wrong?" is separated again; "You are not paying for this." is Stansbury's, in one paragraph with his "No."; "Lift it. Let the frame fall. Nothing has released yet." is Mama Baga's. Also tagged: "Do not release payment," Mama Baga said.
+- **The reader's snags:**
+  - "a little finger" (it landed on Mama Baga).
+  - The dagger plant moved after "So do I." / "Your occupation…", so "So do I." is Pathwell's.
+  - "That helped him…" cut (it gave the reveal away; Q147 wants recognition after, not a signpost).
+  - The cards change hands once: "The archivist turned to him." / "Milo took the deck".
+  - Mama Baga's diagnosis: "But you are also trying to keep him separate."; "And you no longer believe you have the right…" and "Pathwell's face went very still." are cut (she reads behaviour, not his conscience, Q126b).
+  - "Nothing is acceptable," cut; "Nothing changing is acceptable to me." stays.
+  - The archive look is now Elizabeth's knowledge: he looks past Mama Baga at the open door, and "Elizabeth knew what was on those shelves…". He wasn't at Camp when the diary was given.
+  - The lantern: "still lit from the night".
+  - The queen: the archivist lays it on the card table, where Ch15 finds it.
+  - "might be both" → "might be a binding, and might be him."
+  - "the older woman in the knitted cap", as in Ch13 ("the old woman" is Mama Baga in Ch4).
+  - "Nobody at the table moved".
+- **Tics trimmed:** "Pathwell did not move.", "Mama Baga didn't move.", "He wasn't resisting;", "Shade clenched his jaw.", "Pathwell's jaw tightened.", a bare "Pathwell looked at him.", and Pathwell's "mouth moved at one corner" (the stock gesture). Shade's second "Apparently." is now "It seems so."
+- **Ch16, one fix carried here:** "the empty place at her hip" → "the empty coat pocket" (the diary was in her coat pocket, Ch12).
+- **Records:** R37 and Q-E corrected; Plan row 14 and the climax section; ledger O4 and L17; Registry row 14; the status table.
+
+**The tenth seat and how it was answered:**
+
+- **M1, ORANGE:** dropped (above).
+- **M2, YELLOW:** kept, with its reason on the page and no headshake from Shade.
+- **M3, YELLOW:** kept. The seat's two conditions: pace (Q145) — the exchange is two lines; and the stance being broken three times ("Then put it away", "Don't.", "Let it fail"). Answered as a lean: it's a stance she keeps failing at, which is human, and the lock allows her to challenge a dodge.
+- **M4, GREEN:** done, with the fiddle count corrected.
+- **M5, YELLOW:** done. The seat's warning about "Not toward Shade." is kept by folding it into one clause, not cutting it.
+
+**Kept against the checks, as leans (R36):**
+
+1. **No soft landing inside Ch14** after the fall (reader Pass 3 item 1). It's a cliffhanger; the landing is in Ch15–16. The reader's bucket-line beat is not added.
+2. **The archivist's "Milo?"** stays (reader snag 11). He goes white because he sent the boy in himself; "Milo?" is him calling into the smoke.
+3. **Elizabeth's stance and her "Don't." / "Let it fail"** (above, M3).
+4. **The narration's in-sentence negations** (reader item 5: the "Not X." fragments were replaced by "didn't / did not" inside sentences). Some cut here; the rest carried to the book-wide tic pass.
+5. **The threshold opening onto the card table** (Ch13 put the seam between two trees). A mouth opens where he is; not changed.
+
+**For the author:**
+
+- **R37 as read:** option 2 with 3b, option 1 dropped. If you wanted her words to stop him, that needs a new rule at the climax (holding the loop would endanger Shade), and the tenth seat advises against it.
+- **C1 §6:** only the second sentence of the lock is used. The first ("I'm not going to tell him what to do") would be broken a page later.
+- **The dagger reason:** "She didn't know what it would cut, or whose it was to cut." Plain, flagged.
+
+**New lines, plain, flagged:**
+
+- "Elizabeth felt the foam dagger at the back of her waistband and didn't mention it."
+- The dagger paragraph: "Elizabeth's hand went to the foam dagger at the back of her waistband. Stansbury had made it to cut things that don't separate easily, and had said it was designed not to cut people. Whatever held Shade's arm out now might be a binding, and might be him. She didn't know what it would cut, or whose it was to cut. She left it where it was."
+- "You don't have to stay for this." / "I'm going to be there when he decides." (the second is the lock's)
+- "But you are also trying to keep him separate."
+- "Elizabeth knew what was on those shelves:"
+- "still lit from the night"
+- "He laid it on the card table."
+- "It seems so."
+
+**Carried to later passes:** Ch15: option 2 (Shade's locked reason set off by what she carries out of the fire); Ch15:1118 "Milo saying he was cheating" (it was Shade); Ch15's leftover "Not X." fragments; "the failed brass frame" (Ch15:543; one name for the frame). Book-wide: in-sentence negations and restraint notes, gaze rate, "the back of her waistband" (six chapters).
+
+**The routine (D23):**
+
+| Step | P39 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader item 1: mild break, no soft landing after the fall; lean 1) |
+| 2 Shapes in the Registry | done (row 14) |
+| 3 Checker | done (numbers above) |
+| 4 Scene diagnostic | done (reader item 2: holds) |
+| 5 Fresh check | done |
+| 6 Reader protocol, with the tone and rules check | done (2 holds, 6 mild breaks; answered above) |
+| 7 Replacement tic | done (in-sentence negations and restraint notes rose as the fragments went; some cut, the rest carried book-wide) |
+| 8 Deliberate ambiguity | left alone (whether Shade could have been folded in stays unasked) |
+| 9 Change notes from the diff | done (above, against P38) |
+| Tenth seat | done (ORANGE; M1 dropped) |
+| Light Sunday touch | checked; none inside the cliffhanger (lean 1) |
+
+**Not re-run:** the reader and the fresh check on their own fixes.
