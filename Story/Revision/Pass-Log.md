@@ -1478,3 +1478,48 @@ Your call:
 4. **Kept despite the reader's quibbles:** "twenty-five minutes" twice (it's Shade's running joke, and she calls it); the "Good." / "Fair." rhythm in Shade's dialogue (it's his voice).
 
 **For the Ch10 pass:** after a night of walking, "Her mouth still tasted like coffee." and "another hundred yards" need checking against the new clock.
+
+## P33, 2026-10-05: Chapter 10, the brothers from his draft, and the Ask
+
+**Goal:** rebuild the brothers' half of Chapter 10 from the author's own draft (W14). His draft runs from after his diner chapter (peas, the walk to Stansbury's house, the library, the letter and lists, "A crappy cup of coffee") into his "Chapter 10?" (the catch). It was written for the older story: the brothers drunk at the bar, Pathwell hearing "the voice", and a vision of the diner. The pass also trims the Ask (Plan row 10). The decisions were written down first, and the tenth seat ran on them ([report](Tenth-Seat/2026-10-05_Ch10-decisions.md): **YELLOW**, with G3 **ORANGE** as written). Then came the reader with the causality pass ([report](Reader-Reports/2026-10-05_Ch10.md): no stoppers, seven snags, fifteen quibbles). Its snags are fixed.
+
+**A correction to P32.** The tenth seat found that P32 broke a lock. Continued 7 (LOCKED A) has the tracking catch *while Elizabeth is at the diner*: the diner's terrible coffee makes her think of the Space Between's at the moment Pathwell reaches for the same memory. P32 had moved her memory to the road. It's back in Ch9, in one sentence: "it was the Space Between's coffee all over again: a plain white mug, an orange cat, *Just in time.* Late nights spent studying." That also fixes the clock. The brothers no longer sit idle for seven hours. They walk two miles home, the working catches while she's still at the diner, and the lists find her on the road an hour or so later. So Ch10 is night, not "early morning". "She'd been walking for a little over an hour" replaces P32's "most of the night", and "The dark waited outside the windows" replaces "the gray morning". Ch11's museum is still before sunrise.
+
+**What changed:**
+
+- **The walk home, in his lines:**
+  - "She is our responsibility, Leo." / "She's your problem, Pathwell. I'm just here for you."
+  - "I do my best work on the fly." / "I've seen you work. I didn't know that was your best."
+  - The letter of longing and the grocery lists as Stansbury's idea; "Leo, the next time I call you an idiot, you smack me right in the face."
+  - Two slaps, "Bank it."; "Let's roll, big cat." / "Please don't start calling me that again." / "Too late, grande gatto."
+  - Stansbury carries the box of foam swords home and takes it in the van (his own bracketed note asked for this). "Can you find her?" / "No." / "Good." (the draw finds Shade, not her) moves onto the walk.
+- **The house, in his lines:**
+  - Unlocked, in a small town where "most everyone knew better".
+  - The library half a floor down, in "skyscraper piles" (Continued 10 says downstairs).
+  - "Children's stories? Leo, you mustn't be so desperate." / "Copies. Not all of us are willing to mortgage our potential to that shopkeeper of yours." His draft says "bookkeeper"; it's the shopkeeper.
+- **The working:**
+  - Stansbury's instructions are his: "A shared experience works best." / "You just have to get lucky." / the tracker line / "You are better at this than me", re-seated on the lists.
+  - Stansbury goes upstairs to dig out the lists, which is why Pathwell has to shout "Stansbury!".
+  - The catch is his: "Really?" / "What do you mean, really?" / "I just didn't expect it to work so soon. Or at all." / "Why do you keep sounding so surprised?" / "A crappy cup of coffee."
+  - Pathwell still cycles through shared memories before the coffee catches (Continued 7). It stays passive ("Can she feel this?" / "No.").
+- **The letter:** the Ellison estate letter and its cost beat stay ("If I use this, it's gone." / "Not the thing." / "It makes the cost mine to approve."). His draft's letter "confiscated off some lovesick kid" was the decision's first choice. The tenth seat held it ORANGE: Stansbury's "copy before I buy" (ledger R9) pays off in Ch11 and Ch17, and a confiscated note wasn't bought. So the kid's letter goes, and his "Children's stories?" exchange carries the school instead.
+- **Fixes from the reader:**
+  - The brothers' section opens "While Elizabeth was still at the diner…", so the reader knows it's a rewind.
+  - Stansbury connects "He did say coffee. On the road." / "It's a long road."
+  - She walks toward the bar "because it was where the night had started, and the wreck was somewhere on the way".
+  - "Let's roll, big cat," is tagged to Stansbury.
+  - The list only gives turns, so Pathwell says "Left. Soon." and Stansbury supplies the water tower.
+  - The box goes in the van. The peas are "mostly thawed" when Pathwell gets out.
+- **The Ask (Plan row 10):**
+  - The second pass is cut to its landing: "So you paid the cost yourself." → "…the method was yours to choose." → "No. You know enough. Whatever happened after that became Shade. But you still chose it." / "Yes."
+  - Cut: the thesis lines ("No magic. / No philosophy…", "That was the answer…", "The question was answered. / The problem was not…"), "That part mattered…", "That mattered too.", "felt the words arrive without any magic helping them", the "advisory committee" simile, and the third coffee recital.
+  - Kept intact: "Because I thought I knew the cleanest way through it.", "Quickest." / "And cleanest, I thought." (Ch11 quotes them), "My choice produced the failure he came from", and "I heard him." / "That's not the same as listening." (Ch14 echoes it).
+- **Line work:** commentary paragraphs went from 16 to 2, and short paragraphs from 52% to 36%. The brothers' half is about 1,800 words, against the tenth seat's ceiling of about 1,470. The overage is the author's own walk and house, kept by lean 3 below.
+- **Records:** W17; Registry (Leo; the Ch9 and Ch10 shapes); glossary (Stansbury: Leo, "big cat"); ledger L15 (both names unpaid after Ch10); Plan row 10; status table.
+
+**The reviser's leans (R36), for the author to overrule:**
+
+1. **"Leo" and "big cat" / "grande gatto" are in.** They're his; his June note already says "Leo Stansbury is the brother of Pathwell". Only Pathwell says "Leo". They appear only in this chapter, so ledger L15 asks whether he wants one more use later.
+2. **The estate letter stays, not the lovesick kid's.** The kid's letter would break Stansbury's "copy before I buy", which Ch11 and Ch17 pay off. His school still shows up, in the children's stories.
+3. **His walk-home banter is kept nearly whole,** even though it runs past the tenth seat's length. Dropped from it: the gate that knocks Stansbury over, the fridge raid (chicken thigh, pasta salad), the kicking match in the booth and the drunk line.
+4. **The slaps stay.** They're his, and they show two very old brothers being children with each other.

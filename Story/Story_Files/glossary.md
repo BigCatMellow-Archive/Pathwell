@@ -11,7 +11,7 @@
 | **Pathwell** | yes | The ancient practitioner. Surname used as his name throughout. |
 | **Elizabeth** | yes | The protagonist. Nicknamed **"Lizzy"** by her grandmother. Pathwell knows it because he activated the sugar-cookie page in Chapter 1 and carried the echo of Nana's memory (the author, 2026-10-01; [revision R21](../Revision/Decisions.md#the-authors-rulings-for-this-revision)); the cookbook's own inscription or marginalia is the simple fallback. |
 | **Shade** | [OPEN] | Made from Pathwell's failed pruning. Introduces himself as **"Shade Pathwell"** — not lying, not telling the truth. NOTE: the name literalizes the metaphor (a shadow-self called Shade), which sits against the book's "don't explain the metaphor" principle. Flagged for a deliberate keep/change decision; tracked in the conflicts doc. Using it for now. |
-| **Stansbury** | yes | Pathwell's brother. Centuries old. |
+| **Stansbury** | yes | Pathwell's brother. Centuries old. First name Leo, which only Pathwell uses; his old nickname for Pathwell is "big cat" ("grande gatto"). Both the author's, from his draft (P33). |
 | **Mama Baga** | yes | Matriarch of Camp Cunnan; Pathwell's adopted mother. |
 | **Papa Baga** | CUT | Cut cleanly from canon; Mama Baga is Pathwell's sole Camp parent (Bible decisions 2026-08-23 §4). |
 | **Boots** | yes | "Boots the Blood God" in the discovery draft — scratches Elizabeth, drinks blood, then nothing comes of it. Flagged since early development as underused. World flavor unless given a payoff. |

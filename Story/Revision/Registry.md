@@ -33,6 +33,7 @@ Every named person in the manuscript. The Story column is the chapter where the 
 | Ch08 | Shade | made from Pathwell's failed prune | cast |
 | Ch09 | Celia | in Shade's inherited memories ("hated pears") | minor |
 | Ch10 | Ellison | estate whose unsent letters Stansbury keeps | minor |
+| Ch10 | Leo | Stansbury's first name; only Pathwell uses it (the author's, P33) | cast |
 | Ch11 | Margaret Bell | the museum's first curator | minor |
 | Ch11 | Daniel Vale | Civil War letter writer, museum collection | minor |
 | Ch11 | Henry Vale | Daniel's family; attic coat (Ch11), letter packet (Ch17) | minor |
@@ -68,8 +69,8 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 | 6 | the bar; the mirror (Pathwell POV section) | a realization ("Mine.") | warm, then uneasy | "The bar wasn't nearly as dingy as she'd imagined." (the author's, P28) | "Then, from the far side of the Cadillac, a thud. / Wet. Heavy." (cliffhanger; echoes Ch1's first thud) |
 | 7 | blob takes Pathwell | an act (Elizabeth cuts him out); then being shut out | action, anger | "The smell reached Elizabeth before the shape did." | "For the first time since the apartment, nobody was telling Elizabeth where to go." |
 | 8 | the withheld prune | an act (the deliberate crash); Shade arrives | defiance | "Elizabeth chose the ditch." | "Too late to call it an accident." |
-| 9 | the diner | a conversation (Shade: "You were never the point") | quiet, sharp | "The radio glowed blue through the dark." | she walks back ("Not because… Because she had a question now.") |
-| 10 | the tracking working; the Ask (brothers' POV section) | a confession ("But you still chose it." / "Yes.") | procedural, then bare | "The road had the quality of roads in early morning…" | "Pathwell did not correct the route." |
+| 9 | the diner | a conversation (Shade: "You were never the point") | quiet, sharp | "The radio glowed blue through the dark." | she walks back ("She had a question now, and this time she intended to make him answer it.") |
+| 10 | the walk home and the tracking working (brothers' POV, the author's, P33); the Ask | a confession ("But you still chose it." / "Yes.") | brothers' banter, procedural, then bare | "She'd been walking for a little over an hour." | "Pathwell didn't correct the route." |
 | 11 | the museum; the quarantine letter | a disaster (Pathwell acts against her no) | wonder, then catastrophe | "The museum was a Civil War building on the edge of a town…" | "Outside the high windows, morning finally committed to daylight." |
 | 12 | shoulder set; diary given | a gift (the diary) | recovery | "Camp Cunnan was awake enough to notice trouble and asleep enough to resent it." | "For the first time since the museum…" then she watches Camp wake |
 | 13 | Shade becomes a person at Camp | a choice ("I want to stay here.") | warm, funny | "By full morning, Camp Cunnan had decided Shade was neither an emergency nor an explanation." | "Then the threshold opened." (cliffhanger) |

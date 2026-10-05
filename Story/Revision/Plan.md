@@ -122,7 +122,7 @@ What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#
 | 7 | **done in [P29](Pass-Log.md#p29-2026-10-04-chapter-7-line-pass)** (line pass) | — | the P29 leans |
 | 8 | **done (P31).** One beat of cost for leaving bruised Stansbury on the road (he stands by the wreck, hand on his ribs, and lets her keep his dagger); "It was the crash that woke her." repeats, bare (R11). Shade still names himself on the road (W16, put to the author) | "the big prune" (fixed in P10) | the echo's placement: after the engine dies and her heart is pounding on the wheel |
 | 9 | **done (P32).** With W16 standing, the recognition is gradual from the road and "He used to," is its click at the diner; the front half no longer repeats the road | the repeated Pathwell–Shade comparison (cut); "No dead grandmother's preferences" (cut in P10); "where Pathwell had been headed" (fixed in P10) | "Agency, apparently, was not a staircase…" (cut) |
-| 10 | cut the Ask's second pass to its landing (the prune's content stays open by lock) | the third coffee recital | the narrator's thesis lines after the Ask |
+| 10 | **done (P33).** The brothers' half rebuilt from the author's draft (W17); the Ask's second pass cut to its landing | the third coffee recital (cut) | the narrator's thesis lines after the Ask (cut) |
 | 11 | — | "good hand"; "Three adults"; the repeated "I chose Camp" | "The sentence changed the room." |
 | 12 | the donation's pointer lines (whether the rhyme carries itself) | the threshold's time of day; "It was terrible. / That, at least, felt normal." | emotional lines around the diary |
 | 13 | tighten the middle vignettes; keep the Hearts shift | a varied opening (three personified openers in a row) | Shade's procedural jokes (B7) |
