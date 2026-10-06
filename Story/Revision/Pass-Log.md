@@ -2150,3 +2150,82 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 | Light Sunday touch | checked; none added after the death (lean 6); Milo's "You still owe me a hand" and "I was winning" carry it |
 
 **Not re-run:** the reader and the fresh check on their own fixes.
+
+## P41, 2026-10-06: Chapter 16, aftermath
+
+**Goal:** Plan row 16: the hearing's numbered rules, the narration grading Pathwell (the cold reader: "I felt managed"), the thesis opener, and the line items (body-deciding, "That ended the conversation for now. Nothing more."). The author's draft stops at the museum, so every line here is the August text. The decisions were written before drafting (M1–M6) and the tenth seat ran on them ([file](Tenth-Seat/2026-10-06_Ch16-decisions.md): **YELLOW** overall; M1–M5 YELLOW, M6 GREEN). The reader ran all three passes ([report](Reader-Reports/2026-10-06_Ch16_reader.md): no stoppers, 11 snags, 12 quibbles; "the chapter now reads as people, not a ruling") and the fresh check ran against the pre-pass text ([report](Reader-Reports/2026-10-06_Ch16_fresh.md): every lock and callback intact, one seat condition not met, since fixed). The change notes below are from the diff against the last commit (P40).
+
+**What changed, from the diff** (3,639 → 3,333 words; paragraphs 582 → 362; short paragraphs 49% → 35%; "Not…/No…" narration openers 19 → 1; uncontracted narration forms 33 → 3, all kept for weight; checker commentary paragraphs 30 → 4):
+
+- **The hearing (M1).** Mama Baga's "First rule… / Second rule… / Third rule…" are gone as a list. The schedule line is her own sentence, right after "Then it isn't." (it keeps the debt open): "The person who broke the thing does not get to set the schedule because waiting makes him uncomfortable." "Second rule: no pruning shortcuts." is cut; the archivist's "You will not prune to buy any of it." (with Pathwell's eyes flicking up) carries it, and "Pruning?" / "No." in the scar scene. The hobby line stays solemn and standalone, tagged ("Mama Baga wasn't finished."), so Stansbury's "Cards." and Milo's shout still land and Ch17's Hearts still pays it. Kept: "Then stop naming impossible payment…", "Defined by whom?" / "Not me," the archivist's terms, "Don't become decorative.", and Elizabeth's "My shoulder is not a Camp expense." exchange.
+- **The narration stops grading Pathwell (M2).** Cut: "That helped less than he probably hoped.", "That ended the conversation for now. Nothing more.", "That seemed to bother him more than anger would have.", "Elizabeth watched the hesitation.", "The silence did the work.", the narrator's "Good." (twice), "Nothing more." (the bandages), "The words were quiet. / No challenge in them. / No punishment either. / A boundary.", "That was all. / Elizabeth watched him stop. / It was not enough to repair anything. / It was still different.", "That, too, was visible.", "That answer hurt too. / It was supposed to.", "For once, empty did not look temporary.", and the "He did not explain… / Did not offer… / Did not reach for his coat." run. "Pathwell didn't add a because." stays (triage 16.1). Q134b's observer stays on the page ("Elizabeth noticed how strange that looked on him. Pathwell noticed her noticing, and looked away first."), and the three "reflex shown, then stopped" beats are untouched. The old text of every cut narrator line is in the [fresh check](Reader-Reports/2026-10-06_Ch16_fresh.md), section 7.
+- **The opener (M3).** It was "The archive roof came down and Camp Cunnan kept moving. / That was the first thing Elizabeth understood about aftermath. / Nothing waited for meaning.", which retold the collapse Ch15 ends on. It now opens on Elizabeth: "Elizabeth was sitting in the dirt and didn't remember sitting down." (this also removes "her legs had stopped participating"), then Camp working around her. Stansbury's hand is unwrapped at "Stansbury was next" (Ch15 had the healer already wrapping it).
+- **Stansbury's reasoning (M4; lock Q140c).** "The burn had happened because he chose to enter the archive. / The archive had burned because Pathwell chose not to stop. / Both things were true." entered Stansbury's head. It is now Elizabeth's: "Elizabeth thought of the side window. The burn had happened because Stansbury chose to go back in. The archive had burned because Pathwell chose not to stop. Both things were true." This overrides triage 16.3's KEEP in part (it kept the narrator report; the lock says Stansbury gets no interior), and keeps one balancing signal in the scene now that "No punishment either." is gone.
+- **Line pass (M5):**
+  - The healer's "Not broken, she thought." was in the healer's head; now "Not broken, she had said".
+  - Body-deciding cut ("her body had decided it had been patient long enough").
+  - "Not X. / Y." runs merged ("Not holding him down. / Just there.", "Not performatively.", "Not because it was funny.", "There it was. / Want. / Not owed… / Not required testimony.", the archive-at-night list, the fiddle, "Not elegantly. / No gradual cinematic tear.").
+  - Watch patterns: Stansbury's "Fair." → "Noted." (Mama Baga's stays); "without asking permission" cut; three narrator "apparently"s gone; "the older woman in the knitted cap" here and in Ch17:583 (as Ch13–14).
+  - The close: the "Tomorrow there would be more lists" run is one sentence, and the three "Nothing would make…" one sentence (Ch17 echoes "original" and "ash"); "The work would not become forgiveness… / Elizabeth understood that…" cut; the last line kept, uncontracted.
+  - About 80 short beats merged into the dialogue they belong to. The script's list was checked line by line; six merges were refused because they would have given a line to the wrong speaker ("Two people moved." and "Someone answered." before Mama Baga's orders; "Slowly." before the healer's question; "Elizabeth waited." before Mama Baga's "He chose to stay here…"; and two others), and Mama Baga's repeated "Shade." is tagged to her.
+- **After the reader and the fresh check:** "Not me," Pathwell said (re-tagged; it carries Q133c); "Rare morning for those," he said; "for approval" restored; "Mama Baga had said his name because someone had died" (it said "once", but she says it three times); three nod beats became tags; "The motion was part of the loss, not proof she had chosen wrong." and "For the fact that none of those losses balanced each other." cut.
+- **Ch15, one line:** "For once, the world didn't reorder itself around the fact that Pathwell had fallen down." is cut. Ch16's last line says the same thing with more weight, and two "for once"s about Pathwell in two pages was one too many.
+- **Records:** Plan row 16 and the dagger row; ledger O4 (left open on purpose after Ch15); triage 16.2 and 16.3; Registry row 16; the status table.
+
+**The tenth seat and how it was answered:**
+
+- **M1 (YELLOW):** done; the claim narrowed to "removes Mama Baga's three rules" (the archivist's terms and Pathwell's acceptances stay); the hobby line standalone; triage 16.2 noted.
+- **M2 (YELLOW):** done; Q134b's observer kept; the reflex beats kept; one balancing signal kept (see M4); "Better." is said twice (the healer, Mama Baga), both kept.
+- **M3 (YELLOW):** done; Elizabeth seated in the first line; the Stansbury join fixed.
+- **M4 (YELLOW):** answered differently from the decision: "Both things were true." is kept and the reasoning moved into Elizabeth, which meets Q140c and the seat's balancing condition. The question of who holds that thought is put to the author.
+- **M5 (YELLOW):** done; the lines the seat named ("He did not say Lizzy.", "yellow archive light", "Those circumstances were not available.", the museum/"original"/"ash") are kept.
+- **M6 (GREEN):** the dagger left open; ledger and Plan updated.
+
+**Kept against the checks, as leans (R36):**
+
+1. **The bare apology on day one** (reader snag 1: C27, Q93, Q134c). It is short, he asks for nothing, and she refuses to say she forgives; the coda's offhand admission is a different act (triage 16.1).
+2. **"Both things were true."** (reader snag 4: it echoes Milo's "Both can be true."). The echo is the point: the same arithmetic applied to a burn.
+3. **"None of it would bring Shade back, or make the diary original again, or make Nana's cookbook anything but ash."** (reader snag 7). Ch17 calls back "original" and "ash".
+4. **"The word kept arriving as if somebody had to keep delivering it."** (reader snag 9). It is the grief's voice, once.
+5. **The last line** (reader snag 6) stays: "…for once Pathwell would not be the person deciding what those things were." It is the chapter's turn (Q133c); Ch15's "for once" is cut instead.
+6. **"Mama Baga had said his name because someone had died, and names were one of the few things the fire hadn't managed to take."** It explains, but it is Camp's funeral in one sentence.
+7. **"For the fact that choosing Milo had been right and had still cost her things she wanted back."** stays in the crying list.
+
+**For the author:**
+
+- **The apology on day one** (lean 1): keep it bare and refused, or move all of it later?
+- **Stansbury's reasoning as Elizabeth's thought** (Q140c), or the narrator's as before?
+- **The dagger:** left open after Ch15. Does it need a line in Ch17?
+- **Does Pathwell hear Shade named and written down?** He is twenty feet away and the page doesn't say.
+
+**New lines, plain, flagged:**
+
+- "Elizabeth was sitting in the dirt and didn't remember sitting down." / "Around her, Camp worked."
+- "The wrapping from the fire was off,"
+- "Not broken, she had said:"
+- "He walked slowly; his ribs wouldn't permit anything else."
+- "Elizabeth thought of the side window."
+- "Mama Baga wasn't finished."
+- "Noted."
+- "and a few people near her joined in"
+- "There was no accusation in it, which made it easier and harder."
+
+**Carried to later passes:** book-wide: look and nod beats at the front of dialogue paragraphs (the merge moved them there; Ch16 is "look*" 21.9 per 1,000 words against Ch15's 10.0), "didn't <verb>" lists, "looked away first" (twice in Ch16). Ch17: the dagger, if anywhere.
+
+**The routine (D23):**
+
+| Step | P41 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader item 1: holds, with explaining sentences cut after) |
+| 2 Shapes in the Registry | done (row 16, the new opener) |
+| 3 Checker | done (numbers above) |
+| 4 Scene diagnostic | done (reader item 2: holds; the tail trimmed) |
+| 5 Fresh check | done |
+| 6 Reader protocol, with the tone and rules check | done (no stoppers; Pass 3 answered above) |
+| 7 Replacement tic | done (verdicts had moved into "didn't" lists, and look/nod beats moved to the front of dialogue; two lists and three nods cut, the rest carried book-wide) |
+| 8 Deliberate ambiguity | left alone (whether Pathwell hears Shade named; what Mama Baga's "Person" settles) |
+| 9 Change notes from the diff | done (above, against P40) |
+| Tenth seat | done (YELLOW) |
+| Light Sunday touch | checked; the chapter has it already (Milo's boot, "new hobby", the terrible coffee); none added |
+
+**Not re-run:** the reader and the fresh check on their own fixes.

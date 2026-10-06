@@ -130,11 +130,11 @@ What each chapter's pass covers, from the [assessment](Assessment-2026-09-29.md#
 | 13 | **done (P38).** Middle vignettes tightened so each changes something; the Hearts shift kept | the opening varied (people, not a personified Camp) | Shade's procedural jokes: cut down; the rest listed in P38 |
 | 14 | done (P39): [climax](#the-climax-what-the-story-has-already-planted) option 3b placed (option 2 is Ch15's); C1 §6 placed; line pass | Prague | — |
 | 15 | done (P40): Shade's locked reason shown before he walks (the look at the hurt people, one line); the explanatory close cut; the death reordered to lock C29; the "Not…" cadence cut | the "Not…" cadence | every line change (the chapter is all cautious categories) |
-| 16 | the hearing's numbered rules; the narration grading Pathwell | "hip"; body-deciding; "That ended the conversation for now. Nothing more." | "That was the first thing Elizabeth understood about aftermath." |
+| 16 | done (P41): the hearing de-numbered (Mama Baga's three rules gone; the archivist's terms kept); the narration's verdicts on Pathwell cut; the opener on Elizabeth; Stansbury's reasoning made Elizabeth's thought (Q140c) | "hip" (done in P39); body-deciding; "That ended the conversation for now. Nothing more." (all done) | "That was the first thing Elizabeth understood about aftermath." (cut) |
 | 17 | compress the correction montage around the Henry Vale refusal; fix the museum section's viewpoint; a line on how she reaches Camp | "hip" | the closing summation; "2026" on the card |
 | 18 | the cookbook becomes a silent moment: he picks it up, considers it, puts it back; no price, no branches, no dialogue about it (Q96, Q99, Q103); "It was my fault" without naming Shade or a reply (Q95) | the stray `}`; the last exchange's attribution (Elizabeth asks) | the ending lines ("Perfect." confirmed, R9) |
 | Coda | done: moved to the [archive](../Archive/README.md) on 2026-09-30 | — | — |
-| all | the dagger's fate ([ledger O4](Promise-Ledger.md#objects)) goes with the climax option (3 or 3b); otherwise it's lost on the page at the museum | — | — |
+| all | the dagger's fate ([ledger O4](Promise-Ledger.md#objects)): 3b, placed in Ch14 and Ch15 (P39, P40); after Ch15 it is left open on purpose, with Ch17 the first place it could come back (P41) | — | — |
 
 ## Reconsideration triggers
 
