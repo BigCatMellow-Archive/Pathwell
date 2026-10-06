@@ -34,6 +34,7 @@ When two notes pull in different directions, each decides its own ground, in thi
 | [Collection](Collection.md) | how a set of stories works together: reading order and expected reader state, cross-story links and the promise ledger, the larger web, collection-level THINK and PLAN; with fill-in templates | procedure + template | active | planning a collection; touching anything another story depends on |
 | [Registry](Registry.md) | template: names, name rules, story shapes, devices, joke shapes, stock phrases, watch patterns, checker exceptions | template, read by the checker | copy into each collection; update on every new name or shape change | inventing a name; choosing an opening, device or ending |
 | [Reader protocol](Reader-Protocol.md) | how an independent reader reads a story (cold, in order, logging questions as they come), the question bank (space, time, cause, goals, knowledge, who, world rules, reaction, promise, engagement), how to sort open questions, the report format; with research sources | procedure | active (D20) | after every pass, before the author sees it; at L4 |
+| [Reader panel](Reader-Panel.md) | how to run several readers so they read differently (by job, reading condition, a short reader's life and model), keep them blind and independent, measure noise with repeat runs, synthesise convergent, lens-specific and minority findings, and check the panel isn't one reader many times; a twelve-lens starting roster; with research sources | procedure | active (D25) | after a full pass on a book; at L4 |
 | [Line notes](Line-Notes.md) | worked examples of the author's line notes: each note, the change and the reasoning, grouped by lesson; where push-back adjusted a note and why | evidence | open; add each new set of notes | when a Craft line-notes rule seems arbitrary; before applying new notes |
 | [History](History.md) | lessons from the first collection (and, marked, from the Pathwell revision): timeline, check log, what worked, what went wrong and where each lesson lives now | evidence | archive | asking why something is the way it is |
 
@@ -61,6 +62,8 @@ For a single long work kept as plain files (a novel's chapters, say), add `--pat
 | What do I run after a pass? | [Pipeline: after every pass](Pipeline.md#after-every-pass) |
 | Something broke while drafting. Where does it go? | [Pipeline: routing table](Pipeline.md#stage-3--do-draft) |
 | What does L4 need, and how is the review run? | [Pipeline: Stage 4](Pipeline.md#stage-4--judge-review-independently) |
+| How do I get an independent reader's questions on a story? | [Reader protocol](Reader-Protocol.md) |
+| How do I run several readers on a book without getting one reader many times? | [Reader panel](Reader-Panel.md) |
 | How should the prose sound? | [Craft: voice](Craft.md#voice), then the [Voice Guide](Sources/Voice-Guide.md) |
 | Does this sound like a person talking, in narration too? | [Craft: write how people talk](Craft.md#write-how-people-talk) |
 | How do I check a scene? | [Craft: scene diagnostic](Craft.md#sunday-morning-scene-diagnostic) |

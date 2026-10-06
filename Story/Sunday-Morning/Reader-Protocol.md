@@ -124,7 +124,7 @@ The reader suggests only the smallest fix for a hole. It doesn't rewrite the pro
 ## When to run it
 
 - **After every pass, before the author sees it** (after-every-pass step 6). The fix list and the report to the author say what the reader asked and what was done about it.
-- **At L4**, the whole book read in order (Pipeline [Stage 4](Pipeline.md#stage-4--judge-review-independently)).
+- **At L4**, the whole book read in order (Pipeline [Stage 4](Pipeline.md#stage-4--judge-review-independently)), by a [reader panel](Reader-Panel.md) of readers who read differently, followed by one informed reader running passes 2 and 3 of this protocol over the panel's findings (D25).
 - **Calibrate when it's new.** The first run includes a known miss, to check that the reader catches it. If it doesn't, find out what in the protocol let it through.
 
 ## Sources
