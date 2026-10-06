@@ -2065,3 +2065,88 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 | Light Sunday touch | checked; none inside the cliffhanger (lean 1) |
 
 **Not re-run:** the reader and the fresh check on their own fixes.
+
+## P40, 2026-10-06: Chapter 15, the fire
+
+**Goal:** Plan row 15 and option 2 of the climax (R37): show Shade's locked reason before he walks, cut the explanatory close, and cut the "Not…" cadence. The author's draft stops at the museum, so every line here is the August text. **This pass ran in two sittings.** A run last night wrote the decisions (N1–N6), ran a tenth seat on them ([file](Tenth-Seat/2026-10-05_Ch15-decisions.md): **ORANGE**; N1 ORANGE, N2–N5 YELLOW, N6 GREEN) and drafted most of the chapter to its conditions, but was interrupted before it ran the checks or committed. This morning's run picked up the working copy, ran the reader with all three passes ([report](Reader-Reports/2026-10-06_Ch15_reader.md): 2 stoppers, 16 snags, 17 quibbles; Pass 3 one hold, six mild breaks, one unconfirmable until this entry) and the fresh check ([report](Reader-Reports/2026-10-06_Ch15_fresh.md)), and ran a second tenth seat on two changes made after the reader ([file](Tenth-Seat/2026-10-06_Ch15-after-reader.md): **YELLOW**). The change notes below are from the diff against the last commit (P39).
+
+**What changed, from the diff** (3,328 → 3,271 words; paragraphs 569 → 294; short paragraphs 49% → 35%; "Not…/No…" paragraph openers 28 → 4; checker commentary paragraphs 24 → 7):
+
+- **Shade's reason (option 2; ledger R14, now paid).** As the blob advances, the hurt people move back past him: Stansbury with his hand in the healer's wet cloth, the archivist drawing Milo back "one bare foot dragging in the dirt". "Shade watched them go. Then he looked at Elizabeth's left arm, hanging out of what was left of the sling." / "I told Pathwell to leave it unresolved," he said. "I thought I'd be the one carrying it." Then the informed risk, as before: "I'd like to find out which problem it thinks is biggest." (Q132; it was "A way to learn…"). It's one line in his own register, with no "person", "fault" or "mistake" (C30), and nothing that cues Pathwell's "Will you stay?". Shade's whereabouts during the rescue are given ("about as far toward the archive as the draw had let him come").
+- **What option 2 does not do (tenth seat N1).** Take her rescue away and the fire, the burned Stansbury, the hurt child and the blob are all still in front of him; only the images change. So it is **not** recorded as meeting the 2026-09-18 rule, and nor is 3b. R37, Q-E, the Plan and ledger R14 now say so, and the rule is put to the author.
+- **The explanatory close is cut** ("Shade had taken a risk because… Like everyone else."). The memory list ends on "That hand was promising.", then the roof, the empty ground and the last three lines, unchanged. The blob's departure no longer reads as clearing waste that included Shade: "The ambiguous signal… was gone with Shade. The blob found nothing else it recognized as unclaimed waste" → "found nothing left that it had come for".
+- **The death, reordered to lock C29** (eye contact → draw quiet → relief → absorption; the second tenth seat, D1, YELLOW). Now: "Shade looked at Pathwell, and Pathwell was looking back." / "Then the blob took his chest, and the draw went quiet." / Pathwell falls sideways / "Shade's right hand was still open toward him. Shade closed it himself." / the surface passes over him. Before, the draw vanished only after he was gone. This overrides triage 15.6, which kept the old order without checking C29; nothing in Ch16–18 depends on the order. "Not because Pathwell made it." is gone, because it is now false.
+- **The dagger in Ch15** (reader stopper S1; ledger O4). When the blob turns after Shade: "Her hand had found the foam dagger at her back. She had used it on one of these before. This one was coming for him because he had let it, and it wasn't hers to cut. She kept her hand where it was and said nothing." The first version sat inside the death sequence and said he had "walked into" it; the second tenth seat moved it out and asked for the verb to carry his informed choice and for no claim that it would have freed him.
+- **The books (N3).** The diary pause stays, at one beat ("Elizabeth stopped, for less than a second."), with the checking motion; "That decided it." and the cookbook weighing ("She could take it. / Right hand, one motion.") are cut; "The fire had not reached it yet. The shelf was close enough to touch." and "She didn't stop." on the way out stay. **The pause departs from C2 §7a and §8** ("does not stop", "does not slow down"); kept as a lean (R23) and put to the author.
+- **Continuity:**
+  - "Milo saying he was cheating" → "Shade calling Milo a cheat" (Ch13; Ch16's "Did you actually catch him cheating?" still works).
+  - The queen lies "on the card table where the archivist had left it" (Ch14); the onion placement is gone.
+  - Stansbury's rescued letters are "a packet of family letters", no longer "that had sat beside the cookbook" (the cookbook burns on that shelf; C2 §10b).
+  - The boxes: he lets go of both when the canvas falls, brings away "the box that hadn't stuck", and "One archive box" sits by the notebook (Ch16: "One flat box").
+  - "Stansbury came back out through the side window" (it had already been smashed; it no longer "exploded outward").
+  - "the brass frame" / "the frame" for the failed working.
+- **The reader's snags:** "Can you stand?" he asked (Milo's); the strut staging ("under the strut as a fulcrum and braced her shoulder against the shelf"); "Think." / "Yes." → "You think." / "It's the best I have."; "That is new. I'm not." → "That is new. Whatever it's been following all night isn't." (it could have read as "my existence is the mistake"); Elizabeth's "Different category." → "Worse. Mine." (it doubled Stansbury's "Different problem."); "She didn't regret the order." keeps its first sentence only; "Her right hand found the edge. She pulled. Nothing moved."; Shade's last look: "He wasn't asking for anything, or forgiving anything. He just looked." (keeps the not-absolution content).
+- **Narrator commentary and "Not…" runs cut.** The old text of every cut narrator line is listed for the author in the [fresh check](Reader-Reports/2026-10-06_Ch15_fresh.md), section 2, N4 item 8. Among them: "That was not bravery. / It was distance." (now "She had already been moving when Milo shouted the second time."), the three "That mattered.", "That was also a choice.", "That distinction was the entire world…" (kept as "for the next several seconds that difference was the entire world"), "Not fast. / Decisively.", "No glow. / No magical consumption.", "No coat. / No card. / No useful relic.", "The correction landed even here.", "There was almost humor in it.", "The answer seemed to satisfy him more than certainty would have.", "It was getting easier to say.", "She ignored that.", "Elizabeth hated that too." / "The silence inside him was visible.", and "Different mess. Different consequence.". The stock gesture "Shade's mouth moved at one corner." is gone.
+- **Records:** R37 and Q-E corrected; Plan row 15, the option 2 row and the climax section; ledger P8, O4, R12, R14; triage 15.1, 15.3–15.6; Registry row 15; the status table.
+
+**The tenth seats and how they were answered:**
+
+- **N1 (ORANGE):** narrowed to the look and one line; recorded as showing the motive, not meeting the rule. All seven conditions (a–g) met; the fresh check confirms.
+- **N2 (YELLOW):** close cut; one line of reason is on the page; no meaning-sentence added back; the blob-eye line fixed; triage 15.4 and ledger R14 updated.
+- **N3 (YELLOW):** the pause kept at one beat and recorded as a departure; "The fire had not reached it yet." and "She didn't stop." kept; the checking motion unchanged.
+- **N4 (YELLOW):** the content of items 1–6 kept in sentences (the effort "too small for the moment, and still real"; not asking, not forgiving; his own hand; the blob not punishing Pathwell; pinned without crushing; the blob's assessing and turn); the opener corrected; the old text listed.
+- **N5 (YELLOW):** done, with the queen at the Ch14 placement. The frame name across Ch16 is for the Ch16 pass.
+- **N6 (GREEN):** "You can ask." and "Will you stay?" untouched. *Correction:* N6 cited a lock for "Shade closed it himself"; there is none (the locks are Q131 and C30), and 15.6's order was not GREEN against C29.
+- **Second seat D1 (YELLOW):** done (the hand still open when the draw quiets; both men looking; the blob the cause). **D2 (YELLOW):** done (moved, verb fixed, no counterfactual, kept silent), flagged.
+
+**Kept against the checks, as leans (R36):**
+
+1. **The diary pause** (one beat) against C2 §7a/§8.
+2. **"The answer came out in Shade's voice and Pathwell's voice and her own."** (reader snag 7). It notices the book's shared "I know." on purpose, once.
+3. **"A person could accumulate a surprising amount of life in a morning."** and **"Shade had never been particularly interested in deserving scenes."** (reader snags 8 and 9). Both were on the decisions' keep list; they are the narrator's grief, said once each.
+4. **"For once, the world didn't reorder itself around the fact that Pathwell had fallen down."** and **"Not everything. Something."** stay. The first is mid-chapter, not a closing turn.
+5. **"No spell. / No sacrifice. / No last message. / Just fire."** stays: the cold reader's line, and the one place the climax keeps the fragment cadence.
+6. **No soft beat after the death** (reader Pass 3 item 1; the biscuit for Milo not added). Ch16 opens on Camp carrying on.
+7. **Stansbury's letters may still read as the Ch12 packet** beside the cookbook; only the explicit claim is cut.
+
+**For the author:**
+
+- **The 2026-09-18 rule** ("her final choice materially alters the central conflict"): not met by option 2 or 3b. If you want it met, the only option that changes the outcome is 3 (the dagger used), which the Plan says risks making her the solver. Default: not met; the book goes on.
+- **The diary pause** against C2 §8.
+- **C29:** both men now look when the quiet comes; the draw goes quiet before he's gone. If you preferred the old order (the draw vanishing after), say so.
+- **The dagger in Ch15**, or leave it silent with Ch14 carrying it.
+- **Shade's line:** "I told Pathwell to leave it unresolved. I thought I'd be the one carrying it."
+
+**New lines, plain, flagged:**
+
+- "about as far toward the archive as the draw had let him come"
+- "Shade watched them go. Then he looked at Elizabeth's left arm, hanging out of what was left of the sling."
+- "I told Pathwell to leave it unresolved," he said. "I thought I'd be the one carrying it."
+- "It's the best I have."
+- "That is new. Whatever it's been following all night isn't."
+- "Your theories have had a bad morning."
+- "Worse. Mine."
+- The dagger paragraph (above).
+- "Shade looked at Pathwell, and Pathwell was looking back." / "Then the blob took his chest, and the draw went quiet." / "Shade's right hand was still open toward him."
+- "found nothing left that it had come for"
+- "Shade calling Milo a cheat"
+
+**Carried to later passes:** Ch16: the frame name ("failed brass frame", Ch16:454), the 19 "Not/No" openers (the rhythm will change at the chapter boundary), where the dagger goes. Book-wide: in-sentence negations and restraint notes ("didn't <verb>" rose as the fragments went), ", and" joins and colon-lists (the fresh check's replacement-tic count), look-beat openers, the shared "I know.".
+
+**The routine (D23):**
+
+| Step | P40 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader item 1: mild break, no soft place after the death; lean 6) |
+| 2 Shapes in the Registry | done (row 15) |
+| 3 Checker | done (numbers above) |
+| 4 Scene diagnostic | done (reader item 2: holds) |
+| 5 Fresh check | done |
+| 6 Reader protocol, with the tone and rules check | done (1 hold, 6 mild breaks, 1 unconfirmable before this entry; answered above) |
+| 7 Replacement tic | done (fragments replaced by in-sentence negations, ", and" joins and colon-lists; some cut, the rest carried book-wide) |
+| 8 Deliberate ambiguity | left alone (whether Shade expected to die; whether the quiet felt like being seen, C29) |
+| 9 Change notes from the diff | done (above, against P39) |
+| Tenth seat | done twice (ORANGE on the decisions; YELLOW on the two post-reader changes) |
+| Light Sunday touch | checked; none added after the death (lean 6); Milo's "You still owe me a hand" and "I was winning" carry it |
+
+**Not re-run:** the reader and the fresh check on their own fixes.
