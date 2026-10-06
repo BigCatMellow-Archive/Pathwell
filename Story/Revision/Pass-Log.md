@@ -2309,3 +2309,71 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 | Light Sunday touch | checked; the chapter has it (the Lemon, Milo's boots, "Copy the smudge.", "lose worse"); none added |
 
 **Not re-run:** the reader and the fresh check on their own fixes.
+
+## P43, 2026-10-06: Chapter 18, the ending
+
+**Goal:** Plan row 18: make the cookbook the silent put-back the interview locked (no price, no branches, no dialogue about it; Q96, Q99, Q103), let "It was my fault" stand without naming Shade or a reply (Q95), make the last exchange plainly Elizabeth's (R9, Q102), and cut the "Not…" cadence (27 paragraphs, the densest in the book). The author said "finish it". The author's draft stops at the museum, so every line here is the August text. The decisions were written before drafting (N1–N5) and the tenth seat ran on them ([file](Tenth-Seat/2026-10-06_Ch18-decisions.md): **ORANGE** overall; N1 and N2 ORANGE, N3 YELLOW, N5 GREEN). The reader ran all three passes ([report](Reader-Reports/2026-10-06_Ch18_reader.md): no stoppers, 8 snags, 17 quibbles; "the book ends on a small, warm, funny errand, with the Ch1 triplet turned the right way round") and the fresh check ran against the pre-pass text ([report](Reader-Reports/2026-10-06_Ch18_fresh.md): no lock broken; the last three lines byte-identical). The change notes below are from the diff against the last commit (P42).
+
+**What changed, from the diff** (2,720 → 2,182 words; paragraphs 477 → about 215; short paragraphs 55% → about 45%, nearly all of them dialogue and the cookbook's own text; "Not…/No…" narration openers 28 → 3; commentary 13 → 1; uncontracted narration forms 20 → 2):
+
+- **The cookbook, silent (N1).** The tenth seat found the decision kept a transaction begun (the ledger turned, his hand flat on it, the shopkeeper's fingers, "Nothing had released."), which Q96 allows but Q103, Plan row 18 and the author's own 2026-09-18 note (§13: he "does **not** ask what it costs", "does **not** start a transaction", "does **not** explicitly test or discuss whether pruning still works") do not. **This pass follows §13 and R19:** never starts. He asks "May I?", picks it up, reads the margins with her (RUTH LIED ABOUT THE LARD. / SHE DID NOT. YOU USED THE WRONG CUP.; the tomato soup; "They seem healthy." / "By family standards,"), the smile fades, "His eyes went to the ledger under the shopkeeper's arm and stayed there.", he looks down at the open book a long moment, closes it, puts it back on the shelf square to the edge, and takes his hand off the cover. After a silence, the shopkeeper takes off his glasses: "I may need to sit down." / "You are sitting spiritually," Pathwell said. / "Do not ruin this." (protected; the seat says it doesn't break Q103's letter). Cut: "How much?", the price and the pockets, "Future." / "Yours?" / "Mine.", the branches ("Alive. / Still capable of division. / Still his."), the shopkeeper's raised fingers, "Nothing had released.", the lift, "Nothing had been spent.", "Camp lost a family cookbook." / "Camp lost Nana's cookbook.", "No what?" / "It isn't Nana's." / "And Camp didn't ask for it." / "Then it stays itself.", the listing lines and "Disturbing.". The narrator's "the need, the available thing, the method, the price" was drafted and then cut after the reader (it explained what the glance shows).
+- **"It was my fault" (N2).** Cut: "Shade." (Q95: he doesn't name Shade), "Elizabeth knew they were no longer talking about cookbooks.", the list (first prune, museum, frame, fire) and the Shade sentence, "Elizabeth did not soften it." / "Yes.", and "Life, apparently, remained aggressively uninterested in timing.". The seat's condition was a Shade carrier that isn't Pathwell naming him, and distance from the cookbook. So the admission moved after the coffee: "It was. Shade would have liked it." (Elizabeth's thought; Ch16's "He liked terrible coffee."), the coffee banter, then "He turned the refused cup a quarter turn on the counter and left it there." / "I kept thinking resemblance was enough," he said. / He looked at his empty hand. / "It was my fault." / No speech followed. / The shopkeeper put his glasses back on, opened his ledger again, and went on adding numbers. The reader, asked cold what it referred to: "Shade comes to mind first… The page never says which, and I take that as the design."
+- **The ending (N3).** "Already chosen to follow. / Not leading. / Not being dragged. / Coming." is cut, and "Pathwell stopped beside her." no longer comes right before the question. Now: "She looked back. He had already stepped away from the counter, and he came to stand beside her." / "Elizabeth kept her hand on the handle." / "Are you ready?" / "No." / "Perfect." The handle isn't turned before his "No." (Q102: his "No." is unreadiness, not a boundary she overrides). The last three lines are unchanged, with nothing after them. "Freely. / No debt. / No Camp order. / No blob. / No one waiting… / At least as far as either of them knew." is one sentence ("He said it freely: …").
+- **Line pass (N4).** Merged or cut: the phone pause; "No mission. / No instructions. / No suggestion…" (one sentence; the dumpling kept); "This was not strategy. / That was also new."; "No sling."; "That was all. / She let the silence continue. / It did not need saving."; the smell list; "He did not make anything of it. / That helped too."; "That was pleasant."; "None of it meant she was special. / That made the room better." (Ch9 says it); "Not guarding her. / Not following."; "Not published cookbooks. / The other kind."; "Not checking for the diary this time. / Just somewhere to put it."; "Not offended. / Not amused. / Surprised."; "The shop was enough. / Being there because she had asked to be there was enough."; the narrator's "apparently" (the postcards). Elizabeth's "Fair." → "Fair enough." Contractions in narration.
+- **After the reader and the fresh check:** "Pathwell hadn't asked why she wanted to go back, though they had gone three blocks." (it said "until", and he never asks); "The entrance wasn't the concrete wall she remembered." (there is no alley in Ch3); "The first time, she had been offered the sidewalk, and had chosen a forest without knowing what it was." (Ch4); "I contain multitudes," Elizabeth said; Pathwell's "The fifth is seasonal." joined to his look (it read as the shopkeeper's); "At some point Elizabeth realized she had stopped waiting…" moved before the coffee (after the admission it read as her answer to it); "Pathwell nodded. The silence didn't need saving." (it repeated Ch17 word for word); "She said nothing." cut.
+- **Records:** Decisions (the Q94–Q103 lock rows' manuscript column; Q-I); Plan row 18 and the ending notes; ledger P7, O1, O11, R1, R3, R7, R16; triage 18.1–18.8; Registry row 18; the status table.
+
+**The tenth seat and how it was answered:**
+
+- **N1 (ORANGE):** answered by choosing the never-starts reading, on the author's own §13 and R19, and recording it (Decisions Q-I, triage 18.2). The shopkeeper's banter kept after a silence, with his glasses off and back on; "You are sitting spiritually" tagged to Pathwell. The listing line cut (overrides triage 18.1's KEEP).
+- **N2 (ORANGE):** a Shade carrier put before the line (Elizabeth's thought), the cookbook anchor broken by distance (the admission is now an hour and a cup of coffee later), and the no-locks cold read run (Shade first). "Yes." cut as the lower-regret reading of Continued 32, and put to the author. "Elizabeth let it stand." not used.
+- **N3 (YELLOW):** done; the last paragraph before the question has Elizabeth as its only subject; the handle not turned.
+- **N5 (GREEN):** the dagger stays open at the end of the book (ledger O4: open-deliberate).
+
+**Kept against the checks, as leans (R36):**
+
+1. **"I may need to sit down." / "You are sitting spiritually." / "Do not ruin this."** It's the shopkeeper's surprise that he didn't buy, not an explanation, and it's one of the book's best exchanges (Assessment).
+2. **"What routes can you actually get us back from?"** (reader snag 6). It is the responsible version of the question; the shopkeeper's routes answer it.
+3. **The pause's explanation** ("the kind where a man with too many habitual answers was checking…") stays, merged into one sentence.
+4. **"You've changed."** (fresh check: the one place Elizabeth names his change). It is a joke, and he deflects it.
+5. **"Nothing has released yet."** (Ch14) is now unpaid. No lock or later chapter needs it; Ch18 no longer stages a prune for it to rhyme with.
+
+**For the author:**
+
+- **The cookbook** follows your 2026-09-18 note exactly: he doesn't ask the price or begin anything. If you wanted him to begin and stop (Q96's "could push the attempt far enough"), that is the old version, minus the branches.
+- **Elizabeth's "Yes."** after "It was my fault" is cut (your lock: no response just to show she understands). If you read "Yes." as her holding him to it, it can come back.
+- **"Shade would have liked it."** is the new line that points the admission at Shade without Pathwell naming him.
+- **The dagger** is never mentioned again after Ch15.
+
+**New lines, plain, flagged:**
+
+- "He looked at her left shoulder, out of the sling now, and looked away again without asking for a report."
+- "The entrance wasn't the concrete wall she remembered."
+- "His eyes went to the ledger under the shopkeeper's arm and stayed there."
+- "Pathwell looked down at the open book for a long moment." / "Then he closed it, carefully, and put it back on the end of the shelf where it had been, square to the edge." / "He took his hand off the cover." / "For a while nobody said anything."
+- "It was. Shade would have liked it."
+- "He turned the refused cup a quarter turn on the counter and left it there."
+- "The shopkeeper put his glasses back on, opened his ledger again, and went on adding numbers."
+- "The first time, she had been offered the sidewalk, and had chosen a forest without knowing what it was."
+- "He said it freely:"
+- "She looked back. He had already stepped away from the counter, and he came to stand beside her." / "Elizabeth kept her hand on the handle."
+
+**Carried to later passes:** the reference pages still say Ch18 "begins" a prune (world bible line 55; contract matrix lines 779 and 881; Decision-Timeline Q138b, Q140b) and the Ch14 tenth seat says Ch18 "completes" the lift; book-wide: "Name looked" openers, "-ly" one-word replies, absence-lists.
+
+**The routine (D23):**
+
+| Step | P43 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader item 1: holds; the one brace, the formula sentence, cut) |
+| 2 Shapes in the Registry | done (row 18) |
+| 3 Checker | done (numbers above; no stock phrases book-wide) |
+| 4 Scene diagnostic | done (reader item 2: holds; explained-after-shown lines cut) |
+| 5 Fresh check | done |
+| 6 Reader protocol, with the tone and rules check | done (no stoppers; answered above) |
+| 7 Replacement tic | done (look openers, "-ly" replies, absence-lists noted; two cut, the rest carried book-wide) |
+| 8 Deliberate ambiguity | left alone on purpose: what "resemblance" and "my fault" point to (Q95), and whether he can still prune (Q96) |
+| 9 Change notes from the diff | done (above, against P42) |
+| Tenth seat | done (ORANGE; answered by the author's §13) |
+| Light Sunday touch | checked; the chapter is the book's lightest (the cat, "Diseased lemon.", the margins, the geese); none added |
+
+**Not re-run:** the reader and the fresh check on their own fixes.
