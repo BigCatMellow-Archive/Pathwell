@@ -2229,3 +2229,83 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 | Light Sunday touch | checked; the chapter has it already (Milo's boot, "new hobby", the terrible coffee); none added |
 
 **Not re-run:** the reader and the fresh check on their own fixes.
+
+## P42, 2026-10-06: Chapter 17, three weeks
+
+**Goal:** Plan row 17: compress the correction montage around the Henry Vale refusal, fix the museum section's viewpoint, add a line on how Elizabeth reaches Camp, and cut the closing summation. The author's draft stops at the museum, so every line here is the August text. **This pass ran in two sittings.** A run this morning wrote the decisions (K1–K6), ran a tenth seat on them ([file](Tenth-Seat/2026-10-06_Ch17-decisions.md): **YELLOW** overall; K3 **RED** as written), drafted the chapter to its conditions and ran the fresh check ([report](Reader-Reports/2026-10-06_Ch17_fresh.md)), but stopped before the reader ran or anything was committed. This afternoon's run applied the fresh check's fixes, ran the reader with all three passes ([report](Reader-Reports/2026-10-06_Ch17_reader.md): no stoppers, 7 snags, 16 quibbles), and applied most of those. The change notes below are from the diff against the last commit (P41).
+
+**What changed, from the diff** (2,762 → 2,549 words; paragraphs 420 → 202; short paragraphs 45% → 29%; "Not…/No…" narration openers 16 → 2; checker commentary paragraphs 18 → 2; uncontracted narration forms 17 → 3):
+
+- **The museum section in Elizabeth's view (K1; lock Q140; overrides triage 17.1).** It was told from inside the room with Pathwell ("The old answer was already assembled behind his teeth."), with Elizabeth arriving at the end. Now it opens on why she is there ("The current curator emailed Elizabeth directly. Pathwell hadn't asked her to come. The museum wanted a witness statement from someone who had been in the room and wasn't Pathwell."), and she sits at a side table writing it while the curator works through his stacks. The copies he has been supplying are in the curator's dialogue ("You've sent us scans, photographs and old catalog entries since." / "Every copy I could find." / "Useful," the curator said. "Not returned."). The temptation is shown, not narrated from inside: he says the old answer aloud ("Same family. Same period. Genuine originals. It is better than an empty—"), stops, looks at the empty case, says "No," and puts the packet back; "At the side table, Elizabeth's pen had stopped." Stansbury's "I have standing." now gets Elizabeth's "You were burned at a different incident." / "It's a series," Stansbury said. The narrow-socks memory is now "a man who had kept every pair of socks".
+- **The montage compressed (K2).** Cut as repeats of the rack and the cabinets: the lavender boxes, the wrong wagon ("Other one."), the knot. The cabinets are one paragraph. Cut as the narrator grading: "No one applauded. / That was also useful.", "This surprised nobody but Pathwell.", "That helped.", "That was when Elizabeth began trusting it more.", "That mattered more than if he had said yes." ("She believed him." stays), "Not once. / Elizabeth noticed because she expected him to. / Then she noticed herself expecting him to. / That was information too." ("Pathwell never mentioned changing it again." stays), "Pathwell accepted both facts without trying to combine them. / Elizabeth saw that too.", "By the second week, Pathwell had been corrected often enough that correction stopped looking like a dramatic event." Kept: the rack, the cabinets, "Copy the smudge.", the board ("That hurt." / "Want me to say you're doing well?" / "No."), the Lemon with his asking (Ch18 calls back "Diseased lemon." and "I asked first."), Hearts, the reopening, the last placing. The old text of every cut narrator line is in the [fresh check](Reader-Reports/2026-10-06_Ch17_fresh.md), section 6.
+- **One shared task (K2 condition c; Q134).** "Elizabeth stayed for lunch. Afterward the archivist put a stack of finished copies in front of her and the blue notebook beside it, and she checked them one-handed at the next table, line against line. In the third copy she found a place where Pathwell had quietly fixed somebody's spelling of Susquehanna." / He copies the page again, "mistake included." Whether this meets Q134's "working alongside" is put to the author; the record does not claim it.
+- **How she reaches Camp (K3).** The decision's line ("through the Space Between and down the dirt road; the shopkeeper had stopped asking her business…") was **RED**: Ch18 has the shop greet her as new, and Q137 forbids an Elizabeth-only route. The line now says she is brought and names no route: "Getting there meant asking Pathwell to open the way." (Q137b allows him to open the threshold.) The fresh check's version cut "still" and "he did it without asking what she wanted there", which pre-echoed a Ch18 beat.
+- **The close (K4).** Cut: "Three weeks had not fixed any of those sentences. / Three weeks had only made another sentence possible beside them:", "Evidence was enough for a next choice. / Not an obligation. / A choice.", and "For the first time since the crash," (Ch7 has the same turn). Kept: the list of what stays broken, "Pathwell had kept showing up when other people told him what needed doing.", "Elizabeth didn't call that redemption. She called it evidence.", and the motive-list ending, now the only one of its kind in the book's last chapters.
+- **Continuity and line items (K5):**
+  - Triage 17.5's "hip" is stale (Ch12 has the diary in her coat pocket "against her hip"); kept.
+  - The route-copy box slides under the rack (17.6); "Pathwell looked at the box under the rack."; the label joke is on that box.
+  - "2026" cut from the museum card ("ORIGINAL DESTROYED IN COLLECTION INCIDENT."); for the author.
+  - "the original letters" restored; "The current curator" (Margaret Bell was the first).
+  - The packet goes back into his coat, where it came from.
+  - "Not X. / Y." runs merged; the narrator's "apparently" cut; one "Elizabeth could see" left (the Lemon); "while he felt bad" restored to the list of things nobody asked of her.
+  - Speakers tagged where Elizabeth's presence made them ambiguous: the curator's "No." (with her unchanged face restored), "The curator waited.", "It's a series," "Continue writing," Stansbury said; "Pathwell looked at Stansbury. 'I regret bringing you.'"; "He was bad," Milo said.
+  - A few look beats became tags. The reopening now has Elizabeth in it ("Elizabeth went to see the museum reopen…"), and its closer "Nothing pretended to be what it was not." is cut. The adventure paragraph loses "She was beginning to suspect that was because nobody had asked her what counted as adventure before."
+- **Records:** Plan row 17; ledger R9 (the quote) and O4 (not used in Ch17); triage 17.1, 17.2, 17.5, 17.6; Registry row 17 and the "For the first time" device row; the status table.
+
+**The tenth seat and how it was answered:**
+
+- **K1 (YELLOW):** all six conditions met (one "could see" left, not at Henry Vale; the four reasons spoken and cut off, not narrated; the copies on the page; the "sit beside Pathwell" line reworded to the room; Stansbury's standing answered). Q140 is the reason; the alternative (a clean Pathwell section) is the author's.
+- **K2 (YELLOW):** done; the Lemon intact; the smudge exchange as written; one shared task added, and Q134 put to the author rather than claimed.
+- **K3 (RED as written):** replaced with the seat's option 2.
+- **K4 (GREEN):** done, with the fresh check's trim ("Pathwell had kept showing up…" without "And for three weeks").
+- **K5 (YELLOW):** done; 17.5's premise was stale, as the seat said; the dagger not used (ledger O4).
+- **K6 (GREEN):** every named line kept.
+
+**Kept against the checks, as leans (R36):**
+
+1. **"Pathwell had kept showing up…" / "She called it evidence."** (reader snag 2). Ch18 depends on her having a reason to call him; this is where she names it, once.
+2. **The list of what stays broken, all seven "still"s** (reader snag 5). Three of them repeat Ch15–16, but the list is what stops three weeks of good behaviour reading as a repair.
+3. **The new relapse beat (Susquehanna)** (fresh check: it repeats the smudge's shape). It is the one task Elizabeth does with her own hands, and the relapse is caught by her, not by Camp.
+4. **Pathwell saying the old answer aloud before he stops** (fresh check: a visible relapse, where before it was silent). It's the only way to show the temptation without his interior.
+5. **The museum section has no Pathwell interior at all**, though the cold reader may miss the inside of the temptation.
+
+**For the author:**
+
+- **Q134 ("working alongside each other"):** one shared task is on the page (she checks his copies). Enough, or do you want more?
+- **The museum section:** in Elizabeth's view now (Q140). If you want it back in Pathwell's head, that's a third POV exception.
+- **The year on the museum card ("2026"):** cut, so the book isn't dated. Put it back?
+- **The dagger:** still not used; Ch18 is the last place.
+
+**New lines, plain, flagged:**
+
+- "Getting there meant asking Pathwell to open the way."
+- The shared task paragraph (above) and "copied the page again, mistake included."
+- "The current curator emailed Elizabeth directly. Pathwell hadn't asked her to come. The museum wanted a witness statement from someone who had been in the room and wasn't Pathwell."
+- "So she sat at a side table in the damaged gallery with a pen and a lined pad, writing it one-handed, while the museum made Pathwell write everything down."
+- "Elizabeth didn't look up from her pad. 'You were burned at a different incident.'" / "'It's a series,' Stansbury said."
+- "You've sent us scans, photographs and old catalog entries since." / "Every copy I could find." / "Useful," the curator said. "Not returned."
+- "Same family," Pathwell said. "Same period. Genuine originals. It is better than an empty—"
+- "At the side table, Elizabeth's pen had stopped."
+- "or to sit any nearer to Pathwell than the side table she'd been given while he felt bad."
+- "remembered a man who had kept every pair of socks"
+- "Elizabeth went to see the museum reopen the damaged gallery"
+
+**Carried to later passes:** book-wide: look beats at the front of dialogue (18 "Pathwell looked/stared" openers here), the shared flat deadpan across Pathwell, the curator, the archivist, Stansbury and Mama Baga, and the "comply button" shape. Ch18: the dagger, if at all.
+
+**The routine (D23):**
+
+| Step | P42 |
+| --- | --- |
+| 1 Sunday tone guardrails | done (reader item 1: holds with marks; the narrator's summaries cut) |
+| 2 Shapes in the Registry | done (row 17; the device row) |
+| 3 Checker | done (numbers above) |
+| 4 Scene diagnostic | done (reader item 2: holds for the rack, Henry Vale, Hearts and the label; the and-then stretches trimmed) |
+| 5 Fresh check | done (in the morning sitting; its fixes applied) |
+| 6 Reader protocol, with the tone and rules check | done (no stoppers; answered above) |
+| 7 Replacement tic | done (look beats and the comply button; a few cut, the rest carried book-wide) |
+| 8 Deliberate ambiguity | left alone (what she wants to go and do) |
+| 9 Change notes from the diff | done (above, against P41) |
+| Tenth seat | done (YELLOW; K3 RED, replaced) |
+| Light Sunday touch | checked; the chapter has it (the Lemon, Milo's boots, "Copy the smudge.", "lose worse"); none added |
+
+**Not re-run:** the reader and the fresh check on their own fixes.

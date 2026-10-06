@@ -77,7 +77,7 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 | 14 | the rejoining frame; her stance and the dagger left where it is (P39) | a forced act (Pathwell releases payment, against every no) | dread | "The threshold opened onto the unfinished hand of Hearts." | "And inside it, Milo shouted again." (cliffhanger) |
 | 15 | the fire; Shade walks away | acts (Elizabeth saves Milo; Shade, seeing who has paid, separates the signals) (P40) | grief | "Elizabeth reached the archive before the bucket line existed." | "Shade did not either." |
 | 16 | aftermath; restitution terms | people (a hearing, a boundary: "Let it be.") | grief, dry | "Elizabeth was sitting in the dirt and didn't remember sitting down." (P41) | "…for once Pathwell would not be the person deciding what those things were." |
-| 17 | three weeks of restitution | behaviour over time (corrections accepted) | dry comic | "By the third morning, Pathwell had learned that restitution contained more rulers than magic." | "Not because she knew where she wanted to go yet. / Because she wanted to go." |
+| 17 | three weeks of restitution; the Henry Vale refusal, seen from Elizabeth's side table (P42) | behaviour over time (corrections accepted) | dry comic | "By the third morning, Pathwell had learned that restitution contained more rulers than magic." | "Not because she knew where she wanted to go yet. / Because she wanted to go." |
 | 18 | a visit asked for; the Merritt cookbook | a refusal (he lifts his hand) and her invitation | light, wry | "Three weeks and four days after the archive burned, Elizabeth called Pathwell…" | "Are you ready?" / "No." / "Perfect." |
 | Coda | Pathwell alone at the counter; a failed prune | an errand card | wry | "The Space Between smelled the same as it always had…" | "Are you ready?" she said. / "No," he said. / "Perfect." |
 
@@ -91,7 +91,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | --- | --- |
 | Elizabeth follows Pathwell as the chapter's last beat | 1, 2, 3, 4, 5; paid off deliberately in 8 ("following another man who sounded certain") and inverted in 18 |
 | Motive-list close: "Not because X. Not because Y. Because Z." | 2, 4, 9, 17 (Chapter 12's removed in P4) |
-| "For the first time since…" / "For once…" as a closing turn | 4, 7, 16, 17 |
+| "For the first time since…" / "For once…" as a closing turn | 4, 7, 16 (Chapter 17's removed in P42) |
 | The world goes on "without asking permission" | 4, 16, 18 |
 | Opening on a personified place or group | 6, 12 (and a similar witty verdict in 17; 11 and 13 changed in P36/P38) |
 | A drink that "was terrible" | 3, 4, 9, 13, 18 |
