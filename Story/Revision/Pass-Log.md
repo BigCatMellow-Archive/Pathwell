@@ -2387,3 +2387,38 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 ## Method, 2026-10-06: the reader panel (D25)
 
 **Not a revision pass.** The author asked for "a protocol and research… about how to have a good reader / reviewer for the story", worried about "having just 1 run of a reader" and that a dozen agents would be "the same agent a dozen times". Researched and written as the [reader panel](../Sunday-Morning/Reader-Panel.md) in the Sunday notes (D25): readers differ by job, reading condition, model and a short reader's life; each gets a sandbox copy of only the text it should read; the shared questions arrive after the reading; at least one lens runs twice to measure noise; findings are extracted per report, merged twice and sorted into convergent, lens-specific, minority and noise; an informed pass then runs the record checks; and every panel reports a noise check and a diversity check. A fresh reviewer checked the page and its sources twice ([review](Reader-Reports/2026-10-06_Reader-Panel_review.md)) (13 of 14 sources fetched; three misquotes and several overstatements fixed). Pipeline Stage 4, the reader protocol, the README and History link to it. No panel has run yet.
+
+## Q2, 2026-10-08: the first reader panel, whole book
+
+**Not a revision pass; nothing in the chapters changed.** The author asked, "can we run this on the story?", and then, to control cost, chose a lean finish. Files: [Panel-2026-10-08](Reader-Reports/Panel-2026-10-08/README.md); results in [synthesis.md](Reader-Reports/Panel-2026-10-08/synthesis.md). Text read: 281524a.
+
+**Panel:** nine runs by eight lenses in four families, on Sonnet and Haiku (no Opus was available). 883 finding records, two merges (A on Sonnet, B on Haiku) that agree on 77% of grouped pairs, and 43 convergent clusters in each.
+
+**Result, in short:**
+- **The opening premise is the top gap.** Why he was in her flat, whose door it was, "He still has it", and "Lizzy" are now convergent across three families, which confirms Q1's first finding.
+- **Other convergent problems:**
+  - the Ch3 currency (a stopper);
+  - restitution lists (a stopper in B);
+  - Hearts running long (a split; trim, don't cut);
+  - the diary donation repeating the cookbook's;
+  - "That was the choice." and the narrator explaining;
+  - Elizabeth's own want;
+  - "Leo";
+  - who asked for the prune;
+  - the day-of-week slips.
+- **Locks that readers faulted:** R11's Ch8 echo and R32's sock. Both are kept; the Ch8 echo is noted for the author (R26).
+- **Strengths:** the protected beats.
+- **Checks:**
+  - Noise check: 31–36%, under the band.
+  - Diversity check: passed (lens-to-lens overlap 0.03–0.04 against 0.22 for the repeat pair), with one flag, prose/target-1 at 0.20.
+
+**Leans (R36):**
+1. Merge B on Haiku rather than Sonnet, to keep the protocol's "different models".
+2. A "short of convergent" list for findings from two or more lenses below the bar. Step 8 has no place for them; proposed as a protocol fix.
+3. The character reader's Shade findings stay "prompted", per the extraction rule, so they don't count toward convergence.
+4. The lists show only findings at snag or above; quibbles stay in the CSVs.
+5. Lean finish: the orchestrating session did the sort, informed check and goals comparison itself, and the D24 check was not run on the findings. This was the author's choice, recorded as a deviation.
+6. The Ch8 echo stays (R11), with the readers' reaction reported.
+7. The sock: suggest dropping one middle use, not the gag.
+
+**Nothing applied.** The author is holding the open questions.

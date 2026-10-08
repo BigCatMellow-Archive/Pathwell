@@ -1,6 +1,6 @@
-# Reader panel, 2026-10-08 (in progress)
+# Reader panel, 2026-10-08
 
-**Status: partial, saved mid-run.** The first standard [reader panel](../../../Sunday-Morning/Reader-Panel.md) on the whole book. The text read is the chapters at commit 281524a (unchanged since 568dd16).
+**Status: complete (lean finish). Results: [synthesis.md](synthesis.md).** The first standard [reader panel](../../../Sunday-Morning/Reader-Panel.md) on the whole book. The text read is the chapters at commit 281524a (unchanged since 568dd16).
 
 ## Done
 
@@ -30,10 +30,9 @@
   - coverage by type and family;
   - shared phrasing: one five-word phrase in three reports, traced to the briefs' shared ground rule.
 
-## Still to do
-
-1. The synthesis agent's sort and its write-up (splits, the ten-quote check, lens adherence).
-2. The informed pass, the goals comparison, and the report to the author.
+- **Sort, informed check and goals comparison**, all in [synthesis.md](synthesis.md).
+  - The author chose a lean finish to save cost, so the orchestrating session did these steps itself, without a fresh synthesis agent or an informed-pass agent.
+  - The full D24 check was not run on the findings.
 
 ## Deviations from the protocol, recorded
 
