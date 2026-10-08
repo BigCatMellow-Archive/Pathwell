@@ -1,0 +1,126 @@
+Registry: 21 names, 7 stock phrases, 20 watch patterns. Drafts: 9 files matching '*.md'.
+
+== Names ==
+[CHECK] shared prefix 'ell': Ellen (Ch18), Ellison (Ch10)
+[CHECK] shared prefix 'mar': Mara (Ch18), Margaret (Ch11)
+
+== Five-word phrases shared across 3 or more files ==
+  "in order of how much" — prose, target-1, target-2
+
+== Registered stock phrases still present ==
+none
+
+== Filter verbs in narration (he saw / she felt / they heard / noticed / watched) ==
+   Pathwell forbidden pattern #3; subjects are he/she/they and the Registry's protagonists and cast.
+   Not all are wrong; review any file above ~2 per 1,000 words.
+  target-1: 1 (0.7 per 1,000 words)
+  auditor: 1 (0.3 per 1,000 words)
+  skimmer: 3 (0.3 per 1,000 words)
+  character: 0 (0.0 per 1,000 words)
+  hostile: 0 (0.0 per 1,000 words)
+  prose: 0 (0.0 per 1,000 words)
+  reluctant: 0 (0.0 per 1,000 words)
+  rules: 0 (0.0 per 1,000 words)
+  target-2: 0 (0.0 per 1,000 words)
+
+== Uncontracted forms in narration (did not / was not / cannot) ==
+   Craft, 'Write how people talk'. Fine for emphasis; review any file above ~1 per 1,000 words.
+  reluctant: 28 (15.1 per 1,000 words)
+  rules: 21 (9.4 per 1,000 words)
+  hostile: 2 (3.2 per 1,000 words)
+  auditor: 7 (1.9 per 1,000 words)
+  skimmer: 11 (0.9 per 1,000 words)
+  target-1: 1 (0.7 per 1,000 words)
+  target-2: 1 (0.6 per 1,000 words)
+  prose: 1 (0.5 per 1,000 words)
+  character: 0 (0.0 per 1,000 words)
+
+== Watch: paragraphs opening "Not…" or "No…" (fragment rhythm) (narration only) ==
+   1 in all files
+  skimmer: 1 (0.1 per 1,000 words)
+
+== Watch: evaluative follow-up ("That mattered." "That helped.") (narration only) ==
+   0 in all files
+
+== Watch: reversal beat ("That made it worse.") (narration only) ==
+   0 in all files
+
+== Watch: "for the first time" / "for once" (narration only) ==
+   3 in all files
+  character: 1 (1.0 per 1,000 words)
+  reluctant: 1 (0.5 per 1,000 words)
+  skimmer: 1 (0.1 per 1,000 words)
+
+== Watch: body parts deciding (narration only) ==
+   0 in all files
+
+== Watch: "without asking permission" (narration only) ==
+   1 in all files
+  skimmer: 1 (0.1 per 1,000 words)
+
+== Watch: narrator's "apparently" (narration only) ==
+   1 in all files
+  skimmer: 1 (0.1 per 1,000 words)
+
+== Watch: narrator's "as if / as though X were…" (narration only) ==
+   1 in all files
+  character: 1 (1.0 per 1,000 words)
+
+== Watch: "category" joke (narration and dialogue) ==
+   0 in all files
+
+== Watch: stock gestures common in AI fiction (see AI-Tells) (narration only) ==
+   5 in all files
+  auditor: 2 (0.5 per 1,000 words)
+  skimmer: 3 (0.3 per 1,000 words)
+
+== Watch: going still (narration only) ==
+   0 in all files
+
+== Watch: choice words (theme density) (narration only) ==
+   19 in all files
+  target-1: 3 (2.0 per 1,000 words)
+  rules: 4 (1.8 per 1,000 words)
+  character: 1 (1.0 per 1,000 words)
+  skimmer: 8 (0.7 per 1,000 words)
+  target-2: 1 (0.6 per 1,000 words)
+  reluctant: 1 (0.5 per 1,000 words)
+  auditor: 1 (0.3 per 1,000 words)
+
+== Watch: "it was terrible" (drink gag) (narration and dialogue) ==
+   0 in all files
+
+== Watch: "Fair." as a reply (narration and dialogue) ==
+   0 in all files
+
+== Watch: "difficult night / morning" (narration and dialogue) ==
+   0 in all files
+
+== Watch: "Lizzy" (narration and dialogue) ==
+   12 in all files
+  skimmer: 12 (1.0 per 1,000 words)
+
+== Watch: bureaucratic imagery (narration only) ==
+   1 in all files
+  skimmer: 1 (0.1 per 1,000 words)
+
+== Watch: "noticed that too" / "saw that too" (narration only) ==
+   0 in all files
+
+== Watch: "mouth moved at one corner" (stock gesture, or a family tell shared by Mama Baga, Shade and Pathwell? for the author, P4) (narration and dialogue) ==
+   0 in all files
+
+== Watch: commentary paragraph (a short line that evaluates the beat just shown) (narration only) ==
+   0 in all files
+
+== Very short paragraphs (four words or fewer) ==
+   Voice guide: fragments are for danger and comic timing, not the default rhythm.
+  reluctant: 18 of 46 paragraphs (39%)
+  prose: 11 of 42 paragraphs (26%)
+  rules: 10 of 56 paragraphs (18%)
+  target-2: 5 of 30 paragraphs (17%)
+  auditor: 5 of 39 paragraphs (13%)
+  skimmer: 4 of 179 paragraphs (2%)
+  character: 0 of 11 paragraphs (0%)
+  hostile: 0 of 12 paragraphs (0%)
+  target-1: 0 of 28 paragraphs (0%)

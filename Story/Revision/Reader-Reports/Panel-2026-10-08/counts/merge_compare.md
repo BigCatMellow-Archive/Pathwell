@@ -1,0 +1,310 @@
+# Merge comparison
+
+Completeness:
+
+- Merge A: 883 rows for 883 records; missing 0, unknown 0, duplicated 0; 649 clusters; clusters mixing type or polarity: 0
+- Merge B: 883 rows for 883 records; missing 0, unknown 0, duplicated 0; 632 clusters; clusters mixing type or polarity: 0
+
+Record pairs grouped together: A 382, B 415, both 305 (agreement on grouped pairs, Dice 0.77).
+
+Records that are singletons in both merges: 452 of 883.
+
+## A clusters (two or more records) that B groups differently
+
+- **A C002** (2; short of convergent): The blob is never explained and appears as if reader should know it (Ch1-15)
+  - B C001 (short of convergent): What the blob is and what "marked" means in Ch1 is unclear — holds reluctant#003 and 2 more
+  - B C174 (lens-specific): What the blob is; it arrives as if the reader should know it — holds skimmer#058
+- **A C001** (2; short of convergent): What "marked" means and what happens if she stays is unexplained (Ch1-9)
+  - B C001 (short of convergent): What the blob is and what "marked" means in Ch1 is unclear — holds reluctant#004, skimmer#006 and 1 more
+- **A C016** (2; short of convergent): Archivist / older woman unnamed and confusable with others (Ch13)
+  - B C196 (lens-specific): Names given to some characters (Milo) and not others (archivist, older woman) — holds reluctant#068
+  - B C198 (lens-specific): Archivist never named; confused with Stansbury and the older woman — holds skimmer#123
+- **A C021** (2; short of convergent): The wrecked Cadillac / fence is never resolved (Ch8-11)
+  - B C020 (short of convergent): The Cadillac's fate is never tracked after the crash (Ch8-11) — holds auditor#013, rules#061 and 1 more
+- **A C043** (2; short of convergent): Healer exam exchange runs long (Ch12)
+  - B C043 (short of convergent): Healer scene runs long (Ch12) — holds reluctant#063, skimmer#110 and 2 more
+- **A C046** (3; convergent): Restitution inventory list could be shorter (Ch16-17)
+  - B C047 (convergent): Restitution scenes (Ch16) list their items and repeat the point — holds target-2#101, skimmer#144 and 2 more
+  - B C048 (convergent): Ch17 aftermath and recap passages run long — holds rules#027 and 3 more
+- **A C047** (2; short of convergent): Restitution scenes repeat across Ch16-17
+  - B C047 (convergent): Restitution scenes (Ch16) list their items and repeat the point — holds skimmer#145, auditor#016 and 2 more
+- **A C048** (4; short of convergent): Five-routes exchange runs long (Ch18)
+  - B C049 (short of convergent): Ch18 five-routes exchange runs long — holds target-2#118, reluctant#089, skimmer#166
+  - B C050 (lens-specific): Ch18 opening call and wagon banter run long — holds skimmer#163 and 1 more
+- **A C035** (2; short of convergent): No plain account of the magic's terms and rules (Ch1-18)
+  - B C058 (convergent): The magic has no plain stated rules the reader can judge choices by (Ch1-18) — holds reluctant#025, skimmer#065 and 1 more
+- **A C058** (3; short of convergent): Cookbook as spell: "Don't think. What's your favorite recipe?" (Ch1)
+  - B C402 (noise suspect): Sugar-cookie spell, magic in a recipe — holds target-1#002
+  - B C062 (short of convergent): The "Don't think. What's your favorite recipe?" drill pulls the reader in (Ch1) — holds target-2#002, skimmer#008
+- **A C057** (3; convergent): Opening image of a stranger reading her diary like a magazine (Ch1)
+  - B C061 (short of convergent): Opening image of the stranger reading her diary works (Ch1) — holds target-2#001, hostile#006
+  - B C403 (minority): Opening scene is concrete and quick (her party, boxes, Nana, stranger) — holds reluctant#001
+- **A C066** (5; convergent): Bookshop payment scene: Pathwell sells his potential, real cost (Ch3)
+  - B C071 (lens-specific): Paying with Pathwell's potential has real cost (Ch3) — holds target-1#014, target-2#015
+  - B C070 (short of convergent): The bookshop sacrifice is the strongest writing so far (Ch3) — holds reluctant#016, hostile#019
+  - B C072 (minority): Pathwell's potential cost is paid in a visible body (Ch3-16) — holds rules#049 and 1 more
+- **A C067** (3; short of convergent): Costs of magic are real and carried through the book (Ch3-16)
+  - B C072 (minority): Pathwell's potential cost is paid in a visible body (Ch3-16) — holds rules#052 and 1 more
+  - B C415 (minority): the rules are good because the costs are real (overall) — holds rules#059
+  - B C468 (noise suspect): costs of the harm stay on the page — holds target-2#120
+- **A C068** (5; convergent): Elizabeth gives up the whole cookbook for one page (Ch4)
+  - B C073 (convergent): Giving up the cookbook page is the book's central cost (Ch4) — holds target-1#017, target-2#018, reluctant#023, hostile#024, hostile#100 and 1 more
+- **A C073** (2; short of convergent): Archive humor: Hess still arguing, dead twenty-two years (Ch4)
+  - B C416 (noise suspect): archive humor (the beetle, Hess still arguing) — holds target-2#020
+  - B C424 (minority): Concrete odd detail in the camp archive notebook — holds prose#058
+- **A C069** (2; short of convergent): Nana's marginal note "MORE IF THEY'RE SICK" (Ch4)
+  - B C073 (convergent): Giving up the cookbook page is the book's central cost (Ch4) — holds skimmer#040 and 5 more
+  - B C077 (short of convergent): Nana's margin note "MORE IF THEY'RE SICK" carries her voice (Ch4) — holds hostile#025 and 1 more
+- **A C074** (6; convergent): Merritt cookbook marginalia "RUTH LIED ABOUT THE LARD" (Ch4,Ch18)
+  - B C077 (short of convergent): Nana's margin note "MORE IF THEY'RE SICK" carries her voice (Ch4) — holds prose#053 and 1 more
+  - B C127 (convergent): Merritt cookbook margin note "RUTH LIED ABOUT THE LARD" (Ch18) — holds target-1#108, target-2#114, reluctant#088, skimmer#169, hostile#096
+- **A C076** (4; short of convergent): Mrs. Pathwell / "I'm the missus" school bit (Ch5)
+  - B C078 (short of convergent): The Mr. and Mrs. Pathwell school bit (Ch5) — holds target-1#026, target-2#025, reluctant#033, skimmer#048 and 1 more
+- **A C080** (2; lens-specific): Elizabeth compares Stansbury's trade to Pathwell's potential sale (Ch5)
+  - B C081 (short of convergent): Stansbury's children's-work argument (Ch5) — holds target-1#031, target-2#028 and 2 more
+- **A C079** (2; short of convergent): Stansbury turns children's schoolwork into weapons, his moral argument (Ch5)
+  - B C081 (short of convergent): Stansbury's children's-work argument (Ch5) — holds target-2#027, reluctant#034 and 2 more
+- **A C082** (2; short of convergent): Brothers' fish argument (Ch6)
+  - B C084 (short of convergent): The brothers' fish-and-bar argument (Ch6) — holds target-2#038, skimmer#055 and 1 more
+- **A C084** (2; short of convergent): "Points in an unpleasant direction" / "Mine." (Ch6)
+  - B C431 (minority): Brothers' bar scene and first interior passage on Pathwell; 'Mine.' lands — holds reluctant#035
+  - B C433 (minority): "Points in an unpleasant direction" / "Mine." — holds skimmer#062
+- **A C083** (2; short of convergent): Back-hall mirror: his face as accusation (Ch6)
+  - B C086 (short of convergent): Mirror self-recognition passage (Ch6) — holds skimmer#060, hostile#037 and 1 more
+- **A C087** (5; convergent): Elizabeth crashes the Cadillac on purpose (Ch8)
+  - B C088 (convergent): Elizabeth crashes the car on purpose (Ch8) — holds target-1#042, target-2#048, reluctant#041, hostile#046
+  - B C443 (minority): Opening: choosing where to crash — holds skimmer#075
+- **A C088** (3; convergent): Shade as inherited-memory idea: "Same ingredients. Different recipe." (Ch8)
+  - B C089 (short of convergent): "Same ingredients. Different recipe." reveal lands (Ch8) — holds reluctant#042, skimmer#079
+  - B C450 (minority): Shade as an idea: a doubled man with remembered things — holds hostile#047
+- **A C091** (3; short of convergent): Shade's right-hand motif (Ch8-9)
+  - B C446 (minority): Shade's hand fighting him, shown not explained — holds character#001
+  - B C093 (minority): Shade's right-hand motif pays off (Ch9-15) — holds prose#039, prose#050
+- **A C090** (2; short of convergent): Shade's list of borrowed memories (Ch9)
+  - B C091 (short of convergent): Shade's borrowed memories are specific fragments (Ch9) — holds target-2#053, character#007 and 1 more
+- **A C092** (3; convergent): Pathwell's confession in the van that his choice produced the failure (Ch10)
+  - B C094 (convergent): Pathwell's van confession (Ch10) — holds target-1#053, reluctant#048, hostile#053 and 1 more
+- **A C094** (5; convergent): Unsent letter spent to find her; grocery lists as route-finder (Ch10)
+  - B C096 (convergent): Grocery-list tracking spell and the unsent letter (Ch10) — holds target-1#054, target-2#058, skimmer#095, hostile#054
+  - B C461 (minority): Unsent letter and magic that loosens the handwriting — holds hostile#052
+- **A C093** (3; short of convergent): Elizabeth refuses to be the excuse in the van (Ch10)
+  - B C094 (convergent): Pathwell's van confession (Ch10) — holds target-2#061 and 3 more
+  - B C095 (short of convergent): Elizabeth refuses to be Pathwell's excuse (Ch10) — holds reluctant#049, skimmer#096
+- **A C095** (7; convergent): Museum accession cards and Sam's eggs (Ch11)
+  - B C097 (convergent): Accession cards and household ledgers show what magic breaks (Ch11) — holds target-1#060, target-2#064, reluctant#054, skimmer#104, skimmer#105, hostile#057
+  - B C464 (noise suspect): Sam's notebook and the end of the war — holds target-2#065
+- **A C098** (2; lens-specific): Pathwell says "All right" then does it anyway; book doesn't let him off (Ch11)
+  - B C462 (noise suspect): Pathwell breaks his van promise and the book doesn't let him off — holds target-1#062
+  - B C465 (noise suspect): Pathwell says "All right" then does it anyway, shown from his side — holds target-2#066
+- **A C097** (3; short of convergent): Elizabeth chooses Camp: "I'm still choosing it." (Ch11)
+  - B C098 (short of convergent): Elizabeth chooses Camp at the wall (Ch11) — holds target-1#064, reluctant#057
+  - B C467 (noise suspect): Pathwell's exit line — holds target-2#071
+- **A C096** (2; short of convergent): Curator refuses substitution for lost Vale letters (Ch11,Ch17)
+  - B C471 (minority): Daniel Vale letters lost, substitutes refused — holds rules#057
+  - B C517 (minority): Curator refuses substitution; facsimile card — holds hostile#093
+- **A C101** (3; convergent): Healer asks permission before resetting the shoulder (Ch12)
+  - B C101 (lens-specific): Healer asks before touching the shoulder (Ch12) — holds target-1#068, target-2#076
+  - B C481 (minority): Shoulder reset written with restraint — holds hostile#063
+- **A C107** (4; short of convergent): Queen of spades laid early and paid late (Ch13-17)
+  - B C483 (noise suspect): queen of spades image — holds target-2#083
+  - B C484 (minority): queen of spades laid early, paid late — holds auditor#024
+  - B C486 (minority): Queen of spades pocketed then returned to Milo — holds character#031
+  - B C513 (noise suspect): Hearts game and queen of spades echoing Shade — holds target-2#111
+- **A C108** (2; short of convergent): Hearts game: Shade becomes a person, "I don't know what I am here" (Ch13)
+  - B C107 (short of convergent): Shade becomes a person at the card table (Ch13) — holds reluctant#064, hostile#069 and 1 more
+- **A C110** (4; short of convergent): Shade refuses to be the rejoining anchor (Ch14)
+  - B C108 (short of convergent): Shade refuses to be the rejoining anchor (Ch14) — holds target-1#081, character#039
+  - B C109 (short of convergent): Shade's argument that the result does not decide the choice (Ch14) — holds target-2#084, reluctant#076
+- **A C111** (2; short of convergent): Mama Baga states how the rejoining working fails (Ch14)
+  - B C491 (minority): rejoining frame fails on intent; Mama Baga states the rule; Elizabeth with unused dagger — holds rules#050
+  - B C494 (minority): Mama Baga's sharp lines about the working — holds hostile#079
+- **A C113** (5; convergent): Fire takes diary and cookbook: "No spell. No sacrifice." (Ch15)
+  - B C115 (convergent): The cookbook and diary burn with no magical payoff (Ch15) — holds target-1#088, reluctant#078, skimmer#142, hostile#084
+  - B C116 (short of convergent): Elizabeth runs past her diary and cookbook to save Milo (Ch15) — holds target-2#091 and 2 more
+- **A C114** (3; short of convergent): Shade walks into the blob: "You still owe me a hand." (Ch15-16)
+  - B C113 (short of convergent): Shade walks into the blob: "You still owe me a hand" (Ch15) — holds target-1#091, reluctant#077
+  - B C505 (noise suspect): Milo and Shade's debt — holds target-2#098
+- **A C121** (3; convergent): Mama Baga's restitution scene refuses the grand gesture (Ch16)
+  - B C118 (short of convergent): Mama Baga's restitution scene is the book's thesis (Ch16) — holds reluctant#081, hostile#089
+  - B C510 (minority): Camp's restitution terms say who sets the price — holds rules#051
+- **A C075** (2; short of convergent): Pathwell shelves/closes the Merritt cookbook with no speech (Ch18)
+  - B C519 (noise suspect): Pathwell shelving the cookbook square to the edge — holds target-2#115
+  - B C525 (minority): Pathwell closes the book; no speech — holds hostile#098
+- **A C128** (2; lens-specific): Ch17 closing recap restates losses the walk already showed
+  - B C145 (convergent): Ch17 summary paragraphs restate the arc (Ch17) — holds target-1#105, target-2#106 and 1 more
+- **A C134** (2; short of convergent): Characters share one dry deadpan register so voices blur (Ch4-18)
+  - B C136 (convergent): Every character speaks in the same dry register (Ch4-18) — holds prose#001, character#025 and 5 more
+- **A C135** (2; short of convergent): "Important distinction" catchphrase shared and repeated (Ch7-18)
+  - B C136 (convergent): Every character speaks in the same dry register (Ch4-18) — holds target-1#114 and 6 more
+  - B C624 (lens-specific): 'Important distinction.' repeated word for word — holds prose#007
+- **A C139** (2; short of convergent): "Fair." / stock one-word replies as a tic (Ch9-18)
+  - B C138 (short of convergent): Stock one-word replies ("Probably.", "Fair.") repeat (Ch9) — holds skimmer#086, prose#033 and 1 more
+
+47 A clusters differ.
+
+## B clusters (two or more records) that A groups differently
+
+- **B C001** (3; short of convergent): What the blob is and what "marked" means in Ch1 is unclear
+  - A C002 (short of convergent): The blob is never explained and appears as if reader should know it (Ch1-15) — holds reluctant#003 and 1 more
+  - A C001 (short of convergent): What "marked" means and what happens if she stays is unexplained (Ch1-9) — holds reluctant#004, skimmer#006
+- **B C016** (2; minority): Whether the flat is marked and cleared is never tracked (Ch1-18)
+  - A C207 (minority): whether the flat is marked against Elizabeth or Pathwell, and whether it is cleared (Ch1,Ch4,Ch6,Ch7,Ch17,Ch18) — holds rules#002
+  - A C227 (minority): landlord replaces the marked door; nobody asks about the mark (Ch4,Ch18) — holds rules#062
+- **B C018** (2; short of convergent): Coffee shop became a shuttered laundromat, never explained (Ch2-18)
+  - A C210 (noise suspect): Neighbourhood swapped coffee shop for laundromat, unremarked (Ch2) — holds target-1#010
+  - A C214 (lens-specific): Ch18 open laundromat versus Ch2 shuttered one (Ch2,Ch18) — holds auditor#081
+- **B C020** (3; short of convergent): The Cadillac's fate is never tracked after the crash (Ch8-11)
+  - A C021 (short of convergent): The wrecked Cadillac / fence is never resolved (Ch8-11) — holds auditor#013, rules#061
+  - A C240 (lens-specific): Shade's sedan left at the museum lot (Ch8,Ch11) — holds auditor#014
+- **B C028** (2; short of convergent): Shade is a mystery whose nature is withheld or over-explained (Ch8)
+  - A C262 (noise suspect): reader guessing what Shade is before being told (Ch8) — holds target-2#051
+  - A C263 (minority): Shade as mysterious man who knows pieces, risk of later exposition (Ch8) — holds character#003
+- **B C024** (2; short of convergent): Elizabeth's walk to the bar makes no sense (Ch9)
+  - A C282 (noise suspect): Elizabeth walking to a bar twenty minutes away by car (Ch9) — holds target-2#057
+  - A C283 (minority): night 'started' at the bar, but it started at her apartment (Ch9,Ch10) — holds auditor#067
+- **B C037** (2; lens-specific): Bar description runs long (Ch6)
+  - A C321 (lens-specific): Bar description opening (Ch6) — holds skimmer#053
+  - A C322 (lens-specific): Mounted fish as decor (Ch6) — holds skimmer#054
+- **B C039** (3; short of convergent): Memory-working set piece runs long (Ch10)
+  - A C327 (noise suspect): Three memory attempts before the coffee catches (Ch10) — holds target-1#056
+  - A C328 (lens-specific): Rules speech for the memory working (Ch10) — holds skimmer#093
+  - A C329 (lens-specific): Slap "Bank it." exchange runs long (Ch10) — holds skimmer#094
+- **B C042** (2; lens-specific): Museum asides (soldier's poem, curator's handwriting) stall the scene (Ch11)
+  - A C330 (lens-specific): Soldier's poem in the museum (Ch11) — holds skimmer#099
+  - A C331 (lens-specific): Curator's arthritis handwriting aside (Ch11) — holds skimmer#100
+- **B C043** (4; short of convergent): Healer scene runs long (Ch12)
+  - A C332 (noise suspect): Middle stew-and-bucket stretch (Ch12) — holds target-1#073
+  - A C043 (short of convergent): Healer exam exchange runs long (Ch12) — holds reluctant#063, skimmer#110
+  - A C333 (lens-specific): Predictable "ready" exchange (Ch12) — holds skimmer#111
+- **B C045** (2; lens-specific): Emotional-weather fragment lists run long (Ch15)
+  - A C345 (lens-specific): Opening sensory list of fragments (Ch15) — holds skimmer#136
+  - A C346 (lens-specific): "Emotional weather" paragraphs listing fragments (Ch15) — holds skimmer#137
+- **B C047** (4; convergent): Restitution scenes (Ch16) list their items and repeat the point
+  - A C046 (convergent): Restitution inventory list could be shorter (Ch16-17) — holds target-2#101, skimmer#144 and 1 more
+  - A C047 (short of convergent): Restitution scenes repeat across Ch16-17 — holds skimmer#145, auditor#016
+- **B C048** (4; convergent): Ch17 aftermath and recap passages run long
+  - A C347 (noise suspect): Chapter 17 repeats one joke: he wants to improve it, is told no, complies (Ch17) — holds target-1#102
+  - A C348 (lens-specific): Aftermath montage slower; first-week rack and cabinet comedy and Hearts epilogue repeat Ch13 joke (Ch17) — holds reluctant#084
+  - A C350 (lens-specific): Third recap of the arc in one chapter (Ch17) — holds skimmer#158
+  - A C046 (convergent): Restitution inventory list could be shorter (Ch16-17) — holds rules#027 and 2 more
+- **B C049** (3; short of convergent): Ch18 five-routes exchange runs long
+  - A C048 (short of convergent): Five-routes exchange runs long (Ch18) — holds target-2#118, reluctant#089, skimmer#166 and 1 more
+- **B C050** (2; lens-specific): Ch18 opening call and wagon banter run long
+  - A C048 (short of convergent): Five-routes exchange runs long (Ch18) — holds skimmer#163 and 3 more
+  - A C352 (lens-specific): Second door-and-wagon exchange (Ch18) — holds skimmer#164
+- **B C058** (3; convergent): The magic has no plain stated rules the reader can judge choices by (Ch1-18)
+  - A C035 (short of convergent): No plain account of the magic's terms and rules (Ch1-18) — holds reluctant#025, skimmer#065
+  - A C408 (minority): Magic's cost at scale never stated beyond 'paid in pieces of you' (Ch3,Ch5,Ch18) — holds hostile#099
+- **B C061** (2; short of convergent): Opening image of the stranger reading her diary works (Ch1)
+  - A C057 (convergent): Opening image of a stranger reading her diary like a magazine (Ch1) — holds target-2#001, hostile#006 and 1 more
+- **B C062** (2; short of convergent): The "Don't think. What's your favorite recipe?" drill pulls the reader in (Ch1)
+  - A C058 (short of convergent): Cookbook as spell: "Don't think. What's your favorite recipe?" (Ch1) — holds target-2#002, skimmer#008 and 1 more
+- **B C071** (2; lens-specific): Paying with Pathwell's potential has real cost (Ch3)
+  - A C066 (convergent): Bookshop payment scene: Pathwell sells his potential, real cost (Ch3) — holds target-1#014, target-2#015 and 3 more
+- **B C070** (2; short of convergent): The bookshop sacrifice is the strongest writing so far (Ch3)
+  - A C066 (convergent): Bookshop payment scene: Pathwell sells his potential, real cost (Ch3) — holds reluctant#016, hostile#019 and 3 more
+- **B C072** (2; minority): Pathwell's potential cost is paid in a visible body (Ch3-16)
+  - A C066 (convergent): Bookshop payment scene: Pathwell sells his potential, real cost (Ch3) — holds rules#049 and 4 more
+  - A C067 (short of convergent): Costs of magic are real and carried through the book (Ch3-16) — holds rules#052 and 2 more
+- **B C073** (6; convergent): Giving up the cookbook page is the book's central cost (Ch4)
+  - A C068 (convergent): Elizabeth gives up the whole cookbook for one page (Ch4) — holds target-1#017, target-2#018, reluctant#023, hostile#024, hostile#100
+  - A C069 (short of convergent): Nana's marginal note "MORE IF THEY'RE SICK" (Ch4) — holds skimmer#040 and 1 more
+- **B C077** (2; short of convergent): Nana's margin note "MORE IF THEY'RE SICK" carries her voice (Ch4)
+  - A C074 (convergent): Merritt cookbook marginalia "RUTH LIED ABOUT THE LARD" (Ch4,Ch18) — holds prose#053 and 5 more
+  - A C069 (short of convergent): Nana's marginal note "MORE IF THEY'RE SICK" (Ch4) — holds hostile#025 and 1 more
+- **B C078** (5; short of convergent): The Mr. and Mrs. Pathwell school bit (Ch5)
+  - A C076 (short of convergent): Mrs. Pathwell / "I'm the missus" school bit (Ch5) — holds target-1#026, target-2#025, reluctant#033, skimmer#048
+  - A C435 (noise suspect): school joke ("lucky guess") (Ch5) — holds target-2#024
+- **B C081** (4; short of convergent): Stansbury's children's-work argument (Ch5)
+  - A C080 (lens-specific): Elizabeth compares Stansbury's trade to Pathwell's potential sale (Ch5) — holds target-1#031, target-2#028
+  - A C079 (short of convergent): Stansbury turns children's schoolwork into weapons, his moral argument (Ch5) — holds target-2#027, reluctant#034
+- **B C082** (2; short of convergent): Stansbury's first definition of waste and failed workings (Ch5)
+  - A C436 (minority): Stansbury gives first real definition of waste and failed workings (Ch5) — holds reluctant#031
+  - A C439 (minority): Waste-creature rule stated plainly and later followed through (Ch5,Ch15) — holds hostile#032
+- **B C084** (3; short of convergent): The brothers' fish-and-bar argument (Ch6)
+  - A C082 (short of convergent): Brothers' fish argument (Ch6) — holds target-2#038, skimmer#055
+  - A C442 (noise suspect): brothers moving each other's beers and darts (Ch6) — holds target-2#039
+- **B C086** (3; short of convergent): Mirror self-recognition passage (Ch6)
+  - A C444 (minority): Reflection joke (Ch6) — holds skimmer#059
+  - A C083 (short of convergent): Back-hall mirror: his face as accusation (Ch6) — holds skimmer#060, hostile#037
+- **B C088** (4; convergent): Elizabeth crashes the car on purpose (Ch8)
+  - A C087 (convergent): Elizabeth crashes the Cadillac on purpose (Ch8) — holds target-1#042, target-2#048, reluctant#041, hostile#046 and 1 more
+- **B C089** (2; short of convergent): "Same ingredients. Different recipe." reveal lands (Ch8)
+  - A C088 (convergent): Shade as inherited-memory idea: "Same ingredients. Different recipe." (Ch8) — holds reluctant#042, skimmer#079 and 1 more
+- **B C092** (3; short of convergent): The diner gives Shade a specific voice and habits (Ch9)
+  - A C460 (noise suspect): Diner scene makes Shade a specific person (Ch9) — holds target-1#049
+  - A C469 (minority): Shade's small physical habits in the car and diner (Ch9) — holds character#012
+  - A C471 (minority): Shade's voice in the diner, hesitating and self-correcting (Ch9) — holds prose#056
+- **B C091** (3; short of convergent): Shade's borrowed memories are specific fragments (Ch9)
+  - A C090 (short of convergent): Shade's list of borrowed memories (Ch9) — holds target-2#053, character#007
+  - A C466 (minority): Shade policing line between own mind and handed memories (Ch9) — holds character#006
+- **B C093** (2; minority): Shade's right-hand motif pays off (Ch9-15)
+  - A C091 (short of convergent): Shade's right-hand motif (Ch8-9) — holds prose#039, prose#050 and 1 more
+- **B C094** (4; convergent): Pathwell's van confession (Ch10)
+  - A C092 (convergent): Pathwell's confession in the van that his choice produced the failure (Ch10) — holds target-1#053, reluctant#048, hostile#053
+  - A C093 (short of convergent): Elizabeth refuses to be the excuse in the van (Ch10) — holds target-2#061 and 2 more
+- **B C096** (4; convergent): Grocery-list tracking spell and the unsent letter (Ch10)
+  - A C094 (convergent): Unsent letter spent to find her; grocery lists as route-finder (Ch10) — holds target-1#054, target-2#058, skimmer#095, hostile#054 and 1 more
+- **B C095** (2; short of convergent): Elizabeth refuses to be Pathwell's excuse (Ch10)
+  - A C093 (short of convergent): Elizabeth refuses to be the excuse in the van (Ch10) — holds reluctant#049, skimmer#096 and 1 more
+- **B C097** (6; convergent): Accession cards and household ledgers show what magic breaks (Ch11)
+  - A C095 (convergent): Museum accession cards and Sam's eggs (Ch11) — holds target-1#060, target-2#064, reluctant#054, skimmer#104, skimmer#105, hostile#057 and 1 more
+- **B C098** (2; short of convergent): Elizabeth chooses Camp at the wall (Ch11)
+  - A C097 (short of convergent): Elizabeth chooses Camp: "I'm still choosing it." (Ch11) — holds target-1#064, reluctant#057 and 1 more
+- **B C101** (2; lens-specific): Healer asks before touching the shoulder (Ch12)
+  - A C101 (convergent): Healer asks permission before resetting the shoulder (Ch12) — holds target-1#068, target-2#076 and 1 more
+- **B C107** (3; short of convergent): Shade becomes a person at the card table (Ch13)
+  - A C108 (short of convergent): Hearts game: Shade becomes a person, "I don't know what I am here" (Ch13) — holds reluctant#064, hostile#069
+  - A C489 (minority): Shade's borrowed knowledge shown through hesitating hands (Ch13) — holds character#032
+- **B C108** (2; short of convergent): Shade refuses to be the rejoining anchor (Ch14)
+  - A C110 (short of convergent): Shade refuses to be the rejoining anchor (Ch14) — holds target-1#081, character#039 and 2 more
+- **B C109** (2; short of convergent): Shade's argument that the result does not decide the choice (Ch14)
+  - A C110 (short of convergent): Shade refuses to be the rejoining anchor (Ch14) — holds target-2#084, reluctant#076 and 2 more
+- **B C115** (4; convergent): The cookbook and diary burn with no magical payoff (Ch15)
+  - A C113 (convergent): Fire takes diary and cookbook: "No spell. No sacrifice." (Ch15) — holds target-1#088, reluctant#078, skimmer#142, hostile#084 and 1 more
+- **B C113** (2; short of convergent): Shade walks into the blob: "You still owe me a hand" (Ch15)
+  - A C114 (short of convergent): Shade walks into the blob: "You still owe me a hand." (Ch15-16) — holds target-1#091, reluctant#077 and 1 more
+- **B C116** (3; short of convergent): Elizabeth runs past her diary and cookbook to save Milo (Ch15)
+  - A C113 (convergent): Fire takes diary and cookbook: "No spell. No sacrifice." (Ch15) — holds target-2#091 and 4 more
+  - A C499 (minority): Elizabeth's order and moral center of the loss (Ch15) — holds reluctant#079
+  - A C500 (minority): Shelf rescue sequence (Ch15) — holds skimmer#140
+- **B C118** (2; short of convergent): Mama Baga's restitution scene is the book's thesis (Ch16)
+  - A C121 (convergent): Mama Baga's restitution scene refuses the grand gesture (Ch16) — holds reluctant#081, hostile#089 and 1 more
+- **B C127** (5; convergent): Merritt cookbook margin note "RUTH LIED ABOUT THE LARD" (Ch18)
+  - A C074 (convergent): Merritt cookbook marginalia "RUTH LIED ABOUT THE LARD" (Ch4,Ch18) — holds target-1#108, target-2#114, reluctant#088, skimmer#169, hostile#096 and 1 more
+- **B C143** (3; minority): Quips undercut grief and loss (Ch3-18)
+  - A C562 (minority): Grief and consequence followed by a joke or quip; the book does not let loss sit (Ch3,Ch10,Ch11,Ch12,Ch16) — holds hostile#015
+  - A C563 (minority): Whimsy stacked in every paragraph keeps the bookshop from being frightening (Ch3) — holds hostile#016
+  - A C602 (minority): Five-routes comedy and quips undercut the earned grief (Ch18) — holds hostile#095
+- **B C141** (6; convergent): Narrator explains what the scene already showed (Ch4-18)
+  - A C564 (minority): Narrator explains the meaning of the handover moment (Ch4) — holds skimmer#038
+  - A C570 (minority): Narrator explains a look the reader already got (Ch7) — holds skimmer#071
+  - A C581 (noise suspect): Narrator tells us she is growing (Ch12) — holds target-1#070
+  - A C583 (lens-specific): Narration explains what the scene already showed (Ch12,Ch15,Ch18) — holds prose#012
+  - A C587 (lens-specific): Narrator glosses character in a sentence (Ch15) — holds prose#047
+  - A C588 (minority): Narrator steps in to tell the reader how to feel (Ch15) — holds hostile#083
+- **B C144** (2; short of convergent): Jokes arrive too soon after serious beats (Ch11)
+  - A C576 (noise suspect): return to jokes right after the broken shoulder (Ch11) — holds target-2#070
+  - A C579 (minority): Museum lot banter right after a confession; cannon-in-gift-shop gag; pleased aphorisms (Ch11) — holds hostile#055
+- **B C142** (2; minority): Narrator explains the wall and homesickness fragments (Ch11)
+  - A C577 (minority): Narrator compares the wall to the unexplained Space Between (Ch11) — holds skimmer#101
+  - A C578 (minority): Narrator explains the homesickness fragments (Ch11) — holds skimmer#102
+- **B C145** (3; convergent): Ch17 summary paragraphs restate the arc (Ch17)
+  - A C128 (lens-specific): Ch17 closing recap restates losses the walk already showed — holds target-1#105, target-2#106
+  - A C597 (minority): Aftermath as sitcom montage and greeting-card close; recap paragraph (Ch17) — holds hostile#092
+- **B C136** (7; convergent): Every character speaks in the same dry register (Ch4-18)
+  - A C134 (short of convergent): Characters share one dry deadpan register so voices blur (Ch4-18) — holds prose#001, character#025
+  - A C615 (lens-specific): Deadpan two-beat exchange used by every character, 30+ times (Ch4,Ch9,Ch12,Ch15,Ch18) — holds prose#002
+  - A C135 (short of convergent): "Important distinction" catchphrase shared and repeated (Ch7-18) — holds target-1#114 and 1 more
+  - A C637 (lens-specific): Shade's jokes drift into Camp register (Ch12,Ch13) — holds character#026
+  - A C638 (lens-specific): Two wise child sees-through-everyone gags (turnip boy, Milo) (Ch12,Ch13) — holds character#027
+  - A C646 (minority): Camp's wise characters have a zinger for everything; epigram-machine (Ch16) — holds hostile#086
+- **B C138** (3; short of convergent): Stock one-word replies ("Probably.", "Fair.") repeat (Ch9)
+  - A C139 (short of convergent): "Fair." / stock one-word replies as a tic (Ch9-18) — holds skimmer#086, prose#033
+  - A C631 (lens-specific): 'Probably.' as a one-word answer or aside (Ch9,Ch12,Ch15) — holds prose#029
+- **B C140** (2; lens-specific): Shade speaks in Pathwell's technical vocabulary (Ch14)
+  - A C642 (lens-specific): Shade's long explanation speech of the rejoining working (Ch14) — holds character#034
+  - A C643 (lens-specific): Technical vocabulary makes Shade sound like Pathwell (Ch14) — holds character#040
+
+55 B clusters differ.
+

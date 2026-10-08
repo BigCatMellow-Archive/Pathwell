@@ -21,12 +21,19 @@
 - **Extraction.** One agent per report turned each into finding records: 883 in all ([findings/](findings/), one CSV per reader, combined in [all_records.csv](findings/all_records.csv)).
 - **Merge A.** One merge agent grouped the records into 649 clusters ([merge_A.csv](findings/merge_A.csv)).
 
+- **Merge B.** A second, independent merge on a different model (Haiku): 632 clusters ([merge_B.csv](findings/merge_B.csv)). Both merges are complete, and neither mixes types or polarities. They agree on 77% of grouped record pairs (Dice).
+- **Counts.** Made by [panel_counts.py](../../../Sunday-Morning/tools/panel_counts.py) and filed in [counts/](counts/):
+  - the first-cut sort for each merge;
+  - the merge comparison;
+  - the noise check: the two target runs overlap 36% (A) or 31% (B), under the 40% working band;
+  - the diversity check: top-ten overlap between different lenses averages 0.03–0.04, against 0.22 for the repeat pair, but prose/target-1 reaches 0.20–0.21;
+  - coverage by type and family;
+  - shared phrasing: one five-word phrase in three reports, traced to the briefs' shared ground rule.
+
 ## Still to do
 
-1. Merge B, a second independent merge, then a comparison of the two merges.
-2. The sort into convergent, lens-specific, minority and noise findings.
-3. The noise check (target-1 against target-2) and the diversity check.
-4. The informed pass, the goals comparison, and the report to the author.
+1. The synthesis agent's sort and its write-up (splits, the ten-quote check, lens adherence).
+2. The informed pass, the goals comparison, and the report to the author.
 
 ## Deviations from the protocol, recorded
 
