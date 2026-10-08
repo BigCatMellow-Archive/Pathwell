@@ -1,0 +1,41 @@
+# Reader panel, 2026-10-08 (in progress)
+
+**Status: partial, saved mid-run.** The first standard [reader panel](../../../Sunday-Morning/Reader-Panel.md) on the whole book. The text read is the chapters at commit 281524a (unchanged since 568dd16).
+
+## Done
+
+- **Setup.**
+  - A cover line, written by an agent that read only Chapter 1 ([cover_line.md](cover_line.md)).
+  - Shade's chapter list, for the character reader ([shade_chapters.md](shade_chapters.md)).
+  - Eight briefs, each drafted by its own agent. A reviewer rejected six for shared reading histories and reasons; fresh agents redrafted them ([briefs/](briefs/); the rejected drafts are in [briefs/rejected-v1/](briefs/rejected-v1/)).
+  - The [lever matrix](lever_matrix.md).
+- **Readers: all nine runs finished** ([readers/](readers/)). Each has its running log, its lens output, its answers to the six shared questions (sent after the reading), and its ranked top ten.
+  - The target reader, run twice (Sonnet).
+  - The reluctant reader (Haiku).
+  - The skimmer: a chain of 18 Haiku agents, one per chapter, each remembering the book only through a 150-word recap ([chain_log.md](readers/skimmer/chain_log.md)).
+  - The continuity auditor (Sonnet).
+  - The rules reader (Haiku).
+  - The character reader: Shade's chapters only (Sonnet).
+  - The prose reader: Chapters 1, 4, 9, 12, 15 and 18 (Sonnet).
+  - The hostile reviewer (Haiku).
+- **Extraction.** One agent per report turned each into finding records: 883 in all ([findings/](findings/), one CSV per reader, combined in [all_records.csv](findings/all_records.csv)).
+- **Merge A.** One merge agent grouped the records into 649 clusters ([merge_A.csv](findings/merge_A.csv)).
+
+## Still to do
+
+1. Merge B, a second independent merge, then a comparison of the two merges.
+2. The sort into convergent, lens-specific, minority and noise findings.
+3. The noise check (target-1 against target-2) and the diversity check.
+4. The informed pass, the goals comparison, and the report to the author.
+
+## Deviations from the protocol, recorded
+
+- **Models.** Opus was unavailable (weekly limit until 2026-10-11), so only Sonnet and Haiku were used. Sonnet has 5 of the 9 runs, one more than the protocol's "no more than half". Merge A was Sonnet, and Merge B will be too, not a different model.
+- **Retries.**
+  - Several runs stopped on rate limits and were retried. See [run_notes.md](run_notes.md) for which out-folders held partial logs from failed attempts and how each was handled.
+  - The target-2 retry appended below its earlier partial log and didn't read it.
+  - The auditor retry read its own earlier rows for Chapters 1–9 and appended to them.
+- **Report files.**
+  - Some readers' harnesses refused to save files named as reports. Their reports were saved under `lens_output.md` instead.
+  - For the rules reader, the orchestrator saved the report from the reader's reply: [lens_output.md](readers/rules/lens_output.md) and [core_and_topten.md](readers/rules/core_and_topten.md).
+- **Brief edits.** After the redraft, the orchestrator swapped two titles that were still shared (auditor: the Dresden Files became Glen Cook's Garrett books; hostile: A Wizard of Earthsea became Tigana).

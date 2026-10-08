@@ -1,0 +1,12 @@
+# Ten things to tell the author (1 = most important)
+
+1. Everyone speaks in the same dry, no-contraction, two-beat deadpan; the healer, archivist, Mama Baga, shopkeeper and Stansbury are interchangeable (Ch4, 12, 15, 18), and the pattern gets denser as the book goes on (Ch18 has 8+ in 2,200 words).
+2. Cut the "looked at / looked toward" reaction beat to a fraction: about 112 uses across six chapters, "waited." as its own paragraph about 14 more (Ch4, 9, 12, 15, 18, worst in Ch9: "Shade looked at her in the mirror... glanced... looked out the window... looked down...").
+3. Stop repeating bits verbatim: the sock gag (8 uses, with the sentence "One sock had surrendered halfway down his calf" copied exactly; Ch4, 12, 15), "Mama Baga's mouth moved at one corner" (Ch4, 12), "Important distinction." (Ch12, 18).
+4. The Chapter 12 diary donation is the Chapter 4 cookbook donation again, beat for beat ("Family name?" / "She gave it."; the empty hand lowered; the two-handed receiving), and Ch15 repeats "That was the choice" as well; let the second one be different or shorter (Ch4, 12, 15).
+5. Rework the Chapter 1 action: comma splices and fragments ("The door began to crack and splinter, an ooze searched through the gaps. Bringing a stench...", "Her heart skipped and without thinking...") make the opening the weakest prose I read, and Elizabeth agrees to leave too fast (Ch1).
+6. Do not explain what the scene already showed: "The book belonged here now, and it no longer felt like a disappearance" (Ch12), "She didn't regret the order" (Ch15), "Pathwell's old answer almost arrived. She saw it." (Ch18).
+7. Keep "Not X. Y." and fragment runs for the two or three places that earn them ("Not burned. Spent." Ch4; "No spell. / No sacrifice. / No last message. / Just fire." Ch15) and out of the other eight (Ch4 has four, Ch12 two).
+8. Give us the food: the cover promises a cookbook and the chapters give us two recipes by feel and no cooking; the best food writing is the diner (Ch9) and the Merritt notes (Ch18), so let Elizabeth cook something with her hands.
+9. Make Elizabeth want something for herself; her job, her meeting at nine and her apartment drop out after Ch1 and Ch4 and come back only as jokes (Ch18: "Work would still contain email").
+10. Fix the small seams: the missing line before "Newer," Pathwell amended (Ch4); "Shopkeeper" capitalized once (Ch18); the Chapter 18 time signals (three weeks and four days / "less than two weeks ago"); and check "That hand was promising" (Ch15), which I couldn't place.
