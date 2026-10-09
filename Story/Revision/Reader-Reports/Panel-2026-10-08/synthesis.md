@@ -205,7 +205,7 @@ What the blind panel found, goal by goal:
   - Her own want is a convergent problem.
 - **Earned beats: mostly yes.** The protected beats are almost all on the convergent strengths list: the cookbook give, the marginalia, the fire with no payoff, the ledger entry, "You were never the point". The Ch13 coffee and Shade beats are just under the bar.
 - **The climax rule: not met, as recorded.**
-  - No reader names Elizabeth's rescue as a turning point.
+  - Three readers (target-1, target-2 and the skimmer) name the Milo rescue and the fire as the book's best moment, but as a loss she chooses, not as a turn that changes the outcome. *(Corrected 2026-10-09: an earlier version said no reader named the rescue.)*
   - Milo's peril is a convergent quibble ("stock").
   - Shade's death is a stopper for two readers.
 - **Pathwell's change: aligned.** The van confession is convergent. The Henry Vale retraction and the Ch18 put-back are praised. No reader reads the put-back as replacing Nana's book; that is consistent with the 10-06 reader, and the motive still doesn't come through.

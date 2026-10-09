@@ -1,6 +1,6 @@
 # Reader panel, 2026-10-08
 
-**Status: complete (lean finish). Results: [synthesis.md](synthesis.md).** The first standard [reader panel](../../../Sunday-Morning/Reader-Panel.md) on the whole book. The text read is the chapters at commit 281524a (unchanged since 568dd16).
+**Status: complete (lean finish). Start with the [Findings Report](Findings-Report.md); the method view is in [synthesis.md](synthesis.md).** The first standard [reader panel](../../../Sunday-Morning/Reader-Panel.md) on the whole book. The text read is the chapters at commit 281524a (unchanged since 568dd16).
 
 ## Done
 
