@@ -23,6 +23,7 @@ When two notes pull in different directions, each decides its own ground in this
 | Note | Owns | MAPS_L class | State |
 | --- | --- | --- | --- |
 | [Decisions](Decisions.md) | The author's rulings for this revision; earlier rulings recorded elsewhere, and whether the manuscript reflects them; working decisions; open questions for the author | authority | active |
+| [Chapter 1 author markup and editorial feedback (2026-10-08/09)](Author-Notes/2026-10-08_Chapter-01_line-notes.md) | verbatim red-and-bold author notes from *Pathwell 10.7*, initial R26 response, and separately labeled independent feedback on those edits; no manuscript change | evidence / editorial review | received; not applied |
 | [Plan](Plan.md) | the book-level THINK pass, the prioritized plan routed by level, reconsideration triggers, the Step 2 test | procedure | active, awaiting approval |
 | [Writing against sameness](Writing-Against-Sameness.md) | Pathwell's application of [Craft: writing against sameness](../Sunday-Morning/Craft.md#writing-against-sameness): the register map, whose joke it is, Elizabeth's interiority, usually one polished closing line per scene, new emotional lines left to the author, the two benchmarks, the fresh check's sameness questions | procedure | active |
 | [AI tells in Pathwell](AI-Tells.md) | what the manuscript shows, and each common AI tell set against this book's guides; the researched general list is in the Sunday Morning notes' [AI tells](../Sunday-Morning/Sources/AI-Tells.md). Awareness, not a rulebook | reference | active |
