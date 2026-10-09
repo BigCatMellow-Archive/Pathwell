@@ -162,3 +162,58 @@ What Step 2 does, in order:
 3. Run [after every pass](README.md#after-every-pass): shapes, the checker, the scene diagnostic, a fresh independent check comparing the old and new versions, the replacement-tic check, and change notes written from the diff.
 4. Update the pass log, the ledger, the Registry and Revision-Status; commit and push; send the links.
 5. Stop for the author's verdict.
+
+---
+
+## Reader-panel integration: THINK → PLAN (2026-10-09)
+
+**Status:** proposed planning addendum, not manuscript authorization. The October 8 panel is evidence, not the authority for story choices. This section supersedes the *priority ordering* above for panel-driven work, but does not supersede the author's rulings, existing chapter contracts, or prior implementation evidence. Source: [reader findings](Reader-Reports/Panel-2026-10-08/Findings-Report.md). Read with [Decisions](Decisions.md), [Promise Ledger](Promise-Ledger.md), [Revision Status](../../Revision-Status.md) and [non-negotiable scenes](../../Non-Negotiable-Scenes.md).
+
+### Parent outcome and boundaries
+
+**DONE for planning:** every actionable multi-reader finding has a disposition (fix / test / preserve / deliberately open); affected chapters and dependencies are named; changes have checks that can fail; author's locked beats and voice sources are protected; and the work is sequenced for one-chapter-at-a-time execution. This planning pass does **not** change chapters, world canon, the locked ending, or promote the Pilot THINK/PLAN research programs into active execution. Use their decomposition and adversarial-test methods locally, under Pathwell's own authority.
+
+**Evidence limitation:** nine *simulated* readers from one model family; apparent consensus is a hypothesis, not nine independent human validations. Some reports read overlapping or different chapter subsets. Compare objections with current chapters and the governing decisions before promoting them into edits. A human cold read is needed before treating ambiguous taste calls as settled.
+
+### THINK: problem decomposition and challenges
+
+| Workstream | Evidence and contradiction to resolve | Working disposition |
+| --- | --- | --- |
+| T1 Opening causal contract (Ch1–5, Ch9–10) | Six panel readers could not tell why Pathwell was at Elizabeth's flat or why the blob was already at the door. Canon already gives the charged-material trail; R10/R21 govern party and “Lizzy”; R38 has unapplied Ch1 notes. | **Fix on page, not in lore:** map the existing timeline and show the minimal observable clue in Ch1 with a later confirmation. No new chosen-one premise. Preserve “You were never the point.” |
+| T2 Comprehensible rules/costs (Ch1–7, Ch10–14) | Prune/draw/pull/marked, Space Between, the blob and unfamiliar barter block some readers. But deliberate gaps, including prune purpose/client, have lock protection. | **Selective clarity:** articulate only the local rule and price needed to weigh each choice. Do not deliver a glossary or explain the protected unknown client. |
+| T3 Elizabeth's agency (Ch1, 3, 8–10, 14–15, 18) | Readers love her choices but do not know what she wants *toward*; Ch1 compliance, Ch8 sedan, Ch9 walk need credible motivation. Thesis prohibits giving her intrinsic magic. | **Character-causality test:** show a modest personal desire and a believable reason for each risky move; retain the no-magic Milo rescue. |
+| T4 Climax consequence / Shade autonomy (Ch13–16) | Readers cannot tell what Shade's death accomplished; even R37 records that chosen option 2+3b does not satisfy the later “materially changes central conflict” rule. | **Structural decision point:** map counterfactual outcomes *before prose edits*. Preserve forced reintegration, recoil/fire being Pathwell's fault, Shade's informed choice and permanent death. Test alternatives without presuming the dagger cuts the draw. A change to the locked mechanism or thesis requires the author's ruling. |
+| T5 Narrative trust and voices (Ch4, 7, 12–18) | Narrator explains scenes; voices share deadpan; humor follows grief. R33 keeps the first “That was the choice”; R9 locks final “Perfect”; R11 locks the repeated crash line. | **Surgical line work:** remove duplicate *explanations*, not deliberate refrains. Differentiate response patterns by character. Leave humor and emotional replacements to the author where not plainly redundant. |
+| T6 Continuity and promises (whole book) | Panel notes page-count, spatial, time-of-day, scratch/scar inconsistencies and floating threads. Existing ledger marks some apparent loose ends deliberate or already paid. | **Verify each against current text first:** fix hard contradictions; tag truly open promises as paid / thin / unpaid / open-deliberate; do not convert background detail into compulsory sequel hooks. |
+| T7 Drag and mirrored beats (Ch3–5, 11, 13–14, 16–18) | Hearts and restitution scenes are loved *and* found long; school, roster, “Stop”, repeated payoffs sag. | **Retention-first deletion test:** keep each indispensable change in relationship/action; cut repetition before cutting scenes. |
+
+**Counterfactual / tenth-seat questions before implementation:**
+1. If Pathwell's arrival is made clear in Ch1, does any mystery that *should* remain unresolved disappear?
+2. If the Ch3 currency is explained, is the emotional price felt, or have we merely added exposition?
+3. Remove Elizabeth's Ch15 rescue mentally: do Pathwell, Shade, and the blob reach substantially the same result? If yes, do not claim central-conflict causation.
+4. If the dagger could cut the draw, why didn't Elizabeth ask earlier, and would that turn the climax into a magical solution?
+5. If a joke, refrain or summation is cut, does a distinctive character voice or intended echo disappear?
+6. Are “unpaid” promises actually left open by a recorded ruling, or does the current text establish a debt it never discharges?
+
+### PLAN: dependency-ordered revision batches
+
+| Order | Scope and output | Gate / acceptance evidence |
+| --- | --- | --- |
+| **0 — Baseline/decision reconciliation** | Check the 18 chapter heads and panel-specific lines against live current text. Reconcile R38 (unapplied Ch1), R37 (climax outcome), R9/R11/R21/R33 and existing ledger statuses. Make a per-finding **fix / test / preserve / open** disposition linked to its owning ledger or decision; do not duplicate those owners. | No proposed “fix” contradicts a lock; every multi-reader stopper mapped; R38 remains identified as pending rather than silently assumed applied. |
+| **1 — Opening proof (Ch1–3; knock-on Ch4–5, 9)** | Scene map: party → charged material → visitor → blob timing → name/books → first meaningful page cost. Then one bounded opening chapter revision from R38 and author voice sources, plus only necessary downstream continuity edits after review. Repair Ch1 “Do you have shoes?” agency, Ch2 “He still has it”, and Ch3 barter stakes. | Blind reader can explain in ordinary language why he was there and identify a tangible cost of magic without claiming Elizabeth was specially selected. Ch4 cookbook decision untouched. |
+| **2 — Agency and rules chain (Ch5–12)** | Audit cause/effect at Ch8 sedan and Ch9 night walk; seed a positive desire in Elizabeth without another explanatory monologue. Make “prune / pull / draw” legible only at first decision-critical use. Resolve dagger applicability question as known/unknown on page. Fix verified geometry, time, page and object-tracking issues. | Every risky move has a locally credible motive; no newly invented rule; continuity checker and hand audit pass. |
+| **3 — Climax design (Ch13–16)** | Produce a two-column beat/counterfactual map: *with* / *without* Elizabeth's Ch15 decision; show what Shade chooses, what his loss buys or prevents, when the reader understands he is gone. Test minimum-change solutions against R37 and pillar scenes; do not rewrite the mechanism merely to satisfy a simulated reader. | Independent adversarial read can state what Shade changed and whether Elizabeth alters the **central conflict**; record if the latter remains unmet. Author owns any revision to a locked climax outcome. |
+| **4 — Rhythm, aftermath and payoff (Ch4, 11–18)** | Trim redundant Hearts turns without losing Shade becoming a person; shorten repeated objections in Ch14; combine or differentiate Ch16–17 restitution beats; delete narrator grading; preserve “LIKED POCKETS”, fire/books, cookbook give, Pathwell's quiet put-back and the locked three-line ending. | Scene deletion tests pass; no disappearance of paid ledger setups; distinct voices survive; no automatic ban on “Not X. Y.” or on jokes. |
+| **5 — Independent book read** | One cold read in sequence against original panel findings, one rules/continuity audit and one voice assessment against the author's pre-August prose. Reconcile findings, evidence, Registry, Promise Ledger, Pass Log and Revision Status. | Each accepted fix demonstrable on the page; no broken lock or replacement tic; author's read/verdict completes L4. |
+
+**Execution cadence:** one manuscript chapter at a time, with the author's verdict gate retained from R7; adjacent chapter edits only when an approved change demonstrably breaks a setup/payoff. Branch/review each coherent change and record differences from the prior chapter in the pass log. After each pass apply [After every pass](README.md#after-every-pass) and the story-specific scene diagnostic. Do not polish Ch14–15 until the structural causality question has been tested.
+
+### Critical protection and explicit non-goals
+
+- Do **not** reveal the prune client, what exactly was pruned, or every supernatural origin simply because a reader asked. Check the author's locks first.
+- Do **not** replace the intentionally repeated Ch1/Ch8 crash line (R11) or the last “Perfect.” (R9) without new author direction.
+- Do **not** resurrect Shade, save the cookbook/diary at the archive fire, make Elizabeth magical, or move responsibility for the forced reintegration away from Pathwell.
+- Do **not** assume every flagged repetition is a defect. Ch4 “That was the choice” was explicitly kept; only its later copy is a candidate.
+- Do **not** optimize for AI-detector scores, numeric panel counts, or checkers in place of prose and human judgment.
+
+**Reconsideration triggers:** a blind reader still cannot state the opening cause after Batch 1; a local rule contradicts canon; the climax counterfactual is unchanged despite a claimed fix; a reduction removes Shade's humanity; an edit flattens the author's voice; or the author rejects an important causal change. In each case stop only the affected branch, reopen THINK for that hypothesis, and keep independent work inside the approved boundary.
