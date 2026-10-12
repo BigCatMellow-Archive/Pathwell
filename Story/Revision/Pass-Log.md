@@ -2422,3 +2422,12 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 7. The sock: suggest dropping one middle use, not the gag.
 
 **Nothing applied.** The author is holding the open questions.
+
+
+## P44, 2026-10-12: Chapter 9 diner — character-knowledge repair
+
+**Scope:** Chapter 9 only. The author directed implementation after reviewing the causal gap in Shade's knowledge of why Elizabeth was traveling with Pathwell. R39 clarifies that the Bible cannot substitute for evidence on the page.
+
+**Change (from diff):** Replaced the leap from Shade's “I did not know you existed” to his categorical “You were never the point.” Elizabeth now tells him explicitly that Pathwell brought her along because he thought the apartment creature was after her; Shade limits his testimony to his own pull toward Pathwell and acknowledges he does not know what drew the creature to the door. Elizabeth recalls Stansbury's “Was it?” at the school and Pathwell's “No” after the second creature pursued him. She asks whether the first creature might also have been after someone else; Shade's conclusion is conditional. The original qualifying line “Of whatever followed him. Don't make that sentence larger than it is” remains.
+
+**Continuity check:** Checked the exchanged facts against Chapters 5, 7, and 8; Chapter 10's next question (“What did Pathwell choose?”) remains supported. No magical mechanism, hidden memory, off-page conversation, or separate explanation was added. The remainder of Chapter 9 is unchanged. No automated checker or independent reader pass was run for this narrow amendment; a broader L4 review remains separate.
