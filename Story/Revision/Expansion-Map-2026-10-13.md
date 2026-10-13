@@ -1,6 +1,6 @@
 # Where the extra length could come from: expansion map, 2026-10-13
 
-**Status: a proposal, not canon. Nothing is drafted.** The author asked where the book could grow "with things that would strengthen the story and not pad it". Each candidate below is a structural suggestion; the author writes the scenes.
+**Status: superseded by [Expansion-THINK-PLAN-2026-10-13.md](Expansion-THINK-PLAN-2026-10-13.md).** A reconciliation found several of this map's main items already in the book (the Ch3 clean prune, Ch2's "Home." beat) or in conflict with locks (Q136; the one-morning timeline of Ch12–15). It is kept as a record. The original status was: a proposal, not canon; nothing drafted. The author asked where the book could grow "with things that would strengthen the story and not pad it". Each candidate below is a structural suggestion; the author writes the scenes.
 
 **Inputs:**
 - the current chapters (P43);
