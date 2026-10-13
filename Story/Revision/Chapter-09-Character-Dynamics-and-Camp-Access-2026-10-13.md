@@ -108,7 +108,7 @@ A second session reviewed this note against the current chapters, the reader pan
 
 ### The smallest version (pending the author's answers; the author writes the prose)
 
-- **Ch9, after "Then you were never the point":** her reaction. Anger before any plan, felt in the body, not named or explained.
+- **Ch9, after "Then you were never the point":** her reaction, before any plan, felt in the body, not named or explained. *(Corrected by the author in §7: the first reaction is embarrassment, not anger.)*
 - **Ch9:** one fragment of Camp that Shade remembers and wants for himself, inherited but wanted as *his*. Its natural place is the memory exchange ("I remember him… Fragments of him").
 - **Ch11:** check whether "Yes," he said. "Camp." now reads as an admission. At most a one-line adjustment.
 
@@ -116,7 +116,7 @@ Estimated at a few hundred words. No new scene, no new mechanism, no change to C
 
 ### Questions for the author
 
-1. **What specifically makes Elizabeth angry** when she hears "Then you were never the point"? (§2 left this open.) Some possibilities, with no answer assumed and possibly more than one:
+1. *(Reframed in §7: her first reaction is embarrassment.)* **What specifically makes Elizabeth angry** when she hears "Then you were never the point"? (§2 left this open.) Some possibilities, with no answer assumed and possibly more than one:
    - Pathwell's careless decision to involve her;
    - his certainty being wrong;
    - what it says about whether her new life is real;
@@ -126,3 +126,15 @@ Estimated at a few hundred words. No new scene, no new mechanism, no change to C
 3. **What does Shade remember of Camp that he wants for himself?** Mama Baga, the bark tea, the fire, a place at the table, being expected somewhere, or something else. One concrete thing is enough.
 4. **Does Shade say that want out loud at the diner, or only show it?** For example, a question about Camp, or a reaction when Elizabeth mentions it. The current text has her think of "Pathwell at Camp" (Ch9:300) but never say it to him.
 5. **After 3–4, does Ch11's "Yes." / "Camp." need any change,** or does it now read as an admission on its own?
+
+## 7. Interview Mode session (Rung), 2026-10-13
+
+This is an author interview using the Rung Teaching System's Interview Mode: one question at a time, each grounded in the manuscript and the previous answer. **Settled** means the author has said it about the character. It is not yet on the page, and it does not by itself authorise any edit. **Open** means still being explored.
+
+**Target:** Elizabeth's real reaction in the diner, before deciding anything about the scene.
+
+| # | Question (grounded in) | Author's answer | Status |
+| --- | --- | --- | --- |
+| 1 | She asks the question that gets her the answer ("What if the first one wasn't after me either?"). When Shade confirms it, who is her anger aimed at first? (Ch9 220–226) | "I dont think its anger, i think its embarassment" | **Settled: her first reaction is embarrassment, not anger.** This corrects the "anger before any plan" framing in §6 and narrows §2's earlier "frustration, anger". |
+
+**Open after Q1:** what the embarrassment is about, and what it does to her next moves.
