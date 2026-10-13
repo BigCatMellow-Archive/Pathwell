@@ -10,11 +10,17 @@
 
 The September documents were written against an earlier architecture (in it, Shade survived and the bar came before Stansbury). Only what still fits the current book is carried forward.
 
+**Checked against the work since P43** (P44–P49, the Plan's reader-panel THINK → PLAN addendum, and the [Chapter 9 working note](Chapter-09-Character-Dynamics-and-Camp-Access-2026-10-13.md)):
+- **Candidate 1:** keep the reveal consistent with the working note. His initial reason was interest in the charged material plus a *misreading* of the blob's interest in her, and "marked" was a claim he couldn't back up.
+- **Candidate 8:** draws directly on the author's character reading of Elizabeth: a comfortable rut she didn't know she was in, and not wanting to go back to living "from one day to the next".
+- **Candidates 4 and 5:** depend on how Shade reaches Camp, which the working note leaves open.
+- **R33** keeps Ch4's "That was the choice", and **R9** keeps the final "Perfect." Neither is proposed for cutting here.
+
 ## The target isn't double
 
 | | Words |
 | --- | --- |
-| Now | 45,700 |
+| Now | 45,800 |
 | Low end of a normal adult debut | 70,000 |
 | Comfortable | 75,000–80,000 |
 
