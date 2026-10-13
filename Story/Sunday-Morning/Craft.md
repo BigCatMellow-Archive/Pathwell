@@ -98,6 +98,21 @@ Humor creates or changes affiliation, permission, status, intimacy, avoidance, e
 
 Listen for cadence, character voice, comic timing, awkward exposition, repeated sentence shapes, and dialogue no human mouth would carry. "A sentence sounding good is not proof that it belongs."
 
+## Character discovery before explanation
+
+**Working craft guidance (2026-10-13, from the Pathwell diner exploration; [W8–W9](Decisions.md#working-decisions)).** Use when a revelation, a relationship, or a choice isn't convincing yet; this is not a requirement to add interior monologue to every scene.
+
+1. **Let the discovery land before assigning a response.** Distinguish what happened, what the viewpoint character knows, their immediate reaction (which may be confused, contradictory or not yet named), and what they *eventually choose*. Don't jump from a devastating fact to the next efficient plot destination just because the outline knows where the character goes.
+2. **Uncertainty is a finding, not a blank to fill with theory.** “I don't know yet” can mean the character hasn't earned that choice or feeling. Preserve the open question instead of inventing a tidy motivation. A short-lived wish to undo an experience need not be their settled desire. Check the scene's time scale: first seconds are not the same as decisions made an hour later.
+3. **Do not psychoanalyze ordinary behavior.** Someone can be lively around a friend without thinking about why; someone can disagree without secretly relitigating their entire agency. Distinguish the *character's lived feeling* from the *author's explanation* of it. Self-knowledge is not automatic.
+4. **Distinguish welcome, opportunity and access when those differ.** A person may know they are wanted somewhere yet worry they cannot physically get back. Similarly, one person can sincerely care and still fail to show up. Test the precise source of fear or injury instead of substituting the closest theme.
+5. **Make dialogue an action by its speaker.** For a persuasive or manipulative line, ask what the speaker needs, what they actually know, what they can plausibly infer, why this listener might respond, and what practical route the exchange opens. A truthful warning can still be self-serving; it does not become the story's moral verdict.
+6. **A scenario used to test character isn't yet a scene.** Future meetings, promises broken, or alternate decisions can reveal a habit or flaw, but mark them *diagnostic only* until selected and supported by the causal chain. Do not rewrite present events or settle open world mechanics to accommodate an attractive hypothetical.
+
+**How to discover rather than dictate:** Ask one consequential question at a time, grounded in what has already happened on the page. If the author rejects the offered alternatives, update the model of the character rather than rephrase the same forced choice. Challenge contradictions only when the actual story produces one, and keep author uncertainty labeled as uncertainty. The corresponding stop-and-check procedure belongs in [Pipeline: emotional and knowledge handoff](Pipeline.md#emotional-and-knowledge-handoff-in-think).
+
+These are portable questions, not a transfer of Pathwell's emotional register. A Sunday Morning story still follows its own [tone guardrails](Rules.md#tone-guardrails).
+
 ## Voice
 
 **Sources.** The author's [voice guide](Sources/Voice-Guide.md), verbatim, is the authority on how sentences sound. Notes from two of his sample chapters (a Pathwell and an Elizabeth story, shared 2026-09-27 and not stored here) are secondary evidence and give way wherever the two disagree ([W1](Decisions.md#working-decisions)).
@@ -224,7 +239,7 @@ And the guide's revision rule: clarify first, strengthen second, embellish last.
 
 Pathwell's five-question [Quick Diagnostic](../Archive/Wiki-2026-06/Quick-Diagnostic.md) (now archived; its last question was overruled by Writing Principles 18), adapted. Run it on every scene of a draft.
 
-1. **What does the viewpoint character want in this scene?** "Nothing" or "to understand what's happening" means passive. Give them a want, even a small one.
+1. **What is moving the viewpoint character in this scene?** A want, fear, obligation, upset, or conflicting impulse can drive it. “Nothing” or “to understand what's happening” is a prompt to inspect the scene, not automatic proof the character is passive. After a shock, allow a specific reaction before expecting a settled plan ([character discovery](#character-discovery-before-explanation)).
 2. **Therefore, but, or and then?** Fix "and then".
 3. **What changed from top to bottom?** A relationship, knowledge, a plan, or the reader's attachment. If nothing did, cut or merge.
 4. **Did anyone explain what the story already showed?** Cut it.
