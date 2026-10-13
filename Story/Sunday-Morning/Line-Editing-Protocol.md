@@ -73,6 +73,12 @@ Before replacing a word, answer:
 - **Chapter:** Reconcile entrances/exits, times, distances, objects, injuries, knowledge, emotional timing, world-rule costs, promises, and the following chapter's starting state. Payoffs and planted details outrank elegant micro-edits.
 - **Book:** When a line changes a claim, clue, recurring object, naming choice, or character motive, find its other appearances and reconcile them. Don't reopen the whole book for an adjective that has no wider dependency.
 
+## 3A. Coverage rule for a complete line-edit review
+
+**A full line-edit review covers the entire requested scope in reading order**, including lines the editor expects to keep. Don't inspect only suspicious phrases or cherry-pick elegant alternatives. For each paragraph, test its purpose and transitions; for each sentence, run the §3 sentence checks; at points where meaning, voice or clarity depends on a particular word, run the word test. **Do not manufacture a finding for every sentence.** Record the exact ranges actually read, all actionable exceptions, and representative passages deliberately kept. Then inspect proposed changes as a separate diff audit.
+
+**A surgical request covers less:** the named words/lines, surrounding paragraph and any specifically affected dependencies. Report that limited scope truthfully rather than saying the chapter was reviewed.
+
 ## 4. Issue classification: what a reviewer can actually require
 
 | Class | Evidence | Priority | Normal disposition |
