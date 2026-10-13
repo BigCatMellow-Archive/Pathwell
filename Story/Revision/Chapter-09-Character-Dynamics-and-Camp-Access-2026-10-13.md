@@ -37,6 +37,12 @@
 - Author's new direction: Shade **wants to reach Camp and needs Elizabeth's cooperation**. Shade has attempted magical ways into Camp but, in the author's intended setup, methods recognize him as an *imposter*. He intends to **piggyback on Elizabeth's return to Camp**. The exact rule and the practical action Elizabeth must take have NOT yet been designed or established in the manuscript. Do not silently treat the identity-rejection rule as existing lore or as already demonstrated.
 - The author's idea for the diner: Shade may offer Elizabeth a **hypothetical future of Pathwell leaving her waiting** to push her toward choosing Camp and thereby help Shade. It is tactical pressure, not simply wise or benevolent advice. The scenario can be true to Pathwell's pattern and still be exploitative in Shade's mouth. Its wording, placement, motivation, Elizabeth's response, and what Shade actually knows about her Camp connection all need on-page support.
 
+### October 13 follow-up — why Camp feels urgent (author's current exploration)
+
+- Elizabeth remembers **feeling she belonged at Camp** and fears losing that place in her new life. This is a concrete attraction to Camp, not merely a wish to remain near Pathwell.
+- Her immediate fear may be practical and time-sensitive: **Camp may move, or the route/access might be lost**, and she might never find her way back. This is the author's developing interpretation, not yet an asserted fact that a particular passage will close or Camp will move on a fixed schedule.
+- This helps explain the insistence in Chapter 11 ("Camp." / "Now.") even after Pathwell injures her. She already wanted Camp before the injury; the injury did not create the goal. Whether she knows Camp will welcome her independently of Pathwell remains open and should be discovered through her experience, not assumed.
+
 ## 3. Open continuity and causality work — do before rewriting the diner again
 
 1. **Define the Camp access limitation from established rules, not convenience.** What exact known type of method did Shade attempt? Does it refuse to open, refuse him entry, or do something else? How does Elizabeth's cooperation make a difference? No answer has yet been selected.
