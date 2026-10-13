@@ -147,6 +147,8 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 | 6 | What does Shade do when Elizabeth is visibly hurting: respond to her pain or prioritize what he can get from her? | “He is still Pathwell at his core, so he wants to make it right” | **Settled character motive:** Shade's immediate desire is genuinely to help her feel better, rooted in the Pathwell qualities he carries. His earlier attention to possible leverage does not make this kindness feigned. Do not collapse him into a purely calculating manipulator, or infer that trying to make things right always means he understands what she needs or succeeds. The specific words or action remain open. |
 
+| 7 | How does Shade try to make Elizabeth feel better? | “I dont know, maybe he sees a chance to nudge her towards what he needs?” | **Open hypothesis, not a settled line or action:** Shade might genuinely want to help Elizabeth while noticing an opportunity to steer her toward his own objective. These impulses need not be exclusive, and the order or balance isn't determined. The author has not chosen a nudge, and Shade still cannot act on unearned knowledge about Elizabeth or Camp. Preserve R43's rejection of an invented Camp-entry mechanic and the hypothetical Pathwell-abandonment speech. |
+
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
-**Open after Q6:** Shade genuinely wants to make Elizabeth feel better. What he says or does to try, and whether his help has limits or later interacts with his own wants, remains open. Do not presuppose manipulative intent behind this immediate impulse.
+**Open after Q7:** Shade could try to help and strategically nudge Elizabeth at the same time. The practical nudge and what he can know at this exact point in Chapter 9 are unchosen. Test the information available to him before constructing dialogue.
