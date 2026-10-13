@@ -137,4 +137,8 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 | --- | --- | --- | --- |
 | 1 | She asks the question that gets her the answer ("What if the first one wasn't after me either?"). When Shade confirms it, who is her anger aimed at first? (Ch9 220–226) | "I dont think its anger, i think its embarassment" | **Settled: her first reaction is embarrassment, not anger.** This corrects the "anger before any plan" framing in §6 and narrows §2's earlier "frustration, anger". |
 
+| 2 | What had she let herself believe that makes this embarrassing? | *Withdrawn.* The author pointed out that §2 already answers it: being told she wasn't the target threatens "the continued availability of that life"; she wants reassurance that she matters and won't be sent back. The question also leaned toward the "needs to feel chosen" framing that §2 already corrected. | — |
+
+**Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
+
 **Open after Q1:** what the embarrassment is about, and what it does to her next moves.
