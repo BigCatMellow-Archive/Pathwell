@@ -1,6 +1,6 @@
 # Should the book grow, and where? THINK → PLAN, 2026-10-13
 
-**Status: a planning proposal for the author. No manuscript text is changed or approved by it.** It replaces the tiers in [Expansion-Map-2026-10-13.md](Expansion-Map-2026-10-13.md). That map overstated what could be added: several of its main items are already in the book or conflict with locks (see §3). It feeds the existing [Plan](Plan.md) section "October reader-panel: evidence-led THINK → PLAN" and does not start a second tracker.
+**Status: decided by the author, R42 (2026-10-13): Path A, with no forced length.** No manuscript text is changed by this document. The waves below run only as Path A: wave 0 is settled, and waves 4a and 4b are not taken. It replaces the tiers in [Expansion-Map-2026-10-13.md](Expansion-Map-2026-10-13.md). That map overstated what could be added: several of its main items are already in the book or conflict with locks (see §3). It feeds the existing [Plan](Plan.md) section "October reader-panel: evidence-led THINK → PLAN" and does not start a second tracker.
 
 **The author's request:** look at the Sunday notes and everything about writing the prose and the story, check what was proposed in the past against the book as it is now, and use THINK and PLAN to outline what would be added, what it means, and how it would fit. *"I don't want to add things just to add them. If this story is a better fit for where it's at, I'd rather leave it there than scrape butter across too much bread."*
 
