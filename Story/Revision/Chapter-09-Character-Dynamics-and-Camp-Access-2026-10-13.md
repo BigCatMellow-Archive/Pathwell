@@ -1,6 +1,6 @@
 # Chapter 9 character dynamics and Shade's route to Camp — development record
 
-**Status: ACTIVE WORKING NOTE (2026-10-13).** This is the durable record of the author's guided exploration around the Chapter 9 diner and a proposed Shade/Camp motive. It distinguishes what is **on the page**, what the **author has clarified about the characters**, and what is an **unimplemented story direction**. It is not a replacement for the manuscript, a magical-mechanics lock, or permission to invent fixes. Reconcile changed decisions through [Decisions](Decisions.md), and record manuscript edits in [Pass Log](Pass-Log.md). See [Writing Principles §17](../../Writing-Principles.md#17-rules-are-sacred-once-established) and ruling R39: the Bible is authoritative but correctable when the story proves it wrong.
+**Status: ACTIVE WORKING NOTE (2026-10-13; reviewed the same day, see [§6](#6-review-2026-10-13-rule-set-consistency-and-open-questions) and R43).** This is the durable record of the author's guided exploration around the Chapter 9 diner and a proposed Shade/Camp motive. It distinguishes what is **on the page**, what the **author has clarified about the characters**, and what is an **unimplemented story direction**. It is not a replacement for the manuscript, a magical-mechanics lock, or permission to invent fixes. Reconcile changed decisions through [Decisions](Decisions.md), and record manuscript edits in [Pass Log](Pass-Log.md). See [Writing Principles §17](../../Writing-Principles.md#17-rules-are-sacred-once-established) and ruling R39: the Bible is authoritative but correctable when the story proves it wrong.
 
 ## 1. What is actually established in the current manuscript
 
@@ -34,8 +34,9 @@
 
 - He has old, fragmentary Pathwell memories/habits; **no live access to Pathwell's thoughts, current memories, or private reasons**. His own body draws him toward Pathwell. This limits what he can assert at the diner.
 - He resents Pathwell deciding what other people are, but is capable of manipulating Elizabeth for his own end. That parallel is a potential flaw in Shade, not an excuse to turn him into an omniscient moral lecturer.
+- *Superseded in part by R43 (see §6):* the impostor-rejection mechanic is **not adopted**. Shade wanting Camp and using Elizabeth stays, and is carried by material already on the page.
 - Author's new direction: Shade **wants to reach Camp and needs Elizabeth's cooperation**. Shade has attempted magical ways into Camp but, in the author's intended setup, methods recognize him as an *imposter*. He intends to **piggyback on Elizabeth's return to Camp**. The exact rule and the practical action Elizabeth must take have NOT yet been designed or established in the manuscript. Do not silently treat the identity-rejection rule as existing lore or as already demonstrated.
-- The author's idea for the diner: Shade may offer Elizabeth a **hypothetical future of Pathwell leaving her waiting** to push her toward choosing Camp and thereby help Shade. It is tactical pressure, not simply wise or benevolent advice. The scenario can be true to Pathwell's pattern and still be exploitative in Shade's mouth. Its wording, placement, motivation, Elizabeth's response, and what Shade actually knows about her Camp connection all need on-page support.
+- *Not adopted as a speech (R43, see §6).* The author's idea for the diner: Shade may offer Elizabeth a **hypothetical future of Pathwell leaving her waiting** to push her toward choosing Camp and thereby help Shade. It is tactical pressure, not simply wise or benevolent advice. The scenario can be true to Pathwell's pattern and still be exploitative in Shade's mouth. Its wording, placement, motivation, Elizabeth's response, and what Shade actually knows about her Camp connection all need on-page support.
 
 ### October 13 follow-up — why Camp feels urgent (author's current exploration)
 
@@ -83,3 +84,45 @@ The guided questions also exposed the cost of premature theory: early framings m
 - Current chapters: [Chapter 8](../Chapters/Chapter_08.txt), [Chapter 9](../Chapters/Chapter_09.txt), [Chapter 10](../Chapters/Chapter_10.txt), [Chapter 11](../Chapters/Chapter_11.txt), [Chapter 12](../Chapters/Chapter_12.txt).
 - [Character Bible](../Story_Files/character_bible.md) (locked/base interpretation, subject to the author's corrections), [World Bible](../Story_Files/world_bible.md), [Writing Principles](../../Writing-Principles.md).
 - [Decisions R39–R41](Decisions.md#the-authors-rulings-for-this-revision); [Pass Log P44–P47](Pass-Log.md); [Promise Ledger](Promise-Ledger.md).
+
+## 6. Review 2026-10-13: rule-set consistency and open questions
+
+A second session reviewed this note against the current chapters, the reader panel (which read the text *before* P44–P47), Writing-Principles, the forbidden patterns, and R42 (no forced length). The author's response was: *"Thanks for catching those things, it's important to remain consistent in the rule set."* That response is recorded as R43.
+
+### What this note gives the story
+
+1. **The reading of Elizabeth answers the panel's convergent "what does she want?" finding** (3 readers, 3 kinds) in the author's own terms:
+   - a rut she didn't know she was in;
+   - the fear of losing the new life and the *way back* to Camp.
+
+   It gives the ending's "Because she wanted to go" something to go toward, and explains "Camp." / "Now." in Ch11. "Willingly following someone differs from having no voice" also changes how the panel's "she only reacts" should be fixed: by showing that following is sometimes her choice, not by having her argue more.
+2. **P44 makes the "never the point" discovery her own deduction** (Stansbury's "Was it?", and the second blob ignoring her). It partly answers the panel's top finding about why the blob came to her door.
+3. **Shade wanting Camp before Elizabeth says it** fixes the character reader's Ch11 complaint. As the text stands, "Are you trying to get to Camp?" is answered by "Something like recognition passed over Shade's face. 'Yes,' he said. 'Camp.'" Read that way, he adopts the goal the second she names it. Seeded earlier, the line becomes an admission. It also gives his Ch15 death more weight, since he dies at the place he wanted. This addresses the one stopper-level gap in the [Expansion THINK → PLAN](Expansion-THINK-PLAN-2026-10-13.md) **without a new scene**, so it is consistent with R42.
+4. **Emotion before destination exposes a real gap in the text.** After "Then you were never the point," the current Ch9 goes straight to "She leaned back against the booth. 'So what was?'", which is investigation. A reaction beat (anger before any plan, in her body, unexplained) would follow §2's correction. It would also make her lone night walk believable; both panel target readers doubted it (Expansion plan item E3).
+5. **The reading of Pathwell** ("a cherished season among many adventures") explains why, in Ch18, Elizabeth is the one who calls and sets the time and place. It stays off the page in this book, as the note already says.
+
+### Not adopted (R43): rule-set consistency
+
+- **The impostor-rejection rule, and Shade piggybacking on Elizabeth to enter Camp.** This is a new mechanism with no basis in the book (Writing-Principles 17; R39: "do not invent a missing explanation"). It contradicts Ch11, where Shade opens the wall himself and goes through first. It would ripple through Ch10–12. The useful part, that Shade wants Camp and uses Elizabeth, is already seeded in Ch9: "Because he'll listen to you longer than he'll listen to me." / "So I'm leverage." / "Partly."
+- **Shade speaking a hypothetical future in which Pathwell leaves her waiting.** `forbidden_patterns.md` §13 names the diner specifically: characters must not articulate the theme too explicitly. Shade predicting Pathwell's flaw out loud would do that. If his manipulation needs to be sharper, it should come through his behaviour, not a speech.
+
+### The smallest version (pending the author's answers; the author writes the prose)
+
+- **Ch9, after "Then you were never the point":** her reaction. Anger before any plan, felt in the body, not named or explained.
+- **Ch9:** one fragment of Camp that Shade remembers and wants for himself, inherited but wanted as *his*. Its natural place is the memory exchange ("I remember him… Fragments of him").
+- **Ch11:** check whether "Yes," he said. "Camp." now reads as an admission. At most a one-line adjustment.
+
+Estimated at a few hundred words. No new scene, no new mechanism, no change to Ch10's handoff ("What did Pathwell choose?").
+
+### Questions for the author
+
+1. **What specifically makes Elizabeth angry** when she hears "Then you were never the point"? (§2 left this open.) Some possibilities, with no answer assumed and possibly more than one:
+   - Pathwell's careless decision to involve her;
+   - his certainty being wrong;
+   - what it says about whether her new life is real;
+   - her own willingness to follow;
+   - something else.
+2. **Does her anger include a flash of wanting her old life back?** §2 records "maybe she is thinking about how she can get her old life back." If so, how does it show without becoming her lasting want?
+3. **What does Shade remember of Camp that he wants for himself?** Mama Baga, the bark tea, the fire, a place at the table, being expected somewhere, or something else. One concrete thing is enough.
+4. **Does Shade say that want out loud at the diner, or only show it?** For example, a question about Camp, or a reaction when Elizabeth mentions it. The current text has her think of "Pathwell at Camp" (Ch9:300) but never say it to him.
+5. **After 3–4, does Ch11's "Yes." / "Camp." need any change,** or does it now read as an admission on its own?
