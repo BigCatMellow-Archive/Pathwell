@@ -5,6 +5,7 @@
 **Writing reference: a general guideline for Sunday Morning stories in any setting.** This page owns how a Sunday Morning story is *told* and how its prose should *sound*:
 
 - the storytelling principles, adapted from the author's Pathwell notes;
+- character discovery and emotional causality, added after the 2026-10-13 diner exploration;
 - how to use the author's [voice guide](Sources/Voice-Guide.md);
 - writing against sameness, and awareness of common AI tells;
 - lessons from the author's line notes;
