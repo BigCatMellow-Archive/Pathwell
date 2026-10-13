@@ -93,6 +93,7 @@ The author asked for this (D24): "have the reader make sure he goes through all 
 6. **Who wrote what.** New lines in the [cautious categories](Craft.md#ai-and-the-author-who-writes-what) (jokes, emotional lines, character-defining dialogue, narrator commentary) that aren't the author's: is each plain, and is it flagged?
 7. **The records.** The locks, decisions and promise ledger, read in their primary records rather than a summary: what the text breaks, and what it spends early.
 8. **The routine itself (D23).** From the pass log, was every after-every-pass step run, or marked skipped with a reason? Name anything missing.
+9. **Line-by-line revision audit (D26, for edited text).** After the cold read, use the [line-editing protocol](Line-Editing-Protocol.md) on material changes: identify the old and new wording, what concrete fault was repaired, what meaning or character knowledge might have shifted, and whether neighboring text and any affected callbacks still work. Report unjustified rewording as **KEEP original** or **REVERT**. This is an evidence-based audit of the diff, **not** a rewrite of every line. For an unedited cold-read manuscript, mark this *not applicable*; do not let the earlier blind reader see the planned fixes.
 
 ## Sorting open questions (pass 2)
 
@@ -114,7 +115,7 @@ Each question still open at the end of the chapter gets one label:
 1. **What worked.** Three to six lines with quotes: what the author should keep.
 2. **Question log.** A table with the line, the question, what set it off, whether it was answered (and where), the label and the severity.
 3. **Causality findings.** Every beat whose preconditions aren't met, and every later beat that ignores an earlier change, plus the chapter's end state for the next chapter's reader.
-4. **Tone and rules.** The eight items of the [tone and rules check](#the-tone-and-rules-check), each *holds*, *breaks* (with lines and the smallest fix) or *not applicable*, and any light-touch candidate.
+4. **Tone and rules.** The nine items of the [tone and rules check](#the-tone-and-rules-check), each *holds*, *breaks* (with lines and the smallest fix) or *not applicable*, and any light-touch candidate. Where lines were edited, the ninth item checks the actual diff and the [line-editing protocol](Line-Editing-Protocol.md); where not, mark it not applicable.
 5. **Stoppers.** Every place the reader was pulled out, with a line each.
 6. **Neutral questions for the author.** Taste matters, asked as questions, not verdicts ("What's the cart doing when she falls behind?" rather than "the cart is wrong").
 7. **Opinions, last, and marked as opinions.**
