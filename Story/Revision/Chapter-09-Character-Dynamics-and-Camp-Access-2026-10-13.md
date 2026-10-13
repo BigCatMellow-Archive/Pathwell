@@ -139,6 +139,8 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 | 2 | What had she let herself believe that makes this embarrassing? | *Withdrawn.* The author pointed out that §2 already answers it: being told she wasn't the target threatens "the continued availability of that life"; she wants reassurance that she matters and won't be sent back. The question also leaned toward the "needs to feel chosen" framing that §2 already corrected. | — |
 
+| 3 | When Shade says “Then you were never the point,” what would he actually notice in the next few seconds? | “he would be studying her reaction, how it makes her feel, and what he can do with that” | **Author clarification:** Shade is actively observing Elizabeth's response and assessing how to use it. This establishes his attention and opportunistic intent, **not** that he can read her mind, already knows why she's embarrassed, or has selected his next move. The specific observable cue and next line remain open. |
+
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
-**Open after Q1:** what the embarrassment is about, and what it does to her next moves.
+**Open after Q3:** what Elizabeth visibly does that Shade can actually observe, how he interprets it (possibly incorrectly), and what he chooses to do next. Embarrassment is settled; Shade's knowledge of its cause and any specific manipulation are not.
