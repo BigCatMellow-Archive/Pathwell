@@ -228,6 +228,8 @@ From Pathwell's [`forbidden_patterns.md`](../Story_Files/forbidden_patterns.md),
 | **Pulling on resolved threads** | Build on locked decisions; don't re-derive them | Check [Decisions](Decisions.md) first |
 | **Confirm new elements before building on them** | Don't treat an unconfirmed detail as established | Matches the [promotion rule](Rules.md#promotion-rule) |
 
+**When editing rather than diagnosing:** [Line-editing and revision verification](Line-Editing-Protocol.md) is the operational protocol. It gives concrete acceptance and regression checks at the word, sentence, exchange, paragraph, scene and chapter levels. The examples above remain the rationale; word-search counts never require automatic replacements.
+
 ## The one-line test
 
 From Pathwell, before keeping any paragraph:
