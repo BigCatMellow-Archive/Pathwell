@@ -79,6 +79,21 @@ Before replacing a word, answer:
 
 **A surgical request covers less:** the named words/lines, surrounding paragraph and any specifically affected dependencies. Report that limited scope truthfully rather than saying the chapter was reviewed.
 
+## 3B. Constructing new prose (not only correcting old prose)
+
+For a new beat or replacement line, begin with **the work the beat must do**, not a polished sentence. This is a composition order, not required prose on the page:
+
+1. **Trigger:** What has actually happened immediately before this line? The preceding word, gesture or event must exist.
+2. **Point of view and access:** Who could see, hear, infer or remember it? What knowledge is not yet available?
+3. **Character response:** What does this person *actually* do, say, avoid or notice at this moment? An upset person need not produce a coherent plan or summarize their feelings.
+4. **Concrete language:** Choose the accurate action verb, object and referent; then the exact modifiers needed to distinguish the event. Match this speaker or narrator, not a generalized “literary” voice.
+5. **Placement:** Put necessary information before its use; place the line after its cause and before the consequence it enables. Make paragraph and dialogue transitions legible without adding stage-direction clutter.
+6. **Pressure-test:** Remove the line; what is now lost? Read the new line aloud beside its neighbors. If it only explains a feeling the reader can already infer, cut it. If it creates an unearned fact or voice, go back to the beat, not to a synonym search.
+
+**For dialogue**, draft the exchange by what one person wants *from the other*: prompt → response (including evasion or silence) → consequence. People can talk past each other, but their failure to answer should come from an identifiable desire or misunderstanding. **For narration**, record what the viewpoint actually registers before adding commentary; the narrator may have voice, but doesn't automatically diagnose the character.
+
+The final prose should **not** mechanically include a trigger, feeling, gesture, and decision in every paragraph. These are behind-the-scenes checks; omit any beat the reader already has.
+
 ## 4. Issue classification: what a reviewer can actually require
 
 | Class | Evidence | Priority | Normal disposition |
