@@ -198,6 +198,8 @@ Draft scene by scene from the plan, keeping its "must establish" items. When dra
 
 This is PLAN's DO / PLAN / THINK / authority routing, applied to prose.
 
+**When fixing prose down to the word:** use [Line-editing and revision verification](Line-Editing-Protocol.md#2-fixed-order-of-an-editing-pass). Its gates are story contract → causality → paragraph/dialogue → sentence/word → regression. A specific line can use its [minimum path](Line-Editing-Protocol.md#7-minimum-path-for-a-truly-small-edit); this does **not** replace or waive the after-every-pass reporting requirement below.
+
 ## After every pass
 
 Every drafting or revision pass ends with this routine, not only at L4. Priorities are in order: the costliest problems so far came first in this list.
