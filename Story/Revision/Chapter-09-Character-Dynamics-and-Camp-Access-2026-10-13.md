@@ -149,6 +149,8 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 | 7 | How does Shade try to make Elizabeth feel better? | “I dont know, maybe he sees a chance to nudge her towards what he needs?” | **Open hypothesis, not a settled line or action:** Shade might genuinely want to help Elizabeth while noticing an opportunity to steer her toward his own objective. These impulses need not be exclusive, and the order or balance isn't determined. The author has not chosen a nudge, and Shade still cannot act on unearned knowledge about Elizabeth or Camp. Preserve R43's rejection of an invented Camp-entry mechanic and the hypothetical Pathwell-abandonment speech. |
 
+| 8 | What immediate thing does Shade want Elizabeth to do for him? | “lead him to the camp” | **Settled immediate objective:** Shade wants Elizabeth to lead him to Camp. This is a navigation/cooperation goal, **not** approval of the rejected impostor-rejection or piggyback magic rule (R43). The manuscript must still earn his belief that she has been to Camp and might lead him there; her private memories alone do not supply that knowledge to Shade. He can sincerely try to ease her distress while pursuing this objective, but the specific approach remains open. |
+
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
-**Open after Q7:** Shade could try to help and strategically nudge Elizabeth at the same time. The practical nudge and what he can know at this exact point in Chapter 9 are unchosen. Test the information available to him before constructing dialogue.
+**Open after Q8:** Shade wants Elizabeth to lead him to Camp. What exactly has she said or done that lets him know she has a connection to Camp? The current diner passage has her think of Camp but does not have her tell him. No new magical access rule, psychological speech or proposed nudge is yet established.
