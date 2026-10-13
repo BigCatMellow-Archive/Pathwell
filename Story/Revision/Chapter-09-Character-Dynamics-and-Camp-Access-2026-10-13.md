@@ -41,7 +41,9 @@
 
 - Elizabeth remembers **feeling she belonged at Camp** and fears losing that place in her new life. This is a concrete attraction to Camp, not merely a wish to remain near Pathwell.
 - Her immediate fear may be practical and time-sensitive: **Camp may move, or the route/access might be lost**, and she might never find her way back. This is the author's developing interpretation, not yet an asserted fact that a particular passage will close or Camp will move on a fixed schedule.
-- This helps explain the insistence in Chapter 11 ("Camp." / "Now.") even after Pathwell injures her. She already wanted Camp before the injury; the injury did not create the goal. Whether she knows Camp will welcome her independently of Pathwell remains open and should be discovered through her experience, not assumed.
+- **Author clarification (2026-10-13): she already knows she is welcome at Camp independently of Pathwell.** Its people are accepting; she has received their blessing, donated books, and been clothed by them. Dressing her is part of accepting her as “one of them”; she is welcome to remain as long as she wants. **Do not build an arc around her fearing Camp's people will exclude her without Pathwell.** Her fear is losing the *way back*, not acceptance once there.
+- **Chapter 4 verification:** the current manuscript DOES include the clothing: Mama Baga brings clothes from a chest and says “Try these. Take what you like” (Ch4 ~340–352). It also depicts Elizabeth's donation of Nana's cookbook to the archive (~263–338, 400–438) and welcomes her, and Pathwell says “You can stay here” (~563). However, the specific recognition **“one of them” / explicit blessing** is **not stated in that clothing exchange**; assess whether the author wants it explicit when editing Ch4, without inventing a required ritual. The clothing is not missing and should not be redundantly reintroduced.
+- This helps explain the insistence in Chapter 11 ("Camp." / "Now.") even after Pathwell injures her. She already wanted Camp before the injury; the injury did not create the goal.
 
 ## 3. Open continuity and causality work — do before rewriting the diner again
 
