@@ -89,6 +89,18 @@ Other methods from THINK's twelve-method library (perspective shift, inversion, 
 
 The nail rows apply only when the collection belongs to a saga; see the [Larger-story check](#larger-story-check).
 
+### Emotional and knowledge handoff in THINK
+
+**Use when a plot turn depends on someone changing their mind, reacting to a revelation, or being persuaded.** This is a short supplement to assumption mapping and the scene's causal check, not an extra worksheet for every minor scene ([Craft: character discovery](Craft.md#character-discovery-before-explanation)).
+
+- **Evidence:** What exactly happened on the page? What does each person know firsthand, learn from another, merely suspect, or misunderstand? Keep author knowledge and reader knowledge separate.
+- **Immediate response:** What might the affected person feel or do *in the moment*? The reaction can be messy, contradictory, or still unknown. Do not work backward from the later plot destination and label that destination the immediate instinct.
+- **Later decision:** If a choice follows, what changes between reaction and choice—new information, regained composure, practical pressure, another person's influence? The plan should grow from that transition rather than bypass it.
+- **Speaker's purpose and means:** If someone steers the choice, identify their actual objective, information, credibility and practical means. The dialogue must not fix a broken world mechanic or grant knowledge that character does not have.
+- **Status:** Label each proposed interpretation `on-page`, `author-clarified`, `hypothesis`, or `open`. A hypothetical future is a *test case*, not a future chapter or lore until deliberately selected. Keep conflicting hypotheses open rather than manufacture a resolution.
+
+**Handoff:** Put only load-bearing findings or unresolved questions into the existing THINK/PLAN record. A scene plan's `must establish` can include a credible emotional transition if that is what the scene depends on; do not add mandatory boxes or spell out the theme in the prose.
+
 ### Larger-story check
 
 If the collection belongs to a larger setting or saga, run this after the four methods. Stories that stand alone skip it. Place the story in the saga's larger web (its cause-and-effect chain of current events, schemes and ripple chains) using the rule on [connecting to a larger story](Rules.md#connecting-to-a-larger-story). A **nail** is the smallest unit of pressure from that web that lands in one community.
