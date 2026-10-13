@@ -145,6 +145,8 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 | 5 | What does Shade interpret from the gesture? | “he can tell shes hiding herself, upset, dissapointed” | **Author clarification:** Shade reads her hand-over-face posture as her trying to hide herself and being upset and disappointed. He can recognize these visible/social cues; he has **not** thereby learned the precise cause of her disappointment or gained access to her private thoughts. What he does or says with this reading remains open. |
 
+| 6 | What does Shade do when Elizabeth is visibly hurting: respond to her pain or prioritize what he can get from her? | “He is still Pathwell at his core, so he wants to make it right” | **Settled character motive:** Shade's immediate desire is genuinely to help her feel better, rooted in the Pathwell qualities he carries. His earlier attention to possible leverage does not make this kindness feigned. Do not collapse him into a purely calculating manipulator, or infer that trying to make things right always means he understands what she needs or succeeds. The specific words or action remain open. |
+
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
-**Open after Q5:** Shade sees Elizabeth hiding her face, upset and disappointed. What he says or does with that observation remains undecided. Do not promote the observation into mind-reading, a definitive explanation of her embarrassment, or a preselected manipulation.
+**Open after Q6:** Shade genuinely wants to make Elizabeth feel better. What he says or does to try, and whether his help has limits or later interacts with his own wants, remains open. Do not presuppose manipulative intent behind this immediate impulse.
