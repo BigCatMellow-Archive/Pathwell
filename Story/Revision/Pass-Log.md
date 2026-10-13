@@ -2436,3 +2436,9 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 ## P45, 2026-10-12: Chapter 9 diner — remove Shade's explanatory aside
 
 **Scope:** Narrow author-directed line edit to Chapter 9. Removed Shade's “Of whatever followed him. Don't make that sentence larger than it is.” after “Then you were never the point.” Elizabeth's look and physical reaction remain, with the second mention of her name reduced to “She” for flow. The following questions about what drew the creatures remain unchanged. No new character knowledge or lore was introduced. The earlier evidence-based exchange from P44 remains intact. **Review:** Exact passage checked for continuity; no full independent reread or automated suite run for this two-sentence edit.
+
+## P46, 2026-10-13: Chapter 4 — Mama Baga names Elizabeth's welcome
+
+**Scope:** Narrow author-directed addition to the existing clothing exchange, not a replacement or new ritual. After Elizabeth tries on Camp clothes and feels unexpectedly comfortable, Mama Baga says, “You'll fit in here.” The following sentence now names Elizabeth explicitly to avoid a pronoun pointing back to Mama Baga. This puts the author's established understanding — Elizabeth is already welcome at Camp independently of Pathwell (R41) — on the page with one simple line.
+
+**Continuity / boundary:** The clothes, cookbook donation, and Pathwell's separate “You can stay here” were already present in Chapter 4. The new line changes no magical access rule, Shade motivation, or later scene. The hypothetical diner manipulation and Camp-entry mechanics remain open. The exact Chapter 4 passage was checked; no full independent manuscript review or checker run for this two-sentence patch.
