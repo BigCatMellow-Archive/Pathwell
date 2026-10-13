@@ -141,6 +141,8 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 | 3 | When Shade says “Then you were never the point,” what would he actually notice in the next few seconds? | “he would be studying her reaction, how it makes her feel, and what he can do with that” | **Author clarification:** Shade is actively observing Elizabeth's response and assessing how to use it. This establishes his attention and opportunistic intent, **not** that he can read her mind, already knows why she's embarrassed, or has selected his next move. The specific observable cue and next line remain open. |
 
+| 4 | What visible action lets Shade see Elizabeth is embarrassed? | “She covers her eyes and looks down like the space between the thumb and index finger fits on her forehead / brow, her shoulders slump.” | **Settled physical reaction, not yet manuscript prose:** Elizabeth brings a hand over her eyes/brow, with the angle between thumb and forefinger fitting at her brow as she looks down; her shoulders slump. Preserve the actual gesture rather than translating it into narrator diagnosis or embarrassment clichés. Shade can see it but cannot know its cause merely from looking. |
+
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
-**Open after Q3:** what Elizabeth visibly does that Shade can actually observe, how he interprets it (possibly incorrectly), and what he chooses to do next. Embarrassment is settled; Shade's knowledge of its cause and any specific manipulation are not.
+**Open after Q4:** how Shade reads Elizabeth's visible embarrassment, possibly inaccurately, and what (if anything) he says or does with it. Her gesture and emotion are settled; Shade's interpretation and next move are not.
