@@ -2478,3 +2478,13 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 **Before/after and continuity:** Before P51, Mama Baga put the chain on Elizabeth without objection or conversation. After P51, Elizabeth can object **before** it is fastened; the clasping and response follow in physical order. This preserves her ability to respond rather than denying her a voice. The gold chain remains the one worn in Chapter 9, and no new jewelry, magical rule, or Shade knowledge has been introduced. [R41](Decisions.md#the-authors-rulings-for-this-revision) and [Rung interview Q12](Chapter-09-Character-Dynamics-and-Camp-Access-2026-10-13.md#7-interview-mode-session-rung-2026-10-13) record the clarification.
 
 **Verification:** Exact local before/after passage was compared; chain ownership, objection, fastening order and Chapter 9 object reference checked. This was a surgical edit, not a full chapter review; full cold-reader and checker passes were not run.
+
+## P52, 2026-10-14: Chapter 4 — Mama Baga notices what Elizabeth hides
+
+**Author request:** Add a conversation between Elizabeth and Mama Baga in which Mama Baga can see that Elizabeth carries hurt beneath a practiced composure. The author has not yet specified the full cause of that hurt.
+
+**Smallest placement:** Directly after Mama Baga adjusts Elizabeth's blanket and Elizabeth almost cries, before the turnip boy enters with Nana's cookbook. This keeps the new exchange grounded in an existing involuntary reaction, without explaining the subsequent decision to donate the cookbook or replacing the established necklace-giving exchange.
+
+**New beat:** Elizabeth attempts a polite smile and says she's made quite an entrance. Mama Baga recognizes her tendency to stay polite while struggling. Elizabeth minimizes her distress as a long night; Mama Baga gently suggests there's more to it than tonight. Elizabeth protests that Mama Baga doesn't know her; she answers that she can get to know her. Elizabeth pulls the blanket higher rather than delivering an explanatory speech. These lines are **provisional, subject to author review**, not authority to invent Elizabeth's specific history.
+
+**Continuity checked:** The moment comes after tea, blanket and initial “I'm fine” / “That is not a posture,” and before the boy enters. No change to the cookbook donation, Chapter 4 necklace gift (P50–P51), Chapter 9 recognition question, or world mechanics. Local dialogue turn order, stool placement and blanket pronoun checked; no external independent reader review or full chapter pass completed.
