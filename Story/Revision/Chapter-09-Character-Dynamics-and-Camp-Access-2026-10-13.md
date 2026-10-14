@@ -171,4 +171,4 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
-**Open after Q15:** The author has established the nature of Elizabeth's long-carried pain and the start of her relief at Camp. Find the first concrete circumstance or gesture that allows her to physically relax; don't imply her grief is cured or force a psychological explanation into her speech. Shade's reaction to the necklace still remains open separately.
+**Open after Q16:** Elizabeth gets absorbed in some part of Camp life and only afterward notices that she's happy without effort. Which activity draws her in is undecided; Chapter 4 has not been revised to add this moment. Shade's reaction to recognizing the necklace remains open separately.
