@@ -167,6 +167,8 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 | 15 | What pain has Elizabeth carried from before meeting Pathwell? | “Her loss, isolation, loneliness, she covers it all with distractions and drinking. Moving and existing from moment to moment without ever living. And now its starting to lift, the camp makes her feel that something new, its like exhaling for the first time in years (the exhale is the breath of relaxtion)” | **Settled inner history and trajectory:** losses and loneliness under a practiced facade; alcohol and distractions used to avoid sitting with it; survival on autopilot. Camp begins to offer real, unfamiliar ease and belonging. The exhale means the physical relaxation of tension, **not** complete healing, instant intimacy, or an instruction to put a literal quoted metaphor in dialogue. The exact losses and when her first noticeable release happens on the page remain open. |
 
+| 16 | First genuine relaxation at Camp? | “She gets caught up in something and realizes that shes happy for no reason” | **Settled emotional sequence:** Elizabeth becomes absorbed in an ordinary activity, then notices she is happy without trying to be. The activity is still open; do not invent one or add overt explanation to the manuscript. |
+
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
 **Open after Q15:** The author has established the nature of Elizabeth's long-carried pain and the start of her relief at Camp. Find the first concrete circumstance or gesture that allows her to physically relax; don't imply her grief is cured or force a psychological explanation into her speech. Shade's reaction to the necklace still remains open separately.
