@@ -165,4 +165,4 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
-**Open after Q13:** Pathwell originally got the chain for Mama Baga, which supplies Shade's personal recognition through older memories. The open character beat is **what Shade does when he sees the chain on Elizabeth** and recognizes that Mama Baga passed it on. Chapter 9 has not yet shown the recognition. No location, purchase history, exact date, or magic property is established.
+**Open after Q14:** The present interview has moved to Mama Baga recognizing a deeper hurt Elizabeth keeps concealed. P52 contains a provisional exchange in Ch4; the precise hurt remains for the author to define. Shade's response to recognizing the necklace is still open and Ch9 remains unchanged.
