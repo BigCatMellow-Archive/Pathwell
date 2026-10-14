@@ -171,4 +171,4 @@ This is an author interview using the Rung Teaching System's Interview Mode: one
 
 **Interviewer's note:** re-read §2 before each question; don't re-ask what the author has already settled.
 
-**Open after Q16:** Elizabeth gets absorbed in some part of Camp life and only afterward notices that she's happy without effort. Which activity draws her in is undecided; Chapter 4 has not been revised to add this moment. Shade's reaction to recognizing the necklace remains open separately.
+**Open after Q16:** Elizabeth gets absorbed in some part of Camp life and only afterward notices that she's happy without effort. Which activity draws her in is undecided; Chapter 4 has not been revised to add this moment. **Interview paused:** the author has proposed exploring the earlier welcome party as a memory during the Chapter 3 Space Between blackout instead of a prologue. The experiment and its opening-hook constraint are owned by [Chapter 3 party flashback THINK → PLAN](Chapter-03-Party-Flashback-THINK-PLAN-2026-10-14.md) (R44, P53). Shade's reaction to recognizing the necklace remains open separately.
