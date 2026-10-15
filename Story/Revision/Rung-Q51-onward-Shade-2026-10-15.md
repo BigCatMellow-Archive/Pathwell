@@ -61,3 +61,8 @@ Continues [the Q28–Q50 notes](Rung-Q28-Q29-Shade-2026-10-14.md). This file cap
 ## Emergence analysis handoff — 2026-10-15
 
 The author paused Rung before answering Q55 to apply the legacy MAP Emergence discovery method. A separate [Pathwell Emergence package](Emergence/INDEX.md) now collects three insights, one synthesis, a candidate revision idea, a tabletop experiment comparing the two unresolved Q54 physical responses, and a creative review. It does **not** authorize changes to Chapter 14–15 or supersede older canon/decision locks. The experiment's status is **revise, not promote**. Q55 remains open if/when the interview resumes.
+
+
+## Author clarification — Elizabeth's role (2026-10-15)
+
+The author selected the **restrained approach** to her climax agency after Emergence EXP-0002: [dated author ruling](Author-Ruling-Elizabeth-Agency-2026-10-15.md) and [EXP-0002](Emergence/experiments/EXP-0002-Elizabeth-Central-Agency-Counterfactual-2026-10-15.md). Her nonmagical rescue of Milo and own later direction can be the primary human payoff even though she does not change the blob's ultimate target or Shade's fate. Do not invent dagger magic or require her to save both. **Only this agency criterion is selected**; Q54 remains undecided, Q55 unasked, and the draft surprise-capture climax is still a test rather than adopted prose. No manuscript changes.
