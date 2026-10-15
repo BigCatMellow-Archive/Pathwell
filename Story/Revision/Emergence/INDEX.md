@@ -48,3 +48,7 @@ Create a spatially explicit noncanonical timeline for both candidate endings, sh
 - [EXP-0001F — narrow rescue-window prose probe](experiments/EXP-0001F-Rescue-Window-Prose-Probe-2026-10-15.md): **tentative pass** for an on-page competing rescue, but no proof that Shade is unrescuable or that Elizabeth alters the magical outcome.
 
 **Disposition remains TEST / DO NOT PROMOTE.** Q54 and Q55 are open. No novel chapters, bibles, canon or Decisions have been edited.
+
+## Elizabeth's central-agency counterfactual — 2026-10-15
+
+[EXP-0002 — Elizabeth's Central Agency: Counterfactual and Architecture Review](experiments/EXP-0002-Elizabeth-Central-Agency-Counterfactual-2026-10-15.md) tests whether her choices actually alter Pathwell–Shade's confrontation or merely (importantly) save Milo and complete her human arc. **Result:** protagonist/thematic agency = PASS; concrete human outcome = PASS; **strict September 18 author-intent test** requiring her choice to materially alter the Pathwell–Shade conflict's course = NOT SHOWN. Six possible interventions/interpretations are analyzed; none is silently promoted. The next step is an author-level choice about retaining the strict causal rule or explicitly accepting a human-centered climax, or else one more narrowly bounded mechanics test. Old R37, Q132 and R42 approvals remain intact until author-approved reconciliation.
