@@ -81,3 +81,7 @@ Source [README](https://github.com/BigCatMellow/MAPS_Lean/blob/main/legacy/MAP-S
 - [Synthesis](synthesis/SYN-0001-three-consequences.md)
 - [Idea](ideas/IDEA-0001-convergent-climax.md)
 - [Experiment](experiments/EXP-0001-two-blockings.md)
+
+## Addendum — detailed blocking experiment
+
+The [expanded timeline and blocking test](experiments/EXP-0001A-Ch14-Ch15-Timeline-and-Blocking-2026-10-15.md) confirms the known chronological conflict and identifies a further rescue-availability problem: Chapter 7 establishes Stansbury's enchanted anti-blob tools, while Chapter 14 shows him entering Camp with a first-aid box and paper bag, not a clear weapon inventory. His capacity to intervene must be settled by honest staging rather than a convenient omission. The experiment also notes that Milo's closing Hearts dialogue in existing Chapter 15 cannot remain in its old place if he is pinned during Shade's encounter. The review decision remains **TEST / NOT PROMOTED**.
