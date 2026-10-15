@@ -2,7 +2,7 @@
 
 **These ten scenes must exist in the final manuscript. They are the structural pillars.** The Chapter 14–18 climax beats below reflect the author's coordinated October 15, 2026 revision; older August interview staging remains in decision history.
 
-> **Status, 2026-09-30:** brought into line with the Bible interview (2026-08-21 to 08-27) at the author's direction ([revision Decisions, R14](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)). The earlier list predated the interview; it's in git history. Each scene names the lock behind it; the climax (8–9) is still being explored ([Q-E](Story/Revision/Decisions.md#open-for-the-author)).
+> **Status, 2026-10-15:** brought into line with the August interview on 2026-09-30 (R14), then updated for the author's later **R45–R47** rulings and the coordinated Ch14–18 rewrite (P54). The new climax (8–9) is **implemented and awaiting independent reader review**, not an open old R37 option. Earlier staging, including August Q132's voluntary Shade approach, remains in historical notes. [Decisions](Story/Revision/Decisions.md), [P54](Story/Revision/Pass-Log.md#p54-2026-10-15-coordinated-chapter-1418-climax-and-ending-rewrite).
 
 ---
 
