@@ -183,3 +183,8 @@ No production chapter edits or bible/canon edits made.
 ## Follow-up — prose trials and creative review (2026-10-15)
 
 The recommended POV prose tests have been run without editing chapters: [A: Elizabeth-limited](EXP-0001B-Scene-Test-A-Elizabeth-Limited-2026-10-15.md), [B: clearly signposted Shade scene](EXP-0001C-Scene-Test-B-Shade-Scene-Break-2026-10-15.md), and [comparative review](EXP-0001D-Prose-Comparison-and-Review-2026-10-15.md). **Neither passes all gates or is adopted.** Chapter 11 does show an exterior scene after Elizabeth departs, so a camera transition is not categorically impossible; an extended direct Shade interior at the climax remains a material stylistic decision. Rescue feasibility and older agency concerns persist.
+
+
+## Rescue window update (2026-10-15)
+
+[EXP-0001E equipment/targeting audit](EXP-0001E-Rescue-Availability-and-Targeting-Audit-2026-10-15.md) uses Chapter 7, Chapter 10's van, Chapter 11's museum transfer and Chapter 14's explicit objects to check rescuer availability; [EXP-0001F](EXP-0001F-Rescue-Window-Prose-Probe-2026-10-15.md) tests the brief competing-rescue doorway moment. The result is **conditionally viable, not proven unavoidable**. It identifies a previously unclosed targeting question: without Shade's old voluntary signal-separation walk, the creature can first reach his leg by crossing the path from woods to fresh waste. This is geographic blocking, not a new targeting rule. Q54/Q55 and Elizabeth's older central-conflict criterion remain open; **no promotion**.
