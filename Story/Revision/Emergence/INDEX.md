@@ -41,3 +41,10 @@ Create a spatially explicit noncanonical timeline for both candidate endings, sh
 - [EXP-0001B — A: Elizabeth-limited sample](experiments/EXP-0001B-Scene-Test-A-Elizabeth-Limited-2026-10-15.md): the rescue decision is concrete, while Shade's private realization is unavailable to Elizabeth.
 - [EXP-0001C — B: explicit break to Shade](experiments/EXP-0001C-Scene-Test-B-Shade-Scene-Break-2026-10-15.md): his regret and independence from Pathwell become clear, at the cost of a late interior-viewpoint change and slower physical pace.
 - [EXP-0001D — Comparative creative review](experiments/EXP-0001D-Prose-Comparison-and-Review-2026-10-15.md): **REVISE BOTH / DO NOT PROMOTE**. Primary blockers are Stansbury's possible anti-blob equipment, exact overlap/time, narrator's camera, and Elizabeth's prior central-conflict agency criterion. No manuscript changes.
+
+## Rescue logistics audit (2026-10-15)
+
+- [EXP-0001E — equipment, rescue availability, targeting and spatial audit](experiments/EXP-0001E-Rescue-Availability-and-Targeting-Audit-2026-10-15.md): **conditionally viable**. Work van's weapon box remains outside Camp on the known route; Elizabeth still has the dagger; Shade can be contacted as the creature moves toward fresh spill. New target-selection behavior is **not** assumed.
+- [EXP-0001F — narrow rescue-window prose probe](experiments/EXP-0001F-Rescue-Window-Prose-Probe-2026-10-15.md): **tentative pass** for an on-page competing rescue, but no proof that Shade is unrescuable or that Elizabeth alters the magical outcome.
+
+**Disposition remains TEST / DO NOT PROMOTE.** Q54 and Q55 are open. No novel chapters, bibles, canon or Decisions have been edited.
