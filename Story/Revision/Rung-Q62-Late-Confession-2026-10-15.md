@@ -46,3 +46,8 @@ C. Place admission earlier in Chapter 16 or 17, letting Chapter 18 remain a quie
 When Pathwell admits the truth, is he seeking Elizabeth's forgiveness, or is he telling her because **she deserves to know what he deliberately chose**, even if it changes whether she travels with him?
 
 No manuscript, canon, character-bible, World Bible, or earlier decision file changed.
+
+
+## Q63–Q64 developments (2026-10-15)
+
+Pathwell tells Elizabeth out of shame and uncertainty about who he is, rather than asking her to forgive him. Elizabeth's first impulse may be to relate: “I did too,” because she also heard Shade call for help before Milo cried out and she went into the fire. See [Q64 note](Rung-Q64-Elizabeth-Response-2026-10-15.md). The two choices must not be equated: she acted to save Milo; he chose not to intervene because Shade's removal appeared convenient. Try a brief exchange in which Pathwell himself refuses to take her identification as absolution. Prose placement in Chapter 18 still requires reconciliation with older Q94–Q95.
