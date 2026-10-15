@@ -85,3 +85,8 @@ Source [README](https://github.com/BigCatMellow/MAPS_Lean/blob/main/legacy/MAP-S
 ## Addendum — detailed blocking experiment
 
 The [expanded timeline and blocking test](experiments/EXP-0001A-Ch14-Ch15-Timeline-and-Blocking-2026-10-15.md) confirms the known chronological conflict and identifies a further rescue-availability problem: Chapter 7 establishes Stansbury's enchanted anti-blob tools, while Chapter 14 shows him entering Camp with a first-aid box and paper bag, not a clear weapon inventory. His capacity to intervene must be settled by honest staging rather than a convenient omission. The experiment also notes that Milo's closing Hearts dialogue in existing Chapter 15 cannot remain in its old place if he is pinned during Shade's encounter. The review decision remains **TEST / NOT PROMOTED**.
+
+
+## Addendum — two scene samples reviewed
+
+The new [noncanonical Elizabeth-limited trial](experiments/EXP-0001B-Scene-Test-A-Elizabeth-Limited-2026-10-15.md) renders her dilemma but conceals Shade's final recognition. The [Shade POV trial](experiments/EXP-0001C-Scene-Test-B-Shade-Scene-Break-2026-10-15.md) renders his recognition but could slow the crisis and explain its meaning too explicitly. [Full comparison](experiments/EXP-0001D-Prose-Comparison-and-Review-2026-10-15.md): **revise both**. Both preserve Pathwell's responsibility for the fire, Shade's surprise capture, and uncertainty about his final behavior. Neither resolves the availability of Stansbury's anti-blob tools, exact event timings, or the older central-conflict agency requirement. The manuscript remains unchanged.
