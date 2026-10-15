@@ -11,3 +11,21 @@ A test line might be: 'I heard him too,' Elizabeth said. 'And then I heard Milo.
 Chapter 18's cookbook put-back stays silent in the test. The later admission conflicts with earlier no-explanation Q94-Q95 and must be authorized before manuscript revision. It also creates an obligation to reconsider the light final route choice and Elizabeth's wish to travel with him.
 
 Next Rung Q65: Does Elizabeth say plainly that she had to choose between two people, while Pathwell could at least have asked someone to help?
+
+## Rung Q65 — Pathwell gently distinguishes the two choices
+
+**Author:** “the slight pushback works.” The author approves the *character beat*: when Elizabeth tries to relate to his confession by saying she too heard Shade and did not go to him, Pathwell **gently but clearly rejects the moral equivalence**. She chose to rescue Milo from an active fire; he recognized that Shade's death would solve his own problem and deliberately withheld help. He does not use Elizabeth's empathy to absolve himself.
+
+**Candidate exchange only (not approved final wording):**
+
+> “I didn't help him either,” Elizabeth said. “I heard him. Then Milo called from the archive.”
+>
+> “You went to save Milo,” Pathwell said.
+>
+> “Yes.”
+>
+> “That's not what I did.”
+
+**Guardrails:** The exchange should be understated, not explanatory sermonizing. His correction is not aggressive toward Elizabeth or contemptuous of her own guilt. Her reaction remains hers, not an obligation to forgive or comfort him. The late confession remains a proposed change to Chapter 18; it conflicts with the older Q94–Q95 unexplained “It was my fault” and requires formal reconciliation before writing it into the manuscript. Preserve the author-locked final exchange and Elizabeth's independent choice unless the author revises them explicitly.
+
+**Next Rung Q66:** After he makes that distinction, does Elizabeth ask what he means by “that's not what I did,” or has he already told her plainly that he knowingly let Shade be taken? The answer determines where the confession's factual revelation belongs in this exchange.
