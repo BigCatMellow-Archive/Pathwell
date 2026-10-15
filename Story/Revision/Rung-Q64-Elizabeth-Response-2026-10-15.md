@@ -57,3 +57,16 @@ Next Rung Q65: Does Elizabeth say plainly that she had to choose between two peo
 **Authority caveat:** Q67 settles her intent and the destination/invitation direction, **not the precise language, placement, or full promotion** of Q60–Q66. The earlier Q94–Q95 prohibition on explaining “It was my fault” requires explicit reconciliation before revising Chapter 18. No manuscript changes.
 
 **Next possible Rung Q68:** Does Elizabeth say anything explicitly indicating that she still wants him with her after the confession, or does the existing “Do you want to come?” carry that choice without explanation?
+
+
+## Rung Q68 — The invitation says it (2026-10-15)
+
+**Author:** “the invitation to the next adventure say that for her.”
+
+**Decision:** After Pathwell's proposed late confession of deliberately withholding help from Shade, Elizabeth does **not** add a separate declaration that she still wants Pathwell in her life. Her subsequent, freely offered invitation to join her on the next journey **is the expression of that choice**. Keep the existing Chapter 18 architecture: she chooses the destination, asks whether he wants to come, and ends with “Are you ready?” / “No.” / “Perfect.” Do not add a reassuring speech, explicit pardon, or relationship summary that explains what the invitation already shows.
+
+**Narrative safeguard:** This is an invitation, **not absolution**. Pathwell's shame-driven factual confession, Elizabeth's empathetic comparison, and his gentle distinction between her rescue of Milo and his convenient inaction still need to fit the chapter's emotional pace. Don't use the lighter final adventure banter to imply Shade's death has been settled. A brief silence or ordinary transition may prove necessary in scene testing, but no additional scenes are authorized by this answer.
+
+**Status:** Author direction for the Chapter 18 revision **plan**; exact prose and integration remain unapproved, and the earlier Q94–Q95 protection of an unexplained “It was my fault” must be formally reconciled before the new confession is written into the manuscript. No canonical chapter, bible, or world-rule edits.
+
+**Next editorial gate:** Draft a bounded *noncanonical* trial of the existing Chapter 18 confession-to-invitation passage and independently assess whether the unspoken invitation remains credible after disclosure. Compare against the current Chapter 18, retaining the final three lines exactly.
