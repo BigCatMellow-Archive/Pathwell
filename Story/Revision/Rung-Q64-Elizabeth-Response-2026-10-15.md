@@ -78,3 +78,8 @@ With the author's selection to let the next-adventure invitation express Elizabe
 
 
 **Additional noncanonical timing test:** [EXP-0004C](Emergence/experiments/EXP-0004C-Ch18-Confession-Then-Existing-Hour-Prose-Test-2026-10-15.md) keeps the cookbook put-back silent and moves the *existing* one-hour browsing passage to **after** the confession, giving Elizabeth lived time before she chooses Pathwell's company without an explicit reassurance. Provisional editor's lean: more convincing transition than the direct-return EXP-0004A. Do **not** confuse elapsed time or a preserved author-chosen ending with reader validation; earlier Q94–95 and alternate Ch15 causality remain adoption blockers.
+
+
+## Q69 — Author selects EXP-0004C after A/B/C review (2026-10-15)
+
+**Author:** “Lets go C then.” The **selected** Chapter 18 sequence is: quiet cookbook return; later full confession and gentle distinction; **existing bookshop hour moved to after the revelation**; Elizabeth chooses the next route, invites Pathwell by action rather than explicit forgiveness, and ends with the locked “Perfect.”. [Formal disposition and dependencies](Author-Ruling-Ch18-Version-C-2026-10-15.md). This selects the structure, **not every experimental line**. A/B remain comparative history. The earlier unexplained-confession Q94–Q95 lock is explicitly displaced **for the intended future ending**, not erased from the current canon. Current Chapter 18 unchanged until the revised Shade capture/Pathwell inaction from Chapters 14–15 has been aligned and reviewed.
