@@ -56,3 +56,12 @@ Create a spatially explicit noncanonical timeline for both candidate endings, sh
 ## Author selected Elizabeth's restrained approach — 2026-10-15
 
 The author chose **“the restrained approach”** after EXP-0002. See [formal author-ruling record](../Author-Ruling-Elizabeth-Agency-2026-10-15.md). This settles **the acceptance criterion for Elizabeth's central agency**, not the detailed Ch14–15 scene: her rescue of Milo, loss of her books and eventual self-direction are the human-centered payoff; she does not have to redirect the cleanup creature or magically solve the Pathwell–Shade conflict. The stronger September 18 *specific-supernatural-outcome* test no longer blocks that human-centered resolution. **Status:** Elizabeth direction SELECTED; overarching climax / Shade physical final action / viewpoint / rescue timing remain TEST / NOT PROMOTED. No chapter or bible changes.
+
+## Shade's ending — action / viewpoint experiments (2026-10-15)
+
+- [EXP-0003 — four-way movement and camera matrix](experiments/EXP-0003-Shade-Final-Action-and-POV-Matrix-2026-10-15.md) — compares stillness versus outward-looking action under Elizabeth-only and brief Shade/exterior viewpoints.
+- [EXP-0003A — hybrid acceptance plus ordinary help](experiments/EXP-0003A-Hybrid-Acceptance-and-Action-2026-10-15.md) — a short noncanonical Shade scene testing **accepting what cannot be controlled without giving up the freedom to care**.
+- [EXP-0003B — minimal exterior cutaway and comparative review](experiments/EXP-0003B-External-Cutaway-and-Comparative-Review-2026-10-15.md) — compares external action, Elizabeth-only inference and explicit Shade interior.
+- [SYN-0002 — acceptance without withdrawal](synthesis/SYN-0002-acceptance-without-withdrawal.md) — possible resolution of the false either/or in Q54, **not author-selected**.
+
+**Recommendation, not ruling:** Try the hybrid physical behavior with the shortest honest camera coverage; avoid implying Shade *deserves* death or that his self-recognition absolves Pathwell. **Rung Q54 and Q55 remain OPEN.** The existing Q132/Chapter 15 death arrangement has NOT been formally changed. Elizabeth's restrained human-centered agency ruling remains in force. No production prose/canon edits.
