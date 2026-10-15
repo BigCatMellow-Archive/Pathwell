@@ -42,3 +42,18 @@ Next Rung Q65: Does Elizabeth say plainly that she had to choose between two peo
 **Limits:** This author answer selects the **order and moral shape**, not exact dialogue or permission to rewrite Chapter 18. Earlier Q94–Q95 protect the unexplained “It was my fault” and silence; any actual new confession must explicitly reconcile those older decisions. The existing ending's lightness and Elizabeth's eventual invitation need testing with the newly revealed wrongdoing.
 
 **Next Rung Q67:** With the truth now known, does Elizabeth still **want Pathwell to accompany her** when she chooses the next route, or does she need distance from him?
+
+
+## Rung Q67 — Elizabeth still wants Pathwell to come (2026-10-15)
+
+**Author:** “of course,” in direct answer to whether Elizabeth still wants Pathwell to accompany her after learning that he deliberately failed to help Shade.
+
+**Decision:** Elizabeth's desire to continue traveling with Pathwell is retained. Her knowledge of his choice at Camp does **not** reverse her own wish for the next adventure. Chapter 18's established ending architecture — Elizabeth selects the destination, asks Pathwell whether he wishes to come, and ends on “Are you ready?” / “No.” / “Perfect.” — remains the intended shape.
+
+**Important distinction:** Her invitation is a free choice, **not a verdict that Pathwell was innocent, a grant of forgiveness, a romanticized excuse, or a reward for his confession**. She can feel compassion, disapprove of his conduct, and still want his company. The book should not automatically turn that complexity into a lecture, a moral test, or a long cooling-off period unsupported by the author's response. Pathwell's gentle correction in Q65 (“You went to save Milo. That's not what I did”) should remain a refusal to seize easy absolution, while Elizabeth retains control of her own response.
+
+**Scene-level implication:** Retain the quiet cookbook put-back, then test the specific confession, Elizabeth's attempt to relate, Pathwell's gentle pushback, and an unforced return to her chosen route. **The pacing has to earn that return**; do not claim the mere act of inviting him resolves the death or completes his moral reckoning.
+
+**Authority caveat:** Q67 settles her intent and the destination/invitation direction, **not the precise language, placement, or full promotion** of Q60–Q66. The earlier Q94–Q95 prohibition on explaining “It was my fault” requires explicit reconciliation before revising Chapter 18. No manuscript changes.
+
+**Next possible Rung Q68:** Does Elizabeth say anything explicitly indicating that she still wants him with her after the confession, or does the existing “Do you want to come?” carry that choice without explanation?
