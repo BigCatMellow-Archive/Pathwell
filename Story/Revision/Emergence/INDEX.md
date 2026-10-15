@@ -65,3 +65,7 @@ The author chose **“the restrained approach”** after EXP-0002. See [formal a
 - [SYN-0002 — acceptance without withdrawal](synthesis/SYN-0002-acceptance-without-withdrawal.md) — possible resolution of the false either/or in Q54, **not author-selected**.
 
 **Recommendation, not ruling:** Try the hybrid physical behavior with the shortest honest camera coverage; avoid implying Shade *deserves* death or that his self-recognition absolves Pathwell. **Rung Q54 and Q55 remain OPEN.** The existing Q132/Chapter 15 death arrangement has NOT been formally changed. Elizabeth's restrained human-centered agency ruling remains in force. No production prose/canon edits.
+
+## Author preference after Shade-action tests — 2026-10-15
+
+The author responded to the synthesized stillness-versus-final-help question: **“I dont know, I feel like the more realistic thing is that he struggles.”** Recorded as [Rung Q56](../Rung-Q51-onward-Shade-2026-10-15.md#rung-q56--struggling-as-the-more-believable-response-tentative-2026-10-15). Therefore **EXP-0003A's calm hybrid action is no longer the preferred working default**; do not presume Shade stops physically resisting or makes a symbolic final helpful gesture. His psychological recognition of missed opportunity can occur **during a genuine attempt to survive**. The exact duration, words, and fate remain open, as does Q55. No promotion or manuscript change.
