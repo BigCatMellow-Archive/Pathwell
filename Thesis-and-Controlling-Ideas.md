@@ -1,6 +1,6 @@
 # Thesis and Controlling Ideas
 
-> **Status, 2026-09-30:** the character rows and one sentence brought into line with the Bible interview at the author's direction ([R14](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)); the controlling idea and thesis are unchanged. Whether Elizabeth's climax choice must also change the Pathwell–Shade outcome is being explored ([Q-E](Story/Revision/Decisions.md#open-for-the-author)).
+> **Status, 2026-10-15:** The author chose the restrained, human-centered climax (R45), then a coordinated revision to Shade's unexpected capture and Pathwell's deliberate inaction (R46) and Version C confession/invitation (R47). **The controlling idea and thesis remain unchanged.** Earlier uncertainty over whether Elizabeth must alter the blob's magical outcome is resolved: she need not. [Current Decisions](Story/Revision/Decisions.md), [P54](Story/Revision/Pass-Log.md#p54-2026-10-15-coordinated-chapter-1418-climax-and-ending-rewrite).
 
 ## The Controlling Idea
 
@@ -14,7 +14,7 @@ Every scene argues for or against this. Elizabeth's arc argues for it. Shade is 
 
 ## The Novel's Thesis
 
-**Elizabeth matters without any power source.** She proves this by running through the archive fire with no magic, no weapon, no leverage.
+**Elizabeth matters without any power source.** She proves this by running into the archive fire to save Milo without casting magic or using her enchanted dagger; she leaves the diary and cookbook behind despite their importance to her.
 
 ⚠️ **Critical constraint:** If Elizabeth uses magic — including her own emotions *as* magic — the thesis collapses into empowerment fantasy. The diary is a tether to her past self, not a weapon. It burns in the archive fire and she runs past it.
 
@@ -23,8 +23,8 @@ Every scene argues for or against this. Elizabeth's arc argues for it. Shade is 
 | Character | Relationship to Theme |
 |---|---|
 | **Elizabeth** | Proves the thesis. Her choices matter without power. She acts under uncertainty with nothing. |
-| **Pathwell** | IS the controlling idea made flesh. His need to manage everything destroys what he's trying to protect. |
-| **Shade** | Made from one of Pathwell's failed prunes, and then his own person: he says no, stays at Camp, plays cards badly, and makes his last choice himself. "Origin explains Shade. Origin does not own Shade." |
+| **Pathwell** | IS the controlling idea made flesh. He first imposes a forced “solution,” then consciously withholds help when removing Shade would conveniently solve his own problem. A silent refusal to use power at the cookbook is better, but not absolution; he later admits the inaction from shame. |
+| **Shade** | Made from one of Pathwell's failed prunes, then his own person: he refuses reintegration, wants to stay at Camp, plays cards badly, tries to help during the fire, and **struggles to survive** an indifferent cleanup creature. Death does not require his consent to matter. “Origin explains Shade. Origin does not own Shade.” |
 | **Stansbury** | Avoids responsibility and calls it prudence (Q127); his turn is small and brother-specific: "Let it be." (Q128) |
 
 ## How Themes Must Land
