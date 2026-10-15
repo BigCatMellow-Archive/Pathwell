@@ -69,7 +69,7 @@ The word was smaller than he'd expected.
 
 Beyond the wagons, the trees seemed to pull against something not quite visible. The dark mass had come through anyway. It continued to gather around his leg as though that had always been where it belonged.
 
-He tried to take another step toward the archive. His leg didn't agree. His right hand opened toward Pathwell, pulled by the old demand, and for a furious second Shade couldn't tell which failure belonged to which force.
+His weight shifted toward the archive. The dark shape held his leg, and his right hand opened toward Pathwell under the old demand. For a furious second Shade couldn't tell which part of him was refusing to move.
 
 Elizabeth disappeared through the smoke.
 
