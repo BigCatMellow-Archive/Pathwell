@@ -136,3 +136,8 @@ After the author selected Elizabeth's restrained agency approach, the [four-prob
 **Status:** Author's new blocking clarification, not authorization to rewrite Ch14–15 or replace older Q132 canon. Shade's internal interpretation remains potentially complex rather than categorically “abandoned” or “consenting”; Q55 (Pathwell witnesses?) remains open.
 
 **Next Rung Q60:** After Elizabeth runs into the archive, does Shade keep calling for someone else at Camp to help him, or does his struggle turn silent as the blob advances?
+
+
+## Rung Q60–Q61 — Pathwell deliberately does not intervene (author choice, 2026-10-15)
+
+After confirming Shade keeps struggling, the author proposed that Pathwell sees the blob as a solution to his unresolved Shade problem. Asked to choose, the author answered: **“recognize that the blob is solving his problem and consciously decide not to interfere.”** The choice is *deliberate*, not mere paralysis or distracted inaction. This substantially sharpens Pathwell's culpability, and must be staged with a meaningful opportunity to seek help while respecting his injuries. His later remorse, restitution and companionship with Elizabeth require re-examination. Shade still wants to survive; Elizabeth is inside saving Milo. This selects Pathwell's motive for the proposed scene, **not** a finalized chapter revision. [Detailed Q60–61 note](Rung-Q60-Q61-Pathwell-Choice-2026-10-15.md). Next Q62: how should readers learn of the decision?
