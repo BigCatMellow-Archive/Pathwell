@@ -178,3 +178,8 @@ Known: Ch15 gives Pathwell and Shade roughly ten feet of separation in the old v
 - Whether proposed ending formally supersedes Q132 (requires author approval after test).
 
 No production chapter edits or bible/canon edits made.
+
+
+## Follow-up — prose trials and creative review (2026-10-15)
+
+The recommended POV prose tests have been run without editing chapters: [A: Elizabeth-limited](EXP-0001B-Scene-Test-A-Elizabeth-Limited-2026-10-15.md), [B: clearly signposted Shade scene](EXP-0001C-Scene-Test-B-Shade-Scene-Break-2026-10-15.md), and [comparative review](EXP-0001D-Prose-Comparison-and-Review-2026-10-15.md). **Neither passes all gates or is adopted.** Chapter 11 does show an exterior scene after Elizabeth departs, so a camera transition is not categorically impossible; an extended direct Shade interior at the climax remains a material stylistic decision. Rescue feasibility and older agency concerns persist.
