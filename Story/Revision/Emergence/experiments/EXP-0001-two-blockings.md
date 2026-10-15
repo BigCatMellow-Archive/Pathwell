@@ -74,3 +74,7 @@ Status: TABLETOP TESTED — REVISION REQUIRED, NOT ADOPTED
 
 ## Notes
 - This was a logic/tabletop test, not a drafted-scene or reader-panel test. No validation by the MAP CLI was run.
+
+## Expanded spatial and causal test
+
+[EXP-0001A — detailed Ch14–15 timeline / blocking / viewpoint audit](EXP-0001A-Ch14-Ch15-Timeline-and-Blocking-2026-10-15.md) expands this initial comparison without changing the status. It confirms the relevant old scene ordering by chapter lines and tests whether the proposed concurrency can be made believable. **Disposition remains REVISE; no author promotion or manuscript changes.**
