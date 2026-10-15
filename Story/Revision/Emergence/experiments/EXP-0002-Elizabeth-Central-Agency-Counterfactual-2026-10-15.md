@@ -149,3 +149,7 @@ To avoid misleading logic, distinguish **deleting Elizabeth entirely** (changes 
 - [EXP-0001D](EXP-0001D-Prose-Comparison-and-Review-2026-10-15.md): scene POV issue remains separate from central-agency issue.
 
 **Result: Thematic agency — PASS; material human outcome — PASS; required strict causal effect on Pathwell–Shade confrontation — NOT SHOWN.** Formal promotion blocked until the author chooses which criterion governs and any selected causal candidate survives counterfactuals. No prose edits.
+
+## Author disposition (2026-10-15) — selected Track H
+
+The author responded **“then lets go with the restrained approach”** to the comparison. **Track H is selected**, as documented in the [author-ruling record](../../Author-Ruling-Elizabeth-Agency-2026-10-15.md). This **supersedes the open decision in §7 on the *necessity* of Elizabeth altering the specific supernatural Pathwell–Shade outcome**; the historical experiment verdict is unchanged and should not be rewritten retroactively. The decisive act is the human rescue: Milo survives, Elizabeth's shoulder and artifacts have material costs, and her self-direction continues through the aftermath and final destination choice. Do not add knife-blob or binding-cut mechanics just to satisfy the stricter September test. The *entire proposed new climax* remains in experiment status: Q54/Q55, rescue staging, POV and blob behavior are not promoted. This is an author choice about the story's **standard**, not proof that either current or proposed scene has passed a full reader test.
