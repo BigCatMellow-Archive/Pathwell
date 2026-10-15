@@ -70,3 +70,8 @@ Next Rung Q65: Does Elizabeth say plainly that she had to choose between two peo
 **Status:** Author direction for the Chapter 18 revision **plan**; exact prose and integration remain unapproved, and the earlier Q94–Q95 protection of an unexplained “It was my fault” must be formally reconciled before the new confession is written into the manuscript. No canonical chapter, bible, or world-rule edits.
 
 **Next editorial gate:** Draft a bounded *noncanonical* trial of the existing Chapter 18 confession-to-invitation passage and independently assess whether the unspoken invitation remains credible after disclosure. Compare against the current Chapter 18, retaining the final three lines exactly.
+
+
+## Q68 follow-through — noncanonical prose and adversarial review
+
+With the author's selection to let the next-adventure invitation express Elizabeth's decision, a [complete late-bookshop test](Emergence/experiments/EXP-0004A-Ch18-Confession-to-Invitation-Prose-Test-2026-10-15.md) and [earlier-placement comparison/critical review](Emergence/experiments/EXP-0004B-Ch18-Placement-Control-and-Critical-Review-2026-10-15.md) were completed. The trial preserves the exact final “Are you ready?” / “No.” / “Perfect.” and does not make forgiveness explicit. **REVISE, do not promote:** a short aisle walk may not make the subsequent comic geese conversation credible after a delayed admission of deliberate nonintervention. The earlier placement permits the existing browsing hour to carry more reaction but disrupts the silent cookbook return. Both conflict with prior Q94–Q95 unless the author expressly changes that older lock. Production Chapter 18 unchanged.
