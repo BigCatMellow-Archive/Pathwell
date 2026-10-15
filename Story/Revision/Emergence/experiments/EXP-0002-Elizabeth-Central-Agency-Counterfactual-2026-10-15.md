@@ -138,14 +138,14 @@ To avoid misleading logic, distinguish **deleting Elizabeth entirely** (changes 
 
 ## 8. Source and governance reconciliation
 
-- [Thesis-and-Controlling-Ideas.md](../../../Thesis-and-Controlling-Ideas.md): Elizabeth matters without magic; control is not competence; action despite uncertainty defines freedom.
+- [Thesis-and-Controlling-Ideas.md](../../../../Thesis-and-Controlling-Ideas.md): Elizabeth matters without magic; control is not competence; action despite uncertainty defines freedom.
 - [September 18 author-intent memo](../../../Archive/Experiments-2026-09/PATHWELL_CURRENT_AUTHOR_INTENT_SHADE_CONSEQUENCE_NOTES_2026-09-18.md) §§2–3, 8, 10: original hierarchy; strict removal test; irreversibility and Pathwell's responsibility.
-- [canon.md](../../Story_Files/canon.md) §§ Controlling Idea, Elizabeth, Main Events: child rescue non-magical; old voluntary Shade approach remains locked in existing sources pending formal change.
-- [character_bible.md](../../Story_Files/character_bible.md) Elizabeth agency ladder, Pathwell authority flaw, Shade's autonomy.
-- [Non-Negotiable-Scenes.md](../../../Non-Negotiable-Scenes.md) scenes 7–10: forced frame, fire/rescue, old Shade decision, final refusal.
+- [canon.md](../../../Story_Files/canon.md) §§ Controlling Idea, Elizabeth, Main Events: child rescue non-magical; old voluntary Shade approach remains locked in existing sources pending formal change.
+- [character_bible.md](../../../Story_Files/character_bible.md) Elizabeth agency ladder, Pathwell authority flaw, Shade's autonomy.
+- [Non-Negotiable-Scenes.md](../../../../Non-Negotiable-Scenes.md) scenes 7–10: forced frame, fire/rescue, old Shade decision, final refusal.
 - [Revision/Plan.md](../../Plan.md) “The climax: what the story has already planted”; old options 1, 2, 3, 3b and why 1/2 failed.
 - [Revision/Decisions.md](../../Decisions.md) R13/R37, open Q-E and old Q132; author previously selected R42 Path A (no expanding Ch12–15 as a length-fix). **New Rung/Emergence discussion reopens exploratory analysis only**, not implementation or a change of locked decision.
-- [Ch14](../../Chapters/Chapter_14.txt): Pathwell's refused frame, failed pruning, lantern/archival fire; [Ch15](../../Chapters/Chapter_15.txt): Milo escape, dagger, later blob; [Ch16](../../Chapters/Chapter_16.txt): social remembrance and separate accountabilities; [Ch17](../../Chapters/Chapter_17.txt) restitution, deliberate asking; [Ch18](../../Chapters/Chapter_18.txt): quiet put-back and Elizabeth-led ending.
+- [Ch14](../../../Chapters/Chapter_14.txt): Pathwell's refused frame, failed pruning, lantern/archival fire; [Ch15](../../../Chapters/Chapter_15.txt): Milo escape, dagger, later blob; [Ch16](../../../Chapters/Chapter_16.txt): social remembrance and separate accountabilities; [Ch17](../../../Chapters/Chapter_17.txt) restitution, deliberate asking; [Ch18](../../../Chapters/Chapter_18.txt): quiet put-back and Elizabeth-led ending.
 - [EXP-0001D](EXP-0001D-Prose-Comparison-and-Review-2026-10-15.md): scene POV issue remains separate from central-agency issue.
 
 **Result: Thematic agency — PASS; material human outcome — PASS; required strict causal effect on Pathwell–Shade confrontation — NOT SHOWN.** Formal promotion blocked until the author chooses which criterion governs and any selected causal candidate survives counterfactuals. No prose edits.
