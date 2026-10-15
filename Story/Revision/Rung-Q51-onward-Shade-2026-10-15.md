@@ -38,6 +38,21 @@ Continues [the Q28–Q50 notes](Rung-Q28-Q29-Shade-2026-10-14.md). This file cap
 
 **Scene guidance:** Avoid a climactic speech, a demand for an apology, a meaningful final exchange of blame, or a look crafted to secure Pathwell's approval. The earlier eye-contact idea with **Elizabeth** and the spontaneous attempt to help with the fire are still possible. His private recognition is difficult to show from Elizabeth-limited POV; convey it in observable behavior or plan a clearly justified viewpoint. Keep his final physical choice open instead of presuming precisely when he ceases trying to move.
 
-**Next Rung (Q54):** After realizing Pathwell no longer matters to his final decision, does Shade still attempt to reach the people fighting the fire while the creature advances, or does he become still and watch?
+**Rung Q54 author response:** Both versions could work; no choice yet. See below.
 
 **Status:** Character direction recorded. No chapter, Decisions, canon or World Bible edits.
+
+
+## Rung Q54 — His physical response remains open
+
+**Author:** “I dont know, both can work.” Preserve both alternatives for the final staging after Shade notices the cleanup creature at his shin. Do not silently decide whether he continues reaching toward the fire or becomes still and watches.
+
+**Alternative A — reaches toward others:** While caught, he still tries to assist or move toward Camp's emergency, underscoring the person he might have been. Risk: if prolonged or triumphantly framed, it may turn the ending into a conventional redemption-through-sacrifice; he is not choosing the creature or engineering his end.
+
+**Alternative B — goes still:** He watches Camp's destruction and comprehends the life and choices he failed to embrace. Risk: passive body language alone may communicate helplessness or defeat, rather than his private realization or conscious non-resistance. Maintain an observable cue if chosen.
+
+**Possible combination for later evaluation, NOT author-approved:** He tries to help at first, as Q51 already established, then cannot continue once he discovers what has caught him; his subsequent stillness need not erase that genuine impulse. The two alternatives concern his behavior AFTER the initial attempt to help, not whether that attempt happens.
+
+**Decision status:** Intentionally open until a staged scene can be assessed with Elizabeth's simultaneous rescue and the established limited viewpoint. No manuscript changes.
+
+**Next major question (Q55):** Does Pathwell see Shade's final moments, or is he initially focused elsewhere as the failed working and archive fire overwhelm Camp? This affects Pathwell's later reckoning without requiring Shade to explain himself.
