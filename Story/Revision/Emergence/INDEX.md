@@ -31,3 +31,7 @@ These project-local artifacts adopt the MAP Emergence distinction between creati
 
 ## Next safe action
 Create a spatially explicit noncanonical timeline for both candidate endings, show who sees the blob and fire at each beat, and preserve the author's decision points. Only after that: independent creative review, author approval, formal decisions and finally scoped manuscript tasks.
+
+## Expanded timeline test (2026-10-15)
+
+[EXP-0001A — Full Chapter 14–15 blocking, character positions and counterfactual review](experiments/EXP-0001A-Ch14-Ch15-Timeline-and-Blocking-2026-10-15.md) has the baseline event clock, proposed common sequence, Shade A/B fork, equipment/POV audit and status gates. **Result: REVISE / NOT PROMOTED**; the most significant unresolved factors are Shade's legibility from Elizabeth POV, Stansbury's anti-blob equipment, and whether the overlapping rescue satisfies the older central-conflict criterion.
