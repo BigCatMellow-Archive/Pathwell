@@ -652,11 +652,12 @@ Each movement tracks:
 
 **Entrance state:** archive burning from W15; Elizabeth injured; child pinned; diary displaced into her route; cookbook accessible; Stansbury present; fresh pruning spillage and Shade anomaly attract cleanup response.
 
-**Primary agency:** three distinct choices must remain distinct:
+**Primary agency:** keep four distinct decisions visible:
 
-- Elizabeth chooses child over diary/cookbook;
-- Stansbury chooses reachable archive records;
-- Shade chooses informed risk with the blob.
+- Elizabeth hears Shade's general plea and Milo's cry from the fire, and **chooses to save Milo**, not the diary/cookbook or to attempt two rescues simultaneously;
+- Stansbury chooses reachable archive records after the child rescue;
+- Shade tries to help in the fire, then **fights to survive unexpected capture** rather than consenting to it;
+- Pathwell, injured but close enough to call out, **chooses not to summon aid** because cleanup of Shade appears to solve his ongoing problem. The decision is not narrated from Elizabeth's POV at the time; he admits it in W-C.
 
 **Therefore:** Pathwell's failed working creates simultaneous concrete problems.
 
@@ -666,9 +667,9 @@ Each movement tracks:
 
 **Stansbury:** enters a different reachable archive section, saves different records, is burned/scarred; this is competence/choice, not a new bravery arc.
 
-**Shade:** largest longstanding anomaly. Blob responds to unresolved cleanup signal. Shade suspects it may be responding to him but cannot know exact outcome. He makes an informed-risk movement/choice; blob absorbs Shade first, removing major anomaly/draw, then cleans smaller fresh reintegration spillage, rechecks Pathwell/area, and leaves.
+**Shade / creature:** the failed working's new unclaimed pruning spillage acts as a stronger beacon to the already-nearby cleanup creature; it squeezes through Camp's resistant woodland boundary and reaches Shade on its route toward the frame. Shade moves to help with the fire before noticing the dark grip at his shin; he calls for help, struggles, and one nearby resident unsuccessfully pulls at his jacket. Elizabeth and Shade hear Milo; they look at each other, and she chooses Milo. The blob absorbs Shade *while he is trying to escape* and then takes fresh spillage, rechecks Pathwell and leaves. The draw quiets because the anomaly is removed, not because Shade volunteers or because someone makes eye contact.
 
-**Value turn:** the story answers control with separate acts of agency; the people Pathwell tried to manage become the ones making the necessary choices.
+**Value turn:** the book distinguishes action despite uncertainty (Elizabeth), a survival effort that does not succeed (Shade), continued ordinary competence and risk (Stansbury), and **Pathwell's chosen silence where action was still possible**. These are not morally interchangeable simply because some characters cannot save everyone.
 
 **Exit state:** Shade dead; draw quiet because anomaly is removed, not eye contact; archive heavily destroyed; diary/cookbook gone to ordinary fire; Stansbury injured; child alive; Pathwell remains responsible and unable to undo it.
 
@@ -768,7 +769,7 @@ Each movement tracks:
 
 **Source material:** Space Between atmosphere, Shopkeeper ledger dryness, Pathwell confronted with another cookbook, final three lines.
 
-**Entrance state:** restitution has begun and produced observable behavioral evidence; important losses remain; Pathwell can still prune.
+**Entrance state:** restitution has produced observable behavioral evidence but has not absolved Pathwell; the diary, cookbook and Shade remain lost. Neither Pathwell nor the reader learns whether he can still prune (R19/Q96). Elizabeth does not yet know his deliberate refusal to call for help at Camp.
 
 **Primary agency:** Pathwell owns restraint beat; Elizabeth owns final adventure choice.
 
@@ -776,11 +777,11 @@ Each movement tracks:
 
 **But:** authenticity does not make histories interchangeable.
 
-**Therefore:** he recognizes the old solving instinct and refuses substitution; if he begins familiar pruning preparation, he stops cleanly before release because he chooses to stop, not because the power fails.
+**Therefore:** he recognizes the old substitution impulse and **silently puts back the book**; he does not begin a prune or test whether he could still perform one. The moment remains quiet, with the shopkeeper's response intact.
 
-**Required accountability beat:** `It was my fault` primarily refers to Shade. Keep offhand/unspectacular; do not turn into absolution speech.
+**Required accountability beat, author-selected Version C (R47):** Later that bookshop visit, Pathwell confesses **plainly and from shame** that he heard and watched Shade struggle and knowingly did not call for help because the cleanup seemed to solve his problem. Elizabeth attempts to relate her own failure to save Shade; Pathwell gently notes she was rescuing Milo and that this was not his reason for silence. He is not begging forgiveness or defending what he did. This specific admission **replaces the previous Q94–Q95 unexplained `It was my fault` staging** in the current revision.
 
-**Elizabeth:** independently chooses the next direction and asks Pathwell to take her to the Space Between / uses his practical access without surrendering authorship of the choice. Pathwell has already freely chosen to accompany her before final exchange.
+**Elizabeth:** remains in the bookshop for the **existing hour of browsing after the confession**, with no explicit pardon or reconciliation speech. She independently chooses the geese route and asks Pathwell whether he wishes to accompany her; he freely answers yes. Her invitation shows that she still wants his company despite knowing more about his wrongdoing; it is not a moral acquittal.
 
 **Final lines exactly:**
 
@@ -794,7 +795,7 @@ No dialogue after `Perfect.`
 
 **Value turn:** opening `No/Perfect` meant unreadiness under coercive momentum; final `No/Perfect` means chosen uncertainty between people with changed agency.
 
-**Magic legality:** Pathwell still capable of pruning; clean stop before release; no charged receipt requirement; no power-loss ending; Space Between access may require Pathwell assistance without making Elizabeth magical.
+**Magic legality:** Pathwell refuses substitution and chooses not to find out whether he can still prune; no prune preparation, no charged receipt, no power-loss ending; Space Between access can require Pathwell's practical assistance without making Elizabeth magical.
 
 **Object state:** Nana cookbook remains gone; substitute remains itself; no replacement quest.
 
@@ -851,7 +852,7 @@ No expansion may convert Pathwell's suffering/cost into moral permission.
 - W09: intelligence, manipulation, restraint, ordinary habits, draw resistance.
 - W14: ordinary life/personhood independent of exposition or death.
 - W15: explicit refusal establishes personhood/consent conflict.
-- W16: informed-risk final choice; cleanup death does not invalidate personhood.
+- W16: Shade is unexpectedly caught while trying to help and dies **struggling to survive**; cleanup death does not invalidate personhood or imply moral punishment. His consent is not required by the magic.
 - W17: minimal Camp acknowledgement + Elizabeth mourning.
 
 If W14 can be removed without making Shade's death hurt less, W14 has failed and must be redesigned.
