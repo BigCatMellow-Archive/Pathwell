@@ -63,19 +63,19 @@ She could not see Milo at all.
 
 "Mama Baga!" Elizabeth shouted. "The thing's got Shade!"
 
-Mama Baga turned from the bucket line. A man with an empty bucket moved toward Shade before she could tell him anything. He stopped short of the black surface and reached toward the sleeve of the green jacket.
+Mama Baga turned from the bucket line. A man with an empty bucket moved toward Shade before she could tell him anything. He caught the sleeve of the green jacket and pulled. Shade's shoulder moved. His boot did not.
 
 Shade looked toward the archive again.
 
 Milo coughed. The next call came smaller.
 
-On the far side of the wagon, Stansbury was trying to reach the side window through the people hauling water. He had a hammer. Not one of his orange batons. She hadn't seen the weapon box since the van.
+On the far side of the wagon, Stansbury was trying to reach the side window through the people hauling water. He had a hammer. Elizabeth could not see an orange baton.
 
-Elizabeth took the dagger out. She held it a moment, looking from the man reaching for Shade to the archive door.
+Elizabeth took the dagger out. She held it a moment, looking from the man still pulling at Shade's jacket to the archive door.
 
-Then she called, "The blade cuts it! It takes time!"
+She knew what happened when someone pulled without first opening a seam. She had tried it at the bar.
 
-She could not safely throw the thing through the crowded clearing. She could not hand it over without going away from the door.
+She could not safely throw the blade through the crowded clearing. Handing it over meant moving away from the child she could hear but could not see.
 
 "Elizabeth!" Milo called.
 
@@ -107,9 +107,9 @@ Elizabeth went to him.
 
 **Still unproved:**
 - The distance and duration between woods, frame and doorway are not established in any measured way. “Only across the clearing” makes the danger physically close but raises how easily another person could rush in.
-- The man reaching for Shade must have an actual on-page consequence in the next scene; leaving him as scenery would make him a fake intervention.
+- The man makes an ordinary attempt to pull Shade out, and it fails at the boot, consistent with Chapter 7's extraction difficulty. He still requires follow-through after Elizabeth enters; we do not know if a later attempt succeeds or can change the outcome.
 - The line about Stansbury not carrying a baton may be too expository for polished prose; the **audit** establishes provenance, so actual revision may merely show his hands and existing work.
-- Elizabeth's spoken "blade cuts it" may be oddly informational during an emergency; a reviewer may prefer a practical command, or cut it. Throwing/carrying the blade, distance and rescue method still need a hard test.
+- The excerpt now avoids a contrived explanation shouted about the dagger. Throwing/carrying the blade, the distance and rescue method still need a full-scene test; a credible handoff might be possible if a capable person comes within reach.
 - The blob might be delayed or redirected by direct contact with the person attempting to help. This should not be solved with a new rule without author review.
 - Elizabeth entering for Milo does not change the blob's objective. Shade's internal realization, final bodily choice, and Pathwell's observation remain open.
 - Archive fire movement, smoke and ordinary physical damage still need full Ch15 pacing after the entrance.
