@@ -33,3 +33,8 @@ Status: CANDIDATE — unapproved
 - [x] TEST
 - [ ] PROMOTE
 - [ ] REJECT
+
+
+## 2026-10-15 author clarification — what IS selected
+
+The author selected the **restrained human-centered agency criterion** for Elizabeth after [EXP-0002](../experiments/EXP-0002-Elizabeth-Central-Agency-Counterfactual-2026-10-15.md); see the [dated ruling](../../Author-Ruling-Elizabeth-Agency-2026-10-15.md). Elizabeth does not have to change the blob's magical outcome to be the central protagonist: Milo's rescue, irretrievable cost and her later self-direction matter in their own right. **This idea card's status remains CANDIDATE**, because the new timing, Shade's surprise capture, Camp entry, available rescue response, Q54/Q55 and chapter POV have not yet been approved. Do not equate approval of the agency criterion with promotion of the revised climax.
