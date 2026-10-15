@@ -96,3 +96,19 @@ Elizabeth went on down the aisle.
 **Current lean:** Keep **A** as the primary test because it best respects the author's instinct to reveal the secret *later* and the existing Chapter 18 relationship dialogue. **REVISE A's response and transition** rather than promoting it unchanged: cut two evaluative lines, consider a stronger unspoken aftermath or slight rearrangement of existing browsing material, and test the entire Chapter 15–18 arc after the upstream fire scene is planned. B remains an alternate pressure test, not a discarded variant.
 
 **Decision:** REVISE / NOT PROMOTED. No new character or magical canon inferred from these tests. No manuscript or decision-lock edits.
+
+
+## 6. Third control C — reuse the EXISTING hour *after* the late confession
+
+[EXP-0004C — full continuous rearranged scene](EXP-0004C-Ch18-Confession-Then-Existing-Hour-Prose-Test-2026-10-15.md) resolves a false either/or in the first comparison. It keeps the **cookbook put-back and shopkeeper's response silent**, shifts the existing coffee/confession earlier in that same shop visit, then uses the **already established full hour of browsing AFTER the disclosure** before Elizabeth returns to ask for routes. No added scene and no altered “Perfect.” final exchange.
+
+| Criterion | A — confession last | B — immediately after book return | C — coffee confession, then existing browsing hour |
+|---|---|---|---|
+| Cookbook silence protected | Yes | Partially | **Yes** |
+| Reader has substantive elapsed time after confession | No | Yes | **Yes** |
+| Shame confession after book return | Yes | Yes | **Yes** |
+| Keeps full geese-route and final exchange | Yes | Yes | **Yes** |
+| Emotional snap concern | High | Medium | **Lower but not eliminated** |
+| Textual temptation to over-explain | Medium | Medium | Medium (new postcard line and coffee joke) |
+
+**Updated lean:** **C is the stronger structural experiment**. It does *not* prove the invitation emotionally earned by elapsed time alone, but it protects the existing ending's two key assets: the silent cookbook refusal and Elizabeth's unscripted choice to continue with Pathwell. **Recommend a sentence-level cut of C's invented coffee joke and “Nothing made her choose”** before any further craft review. All three remain **NONCANONICAL; REVISE, DO NOT PROMOTE**. Upstream Chapters 14–15, Q94–Q95, and Pathwell's actual available opportunity to call for help remain the controlling unsolved adoption gates.
