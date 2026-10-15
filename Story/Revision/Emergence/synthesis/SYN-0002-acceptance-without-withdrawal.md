@@ -43,3 +43,7 @@ The book's controlling idea is freedom through choosing despite uncertainty, **n
 ## Next step
 
 Ask whether the author finds the **combination** more fitting than either endpoint alone, and separately decide whether readers should witness Shade directly or infer it through Elizabeth and other observable action. No change to story bibles or chapter files yet.
+
+## Response from author (2026-10-15) — caution on this synthesis
+
+The author answered: **“I dont know, I feel like the more realistic thing is that he struggles.”** Record: [Rung Q56](../../Rung-Q51-onward-Shade-2026-10-15.md). The stillness/ordinary-bucket combination is **NOT adopted** and should not be treated as our default. New preferred test is a believable **physical survival struggle** that can coexist with Shade realizing he failed to live as he intended. The meaning of Q43's “accepts it” remains undecided: acceptance may be cognitive, not bodily surrender. This synthesis remains a comparison artifact, not a source of author decisions.
