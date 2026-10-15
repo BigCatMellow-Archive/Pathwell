@@ -51,3 +51,8 @@ No manuscript, canon, character-bible, World Bible, or earlier decision file cha
 ## Q63–Q64 developments (2026-10-15)
 
 Pathwell tells Elizabeth out of shame and uncertainty about who he is, rather than asking her to forgive him. Elizabeth's first impulse may be to relate: “I did too,” because she also heard Shade call for help before Milo cried out and she went into the fire. See [Q64 note](Rung-Q64-Elizabeth-Response-2026-10-15.md). The two choices must not be equated: she acted to save Milo; he chose not to intervene because Shade's removal appeared convenient. Try a brief exchange in which Pathwell himself refuses to take her identification as absolution. Prose placement in Chapter 18 still requires reconciliation with older Q94–Q95.
+
+
+## Q65–Q66 author refinements — order selected (2026-10-15)
+
+The author approved Pathwell's **gentle pushback** when Elizabeth tries to equate her inability to save Shade with his deliberate inaction, then accepted **full confession before Elizabeth's comparison** (“sure”). The proposed sequence is: silent cookbook return → later specific shame-driven admission of knowingly withholding help → Elizabeth “I didn't help him either / Milo called” → Pathwell gently distinguishes saving Milo from his own convenience-driven refusal. See [Rung Q64–Q66 notes](Rung-Q64-Elizabeth-Response-2026-10-15.md). **Exact lines unapproved; Chapter 18 still unchanged.** Older Q94–Q95 no-explanation lock and the ending's Elizabeth-led invitation still require reconciliation.
