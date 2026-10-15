@@ -121,3 +121,18 @@ After the author selected Elizabeth's restrained agency approach, the [four-prob
 **Next Rung (Q59):** At that instant of eye contact, does Shade **understand Elizabeth is going to save Milo**, or does he experience her turning away as being abandoned? These are not equivalent, and the text must not guess Shade's inner interpretation from Elizabeth's gaze.
 
 **Status:** Author's preferred staging recorded, not an instruction to rewrite Chapter 14–15 or supersede Q132. Q54's exact struggle/recognition sequence and earlier Q55 on whether Pathwell witnesses Shade's end remain open. No manuscript, World Bible, character Bible or canon changes.
+
+
+## Rung Q59 — Both hear Milo's cry from the fire (2026-10-15)
+
+**Author:** “They both hear the cry for help from the fire.” This refines the earlier eye-contact sequence: **both Shade and Elizabeth hear a separate cry for help from inside the burning archive**. The existing manuscript establishes Milo as the trapped child, so use Milo as the working referent unless the author changes it. This cry must remain distinct from Shade's **own** general call for help outside (Q57–58).
+
+**Shared, observable information:** The characters hear the trapped child's distress, recognize that the fire contains an immediate human emergency, and make eye contact. Elizabeth then chooses to run inside. Shade is **not left ignorant of why she turns toward the archive**. That shared sensory cue creates a stronger, fairer crossroads without narration claiming to know Shade's private reaction. His awareness that the child needs help does **not** imply approval of Elizabeth leaving him, forgiveness, resignation, or an end to his own attempt to survive. He may understand what she's doing and still feel terrified and desperate.
+
+**Tentative staging order:** failed frame / fire → Milo trapped and calling from the archive → Shade moves to help, discovers the blob at shin, struggles and calls for help → **both hear a cry from inside the fire** (or its urgent repetition) → eye contact → Elizabeth chooses Milo and enters the archive → Shade remains outside fighting for survival. The precise order and overlapping cries need careful physical timing; **do not** imply Shade's own plea and Milo's cry are a single voice. Elizabeth knows from Chapter 7 that her dagger can help with a blob but requires repeated cuts and physical extraction; she does not forget it.
+
+**POV safeguard:** Elizabeth-limited narration can report the cry, Shade's reaction, and the shared look, but not assert definitively what Shade thinks. This avoids treating their gaze as an agreement to let him die. Pathwell's role as the cause of the fire remains unchanged. The author-selected restrained Elizabeth agency approach remains binding for planning.
+
+**Status:** Author's new blocking clarification, not authorization to rewrite Ch14–15 or replace older Q132 canon. Shade's internal interpretation remains potentially complex rather than categorically “abandoned” or “consenting”; Q55 (Pathwell witnesses?) remains open.
+
+**Next Rung Q60:** After Elizabeth runs into the archive, does Shade keep calling for someone else at Camp to help him, or does his struggle turn silent as the blob advances?
