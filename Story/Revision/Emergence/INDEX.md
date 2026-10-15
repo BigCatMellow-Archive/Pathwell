@@ -35,3 +35,9 @@ Create a spatially explicit noncanonical timeline for both candidate endings, sh
 ## Expanded timeline test (2026-10-15)
 
 [EXP-0001A — Full Chapter 14–15 blocking, character positions and counterfactual review](experiments/EXP-0001A-Ch14-Ch15-Timeline-and-Blocking-2026-10-15.md) has the baseline event clock, proposed common sequence, Shade A/B fork, equipment/POV audit and status gates. **Result: REVISE / NOT PROMOTED**; the most significant unresolved factors are Shade's legibility from Elizabeth POV, Stansbury's anti-blob equipment, and whether the overlapping rescue satisfies the older central-conflict criterion.
+
+## Noncanonical prose experiments — 2026-10-15
+
+- [EXP-0001B — A: Elizabeth-limited sample](experiments/EXP-0001B-Scene-Test-A-Elizabeth-Limited-2026-10-15.md): the rescue decision is concrete, while Shade's private realization is unavailable to Elizabeth.
+- [EXP-0001C — B: explicit break to Shade](experiments/EXP-0001C-Scene-Test-B-Shade-Scene-Break-2026-10-15.md): his regret and independence from Pathwell become clear, at the cost of a late interior-viewpoint change and slower physical pace.
+- [EXP-0001D — Comparative creative review](experiments/EXP-0001D-Prose-Comparison-and-Review-2026-10-15.md): **REVISE BOTH / DO NOT PROMOTE**. Primary blockers are Stansbury's possible anti-blob equipment, exact overlap/time, narrator's camera, and Elizabeth's prior central-conflict agency criterion. No manuscript changes.
