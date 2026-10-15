@@ -69,3 +69,7 @@ The author chose **“the restrained approach”** after EXP-0002. See [formal a
 ## Author preference after Shade-action tests — 2026-10-15
 
 The author responded to the synthesized stillness-versus-final-help question: **“I dont know, I feel like the more realistic thing is that he struggles.”** Recorded as [Rung Q56](../Rung-Q51-onward-Shade-2026-10-15.md#rung-q56--struggling-as-the-more-believable-response-tentative-2026-10-15). Therefore **EXP-0003A's calm hybrid action is no longer the preferred working default**; do not presume Shade stops physically resisting or makes a symbolic final helpful gesture. His psychological recognition of missed opportunity can occur **during a genuine attempt to survive**. The exact duration, words, and fate remain open, as does Q55. No promotion or manuscript change.
+
+## Subsequent author answer — Shade asks for rescue (Rung Q57, 2026-10-15)
+
+The author now says Shade **would call for help** while struggling with the blob. See [Q57 notes](../Rung-Q51-onward-Shade-2026-10-15.md#rung-q57--shade-calls-for-help-while-struggling-2026-10-15). This is a stronger human survival response than the earlier assistant-suggested stillness or quiet bucket handoff: no serene acceptance, no final voluntary approach, and no exact plea/addressee fixed yet. Future scene tests must model **a heard plea and an actual Camp response** while Elizabeth still chooses Milo's immediate fire rescue. A call **specifically to Elizabeth** versus a general shout remains open (Q58). Scene staging and older Q132 are not formally revised.
