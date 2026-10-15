@@ -73,3 +73,8 @@ The author responded to the synthesized stillness-versus-final-help question: **
 ## Subsequent author answer — Shade asks for rescue (Rung Q57, 2026-10-15)
 
 The author now says Shade **would call for help** while struggling with the blob. See [Q57 notes](../Rung-Q51-onward-Shade-2026-10-15.md#rung-q57--shade-calls-for-help-while-struggling-2026-10-15). This is a stronger human survival response than the earlier assistant-suggested stillness or quiet bucket handoff: no serene acceptance, no final voluntary approach, and no exact plea/addressee fixed yet. Future scene tests must model **a heard plea and an actual Camp response** while Elizabeth still chooses Milo's immediate fire rescue. A call **specifically to Elizabeth** versus a general shout remains open (Q58). Scene staging and older Q132 are not formally revised.
+
+
+## Rung Q58 — General plea, eye contact, Elizabeth chooses Milo
+
+The author has clarified the next concrete staging: **Shade calls for help generally, makes eye contact with Elizabeth, and Elizabeth then chooses to run into the burning archive for Milo**. See [Rung Q58](../Rung-Q51-onward-Shade-2026-10-15.md). This is stronger than the earlier experimental silent look and means Elizabeth **knows Shade is in danger** before she acts; it does **not** imply Shade agrees to be left, forgives her, or stops struggling. Any revised rescue-window prose test must retain his audible plea, her awareness of Milo's urgent entrapment, the dagger's demonstrated abilities and realistic bystander response. **Q59 is open** on what Shade believes Elizabeth's turning away means. The alternative climax remains unpromoted; no manuscript or bible changes.
