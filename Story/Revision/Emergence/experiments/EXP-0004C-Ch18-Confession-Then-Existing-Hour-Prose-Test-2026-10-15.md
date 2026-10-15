@@ -1,7 +1,7 @@
 # EXP-0004C — Chapter 18 confession, then the existing hour
 
 **Date:** 2026-10-15
-**Status:** REVISED NONCANONICAL PROSE TEST; NO MANUSCRIPT PROMOTION
+**Status:** **AUTHOR SELECTED — STRUCTURE (2026-10-15)**; candidate wording remains noncanonical; NO MANUSCRIPT PROMOTION
 **Comparators:** [EXP-0004A full late-confession trial](EXP-0004A-Ch18-Confession-to-Invitation-Prose-Test-2026-10-15.md) and [EXP-0004B placement review](EXP-0004B-Ch18-Placement-Control-and-Critical-Review-2026-10-15.md).
 
 ## Hypothesis
@@ -209,3 +209,8 @@ Elizabeth kept her hand on the handle.
 **Continuity/scope:** This passage *cannot* be adopted by itself. Current Ch15 has Shade volunteering to draw the blob *after* Milo's rescue, and Pathwell's conscious refusal to help has not occurred on-page. Q94–95 protect the ambiguity of “It was my fault.” Only new planning and author-level canon reconciliation could change those facts.
 
 **Provisional verdict:** **MOST PROMISING STRUCTURAL CONTROL** of the three, chiefly because it lets the confession occupy an existing gap of lived time *without taking away Elizabeth's invitation or creating extra scenes*. The writing still needs a sentence-level voice pass and genuinely independent reader testing before any promotion.
+
+
+## Author disposition — Version C selected (2026-10-15)
+
+Author: **“Lets go C then.”** This is a choice **of Version C's scene architecture** over A/B, recorded in [the dated author ruling](../../Author-Ruling-Ch18-Version-C-2026-10-15.md). The selected ending places the shame-driven factual confession after the quiet cookbook return, **then** gives Elizabeth the existing hour in the bookshop before her chosen next destination and invitation. The old rule protecting unexplained “It was my fault” is superseded **for the proposed revised ending**, but the existing Chapter 18 remains canonically unchanged until Ch14–15 are aligned with the new events and the line-level text is independently reviewed. **Selection does not mean that the experimental extra coffee joke or “Nothing made her choose” have been endorsed.** Continue to use this file as the chosen experiment, not as the production manuscript.
