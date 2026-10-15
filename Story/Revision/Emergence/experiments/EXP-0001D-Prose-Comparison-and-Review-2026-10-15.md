@@ -84,3 +84,8 @@ Similarly, Elizabeth choosing Milo is a sound and consequential human act. Prese
 5. **Aftermath continuity:** Keep Stansbury's hand injury, saved records, Milo's recovery, Camp naming Shade, and Pathwell's restitution.
 
 **Promotion:** None. Only author-reviewed insight/idea/experiment artifacts were added; no canon/manuscript changes or formal revision task created.
+
+
+## Follow-on logistics and targeting test
+
+See [EXP-0001E](EXP-0001E-Rescue-Availability-and-Targeting-Audit-2026-10-15.md) and [EXP-0001F](EXP-0001F-Rescue-Window-Prose-Probe-2026-10-15.md). Chapter 10's weapon box in Stansbury's van, Chapter 11's museum transfer and Chapter 14's medical box/food bag support having no demonstrated destructive baton in Camp; the dagger remains with Elizabeth. The proposed low approach from woods toward fresh spillage can physically reach Shade first because he stands in its path. **TENTATIVE PASS** on a possible rescue triage, not on unavoidability, Shade's full finale or Elizabeth changing the magic. Earlier A/B disposition remains **REVISE BOTH**.
