@@ -29,3 +29,16 @@ Next Rung Q65: Does Elizabeth say plainly that she had to choose between two peo
 **Guardrails:** The exchange should be understated, not explanatory sermonizing. His correction is not aggressive toward Elizabeth or contemptuous of her own guilt. Her reaction remains hers, not an obligation to forgive or comfort him. The late confession remains a proposed change to Chapter 18; it conflicts with the older Q94–Q95 unexplained “It was my fault” and requires formal reconciliation before writing it into the manuscript. Preserve the author-locked final exchange and Elizabeth's independent choice unless the author revises them explicitly.
 
 **Next Rung Q66:** After he makes that distinction, does Elizabeth ask what he means by “that's not what I did,” or has he already told her plainly that he knowingly let Shade be taken? The answer determines where the confession's factual revelation belongs in this exchange.
+
+
+## Rung Q66 — Full confession comes before Elizabeth's comparison
+
+**Author:** “sure,” accepting the proposed order **confession first**.
+
+**Working sequence for the Chapter 18 bookshop test:** Pathwell has already put the Merritt family cookbook back without buying or pruning for it. Later, in the existing quieter exchange, he **first admits the full material truth**: Shade was struggling, Pathwell understood that the blob taking him would resolve Pathwell's problem, and he deliberately did not even call for help. He speaks out of shame and uncertainty about what this says about him, not to win forgiveness. **Only after hearing those facts** does Elizabeth identify with having heard Shade cry for help and then run into the archive for Milo. Pathwell responds gently: she went to save a child; that is not the reason he stayed silent.
+
+**Why this order matters:** Elizabeth's empathy is informed, not based on misunderstanding an ambiguous “It was my fault.” Pathwell must not use her compassion as an excuse. His gentle distinction should acknowledge that he could at least have called to others, despite being unable to stand.
+
+**Limits:** This author answer selects the **order and moral shape**, not exact dialogue or permission to rewrite Chapter 18. Earlier Q94–Q95 protect the unexplained “It was my fault” and silence; any actual new confession must explicitly reconcile those older decisions. The existing ending's lightness and Elizabeth's eventual invitation need testing with the newly revealed wrongdoing.
+
+**Next Rung Q67:** With the truth now known, does Elizabeth still **want Pathwell to accompany her** when she chooses the next route, or does she need distance from him?
