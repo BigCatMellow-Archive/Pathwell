@@ -39,7 +39,9 @@ Details for every chapter: the [assessment](Story/Revision/Assessment-2026-09-29
 ---
 
 
-**Status note (2026-10-15):** Chapter 14–18 changes follow [the coordinated implementation record](Story/Revision/Climax-C18-Coordinated-Implementation-2026-10-15.md) and [author's revised climax ruling](Story/Revision/Author-Ruling-Ch14-Ch15-Climax-2026-10-15.md). They have been source-checked and manually reconciled, but **not independently blind-read or signed off as L4**. New in-force character/canon direction replaces the older staged Q132 death and Q94–Q95 unexplained admission. The next gate is a full-context read and any resulting fixes rather than another round of concept interviews.
+**Status note (2026-10-15):** The [P55 informed reader/voice follow-up](Story/Revision/QA-2026-10-15-Informed-Reader-Voice-Followup.md) examined the current climax against book context and original voice samples, corrected a repeated cookbook inscription in Chapter 18, and rechecked twelve locked-event assertions (12/12 pass). The two main reader tests remain the concrete alternative aid Pathwell could have summoned and the meaning of Elizabeth's post-confession invitation. This was **not a blind independent read or Python checker run; L4 remains pending**.
+
+**P54 background (2026-10-15):** Chapter 14–18 changes follow [the coordinated implementation record](Story/Revision/Climax-C18-Coordinated-Implementation-2026-10-15.md) and [author's revised climax ruling](Story/Revision/Author-Ruling-Ch14-Ch15-Climax-2026-10-15.md). They have been source-checked and manually reconciled, but **not independently blind-read or signed off as L4**. New in-force character/canon direction replaces the older staged Q132 death and Q94–Q95 unexplained admission. The next gate is a full-context read and any resulting fixes rather than another round of concept interviews.
 
 ## What's next
 
