@@ -99,3 +99,25 @@ After the author selected Elizabeth's restrained agency approach, the [four-prob
 **Continuity and status:** The old Chapter 15 intentionally has Shade walk to the blob, and the old Q132 describes an informed risk; the author is **developing a different ending**, not yet approving replacement prose/canon. Q55 (Pathwell seeing the end) remains open. Rescue timing, specific addressee and failed/successful intervention remain open. No manuscript/bible/canon edits.
 
 **Next Rung (Q58):** Does Shade call specifically for **Elizabeth**, because he's seen her cut Pathwell free from a blob, or does he call generally to whoever is near enough to help?
+
+
+## Rung Q58 — General cry, eye contact, Elizabeth runs for Milo (2026-10-15)
+
+**Author:** “I think he would just call for help, and then make eye contact with Elizabeth, who then chooses to run into the archive fire.”
+
+**Developing scene order (author-described):** Shade unexpectedly finds the blob already at his shin; struggles and **calls for help generally**, not explicitly to Elizabeth and not by naming her as his designated rescuer. He and Elizabeth **make eye contact**. With Milo trapped and in imminent danger inside the burning archive, **Elizabeth decides to run inside** to save him. The eye contact has moved from the earlier *possible* Q45 beat to the author's current preferred staging, but exact time, distance, dialogue and POV are not yet approved as final prose.
+
+**Why this matters:** Elizabeth is now demonstrably aware that Shade is endangered and requesting rescue; she does not unknowingly leave him outside. The visual exchange sharpens the human cost of her independently selected, restrained rescue of Milo. It is not a telepathic exchange or a silent permission slip from Shade. A terrified person asking for help need not understand or endorse Elizabeth's decision. She can see his fear and act to save Milo without being responsible for what Pathwell's working and the cleanup creature do to Shade.
+
+**Necessary event order / constraints:**
+1. The archive fire and Milo's audible trapped-child danger must already be sufficiently established for Elizabeth to have a real, immediate alternative. Without hearing/knowing Milo is in danger, running into the fire could appear like arbitrary abandonment.
+2. Shade struggles and cries **“Help!”** or equivalent generally; the author has not chosen exact words. His call must be audible to Elizabeth at the gaze, without requiring that every Camp resident hear or remain inactive.
+3. Their eyes meet for a concrete instant amid smoke, conflict and other people responding; **do not infer Shade's consent, forgiveness, gratitude or surrender** from the look. His prior Q52–53 realization may occur later while he still struggles to survive.
+4. Elizabeth moves into the archive for Milo, with the known enchanted dagger still on her person and the Chapter 7 multi-cut extraction precedent respected. Mama Baga, Stansbury and bystanders must respond plausibly to the public help call; the earlier EXP-0001F bystander pulling at Shade remains a *candidate*, not an author-directed requirement.
+5. Stay honest to the Elizabeth-limited camera: she can observe Shade crying for help and looking at her, not read what he thinks or what he later does while she is inside. A future exterior viewpoint experiment may be required if the narrative must show Shade's inner missed-opportunity turn.
+
+**Craft pressure:** If Shade is calling for help and Elizabeth has once saved Pathwell from a blob, the scene must not solve the dilemma by pretending the foam dagger is forgotten or magically unavailable; urgency and physical extraction time must remain believable. Likewise, eye contact increases emotional intensity but should not become a contrived “she chooses him to die” equation. Her positive action remains saving the trapped child.
+
+**Next Rung (Q59):** At that instant of eye contact, does Shade **understand Elizabeth is going to save Milo**, or does he experience her turning away as being abandoned? These are not equivalent, and the text must not guess Shade's inner interpretation from Elizabeth's gaze.
+
+**Status:** Author's preferred staging recorded, not an instruction to rewrite Chapter 14–15 or supersede Q132. Q54's exact struggle/recognition sequence and earlier Q55 on whether Pathwell witnesses Shade's end remain open. No manuscript, World Bible, character Bible or canon changes.
