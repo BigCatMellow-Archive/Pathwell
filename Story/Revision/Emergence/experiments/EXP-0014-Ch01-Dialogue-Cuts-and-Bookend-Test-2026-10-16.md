@@ -63,3 +63,8 @@ The current Chapter 1 **still contains all existing dialogue**, including first 
 Ask after a single read: “At what point did Elizabeth actually say no? Did Pathwell respond to that refusal, or move on?” Then: “How did the last ‘Perfect’ strike you — an echo, an isolated joke, or something else?” Avoid telling the reader which line had been edited.
 
 **Next:** scene-level read aloud at the full Chapter 1 / Chapter 2 boundary, then review the less settled sensory low-tide phrase only if it demonstrably impedes reading. Avoid rewriting the original sugar-cookie memory to chase more wonder; the author's earlier selection of C already did that job.
+
+## Post-candidate live-text update
+
+Immediately after these B/C drafts were created, [P61](../../Pass-Log.md#p61-2026-10-16-page-contact-staging-and-dialogue-comparison) performed **one additional grammar fix** to the canonical door-breach/second-low-tide sentence. The two B/C files remain exact one-/multiple-span controlled tests of the **earlier** post-strike snapshot, but are now **not** identical to live `Story/Chapters/Chapter_01.txt` apart from dialogue. Do not overwrite the chapter with either full file. If the author selects B or C, reapply the listed **dialogue snippets only** to the newly fetched canonical chapter and prove every other line unchanged. Current A continues as production dialogue; no dialogue author verdict has been given in this turn.
+
