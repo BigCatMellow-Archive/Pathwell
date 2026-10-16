@@ -4,6 +4,14 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P62 — departure dialogue and first-act custody (2026-10-16)
+
+[**P62 controlled editorial result and Chapters 1–3 handoff**](CH01-CH02-P62-DIALOGUE-DECISION-AND-TRANSITION-2026-10-16.md): The two author-marked **EXP-0014 B** trims are now in [canonical Chapter 1](../../Chapters/Chapter_01.txt) under working decision W21, following the user's “continue”; **the user did not explicitly choose B**. The first “Perfect.” and last “Perfect.” remain unchanged. Chapter 2 received the author's narrow opening-speaker attribution fix, with no other prose changed. The saved [EXP-0014 B](experiments/EXP-0014B-Ch01-Refusal-and-Preamble-Cuts-2026-10-16.txt) and [C](experiments/EXP-0014C-Ch01-Author-Dialogue-Trio-2026-10-16.txt) remain historical comparison files (their low-tide sentence predates P61). **No current candidate file is promoted wholesale.**
+
+[**INS-0010 first-act follow-up**](insights/INS-0010-ready-inversion.md#p62-continuation-constrained-choice-survives-the-dialogue-cut): Elizabeth's refusal is preserved after the “marked” bluff. More importantly, Chapters 2–3 still show that Pathwell is holding both her cookbook and diary even when he offers her “the choice”; her return to him is constrained by this concrete custody, not evidence that she consented to his choices or forgave his intrusion. Chapter 3's counter ultimately returns property that was never his to spend. **No genuinely unprimed first-act reader or author whole-chapter verdict has been run.**
+
+---
+
 ## Chapter 1 P61 informed whole-scene check
 
 [**Chapter 1 post-P61 editorial read and Chapter 2 transition checks**](CHAPTER-01-P61-INFORMED-READ-2026-10-16.md) walks the revised opening sequentially, distinguishing the *observed* page/creature contact from any invented magic rule, and identifies live risks in the chained-door decision, Pathwell's repeated refusals and cookbook custody. **This is informed internal QA, not a cold reader or L4 pass.**
