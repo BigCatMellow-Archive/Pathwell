@@ -4,6 +4,12 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Chapter 1 motive-cue test — 2026-10-16
+
+[EXP-0008 — Controlled comparison of unchanged Chapter 1 and a two-sentence clue](experiments/EXP-0008-Ch01-Entry-Motive-Cue-Controlled-Comparison-2026-10-16.md) is the follow-on to the author's confirmed opening clarity gap. [Read the complete **noncanonical** B candidate](experiments/EXP-0008B-Ch01-Party-Notebook-Cue-Noncanonical-2026-10-16.txt). The specific experiment is **recommended for author review, not implemented in the manuscript**. Its other important finding is that the old “slightly open door” and an apartment party can coexist; we should not call the door geography conclusively contradictory without an explicit logistical ruling. R38's other Chapter 1 editorial suggestions remain separate.
+
+---
+
 ## Author follow-up, 2026-10-16 — three clarified reading questions
 
 [**Author feedback and continuity finding**](AUTHOR-FEEDBACK-2026-10-16-Opening-Choice-Invitation.md) applies to [EXP-0005](experiments/EXP-0005-withheld-aid-counterfactual-2026-10-16.md), [EXP-0006](experiments/EXP-0006-invitation-reader-controls-2026-10-16.md), and [EXP-0007](experiments/EXP-0007-first-act-information-debt-2026-10-16.md).
