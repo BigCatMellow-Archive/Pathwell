@@ -62,3 +62,10 @@ This is a **direct author assessment** that readers do **not** currently underst
 **Acceptance test:** A first-time reader can state in one sentence (a) what drew Pathwell to the apartment, (b) that Elizabeth herself was not the target of the cleanup, and (c) that these are separate causal chains. The timing of revealing (b) remains later (Ch7–9). This does not require Pathwell to confess the exact party access logistics in Ch1.
 
 The [feedback record](../AUTHOR-FEEDBACK-2026-10-16-Opening-Choice-Invitation.md) holds all three author responses. **No prose, canon or locks changed.**
+
+## P63 follow-up: current source-only reading, not blind-reader evidence
+
+The author-selected P56 notebook clue is now in [live Chapter 1](../../../Chapters/Chapter_01.txt), together with later revised spell, door and dialogue beats. A completed [P63 manuscript-only audit](../FIRST-ACT-P63-MANUSCRIPT-ONLY-READER-AUDIT-2026-10-16.md) read all three current first-act chapters and agrees the *category* of Pathwell's scavenging is more visible by the Ch3 journals/letters/materials transaction. Exactly why **this** party/apartment was selected is still partly inferential; no narrator claim turns Elizabeth into a chosen target.
+
+The audit additionally spotted an independent Ch2 object-custody ambiguity: books are placed on the diner table, then Pathwell “gather[s] up his things”, and “He still has it” relies on their being with him. That is a better **next targeted cold-reader probe** than another in-chapter explanation of magical intent. The [reader-only packet](../../Reader-Reports/First-Act-2026-10-16/READER-PACKET.md) is ready, but no genuinely unprimed responses have been collected or invented. Keep the earlier 2026-10-08 panel in its historical role and do **not** mark the open reader test as completed.
+
