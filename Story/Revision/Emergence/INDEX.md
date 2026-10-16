@@ -4,6 +4,12 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Next Chapter 1 experiment — first magic and cookbook (2026-10-16)
+
+[EXP-0009 — A/B comparison, current passage vs two tiny first-spell/book-handling changes](experiments/EXP-0009-Ch01-First-Magic-and-Cookbook-Panic-2026-10-16.md) includes the author's outstanding R38 concerns, a cautious voice critique, and the [complete **noncanonical** Chapter 1 alternate](experiments/EXP-0009B-Ch01-First-Magic-Cookbook-Candidate-2026-10-16.txt). **Not approved or applied to the canonical chapter.** The chapter's only newly approved production addition remains the R48/P56 scavenging clue below. The R38 door-glimpse and dialogue/line adjustments are separate tests, not quietly included in this trial.
+
+---
+
 ## Chapter 1 motive-cue test — 2026-10-16
 
 [EXP-0008 — Controlled comparison of unchanged Chapter 1 and a two-sentence clue](experiments/EXP-0008-Ch01-Entry-Motive-Cue-Controlled-Comparison-2026-10-16.md) is the follow-on to the author's confirmed opening clarity gap. [Read the complete **noncanonical** B candidate](experiments/EXP-0008B-Ch01-Party-Notebook-Cue-Noncanonical-2026-10-16.txt). **Author adopted B on 2026-10-16 (R48/P56); it is now implemented in [Chapter 1](../../Chapters/Chapter_01.txt).** Its other important finding is that the old “slightly open door” and an apartment party can coexist; we should not call the door geography conclusively contradictory without an explicit logistical ruling. R38's other Chapter 1 editorial suggestions remain separate.
