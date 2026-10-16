@@ -1,7 +1,7 @@
 # EXP-0011 — Chapter 1 first magic: perception of Nana's handwriting
 
 **Date:** 2026-10-16  
-**Status:** INFORMED A/B/C PROSE COMPARISON COMPLETE; B/C NONCANONICAL; **NO AUTHOR CHOICE, UNINFORMED READER OR L4 CERTIFICATION**  
+**Status:** **VERSION C SELECTED BY AUTHOR AND IMPLEMENTED IN CHAPTER 1** (R51/P59); B remains a historical noncanonical alternative. **INDEPENDENT READER REVIEW AND L4 STILL OPEN**.  
 **Current source:** [canonical Chapter 1](../../../Chapters/Chapter_01.txt), after approved R48/P56 (notebook clue), R49/P57 (physical cookbook action), and R50/P58 (door opening/glimpse).  
 **Author issue:** [Oct 8 annotated Chapter 1, ¶63](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md): first magic should feel more fantastical and possibly slow down from Elizabeth's perspective.  
 **Author voice:** [the unchanged July Chapter 1](../../Voice-Benchmark/Author_Chapter_01_before-2026-08-28.txt), [Pathwell prose voice](../../../Story_Files/pathwell_prose_voice.md), [narrator register](../../../Story_Files/pathwell_narrator_register.md), and [Writing Principles](../../../../Writing-Principles.md).  
@@ -83,3 +83,11 @@ After reading Chapter 1 once: “Where did you first feel that something impossi
 The remaining R38 author's Chapter 1 line notes are a **separate** review: Pathwell's first “Perfect” vs author-proposed “Good… that's good”, the isolated repeated impact note, the floating “A box hit the ground”, intensified second low-tide smell, and the double bathroom-door opening after the fight. Address those in a separate mechanical/taste triage without bundling a major new magic treatment.
 
 If author selects C or A, update [Decisions](../../Decisions.md), [Pass Log](../../Pass-Log.md), [Promise Ledger](../../Promise-Ledger.md) if setups actually change, and [Revision Status](../../../../Revision-Status.md). Keep Chapter 1 L3 until a real independent reader plus author's whole-chapter judgment.
+
+## Author adoption — 2026-10-16 (R51/P59)
+
+The author said **“Go C and continue”** after this report and the two complete candidates. Therefore C's **exact three-paragraph ink/perception replacement**, not B or the earlier EXP-0009 extended-slow-time version, was applied to the [canonical Chapter 1](../../../Chapters/Chapter_01.txt) in [ed1df00](https://github.com/BigCatMellow-Archive/Pathwell/commit/ed1df00de3252a283675f22bc96655da1260efe4). GitHub live fetch immediately after the write matched the entire stored [EXP-0011C](EXP-0011C-Ch01-First-Magic-Ink-and-Perception-2026-10-16.txt) file **exactly**, and reversing that one replacement yielded the prepass source.
+
+**Historical-version warning:** EXP-0011C is an exact full-chapter control **as of P59**. Later [P60 mechanical line fixes](../../Pass-Log.md#p60-2026-10-16-chapter-1-mechanical-line-clarity) changed the live Chapter 1 in four small places. Therefore the archived EXP-0011C full text now differs from live Chapter 1 **outside the one tested gold-ink paragraph**. The canon is always [Story/Chapters/Chapter_01.txt](../../../Chapters/Chapter_01.txt); this experiment remains evidence of the selected wording.
+
+No independent uninformed reader test was performed merely by choosing C. Other notes that change Pathwell's voice or the physics of his defense remain [EXP-0012 controlled trials](EXP-0012-Ch01-Strike-Actor-and-First-Perfect-2026-10-16.md), not canonical text.
