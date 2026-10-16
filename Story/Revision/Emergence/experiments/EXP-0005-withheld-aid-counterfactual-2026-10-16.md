@@ -37,3 +37,13 @@ Give cold readers Ch1–18 without this hypothesis. After Ch15 ask “Who might 
 
 ## Decision
 **TABLETOP done; FOCUS FOR BLIND TEST.** No manuscript change, author-level choice, promotion or L4 sign-off. Retain both Shade's lack of consent and Pathwell's shame.
+
+## Author feedback after this experiment — 2026-10-16
+
+**Author:** “Is it a failure or a choice?”
+
+**Disposition: CORRECT THE QUESTION, KEEP THE APPROVED SCENE.** The existing R46 character action is not a helpless “failure to summon help”; it is Pathwell's **deliberate choice not to call** while he believes Shade's removal would end the problem. “Failure” is an *ethical appraisal* of this decision, not a competing account of how it happened. The central test is now **whether readers understand he chooses to withhold aid despite an available possibility of trying**, without assuming his involvement would guarantee survival.
+
+The currently documented Camp man's attempted extraction means a simple extra shout is not automatically an outcome-changing intervention. Stansbury and the bucket responders are already busy, and Pathwell is injured. Re-run the causality question if editing the physical beat, but never cure it by inventing a magic rescue, making Pathwell accidentally freeze, or treating Shade's death as consent.
+
+This author question confirms the **priority of conscious agency**, not an approval to insert a new rescuer or rewrite Ch15/18. Full interpretation and opening/ending answers in the [author feedback record](../AUTHOR-FEEDBACK-2026-10-16-Opening-Choice-Invitation.md).
