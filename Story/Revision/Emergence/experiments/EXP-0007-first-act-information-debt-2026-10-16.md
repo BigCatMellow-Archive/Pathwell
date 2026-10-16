@@ -39,3 +39,20 @@ Log when a reader answers confidently, tentatively, incorrectly or declines. Com
 
 ## Outcome and next action
 **Tabletop result: Q1 plausibly paid; Q2 partially paid and likely worth an actual reader test.** The October panel predates P54, so it supports prioritization but is not independent proof of the current manuscript's effect. If current uninformed readers stumble, submit control A versus single-clue B for author evaluation. **No change to prose, lore, canon or Decisions.**
+
+## Author feedback and discovery of a staging conflict — 2026-10-16
+
+**Author:** “No I dont believe they do.”
+
+This is a **direct author assessment** that readers do **not** currently understand why Pathwell searches Elizabeth's flat. Treat as a diagnosed explanation gap worth testing, not as a question we may leave unresolved indefinitely while awaiting a blind reader.
+
+**New concrete evidence:** [The 2026-08-22 intended setup](../../../Interview/BIBLE_DECISIONS_2026-08-22.md#3-chapter-1-entry-and-false-importance-setup) and [current character bible](../../../Story_Files/character_bible.md) describe Pathwell discovering Elizabeth's **slightly open apartment** while scavenging. The [current Chapter 1](../../../Chapters/Chapter_01.txt) stages Elizabeth's own welcome party **inside that same apartment**, with Pathwell already there as a guest. An apartment encountered from outside and the apartment containing the party are not currently one coherent door/entry chain. Earlier author approval of the party as hers does not, on its own, settle the physical “slightly open apartment” premise; avoid silently reconciling old canon.
+
+**Refined noncanonical comparison:**
+- **A / current:** party inside; stranger stayed; rummages; reason not clear.
+- **B / minimal scene-compatible cue:** party itself provides access. Show, from Elizabeth's limited awareness, that Pathwell was interested in the *old handwriting/books*, rather than Elizabeth or party conversation. Preserve that he later senses charged pages without adding tracking lore or a new earlier relationship. A single prop-focused behavior may suffice, but do **not** presume the exact new text or its placement is approved.
+- **C / reconcile the obsolete staging:** once author selects B or an alternate party geometry, record whether “slightly open apartment” is retired or revised. Do not place a new hallway party or change chapter's opening without explicit choice.
+
+**Acceptance test:** A first-time reader can state in one sentence (a) what drew Pathwell to the apartment, (b) that Elizabeth herself was not the target of the cleanup, and (c) that these are separate causal chains. The timing of revealing (b) remains later (Ch7–9). This does not require Pathwell to confess the exact party access logistics in Ch1.
+
+The [feedback record](../AUTHOR-FEEDBACK-2026-10-16-Opening-Choice-Invitation.md) holds all three author responses. **No prose, canon or locks changed.**
