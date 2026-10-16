@@ -1,7 +1,7 @@
 # EXP-0014 — Chapter 1 dialogue restraint: refusals, “Understandable,” and “Perfect”
 
 **Date:** 2026-10-16  
-**Status:** CURRENT-LIVE A/B/C WHOLE-CHAPTER ALTERNATIVES AND INFORMED VOICE CRITIQUE; **NO MANUSCRIPT OR AUTHOR-RULING CHANGE**  
+**Status:** **B'S PAIRED DIALOGUE CUTS ADOPTED PROVISIONALLY IN LIVE CHAPTER 1 UNDER P62/W21** (reviser decision following author “continue” and Oct 8 crossed-out lines); first “Perfect” / C dialogue alternative **NOT ADOPTED**; unprimed reader and author chapter verdict open.  
 **Origin:** [R38 author markup](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md) ¶59, ¶131, ¶139; [July Chapter 1 author voice benchmark](../../Voice-Benchmark/Author_Chapter_01_before-2026-08-28.txt); [current Chapter 1](../../../Chapters/Chapter_01.txt).  
 **Mechanics context:** [EXP-0013](EXP-0013-Ch01-Cookbook-Page-Defensive-Contact-2026-10-16.md) has been applied to the actual chapter. This dialogue test **inherits the newest protective-page contact version**, not the prior ambiguous-strike source.
 
@@ -68,3 +68,13 @@ Ask after a single read: “At what point did Elizabeth actually say no? Did Pat
 
 Immediately after these B/C drafts were created, [P61](../../Pass-Log.md#p61-2026-10-16-page-contact-staging-and-dialogue-comparison) performed **one additional grammar fix** to the canonical door-breach/second-low-tide sentence. The two B/C files remain exact one-/multiple-span controlled tests of the **earlier** post-strike snapshot, but are now **not** identical to live `Story/Chapters/Chapter_01.txt` apart from dialogue. Do not overwrite the chapter with either full file. If the author selects B or C, reapply the listed **dialogue snippets only** to the newly fetched canonical chapter and prove every other line unchanged. Current A continues as production dialogue; no dialogue author verdict has been given in this turn.
 
+
+## Decision following author continuation — P62
+
+After this experiment the author responded **“continue.”** A new in-context comparison of A and B through the start of Chapters 2–3 concluded that the pair of cuts in B improves scene momentum while preserving Elizabeth's explicit refusal and Pathwell's unwillingness to listen. Both cuts were applied as **exact line-level replacements** to [Chapter 1](../../../Chapters/Chapter_01.txt) in [84475de](https://github.com/BigCatMellow-Archive/Pathwell/commit/84475de4be117a6663b431190045ce9148f55506). Reversing exactly those two edits reproduces the immediately previous canonical chapter. The early “Perfect.” and final “Perfect.” remain unchanged.
+
+**Do not claim the author said “Go B.”** The choice is recorded as **working editorial W21/P62**, following the author's earlier **explicit October 8 crossed-out suggestions**, and is revisable after whole-chapter reading. [Full reasoning and Chapter 2 transition analysis](../CH01-CH02-P62-DIALOGUE-DECISION-AND-TRANSITION-2026-10-16.md).
+
+**Historical candidate warning:** the complete [B](EXP-0014B-Ch01-Refusal-and-Preamble-Cuts-2026-10-16.txt) and [C](EXP-0014C-Ch01-Author-Dialogue-Trio-2026-10-16.txt) snapshots **predate P61's later repair** to the low-tide smell sentence. Only the specifically selected B dialogue snippets were transplanted to the current source. The `EXP-0014B` trial therefore is **not now byte-for-byte the canonical Chapter 1**. Do not overwrite the active manuscript with the historic candidate. C's “Good… that's good” remains for author comparison, not canon.
+
+**Ch2 adjacency:** The author's October 8 annotated ¶185 speaker-attribution point was solved with a single paragraph-joining edit in [Chapter 2](../../../Chapters/Chapter_02.txt), not by altering the substance of the spoken line ([P62](../../Pass-Log.md#p62-2026-10-16-shorten-chapter-1-departure-and-attribute-chapter-2-speaker)). This is an independent mechanical edit, not a C choice.
