@@ -4,6 +4,12 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Chapter 1 P61 informed whole-scene check
+
+[**Chapter 1 post-P61 editorial read and Chapter 2 transition checks**](CHAPTER-01-P61-INFORMED-READ-2026-10-16.md) walks the revised opening sequentially, distinguishing the *observed* page/creature contact from any invented magic rule, and identifies live risks in the chained-door decision, Pathwell's repeated refusals and cookbook custody. **This is informed internal QA, not a cold reader or L4 pass.**
+
+---
+
 ## Chapter 1 protective-page strike — continuation P61 (2026-10-16)
 
 The Chapter 1 ambiguous strike was resolved as a **reviser choice under the author's continuing-work direction**: Pathwell raises the already-active cookbook page and the blob hits its protective light. [EXP-0013 — source rules, alternatives, exact one-line implementation](experiments/EXP-0013-Ch01-Cookbook-Page-Defensive-Contact-2026-10-16.md). A separate sentence-grammar repair clarified the door cracking and low-tide smell without adding a new rule. **Neither is an explicit new author ruling or independent reader finding.**
