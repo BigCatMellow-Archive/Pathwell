@@ -4,9 +4,17 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Chapter 1 cookbook adoption and door-glimpse test — 2026-10-16
+
+The author authorized the **more physical Nana cookbook action**, and that isolated change is now in [canonical Chapter 1](../../Chapters/Chapter_01.txt) (R49/P57). [EXP-0009](experiments/EXP-0009-Ch01-First-Magic-and-Cookbook-Panic-2026-10-16.md) documents the exact selection; the optional longer glowing-ink beat remains **unapplied**. Note that the [EXP-0009B full trial](experiments/EXP-0009B-Ch01-First-Magic-Cookbook-Candidate-2026-10-16.txt) still contains both experiments and **does not represent the live chapter**.
+
+New controlled test: [EXP-0010 — Should Elizabeth open the door and glimpse the creature before Pathwell shuts it?](experiments/EXP-0010-Ch01-Door-Glimpse-Blocking-and-Reader-Controls-2026-10-16.md) includes a [complete noncanonical door-glimpse version](experiments/EXP-0010B-Ch01-Door-Glance-Chain-Candidate-2026-10-16.txt) with the current cookbook improvement incorporated. This changes action blocking and reveal pacing, **so it was not promoted to the manuscript**. Author decision and unprimed reader check remain open.
+
+---
+
 ## Next Chapter 1 experiment — first magic and cookbook (2026-10-16)
 
-[EXP-0009 — A/B comparison, current passage vs two tiny first-spell/book-handling changes](experiments/EXP-0009-Ch01-First-Magic-and-Cookbook-Panic-2026-10-16.md) includes the author's outstanding R38 concerns, a cautious voice critique, and the [complete **noncanonical** Chapter 1 alternate](experiments/EXP-0009B-Ch01-First-Magic-Cookbook-Candidate-2026-10-16.txt). **Not approved or applied to the canonical chapter.** The chapter's only newly approved production addition remains the R48/P56 scavenging clue below. The R38 door-glimpse and dialogue/line adjustments are separate tests, not quietly included in this trial.
+[EXP-0009 — A/B comparison, current passage vs two tiny first-spell/book-handling changes](experiments/EXP-0009-Ch01-First-Magic-and-Cookbook-Panic-2026-10-16.md) includes the author's outstanding R38 concerns, a cautious voice critique, and the [complete **noncanonical** Chapter 1 alternate](experiments/EXP-0009B-Ch01-First-Magic-Cookbook-Candidate-2026-10-16.txt). **Partially adopted:** the physical cookbook grab (change 2) is now canonical under R49/P57; the extended magic description (change 1) remains a noncanonical trial. The R48/P56 scavenging clue below is also canonical. The R38 door-glimpse and dialogue/line adjustments are separate tests, not quietly included in this trial.
 
 ---
 
