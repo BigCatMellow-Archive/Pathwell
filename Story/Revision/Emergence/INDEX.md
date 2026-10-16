@@ -6,7 +6,7 @@ Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54)
 
 ## Chapter 1 motive-cue test — 2026-10-16
 
-[EXP-0008 — Controlled comparison of unchanged Chapter 1 and a two-sentence clue](experiments/EXP-0008-Ch01-Entry-Motive-Cue-Controlled-Comparison-2026-10-16.md) is the follow-on to the author's confirmed opening clarity gap. [Read the complete **noncanonical** B candidate](experiments/EXP-0008B-Ch01-Party-Notebook-Cue-Noncanonical-2026-10-16.txt). The specific experiment is **recommended for author review, not implemented in the manuscript**. Its other important finding is that the old “slightly open door” and an apartment party can coexist; we should not call the door geography conclusively contradictory without an explicit logistical ruling. R38's other Chapter 1 editorial suggestions remain separate.
+[EXP-0008 — Controlled comparison of unchanged Chapter 1 and a two-sentence clue](experiments/EXP-0008-Ch01-Entry-Motive-Cue-Controlled-Comparison-2026-10-16.md) is the follow-on to the author's confirmed opening clarity gap. [Read the complete **noncanonical** B candidate](experiments/EXP-0008B-Ch01-Party-Notebook-Cue-Noncanonical-2026-10-16.txt). **Author adopted B on 2026-10-16 (R48/P56); it is now implemented in [Chapter 1](../../Chapters/Chapter_01.txt).** Its other important finding is that the old “slightly open door” and an apartment party can coexist; we should not call the door geography conclusively contradictory without an explicit logistical ruling. R38's other Chapter 1 editorial suggestions remain separate.
 
 ---
 
