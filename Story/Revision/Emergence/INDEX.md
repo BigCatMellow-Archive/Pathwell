@@ -4,6 +4,14 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P65 uploaded informed reader report — Chapters 1–3 (2026-10-16)
+
+The user supplied an **838-line Chapter 1–3 review**, organized into chapter-by-chapter impressions, end-of-Ch3 questions and final verdict. The reviewer **explicitly disclosed previous familiarity with later events and revision discussions**, so it is **one informed-reader report, not a genuine fresh/independent blind run**. [**P65 source-aligned evaluation**](../Reader-Reports/First-Act-2026-10-16/INFORMED-REVIEW-EVALUATION-2026-10-16.md) compares the report with P63's predicted risks without inventing missing responses. Chapter 1's motive gap **persists**, the Ch3 large book/order materialization is a notable *new* staging concern, and the reviewer worries that repeated nonanswers could make Pathwell's harm look excused. **Counterevidence to P63 hypotheses:** no reported diner-book custody misunderstanding, no confident “Elizabeth is marked” reading, no objection to the chained-door look, no specific Rai/Lydian vocabulary stopper.
+
+[Chapter 4](../../Chapters/Chapter_04.txt) *already* demonstrates Camp's use for donated supplies and Mama Baga's objection that they **were not requested**. Check the Ch3→Ch4 handoff before explaining away the book's intentional mysteries. **No production prose altered, GitHub issue #3 remains open for a truly unfamiliar reader, and L3 is unchanged.** [Pass P65](../Pass-Log.md#p65-2026-10-16-evaluate-supplied-informed-chapters-13-reader-report).
+
+---
+
 ## P64 reader recruitment and versioned first-act text (2026-10-16)
 
 The [**single-file reader edition of Chapters 1–3**](../Reader-Reports/First-Act-2026-10-16/READER-EDITION.md) is assembled from and checked against the three current canonical chapter bodies. It contains **no author notes, synopsis of intended answers, future-plot spoilers, or evaluation key**; only neutral instructions and the chapters. [**GitHub issue #3**](https://github.com/BigCatMellow-Archive/Pathwell/issues/3) invites an **actually unfamiliar reader** to read this edition, preserve a running chapter log, and return their responses without exposure to other readers' comments. [Neutral question packet](../Reader-Reports/First-Act-2026-10-16/READER-PACKET.md); [editor-only P63 questions/evidence](FIRST-ACT-P63-MANUSCRIPT-ONLY-READER-AUDIT-2026-10-16.md) **must not** be shown first.
