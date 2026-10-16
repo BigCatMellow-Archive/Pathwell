@@ -3,7 +3,7 @@
 **Date:** 2026-10-16  
 **Status:** REVISER IMPLEMENTATION + INFORMED CONTINUITY REVIEW; **NOT A NEW AUTHOR-LOCKED MAGICAL RULE**  
 **Scope:** [Chapter 1](../../../Chapters/Chapter_01.txt), exactly one sentence cluster in the blob's first entry.  
-**Background:** [EXP-0012](EXP-0012-Ch01-Strike-Actor-and-First-Perfect-2026-10-16.md), [R38 author line note ¶83](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md), [active world bible](../../../Story_Files/world_bible.md), [August 22 author interview](../../Interview/BIBLE_DECISIONS_2026-08-22.md), [author's July voice benchmark](../../Voice-Benchmark/Author_Chapter_01_before-2026-08-28.txt).
+**Background:** [EXP-0012](EXP-0012-Ch01-Strike-Actor-and-First-Perfect-2026-10-16.md), [R38 author line note ¶83](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md), [active world bible](../../../Story_Files/world_bible.md), [August 22 author interview](../../../Interview/BIBLE_DECISIONS_2026-08-22.md), [author's July voice benchmark](../../Voice-Benchmark/Author_Chapter_01_before-2026-08-28.txt).
 
 ## Controlling evidence
 
