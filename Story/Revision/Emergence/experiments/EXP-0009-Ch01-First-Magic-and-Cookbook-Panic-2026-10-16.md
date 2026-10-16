@@ -1,7 +1,7 @@
 # EXP-0009 — Chapter 1: first magic as experience, cookbook as personal jeopardy
 
 **Date:** 2026-10-16  
-**Status:** NONCANONICAL PROSE TEST AND INFORMED CRITIQUE COMPLETE; **AUTHOR SELECTION / FRESH READ OPEN**  
+**Status:** **CHANGE 2 (PHYSICAL COOKBOOK GRAB) IMPLEMENTED BY AUTHOR DIRECTION R49/P57**; change 1 (longer magical perception) remains NONCANONICAL; uninformed fresh read OPEN.  
 **Parent:** The [adopted R48/P56 opening motive cue](../../../Chapters/Chapter_01.txt); the author's [Oct 8 R38 Chapter 1 notes](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md); [Writing Principles](../../../../Writing-Principles.md) and the [author voice benchmark](../../Voice-Benchmark/Author_Chapter_01_before-2026-08-28.txt).  
 **Authority:** Experiment only. The author approved exactly EXP-0008 B (“I like it”), **not** any additional change to first magic, dialogue, smell, door staging or memoir.
 
@@ -80,3 +80,11 @@ The current scene already produces the strongest evidence of Nana's value **imme
 4. If approved, commit the exact selected portion and update [Decisions](../../Decisions.md), [Pass Log](../../Pass-Log.md), [Promise Ledger](../../Promise-Ledger.md) where affected, [Revision Status](../../../../Revision-Status.md), and this record. Never mark L4 without a legitimately independent read and author whole-chapter verdict.
 
 **Editorial lean:** the new *physical book handling* (change 2) has clearer causal value; the extra slow-motion paragraph (change 1) is worth testing but may be a touch explicit. Neither is automatically promoted. Preserve the author's sugar-cookie memory passage verbatim.
+
+## Author implementation update — R49/P57, 2026-10-16
+
+The author said **“go for it”** after receiving the recommendation **to use change 2** (the tangible spine grab and page staying behind) but **to treat change 1** (the longer first-magic paragraph) with caution, followed by a separate door-glimpse test. In the same turn, the exact **change 2 text was committed to [canonical Chapter 1](../../../Chapters/Chapter_01.txt)**, production commit `c5f671d4345727ff481dc9dd83f6873a19b4dd29`.
+
+**Important:** The complete `EXP-0009B` alternate continues to contain *both* changes and therefore is **not** the same as the current manuscript. That alternative remains an editorial comparison artifact. The current author-selected scene still uses the original “He placed his hand flat on the page, the letters glowed a soft gold.” line. No evidence of an uninformed reader test was produced.
+
+The next live choice is the [EXP-0010](EXP-0010-Ch01-Door-Glimpse-Blocking-and-Reader-Controls-2026-10-16.md) chain-limited door glimpse test. Its author-selection gate is separate from the physical cookbook approval.
