@@ -2573,3 +2573,28 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 
 **RECONCILE:** [Decisions R50](Decisions.md#the-authors-rulings-for-this-revision), [Emergence EXP-0010](Emergence/experiments/EXP-0010-Ch01-Door-Glimpse-Blocking-and-Reader-Controls-2026-10-16.md), the [Emergence index](Emergence/INDEX.md), [Promise Ledger P3 / R15](Promise-Ledger.md), and [Revision Status](../../Revision-Status.md) record the selected scene's changed setup and agency.
 
+## P59, 2026-10-16: author selects C for first magic
+
+**AUTHORITY:** The author replied **“Go C and continue”** immediately after viewing the complete [EXP-0011 A/B/C first-magic trial](Emergence/experiments/EXP-0011-Ch01-First-Magic-Controlled-Comparison-2026-10-16.md), with [C's full novel context](Emergence/experiments/EXP-0011C-Ch01-First-Magic-Ink-and-Perception-2026-10-16.txt). Under R51, this approves C's specific prose rather than a generic expansion of every R38 stylistic idea.
+
+**DO:** In [Chapter 1](../Chapters/Chapter_01.txt), changed exactly **one unique source paragraph**, the old “He placed his hand flat on the page, the letters glowed a soft gold.” into three short paragraphs: his hand on page; gold running along Nana's uneven ink, where her pen hesitated; Elizabeth leaning close enough to see the ink beneath it. Production commit [ed1df00](https://github.com/BigCatMellow-Archive/Pathwell/commit/ed1df00de3252a283675f22bc96655da1260efe4).
+
+**CHECK:** Fetch confirmed a literal match with the reviewed EXP-0011C full alternative; undoing the single replacement reconstructed the previous canonical Chapter 1 exactly. The notebook clue, chained-door glimpse, cookbook grab, Nana's intact cookie memory, disrupted working and gold spill, creature already outside the door, later “marked” misread, and the closing “Ready?” / “No.” / “Perfect.” are untouched. New gold-ink perception does **not** add an Elizabeth-specific magical ability.
+
+**STATUS:** Author chose the exact paragraph. The larger chapter still awaits unprimed reading and full-chapter verdict (L3, not L4). Earlier EXP-0009B includes a noncurrent pre-R50 door sequence and is not the current control.
+
+## P60, 2026-10-16: Chapter 1 mechanical line clarity
+
+**AUTHORITY:** The author's **continued work instruction**, the original October 8 [R38 line notes](Author-Notes/2026-10-08_Chapter-01_line-notes.md), and the [post-R50 triage](Emergence/CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md). This pass uses reviser judgment for tiny, reversible physical clarity rather than misrepresenting each line as independently author-selected. R52 records scope.
+
+**DO — four isolated production edits, each verified against its immediate prior source by single-block reversal:**
+1. The free-floating “A box hit the ground.” after Pathwell's cookbook demand became **“He shoved a box aside.”** He is the visible actor, without an uncaused fall. In the same commit, remove the repeated **“A clear bright note that rang through the room.”** after “The impact sang.” [commit 8b2855a](https://github.com/BigCatMellow-Archive/Pathwell/commit/8b2855aeab7b4f2ac29dba58a403bbff32ae9d85).
+2. A later duplicate first-opening of the bathroom door became **“She stepped out of the bathroom.”** She had already opened it slowly earlier; the revised line clarifies the exit rather than pretending the door was closed anew. [commit fb14213](https://github.com/BigCatMellow-Archive/Pathwell/commit/fb14213ece5c63e6a4d03af90a0a8bb2460447b8).
+3. The doubled “It rolled over the gold on the carpet, and the gold went out.” became **“The blob rolled over the fallen threads of gold. Their light went out.”** This connects the same loose gold threads spilled by the interrupted working to the creature's consumption of cleanup waste without adding a magical mechanism. [commit f2ec685](https://github.com/BigCatMellow-Archive/Pathwell/commit/f2ec68513496a82391aad18b7e11688df2f41877).
+
+**JUDGE:** These are local grammar/action refinements; the underlying interrupted-casting and blob-response rules were checked against [the current world bible](../Story_Files/world_bible.md), which expressly identifies the *Chapter 1* gold mess as unclaimed casting waste. No new weapons, spell effects, emotional reactions or dialogue added. No other chapter edited. The first C magic paragraph and previous R48–R50 locks were preserved.
+
+**HELD FOR SEPARATE CHOICE:** The strike line is still the passive “met sharply by a blinding strike,” which raises real uncertainty over action/spell mechanics. The early Pathwell **“Perfect.”** repetition is a signature voice choice that may intentionally echo the locked last word. [EXP-0012](Emergence/experiments/EXP-0012-Ch01-Strike-Actor-and-First-Perfect-2026-10-16.md) presents separate noncanonical **active strike / unattributed flash / ‘Good… that's good’** full-chapter controls; none is promoted. Second low-tide detail, cookbook emotional depth, the post-“Huh” blocking and Elizabeth's repeated refusal remain open to a proper scene read rather than automatic expansion.
+
+**LEVEL:** L3; a truly independent uninformed read and author's whole-chapter verdict remain open. [Revision Status](../../Revision-Status.md) and [Emergence Index](Emergence/INDEX.md) track the active source.
+
