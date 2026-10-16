@@ -4,6 +4,18 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Author follow-up, 2026-10-16 — three clarified reading questions
+
+[**Author feedback and continuity finding**](AUTHOR-FEEDBACK-2026-10-16-Opening-Choice-Invitation.md) applies to [EXP-0005](experiments/EXP-0005-withheld-aid-counterfactual-2026-10-16.md), [EXP-0006](experiments/EXP-0006-invitation-reader-controls-2026-10-16.md), and [EXP-0007](experiments/EXP-0007-first-act-information-debt-2026-10-16.md).
+
+- **Opening:** Author says readers do *not* understand why Pathwell searched Elizabeth's apartment. The older Bible's “slightly open apartment” discovery geometry is also in tension with the current party-inside-apartment chapter. Treat as a clarity and authority-reconciliation test, not permission to invent special Elizabeth lore.
+- **Climax:** Pathwell's nonintervention is a **conscious choice** under R46, not an accidental failure. The moral appraisal of the choice is distinct from proof that more help would have guaranteed Shade's survival.
+- **Ending:** Author tentatively suggests understanding, knowing when not to press Pathwell, and an offered distraction. Preserve Elizabeth's independent desire and Ch16 boundary; this is **not** a finalized forgiveness or caretaker-duty interpretation.
+
+**Status:** Feedback captured, no production chapter/canon changes and no idea promotion. Uninformed reader testing and author-selected line changes remain separate.
+
+---
+
 ## Whole-book sweep, 2026-10-16 — current research entry point
 
 **[Read the 18-chapter evidence log and cross-book connections](BOOK-WIDE-SWEEP-2026-10-16.md).** This is the entry point for the author's requested full-book Emergence/Insights pass. It cross-checks the active main-series chapters, current decisions and older panel evidence; **no story text, canon or author rulings are changed** by these discovery artifacts. Historical portions of this index below were recorded *before* the author-selected R45–R47 and P54 changes; references there to a merely proposed future Ch14–18 rewrite are **date-stamped historical state**, not a claim about the present manuscript.
