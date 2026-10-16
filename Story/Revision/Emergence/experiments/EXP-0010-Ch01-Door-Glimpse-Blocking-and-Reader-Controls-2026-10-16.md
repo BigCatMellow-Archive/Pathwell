@@ -1,7 +1,7 @@
 # EXP-0010 — Chapter 1: should Elizabeth crack the door before the blob enters?
 
 **Date:** 2026-10-16  
-**Status:** CONTROLLED NONCANONICAL CHAPTER PROSE AND INFORMED BLOCKING TEST COMPLETE; **UNINFORMED READ AND AUTHOR SELECTION OPEN**  
+**Status:** **B CANDIDATE ADOPTED BY AUTHOR AND APPLIED IN CHAPTER 1 (R50 / P58)**; informed blocking comparison complete; **UNINFORMED READER AND WHOLE-CHAPTER REVIEW OPEN**  
 **Author origin:** [Oct 8 Chapter 1 line note ¶23](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md): “She could move towards the door and open it? Seeing the blob and then Pathwell slams it shut? Then he panics about the cookbook?”  
 **Source of truth:** [current Chapter 1](../../../Chapters/Chapter_01.txt), including adopted party/notebook cue R48/P56 and the chosen concrete cookbook action R49/P57.  
 **Candidate:** [EXP-0010B — complete noncanonical Chapter 1 with early door glimpse](EXP-0010B-Ch01-Door-Glance-Chain-Candidate-2026-10-16.txt).  
@@ -92,3 +92,11 @@ Elizabeth acts **before** Pathwell controls her responses; she is not simply wat
 **Recommended order of next work:** (1) obtain the author's impression of this full-context draft; (2) test A/B with uninformed readers or at least a new reader not given the answer; (3) if selected, make those three changes together and inspect scene geography; (4) only then return to the remaining R38 requests: richer first magic, Pathwell's “Good… that's good”, cutting the doubled impact note, and fixing the rogue falling box and bathroom-door blocking.
 
 **No canon approval claimed; no reader panel or independent L4 run has occurred.** The author saying “go for it” in this turn was applied to the **recommended physical cookbook action and creating this door test**, not treated as retrospective approval of a full new door sequence.
+
+## Adoption record — 2026-10-16 (R50 / P58)
+
+After reading the B-candidate presentation, the author said **“go for it.”** The live [Chapter 1](../../../Chapters/Chapter_01.txt) was replaced with the exact existing full [B candidate](EXP-0010B-Ch01-Door-Glance-Chain-Candidate-2026-10-16.txt) and fetched again from GitHub to verify literal equality. **Production commit:** [157caf3](https://github.com/BigCatMellow-Archive/Pathwell/commit/157caf3c0ed59d41628e36db9668347060316b58); **new blob:** `4545631a3441514e6d337fb628c45742ceef933d`. A three-replacement reconstruction from the previous live chapter also matched the candidate exactly. This is **not** a silent adoption of the previously separate, longer glow paragraph in EXP-0009 or any other R38 edits.
+
+**Reader effect remains a hypothesis:** We have no independent cold-reader results for the new early glimpse. Review its plausibility, whether the wet substance in the gap is frightening enough, the chain/bolt blocking, whether Pathwell's immediate return to rummaging lands as intentional character behavior or odd disregard, and the later “Now she could see the whole thing” reveal. Do not claim L4 yet.
+
+The trial filename still says “Candidate” because it is **historical test evidence**; the canonical source of truth is now `Story/Chapters/Chapter_01.txt`. The earlier control A remains visible in Git history prior to the production commit.
