@@ -37,3 +37,17 @@ Read the book in order, without saying which ending is under test; after the las
 
 ## Decision
 **A remains selected; B and C remain conditional tests, D excluded.** No prose or ending change. Readers should not be told to infer a lack of forgiveness before answering.
+
+## Author feedback after control design — 2026-10-16
+
+**Author (tentative):** “Maybe understanding or like, she knows now isnt the time to press him and he needs a distraction?”
+
+**Updated reader hypothesis:** Elizabeth hears a shame-driven admission and recognizes that further questioning in this moment may not be helpful. She can offer **companionship and a practical distraction** through an outing she independently wants. This is **not stated forgiveness**, not a solemn decision to rehabilitate Pathwell, and not proof the issue is resolved. His offered company is not the price of her invitation.
+
+**Controls remain unchanged** until tested, but the reading question should be broader than binary “forgiven / unforgiven.” Test whether the current ending communicates:
+1. She understands why he confessed and isn't trying to make him confess again.
+2. She knows the emotional conversation needn't be finished tonight.
+3. She still wants the geese trip herself, and is **not now responsible for treating his shame**.
+4. She chooses to invite a flawed companion rather than declare moral equivalence or pardon.
+
+This is a **possible motivation**, not author approval for an extra interior monologue, therapy-like dialogue, a one-hour grief-processing scene or a change to the “Perfect.” lines. The author-origin wording is in the [feedback record](../AUTHOR-FEEDBACK-2026-10-16-Opening-Choice-Invitation.md).
