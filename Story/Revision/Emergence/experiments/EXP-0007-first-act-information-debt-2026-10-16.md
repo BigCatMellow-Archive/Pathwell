@@ -40,6 +40,12 @@ Log when a reader answers confidently, tentatively, incorrectly or declines. Com
 ## Outcome and next action
 **Tabletop result: Q1 plausibly paid; Q2 partially paid and likely worth an actual reader test.** The October panel predates P54, so it supports prioritization but is not independent proof of the current manuscript's effect. If current uninformed readers stumble, submit control A versus single-clue B for author evaluation. **No change to prose, lore, canon or Decisions.**
 
+## Focused follow-on, 2026-10-16
+
+[EXP-0008](EXP-0008-Ch01-Entry-Motive-Cue-Controlled-Comparison-2026-10-16.md) carries this forward into a **real noncanonical A/B prose comparison**. Candidate B inserts two short party-memory sentences about an unknown guest's interest in an open box of old notebooks; the complete alternative chapter is linked there. It has **not** been promoted or blind-reader tested. The original inference that a “slightly open apartment” and party-inside-flat are necessarily incompatible was too strong; both can occur if the door was open for visitors, but the actual entry details are still unshown and should not be asserted as canon. The clearer author-confirmed problem is **motivation legibility**.
+
+---
+
 ## Author feedback and discovery of a staging conflict — 2026-10-16
 
 **Author:** “No I dont believe they do.”
