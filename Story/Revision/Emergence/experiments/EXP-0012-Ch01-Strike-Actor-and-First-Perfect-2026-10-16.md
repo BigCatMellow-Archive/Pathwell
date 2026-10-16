@@ -73,3 +73,11 @@ The author already selected **C for EXP-0011** (Nana's illuminated handwriting),
 2. Read the two “Perfect” moments aloud as **one pair**. Decide whether the first is an idiomatic Pathwell reflex that intentionally foreshadows the last, or a weaker duplicate the author wanted to avoid.
 3. If approved, update canonical Chapter 1 with exact individual selections, the [Decisions ledger](../../Decisions.md), [Pass Log](../../Pass-Log.md) and [Revision Status](../../../../Revision-Status.md). Do not retroactively claim either was approved by an earlier undifferentiated “continue.”
 4. Perform a genuinely unprimed Chapter 1 read once structural and character-voice choices are settled. The work remains **L3**, not L4.
+
+## Parallel experiment files discovered during verification
+
+The same research directory also contains [EXP-0012B-Early-Perfect](EXP-0012B-Ch01-Early-Perfect-to-Good-2026-10-16.txt), [EXP-0012C-First-Refusal](EXP-0012C-Ch01-First-Refusal-Cut-2026-10-16.txt), and [EXP-0012D-Marked-Preamble](EXP-0012D-Ch01-Marked-Preamble-Cut-2026-10-16.txt). Their shared numeric prefix overlaps this study's **A/B/C strike/dialogue** candidate IDs, but the descriptive filenames identify distinct independent probes.
+
+**Verified source caveat:** Each of those three complete-chapter files was constructed from the version **immediately before P60's fallen-gold wording fix**, with its one advertised substitution layered on top. They are therefore **not** byte-for-byte-current Chapter 1 apart from that advertised change. This does *not* invalidate the proposed first-refusal cut or “marked” preamble cut; it means those full-chapter files must **not** be copied wholesale into production. Any future selected substitution should be re-applied directly to the current [canonical source](../../../Chapters/Chapter_01.txt) and compared by exact replacement to avoid reverting P60.
+
+The author has not selected these additional files in this conversation. They are evidence of alternatives only. Keep the decision gate separate, especially since [the current “Good… that's good” controlled file](EXP-0012C-Ch01-Good-Thats-Good-Dialogue-2026-10-16.txt) independently covers the same first-Perfect change while preserving current gold wording.
