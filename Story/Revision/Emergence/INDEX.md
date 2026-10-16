@@ -4,6 +4,14 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## First-act P63 evidence audit and neutral reader packet (2026-10-16)
+
+The user requested a fresh uninformed Chapters 1–3 review. The current session could re-read all **three complete current chapters**, but prior-project context prevents claiming an authentically *unprimed* reader result. The [**P63 manuscript-only first-act audit**](FIRST-ACT-P63-MANUSCRIPT-ONLY-READER-AUDIT-2026-10-16.md) records evidence separately from inference and identifies eight specific reading risks; its clearest new physical question is whether the diner scene in Chapter 2 visually establishes that Pathwell **takes Elizabeth's books from the table when he leaves**, before her late “He still has it” realization. The real target of the blob is **not** expected to be known by the end of Chapter 3; the 2026-10-08 simulated panel predates current revisions.
+
+The separate [**reader-only Chapters 1–3 packet**](../Reader-Reports/First-Act-2026-10-16/READER-PACKET.md) contains **no answers, story bible, author goals, prior critiques, spoilers or leading theory language**. Give that link and the chapters alone to a genuinely unfamiliar reader; log their own chapters-as-read notes before sharing any editor analysis. **No new reader has answered it; no current source prose changed; L4 remains open.**
+
+---
+
 ## P62 — departure dialogue and first-act custody (2026-10-16)
 
 [**P62 controlled editorial result and Chapters 1–3 handoff**](CH01-CH02-P62-DIALOGUE-DECISION-AND-TRANSITION-2026-10-16.md): The two author-marked **EXP-0014 B** trims are now in [canonical Chapter 1](../../Chapters/Chapter_01.txt) under working decision W21, following the user's “continue”; **the user did not explicitly choose B**. The first “Perfect.” and last “Perfect.” remain unchanged. Chapter 2 received the author's narrow opening-speaker attribution fix, with no other prose changed. The saved [EXP-0014 B](experiments/EXP-0014B-Ch01-Refusal-and-Preamble-Cuts-2026-10-16.txt) and [C](experiments/EXP-0014C-Ch01-Author-Dialogue-Trio-2026-10-16.txt) remain historical comparison files (their low-tide sentence predates P61). **No current candidate file is promoted wholesale.**
