@@ -4,6 +4,14 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P64 reader recruitment and versioned first-act text (2026-10-16)
+
+The [**single-file reader edition of Chapters 1–3**](../Reader-Reports/First-Act-2026-10-16/READER-EDITION.md) is assembled from and checked against the three current canonical chapter bodies. It contains **no author notes, synopsis of intended answers, future-plot spoilers, or evaluation key**; only neutral instructions and the chapters. [**GitHub issue #3**](https://github.com/BigCatMellow-Archive/Pathwell/issues/3) invites an **actually unfamiliar reader** to read this edition, preserve a running chapter log, and return their responses without exposure to other readers' comments. [Neutral question packet](../Reader-Reports/First-Act-2026-10-16/READER-PACKET.md); [editor-only P63 questions/evidence](FIRST-ACT-P63-MANUSCRIPT-ONLY-READER-AUDIT-2026-10-16.md) **must not** be shown first.
+
+**State:** **Recruitment open; zero verified independent responses so far.** A GitHub issue and test edition are not a completed reading or permission to raise L3. No prose edits this pass. See [P64](../Pass-Log.md#p64-2026-10-16-launch-recruitment-handoff-for-authentic-first-act-blind-reader).
+
+---
+
 ## First-act P63 evidence audit and neutral reader packet (2026-10-16)
 
 The user requested a fresh uninformed Chapters 1–3 review. The current session could re-read all **three complete current chapters**, but prior-project context prevents claiming an authentically *unprimed* reader result. The [**P63 manuscript-only first-act audit**](FIRST-ACT-P63-MANUSCRIPT-ONLY-READER-AUDIT-2026-10-16.md) records evidence separately from inference and identifies eight specific reading risks; its clearest new physical question is whether the diner scene in Chapter 2 visually establishes that Pathwell **takes Elizabeth's books from the table when he leaves**, before her late “He still has it” realization. The real target of the blob is **not** expected to be known by the end of Chapter 3; the 2026-10-08 simulated panel predates current revisions.
