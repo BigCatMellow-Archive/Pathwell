@@ -4,6 +4,12 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Chapter 1 door-glimpse adoption — 2026-10-16
+
+The author selected [EXP-0010 B](experiments/EXP-0010-Ch01-Door-Glimpse-Blocking-and-Reader-Controls-2026-10-16.md) (“go for it”) and its **exact [full candidate](experiments/EXP-0010B-Ch01-Door-Glance-Chain-Candidate-2026-10-16.txt)** is now the [canonical Chapter 1](../../Chapters/Chapter_01.txt) under **R50/P58**. Elizabeth opens the chained door and Pathwell shuts it; the later break-in is the **full** rather than first glimpse. The original short magic line remains in place; EXP-0009's longer magic draft is still **not adopted**. **Independent cold read, other R38 notes, L4 remain open.** Older sections below describe the staging when it was only proposed.
+
+---
+
 ## Chapter 1 cookbook adoption and door-glimpse test — 2026-10-16
 
 The author authorized the **more physical Nana cookbook action**, and that isolated change is now in [canonical Chapter 1](../../Chapters/Chapter_01.txt) (R49/P57). [EXP-0009](experiments/EXP-0009-Ch01-First-Magic-and-Cookbook-Panic-2026-10-16.md) documents the exact selection; the optional longer glowing-ink beat remains **unapplied**. Note that the [EXP-0009B full trial](experiments/EXP-0009B-Ch01-First-Magic-Cookbook-Candidate-2026-10-16.txt) still contains both experiments and **does not represent the live chapter**.
