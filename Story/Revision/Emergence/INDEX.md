@@ -4,6 +4,12 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Chapter 1 annotated line notes — current disposition (2026-10-16)
+
+[**R38 / October 8 annotated Chapter 1 notes: live-source triage**](CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md) distinguishes completed R49/R50 prose work from open high-impact magical blocking and lower-risk mechanical fixes. The historical original notes still document what the author originally suggested; the triage uses the **latest** post-R50 manuscript. No new author choices or manuscript edits are asserted by the triage.
+
+---
+
 ## Chapter 1 — first-magic perception test after the approved door scene (2026-10-16)
 
 [EXP-0011 — A/B/C controlled comparison of Nana's handwriting becoming magical](experiments/EXP-0011-Ch01-First-Magic-Controlled-Comparison-2026-10-16.md) draws **each complete candidate from current post-R50 Chapter 1**, replacing only the original single spell-introduction sentence. [B — restrained movement of gold](experiments/EXP-0011B-Ch01-First-Magic-Restrained-2026-10-16.txt) and [C — close reading of the illuminated ink](experiments/EXP-0011C-Ch01-First-Magic-Ink-and-Perception-2026-10-16.txt) are **noncanonical**. C is the leading author-review candidate, with a strong counterargument in favor of leaving the original quick magic sentence untouched. Neither new proposal changes the sugar-cookie memory or page-loss mechanics. **No new author ruling or production prose edit** follows from this analysis.
