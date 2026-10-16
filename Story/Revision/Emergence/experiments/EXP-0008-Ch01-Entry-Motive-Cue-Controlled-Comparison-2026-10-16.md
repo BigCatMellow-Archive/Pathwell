@@ -1,7 +1,7 @@
 # EXP-0008 — Chapter 1: make the scavenging legible without spending the mystery
 
 **Date:** 2026-10-16  
-**Status:** NONCANONICAL PROSE EXPERIMENT + INFORMED COMPARATIVE REVIEW COMPLETED; **AUTHOR SELECTION AND UNINFORMED READER TEST STILL OPEN**  
+**Status:** **CANDIDATE B SELECTED BY AUTHOR AND IMPLEMENTED IN CHAPTER 1 (R48 / P56)**; informed comparison complete, **uninformed reader comparison and broader R38 author-notes pass still open**  
 **Decision owner:** Author  
 **Scope:** The two paragraphs between the opening party inventory and first blob thud; no new scene/prologue, no additional subplot, no production manuscript changes.  
 **Parent:** [EXP-0007](EXP-0007-first-act-information-debt-2026-10-16.md), [author clarification](../AUTHOR-FEEDBACK-2026-10-16-Opening-Choice-Invitation.md), original [Aug 22 party-entry intent](../../../Interview/BIBLE_DECISIONS_2026-08-22.md#3-chapter-1-entry-and-false-importance-setup), [R38 line notes](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md).
@@ -89,3 +89,9 @@ Success requires that a reader can articulate **a scavenger who seized an opport
 **B preferred for an author/look-again read**, because it is both small and physical; it avoids additional magic exposition and leaves Ch1's best beats intact. **Do not automatically promote**: author should choose keep A, adopt B or request another probe. A/B cold-reader comparison remains outstanding. Current `Story/Chapters/Chapter_01.txt` and `Decisions.md` stay unchanged. If the author selects B, coordinate with R38's already-open author line notes rather than doing competing sequential Ch1 edits.
 
 **Related:** [INS-0009](../insights/INS-0009-opening-premise-contract.md), [whole-book sweep](../BOOK-WIDE-SWEEP-2026-10-16.md).
+
+## Author adoption / production result — 2026-10-16
+
+The author responded **“I like it”** when shown the B candidate and asked what comes next. This approves the specific proposed clue. **R48 / P56:** copied B exactly into [canonical Chapter 1](../../../Chapters/Chapter_01.txt). Verification: the live Chapter 1 matched the stored candidate **byte-for-byte in UTF-8 content** at fetch, with only the 149-character insertion beyond the immediately previous manuscript; blob SHA `ee5e5ad6db1dc3a02f2401227e42225523b36f45`. The first “It was the crash that woke her.” and the original “Ready?” / “No.” / “Perfect.” ending are unchanged. The formerly noncanonical candidate file is now a **historic review/control artifact identical to the adopted Chapter 1**, not a second governing manuscript.
+
+**Do not mistake this limited approval for:** authorization to add the Ch3 party flashback, to edit the door/glimpse sequence, to make additional R38 changes, to retroactively classify this as cold-reader-tested, or to rewrite the active Bible's party-entry logistics. The reader comprehension question is **improved by author selection but not independently verified**.
