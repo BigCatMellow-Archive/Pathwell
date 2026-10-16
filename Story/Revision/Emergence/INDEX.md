@@ -4,6 +4,14 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## First-magic C and mechanical pass adopted — 2026-10-16
+
+**Canon changed:** The author selected the **exact EXP-0011 C** gold-tracing-Nana's-handwriting passage, now live as **R51/P59** in [Chapter 1](../../Chapters/Chapter_01.txt). Later **P60** addressed four small R38 mechanical issues: assigned Pathwell the pushed box, removed a repeated bright-note sentence after “The impact sang,” clarified the blob's extinguishing of fallen gold threads and revised Elizabeth's bathroom exit. See the [updated author-notes disposition](CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md). The historical EXP-0011C full chapter predates P60; it is **not** the latest full manuscript.
+
+**Open separately:** [EXP-0012 — ambiguous defensive strike and the first “Perfect”](experiments/EXP-0012-Ch01-Strike-Actor-and-First-Perfect-2026-10-16.md) contains **three noncanonical, one-change-per-file controls**: [active Pathwell movement](experiments/EXP-0012A-Ch01-Spell-Strike-Active-2026-10-16.txt), [unattributed flash](experiments/EXP-0012B-Ch01-Spell-Strike-Flash-2026-10-16.txt), and [author's proposed “Good… that's good”](experiments/EXP-0012C-Ch01-Good-Thats-Good-Dialogue-2026-10-16.txt). **None is approved or applied.** The underlying spell rules and the final “Perfect” remain unchanged. Chapter 1 still awaits independent reader review and author whole-chapter approval before L4.
+
+---
+
 ## Chapter 1 annotated line notes — current disposition (2026-10-16)
 
 [**R38 / October 8 annotated Chapter 1 notes: live-source triage**](CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md) distinguishes completed R49/R50 prose work from open high-impact magical blocking and lower-risk mechanical fixes. The historical original notes still document what the author originally suggested; the triage uses the **latest** post-R50 manuscript. No new author choices or manuscript edits are asserted by the triage.
