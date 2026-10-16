@@ -4,6 +4,14 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Chapter 1 protective-page strike — continuation P61 (2026-10-16)
+
+The Chapter 1 ambiguous strike was resolved as a **reviser choice under the author's continuing-work direction**: Pathwell raises the already-active cookbook page and the blob hits its protective light. [EXP-0013 — source rules, alternatives, exact one-line implementation](experiments/EXP-0013-Ch01-Cookbook-Page-Defensive-Contact-2026-10-16.md). A separate sentence-grammar repair clarified the door cracking and low-tide smell without adding a new rule. **Neither is an explicit new author ruling or independent reader finding.**
+
+The [EXP-0014 dialogue comparison](experiments/EXP-0014-Ch01-Dialogue-Cuts-and-Bookend-Test-2026-10-16.md) examines **A: keep**, [**B: cut first refusal and “Understandable. But” together**](experiments/EXP-0014B-Ch01-Refusal-and-Preamble-Cuts-2026-10-16.txt), and [**C: the same cuts plus “Good… that's good”**](experiments/EXP-0014C-Ch01-Author-Dialogue-Trio-2026-10-16.txt). **A remains live.** B/C drafts were made before the last smell-grammar correction and are historical controls, not files to promote wholesale. The first and final “Perfect” still form a possible deliberate bookend. **Unprimed read and L4 remain open.**
+
+---
+
 ## First-magic C and mechanical pass adopted — 2026-10-16
 
 **Canon changed:** The author selected the **exact EXP-0011 C** gold-tracing-Nana's-handwriting passage, now live as **R51/P59** in [Chapter 1](../../Chapters/Chapter_01.txt). Later **P60** addressed four small R38 mechanical issues: assigned Pathwell the pushed box, removed a repeated bright-note sentence after “The impact sang,” clarified the blob's extinguishing of fallen gold threads and revised Elizabeth's bathroom exit. See the [updated author-notes disposition](CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md). The historical EXP-0011C full chapter predates P60; it is **not** the latest full manuscript.
