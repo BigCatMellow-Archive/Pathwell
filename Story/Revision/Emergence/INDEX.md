@@ -2,7 +2,37 @@
 Date: 2026-10-15
 Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
-Scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54)
+Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
+
+## Whole-book sweep, 2026-10-16 — current research entry point
+
+**[Read the 18-chapter evidence log and cross-book connections](BOOK-WIDE-SWEEP-2026-10-16.md).** This is the entry point for the author's requested full-book Emergence/Insights pass. It cross-checks the active main-series chapters, current decisions and older panel evidence; **no story text, canon or author rulings are changed** by these discovery artifacts. Historical portions of this index below were recorded *before* the author-selected R45–R47 and P54 changes; references there to a merely proposed future Ch14–18 rewrite are **date-stamped historical state**, not a claim about the present manuscript.
+
+### New local insights — status RAW / not promoted
+
+| ID | Connection | Source |
+| --- | --- | --- |
+| INS-0004 | Choosing for others vs failing to answer a plea | [Aid, initiative and omission](insights/INS-0004-action-inaction-authority.md) |
+| INS-0005 | Ownership, use, custody, copies and non-replacement | [Custody and irreplaceability](insights/INS-0005-custody-irreplaceability.md) |
+| INS-0006 | Free choice is not necessarily the wise choice | [Agency with consequences](insights/INS-0006-agency-with-consequences.md) |
+| INS-0007 | Shade's new life is learned, not inherited | [Shade's learned life](insights/INS-0007-shade-learned-life.md) |
+| INS-0008 | Archives witness losses without making them exchangeable | [Archive as witness](insights/INS-0008-archive-as-witness.md) |
+| INS-0009 | Blob's target and Pathwell's motive at the party are different questions | [Opening premise contract](insights/INS-0009-opening-premise-contract.md) |
+| INS-0010 | The “Ready? / No. / Perfect.” bookend shifts who asks | [Ready inversion](insights/INS-0010-ready-inversion.md) |
+
+### New syntheses and bounded tabletop experiments
+
+| ID | Purpose | Result |
+| --- | --- | --- |
+| [SYN-0003](synthesis/SYN-0003-authority-versus-action.md) | Action, aid, authority, consent and omission together | CLARIFIED; not promoted |
+| [SYN-0004](synthesis/SYN-0004-custody-without-restoration.md) | Voluntary use, loss, records, people and honest copies | CLARIFIED; not promoted |
+| [EXP-0005](experiments/EXP-0005-withheld-aid-counterfactual-2026-10-16.md) | Could Pathwell have summoned practically useful extra help? | Tabletop completed; blind reader test open |
+| [EXP-0006](experiments/EXP-0006-invitation-reader-controls-2026-10-16.md) | Is Elizabeth's invitation mistaken for forgiveness? | Controls outlined; blind reader test open |
+| [EXP-0007](experiments/EXP-0007-first-act-information-debt-2026-10-16.md) | Opening blob-target answer vs why Pathwell was at her party | Information mapping complete; blind reader test open |
+
+**Priority:** first validate EXP-0005 and EXP-0006 against *uninformed* readers before altering the approved climax/ending. Then retest EXP-0007, including against the already proposed Chapter 3 flashback control. The October 8 reader panel predates the October 15 climax rewrite. The existing L4 independent reader and author approval gate remains separate. No MAP CLI registry or promotion implied.
+
+---
 
 ## How to use
 
