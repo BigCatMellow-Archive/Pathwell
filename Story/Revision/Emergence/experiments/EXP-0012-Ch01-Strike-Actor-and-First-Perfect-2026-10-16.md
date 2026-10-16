@@ -81,3 +81,10 @@ The same research directory also contains [EXP-0012B-Early-Perfect](EXP-0012B-Ch
 **Verified source caveat:** Each of those three complete-chapter files was constructed from the version **immediately before P60's fallen-gold wording fix**, with its one advertised substitution layered on top. They are therefore **not** byte-for-byte-current Chapter 1 apart from that advertised change. This does *not* invalidate the proposed first-refusal cut or “marked” preamble cut; it means those full-chapter files must **not** be copied wholesale into production. Any future selected substitution should be re-applied directly to the current [canonical source](../../../Chapters/Chapter_01.txt) and compared by exact replacement to avoid reverting P60.
 
 The author has not selected these additional files in this conversation. They are evidence of alternatives only. Keep the decision gate separate, especially since [the current “Good… that's good” controlled file](EXP-0012C-Ch01-Good-Thats-Good-Dialogue-2026-10-16.txt) independently covers the same first-Perfect change while preserving current gold wording.
+
+## Follow-up status — strike staging now revised under P61
+
+[EXP-0013](EXP-0013-Ch01-Cookbook-Page-Defensive-Contact-2026-10-16.md) developed and implemented a **fourth strike option** grounded directly in the established active cookbook page: Pathwell raises it between himself and the blob; the blob makes contact; protective light bursts. This supersedes the original *strike-actor* uncertainty in the live chapter without asserting a reusable attack spell. It is **working decision W20**, not a new explicit author ruling.
+
+**Open here:** the first “Perfect” / proposed “Good… that's good” remains untouched. For the combined departure pacing alternatives, use the current-source [EXP-0014](EXP-0014-Ch01-Dialogue-Cuts-and-Bookend-Test-2026-10-16.md) rather than the old all-chapter draft files in this section. The newer P61 front-door scent grammar also means the older EXP-0012 complete files are historical samples, not a copy-ready production baseline.
+
