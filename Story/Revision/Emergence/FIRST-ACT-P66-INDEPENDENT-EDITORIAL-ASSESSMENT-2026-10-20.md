@@ -196,6 +196,7 @@ Full A/B/C text, comparisons and patch files are in [EXP-0015](experiments/EXP-0
 
 | # | Problem | Recommended | Alternative | Rejected |
 | --- | --- | --- | --- | --- |
+| 0 | Nobody asks (A2) | **B0 (author's line):** "What are you still doing here?" / He turned a page. | **C0:** reply "Reading," |  "Do you mind?" kept with "Not at all," (reply no longer fits) |
 | 1 | Motive never connected Ch1→Ch3 (A1–A2) | **B1:** one line of Elizabeth's inference at the counter | — | **C1:** Elizabeth asks aloud (adds a fourth nonanswer to Ch3) |
 | 2 | Order appears from nowhere (A3, C) | **B2:** one sentence: the pile Pathwell "must have built while she was out" | **C2:** show his dusty sleeves on waking, then the pile | — |
 | 3 | Page tear not shown (A5) | **B3:** "tore free and" | **C3:** "Paper tore." | adhesion or any new rule |
@@ -219,6 +220,7 @@ Applied together (B1+B2+B3+R1), the four patches change five lines in two files,
 
 | Candidate | What the author is approving | Risk | Gate |
 | --- | --- | --- | --- |
+| B0 (or C0) | the author's own Ch1 question, with the reply changed to fit (silent page-turn, or "Reading,") | small: Elizabeth slightly less reflexively polite | author picks the reply |
 | R1 | delete one word | none known | author's “go” |
 | B3 (or C3) | one phrase (or one two-word sentence) | slight pace cost (C3 more) | author's “go” |
 | B2 (or C2) | one sentence replaced (or two small edits) | none known | author's “go” |

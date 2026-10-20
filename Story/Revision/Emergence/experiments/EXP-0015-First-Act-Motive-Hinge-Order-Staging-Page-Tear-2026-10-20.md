@@ -10,6 +10,28 @@ The wording of every new line is offered for the author's ear, not as settled vo
 
 ---
 
+## Candidate 0 — Elizabeth asks the question (Ch1) — author-proposed, 2026-10-20
+
+**Source.** The author's response to P66's central finding: "rather than her asking 'do you mind' its 'what are you still doing here?'" Her line is his own wording. "Do you mind?" is also his own July line (`765b69b`); the reply "Not at all," was added in a later revision pass.
+
+**Knock-on reviewed under R26.** The current reply only works as an answer to "Do you mind?" (literal reply to a politeness idiom). With the new question it answers nothing, so the reply has to change with it.
+
+**A — current:** “She watched for a moment before interrupting. "Do you mind?"” / “"Not at all," he said, and turned a page.”
+
+**B0 — recommended:** `"What are you still doing here?"` / `He turned a page.`  
+Patch: [EXP-0015-B0-Ch01-Still-Doing-Here-Silent.patch](EXP-0015-B0-Ch01-Still-Doing-Here-Silent.patch)
+
+**C0 — alternative:** `"What are you still doing here?"` / `"Reading," he said, and turned a page.`  
+Patch: [EXP-0015-C0-Ch01-Still-Doing-Here-Reading.patch](EXP-0015-C0-Ch01-Still-Doing-Here-Reading.patch)
+
+Why B0: the very next lines are “A thud hit the front door. Wet. Heavy.” / “He looked up at the door. Then at her.” With a silent page-turn, her question doesn't get his attention and the thud does, which shows his priorities without a new joke. C0 keeps a spoken dodge in the author's register for Pathwell, but it's a new joke line, which is the author's to write; and every added nonanswer counts against the P65 complaint.
+
+**What it fixes.** The question is now on the page from the first exchange, unanswered and interrupted, so the reader knows the story knows it's open. "Still" also confirms what ¶9 implies: he should have left with the other guests. **It pairs with B1:** she asks in Ch1 and works out her own answer at the Ch3 counter. Without B1 the question is asked but never returned to; without Candidate 0, B1 answers a question nobody asked. Together they are the full fix for P66 A1–A2.
+
+**Cost.** "Do you mind?" was Elizabeth's accommodating politeness even toward an intruder, a trait Ch4 picks up ("You're being awfully polite about it."). The new line is more direct. She is still mild, and Ch4's politeness has plenty of other support, so the cost is small.
+
+---
+
 ## Candidate 1 — the motive hinge (Ch3)
 
 **Problem.** Ch1 shows him reading her diary; Ch3 shows a shop that trades in personal writing, his debt to it, and her books treated as property he had no right to spend. Nobody connects the two, and nobody in the book ever asks what he was doing in her apartment. ([P66 A1–A2](../FIRST-ACT-P66-INDEPENDENT-EDITORIAL-ASSESSMENT-2026-10-20.md#a1-pathwells-immediate-motivation-handoff-concern-a))
@@ -129,10 +151,10 @@ P62 cut the earlier `Understandable. But` that this “Again” pointed back to.
 
 ## Verification
 
-- Every patch: `git apply --check` passes against `63dd268`. B1+B2+B3+R1 also apply together (5 lines in 2 files). C2 conflicts with B2 by design (same sentence); C3 with B3.
+- Every patch: `git apply --check` passes against `63dd268`. B0+B1+B2+B3+R1 also apply together. C0 conflicts with B0 by design. C2 conflicts with B2 by design (same sentence); C3 with B3.
 - Book-wide checker (`sunday_morning_check.py`, Registry, all 18 chapters) run on `63dd268` and on `63dd268` + B1+B2+B3+R1: identical except Chapter 3's paragraph count (139 → 140) and one existing Chapter 3 rate diluted (0.5 → 0.4 per 1,000 words). No new hits.
 - Curly-quoted current-text strings in this file were checked against the chapter files; historical text is shown in code formatting.
 
 ## Outcome
 
-Open. Recommended set for the author: **R1, B3, B2, B1** (in rising order of how much the author's ear matters). If adopted, apply as separate commits, record a pass, and version a new reader edition per P64.
+Open. Recommended set for the author: **R1, B3, B2, B0 + B1** (B0 and B1 are a pair: she asks in Ch1, she works it out in Ch3). The author has chosen Candidate 0's question; the reply (B0 silent or C0 "Reading,") is his pick. If adopted, apply as separate commits, record a pass, and version a new reader edition per P64.
