@@ -1,7 +1,7 @@
 # EXP-0015 — First act: motive hinge, counter-order staging, page tear
 
 **Date:** 2026-10-20  
-**Status:** CANDIDATES PREPARED AND VERIFIED; **NONE APPLIED TO `Story/Chapters/`; awaiting author**  
+**Status:** **AUTHOR-SELECTED AND APPLIED 2026-10-21 ([R53](../../Decisions.md#the-authors-rulings-for-this-revision), [P67](../../Pass-Log.md#p67-2026-10-21-author-selected-first-act-edits-from-exp-0015)): Candidate 0 with reply C0, B1, B2, B3, R1.** Not taken: B0, C2, C3, C1.  
 **From:** [P66 assessment](../FIRST-ACT-P66-INDEPENDENT-EDITORIAL-ASSESSMENT-2026-10-20.md), A1–A7  
 **Control (A) for every candidate:** the chapter text at `63dd26893a66eb58f194f66bee937eab6eb04477` (Ch1 blob `a105bc1c…`, Ch3 blob `7ac8171b…`).  
 **Method:** A = current; B = smallest change that addresses the problem; C = a meaningfully different approach, or the rejected option with the reason. Each candidate is a unified diff in this folder; adopt one with `git apply <patch>` from the repository root. Patches, not whole-chapter copies, so nothing stale can be pasted over later canon (the P61/P62 warning about EXP-0014's whole files).

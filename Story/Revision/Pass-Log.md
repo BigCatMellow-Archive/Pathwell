@@ -2697,3 +2697,23 @@ No stoppers. No missing light-touch moments: every chapter already has its soft 
 **OPEN / NEXT GATE:** Author decision on R1, B3 (or C3), B2 (or C2), B1 (new interiority; author's ear) and Q-O. If any are applied, follow P64's rule: keep the 2026-10-16 reader edition frozen and version a new one for issue #3. All chapters stay **L3**.
 
 **P66 ADDENDUM (2026-10-20, author response):** On the central finding, the author proposed Elizabeth's opening line become "What are you still doing here?" in place of "Do you mind?" (his own July line). Reviewed under R26: the change works and is the better place to raise the question (Ch1, interrupted by the thud) than the Ch3 asked-aloud option P66 had rejected; its only knock-on is that the reply "Not at all," (a later revision's addition) no longer answers anything. [EXP-0015 Candidate 0](Emergence/experiments/EXP-0015-First-Act-Motive-Hinge-Order-Staging-Page-Tear-2026-10-20.md#candidate-0--elizabeth-asks-the-question-ch1--author-proposed-2026-10-20): **B0** silent "He turned a page." (recommended: her question doesn't get his attention; the thud does) or **C0** "Reading," he said, and turned a page. B0 pairs with B1 (asked in Ch1, worked out by her at the Ch3 counter). Both patches pass `git apply --check`; B0+B1+B2+B3+R1 apply together. **Still no chapter edits:** the reply is the author's pick.
+
+## P67, 2026-10-21: author-selected first-act edits from EXP-0015
+
+**AUTHORITY:** [R53](Decisions.md#the-authors-rulings-for-this-revision). Asked directly which of the P66 candidates to apply, the author chose the reply C0 for his own Chapter 1 question, and all four of B1, B3, B2 and R1. The P66 review records (PR #4) were merged into `main` first, since the selections come from them.
+
+**DO (exact, from the EXP-0015 patches, applied with `git apply`):**
+1. Ch1: “She watched for a moment before interrupting. "Do you mind?"” / “"Not at all," he said, and turned a page.” → “…"What are you still doing here?"” / “"Reading," he said, and turned a page.” (author's question; reply C0)
+2. Ch1: “The sugar-cookie page stayed under his palm.” → “The sugar-cookie page tore free and stayed under his palm.” (B3)
+3. Ch1: “Then, "Again, understandable reaction.” → “Then, "Understandable reaction.” (R1)
+4. Ch3: new paragraph after “He went back to his ledger, making ticks and carrying ones.”: “Elizabeth thought of Pathwell on her living-room floor, turning the pages of her diary like he was pricing it.” (B1)
+5. Ch3: “The shopkeeper set the order on the counter and looked it over.” → “The shopkeeper turned to the pile at the far end of the counter, the one Pathwell must have built while she was out, and looked it over.” (B2)
+
+Blobs: Ch1 `a105bc1c` → `6b063462`; Ch3 `7ac8171b` → `75296137`. No other chapter changed.
+
+**CHECK:** The word diff against the previous blobs shows these five changes and nothing else. “Do you mind” and “Not at all,” no longer appear anywhere in the chapters. Book-wide checker before and after: only Ch3's paragraph count (139 → 140) and one Ch3 rate (0.5 → 0.4 per 1,000 words) move; no new hits. Regression controls: first line, party and notebook clue, chained-door glimpse, cookbook grab, Nana's memory, first-magic C, the marked bluff, “Ready?” / “No.” / “Perfect.”, Ch3's shopkeeper rebuke, prune and handcart all unchanged.
+
+**READER TEST:** Per P64, the [2026-10-16 reader edition](Reader-Reports/First-Act-2026-10-16/READER-EDITION.md) stays frozen as the old stimulus. A [2026-10-21 edition](Reader-Reports/First-Act-2026-10-21/READER-EDITION.md) carries the changed text, built from the chapter files and checked against them. [Issue #3](https://github.com/BigCatMellow-Archive/Pathwell/issues/3) still points at the old edition and has no responses; whether to repoint it is the author's call.
+
+**RECONCILE:** [Decisions R53](Decisions.md#the-authors-rulings-for-this-revision); [EXP-0015](Emergence/experiments/EXP-0015-First-Act-Motive-Hinge-Order-Staging-Page-Tear-2026-10-20.md) status; [Promise Ledger](Promise-Ledger.md) P1 and O1; [Revision Status](../../Revision-Status.md). Chapters 1 and 3 stay **L3**. Next, per the author: a fresh review of the 2026-10-15 climax and ending, Chapters 14–18.
+
