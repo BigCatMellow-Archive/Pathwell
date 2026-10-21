@@ -29,13 +29,14 @@ His words, in order. These are the method's rulings; the rules below are how the
 
 ## How the chart improved
 
-Three versions in one day. Each is saved in [versions/](versions/) so the difference can be seen, not just described.
+The first three experimental versions are saved in [versions/](versions/). The source-checked v4 revision is recorded in Git history and the [18-chapter thematic audit](THEMATIC_AUDIT_2026-10-21.md), so earlier hypotheses remain inspectable rather than being silently overwritten.
 
 | Version | Boxes | Levels | Center | What was wrong with it |
 | --- | --- | --- | --- | --- |
 | [v1: pillars](versions/v1-2026-10-20-pillars.json) | 73 | 2 | "The last page earns it" | A fixed 9×9: eight pillars of eight beats, and nothing below that. Every beat was a scene with a quote. (H2) |
 | [v2: recursive](versions/v2-2026-10-20-recursive.json) | 379 | 4 | "The last page earns it" | Any box could open, and it went deep where the story did. But the center was an event, the boxes were scene tags, and characters were spread across pillars instead of having their own sheets. (H3) |
-| [v3: message first](versions/v3-2026-10-20-message-first.json) | 464 | 5 | "Choose your own life, ready or not, and let other people choose theirs" | The current shape. Center is the message; around it, five characters and three story engines; every box says what it does for the box above. Its first check found six boxes with no note (v3.1 fixed them; see rule 5). |
+| [v3: message first](versions/v3-2026-10-20-message-first.json) | 464 | 5 | "Choose your own life, ready or not, and let other people choose theirs" | First message hypothesis. Structurally sound, but it made the book sound too much like a tidy lesson in individual freedom, minimized Shade's unchosen death and softened Pathwell's deliberate omission. |
+| [v4: manuscript/controlling-idea reconciliation](THEMATIC_AUDIT_2026-10-21.md) | 464 | 5 | "Control is not competence; others pay when you decide for them." | Rebuilt the center as an author-unapproved working statement from the authoritative controlling idea, corrected 39 supporting nodes across all eight branches and documented the 18-chapter counterevidence. No chapter changed. |
 
 ### The same boxes, three times
 
@@ -62,9 +63,9 @@ The rules that came out of these corrections now live in the general method, [St
 
 How this chart applies them:
 
-- **Center (rules 1–3):** drafted from the [Thesis page](../../../Thesis-and-Controlling-Ideas.md); still waiting on the author's words.
-- **Actors (rule 10):** Elizabeth uses the eight standard facets. Pathwell swaps Needs for **Flaw** and **Blind spot**. Shade swaps Needs and End for **A person in small things** and **His death has to cost something**. Stansbury and Camp use facets that fit their smaller roles. Mama Baga and Camp share one box (rule 13).
-- **Engines:** she was never the point; the magic spends real lives; the last page answers the first.
+- **Center (rules 1–3):** the original v3 draft was challenged against the [author's Thesis page](../../../Thesis-and-Controlling-Ideas.md) and Chapters 1–18; v4 uses a more faithful **working** controlling statement. The root has status `author` until the author accepts or revises the wording; a manuscript-supported interpretation is not a new author ruling.
+- **Actors (rule 10):** Elizabeth uses the eight standard facets. Pathwell swaps Needs for **Flaw** and **Blind spot**. Shade swaps Needs and End for **A person in small things** and **His life and death matter beyond Pathwell's guilt**. Stansbury and Camp use facets that fit their smaller roles. Mama Baga and Camp share one box (rule 13).
+- **Engines:** Elizabeth was not the target and still matters; magic can spend histories and futures; the final page changes the ethical meaning of the opening. Each is tested as a causal/thematic engine, not an isolated scene list.
 - **Problems (rule 16):** the motive gap sits under "She was never the point", the page tear under "The magic spends real lives", the Chapter 3 order on Pathwell's arc. The options come from EXP-0015 in the P66 review ([PR #4](https://github.com/BigCatMellow-Archive/Pathwell/pull/4); it moves into `Story/Revision/Emergence/experiments/` when that merges).
 - **Statuses (rule 20)** follow the [Promise Ledger](../Promise-Ledger.md).
 
@@ -78,9 +79,11 @@ How this chart applies them:
 | 2026-10-21 | v3.1 | Moved into the repo with the build script and this page. The script's first run caught six boxes with boxes inside and no note; notes added. (H4) |
 | 2026-10-21 | v3.2 | The method split out as a skill other agents can use ([Story/Harada-Method](../../Harada-Method/SKILL.md)): procedure, rules, wording reference, schema, a general checker and viewer, and an excerpt of this chart as the worked example. This chart now builds with it; the chart's content didn't change. |
 | 2026-10-21 | v3.3 | Added the agent edition, [pathwell-harada.md](pathwell-harada.md): the chart as a Markdown outline another agent can read cleanly, generated with the page on every build. The HTML stays for people. The author asked for this because the HTML wasn't the best form for an agent. |
+| 2026-10-21 | v4 candidate | Revisited the center using current author rulings and direct evidence from all 18 chapters. Changed the center, 39 supporting nodes and one loose theme decision note; preserved 464 IDs/quotes and rebuilt JSON, Markdown and HTML. [Thematic audit](THEMATIC_AUDIT_2026-10-21.md). The exact new sentence still needs author acceptance. |
 
 ## Still open
 
-- **The center sentence** is a draft from the Thesis page. It needs the author's words (rule 3).
+- **The center sentence** was rewritten to *“Control is not competence; others pay when you decide for them.”* using the active Thesis page and manuscript. This is a proposed thematic summary, **not** an author-approved replacement of the book's existing controlling idea. It remains labeled `author`; a final wording decision is still open.
 - **The Chapter 1 boxes still show "Do you mind?"**, because the author's "What are you still doing here?" isn't in the manuscript yet. When it lands, update those boxes and rebuild; the quote check will fail until they match.
-- **Wording pass.** v3's titles are a first pass at the new standard. The author's corrections to individual boxes are the best guide for the next version; record what he changes and why in this log.
+- **Reader-effect test.** The source-checked v4 chart still needs a genuinely unprimed test of whether a reader independently experiences the asserted theme, Shade's separate worth, the cause of Pathwell's omission, and the invitation without automatic pardon. Do not convert mechanical `paid` status into a reader-effect claim. See [thematic audit](THEMATIC_AUDIT_2026-10-21.md).
+- **Wording pass.** v4 fixes central and branch-level interpretive errors, but remaining individual titles can change when a verifiable reader or author objection warrants it. Avoid cosmetic renaming merely to inflate revision count.
