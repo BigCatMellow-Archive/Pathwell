@@ -20,11 +20,11 @@ Read only the titles on one sheet. For each one, ask: *could a stranger tell wha
 
 ## Real replacements
 
-From the Pathwell chart, v2 → v3. The v2 titles were all accurate; none of them said anything.
+Historical Pathwell chart, v2 → v3. The v2 titles were often accurate scene labels, but did not explain their role. **Important:** v3 fixed structure and wording, *not* thematic interpretation. Its center was later revised in v4 after a chapter-by-chapter counterexample check. Do not copy the v3 center as the canonical current thesis.
 
 | v2 (label) | v3 (statement) | Why it's better |
 | --- | --- | --- |
-| The last page earns it | Choose your own life, ready or not, and let other people choose theirs | The center is now the message, not a description of the ending's job. |
+| The last page earns it | Choose your own life, ready or not, and let other people choose theirs *(v3, subsequently challenged)* | A message rather than an event, but still too tidy: Shade dies against his will, and Pathwell's choices have lasting victims. v4 uses the active controlling idea instead. |
 | Elizabeth chooses her way here | Elizabeth: the one who learns to choose | An actor named by what she stands for, opening into eight facets. |
 | Seen first | Something was at her door before any magic | Says why the moment matters: it's the clue. |
 | Assumes she knows | He thought she'd know | Plain and in his point of view. |
@@ -44,3 +44,13 @@ The note is one or two sentences under the title. It says how this box gets to t
 ## Proposed wording
 
 Candidate text for the source goes in `proposed`, never in `quote` or `title`. Title the box by what the option is ("B3: “tore free and”", "C2: show the dust"), and put why in the note ("Recommended. Three words, no new magic.").
+
+## v4: a good-sounding center can still be wrong
+
+| Earlier statement | Current candidate | Evidence-based reason |
+| --- | --- | --- |
+| Choose your own life, ready or not, and let other people choose theirs | Control is not competence; others pay when you decide for them. | Rooted in the author’s controlling-idea document, Shade’s refusal and involuntary death, Pathwell’s deliberate non-call, and Elizabeth’s non-magical choices; exact wording awaits author approval. |
+| Start: she hands things over before she's decided to | Start: Elizabeth resists before anyone listens | The actual Chapter 1 has objections and refusals; she lacks effective control, not a will to object. |
+| His death has to cost something | His life and death matter beyond Pathwell's guilt | Shade has an ordinary life and preferences beyond what his loss teaches the protagonist. |
+
+**Method correction:** validate the *interpretation* against real scenes and counterexamples separately from validating the *quotation* against source text. Both are necessary; neither guarantees reader effect. [Pathwell full audit](../../Revision/Harada/THEMATIC_AUDIT_2026-10-21.md).
