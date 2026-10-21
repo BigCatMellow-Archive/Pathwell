@@ -1,7 +1,7 @@
 # EXP-0017 — Chapters 5–13: three cuts and one spelling question
 
 **Date:** 2026-10-21  
-**Status:** proposed; waiting on the author.  
+**Status:** **AUTHOR-SELECTED 2026-10-21 ([R56](../../Decisions.md#the-authors-rulings-for-this-revision), [P72](../../Pass-Log.md#p72-2026-10-21-author-selected-middle-cuts-from-exp-0017)): B1, B2 and B3 applied; the diner sign stays DINER, so Q1 is not taken.**  
 **From:** [P71 review](../MIDDLE-P71-CH05-13-REVIEW-2026-10-21.md), F1–F4  
 **Control (A):** the chapter text on `main` after P70. Each candidate is a patch in this folder; adopt one with `git apply <patch>` from the repository root.
 

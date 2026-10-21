@@ -2767,3 +2767,13 @@ Blobs: Ch14 `9b1be3f7` → `da48b224`; Ch16 `f61a3870` → `b752f794`; Ch17 `1ac
 **OUTCOME:** No structural problem found, and nothing argues for reversing an author decision. Kept with reasons: the Ch5 "I don't lie" beat (the panel read it as intended), W16, the Ch10 "Camp" order (the choice is still hers), Shade's escalating hand in Ch13, the Ch6–7 fragment stacks, the Ch5 second-person aside. "Fair." and L15 stay on watch.
 
 **RECONCILE:** [Revision Status](../../Revision-Status.md) manuscript note added and its "What's next" list rewritten (the old list dated from October 1 and is in git history). [Emergence index](Emergence/INDEX.md) entry added for P68 and P71. No chapter changed; all still L3.
+
+## P72, 2026-10-21: author-selected middle cuts from EXP-0017
+
+**AUTHORITY:** The author picked from the P71 candidates: all three cuts, and "Keep DINER" on the diner sign. Recorded as [R56](Decisions.md#the-authors-rulings-for-this-revision).
+
+**DO:** Applied [EXP-0017](Emergence/experiments/EXP-0017-Ch05-13-Middle-Candidates-2026-10-21.md) B1, B2 and B3 with `git apply`, unchanged. Ch7 now ends "…then a long empty stretch of road with nothing coming the other way." Ch12 reads "The diary had been one of the few things that was unequivocally hers." Ch13's list reads "a woman shaking flour from a cloth, a dog asleep under the cooking wagon." Ch9 not touched.
+
+**CHECK:** The diff is three lines across three chapters, cuts only. No other text moved.
+
+**RECONCILE:** EXP-0017 status, the P71 review header, [Revision Status](../../Revision-Status.md) (manuscript note; "What's next" item 1 marked done) and Decisions R56. P34's diner-sign question is closed by R56. Chapters 7, 12 and 13 still L3.

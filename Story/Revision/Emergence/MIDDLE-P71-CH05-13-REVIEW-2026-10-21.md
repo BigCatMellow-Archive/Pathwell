@@ -3,7 +3,7 @@
 **Date:** 2026-10-21  
 **Pass:** [P71](../Pass-Log.md#p71-2026-10-21-review-of-chapters-513)  
 **Source:** `main` after P70; Chapters 5–13 read in full. Earlier and later chapters read where a setup or payoff needed checking (Ch1, Ch3, Ch14–18). The [September assessment](../Assessment-2026-09-29.md#chapter-by-chapter), the [October 8 reader panel](../Reader-Reports/Panel-2026-10-08/) and the open "For the author" items in [P34](../Pass-Log.md) were checked so this review doesn't re-raise what's settled.  
-**Candidates:** [EXP-0017](experiments/EXP-0017-Ch05-13-Middle-Candidates-2026-10-21.md). **No chapter changed in this pass.**
+**Candidates:** [EXP-0017](experiments/EXP-0017-Ch05-13-Middle-Candidates-2026-10-21.md). **No chapter changed in this pass.** *Afterwards (R56, P72): the author took F1, F2 and F4's cuts and kept DINER (F3).*
 
 **Independence:** an informed review by an agent that didn't write the P25–P38 line passes. It is not a blind read and not the author's verdict, so it doesn't move any chapter past L3.
 
