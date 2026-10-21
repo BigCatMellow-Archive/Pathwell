@@ -1,0 +1,322 @@
+<title>__TITLE__</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Literata:ital,opsz,wght@0,7..72,400;1,7..72,400&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Harada chart viewer (Story/Harada-Method). Layout: an Open Window 64 sheet on archival board, recursive. Whatever box is the center, its eight sit around it and each of those sits at the heart of its own block with its own eight. Any box can become the center. Detail panel beside on wide screens; outline view on phones. */
+:root{
+  --bg:#E9EEF0; --paper:#FBFCFC; --ink:#1C2733; --muted:#5A6873; --rule:#C6D0D6; --rule-soft:#DCE3E7;
+  --marker:#1E4DA6; --marker-wash:#E3EAF8; --on-marker:#FBFCFC;
+  --paid:#2C7A58; --paid-wash:#E2F1EA; --thin:#A86A12; --thin-wash:#FBEFD9; --open:#66737E; --open-wash:#EEF1F3; --author:#7444AD; --author-wash:#EFE6FA; --danger:#B03A2E;
+  --f-hand:"Kalam","Comic Neue","Segoe Print",cursive;
+  --f-ui:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-quote:"Literata",Georgia,"Times New Roman",serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11161B; --paper:#192129; --ink:#E2E8EC; --muted:#93A1AB; --rule:#2E3A44; --rule-soft:#24303A;
+  --marker:#86A9F2; --marker-wash:#1E2A40; --on-marker:#0F1520;
+  --paid:#5FC69A; --paid-wash:#16302A; --thin:#E3AA4E; --thin-wash:#33281A; --open:#94A0AA; --open-wash:#222B33; --author:#BC98EA; --author-wash:#2C2240; --danger:#EE8A7E;
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11161B; --paper:#192129; --ink:#E2E8EC; --muted:#93A1AB; --rule:#2E3A44; --rule-soft:#24303A;
+  --marker:#86A9F2; --marker-wash:#1E2A40; --on-marker:#0F1520;
+  --paid:#5FC69A; --paid-wash:#16302A; --thin:#E3AA4E; --thin-wash:#33281A; --open:#94A0AA; --open-wash:#222B33; --author:#BC98EA; --author-wash:#2C2240; --danger:#EE8A7E;
+  color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-ui);font-size:15px;line-height:1.5}
+.wrap{max-width:1340px;margin:0 auto;padding-block:26px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:16px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px}
+.eyebrow{font-family:var(--f-mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{margin:4px 0 0;font-size:clamp(24px,3.2vw,34px);line-height:1.15;font-weight:700;letter-spacing:-.01em;text-wrap:balance}
+.lede{margin:6px 0 0;color:var(--muted);max-width:66ch}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+button{font:inherit;color:inherit}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:8px;overflow:hidden;background:var(--paper)}
+.seg button{padding:7px 14px;font-size:13px;background:transparent;border:0;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.btn{font-size:13px;padding:7px 14px;border:1px solid var(--rule);border-radius:8px;background:var(--paper);cursor:pointer}
+.btn.primary{background:var(--marker);border-color:var(--marker);color:var(--on-marker);font-weight:600}
+.btn.danger{color:var(--danger)}
+.btn:disabled{opacity:.45;cursor:default}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.crumbs{display:flex;flex-wrap:wrap;gap:4px;align-items:center;font-size:13px;min-width:0}
+.crumbs button{background:none;border:0;padding:3px 6px;border-radius:5px;cursor:pointer;color:var(--marker);font-weight:500}
+.crumbs button:hover{background:var(--marker-wash)}
+.crumbs .here{padding:3px 6px;font-weight:700}
+.crumbs .sep{color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:center;gap:6px;padding:5px 10px;border:1px solid var(--rule);border-radius:999px;background:var(--paper);font-size:13px;cursor:pointer;font-variant-numeric:tabular-nums}
+.chip[aria-pressed="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.dot{width:9px;height:9px;border-radius:50%;flex:none;display:inline-block}
+.dot.paid{background:var(--paid)} .dot.thin{background:var(--thin)} .dot.open{background:transparent;border:1.5px dashed var(--open)} .dot.author{background:var(--author)}
+button:focus-visible,summary:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:2px solid var(--marker);outline-offset:2px}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 350px;gap:20px;align-items:start}
+@media (max-width:1100px){.layout{grid-template-columns:minmax(0,1fr)}}
+.board{overflow-x:auto;padding-bottom:4px}
+.sheet{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;min-width:980px;background:var(--rule);padding:9px;border-radius:6px}
+.block{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:2px;background:var(--rule-soft)}
+.cell{position:relative;background:var(--paper);min-height:98px;padding:8px 8px 22px;display:flex;flex-direction:column;gap:4px;cursor:pointer;border:0;text-align:left;transition:opacity .15s,background .15s}
+.cell:hover{background:var(--marker-wash)}
+.cell .ch{font-family:var(--f-mono);font-size:10.5px;color:var(--muted);letter-spacing:.04em;padding-right:14px}
+.cell .lbl{font-size:12.5px;line-height:1.3;font-weight:500;overflow-wrap:anywhere;padding-right:12px}
+.cell .st{position:absolute;top:9px;right:8px}
+.cell .inside{position:absolute;left:8px;bottom:6px;display:inline-flex;gap:5px;align-items:center;font-family:var(--f-mono);font-size:10px;color:var(--marker);letter-spacing:.03em}
+.cell .inside .dot{width:7px;height:7px}
+.cell.hub{background:var(--marker-wash)}
+.cell.hub .lbl{font-family:var(--f-hand);font-weight:700;font-size:15px;line-height:1.15;color:var(--marker)}
+.cell.hub .ch{color:var(--marker)}
+.cell.char .ch{color:var(--author);font-weight:600}
+.cell.focus{background:var(--marker);justify-content:center;cursor:default}
+.cell.focus .lbl{font-family:var(--f-hand);font-weight:700;font-size:16px;line-height:1.2;color:var(--on-marker)}
+.cell.focus .ch,.cell.focus .inside{color:var(--on-marker);opacity:.85}
+.cell.empty{background:transparent;cursor:default;min-height:98px}
+.cell.empty.addable{cursor:pointer;border:1.5px dashed var(--rule);background:var(--paper);align-items:center;justify-content:center;color:var(--muted);font-size:12.5px;padding:8px}
+.cell.thin{box-shadow:inset 0 -3px 0 var(--thin)}
+.cell.author{box-shadow:inset 0 -3px 0 var(--author)}
+.cell.dim{opacity:.28}
+.cell.sel{outline:2px solid var(--ink);outline-offset:-2px;z-index:1}
+.panel{background:var(--paper);border:1px solid var(--rule);border-radius:8px;padding:18px;display:flex;flex-direction:column;gap:12px;position:sticky;top:calc(env(safe-area-inset-top,0px) + 16px);max-height:calc(100vh - 32px);overflow:auto}
+@media (max-width:1100px){.panel{position:static;max-height:none}}
+.panel h2{margin:0;font-size:19px;line-height:1.25;text-wrap:balance}
+.panel .meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-family:var(--f-mono);font-size:11.5px;color:var(--muted)}
+.pill{display:inline-flex;align-items:center;gap:6px;font-family:var(--f-ui);font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;white-space:nowrap}
+.pill.paid{background:var(--paid-wash);color:var(--paid)} .pill.thin{background:var(--thin-wash);color:var(--thin)} .pill.open{background:var(--open-wash);color:var(--open)} .pill.author{background:var(--author-wash);color:var(--author)}
+blockquote{margin:0;padding:10px 14px;border-left:3px solid var(--marker);background:var(--bg);font-family:var(--f-quote);font-style:italic;font-size:15px;line-height:1.5;overflow-wrap:anywhere}
+.proposed{border-left-color:var(--author);font-style:normal}
+.proposed::before{content:"Proposed wording · not in the source yet";display:block;font-family:var(--f-mono);font-style:normal;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--author);margin-bottom:4px}
+.panel p{margin:0}
+.how{display:flex;flex-direction:column;gap:5px}
+.muted{color:var(--muted)}
+.tally{display:flex;flex-wrap:wrap;gap:6px}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+.hint{font-size:12.5px;color:var(--muted)}
+.form{display:flex;flex-direction:column;gap:10px;border-top:1px solid var(--rule-soft);padding-top:12px}
+.form label{display:flex;flex-direction:column;gap:4px;font-size:12px;font-weight:600;color:var(--muted)}
+.form input,.form textarea,.form select{font:inherit;font-size:14px;font-weight:400;color:var(--ink);background:var(--bg);border:1px solid var(--rule);border-radius:6px;padding:7px 9px;width:100%;box-sizing:border-box}
+.form textarea{min-height:64px;resize:vertical}
+.form .row2{display:grid;grid-template-columns:90px minmax(0,1fr);gap:10px}
+.notice{font-size:13px;padding:8px 10px;border-radius:6px;background:var(--author-wash);color:var(--ink)}
+.notice.err{background:var(--thin-wash)}
+/* outline */
+.outline{display:flex;flex-direction:column;gap:10px}
+.outline details{border-left:1px solid var(--rule);margin-left:6px;padding-left:10px}
+.outline > details{background:var(--paper);border:1px solid var(--rule);border-radius:8px;margin:0;padding:4px 12px 8px}
+.outline summary{cursor:pointer;list-style:none;display:grid;grid-template-columns:44px minmax(0,1fr) auto;gap:8px;align-items:baseline;padding:7px 0}
+.outline summary::-webkit-details-marker{display:none}
+.outline summary .ch{font-family:var(--f-mono);font-size:11px;color:var(--muted)}
+.outline summary .t{font-weight:500;min-width:0;overflow-wrap:anywhere}
+.outline summary .t small{font-family:var(--f-mono);font-size:10.5px;color:var(--marker);margin-left:6px;font-weight:500}
+.outline .body{display:flex;flex-direction:column;gap:6px;padding:0 0 8px 52px}
+.outline .body .note{font-size:13px;color:var(--muted)}
+.outline .leaf{display:grid;grid-template-columns:44px minmax(0,1fr) auto;gap:8px;align-items:baseline;padding:7px 0 7px 0;border-left:1px solid var(--rule);margin-left:6px;padding-left:10px}
+.outline .dim{opacity:.3}
+.outline .goal{background:var(--marker);color:var(--on-marker);border-radius:8px;padding:14px 16px}
+.outline .goal b{font-family:var(--f-hand);font-size:21px;display:block;line-height:1.2}
+.loose{background:var(--paper);border:1px dashed var(--rule);border-radius:8px;padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.loose h3{margin:0;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.loose ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+.loose li{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px;align-items:baseline;font-size:13.5px}
+.loose .id{font-family:var(--f-mono);font-size:11.5px;color:var(--muted);min-width:78px;display:inline-flex;gap:6px;align-items:center}
+footer{font-size:12.5px;color:var(--muted);max-width:84ch}
+@media (prefers-reduced-motion:reduce){.cell{transition:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <div class="eyebrow" id="stats">Open Window 64 · ending at the center</div>
+      <h1 id="title"></h1>
+      <p class="lede" id="lede"></p>
+    </div>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="View">
+        <button id="v-chart" type="button" aria-pressed="true">Chart</button>
+        <button id="v-list" type="button" aria-pressed="false">Outline</button>
+      </div>
+      <button class="btn" id="edit-toggle" type="button" hidden aria-pressed="false">Edit</button>
+      <button class="btn primary" id="save" type="button" hidden disabled>Save to page</button>
+    </div>
+  </header>
+  <div id="save-msg" class="notice" hidden></div>
+  <div class="bar">
+    <nav class="crumbs" id="crumbs" aria-label="Where you are"></nav>
+    <div class="chips" id="chips" role="group" aria-label="Highlight by status"></div>
+  </div>
+  <div class="layout">
+    <div>
+      <div class="board" id="board"><div class="sheet" id="sheet"></div></div>
+      <div class="outline" id="outline" hidden></div>
+    </div>
+    <aside class="panel" id="panel" aria-live="polite"></aside>
+  </div>
+  <section class="loose" id="loose-wrap"><h3>Not on the chart yet</h3><ul id="loose"></ul></section>
+  <footer id="footer"></footer>
+</div>
+
+<script>
+const DATA = __DATA__;
+const TEMPLATE = __TEMPLATE__;
+const L = Object.assign({center:"The goal", centerNote:"What it is for", source:"Ch", sourceName:"Chapter", lede:"The center is the goal. The eight around any box are how you get there, and each of those opens into its own eight, as deep as it needs. Select a box to read it; select it again, or use Open, to make it the center."}, DATA.labels || {});
+const STATUS = Object.assign({paid:"On the page", thin:"Thin", open:"Open on purpose", author:"Needs the author"}, DATA.statuses || {});
+const POS = [0,1,2,3,5,6,7,8];
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let byId = {}, parentOf = {};
+let focusId = "g", selId = "g", filter = "all", view = "chart", editing = false, dirty = 0, artifactNs = null;
+
+function index(){ byId = {}; parentOf = {}; (function walk(n, p){ byId[n.id] = n; if (p) parentOf[n.id] = p.id; n.kids.forEach(k => walk(k, n)); })(DATA.root, null); }
+function desc(n){ let c = 0; n.kids.forEach(k => c += 1 + desc(k)); return c; }
+function depthOf(n){ return n.kids.length ? 1 + Math.max(...n.kids.map(depthOf)) : 0; }
+function tally(n, acc){ acc = acc || {paid:0,thin:0,open:0,author:0}; n.kids.forEach(k => { if (k.status) acc[k.status]++; tally(k, acc); }); return acc; }
+function path(id){ const p = []; while (id){ p.unshift(byId[id]); id = parentOf[id]; } return p; }
+function hasAuthorBelow(n){ return n.kids.some(k => k.status === "author" || hasAuthorBelow(k)); }
+
+function stats(){ const all = tally(DATA.root); const total = 1 + desc(DATA.root);
+  $("#stats").textContent = `Harada sheet · ${total} boxes · ${depthOf(DATA.root)} levels deep`; return all; }
+
+function chips(){
+  const c = tally(DATA.root); const n = c.paid + c.thin + c.open + c.author;
+  const opts = [["all","All",null],["author",STATUS.author,c.author],["thin",STATUS.thin,c.thin],["open",STATUS.open,c.open],["paid",STATUS.paid,c.paid]];
+  $("#chips").innerHTML = opts.map(([k,l,v]) => `<button type="button" class="chip" id="f-${k}" data-f="${k}" aria-pressed="${filter===k}">${k==="all"?"":`<span class="dot ${k}"></span>`}${esc(l)}${v === null ? "" : ` <b>${v}</b>`}</button>`).join("");
+  $("#chips").querySelectorAll(".chip").forEach(b => b.onclick = () => { filter = b.dataset.f; chips(); render(); });
+}
+
+function crumbs(){
+  const p = path(focusId);
+  $("#crumbs").innerHTML = p.map((n,i) => i === p.length-1 ? `<span class="here">${esc(short(n))}</span>` : `<button type="button" data-id="${n.id}">${esc(short(n))}</button><span class="sep">›</span>`).join("");
+  $("#crumbs").querySelectorAll("button").forEach(b => b.onclick = () => openBox(b.dataset.id));
+}
+function short(n){ return n.id === "g" ? L.center : n.title.length > 34 ? n.title.slice(0,32) + "…" : n.title; }
+
+function cellHTML(n, kind){
+  if (!n) return "";
+  const dim = filter !== "all" && kind !== "focus" && n.status !== filter ? " dim" : "";
+  const st = n.status ? `<span class="st dot ${n.status}" title="${STATUS[n.status]}"></span>` : "";
+  const d = desc(n);
+  const inside = d ? `<span class="inside">${hasAuthorBelow(n) ? '<span class="dot author"></span>' : ""}${d} inside</span>` : "";
+  const ch = n.id === "g" ? L.center.toUpperCase() : n.kind === "character" ? "CHARACTER" : (n.ch ? L.source + " " + n.ch : "");
+  return `<button type="button" class="cell ${kind}${n.kind === "character" ? " char" : ""} ${n.status||""}${dim}${n.id===selId?" sel":""}" data-id="${n.id}"><span class="ch">${esc(ch)}</span><span class="lbl">${esc(n.title)}</span>${st}${inside}</button>`;
+}
+function emptyHTML(parentId){ return editing && parentId ? `<button type="button" class="cell empty addable" data-add="${parentId}">+ Add a box</button>` : `<div class="cell empty" aria-hidden="true"></div>`; }
+
+function renderChart(){
+  const F = byId[focusId]; const blocks = [];
+  for (let b = 0; b < 9; b++) blocks.push(Array(9).fill(null));
+  blocks[4][4] = cellHTML(F, "focus");
+  for (let i = 0; i < 8; i++){
+    const c = F.kids[i], b = POS[i];
+    if (c){
+      blocks[4][b] = cellHTML(c, "hub");
+      blocks[b][4] = cellHTML(c, "hub");
+      for (let j = 0; j < 8; j++) blocks[b][POS[j]] = c.kids[j] ? cellHTML(c.kids[j], "beat") : (j === c.kids.length ? emptyHTML(c.id) : emptyHTML(null));
+    } else {
+      blocks[4][b] = i === F.kids.length ? emptyHTML(F.id) : emptyHTML(null);
+      for (let j = 0; j < 9; j++) blocks[b][j] = emptyHTML(null);
+    }
+  }
+  $("#sheet").innerHTML = blocks.map(cs => `<div class="block">${cs.join("")}</div>`).join("");
+  $("#sheet").querySelectorAll("[data-id]").forEach(el => el.onclick = () => { const id = el.dataset.id; if (id === selId && id !== focusId) openBox(id); else select(id); });
+  $("#sheet").querySelectorAll("[data-add]").forEach(el => el.onclick = () => addBox(el.dataset.add));
+}
+
+function renderOutline(){
+  const g = DATA.root;
+  const node = (n, lvl) => {
+    const dim = filter !== "all" && n.status !== filter ? " dim" : "";
+    const ch = n.ch ? L.source + " " + n.ch : "";
+    const pill = n.status ? `<span class="pill ${n.status}">${STATUS[n.status]}</span>` : "<span></span>";
+    const body = `${n.quote ? `<blockquote>${esc(n.quote)}</blockquote>` : ""}${n.proposed ? `<blockquote class="proposed">${esc(n.proposed)}</blockquote>` : ""}${n.note ? `<span class="note">${esc(n.note)}</span>` : ""}`;
+    const d = desc(n);
+    return `<details id="o-${n.id}"${lvl === 0 ? "" : ""}><summary class="${dim}"><span class="ch">${esc(ch)}</span><span class="t">${esc(n.title)}${d ? `<small>${d} inside</small>` : ""}</span>${pill}</summary><div class="body">${body}</div>${n.kids.map(k => node(k, lvl+1)).join("")}</details>`;
+  };
+  $("#outline").innerHTML = `<div class="goal"><span class="eyebrow" style="color:inherit;opacity:.85">${esc(L.center)}</span><b>${esc(g.title)}</b><span>${esc(g.note)}</span></div>` + g.kids.map(k => node(k, 0)).join("");
+}
+
+function panel(){
+  const n = byId[selId]; if (!n) return;
+  const t = tally(n); const d = desc(n);
+  const meta = [n.id === "g" ? L.center : n.kind === "character" ? "Character" : (n.ch ? L.sourceName + " " + n.ch : ""), path(n.id).length - 1 ? "Level " + (path(n.id).length - 1) : ""].filter(Boolean).map(esc).join(" · ");
+  let h = `<div class="meta"><span>${meta}</span>${n.status ? `<span class="pill ${n.status}">${STATUS[n.status]}</span>` : ""}</div><h2>${esc(n.title)}</h2>`;
+  if (n.note) h += `<div class="how"><span class="eyebrow">${n.id === "g" ? esc(L.centerNote) : "How it gets us there"}</span><p>${esc(n.note)}</p></div>`;
+  if (n.quote) h += `<div class="how"><span class="eyebrow">Evidence${n.ch ? " · " + esc(L.sourceName) + " " + esc(n.ch) : ""}</span><blockquote>${esc(n.quote)}</blockquote></div>`;
+  if (n.proposed) h += `<blockquote class="proposed">${esc(n.proposed)}</blockquote>`;
+  if (d) h += `<div class="tally">${Object.entries(t).filter(([,v]) => v).map(([s,v]) => `<span class="pill ${s}">${v} ${STATUS[s].toLowerCase()}</span>`).join("")}</div>`;
+  h += `<div class="actions">`;
+  if (n.id !== focusId && (d || editing)) h += `<button class="btn primary" id="open-box" type="button">${d ? `Open this box (${d} inside)` : "Open this box"}</button>`;
+  if (parentOf[focusId] && n.id === focusId) h += `<button class="btn" id="up" type="button">Up one level</button>`;
+  h += `</div>`;
+  if (!d && !editing) h += `<p class="hint">Nothing inside this box yet.${artifactNs ? " Turn on Edit to break it down." : ""}</p>`;
+  if (editing) h += formHTML(n);
+  $("#panel").innerHTML = h;
+  const ob = $("#open-box"); if (ob) ob.onclick = () => openBox(n.id);
+  const up = $("#up"); if (up) up.onclick = () => openBox(parentOf[focusId]);
+  if (editing) bindForm(n);
+}
+
+function formHTML(n){
+  const opts = ['<option value="">No status</option>'].concat(Object.entries(STATUS).map(([k,v]) => `<option value="${k}"${n.status===k?" selected":""}>${v}</option>`)).join("");
+  return `<form class="form" id="edit-form"><label>Box<input id="e-title" value="${esc(n.title)}" required></label>
+  <div class="row2"><label>${esc(L.sourceName)}<input id="e-ch" value="${esc(n.ch ?? "")}"></label><label>Status<select id="e-status">${opts}</select></label></div>
+  <label>Quote (exact words from the source)<textarea id="e-quote">${esc(n.quote)}</textarea></label>
+  <label>Proposed wording (not in the source yet)<textarea id="e-proposed">${esc(n.proposed)}</textarea></label>
+  <label>Note<textarea id="e-note">${esc(n.note)}</textarea></label>
+  <div class="actions"><button class="btn primary" type="submit">Apply</button>${n.id !== "g" ? `<button class="btn danger" type="button" id="e-del"${n.kids.length ? " disabled" : ""}>Delete box</button>` : ""}</div>
+  ${n.kids.length && n.id !== "g" ? '<p class="hint">Delete the boxes inside it first.</p>' : ""}</form>`;
+}
+function bindForm(n){
+  $("#edit-form").onsubmit = e => { e.preventDefault();
+    const v = id => $(id).value.trim();
+    n.title = v("#e-title") || n.title;
+    const chv = v("#e-ch"); if (!chv) delete n.ch; else n.ch = /^\d+$/.test(chv) ? parseInt(chv, 10) : chv;
+    ["quote","proposed","note"].forEach(k => { const x = v("#e-" + k); if (x) n[k] = x; else delete n[k]; });
+    const s = v("#e-status"); if (s) n.status = s; else delete n.status;
+    markDirty(); render(); };
+  const del = $("#e-del"); if (del) del.onclick = () => { if (n.kids.length) return; const p = byId[parentOf[n.id]]; p.kids = p.kids.filter(k => k !== n); index(); selId = p.id; if (focusId === n.id) focusId = p.id; markDirty(); render(); };
+}
+function addBox(parentId){
+  const p = byId[parentId]; if (p.kids.length >= 8) return;
+  let i = p.kids.length + 1, id; do { id = (parentId === "g" ? "p" : parentId + "-") + i++; } while (byId[id]);
+  p.kids.push({id, title: "New box", kids: []}); index(); selId = id; markDirty(); render();
+  const t = $("#e-title"); if (t){ t.focus(); t.select(); }
+}
+function markDirty(){ dirty++; const s = $("#save"); s.disabled = false; s.textContent = `Save to page (${dirty})`; }
+
+function safe(s){ return s.replace(/</g, "\\u003c").replace(/\u2028/g, "\\u2028").replace(/\u2029/g, "\\u2029"); }
+function buildDoc(){
+  const head = '<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,-apple-system,"Segoe UI",sans-serif}img{max-width:100%}[hidden]{display:none!important}</style></head><body>';
+  const strip = n => ({...n, kids: n.kids.map(strip)});
+  const data = {...DATA, root: strip(DATA.root)};
+  const content = TEMPLATE.replace(/__(DATA|TEMPLATE|TITLE)__/g, (m, k) => k === "DATA" ? safe(JSON.stringify(data)) : k === "TITLE" ? esc(DATA.title || "Harada chart") : safe(JSON.stringify(TEMPLATE)));
+  return head + content + "</body></html>";
+}
+async function save(){
+  const btn = $("#save"), msg = $("#save-msg"); btn.disabled = true; btn.textContent = "Saving…";
+  try { await artifactNs.publish(buildDoc()); msg.hidden = false; msg.className = "notice"; msg.textContent = "Saved. The page is reloading to the new version."; }
+  catch (e) {
+    const code = e && (e.code || e.name) || "";
+    msg.hidden = false; msg.className = "notice err";
+    msg.textContent = code === "conflict" ? "Someone saved a newer version first, so these changes weren't kept. The page is reloading to theirs."
+      : (code === "not_granted" || code === "not_writer") ? "This page can't be saved from your view. Only people who can edit it can save changes."
+      : "The save didn't go through. Your changes are still here; try Save again.";
+    btn.disabled = false; btn.textContent = `Save to page (${dirty})`;
+  }
+}
+
+function select(id){ selId = id; render(); }
+function openBox(id){ focusId = id; selId = id; try { history.replaceState(null, "", "#" + id); } catch(e){} render(); }
+function render(){ crumbs(); stats(); if (view === "chart") renderChart(); else renderOutline(); panel(); }
+function setView(v){ view = v; $("#v-chart").setAttribute("aria-pressed", v === "chart"); $("#v-list").setAttribute("aria-pressed", v === "list"); $("#board").hidden = v !== "chart"; $("#outline").hidden = v !== "list"; render(); try { localStorage.setItem("harada-view:" + (DATA.title || ""), v); } catch(e){} }
+$("#v-chart").onclick = () => setView("chart"); $("#v-list").onclick = () => setView("list");
+$("#edit-toggle").onclick = () => { editing = !editing; $("#edit-toggle").setAttribute("aria-pressed", editing); $("#edit-toggle").textContent = editing ? "Done editing" : "Edit"; $("#save").hidden = !editing && !dirty; render(); };
+$("#save").onclick = save;
+$("#title").textContent = DATA.title || "Harada chart"; $("#lede").textContent = DATA.lede || L.lede; $("#footer").textContent = DATA.footer || "";
+if (!(DATA.loose || []).length) $("#loose-wrap").hidden = true;
+$("#loose").innerHTML = (DATA.loose || []).map(l => `<li><span class="id"><span class="dot ${l.status}"></span>${esc(l.id)}</span><span>${esc(l.text)}</span></li>`).join("");
+
+index(); chips();
+const h = (location.hash || "").slice(1);
+if (h && byId[h]) { selId = h; focusId = byId[h].kids.length ? h : (parentOf[h] || "g"); }
+let start = window.matchMedia("(max-width: 720px)").matches ? "list" : "chart";
+try { const s = localStorage.getItem("harada-view:" + (DATA.title || "")); if (s === "chart" || s === "list") start = s; } catch(e){}
+setView(start);
+(async () => { try { const ns = await window.claude?.use?.("artifact"); if (ns) { artifactNs = ns; $("#edit-toggle").hidden = false; render(); } } catch(e){} })();
+</script>

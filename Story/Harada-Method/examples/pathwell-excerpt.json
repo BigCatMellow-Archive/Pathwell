@@ -1,0 +1,589 @@
+{
+ "title": "Pathwell Harada Chart (excerpt)",
+ "lede": "The center is what the story is saying. The eight around any box are how the story gets there, and each of those opens into its own eight, as deep as it needs. Select a box to read it; select it again, or use Open, to make it the center.",
+ "footer": "An excerpt of the Pathwell chart, for learning the method: the center, one actor opened through its eight facets, and one story engine with a problem broken into options. Quotes check against Story/Chapters in the Pathwell repository.",
+ "labels": {
+  "center": "The message",
+  "centerNote": "What the story is saying",
+  "source": "Ch",
+  "sourceName": "Chapter"
+ },
+ "root": {
+  "title": "Choose your own life, ready or not, and let other people choose theirs",
+  "ch": 18,
+  "quote": "Are you ready?",
+  "note": "The last page says it with the first page's words. In Chapter 1 he asks “Ready?”, she says “No,” and he says “Perfect” and takes her hand. In Chapter 18 she asks, he says “No,” and she says “Perfect,” and he comes because she asked and he said yes. Same words. What changed is who is choosing. (Thesis: control is not competence, and Elizabeth matters without any power source.)",
+  "kids": [
+   {
+    "title": "Elizabeth: the one who learns to choose",
+    "kind": "character",
+    "note": "She starts the book handing things over before she's decided to. She ends it choosing where they go and asking him along. She never gets magic; her choices count because they're only human.",
+    "kids": [
+     {
+      "title": "Start: she hands things over before she's decided to",
+      "note": "The book has to start with someone who lets other people choose for her, or there's nothing to climb. The character bible calls it compliance under pressure.",
+      "kids": [
+       {
+        "title": "Three weeks in, nothing unpacked",
+        "ch": 2,
+        "quote": "Three weeks. Twenty-one days of unpacked boxes and takeout trying to figure out what came next.",
+        "status": "paid",
+        "note": "A new life she hasn't moved into yet.",
+        "kids": [],
+        "id": "p1-1-1"
+       },
+       {
+        "title": "She left because staying felt worse",
+        "ch": 2,
+        "quote": "A life she'd packed into garbage bags and moved across the city because staying felt worse than leaving, but leaving didn't feel like anything at all.",
+        "status": "paid",
+        "note": "Her real problem, said once, in her own breakdown.",
+        "kids": [],
+        "id": "p1-1-2"
+       },
+       {
+        "title": "Nobody at work has noticed her",
+        "ch": 1,
+        "quote": "He'd laughed at her joke about the landlord, which was more than anyone from work had managed.",
+        "status": "paid",
+        "note": "The stranger going through her boxes is the one person at her party who laughed.",
+        "kids": [],
+        "id": "p1-1-3"
+       }
+      ],
+      "id": "p1-1"
+     },
+     {
+      "title": "Wants: her books back, then the truth",
+      "note": "What she's after changes as she climbs. Each want is a little more her own than the one before.",
+      "kids": [
+       {
+        "title": "Nana's cookbook back",
+        "ch": 2,
+        "quote": "He still has it.",
+        "status": "paid",
+        "note": "Ch2–3. Property, not trust.",
+        "kids": [],
+        "id": "p1-2-1"
+       },
+       {
+        "title": "Answers before she goes anywhere",
+        "ch": 3,
+        "quote": "I'm not going anywhere without getting some questions answered.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-2-2"
+       },
+       {
+        "title": "To know why it came to her door",
+        "ch": 4,
+        "quote": "She wanted to know why something impossible had come through her door before the magic went wrong.",
+        "status": "paid",
+        "note": "The first want that isn't about getting something back.",
+        "kids": [],
+        "id": "p1-2-3"
+       }
+      ],
+      "id": "p1-2"
+     },
+     {
+      "title": "Needs: to choose for herself, even when nobody asks",
+      "note": "Her need is self-direction. Nobody hands it to her; she takes it one rung at a time (Writing Principles 7).",
+      "kids": [
+       {
+        "title": "Nobody is going to make her important",
+        "ch": 9,
+        "quote": "Then you were never the point.",
+        "status": "paid",
+        "note": "The diner takes away the importance Pathwell gave her by mistake.",
+        "kids": [],
+        "id": "p1-3-1"
+       },
+       {
+        "title": "She has to make herself the driver",
+        "ch": 8,
+        "quote": "Elizabeth chose the ditch.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-3-2"
+       },
+       {
+        "title": "She has to say no and mean it",
+        "ch": 11,
+        "quote": "I don't need to be rescued.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-3-3"
+       }
+      ],
+      "id": "p1-3"
+     },
+     {
+      "title": "Stands for: mattering without power",
+      "note": "The thesis: her choices matter because they're human. If she ever casts, the book becomes an empowerment fantasy (Thesis, critical constraint).",
+      "kids": [
+       {
+        "title": "She never does magic",
+        "status": "paid",
+        "note": "Canon hard boundary. She can own, carry, give, or position charged things. She can't use them.",
+        "kids": [],
+        "id": "p1-4-1"
+       },
+       {
+        "title": "Ordinary people feel the magic too",
+        "ch": 3,
+        "quote": "None of that had been hers, and she held on to that.",
+        "status": "paid",
+        "note": "Her overwhelm in the Space Between isn't a hidden gift.",
+        "kids": [],
+        "id": "p1-4-2"
+       },
+       {
+        "title": "The dagger is Stansbury's magic, her choice",
+        "ch": 7,
+        "quote": "Elizabeth already had the dagger in her hand.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-4-3"
+       }
+      ],
+      "id": "p1-4"
+     },
+     {
+      "title": "In her way: people who choose for her, and her habit of letting them",
+      "note": "Her obstacle is outside and inside at once: people who decide for her, and her habit of letting them.",
+      "kids": [
+       {
+        "title": "He decides the danger is hers",
+        "ch": 1,
+        "quote": "Your house has now been marked, magically speaking.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-5-1"
+       },
+       {
+        "title": "He offers a choice while holding her things",
+        "ch": 2,
+        "quote": "The choice is yours, Lizzy.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-5-2"
+       },
+       {
+        "title": "He answers for her",
+        "ch": 4,
+        "quote": "Pathwell answered for her. \"No.\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-5-3"
+       }
+      ],
+      "id": "p1-5"
+     },
+     {
+      "title": "Arc: pulled, pushing, choosing",
+      "note": "Eight rungs. Each one is something she does, not a door someone opens for her. The ninth rung is the last page.",
+      "kids": [
+       {
+        "title": "She follows him for her books",
+        "ch": 2,
+        "quote": "He still has it.",
+        "status": "paid",
+        "note": "Rung 1: she stops absorbing what happened and goes after something that's hers.",
+        "kids": [
+         {
+          "title": "He tells her it's her choice",
+          "ch": 2,
+          "quote": "The choice is yours, Lizzy.",
+          "status": "paid",
+          "note": "He's holding her books while he says it.",
+          "kids": [],
+          "id": "p1-6-1-1"
+         },
+         {
+          "title": "He leaves her alone in the neon",
+          "ch": 2,
+          "quote": "She watched him walk off, leaving her in the red neon glow.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-1-2"
+         },
+         {
+          "title": "Nana's name brings the warmth back",
+          "ch": 2,
+          "quote": "Then a warmth, the taste of butter and sugar",
+          "status": "paid",
+          "note": "R21: the echo of Nana's voice through the page.",
+          "kids": [],
+          "id": "p1-6-1-3"
+         },
+         {
+          "title": "She looks for the books and they're gone",
+          "ch": 2,
+          "quote": "Her eyes swept the table, slowly at first. Then darting.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-1-4"
+         },
+         {
+          "title": "She runs after him",
+          "ch": 2,
+          "quote": "He still has it.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-1-5"
+         },
+         {
+          "title": "She steps through for the books, not for him",
+          "ch": 3,
+          "quote": "He still had her books.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-1-6"
+         }
+        ],
+        "id": "p1-6-1"
+       },
+       {
+        "title": "She chooses the forest over the sidewalk",
+        "ch": 4,
+        "quote": "She had put them there herself, after the shopkeeper had offered to send her back to the sidewalk.",
+        "status": "paid",
+        "note": "Rung 2: the first choice she makes with her books back in her hands (R31).",
+        "kids": [
+         {
+          "title": "The shop gives her books back, not him",
+          "ch": 3,
+          "quote": "These were never his to spend.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-2-1"
+         },
+         {
+          "title": "She's offered a way home",
+          "ch": 4,
+          "quote": "after the shopkeeper had offered to send her back to the sidewalk.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-2-2"
+         },
+         {
+          "title": "She puts her books on his cart herself",
+          "ch": 4,
+          "quote": "She had put them there herself",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-2-3"
+         },
+         {
+          "title": "It still feels strange to her",
+          "ch": 4,
+          "quote": "That fact still felt strange enough to keep checking.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-2-4"
+         },
+         {
+          "title": "She goes on for her own question",
+          "ch": 4,
+          "quote": "Not because he had her things. He didn't.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-2-5"
+         },
+         {
+          "title": "She remembers it at the end",
+          "ch": 18,
+          "quote": "had chosen a forest without knowing what it was.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-6-2-6"
+         }
+        ],
+        "id": "p1-6-2"
+       }
+      ],
+      "id": "p1-6"
+     },
+     {
+      "title": "Voice: sincere, not witty; her body knows first",
+      "note": "Character bible: her jokes are small and defensive; physical sensation comes before named feeling.",
+      "kids": [
+       {
+        "title": "She worries about ordinary things under pressure",
+        "ch": 2,
+        "quote": "I have to get my dry cleaning before the meeting.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-1"
+       },
+       {
+        "title": "She takes the literal question",
+        "ch": 2,
+        "quote": "It's Thursday.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-2"
+       },
+       {
+        "title": "She snaps when she has to",
+        "ch": 2,
+        "quote": "\"No,\" she snapped.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-3"
+       }
+      ],
+      "id": "p1-7"
+     },
+     {
+      "title": "End: she asks, and lets the answer be no",
+      "note": "Who she's become: she decides where they go and asks him along, without pardoning him.",
+      "kids": [
+       {
+        "title": "She won't make his guilt her job",
+        "ch": 16,
+        "quote": "I need you not to make me responsible for whether you become a better person.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-8-1"
+       },
+       {
+        "title": "She doesn't know if she forgives him",
+        "ch": 16,
+        "quote": "I don't know if I forgive you.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-8-2"
+       },
+       {
+        "title": "Her ordinary life is still hers",
+        "ch": 17,
+        "quote": "It was still hers.",
+        "status": "paid",
+        "note": "The spoon. The apartment, the job, the plant.",
+        "kids": [],
+        "id": "p1-8-3"
+       }
+      ],
+      "id": "p1-8"
+     }
+    ],
+    "id": "p1"
+   },
+   {
+    "title": "She was never the point",
+    "note": "Pathwell made her important by misreading a danger that was his. The book takes that importance away so she can earn the other kind: mattering because of what she does, not because something came for her.",
+    "kids": [
+     {
+      "title": "Something was at her door before any magic",
+      "ch": 1,
+      "quote": "Something wet and dark sagged into the gap.",
+      "status": "paid",
+      "note": "The fair-play clue, in Chapter 1.",
+      "kids": [
+       {
+        "title": "She sees it through the chain",
+        "ch": 1,
+        "quote": "Something wet and dark sagged into the gap.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-1-1"
+       },
+       {
+        "title": "He calls it housekeeping",
+        "ch": 1,
+        "quote": "Just cleaning up a mess.",
+        "status": "paid",
+        "note": "Literally true.",
+        "kids": [],
+        "id": "p5-1-2"
+       }
+      ],
+      "id": "p5-1"
+     },
+     {
+      "title": "He decides it's after her, and tells her so",
+      "ch": 1,
+      "quote": "Your house has now been marked, magically speaking.",
+      "status": "paid",
+      "note": "A half-bluff (R27).",
+      "kids": [
+       {
+        "title": "He thought she'd know",
+        "ch": 1,
+        "quote": "You really don't know?",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-2-1"
+       },
+       {
+        "title": "He checks the hall and goes still",
+        "ch": 1,
+        "quote": "Sticking his head out, he checked up and down the hall. Then he went still.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-2-2"
+       }
+      ],
+      "id": "p5-2"
+     },
+     {
+      "title": "Why he was really there",
+      "ch": 1,
+      "quote": "He'd been at the party, talking to everybody.",
+      "status": "author",
+      "note": "Nobody asks, all book. P66's central finding.",
+      "kids": [
+       {
+        "title": "The evidence is all on the page",
+        "note": "Every piece of the answer is there. Nothing connects them.",
+        "kids": [
+         {
+          "title": "He was at her party",
+          "ch": 1,
+          "quote": "He'd been at the party, talking to everybody.",
+          "status": "paid",
+          "kids": [],
+          "id": "p5-3-1-1"
+         },
+         {
+          "title": "He looked at old notebooks",
+          "ch": 1,
+          "quote": "She'd seen him peering into an open box of old notebooks once",
+          "status": "paid",
+          "note": "R48's clue.",
+          "kids": [],
+          "id": "p5-3-1-2"
+         },
+         {
+          "title": "He stayed after everyone left",
+          "ch": 1,
+          "quote": "She'd thought he'd left with the rest.",
+          "status": "paid",
+          "kids": [],
+          "id": "p5-3-1-3"
+         },
+         {
+          "title": "He read her diary",
+          "ch": 1,
+          "quote": "reading her diary like a magazine in a waiting room.",
+          "status": "paid",
+          "kids": [],
+          "id": "p5-3-1-4"
+         },
+         {
+          "title": "The shop trades in people's lives",
+          "ch": 3,
+          "quote": "Not books — lives.",
+          "status": "paid",
+          "kids": [],
+          "id": "p5-3-1-5"
+         },
+         {
+          "title": "He owes the shop",
+          "ch": 3,
+          "quote": "You already owe quite a bit.",
+          "status": "paid",
+          "kids": [],
+          "id": "p5-3-1-6"
+         },
+         {
+          "title": "Her books were his stock",
+          "ch": 3,
+          "quote": "He brought outside property into an open transaction",
+          "status": "paid",
+          "kids": [],
+          "id": "p5-3-1-7"
+         },
+         {
+          "title": "Camp calls him a thief",
+          "ch": 4,
+          "quote": "I was only ever no good at being a thief.",
+          "status": "paid",
+          "kids": [],
+          "id": "p5-3-1-8"
+         }
+        ],
+        "id": "p5-3-1"
+       },
+       {
+        "title": "Fix 1: she asks him in Chapter 1",
+        "ch": 1,
+        "status": "author",
+        "note": "The author's line: “What are you still doing here?” The reply has to change with it.",
+        "kids": [
+         {
+          "title": "Now: “Do you mind?” / “Not at all”",
+          "ch": 1,
+          "quote": "\"Not at all,\" he said, and turned a page.",
+          "status": "author",
+          "kids": [],
+          "id": "p5-3-2-1"
+         },
+         {
+          "title": "B0: he just turns a page",
+          "ch": 1,
+          "status": "author",
+          "note": "Recommended. Her question doesn't get his attention. The thud does.",
+          "proposed": "\"What are you still doing here?\" / He turned a page.",
+          "kids": [],
+          "id": "p5-3-2-2"
+         },
+         {
+          "title": "C0: “Reading,”",
+          "ch": 1,
+          "status": "author",
+          "note": "Funnier, but a new Pathwell joke and another dodge.",
+          "proposed": "\"What are you still doing here?\" / \"Reading,\" he said, and turned a page.",
+          "kids": [],
+          "id": "p5-3-2-3"
+         }
+        ],
+        "id": "p5-3-2"
+       },
+       {
+        "title": "Fix 2: she works it out at the counter",
+        "ch": 3,
+        "status": "author",
+        "note": "B1. Her suspicion, not his confession. It goes right after the ledger line, and the shopkeeper's “These were never his to spend.” confirms it.",
+        "proposed": "Elizabeth thought of Pathwell on her living-room floor, turning the pages of her diary like he was pricing it.",
+        "kids": [],
+        "id": "p5-3-3"
+       }
+      ],
+      "id": "p5-3"
+     },
+     {
+      "title": "Camp sees the first part doesn't fit",
+      "ch": 4,
+      "quote": "The first part did not.",
+      "status": "paid",
+      "note": "The question becomes hers.",
+      "kids": [
+       {
+        "title": "Mama Baga asks the timing",
+        "ch": 4,
+        "quote": "It was already at the door before you used the cookbook?",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-4-1"
+       },
+       {
+        "title": "After the working, it ate the waste",
+        "ch": 4,
+        "quote": "It changed targets. Fresh waste.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-4-2"
+       }
+      ],
+      "id": "p5-4"
+     }
+    ],
+    "id": "p5"
+   }
+  ],
+  "id": "g"
+ }
+}

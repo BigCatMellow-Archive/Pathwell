@@ -1,0 +1,3208 @@
+{
+ "root": {
+  "title": "The last page earns it",
+  "ch": 18,
+  "quote": "Are you ready?",
+  "note": "Elizabeth, with no power and no debt left to collect, asks the man whose control cost a life to come along, and the reader believes both her question and his “No.” Controlling idea: control is not competence. When you treat future possibility as leverage, you eventually destroy your ability to choose, and other people pay for your convenience. The test: if a character says the theme out loud, it's failed.",
+  "kids": [
+   {
+    "title": "Elizabeth chooses her way here",
+    "note": "The invitation only means something if she has been choosing, one rung at a time, all book. (Ledger R15)",
+    "kids": [
+     {
+      "title": "Opens the chained door",
+      "ch": 1,
+      "quote": "She turned the lock and opened it against the chain.",
+      "status": "paid",
+      "note": "First small independent act, before any magic (R50).",
+      "kids": [
+       {
+        "title": "A sound she can't explain",
+        "ch": 1,
+        "quote": "A thud hit the front door. Wet. Heavy.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-1-1"
+       },
+       {
+        "title": "An ordinary reason",
+        "ch": 1,
+        "quote": "Someone might have fallen in the hall.",
+        "status": "paid",
+        "note": "Kindness, not curiosity. It keeps her in character.",
+        "kids": [],
+        "id": "p1-1-2"
+       },
+       {
+        "title": "Only as far as the chain",
+        "ch": 1,
+        "quote": "She turned the lock and opened it against the chain.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-1-3"
+       },
+       {
+        "title": "Sees something wrong",
+        "ch": 1,
+        "quote": "Something wet and dark sagged into the gap.",
+        "status": "paid",
+        "note": "Also the first fair-play clue: it's here before any magic.",
+        "kids": [],
+        "id": "p1-1-4"
+       },
+       {
+        "title": "He shuts it on her",
+        "ch": 1,
+        "quote": "He slammed the door shut hard enough to rattle the chain and threw the bolt.",
+        "status": "paid",
+        "note": "Her first act, and his first override.",
+        "kids": [],
+        "id": "p1-1-5"
+       }
+      ],
+      "id": "p1-1"
+     },
+     {
+      "title": "Grabs the cookbook back",
+      "ch": 1,
+      "quote": "Elizabeth grabbed the cookbook by the spine and pulled it from his hands.",
+      "status": "paid",
+      "note": "Property defense under pressure (R49).",
+      "kids": [
+       {
+        "title": "He digs it out of her boxes",
+        "ch": 1,
+        "quote": "she heard tape rip in the kitchen before he came back with the book in hand.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-2-1"
+       },
+       {
+        "title": "Nana's book, made specific",
+        "ch": 1,
+        "quote": "Nana's cookbook, three rubber bands around the spine and the title in Nana's blue marker.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-2-2"
+       },
+       {
+        "title": "He asks for her favorite",
+        "ch": 1,
+        "quote": "Don't think. What's your favorite recipe?",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-2-3"
+       },
+       {
+        "title": "She answers with a question",
+        "ch": 1,
+        "quote": "My Nana always made the best sugar cookies?",
+        "status": "paid",
+        "note": "The author's own note: it ends in a question (R25).",
+        "kids": [],
+        "id": "p1-2-4"
+       },
+       {
+        "title": "She watches the ink",
+        "ch": 1,
+        "quote": "Elizabeth leaned close enough to see the ink still there beneath it.",
+        "status": "paid",
+        "note": "R51. She's checking it's still Nana's.",
+        "kids": [],
+        "id": "p1-2-5"
+       },
+       {
+        "title": "She pulls it away",
+        "ch": 1,
+        "quote": "Elizabeth grabbed the cookbook by the spine and pulled it from his hands.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-2-6"
+       },
+       {
+        "title": "The page stays with him",
+        "ch": 1,
+        "quote": "The sugar-cookie page stayed under his palm.",
+        "status": "author",
+        "note": "The tear itself isn't shown. See Pillar 5 for the fix.",
+        "kids": [],
+        "id": "p1-2-7"
+       },
+       {
+        "title": "She owns it later",
+        "ch": 5,
+        "quote": "I broke it. I grabbed the cookbook while he was using it.",
+        "status": "paid",
+        "note": "Her own words to Stansbury.",
+        "kids": [],
+        "id": "p1-2-8"
+       }
+      ],
+      "id": "p1-2"
+     },
+     {
+      "title": "Goes after her books",
+      "ch": 2,
+      "quote": "He still has it.",
+      "status": "paid",
+      "note": "She follows for the cookbook, not for him. Constrained, not consent (Q118).",
+      "kids": [
+       {
+        "title": "He offers a choice",
+        "ch": 2,
+        "quote": "The choice is yours, Lizzy.",
+        "status": "paid",
+        "note": "Holding her things while he says it.",
+        "kids": [],
+        "id": "p1-3-1"
+       },
+       {
+        "title": "He walks off",
+        "ch": 2,
+        "quote": "She watched him walk off, leaving her in the red neon glow.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-3-2"
+       },
+       {
+        "title": "Nana's name for her",
+        "ch": 2,
+        "quote": "Lizzy.",
+        "status": "paid",
+        "note": "R21: the echo of Nana's voice through the page.",
+        "kids": [],
+        "id": "p1-3-3"
+       },
+       {
+        "title": "The warmth",
+        "ch": 2,
+        "quote": "Then a warmth, the taste of butter and sugar",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-3-4"
+       },
+       {
+        "title": "The table",
+        "ch": 2,
+        "quote": "Her eyes swept the table, slowly at first. Then darting.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-3-5"
+       },
+       {
+        "title": "The realization",
+        "ch": 2,
+        "quote": "He still has it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-3-6"
+       },
+       {
+        "title": "Why she follows",
+        "ch": 3,
+        "quote": "He still had her books.",
+        "status": "paid",
+        "note": "Said plainly at the threshold of the Space Between.",
+        "kids": [],
+        "id": "p1-3-7"
+       }
+      ],
+      "id": "p1-3"
+     },
+     {
+      "title": "Chooses the forest over the sidewalk",
+      "ch": 4,
+      "quote": "She had put them there herself, after the shopkeeper had offered to send her back to the sidewalk.",
+      "status": "paid",
+      "note": "The first choice made with her books back (R31).",
+      "kids": [
+       {
+        "title": "Books returned by the shop's rule",
+        "ch": 3,
+        "quote": "These were never his to spend.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-4-1"
+       },
+       {
+        "title": "Offered a way home",
+        "ch": 4,
+        "quote": "after the shopkeeper had offered to send her back to the sidewalk.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-4-2"
+       },
+       {
+        "title": "It feels strange to her",
+        "ch": 4,
+        "quote": "That fact still felt strange enough to keep checking.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-4-3"
+       },
+       {
+        "title": "Goes on for her own reasons",
+        "ch": 4,
+        "quote": "Not because he had her things. He didn't.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-4-4"
+       },
+       {
+        "title": "Her own question",
+        "ch": 4,
+        "quote": "She wanted to know why something impossible had come through her door before the magic went wrong.",
+        "status": "paid",
+        "note": "The creature mystery becomes her want.",
+        "kids": [],
+        "id": "p1-4-5"
+       },
+       {
+        "title": "Remembered at the end",
+        "ch": 18,
+        "quote": "had chosen a forest without knowing what it was.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-4-6"
+       }
+      ],
+      "id": "p1-4"
+     },
+     {
+      "title": "Cuts him out of the blob",
+      "ch": 7,
+      "quote": "Elizabeth already had the dagger in her hand.",
+      "status": "paid",
+      "note": "Stansbury made the tool; she chose to use it (Q106).",
+      "kids": [
+       {
+        "title": "The tool's promise",
+        "ch": 7,
+        "quote": "Cuts separation into things that don't separate easily.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-5-1"
+       },
+       {
+        "title": "Ignores the warning",
+        "ch": 7,
+        "quote": "She ignored him.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-5-2"
+       },
+       {
+        "title": "First cut",
+        "ch": 7,
+        "quote": "Something opened. Not flesh. A seam.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-5-3"
+       },
+       {
+        "title": "Pulling isn't enough",
+        "ch": 7,
+        "quote": "She planted her feet and pulled harder.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-5-4"
+       },
+       {
+        "title": "Last cut",
+        "ch": 7,
+        "quote": "She cut once more, across the band holding his ribs.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-5-5"
+       },
+       {
+        "title": "Remembered at the fire",
+        "ch": 15,
+        "quote": "The seam had taken several cuts, and she had needed both arms to pull him free.",
+        "status": "paid",
+        "note": "Why the dagger can't save Shade and Milo both.",
+        "kids": [],
+        "id": "p1-5-6"
+       }
+      ],
+      "id": "p1-5"
+     },
+     {
+      "title": "Puts the car in the ditch",
+      "ch": 8,
+      "quote": "Elizabeth chose the ditch.",
+      "status": "paid",
+      "note": "The midpoint crash, chosen (Non-Negotiable 4).",
+      "kids": [
+       {
+        "title": "Made the driver",
+        "ch": 7,
+        "quote": "I become the driver.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-6-1"
+       },
+       {
+        "title": "Asks the question",
+        "ch": 8,
+        "quote": "Which prune?",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-6-2"
+       },
+       {
+        "title": "The answer withheld",
+        "ch": 8,
+        "quote": "Not while you're driving.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-6-3"
+       },
+       {
+        "title": "She picks where",
+        "ch": 8,
+        "quote": "She had time to choose.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-6-4"
+       },
+       {
+        "title": "Warns Stansbury",
+        "ch": 8,
+        "quote": "Seatbelt.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-6-5"
+       },
+       {
+        "title": "The crash",
+        "ch": 8,
+        "quote": "Then the right front wheel dropped into the ditch beside the culvert, and metal struck concrete.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-6-6"
+       },
+       {
+        "title": "The first line, chosen",
+        "ch": 8,
+        "quote": "It was the crash that woke her.",
+        "status": "paid",
+        "note": "Bare, no narration pointing at the echo (R11).",
+        "kids": [],
+        "id": "p1-6-7"
+       },
+       {
+        "title": "The cost",
+        "ch": 8,
+        "quote": "You broke my car,",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-6-8"
+       }
+      ],
+      "id": "p1-6"
+     },
+     {
+      "title": "Refuses rescue",
+      "ch": 11,
+      "quote": "I don't need to be rescued.",
+      "status": "paid",
+      "note": "He overrides her anyway; the museum pays (Non-Negotiable 6).",
+      "kids": [
+       {
+        "title": "Stops both men",
+        "ch": 11,
+        "quote": "Both men stopped.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-1"
+       },
+       {
+        "title": "Names her choice",
+        "ch": 11,
+        "quote": "I chose Camp.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-2"
+       },
+       {
+        "title": "The line",
+        "ch": 11,
+        "quote": "I don't need to be rescued.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-3"
+       },
+       {
+        "title": "Believes him",
+        "ch": 11,
+        "quote": "For one second she believed him.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-4"
+       },
+       {
+        "title": "Corrects his reading",
+        "ch": 11,
+        "quote": "He slipped.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-5"
+       },
+       {
+        "title": "He acts anyway",
+        "ch": 11,
+        "quote": "I can contain this.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-6"
+       },
+       {
+        "title": "She says no again",
+        "ch": 11,
+        "quote": "I said no.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-7"
+       },
+       {
+        "title": "What it costs",
+        "ch": 11,
+        "quote": "SAM HOME TODAY split down the middle.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-7-8"
+       }
+      ],
+      "id": "p1-7"
+     },
+     {
+      "title": "Runs to Milo",
+      "ch": 15,
+      "quote": "That was the choice.",
+      "status": "paid",
+      "note": "No spell, dagger unused, diary and cookbook passed by (R45).",
+      "kids": [
+       {
+        "title": "Two calls at once",
+        "ch": 15,
+        "quote": "Shade looked at the doorway. Elizabeth had heard both of them.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-8-1"
+       },
+       {
+        "title": "Shade looks at her",
+        "ch": 15,
+        "quote": "He looked at her.",
+        "status": "paid",
+        "note": "Eye contact, no words. Whatever he means by it stays his.",
+        "kids": [],
+        "id": "p1-8-2"
+       },
+       {
+        "title": "The dagger, considered",
+        "ch": 15,
+        "quote": "Her right hand had found the foam dagger behind her waist.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-8-3"
+       },
+       {
+        "title": "The arm she can't use",
+        "ch": 15,
+        "quote": "Her left shoulder hurt inside the sling before she'd moved it at all.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-8-4"
+       },
+       {
+        "title": "Steps over the diary",
+        "ch": 15,
+        "quote": "She stepped over the diary.",
+        "status": "paid",
+        "kids": [
+         {
+          "title": "Her own list, face up",
+          "ch": 15,
+          "quote": "FIND NANA'S SPOON.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-8-5-1"
+         },
+         {
+          "title": "The old reflex",
+          "ch": 15,
+          "quote": "The old checking motion started in her right hand",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-8-5-2"
+         },
+         {
+          "title": "Milo knows her name",
+          "ch": 15,
+          "quote": "Milo knew her name now.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-8-5-3"
+         },
+         {
+          "title": "On the way out, again",
+          "ch": 15,
+          "quote": "Milo saw the book and bent instinctively.",
+          "status": "paid",
+          "note": "She stops him too: “Outside.”",
+          "kids": [],
+          "id": "p1-8-5-4"
+         }
+        ],
+        "id": "p1-8-5"
+       },
+       {
+        "title": "Runs past the cookbook",
+        "ch": 15,
+        "quote": "Elizabeth ran past the cookbook too.",
+        "status": "paid",
+        "kids": [
+         {
+          "title": "Its card",
+          "ch": 15,
+          "quote": "DONOR: ELIZABETH.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-8-6-1"
+         },
+         {
+          "title": "Close enough to touch",
+          "ch": 15,
+          "quote": "The shelf was close enough to touch.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-8-6-2"
+         },
+         {
+          "title": "She sees it start to burn",
+          "ch": 15,
+          "quote": "Elizabeth saw that too. She didn't stop.",
+          "status": "paid",
+          "kids": [],
+          "id": "p1-8-6-3"
+         },
+         {
+          "title": "The rhyme with Chapter 4",
+          "ch": 4,
+          "quote": "That was the choice.",
+          "status": "paid",
+          "note": "Ch15: “Everything else burned afterward.”",
+          "kids": [],
+          "id": "p1-8-6-4"
+         }
+        ],
+        "id": "p1-8-6"
+       },
+       {
+        "title": "Uses the arm anyway",
+        "ch": 15,
+        "quote": "This next part is stupid,",
+        "status": "paid",
+        "note": "“Pathwell stupid?” / “Worse. Mine.”",
+        "kids": [],
+        "id": "p1-8-7"
+       },
+       {
+        "title": "Gets him out",
+        "ch": 15,
+        "quote": "She got Milo through the door.",
+        "status": "paid",
+        "kids": [],
+        "id": "p1-8-8"
+       }
+      ],
+      "id": "p1-8"
+     }
+    ],
+    "id": "p1"
+   },
+   {
+    "title": "Pathwell decides for people",
+    "note": "The controlling idea made flesh. Each step is help nobody asked for, until the last step is help he withholds. (Ledger R16, R8)",
+    "kids": [
+     {
+      "title": "The invented certainty",
+      "ch": 1,
+      "quote": "Your house has now been marked, magically speaking.",
+      "status": "paid",
+      "note": "Half-bluff over a real, misread danger (Ledger P4, transformed).",
+      "kids": [
+       {
+        "title": "Assumes she knows",
+        "ch": 1,
+        "quote": "You really don't know?",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-1-1"
+       },
+       {
+        "title": "Recalculates",
+        "ch": 1,
+        "quote": "\"Huh.\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-1-2"
+       },
+       {
+        "title": "Checks the hall",
+        "ch": 1,
+        "quote": "Sticking his head out, he checked up and down the hall. Then he went still.",
+        "status": "paid",
+        "note": "Called back in Ch4: he goes still the same way at the edge of Camp.",
+        "kids": [],
+        "id": "p2-1-3"
+       },
+       {
+        "title": "Certainty comes back",
+        "ch": 1,
+        "quote": "When he turned back, he was sure of himself again.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-1-4"
+       },
+       {
+        "title": "A prop for the bluff",
+        "ch": 1,
+        "quote": "He nodded at the ooze drying on her walls.",
+        "status": "paid",
+        "note": "R27: the nod sells it; the mark isn't real.",
+        "kids": [],
+        "id": "p2-1-5"
+       },
+       {
+        "title": "The claim",
+        "ch": 1,
+        "quote": "Your house has now been marked, magically speaking.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-1-6"
+       },
+       {
+        "title": "Talks past her no",
+        "ch": 1,
+        "quote": "That confusion is quite normal. Do you have shoes?",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-1-7"
+       },
+       {
+        "title": "Uses it as leverage",
+        "ch": 1,
+        "quote": "Yes, I did mention the marked thing, didn't I?",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-1-8"
+       }
+      ],
+      "id": "p2-1"
+     },
+     {
+      "title": "A choice while holding her things",
+      "ch": 2,
+      "quote": "The choice is yours, Lizzy.",
+      "status": "paid",
+      "note": "Blind-spot irony, locked (Q118); inverted in Ch18 (Ledger R4).",
+      "kids": [],
+      "id": "p2-2"
+     },
+     {
+      "title": "Buys what nobody ordered",
+      "ch": 3,
+      "quote": "Did Camp Cunnan ask you for all of this?",
+      "status": "paid",
+      "note": "Pays with his own future and clears the old debt (Non-Negotiable 1).",
+      "kids": [
+       {
+        "title": "The pile",
+        "ch": 3,
+        "quote": "Journals, bundles of letters, sheets of poetry, a few pages of music, blank archival paper, and a wooden crate tied with twine.",
+        "status": "author",
+        "note": "Appears on the counter from nowhere. P66 staging defect.",
+        "kids": [
+         {
+          "title": "A: current",
+          "ch": 3,
+          "quote": "The shopkeeper set the order on the counter and looked it over.",
+          "status": "author",
+          "kids": [],
+          "id": "p2-3-1-1"
+         },
+         {
+          "title": "B2: say he built it",
+          "ch": 3,
+          "status": "author",
+          "note": "Recommended. Ties his disappearance into the aisles to a result.",
+          "proposed": "The shopkeeper turned to the pile at the far end of the counter, the one Pathwell must have built while she was out, and looked it over.",
+          "kids": [],
+          "id": "p2-3-1-2"
+         },
+         {
+          "title": "C2: show the dust",
+          "ch": 3,
+          "status": "author",
+          "note": "Shows rather than tells. Two small touches.",
+          "proposed": "A cup of coffee swung into view, with Pathwell behind it, dust to the elbows. … The shopkeeper dragged the pile at the far end of the counter toward himself and looked it over.",
+          "kids": [],
+          "id": "p2-3-1-3"
+         },
+         {
+          "title": "Where he went",
+          "ch": 3,
+          "quote": "Pathwell was already halfway down an aisle, moving like he knew the place by feel.",
+          "status": "paid",
+          "note": "The setup B2 and C2 pay.",
+          "kids": [],
+          "id": "p2-3-1-4"
+         }
+        ],
+        "id": "p2-3-1"
+       },
+       {
+        "title": "The question",
+        "ch": 3,
+        "quote": "Did Camp Cunnan ask you for all of this?",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-3-2"
+       },
+       {
+        "title": "His answer",
+        "ch": 3,
+        "quote": "They need it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-3-3"
+       },
+       {
+        "title": "No answer",
+        "ch": 3,
+        "quote": "Pathwell didn't answer.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-3-4"
+       },
+       {
+        "title": "The old debt",
+        "ch": 3,
+        "quote": "We could settle today, past bills and all",
+        "status": "paid",
+        "note": "The price is for the whole account, not the paper.",
+        "kids": [],
+        "id": "p2-3-5"
+       },
+       {
+        "title": "Offers potential",
+        "ch": 3,
+        "quote": "I've got potential to sell. Lots.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-3-6"
+       },
+       {
+        "title": "The vow",
+        "ch": 3,
+        "quote": "I give what may be, to protect what will.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-3-7"
+       },
+       {
+        "title": "The price, felt",
+        "ch": 3,
+        "quote": "Pathwell screamed in a million voices",
+        "status": "paid",
+        "note": "R29: the author's tree, fire and voices.",
+        "kids": [],
+        "id": "p2-3-8"
+       }
+      ],
+      "id": "p2-3"
+     },
+     {
+      "title": "The self-appointed delivery",
+      "ch": 4,
+      "quote": "You appointed yourself a delivery.",
+      "status": "paid",
+      "note": "Camp needed it and didn't ask (Ledger R8).",
+      "kids": [
+       {
+        "title": "The need was real",
+        "ch": 4,
+        "quote": "We were down to six sheets.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-4-1"
+       },
+       {
+        "title": "He wants the credit",
+        "ch": 4,
+        "quote": "You see?",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-4-2"
+       },
+       {
+        "title": "Not asked",
+        "ch": 4,
+        "quote": "We did not ask for this.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-4-3"
+       },
+       {
+        "title": "Needed, and admitted",
+        "ch": 4,
+        "quote": "\"We did.\"",
+        "status": "paid",
+        "note": "After his “You needed it.” Help vs. authorization, kept apart.",
+        "kids": [],
+        "id": "p2-4-4"
+       },
+       {
+        "title": "Ask first",
+        "ch": 4,
+        "quote": "You could have written first.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-4-5"
+       },
+       {
+        "title": "His joke",
+        "ch": 4,
+        "quote": "On what?",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-4-6"
+       },
+       {
+        "title": "Named",
+        "ch": 4,
+        "quote": "You appointed yourself a delivery.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-4-7"
+       },
+       {
+        "title": "His defense",
+        "ch": 4,
+        "quote": "It makes me correct.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-4-8"
+       }
+      ],
+      "id": "p2-4"
+     },
+     {
+      "title": "The Ask",
+      "ch": 10,
+      "quote": "But you still chose it.",
+      "status": "paid",
+      "note": "Morally paid. What the original problem was stays open by lock (Q141).",
+      "kids": [
+       {
+        "title": "And then Shade",
+        "ch": 10,
+        "quote": "\"And then Shade,\" he said.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-5-1"
+       },
+       {
+        "title": "Owns part of it",
+        "ch": 10,
+        "quote": "My choice produced the failure he came from",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-5-2"
+       },
+       {
+        "title": "Wouldn't try again",
+        "ch": 10,
+        "quote": "No. I would not try.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-5-3"
+       },
+       {
+        "title": "Deciding for him",
+        "ch": 10,
+        "quote": "He thinks you'll decide for him.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-5-4"
+       },
+       {
+        "title": "Heard isn't listening",
+        "ch": 10,
+        "quote": "That's not the same as listening.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-5-5"
+       },
+       {
+        "title": "Why paying felt like permission",
+        "ch": 10,
+        "quote": "And paying for it yourself made you feel like the method was yours to choose.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-5-6"
+       },
+       {
+        "title": "His old name for it",
+        "ch": 10,
+        "quote": "At the time, I would have called that responsibility.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-5-7"
+       },
+       {
+        "title": "Yes",
+        "ch": 10,
+        "quote": "But you still chose it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-5-8"
+       }
+      ],
+      "id": "p2-5"
+     },
+     {
+      "title": "Overrides her at the museum",
+      "ch": 11,
+      "quote": "She wasn't yours to take from.",
+      "status": "paid",
+      "note": "Shade says it; the discharge destroys the records and hurts her.",
+      "kids": [
+       {
+        "title": "Moves first",
+        "ch": 11,
+        "quote": "Pathwell moved at the same time.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-6-1"
+       },
+       {
+        "title": "The excuse",
+        "ch": 11,
+        "quote": "Watching can involve locomotion.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-6-2"
+       },
+       {
+        "title": "Misreads a stumble",
+        "ch": 11,
+        "quote": "it was simple and ugly",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-6-3"
+       },
+       {
+        "title": "A page he took",
+        "ch": 11,
+        "quote": "That's from my library. You took that while I was upstairs.",
+        "status": "paid",
+        "note": "The Ch1 habit, at his brother's house.",
+        "kids": [],
+        "id": "p2-6-4"
+       },
+       {
+        "title": "His old phrase",
+        "ch": 11,
+        "quote": "I can contain this.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-6-5"
+       },
+       {
+        "title": "Over her no",
+        "ch": 11,
+        "quote": "I said no.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-6-6"
+       },
+       {
+        "title": "Too big",
+        "ch": 11,
+        "quote": "Pathwell had meant to contain one man.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-6-7"
+       },
+       {
+        "title": "Shade's verdict",
+        "ch": 11,
+        "quote": "She wasn't yours to take from.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-6-8"
+       }
+      ],
+      "id": "p2-6"
+     },
+     {
+      "title": "Builds the frame over a no",
+      "ch": 14,
+      "quote": "You're building a rejoining frame.",
+      "status": "paid",
+      "note": "Shade refuses, Mama Baga says stop, he forces it (Non-Negotiable 7).",
+      "kids": [
+       {
+        "title": "Seen through",
+        "ch": 14,
+        "quote": "You're building a rejoining frame.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-7-1"
+       },
+       {
+        "title": "Shade asks",
+        "ch": 14,
+        "quote": "What happens to me?",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-7-2"
+       },
+       {
+        "title": "Can, not will",
+        "ch": 14,
+        "quote": "Not will.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-7-3"
+       },
+       {
+        "title": "Refused",
+        "ch": 14,
+        "quote": "Then no.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-7-4"
+       },
+       {
+        "title": "Mama Baga",
+        "ch": 14,
+        "quote": "Same arrogance in a better coat.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-7-5"
+       },
+       {
+        "title": "Stansbury names the pattern",
+        "ch": 14,
+        "quote": "How many times are you going to call that responsibility before you notice the rest of us are still here?",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-7-6"
+       },
+       {
+        "title": "The exit, visible",
+        "ch": 14,
+        "quote": "Elizabeth could see the exit. So could he.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-7-7"
+       },
+       {
+        "title": "He does it anyway",
+        "ch": 14,
+        "quote": "He drove the third pin into the dirt.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-7-8"
+       }
+      ],
+      "id": "p2-7"
+     },
+     {
+      "title": "Doesn't call for help",
+      "ch": 15,
+      "quote": "He was close enough to hear Shade calling.",
+      "status": "paid",
+      "note": "Shown, not explained; he confesses it in Ch18 (R46).",
+      "kids": [
+       {
+        "title": "Shade was helping",
+        "ch": 15,
+        "quote": "He was trying to use the other one to wave people toward the archive.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-8-1"
+       },
+       {
+        "title": "Help!",
+        "ch": 15,
+        "quote": "\"Help!\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-8-2"
+       },
+       {
+        "title": "Pathwell hears",
+        "ch": 15,
+        "quote": "He was close enough to hear Shade calling. His face was turned toward him.",
+        "status": "paid",
+        "note": "The page states what he could hear and where he looked. Nothing about why.",
+        "kids": [],
+        "id": "p2-8-3"
+       },
+       {
+        "title": "A stranger tries",
+        "ch": 15,
+        "quote": "A man from the bucket line dropped what he was carrying and ran toward Shade.",
+        "status": "paid",
+        "note": "Someone else does what Pathwell could have done.",
+        "kids": [],
+        "id": "p2-8-4"
+       },
+       {
+        "title": "Again",
+        "ch": 15,
+        "quote": "\"Again,\" Shade said.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-8-5"
+       },
+       {
+        "title": "Afterward, still looking",
+        "ch": 15,
+        "quote": "His face was turned toward the place where Shade had been.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-8-6"
+       },
+       {
+        "title": "It passes him",
+        "ch": 15,
+        "quote": "For a moment it leaned toward him.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-8-7"
+       },
+       {
+        "title": "Said out loud, later",
+        "ch": 18,
+        "quote": "I could have called someone. I didn't.",
+        "status": "paid",
+        "kids": [],
+        "id": "p2-8-8"
+       }
+      ],
+      "id": "p2-8"
+     }
+    ],
+    "id": "p2"
+   },
+   {
+    "title": "Pathwell reckons, without a pardon",
+    "note": "So the invitation reads as her choice, not his absolution. (Ledger R16; R47)",
+    "kids": [
+     {
+      "title": "Sees the torn page",
+      "ch": 3,
+      "quote": "Pathwell saw, and looked away.",
+      "status": "paid",
+      "note": "The first time he registers a cost to her.",
+      "kids": [],
+      "id": "p3-1"
+     },
+     {
+      "title": "The mirror turns toward him",
+      "ch": 6,
+      "quote": "Something points in an unpleasant direction,",
+      "status": "paid",
+      "note": "“Mine.” The mystery starts pointing at him.",
+      "kids": [],
+      "id": "p3-2"
+     },
+     {
+      "title": "Mama Baga says stop",
+      "ch": 14,
+      "quote": "Mama Baga said, \"Stop.\"",
+      "status": "paid",
+      "note": "He doesn't. That's the point (Q145).",
+      "kids": [],
+      "id": "p3-3"
+     },
+     {
+      "title": "Restitution, defined by Camp",
+      "ch": 16,
+      "quote": "\"Not me,\" Pathwell said.",
+      "status": "paid",
+      "note": "Evidence, not absolution (Q133, Q143).",
+      "kids": [
+       {
+        "title": "The question",
+        "ch": 16,
+        "quote": "Defined by whom?",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-4-1"
+       },
+       {
+        "title": "The hesitation",
+        "ch": 16,
+        "quote": "He hesitated.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-4-2"
+       },
+       {
+        "title": "The answer",
+        "ch": 16,
+        "quote": "\"Not me,\" Pathwell said.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-4-3"
+       },
+       {
+        "title": "Mama Baga",
+        "ch": 16,
+        "quote": "Mama Baga leaned back. \"Better.\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-4-4"
+       }
+      ],
+      "id": "p3-4"
+     },
+     {
+      "title": "Elizabeth refuses to make it mean something",
+      "ch": 16,
+      "quote": "I am not going to make your guilt useful.",
+      "status": "paid",
+      "note": "Her line, not the narrator's.",
+      "kids": [
+       {
+        "title": "He drops the nickname",
+        "ch": 16,
+        "quote": "He did not say Lizzy.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-5-1"
+       },
+       {
+        "title": "Sorry, with no because",
+        "ch": 16,
+        "quote": "Pathwell didn't add a because.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-5-2"
+       },
+       {
+        "title": "Which part?",
+        "ch": 16,
+        "quote": "For which part?",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-5-3"
+       },
+       {
+        "title": "Not one thing",
+        "ch": 16,
+        "quote": "Don't make them one thing because one apology is easier.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-5-4"
+       },
+       {
+        "title": "He doesn't ask",
+        "ch": 16,
+        "quote": "I'm not asking you to.",
+        "status": "paid",
+        "note": "After her “I don't know if I forgive you.”",
+        "kids": [],
+        "id": "p3-5-5"
+       },
+       {
+        "title": "His question",
+        "ch": 16,
+        "quote": "What do you need?",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-5-6"
+       },
+       {
+        "title": "Her answer",
+        "ch": 16,
+        "quote": "I need you not to make me responsible for whether you become a better person.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-5-7"
+       },
+       {
+        "title": "Her refusal",
+        "ch": 16,
+        "quote": "I am not going to make your guilt useful.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-5-8"
+       }
+      ],
+      "id": "p3-5"
+     },
+     {
+      "title": "Asks first, takes the no",
+      "ch": 18,
+      "quote": "I asked first.",
+      "status": "paid",
+      "note": "“And the wagon remains yellow.”",
+      "kids": [
+       {
+        "title": "She asks to go",
+        "ch": 18,
+        "quote": "Take me to the Space Between.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-6-1"
+       },
+       {
+        "title": "He checks what was asked",
+        "ch": 18,
+        "quote": "checking whether any of them had actually been requested.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-6-2"
+       },
+       {
+        "title": "A short answer",
+        "ch": 18,
+        "quote": "I can take you there.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-6-3"
+       },
+       {
+        "title": "The wagon",
+        "ch": 18,
+        "quote": "You tried to redesign an archive wagon nobody asked you to redesign less than two weeks ago.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-6-4"
+       },
+       {
+        "title": "He asked",
+        "ch": 18,
+        "quote": "I asked first.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-6-5"
+       },
+       {
+        "title": "They said no",
+        "ch": 18,
+        "quote": "And they said no.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-6-6"
+       },
+       {
+        "title": "He let it stand",
+        "ch": 18,
+        "quote": "And the wagon remains yellow.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-6-7"
+       },
+       {
+        "title": "He asks to touch",
+        "ch": 18,
+        "quote": "May I?",
+        "status": "paid",
+        "note": "At the Merritt cookbook.",
+        "kids": [],
+        "id": "p3-6-8"
+       }
+      ],
+      "id": "p3-6"
+     },
+     {
+      "title": "Puts the other cookbook back",
+      "ch": 18,
+      "quote": "put it back on the end of the shelf where it had been, square to the edge.",
+      "status": "paid",
+      "note": "Silent; he doesn't find out if he can still prune (Q96, Q99, Q103).",
+      "kids": [
+       {
+        "title": "She feels the gap first",
+        "ch": 18,
+        "quote": "The torn sugar-cookie page.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-7-1"
+       },
+       {
+        "title": "The book",
+        "ch": 18,
+        "quote": "MERRITT FAMILY KITCHEN",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-7-2"
+       },
+       {
+        "title": "He's already looking",
+        "ch": 18,
+        "quote": "He was looking at the same book.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-7-3"
+       },
+       {
+        "title": "A family's names",
+        "ch": 18,
+        "quote": "Different inks, different pressure, different years.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-7-4"
+       },
+       {
+        "title": "A family's argument",
+        "ch": 18,
+        "quote": "RUTH LIED ABOUT THE LARD.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-7-5"
+       },
+       {
+        "title": "The ledger",
+        "ch": 18,
+        "quote": "His eyes went to the ledger under the shopkeeper's arm and stayed there.",
+        "status": "paid",
+        "note": "The prune considered, without a word.",
+        "kids": [],
+        "id": "p3-7-6"
+       },
+       {
+        "title": "Back on the shelf",
+        "ch": 18,
+        "quote": "put it back on the end of the shelf where it had been, square to the edge.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-7-7"
+       },
+       {
+        "title": "The shopkeeper",
+        "ch": 18,
+        "quote": "I may need to sit down.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-7-8"
+       }
+      ],
+      "id": "p3-7"
+     },
+     {
+      "title": "Confesses",
+      "ch": 18,
+      "quote": "That's not what I did.",
+      "status": "paid",
+      "note": "From shame, before her comparison; he refuses the equivalence (Version C).",
+      "kids": [
+       {
+        "title": "Refuses the coffee",
+        "ch": 18,
+        "quote": "He turned the refused cup a quarter turn on the counter and left it there.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-8-1"
+       },
+       {
+        "title": "Resemblance",
+        "ch": 18,
+        "quote": "I kept thinking resemblance was enough,",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-8-2"
+       },
+       {
+        "title": "Fault",
+        "ch": 18,
+        "quote": "It was my fault.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-8-3"
+       },
+       {
+        "title": "What he saw",
+        "ch": 18,
+        "quote": "He was still trying to get free,",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-8-4"
+       },
+       {
+        "title": "Why",
+        "ch": 18,
+        "quote": "I thought that if the creature took him, it would be finished.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-8-5"
+       },
+       {
+        "title": "Plainly",
+        "ch": 18,
+        "quote": "I could have called someone. I didn't.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-8-6"
+       },
+       {
+        "title": "Her comparison",
+        "ch": 18,
+        "quote": "I didn't help him either,",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-8-7"
+       },
+       {
+        "title": "He won't take it",
+        "ch": 18,
+        "quote": "That's not what I did.",
+        "status": "paid",
+        "kids": [],
+        "id": "p3-8-8"
+       }
+      ],
+      "id": "p3-8"
+     }
+    ],
+    "id": "p3"
+   },
+   {
+    "title": "Shade is a person",
+    "note": "His death has to cost something, or Pathwell's omission costs nothing. (Ledger R13, R14, P6)",
+    "kids": [
+     {
+      "title": "The wrong reflection",
+      "ch": 6,
+      "quote": "like hearing your own voice on a recording and recognizing every word without recognizing the man who said them.",
+      "status": "paid",
+      "note": "Before anyone knows he exists.",
+      "kids": [],
+      "id": "p4-1"
+     },
+     {
+      "title": "He names himself",
+      "ch": 8,
+      "quote": "A pause. \"Shade.\"",
+      "status": "author",
+      "note": "Roadside reveal kept over the August lock; W16 is still with the author.",
+      "kids": [],
+      "id": "p4-2"
+     },
+     {
+      "title": "Doesn't confess for Pathwell",
+      "ch": 9,
+      "quote": "He knows what he did. Ask him.",
+      "status": "paid",
+      "note": "Shade's restraint makes the Ask hers (Non-Negotiable 5).",
+      "kids": [],
+      "id": "p4-3"
+     },
+     {
+      "title": "Bad at Hearts",
+      "ch": 13,
+      "quote": "Shade was bad at Hearts.",
+      "status": "paid",
+      "note": "Personhood in small things: coffee, the green jacket, pockets.",
+      "kids": [
+       {
+        "title": "He knows the game",
+        "ch": 13,
+        "quote": "I know Hearts.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-4-1"
+       },
+       {
+        "title": "Bad at it",
+        "ch": 13,
+        "quote": "Shade was bad at Hearts.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-4-2"
+       },
+       {
+        "title": "His tell",
+        "ch": 13,
+        "quote": "You scratch your thumb when you have it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-4-3"
+       },
+       {
+        "title": "Still here",
+        "ch": 13,
+        "quote": "You're still here.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-4-4"
+       },
+       {
+        "title": "The queen",
+        "ch": 13,
+        "quote": "The queen of spades lay face-up beside an onion that had somehow escaped again.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-4-5"
+       },
+       {
+        "title": "His last line in Ch13",
+        "ch": 13,
+        "quote": "That hand was promising,",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-4-6"
+       },
+       {
+        "title": "Remembered after",
+        "ch": 15,
+        "quote": "That hand was promising.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-4-7"
+       }
+      ],
+      "id": "p4-4"
+     },
+     {
+      "title": "Wants something",
+      "ch": 13,
+      "quote": "I want to stay here.",
+      "status": "paid",
+      "note": "His own want, not Pathwell's problem.",
+      "kids": [
+       {
+        "title": "Mama Baga asks",
+        "ch": 13,
+        "quote": "You want to leave?",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-5-1"
+       },
+       {
+        "title": "He answers a different question",
+        "ch": 13,
+        "quote": "Would it help?",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-5-2"
+       },
+       {
+        "title": "She won't let him",
+        "ch": 13,
+        "quote": "I didn't ask what would help.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-5-3"
+       },
+       {
+        "title": "The want",
+        "ch": 13,
+        "quote": "I want to stay here.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-5-4"
+       },
+       {
+        "title": "Granted",
+        "ch": 13,
+        "quote": "\"Then stay.\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-5-5"
+       },
+       {
+        "title": "What surprises him",
+        "ch": 13,
+        "quote": "Asking.",
+        "status": "paid",
+        "note": "“People keep doing that.” The opposite of Pathwell.",
+        "kids": [],
+        "id": "p4-5-6"
+       },
+       {
+        "title": "The hand fights him",
+        "ch": 13,
+        "quote": "He got the onion anyway.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-5-7"
+       }
+      ],
+      "id": "p4-5"
+     },
+     {
+      "title": "Says no",
+      "ch": 14,
+      "quote": "Do I remain myself?",
+      "status": "paid",
+      "note": "The refusal a blind reader called the strongest dialogue in the book.",
+      "kids": [
+       {
+        "title": "Lets the arm go",
+        "ch": 14,
+        "quote": "This time he let the arm hang open instead of fighting it, palm toward Pathwell.",
+        "status": "paid",
+        "note": "His choice is in the rest of him.",
+        "kids": [],
+        "id": "p4-6-1"
+       },
+       {
+        "title": "Quietly",
+        "ch": 14,
+        "quote": "\"No.\" It was quiet.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-6-2"
+       },
+       {
+        "title": "He knows the shape",
+        "ch": 14,
+        "quote": "I know the shape.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-6-3"
+       },
+       {
+        "title": "The real question",
+        "ch": 14,
+        "quote": "Do I remain myself?",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-6-4"
+       },
+       {
+        "title": "Whose life it is",
+        "ch": 14,
+        "quote": "I am the person living with it,",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-6-5"
+       },
+       {
+        "title": "Spares Stansbury",
+        "ch": 14,
+        "quote": "Don't make him the reason.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-6-6"
+       },
+       {
+        "title": "Choice vs. result",
+        "ch": 14,
+        "quote": "You still think the result gets to decide whether the choice was acceptable.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-6-7"
+       },
+       {
+        "title": "For who?",
+        "ch": 14,
+        "quote": "For who?",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-6-8"
+       }
+      ],
+      "id": "p4-6"
+     },
+     {
+      "title": "Fights to live",
+      "ch": 15,
+      "quote": "\"Again,\" Shade said.",
+      "status": "paid",
+      "note": "Caught while helping; no consent, no serene acceptance (R46).",
+      "kids": [
+       {
+        "title": "Helping when it comes",
+        "ch": 15,
+        "quote": "He was trying to use the other one to wave people toward the archive.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-7-1"
+       },
+       {
+        "title": "Caught",
+        "ch": 15,
+        "quote": "Something black had closed around his boot",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-7-2"
+       },
+       {
+        "title": "Pulls",
+        "ch": 15,
+        "quote": "Shade yanked his leg.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-7-3"
+       },
+       {
+        "title": "Calls for help",
+        "ch": 15,
+        "quote": "\"Help!\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-7-4"
+       },
+       {
+        "title": "Tries again",
+        "ch": 15,
+        "quote": "\"Again,\" Shade said.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-7-5"
+       },
+       {
+        "title": "Hears Milo too",
+        "ch": 15,
+        "quote": "Shade looked at the doorway.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-7-6"
+       },
+       {
+        "title": "They couldn't",
+        "ch": 15,
+        "quote": "We couldn't get him loose.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-7-7"
+       },
+       {
+        "title": "Gone",
+        "ch": 15,
+        "quote": "It took him.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-7-8"
+       }
+      ],
+      "id": "p4-7"
+     },
+     {
+      "title": "Camp names him",
+      "ch": 16,
+      "quote": "SHADE — DIED AT CAMP.",
+      "status": "paid",
+      "note": "“LIKED POCKETS.”",
+      "kids": [
+       {
+        "title": "The question",
+        "ch": 16,
+        "quote": "Shade's dead?",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-8-1"
+       },
+       {
+        "title": "His name",
+        "ch": 16,
+        "quote": "His name was Shade?",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-8-2"
+       },
+       {
+        "title": "Said aloud",
+        "ch": 16,
+        "quote": "Then Shade died here this morning.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-8-3"
+       },
+       {
+        "title": "Written",
+        "ch": 16,
+        "quote": "SHADE — DIED AT CAMP.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-8-4"
+       },
+       {
+        "title": "The jacket",
+        "ch": 16,
+        "quote": "GREEN JACKET, CAMP ISSUE — LOST WITH HIM.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-8-5"
+       },
+       {
+        "title": "Milo's addition",
+        "ch": 16,
+        "quote": "LIKED POCKETS.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-8-6"
+       },
+       {
+        "title": "All the funeral there is",
+        "ch": 16,
+        "quote": "That was as much funeral as Camp had time for.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-8-7"
+       },
+       {
+        "title": "Remembered at the end",
+        "ch": 18,
+        "quote": "Shade would have liked it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p4-8-8"
+       }
+      ],
+      "id": "p4-8"
+     }
+    ],
+    "id": "p4"
+   },
+   {
+    "title": "Her records are given, not taken",
+    "note": "What he took in Ch1 she gives away herself by Ch12, and loses by choice in Ch15. (Ledger O1, O2, O3)",
+    "kids": [
+     {
+      "title": "Nana's ink lights up",
+      "ch": 1,
+      "quote": "Gold ran along the ink in little starts and stops",
+      "status": "paid",
+      "note": "The magic belongs to the person who wrote the page (R51).",
+      "kids": [],
+      "id": "p5-1"
+     },
+     {
+      "title": "The page tears",
+      "ch": 1,
+      "quote": "The sugar-cookie page stayed under his palm.",
+      "status": "author",
+      "note": "The tear itself isn't shown yet.",
+      "kids": [
+       {
+        "title": "A: current",
+        "ch": 1,
+        "quote": "The sugar-cookie page stayed under his palm.",
+        "status": "author",
+        "note": "Reader can't picture what holds the page.",
+        "kids": [],
+        "id": "p5-2-1"
+       },
+       {
+        "title": "B3: “tore free and”",
+        "ch": 1,
+        "status": "author",
+        "note": "Recommended. Three words, no new magic.",
+        "proposed": "The sugar-cookie page tore free and stayed under his palm.",
+        "kids": [],
+        "id": "p5-2-2"
+       },
+       {
+        "title": "C3: “Paper tore.”",
+        "ch": 1,
+        "status": "author",
+        "note": "Stronger: her grab audibly rips Nana's page.",
+        "proposed": "Paper tore. The sugar-cookie page stayed under his palm.",
+        "kids": [],
+        "id": "p5-2-3"
+       },
+       {
+        "title": "Ch1 depends on it",
+        "ch": 1,
+        "quote": "A ragged edge stuck out where the page had been.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-2-4"
+       },
+       {
+        "title": "Ch3 depends on it",
+        "ch": 3,
+        "quote": "Her thumb found the ragged edge where the page had been.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-2-5"
+       },
+       {
+        "title": "Ch4 depends on it",
+        "ch": 4,
+        "quote": "checked the two missing places",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-2-6"
+       },
+       {
+        "title": "Ch5 owns it",
+        "ch": 5,
+        "quote": "I broke it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-2-7"
+       }
+      ],
+      "id": "p5-2"
+     },
+     {
+      "title": "Nana's name for her",
+      "ch": 2,
+      "quote": "Lizzy.",
+      "status": "paid",
+      "note": "The echo sends her after the cookbook (R21).",
+      "kids": [],
+      "id": "p5-3"
+     },
+     {
+      "title": "Returned by the shop, not by him",
+      "ch": 3,
+      "quote": "These were never his to spend.",
+      "status": "paid",
+      "note": "The rebuke the P65 reader liked best.",
+      "kids": [],
+      "id": "p5-4"
+     },
+     {
+      "title": "Given whole",
+      "ch": 4,
+      "quote": "The whole book.",
+      "status": "paid",
+      "note": "One page spent healing a stranger (Non-Negotiable 3).",
+      "kids": [
+       {
+        "title": "Nobody asks her",
+        "ch": 4,
+        "quote": "Nobody looked at Elizabeth. Somehow that made the cookbook heavier.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-5-1"
+       },
+       {
+        "title": "The healer doesn't ask either",
+        "ch": 4,
+        "quote": "The healer didn't ask for it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-5-2"
+       },
+       {
+        "title": "Almost the sugar cookies",
+        "ch": 4,
+        "quote": "Elizabeth almost said sugar cookies.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-5-3"
+       },
+       {
+        "title": "Nana's soup",
+        "ch": 4,
+        "quote": "MORE IF THEY'RE SICK. THEY WON'T EAT ENOUGH.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-5-4"
+       },
+       {
+        "title": "No, first",
+        "ch": 4,
+        "quote": "That was for me.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-5-5"
+       },
+       {
+        "title": "Why the whole book",
+        "ch": 4,
+        "quote": "If I keep holding the rest, I'm going to spend the next ten minutes finding a reason this page is the wrong one.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-5-6"
+       },
+       {
+        "title": "Her hand, still raised",
+        "ch": 4,
+        "quote": "Elizabeth's hand was still halfway raised. She lowered it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-5-7"
+       },
+       {
+        "title": "The line",
+        "ch": 4,
+        "quote": "That was the choice.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-5-8"
+       }
+      ],
+      "id": "p5-5"
+     },
+     {
+      "title": "The diary donated",
+      "ch": 12,
+      "quote": "Ask me before anyone reads it.",
+      "status": "paid",
+      "note": "Ownership passes to the archive (Ledger O3).",
+      "kids": [
+       {
+        "title": "Store? Loan?",
+        "ch": 12,
+        "quote": "Loan?",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-6-1"
+       },
+       {
+        "title": "The temptation",
+        "ch": 12,
+        "quote": "A loan meant it stayed hers in a different building",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-6-2"
+       },
+       {
+        "title": "The list",
+        "ch": 12,
+        "quote": "FIND NANA'S SPOON",
+        "status": "paid",
+        "note": "Same list that lies face up in the fire.",
+        "kids": [],
+        "id": "p5-6-3"
+       },
+       {
+        "title": "Give",
+        "ch": 12,
+        "quote": "\"No,\" she said. \"Give.\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-6-4"
+       },
+       {
+        "title": "Both hands",
+        "ch": 12,
+        "quote": "The archivist took it with both hands, the way Mama Baga had taken the cookbook.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-6-5"
+       },
+       {
+        "title": "Empty hand",
+        "ch": 12,
+        "quote": "Elizabeth's hand stayed suspended after the diary left it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-6-6"
+       },
+       {
+        "title": "Her condition",
+        "ch": 12,
+        "quote": "Ask me before anyone reads it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-6-7"
+       },
+       {
+        "title": "And one more",
+        "ch": 12,
+        "quote": "Don't let Pathwell decide the restriction expired.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-6-8"
+       }
+      ],
+      "id": "p5-6"
+     },
+     {
+      "title": "She runs past both",
+      "ch": 15,
+      "quote": "Everything else burned afterward.",
+      "status": "paid",
+      "note": "Rhymes with Ch4's “That was the choice.” (Ledger R6).",
+      "kids": [],
+      "id": "p5-7"
+     },
+     {
+      "title": "The sugar cookies come back",
+      "ch": 18,
+      "quote": "The torn sugar-cookie page.",
+      "status": "thin",
+      "note": "One line in a list. The cold reader wanted more (Ledger O2).",
+      "kids": [
+       {
+        "title": "The memory",
+        "ch": 1,
+        "quote": "She was twelve again, baking cookies with her grandmother.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-8-1"
+       },
+       {
+        "title": "The echo",
+        "ch": 2,
+        "quote": "the heat of an oven she hadn't stood in front of since she was twelve.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-8-2"
+       },
+       {
+        "title": "Avoided",
+        "ch": 4,
+        "quote": "The answer hurt before she reached it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p5-8-3"
+       },
+       {
+        "title": "A stranger's kitchen in the fire",
+        "ch": 15,
+        "quote": "a blue bowl, a window over a sink, somebody humming badly while cutting apples.",
+        "status": "open",
+        "note": "Someone else's kitchen, with the same window over the sink as Nana's in Ch1. A quiet rhyme, if the author wants it to be one.",
+        "kids": [],
+        "id": "p5-8-4"
+       },
+       {
+        "title": "One line in a list",
+        "ch": 18,
+        "quote": "The torn sugar-cookie page.",
+        "status": "thin",
+        "kids": [],
+        "id": "p5-8-5"
+       },
+       {
+        "title": "Where a return could go (author's)",
+        "status": "author",
+        "note": "Placements only. Any new emotional line is the author's to write.",
+        "kids": [
+         {
+          "title": "Leave it thin",
+          "status": "open",
+          "note": "Defensible: the Merritt book already carries the ending's cookbook feeling.",
+          "kids": [],
+          "id": "p5-8-6-1"
+         },
+         {
+          "title": "At the Merritt shelf",
+          "ch": 18,
+          "quote": "Her body recognized them before her mind did. The empty place opened.",
+          "status": "author",
+          "note": "The list already starts here. A fuller beat would land here.",
+          "kids": [],
+          "id": "p5-8-6-2"
+         },
+         {
+          "title": "In her own kitchen",
+          "ch": 17,
+          "quote": "It was still hers.",
+          "status": "author",
+          "note": "Ch17's spoon scene is the nearest ordinary kitchen moment.",
+          "kids": [],
+          "id": "p5-8-6-3"
+         }
+        ],
+        "id": "p5-8-6"
+       }
+      ],
+      "id": "p5-8"
+     }
+    ],
+    "id": "p5"
+   },
+   {
+    "title": "Camp is help that asks",
+    "note": "The other way to help, so the reader can see what Pathwell's way costs without anyone saying it. (Ledger R17, O8; R41)",
+    "kids": [
+     {
+      "title": "Asks her, not him",
+      "ch": 4,
+      "quote": "Are you being dragged?",
+      "status": "paid",
+      "note": "He answers for her; she answers for herself.",
+      "kids": [
+       {
+        "title": "He answers for her",
+        "ch": 4,
+        "quote": "Pathwell answered for her. \"No.\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-1-1"
+       },
+       {
+        "title": "Mama Baga waits",
+        "ch": 4,
+        "quote": "Mama Baga kept looking at Elizabeth.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-1-2"
+       },
+       {
+        "title": "Her own answer",
+        "ch": 4,
+        "quote": "Less than I was.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-1-3"
+       },
+       {
+        "title": "Accepted",
+        "ch": 4,
+        "quote": "I will take it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-1-4"
+       },
+       {
+        "title": "What Mama Baga doesn't ask",
+        "ch": 4,
+        "quote": "Mama Baga didn't ask why Elizabeth's coat smelled faintly of low tide.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-1-5"
+       },
+       {
+        "title": "What she offers instead",
+        "ch": 4,
+        "quote": "But I can get to know you.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-1-6"
+       }
+      ],
+      "id": "p6-1"
+     },
+     {
+      "title": "Welcomes her",
+      "ch": 4,
+      "quote": "You'll fit in here.",
+      "status": "paid",
+      "note": "Clothes, the gold chain, the tucked hair (R41).",
+      "kids": [
+       {
+        "title": "Clothes",
+        "ch": 4,
+        "quote": "Try these. Take what you like.",
+        "status": "paid",
+        "note": "R32: entering their world.",
+        "kids": [],
+        "id": "p6-2-1"
+       },
+       {
+        "title": "Something's missing",
+        "ch": 4,
+        "quote": "Something's missing.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-2-2"
+       },
+       {
+        "title": "Elizabeth refuses",
+        "ch": 4,
+        "quote": "Oh, I can't take that,",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-2-3"
+       },
+       {
+        "title": "Mama Baga insists",
+        "ch": 4,
+        "quote": "Hush now. You're taking it, and I won't hear another word about it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-2-4"
+       },
+       {
+        "title": "Complete",
+        "ch": 4,
+        "quote": "There. Now it's complete.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-2-5"
+       },
+       {
+        "title": "Comfortable",
+        "ch": 4,
+        "quote": "It was the most comfortable she'd been all night.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-2-6"
+       },
+       {
+        "title": "The line",
+        "ch": 4,
+        "quote": "You'll fit in here.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-2-7"
+       }
+      ],
+      "id": "p6-2"
+     },
+     {
+      "title": "The archive",
+      "ch": 4,
+      "quote": "Not hidden. Not displayed. Available.",
+      "status": "paid",
+      "note": "Records kept for people who still need them.",
+      "kids": [
+       {
+        "title": "Nothing glows",
+        "ch": 4,
+        "quote": "Nothing in it glowed.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-3-1"
+       },
+       {
+        "title": "Who wrote it",
+        "ch": 4,
+        "quote": "Original writer?",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-3-2"
+       },
+       {
+        "title": "The name that doesn't come",
+        "ch": 4,
+        "quote": "for one terrible second the actual name didn't come.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-3-3"
+       },
+       {
+        "title": "Where it goes",
+        "ch": 4,
+        "quote": "Reserve shelf,",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-3-4"
+       },
+       {
+        "title": "How it's kept",
+        "ch": 4,
+        "quote": "Not hidden. Not displayed. Available.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-3-5"
+       },
+       {
+        "title": "A copy isn't the thing",
+        "ch": 4,
+        "quote": "The copy won't be the same thing.",
+        "status": "paid",
+        "note": "Stansbury's Ch10–11 theme, planted early (Ledger R9).",
+        "kids": [],
+        "id": "p6-3-6"
+       },
+       {
+        "title": "Not the end",
+        "ch": 4,
+        "quote": "That is generally the opposite of an archive.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-3-7"
+       },
+       {
+        "title": "Records still argued over",
+        "ch": 4,
+        "quote": "NO MATTER WHAT HESS SAYS.",
+        "status": "paid",
+        "kids": [],
+        "id": "p6-3-8"
+       }
+      ],
+      "id": "p6-3"
+     },
+     {
+      "title": "Milo's sock",
+      "ch": 4,
+      "quote": "One sock had surrendered halfway down his calf.",
+      "status": "paid",
+      "note": "Runs to the fire and after (Ledger R11).",
+      "kids": [],
+      "id": "p6-4"
+     },
+     {
+      "title": "Why she picks Camp",
+      "ch": 10,
+      "quote": "Mama Baga didn't ask me anything I didn't want to tell her.",
+      "status": "paid",
+      "note": "Chosen because nobody controls the room there.",
+      "kids": [],
+      "id": "p6-5"
+     },
+     {
+      "title": "The blue notebook saved",
+      "ch": 15,
+      "quote": "Stansbury came back out through the side window carrying the blue road notebook",
+      "status": "paid",
+      "note": "Camp's own record survives (Ledger O8).",
+      "kids": [],
+      "id": "p6-6"
+     },
+     {
+      "title": "Pathwell carries boxes where told",
+      "ch": 16,
+      "quote": "He didn't rearrange them.",
+      "status": "paid",
+      "note": "Restraint shown in one gesture.",
+      "kids": [],
+      "id": "p6-7"
+     },
+     {
+      "title": "Clean hands, one section",
+      "ch": 17,
+      "quote": "clean hands, a pencil, and exactly one section",
+      "status": "paid",
+      "note": "“Copy the smudge.”",
+      "kids": [],
+      "id": "p6-8"
+     }
+    ],
+    "id": "p6"
+   },
+   {
+    "title": "The mysteries play fair",
+    "note": "The reader has to trust the withholding. Every held question gets a hand-off or a payoff. (Ledger P1, P3, P5, P7)",
+    "kids": [
+     {
+      "title": "At the door before any magic",
+      "ch": 1,
+      "quote": "Something wet and dark sagged into the gap.",
+      "status": "paid",
+      "note": "The chain of clues that the blob isn't hers (Ledger P3).",
+      "kids": [
+       {
+        "title": "Seen first",
+        "ch": 1,
+        "quote": "Something wet and dark sagged into the gap.",
+        "status": "paid",
+        "kids": [],
+        "id": "p7-1-1"
+       },
+       {
+        "title": "Asked at Camp",
+        "ch": 4,
+        "quote": "It was already at the door before you used the cookbook?",
+        "status": "paid",
+        "kids": [],
+        "id": "p7-1-2"
+       },
+       {
+        "title": "Told to Stansbury",
+        "ch": 5,
+        "quote": "It was already at the door before I used anything,",
+        "status": "paid",
+        "kids": [],
+        "id": "p7-1-3"
+       },
+       {
+        "title": "Remembered at the mirror",
+        "ch": 6,
+        "quote": "The blob already there before the cookbook.",
+        "status": "paid",
+        "kids": [],
+        "id": "p7-1-4"
+       },
+       {
+        "title": "It goes for him",
+        "ch": 7,
+        "quote": "It went for you.",
+        "status": "paid",
+        "kids": [],
+        "id": "p7-1-5"
+       },
+       {
+        "title": "Stansbury connects it",
+        "ch": 7,
+        "quote": "And the first one found you in her apartment before there was fresh waste.",
+        "status": "paid",
+        "kids": [],
+        "id": "p7-1-6"
+       },
+       {
+        "title": "She asks it",
+        "ch": 9,
+        "quote": "What if the first one wasn't after me either?",
+        "status": "paid",
+        "kids": [],
+        "id": "p7-1-7"
+       },
+       {
+        "title": "Paid",
+        "ch": 9,
+        "quote": "Then you were never the point.",
+        "status": "paid",
+        "kids": [],
+        "id": "p7-1-8"
+       }
+      ],
+      "id": "p7-1"
+     },
+     {
+      "title": "A true line said as a joke",
+      "ch": 1,
+      "quote": "Just cleaning up a mess.",
+      "status": "paid",
+      "note": "Literally what the creature is.",
+      "kids": [],
+      "id": "p7-2"
+     },
+     {
+      "title": "Why was he in her apartment?",
+      "ch": 1,
+      "quote": "She watched for a moment before interrupting. \"Do you mind?\"",
+      "status": "author",
+      "note": "Nobody asks, all book. P66's central finding.",
+      "kids": [
+       {
+        "title": "The evidence on the page",
+        "note": "Every piece of the answer is already there. Nothing connects them.",
+        "kids": [
+         {
+          "title": "At the party",
+          "ch": 1,
+          "quote": "He'd been at the party, talking to everybody.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-1-1"
+         },
+         {
+          "title": "Old notebooks",
+          "ch": 1,
+          "quote": "She'd seen him peering into an open box of old notebooks once",
+          "status": "paid",
+          "note": "R48's clue.",
+          "kids": [],
+          "id": "p7-3-1-2"
+         },
+         {
+          "title": "He stayed",
+          "ch": 1,
+          "quote": "She'd thought he'd left with the rest.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-1-3"
+         },
+         {
+          "title": "Her diary",
+          "ch": 1,
+          "quote": "reading her diary like a magazine in a waiting room.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-1-4"
+         },
+         {
+          "title": "A shop that trades lives",
+          "ch": 3,
+          "quote": "Not books — lives.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-1-5"
+         },
+         {
+          "title": "His debt",
+          "ch": 3,
+          "quote": "You already owe quite a bit.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-1-6"
+         },
+         {
+          "title": "Her books, his transaction",
+          "ch": 3,
+          "quote": "He brought outside property into an open transaction",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-1-7"
+         },
+         {
+          "title": "His reputation",
+          "ch": 4,
+          "quote": "I was only ever no good at being a thief.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-1-8"
+         }
+        ],
+        "id": "p7-3-1"
+       },
+       {
+        "title": "Nobody asks",
+        "ch": 1,
+        "quote": "\"Do you mind?\"",
+        "status": "author",
+        "note": "The only time the intrusion is named, and it's a politeness. The party is never mentioned after Ch1.",
+        "kids": [],
+        "id": "p7-3-2"
+       },
+       {
+        "title": "Fix, part 1: she asks in Ch1",
+        "status": "author",
+        "note": "The author's own line: “What are you still doing here?” The reply has to change with it.",
+        "kids": [
+         {
+          "title": "A: current",
+          "ch": 1,
+          "quote": "\"Not at all,\" he said, and turned a page.",
+          "status": "author",
+          "note": "Only works as an answer to “Do you mind?”",
+          "kids": [],
+          "id": "p7-3-3-1"
+         },
+         {
+          "title": "B0: silent",
+          "ch": 1,
+          "status": "author",
+          "note": "Recommended. Her question doesn't get his attention; the thud does.",
+          "proposed": "\"What are you still doing here?\" / He turned a page.",
+          "kids": [],
+          "id": "p7-3-3-2"
+         },
+         {
+          "title": "C0: “Reading,”",
+          "ch": 1,
+          "status": "author",
+          "note": "Funnier, but a new Pathwell joke, and another dodge.",
+          "proposed": "\"What are you still doing here?\" / \"Reading,\" he said, and turned a page.",
+          "kids": [],
+          "id": "p7-3-3-3"
+         },
+         {
+          "title": "What interrupts it",
+          "ch": 1,
+          "quote": "A thud hit the front door. Wet. Heavy.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-3-4"
+         }
+        ],
+        "id": "p7-3-3"
+       },
+       {
+        "title": "Fix, part 2: she works it out in Ch3",
+        "ch": 3,
+        "status": "author",
+        "note": "B1. Her suspicion, not his confession. Goes right after the ledger line.",
+        "proposed": "Elizabeth thought of Pathwell on her living-room floor, turning the pages of her diary like he was pricing it.",
+        "kids": [
+         {
+          "title": "Where it goes",
+          "ch": 3,
+          "quote": "He went back to his ledger, making ticks and carrying ones.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-4-1"
+         },
+         {
+          "title": "What it calls back",
+          "ch": 1,
+          "quote": "reading her diary like a magazine in a waiting room.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-4-2"
+         },
+         {
+          "title": "What confirms it",
+          "ch": 3,
+          "quote": "These were never his to spend.",
+          "status": "paid",
+          "kids": [],
+          "id": "p7-3-4-3"
+         },
+         {
+          "title": "Rejected: she asks aloud",
+          "status": "open",
+          "note": "C1 would add a fourth nonanswer to Ch3, the pattern the P65 reader found repetitive.",
+          "kids": [],
+          "id": "p7-3-4-4"
+         }
+        ],
+        "id": "p7-3-4"
+       },
+       {
+        "title": "Why “why this flat” answers itself",
+        "status": "open",
+        "note": "Once the reader knows what he takes things for, opportunity explains the flat: her party, a box of old notebooks. The canon sensing rule never needs to reach the page.",
+        "kids": [],
+        "id": "p7-3-5"
+       }
+      ],
+      "id": "p7-3"
+     },
+     {
+      "title": "How much future is left?",
+      "ch": 3,
+      "quote": "You did.",
+      "status": "open",
+      "note": "Open by ruling: he chooses not to find out (Q96, R19).",
+      "kids": [
+       {
+        "title": "He thinks he has plenty",
+        "ch": 3,
+        "quote": "I've got potential to sell. Lots.",
+        "status": "open",
+        "kids": [],
+        "id": "p7-4-1"
+       },
+       {
+        "title": "He doesn't",
+        "ch": 3,
+        "quote": "You did.",
+        "status": "open",
+        "kids": [],
+        "id": "p7-4-2"
+       },
+       {
+        "title": "Warned",
+        "ch": 3,
+        "quote": "You don't have much left to give, Mr. Pathwell.",
+        "status": "open",
+        "kids": [],
+        "id": "p7-4-3"
+       },
+       {
+        "title": "Which part?",
+        "ch": 3,
+        "quote": "If I knew that, I'd make worse decisions with more confidence.",
+        "status": "open",
+        "kids": [],
+        "id": "p7-4-4"
+       },
+       {
+        "title": "Stansbury sees it",
+        "ch": 5,
+        "quote": "You pruned.",
+        "status": "open",
+        "kids": [],
+        "id": "p7-4-5"
+       },
+       {
+        "title": "The ledger, at the end",
+        "ch": 18,
+        "quote": "His eyes went to the ledger under the shopkeeper's arm and stayed there.",
+        "status": "open",
+        "note": "He doesn't find out. Neither does the reader.",
+        "kids": [],
+        "id": "p7-4-6"
+       }
+      ],
+      "id": "p7-4"
+     },
+     {
+      "title": "It came first; then it ate the waste",
+      "ch": 4,
+      "quote": "It changed targets. Fresh waste.",
+      "status": "paid",
+      "note": "“The first part did not.” The question becomes hers.",
+      "kids": [],
+      "id": "p7-5"
+     },
+     {
+      "title": "It goes for him",
+      "ch": 7,
+      "quote": "\"Not me,\" she said.",
+      "status": "paid",
+      "note": "“No.” Pathwell corrects his own misread.",
+      "kids": [],
+      "id": "p7-6"
+     },
+     {
+      "title": "Never the point",
+      "ch": 9,
+      "quote": "Then you were never the point.",
+      "status": "paid",
+      "note": "The target misdirection paid (Ledger P3, P4).",
+      "kids": [],
+      "id": "p7-7"
+     },
+     {
+      "title": "The draw goes quiet",
+      "ch": 16,
+      "quote": "Shade was gone.",
+      "status": "paid",
+      "note": "Because the anomaly is gone, not because of a mechanic (Ledger P8).",
+      "kids": [],
+      "id": "p7-8"
+     }
+    ],
+    "id": "p7"
+   },
+   {
+    "title": "The bookend turns over",
+    "note": "The first page's exchange comes back with the roles swapped, and the small ordinary things carry it. (Ledger R1, R2, R3, R7)",
+    "kids": [
+     {
+      "title": "He asks; she says no",
+      "ch": 1,
+      "quote": "Ready?",
+      "status": "paid",
+      "note": "Momentum over her. “Perfect.” is his.",
+      "kids": [
+       {
+        "title": "Her body decides",
+        "ch": 1,
+        "quote": "without thinking, she jumped into her shoes",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-1-1"
+       },
+       {
+        "title": "The threat that decides it",
+        "ch": 1,
+        "quote": "A wet thud hit from down the hall.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-1-2"
+       },
+       {
+        "title": "His pressure",
+        "ch": 1,
+        "quote": "Shoes. Now. I did say please.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-1-3"
+       },
+       {
+        "title": "He takes her hand",
+        "ch": 1,
+        "quote": "With a smile he grabbed her by the hand.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-1-4"
+       },
+       {
+        "title": "Ready?",
+        "ch": 1,
+        "quote": "Ready?",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-1-5"
+       },
+       {
+        "title": "No.",
+        "ch": 1,
+        "quote": "No.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-1-6"
+       },
+       {
+        "title": "Perfect.",
+        "ch": 1,
+        "quote": "Perfect.",
+        "status": "paid",
+        "note": "His word, twice in Ch1: also after “sugar cookies?”",
+        "kids": [],
+        "id": "p8-1-7"
+       }
+      ],
+      "id": "p8-1"
+     },
+     {
+      "title": "The first line",
+      "ch": 1,
+      "quote": "It was the crash that woke her.",
+      "status": "paid",
+      "note": "Boxes falling, not the blob (R27).",
+      "kids": [],
+      "id": "p8-2"
+     },
+     {
+      "title": "Perfectly crappy",
+      "ch": 2,
+      "quote": "Perfectly crappy.",
+      "status": "paid",
+      "note": "The book's taste for honest, ordinary things starts here.",
+      "kids": [],
+      "id": "p8-3"
+     },
+     {
+      "title": "Terrible coffee",
+      "ch": 3,
+      "quote": "Familiar things are useful.",
+      "status": "paid",
+      "note": "Recurs through Ch9, 10, 13, 16, 18 (Ledger R7).",
+      "kids": [
+       {
+        "title": "First cup",
+        "ch": 3,
+        "quote": "It was awful.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-4-1"
+       },
+       {
+        "title": "Why it helps",
+        "ch": 3,
+        "quote": "Familiar things are useful.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-4-2"
+       },
+       {
+        "title": "At the diner",
+        "ch": 9,
+        "quote": "Shade took another drink of bad coffee.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-4-3"
+       },
+       {
+        "title": "The last cup",
+        "ch": 18,
+        "quote": "Shade would have liked it.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-4-4"
+       },
+       {
+        "title": "He refuses his",
+        "ch": 18,
+        "quote": "Pathwell refused his.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-4-5"
+       }
+      ],
+      "id": "p8-4"
+     },
+     {
+      "title": "The first line, chosen",
+      "ch": 8,
+      "quote": "It was the crash that woke her.",
+      "status": "paid",
+      "note": "Bare, at the midpoint (R11).",
+      "kids": [],
+      "id": "p8-5"
+     },
+     {
+      "title": "The spoon",
+      "ch": 17,
+      "quote": "It was still hers.",
+      "status": "paid",
+      "note": "Ordinary life stays aggressively itself.",
+      "kids": [],
+      "id": "p8-6"
+     },
+     {
+      "title": "She asks to go",
+      "ch": 18,
+      "quote": "You asked me to take you somewhere.",
+      "status": "paid",
+      "note": "He checks whether anything was actually requested.",
+      "kids": [],
+      "id": "p8-7"
+     },
+     {
+      "title": "She asks; he says no",
+      "ch": 18,
+      "quote": "Are you ready?",
+      "status": "paid",
+      "note": "“Perfect.” is hers now (R9).",
+      "kids": [
+       {
+        "title": "She asks for the routes",
+        "ch": 18,
+        "quote": "Give me the five.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-8-1"
+       },
+       {
+        "title": "The one with geese",
+        "ch": 18,
+        "quote": "There are geese.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-8-2"
+       },
+       {
+        "title": "She picks",
+        "ch": 18,
+        "quote": "\"That one.\"",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-8-3"
+       },
+       {
+        "title": "His old answer, almost",
+        "ch": 18,
+        "quote": "Pathwell's old answer almost arrived.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-8-4"
+       },
+       {
+        "title": "Not his step",
+        "ch": 18,
+        "quote": "She had asked him to bring her here. That didn't make the next step his.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-8-5"
+       },
+       {
+        "title": "She asks him",
+        "ch": 18,
+        "quote": "Do you want to come?",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-8-6"
+       },
+       {
+        "title": "Her hand on the door",
+        "ch": 18,
+        "quote": "Elizabeth kept her hand on the handle.",
+        "status": "paid",
+        "kids": [],
+        "id": "p8-8-7"
+       },
+       {
+        "title": "The exchange",
+        "ch": 18,
+        "quote": "Are you ready?",
+        "status": "paid",
+        "note": "“No.” / “Perfect.”",
+        "kids": [],
+        "id": "p8-8-8"
+       }
+      ],
+      "id": "p8-8"
+     }
+    ],
+    "id": "p8"
+   }
+  ],
+  "id": "g"
+ },
+ "loose": [
+  {
+   "id": "Q-O",
+   "text": "Ch2's changed neighborhood: displacement or magic?",
+   "status": "author"
+  },
+  {
+   "id": "W16 / W18",
+   "text": "Ch8 roadside reveal and Ch11 museum staging kept over August locks",
+   "status": "author"
+  },
+  {
+   "id": "L1",
+   "text": "The nine o'clock meeting: set up five times, paid lightly",
+   "status": "thin"
+  },
+  {
+   "id": "L15",
+   "text": "“Leo” and “big cat”: used once, in Ch10",
+   "status": "open"
+  },
+  {
+   "id": "A8",
+   "text": "Ch4: why the healer can't use the cart's records (test with readers)",
+   "status": "open"
+  }
+ ]
+}
