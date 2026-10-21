@@ -4,6 +4,12 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P66 independent first-act editorial assessment — Chapters 1–4 (2026-10-20)
+
+A new editorial agent, independent of the passes that wrote the current text but **not** an unprimed reader, read Chapters 1–4 in full and produced the [**P66 assessment**](FIRST-ACT-P66-INDEPENDENT-EDITORIAL-ASSESSMENT-2026-10-20.md) (per-concern analysis, information map, Ch3–4 continuity audit) and [**EXP-0015**](experiments/EXP-0015-First-Act-Motive-Hinge-Order-Staging-Page-Tear-2026-10-20.md) (A/B/C candidates as verified patches). Central finding: **nobody in the book ever asks what Pathwell was doing in Elizabeth's apartment**, so the motive reads as an oversight rather than a held mystery; the answer's pieces are on the page and lack one hinge (B1: Elizabeth's inference at the Ch3 counter). Also: the Ch3 order has no source (B2/C2), the Ch1 page tear is never shown (B3/C3), and P62 orphaned an “Again” (R1). Ch2 and the accountability thread: keep. New author question [Q-O](../Decisions.md#open-for-the-author). **No chapter edits; L3 unchanged; issue #3 still open.** [Pass P66](../Pass-Log.md#p66-2026-10-20-independent-first-act-editorial-assessment-chapters-14).
+
+---
+
 ## P65 uploaded informed reader report — Chapters 1–3 (2026-10-16)
 
 The user supplied an **838-line Chapter 1–3 review**, organized into chapter-by-chapter impressions, end-of-Ch3 questions and final verdict. The reviewer **explicitly disclosed previous familiarity with later events and revision discussions**, so it is **one informed-reader report, not a genuine fresh/independent blind run**. [**P65 source-aligned evaluation**](../Reader-Reports/First-Act-2026-10-16/INFORMED-REVIEW-EVALUATION-2026-10-16.md) compares the report with P63's predicted risks without inventing missing responses. Chapter 1's motive gap **persists**, the Ch3 large book/order materialization is a notable *new* staging concern, and the reviewer worries that repeated nonanswers could make Pathwell's harm look excused. **Counterevidence to P63 hypotheses:** no reported diner-book custody misunderstanding, no confident “Elizabeth is marked” reading, no objection to the chained-door look, no specific Rai/Lydian vocabulary stopper.
