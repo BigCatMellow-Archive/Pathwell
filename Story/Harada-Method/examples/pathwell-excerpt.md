@@ -4,7 +4,7 @@ Generated from `pathwell-excerpt.json` by the Harada method's `harada_chart.py`.
 
 ## How to read this
 
-- The chart is a tree. The center is the message. **Every box's children are how it gets to that box.**
+- The chart is a tree. The center is proposed controlling message. **Every box's children are how it gets to that box.**
 - Each box is `[id] Title`, then where it comes from (Chapter N) and its status, if any.
   - **How:** how the box gets to the box above it.
   - **Quote:** exact words from the chapter named; every one is checked against the source when the chart is built.
@@ -12,51 +12,53 @@ Generated from `pathwell-excerpt.json` by the Harada method's `harada_chart.py`.
 - Ids give the position: `p3-6-2` is the 3rd box around the center, its 6th box, and that box's 2nd box.
 - Statuses: `paid` = on the page; `thin` = thin; `open` = open on purpose; `author` = needs the author. A box with no status is structure.
 - `CHARACTER` marks an actor. Its children are facets: Start, Wants, Needs, Stands for, In the way (or Flaw, Blind spot), Arc, Voice, End.
-- Size: 70 boxes, 4 levels below the center. 52 on the page, 0 thin, 0 open on purpose, 6 needs the author.
+- Size: 70 boxes, 4 levels below the center. 52 on the page, 0 thin, 0 open on purpose, 7 needs the author.
 
 ## At a glance
 
-**The message: Choose your own life, ready or not, and let other people choose theirs**
+**Proposed controlling message: Control is not competence; others pay when you decide for them.**
 
-1. **[p1] Elizabeth: the one who learns to choose** · CHARACTER
-   - [p1-1] Start: she hands things over before she's decided to
+1. **[p1] Elizabeth becomes the author of her own decisions** · CHARACTER
+   - [p1-1] Start: Elizabeth resists before anyone listens
    - [p1-2] Wants: her books back, then the truth
-   - [p1-3] Needs: to choose for herself, even when nobody asks
-   - [p1-4] Stands for: mattering without power
-   - [p1-5] In her way: people who choose for her, and her habit of letting them
-   - [p1-6] Arc: pulled, pushing, choosing
-   - [p1-7] Voice: sincere, not witty; her body knows first
-   - [p1-8] End: she asks, and lets the answer be no
-2. **[p5] She was never the point**
+   - [p1-3] Needs: to direct herself without controlling everyone else
+   - [p1-4] Stands for: human worth without magical exceptionalism
+   - [p1-5] In her way: withheld facts, imposed decisions, and attachment
+   - [p1-6] Arc: resisting, choosing, losing, and choosing again
+   - [p1-7] Voice: practical anxieties, sharp boundaries, dry humor
+   - [p1-8] End: she chooses the route and asks him to join
+2. **[p5] Elizabeth was never the target—and still becomes essential**
    - [p5-1] Something was at her door before any magic
    - [p5-2] He decides it's after her, and tells her so
-   - [p5-3] Why he was really there
+   - [p5-3] His scavenging motive is hinted at, not confronted
    - [p5-4] Camp sees the first part doesn't fit
 
-## Needs the author: 1 item
+## Needs the author: 2 items
 
-- **[p5-3] Why he was really there** · Chapter 1 · author — under She was never the point
-  Nobody asks, all book. P66's central finding.
-  - Option [p5-3-2] Fix 1: she asks him in Chapter 1: The author's line: “What are you still doing here?” The reply has to change with it.
+- **[g] Control is not competence; others pay when you decide for them.** · Chapter 18 · author
+  WORKING THEMATIC CENTRE, not yet author-approved wording. This is grounded in the authoritative Thesis-and-Controlling-Ideas: Pathwell confuses the power to intervene and pay with the right to determine another person's life; the magic literally consumes human histories and possible futures. Elizabeth acts without magic, accepts loss and eventually makes an invitation rather than taking charge of Pathwell's answer. Shade's refusal is valid even though a cleanup creature kills him anyway; consent is not a guarantee of survival. Stansbury and Camp offer qualified counterexamples, and Pathwell's delayed confession/restitution change his conduct without restoring Shade or earning automatic pardon. The opening and closing 'Ready? / No. / Perfect.' exchange changes from overridden objection to chosen, mutually accepted movement; it does not erase the difference between being unready and unwilling. These are tested readings of Chapters 1, 3–4, 7–18, not a moral uttered by the characters.
+- **[p5-3] His scavenging motive is hinted at, not confronted** · Chapter 1 · author — under Elizabeth was never the target—and still becomes essential
+  The author-approved Chapter 1 notebook glimpse hints why Pathwell remained after Elizabeth's welcome party. Chapters 2–3 show his possession of her charged books and the Space Between trade. The specific remaining reader-effect gap is whether she and an unprimed reader connect this cause, not the complete absence of a clue. Any inserted realization is still an unapproved experiment.
+  - Option [p5-3-2] Candidate: she directly questions him in Chapter 1: One possible clarification, not required canon. The author's proposed sharper opening could change the reading of her existing polite boundary; test a reader response and voice consequence before accepting.
     - Option [p5-3-2-1] Now: “Do you mind?” / “Not at all”
     - Option [p5-3-2-2] B0: he just turns a page: Recommended. Her question doesn't get his attention. The thud does.
     - Option [p5-3-2-3] C0: “Reading,”: Funnier, but a new Pathwell joke and another dodge.
-  - Option [p5-3-3] Fix 2: she works it out at the counter: B1. Her suspicion, not his confession. It goes right after the ledger line, and the shopkeeper's “These were never his to spend.” confirms it.
+  - Option [p5-3-3] Candidate: she connects his motive at the shop: A small inference at the Chapter 3 counter could connect the Chapter 1 notebook clue to his unauthorized purchase and the shopkeeper's refusal. This is proposed B1 wording, not yet on the page or author-approved.
 
 ## The chart
 
-### The message [g]: Choose your own life, ready or not, and let other people choose theirs · Chapter 18
+### Proposed controlling message [g]: Control is not competence; others pay when you decide for them. · Chapter 18 · author
 
-How: The last page says it with the first page's words. In Chapter 1 he asks “Ready?”, she says “No,” and he says “Perfect” and takes her hand. In Chapter 18 she asks, he says “No,” and she says “Perfect,” and he comes because she asked and he said yes. Same words. What changed is who is choosing. (Thesis: control is not competence, and Elizabeth matters without any power source.)
+How: WORKING THEMATIC CENTRE, not yet author-approved wording. This is grounded in the authoritative Thesis-and-Controlling-Ideas: Pathwell confuses the power to intervene and pay with the right to determine another person's life; the magic literally consumes human histories and possible futures. Elizabeth acts without magic, accepts loss and eventually makes an invitation rather than taking charge of Pathwell's answer. Shade's refusal is valid even though a cleanup creature kills him anyway; consent is not a guarantee of survival. Stansbury and Camp offer qualified counterexamples, and Pathwell's delayed confession/restitution change his conduct without restoring Shade or earning automatic pardon. The opening and closing 'Ready? / No. / Perfect.' exchange changes from overridden objection to chosen, mutually accepted movement; it does not erase the difference between being unready and unwilling. These are tested readings of Chapters 1, 3–4, 7–18, not a moral uttered by the characters.
 Quote (Chapter 18): “Are you ready?”
 
-## [p1] Elizabeth: the one who learns to choose · CHARACTER
+## [p1] Elizabeth becomes the author of her own decisions · CHARACTER
 
-How: She starts the book handing things over before she's decided to. She ends it choosing where they go and asking him along. She never gets magic; her choices count because they're only human.
+How: She resists from Chapter 1, but her objections do not determine what happens while others control the facts, danger and her property. Her agency grows through particular imperfect and costly decisions—forest, cookbook, car, accusation, diary, rescue—and ends in an invitation that leaves Pathwell free to answer. Her significance never depends on a magical gift, being a chosen target or guaranteeing a perfect outcome.
 
-### [p1-1] Start: she hands things over before she's decided to
+### [p1-1] Start: Elizabeth resists before anyone listens
 
-How: The book has to start with someone who lets other people choose for her, or there's nothing to climb. The character bible calls it compliance under pressure.
+How: The first chapter does not show a woman who simply complies. She objects to a stranger reading her diary, asks questions, takes back the cookbook, says she will not go and answers 'No' to being ready. The danger, withheld information and Pathwell's physical hand nevertheless determine the departure. Her later arc is from resistance with little effective control toward informed self-direction, not from a total absence of will.
 
 - **[p1-1-1] Three weeks in, nothing unpacked** · Chapter 2 · paid
   How: A new life she hasn't moved into yet.
@@ -81,9 +83,9 @@ How: What she's after changes as she climbs. Each want is a little more her own 
   How: The first want that isn't about getting something back.
   Quote (Chapter 4): “She wanted to know why something impossible had come through her door before the magic went wrong.”
 
-### [p1-3] Needs: to choose for herself, even when nobody asks
+### [p1-3] Needs: to direct herself without controlling everyone else
 
-How: Her need is self-direction. Nobody hands it to her; she takes it one rung at a time (Writing Principles 7).
+How: She already resists, so the unmet need is not to discover she can say no; it is to obtain enough truth, set terms, act despite uncertainty and own the consequences. Her best choices involve limits: she cannot rescue everyone or recover destroyed originals.
 
 - **[p1-3-1] Nobody is going to make her important** · Chapter 9 · paid
   How: The diner takes away the importance Pathwell gave her by mistake.
@@ -93,9 +95,9 @@ How: Her need is self-direction. Nobody hands it to her; she takes it one rung a
 - **[p1-3-3] She has to say no and mean it** · Chapter 11 · paid
   Quote (Chapter 11): “I don't need to be rescued.”
 
-### [p1-4] Stands for: mattering without power
+### [p1-4] Stands for: human worth without magical exceptionalism
 
-How: The thesis: her choices matter because they're human. If she ever casts, the book becomes an empowerment fantasy (Thesis, critical constraint).
+How: She owns ordinary decisions and acts with an injured body, not an undiscovered magical power. The dagger is Stansbury's enchantment; the Camp fire rescue works without it. She matters neither because she was the blob's target nor because her choice causes a magically favorable outcome.
 
 - **[p1-4-1] She never does magic** · paid
   How: Canon hard boundary. She can own, carry, give, or position charged things. She can't use them.
@@ -105,9 +107,9 @@ How: The thesis: her choices matter because they're human. If she ever casts, th
 - **[p1-4-3] The dagger is Stansbury's magic, her choice** · Chapter 7 · paid
   Quote (Chapter 7): “Elizabeth already had the dagger in her hand.”
 
-### [p1-5] In her way: people who choose for her, and her habit of letting them
+### [p1-5] In her way: withheld facts, imposed decisions, and attachment
 
-How: Her obstacle is outside and inside at once: people who decide for her, and her habit of letting them.
+How: Elizabeth is not passively allowing everything. Pathwell, the brothers' evasions, the danger, her possessions and her desire for an explanation keep narrowing the real options she can see. Her decisions become more informed even when they remain costly or wrong.
 
 - **[p1-5-1] He decides the danger is hers** · Chapter 1 · paid
   Quote (Chapter 1): “Your house has now been marked, magically speaking.”
@@ -116,9 +118,9 @@ How: Her obstacle is outside and inside at once: people who decide for her, and 
 - **[p1-5-3] He answers for her** · Chapter 4 · paid
   Quote (Chapter 4): “Pathwell answered for her. "No."”
 
-### [p1-6] Arc: pulled, pushing, choosing
+### [p1-6] Arc: resisting, choosing, losing, and choosing again
 
-How: Eight rungs. Each one is something she does, not a door someone opens for her. The ninth rung is the last page.
+How: Each rung has an independent cause and cost. The ditch is a deliberate dangerous act, not automatically a wise one. Saving Milo while Shade struggles is an urgent choice under incompatible demands, not evidence that Shade deserved less. The final invitation is a new possibility, not a verdict of innocence.
 
 - **[p1-6-1] She follows him for her books** · Chapter 2 · paid
   How: Rung 1: she stops absorbing what happened and goes after something that's hers.
@@ -153,9 +155,9 @@ How: Eight rungs. Each one is something she does, not a door someone opens for h
   - **[p1-6-2-6] She remembers it at the end** · Chapter 18 · paid
     Quote (Chapter 18): “had chosen a forest without knowing what it was.”
 
-### [p1-7] Voice: sincere, not witty; her body knows first
+### [p1-7] Voice: practical anxieties, sharp boundaries, dry humor
 
-How: Character bible: her jokes are small and defensive; physical sensation comes before named feeling.
+How: She worries about landlord, clothes and work; she also makes dry jokes and can be abrupt. Her body sometimes reacts before conscious explanation, but that is a variable expressive technique, not her whole identity or a rule that she cannot be witty.
 
 - **[p1-7-1] She worries about ordinary things under pressure** · Chapter 2 · paid
   Quote (Chapter 2): “I have to get my dry cleaning before the meeting.”
@@ -164,9 +166,9 @@ How: Character bible: her jokes are small and defensive; physical sensation come
 - **[p1-7-3] She snaps when she has to** · Chapter 2 · paid
   Quote (Chapter 2): “"No," she snapped.”
 
-### [p1-8] End: she asks, and lets the answer be no
+### [p1-8] End: she chooses the route and asks him to join
 
-How: Who she's become: she decides where they go and asks him along, without pardoning him.
+How: She picks an imperfect destination, checks a return route and asks Pathwell whether he wants to come. His 'Yes' is an invitation accepted; his final 'No' concerns readiness, not refusal. She leaves unresolved accountability intact rather than delivering forgiveness.
 
 - **[p1-8-1] She won't make his guilt her job** · Chapter 16 · paid
   Quote (Chapter 16): “I need you not to make me responsible for whether you become a better person.”
@@ -176,9 +178,9 @@ How: Who she's become: she decides where they go and asks him along, without par
   How: The spoon. The apartment, the job, the plant.
   Quote (Chapter 17): “It was still hers.”
 
-## [p5] She was never the point
+## [p5] Elizabeth was never the target—and still becomes essential
 
-How: Pathwell made her important by misreading a danger that was his. The book takes that importance away so she can earn the other kind: mattering because of what she does, not because something came for her.
+How: Pathwell's first explanation misreads a cleanup threat tied to him and Shade, not Elizabeth. The corrected inference deprives her of false magical importance but not agency or belonging: she acts, chooses and affects real people's lives without becoming the prophesied key.
 
 ### [p5-1] Something was at her door before any magic · Chapter 1 · paid
 
@@ -201,9 +203,9 @@ Quote (Chapter 1): “Your house has now been marked, magically speaking.”
 - **[p5-2-2] He checks the hall and goes still** · Chapter 1 · paid
   Quote (Chapter 1): “Sticking his head out, he checked up and down the hall. Then he went still.”
 
-### [p5-3] Why he was really there · Chapter 1 · author
+### [p5-3] His scavenging motive is hinted at, not confronted · Chapter 1 · author
 
-How: Nobody asks, all book. P66's central finding.
+How: The author-approved Chapter 1 notebook glimpse hints why Pathwell remained after Elizabeth's welcome party. Chapters 2–3 show his possession of her charged books and the Space Between trade. The specific remaining reader-effect gap is whether she and an unprimed reader connect this cause, not the complete absence of a clue. Any inserted realization is still an unapproved experiment.
 Quote (Chapter 1): “He'd been at the party, talking to everybody.”
 
 - **[p5-3-1] The evidence is all on the page**
@@ -225,8 +227,8 @@ Quote (Chapter 1): “He'd been at the party, talking to everybody.”
     Quote (Chapter 3): “He brought outside property into an open transaction”
   - **[p5-3-1-8] Camp calls him a thief** · Chapter 4 · paid
     Quote (Chapter 4): “I was only ever no good at being a thief.”
-- **[p5-3-2] Fix 1: she asks him in Chapter 1** · Chapter 1 · author
-  How: The author's line: “What are you still doing here?” The reply has to change with it.
+- **[p5-3-2] Candidate: she directly questions him in Chapter 1** · Chapter 1 · author
+  How: One possible clarification, not required canon. The author's proposed sharper opening could change the reading of her existing polite boundary; test a reader response and voice consequence before accepting.
   - **[p5-3-2-1] Now: “Do you mind?” / “Not at all”** · Chapter 1 · author
     Quote (Chapter 1): “"Not at all," he said, and turned a page.”
   - **[p5-3-2-2] B0: he just turns a page** · Chapter 1 · author
@@ -235,8 +237,8 @@ Quote (Chapter 1): “He'd been at the party, talking to everybody.”
   - **[p5-3-2-3] C0: “Reading,”** · Chapter 1 · author
     How: Funnier, but a new Pathwell joke and another dodge.
     Proposed (not in the source yet): “"What are you still doing here?" / "Reading," he said, and turned a page.”
-- **[p5-3-3] Fix 2: she works it out at the counter** · Chapter 3 · author
-  How: B1. Her suspicion, not his confession. It goes right after the ledger line, and the shopkeeper's “These were never his to spend.” confirms it.
+- **[p5-3-3] Candidate: she connects his motive at the shop** · Chapter 3 · author
+  How: A small inference at the Chapter 3 counter could connect the Chapter 1 notebook clue to his unauthorized purchase and the shopkeeper's refusal. This is proposed B1 wording, not yet on the page or author-approved.
   Proposed (not in the source yet): “Elizabeth thought of Pathwell on her living-room floor, turning the pages of her diary like he was pricing it.”
 
 ### [p5-4] Camp sees the first part doesn't fit · Chapter 4 · paid
