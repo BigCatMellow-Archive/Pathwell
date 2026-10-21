@@ -22,5 +22,6 @@ if __name__ == "__main__":
         str(HERE / "pathwell-harada.json"),
         "--sources", str(ROOT / "Story" / "Chapters" / "Chapter_*.txt"),
         "--out", str(HERE / "pathwell-harada.html"),
+        "--md", str(HERE / "pathwell-harada.md"),
         *sys.argv[1:],
     ]))

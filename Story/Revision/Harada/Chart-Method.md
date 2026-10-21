@@ -77,6 +77,7 @@ How this chart applies them:
 | 2026-10-20 | v3 | Rebuilt around the message; characters with eight facets each; every box reworded as a statement of what it does; 464 boxes. (H3) |
 | 2026-10-21 | v3.1 | Moved into the repo with the build script and this page. The script's first run caught six boxes with boxes inside and no note; notes added. (H4) |
 | 2026-10-21 | v3.2 | The method split out as a skill other agents can use ([Story/Harada-Method](../../Harada-Method/SKILL.md)): procedure, rules, wording reference, schema, a general checker and viewer, and an excerpt of this chart as the worked example. This chart now builds with it; the chart's content didn't change. |
+| 2026-10-21 | v3.3 | Added the agent edition, [pathwell-harada.md](pathwell-harada.md): the chart as a Markdown outline another agent can read cleanly, generated with the page on every build. The HTML stays for people. The author asked for this because the HTML wasn't the best form for an agent. |
 
 ## Still open
 

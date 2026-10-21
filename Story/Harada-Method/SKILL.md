@@ -18,7 +18,7 @@ This skill came out of three versions of a chart for a novel (Pathwell), each co
 | `SKILL.md` (this file) | Always. It's enough to build a chart. |
 | `reference/wording.md` | You're writing or reviewing box titles. Bad-to-good pairs from real charts. |
 | `reference/chart-schema.json` | You're writing the JSON by hand or validating someone else's. |
-| `examples/pathwell-excerpt.json` | You want to see a finished center, a story-engine box and a character opened to three levels. |
+| `examples/pathwell-excerpt.json` | You want to see a finished center, a story-engine box and a character opened to three levels. `pathwell-excerpt.md` is the same example as an agent reads it. |
 | `scripts/harada_chart.py` | Checking or building. Standard-library Python 3. |
 | `assets/chart-template.html` | Only if you're changing how the page looks. The script uses it automatically. |
 
@@ -123,12 +123,12 @@ One JSON file. The full format is in `reference/chart-schema.json`.
 ## The script
 
 ```text
-python3 scripts/harada_chart.py CHART.json --sources "path/to/sources/*.txt"           # check, then build CHART.html
+python3 scripts/harada_chart.py CHART.json --sources "path/to/sources/*.txt"           # check, then build CHART.html and CHART.md
 python3 scripts/harada_chart.py CHART.json --sources "…" --check                        # check only
 python3 scripts/harada_chart.py CHART.json --sources "…" --from-page saved-page.html    # pull edits made on the page first
 ```
 
-The built page is one HTML file. It opens in a browser, shows the chart as sheets or as an outline, lets anyone open any box as the center, and lets an editor add or change boxes. Published as a Claude artifact with the `artifact` capability, it saves edits to itself.
+The build makes two files from the one chart. **`CHART.md` is the agent edition**: a Markdown outline with how to read it, the shape at a glance, the open decisions grouped with their options, then every box in order. Give that to another agent, not the HTML. **`CHART.html` is for people.** It's one HTML file. It opens in a browser, shows the chart as sheets or as an outline, lets anyone open any box as the center, and lets an editor add or change boxes. Published as a Claude artifact with the `artifact` capability, it saves edits to itself.
 
 **If the owner may have edited the published page, sync before you change anything.** Read the page back, save it, and run `--from-page`. Otherwise you overwrite their work.
 

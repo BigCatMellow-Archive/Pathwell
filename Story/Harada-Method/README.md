@@ -27,4 +27,4 @@ From the Pathwell repository root:
 python3 Story/Harada-Method/scripts/harada_chart.py Story/Harada-Method/examples/pathwell-excerpt.json --sources "Story/Chapters/Chapter_*.txt"
 ```
 
-That checks the example's quotes against the chapters and builds `examples/pathwell-excerpt.html`.
+That checks the example's quotes against the chapters and builds `examples/pathwell-excerpt.html` (for people) and `examples/pathwell-excerpt.md` (for agents).

@@ -9,7 +9,9 @@ A chart is one JSON file (format: ../reference/chart-schema.json). This script:
      Warnings (fix or decide): titles that are labels or too long, boxes with
      boxes inside but no note, proposed wording not marked for the owner.
   2. builds the chart page: one self-contained HTML file that can be opened
-     in a browser or published, and that can save edits to itself.
+     in a browser or published, and that can save edits to itself; and the
+     agent edition: the same chart as a Markdown outline, for another agent
+     (or a person) to read in order.
   3. optionally pulls edits back from a saved copy of the published page.
 
 Sources are the text files quotes are checked against. Each file's key is the
@@ -150,6 +152,141 @@ def build(chart, template_path, out_path):
     pathlib.Path(out_path).write_text(HEAD + content + TAIL, encoding="utf-8")
 
 
+STATUS_NAMES = {"paid": "on the page", "thin": "thin", "open": "open on purpose", "author": "needs the author"}
+
+
+def to_markdown(chart, chart_name):
+    """The chart as a Markdown outline: the version to hand another agent."""
+    labels = {"center": "The goal", "sourceName": "Chapter", **chart.get("labels", {})}
+    src = labels["sourceName"]
+    names = {**STATUS_NAMES, **chart.get("statuses", {})}
+    root = chart["root"]
+    out = []
+    w = out.append
+
+    def meta(n):
+        bits = []
+        if n.get("kind") == "character":
+            bits.append("CHARACTER")
+        if n.get("ch") is not None:
+            bits.append(f"{src} {n['ch']}")
+        if n.get("status"):
+            bits.append(n["status"])
+        return (" · " + " · ".join(bits)) if bits else ""
+
+    def details(n, pad):
+        if n.get("note"):
+            w(f"{pad}How: {n['note']}")
+        if n.get("quote"):
+            w(f"{pad}Quote ({src} {n.get('ch')}): “{n['quote']}”")
+        if n.get("proposed"):
+            w(f"{pad}Proposed (not in the source yet): “{n['proposed']}”")
+
+    def path_of(target):
+        def find(n, trail):
+            if n is target:
+                return trail
+            for k in n.get("kids", []):
+                r = find(k, trail + [n])
+                if r is not None:
+                    return r
+            return None
+        return find(root, []) or []
+
+    allboxes = [n for n, _ in walk(root)]
+    title = chart.get("title") or "Harada chart"
+    w(f"# {title}: agent edition")
+    w("")
+    w(f"Generated from `{chart_name}` by the Harada method's `harada_chart.py`. Don't edit this file: "
+      "edit the JSON (or the published page, then sync) and rebuild. Same content as the chart page, "
+      "written to be read in order.")
+    w("")
+    w("## How to read this")
+    w("")
+    w(f"- The chart is a tree. The center is {labels['center'].lower()}. **Every box's children are how it gets to that box.**")
+    w(f"- Each box is `[id] Title`, then where it comes from ({src} N) and its status, if any.")
+    w("  - **How:** how the box gets to the box above it.")
+    w(f"  - **Quote:** exact words from the {src.lower()} named; every one is checked against the source when the chart is built.")
+    w("  - **Proposed:** candidate wording that is *not* in the source. It's waiting on the author. Never treat it as canon.")
+    w("- Ids give the position: `p3-6-2` is the 3rd box around the center, its 6th box, and that box's 2nd box.")
+    w("- Statuses: " + "; ".join(f"`{k}` = {v}" for k, v in names.items()) + ". A box with no status is structure.")
+    w("- `CHARACTER` marks an actor. Its children are facets: Start, Wants, Needs, Stands for, In the way (or Flaw, Blind spot), Arc, Voice, End.")
+    st = {k: sum(1 for n in allboxes if n.get("status") == k) for k in names}
+    depth = max(d for _, d in walk(root))
+    w(f"- Size: {len(allboxes)} boxes, {depth} levels below the center. " + ", ".join(f"{v} {names[k]}" for k, v in st.items()) + ".")
+    w("")
+    w("## At a glance")
+    w("")
+    w(f"**{labels['center']}: {root['title']}**")
+    w("")
+    for i, k in enumerate(root.get("kids", []), 1):
+        w(f"{i}. **[{k['id']}] {k['title']}**{meta(k)}")
+        for f in k.get("kids", []):
+            w(f"   - [{f['id']}] {f['title']}")
+    w("")
+    parent = {}
+    for n, _ in walk(root):
+        for k in n.get("kids", []):
+            parent[id(k)] = n
+    for key in ("author", "thin", "open"):
+        # One entry per decision: a box with this status whose parent doesn't
+        # share it. Its children with the same status are listed as its options.
+        items = [n for n in allboxes if n.get("status") == key
+                 and parent.get(id(n), {}).get("status") != key]
+        if not items:
+            continue
+        heading = names[key][0].upper() + names[key][1:]
+        w(f"## {heading}: {len(items)} item{'s' if len(items) != 1 else ''}")
+        w("")
+        for n in items:
+            trail = " › ".join(p["title"] for p in path_of(n)[1:])
+            w(f"- **[{n['id']}] {n['title']}**{meta(n)}" + (f" — under {trail}" if trail else ""))
+            if n.get("note"):
+                w(f"  {n['note']}")
+            label = "Option" if key == "author" else "Includes"
+            for o in [k for k in n.get("kids", []) if k.get("status") == key]:
+                w(f"  - {label} [{o['id']}] {o['title']}" + (f": {o['note']}" if o.get("note") else ""))
+                for oo in [k for k in o.get("kids", []) if k.get("status") == key]:
+                    w(f"    - {label} [{oo['id']}] {oo['title']}" + (f": {oo['note']}" if oo.get("note") else ""))
+        w("")
+    if chart.get("loose"):
+        w("## Not on the chart yet")
+        w("")
+        for l in chart["loose"]:
+            w(f"- **{l['id']}**: {l['text']}" + (f" · {l['status']}" if l.get("status") else ""))
+        w("")
+    w("## The chart")
+    w("")
+    w(f"### {labels['center']} [{root['id']}]: {root['title']}{meta(root)}")
+    w("")
+    details(root, "")
+    w("")
+
+    def box(n, depth):
+        if depth == 1:
+            w(f"## [{n['id']}] {n['title']}{meta(n)}")
+            w("")
+            details(n, "")
+            w("")
+        elif depth == 2:
+            w(f"### [{n['id']}] {n['title']}{meta(n)}")
+            w("")
+            details(n, "")
+            w("")
+        else:
+            pad = "  " * (depth - 3)
+            w(f"{pad}- **[{n['id']}] {n['title']}**{meta(n)}")
+            details(n, pad + "  ")
+        for k in n.get("kids", []):
+            box(k, depth + 1)
+        if depth == 2 and n.get("kids"):
+            w("")
+
+    for k in root.get("kids", []):
+        box(k, 1)
+    return "\n".join(out).rstrip() + "\n"
+
+
 def from_page(page_path, chart_path):
     html = pathlib.Path(page_path).read_text(encoding="utf-8")
     m = re.search(r"^const DATA = (.*);$", html, re.M)
@@ -167,6 +304,7 @@ def main(argv=None):
     ap.add_argument("--sources", help="glob of the source text files quotes are checked against")
     ap.add_argument("--check", action="store_true", help="check only; don't build")
     ap.add_argument("--out", help="page to build (default: the chart's name with .html)")
+    ap.add_argument("--md", help="agent edition to write (default: the chart's name with .md)")
     ap.add_argument("--template", default=str(DEFAULT_TEMPLATE), help="viewer template")
     ap.add_argument("--from-page", metavar="FILE", help="pull edits from a saved copy of the published page first")
     args = ap.parse_args(argv)
@@ -188,7 +326,9 @@ def main(argv=None):
     if not args.check:
         out = args.out or chart_path.with_suffix(".html")
         build(chart, args.template, out)
-        print(f"Built {out}")
+        md = args.md or chart_path.with_suffix(".md")
+        pathlib.Path(md).write_text(to_markdown(chart, chart_path.name), encoding="utf-8")
+        print(f"Built {out} and {md}")
     return 0
 
 
