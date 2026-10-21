@@ -2732,3 +2732,18 @@ Blobs: Ch1 `a105bc1c` → `6b063462`; Ch3 `7ac8171b` → `75296137`. No other ch
 
 **OPEN:** Author choices on F1 (A/B/C), F2, F3a, F3b, and Q-P. Chapters 14–18 stay **L3**.
 
+## P69, 2026-10-21: author-selected climax cuts from EXP-0016
+
+**AUTHORITY:** [R54](Decisions.md#the-authors-rulings-for-this-revision). Asked about the P68 findings, the author kept “someone” in the Ch18 confession, took all three cuts, and answered Q-P: the confession stays with Elizabeth.
+
+**DO (exact, from the EXP-0016 patches, applied with `git apply`):**
+1. Ch14: “Her shoulder screamed inside the sling. Shade was one breath behind her. Stansbury ran toward the archive from the other side…” → “Her shoulder screamed inside the sling. Stansbury ran toward the archive from the other side…” (B2)
+2. Ch16: last line ends at “…because morning was going to require things from all of them.” Cut: “and for once Pathwell would not be the person deciding what those things were.” (B3a)
+3. Ch17: ends at “Elizabeth smiled.” Cut: “Not because she knew where she wanted to go yet.” / “Because she wanted to go.” (B3b)
+
+Blobs: Ch14 `9b1be3f7` → `da48b224`; Ch16 `f61a3870` → `b752f794`; Ch17 `1ac7d078` → `c9c6a6c6`. Ch18 unchanged (“someone” kept).
+
+**CHECK:** The word diff shows these three cuts and nothing else. Book-wide checker before and after: Ch16 loses one uncontracted form and one "for once"; Ch17 loses one "Not…" fragment paragraph and two paragraphs; nothing new. Ch15 still opens with Shade “coming toward the fire from the far side of the ruined brass frame”, which now has no contradiction in Ch14. Ch16's restitution scene and Ch17's “The thought of going somewhere strange didn't arrive attached to somebody else's hand on the map.” still carry what the cut lines said.
+
+**RECONCILE:** [Decisions R54](Decisions.md#the-authors-rulings-for-this-revision) and Q-P marked answered; [EXP-0016](Emergence/experiments/EXP-0016-Ch14-18-Climax-Candidates-2026-10-21.md) status; [Promise Ledger](Promise-Ledger.md) new row L18 (who learns the confession: open-deliberate); [Revision Status](../../Revision-Status.md). P68's F4 (pardon risk) and F5 (“resemblance”) remain reader-test items. Chapters 14–18 stay **L3**.
+

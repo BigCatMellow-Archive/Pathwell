@@ -1,7 +1,7 @@
 # EXP-0016 — Chapters 14–18: who he could have called, Shade's position, theme-stating closers
 
 **Date:** 2026-10-21  
-**Status:** CANDIDATES PREPARED AND VERIFIED; **NONE APPLIED; awaiting the author**  
+**Status:** **AUTHOR-SELECTED 2026-10-21 ([R54](../../Decisions.md#the-authors-rulings-for-this-revision), [P69](../../Pass-Log.md#p69-2026-10-21-author-selected-climax-cuts-from-exp-0016)): B2, B3a and B3b applied; Candidate 1 kept as A (“someone”), so B1 and C1 are not taken.**  
 **From:** [P68 review](../CLIMAX-P68-CH14-18-REVIEW-2026-10-21.md), F1–F3  
 **Control (A):** the chapter text on `main` after P67. Each candidate is a patch in this folder; adopt one with `git apply <patch>` from the repository root.
 
