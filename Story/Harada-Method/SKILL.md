@@ -137,7 +137,7 @@ The built page is one HTML file. It opens in a browser, shows the chart as sheet
 - **One level only.** v1 was a fixed 9×9: eight pillars of eight scenes, and nothing below. The owner: "each box can have its own breakdown as far as needed, so dont just stick to the first breakdown."
 - **Labels, not statements.** v2 opened any box, but its titles were scene tags: "The pile", "Help!", "Recalculates", "Seen first". The owner: "Most of the text in the boxes is pretty nondescript."
 - **An event at the center.** v1 and v2 put "The last page earns it" in the middle. The owner: "The end goal of the story should be the ending message of what the story is trying to tell."
-- **Characters scattered.** v2 spread each character's moments across theme pillars. The owner: characters "need boxes about who they are, what they stand for, their arches."
+- **Characters scattered.** v2 spread each character's moments across theme pillars. The owner asked for characters to get their own boxes: who they are, what they stand for, their arcs.
 
 ## Done when
 
