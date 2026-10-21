@@ -1,27 +1,27 @@
 {
  "title": "Pathwell Harada Chart",
- "lede": "The center is what the story is saying. The eight around any box are how the story gets there, and each of those opens into its own eight, as deep as it needs. Select a box to read it; select it again, or use Open, to make it the center.",
- "footer": "Built from the Pathwell manuscript and its Promise Ledger. Every manuscript quote is checked against its chapter by the build; boxes marked “Proposed wording” are candidate text, not the book. Statuses follow the ledger.",
+ "lede": "A source-checked, recursively navigable thematic argument, not a verdict imposed on the novel. The central wording is a working interpretation of the author’s controlling idea; every child explains how the story tests it, including counterexamples and irreparable costs.",
+ "footer": "Working thematic revision grounded in canonical Chapters 1–18, the author’s Thesis-and-Controlling-Ideas, Non-Negotiable Scenes, Writing Principles and revision decisions. All chapter quotes must match manuscript text; interpretive claims and proposals remain distinct from canon.",
  "labels": {
-  "center": "The message",
-  "centerNote": "What the story is saying",
+  "center": "Proposed controlling message",
+  "centerNote": "How the whole story argues this",
   "source": "Ch",
   "sourceName": "Chapter"
  },
  "root": {
-  "title": "Choose your own life, ready or not, and let other people choose theirs",
+  "title": "Control is not competence; others pay when you decide for them.",
   "ch": 18,
   "quote": "Are you ready?",
-  "note": "The last page says it with the first page's words. In Chapter 1 he asks “Ready?”, she says “No,” and he says “Perfect” and takes her hand. In Chapter 18 she asks, he says “No,” and she says “Perfect,” and he comes because she asked and he said yes. Same words. What changed is who is choosing. (Thesis: control is not competence, and Elizabeth matters without any power source.)",
+  "note": "WORKING THEMATIC CENTRE, not yet author-approved wording. This is grounded in the authoritative Thesis-and-Controlling-Ideas: Pathwell confuses the power to intervene and pay with the right to determine another person's life; the magic literally consumes human histories and possible futures. Elizabeth acts without magic, accepts loss and eventually makes an invitation rather than taking charge of Pathwell's answer. Shade's refusal is valid even though a cleanup creature kills him anyway; consent is not a guarantee of survival. Stansbury and Camp offer qualified counterexamples, and Pathwell's delayed confession/restitution change his conduct without restoring Shade or earning automatic pardon. The opening and closing 'Ready? / No. / Perfect.' exchange changes from overridden objection to chosen, mutually accepted movement; it does not erase the difference between being unready and unwilling. These are tested readings of Chapters 1, 3–4, 7–18, not a moral uttered by the characters.",
   "kids": [
    {
-    "title": "Elizabeth: the one who learns to choose",
+    "title": "Elizabeth becomes the author of her own decisions",
     "kind": "character",
-    "note": "She starts the book handing things over before she's decided to. She ends it choosing where they go and asking him along. She never gets magic; her choices count because they're only human.",
+    "note": "She resists from Chapter 1, but her objections do not determine what happens while others control the facts, danger and her property. Her agency grows through particular imperfect and costly decisions—forest, cookbook, car, accusation, diary, rescue—and ends in an invitation that leaves Pathwell free to answer. Her significance never depends on a magical gift, being a chosen target or guaranteeing a perfect outcome.",
     "kids": [
      {
-      "title": "Start: she hands things over before she's decided to",
-      "note": "The book has to start with someone who lets other people choose for her, or there's nothing to climb. The character bible calls it compliance under pressure.",
+      "title": "Start: Elizabeth resists before anyone listens",
+      "note": "The first chapter does not show a woman who simply complies. She objects to a stranger reading her diary, asks questions, takes back the cookbook, says she will not go and answers 'No' to being ready. The danger, withheld information and Pathwell's physical hand nevertheless determine the departure. Her later arc is from resistance with little effective control toward informed self-direction, not from a total absence of will.",
       "kids": [
        {
         "title": "Three weeks in, nothing unpacked",
@@ -51,11 +51,11 @@
         "id": "p1-1-3"
        },
        {
-        "title": "Polite to a man reading her diary",
+        "title": "Her polite objection still marks a boundary",
         "ch": 1,
         "quote": "She watched for a moment before interrupting. \"Do you mind?\"",
         "status": "author",
-        "note": "Her first words are an apology for existing. The author has proposed “What are you still doing here?” instead; see “She was never the point.”",
+        "note": "She says 'Do you mind?' to a stranger reading her diary. This is restrained and socially polite, not an apology for existing or proof she consents. The proposed sharper line is not in the manuscript; test reader comprehension before replacing her voice. The author retains the decision.",
         "kids": [],
         "id": "p1-1-4"
        },
@@ -139,8 +139,8 @@
       "id": "p1-2"
      },
      {
-      "title": "Needs: to choose for herself, even when nobody asks",
-      "note": "Her need is self-direction. Nobody hands it to her; she takes it one rung at a time (Writing Principles 7).",
+      "title": "Needs: to direct herself without controlling everyone else",
+      "note": "She already resists, so the unmet need is not to discover she can say no; it is to obtain enough truth, set terms, act despite uncertainty and own the consequences. Her best choices involve limits: she cannot rescue everyone or recover destroyed originals.",
       "kids": [
        {
         "title": "Nobody is going to make her important",
@@ -179,8 +179,8 @@
       "id": "p1-3"
      },
      {
-      "title": "Stands for: mattering without power",
-      "note": "The thesis: her choices matter because they're human. If she ever casts, the book becomes an empowerment fantasy (Thesis, critical constraint).",
+      "title": "Stands for: human worth without magical exceptionalism",
+      "note": "She owns ordinary decisions and acts with an injured body, not an undiscovered magical power. The dagger is Stansbury's enchantment; the Camp fire rescue works without it. She matters neither because she was the blob's target nor because her choice causes a magically favorable outcome.",
       "kids": [
        {
         "title": "She never does magic",
@@ -228,8 +228,8 @@
       "id": "p1-4"
      },
      {
-      "title": "In her way: people who choose for her, and her habit of letting them",
-      "note": "Her obstacle is outside and inside at once: people who decide for her, and her habit of letting them.",
+      "title": "In her way: withheld facts, imposed decisions, and attachment",
+      "note": "Elizabeth is not passively allowing everything. Pathwell, the brothers' evasions, the danger, her possessions and her desire for an explanation keep narrowing the real options she can see. Her decisions become more informed even when they remain costly or wrong.",
       "kids": [
        {
         "title": "He decides the danger is hers",
@@ -275,8 +275,8 @@
       "id": "p1-5"
      },
      {
-      "title": "Arc: pulled, pushing, choosing",
-      "note": "Eight rungs. Each one is something she does, not a door someone opens for her. The ninth rung is the last page.",
+      "title": "Arc: resisting, choosing, losing, and choosing again",
+      "note": "Each rung has an independent cause and cost. The ditch is a deliberate dangerous act, not automatically a wise one. Saving Milo while Shade struggles is an urgent choice under incompatible demands, not evidence that Shade deserved less. The final invitation is a new possibility, not a verdict of innocence.",
       "kids": [
        {
         "title": "She follows him for her books",
@@ -529,7 +529,7 @@
         "ch": 8,
         "quote": "Elizabeth chose the ditch.",
         "status": "paid",
-        "note": "Rung 5: the midpoint. She chooses the crash, not its consequences (Non-Negotiable 4).",
+        "note": "She makes the brothers stop their evasion by putting the Cadillac in the ditch. It is her decision, but it damages Stansbury's car and puts people at risk. The fact that she chooses deliberately does not make the act morally or practically beyond criticism.",
         "kids": [
          {
           "title": "They make her the driver and nothing else",
@@ -738,7 +738,7 @@
         "ch": 15,
         "quote": "That was the choice.",
         "status": "paid",
-        "note": "Rung 8: no spell, dagger unused, diary and cookbook left to burn (R45).",
+        "note": "She saves Milo with an injured shoulder and no magic, leaving the diary and cookbook to burn. Shade is simultaneously trapped and calls for help. Her action is urgent and legible, but it does not entail that his life was worth less or that Pathwell's later omission was equivalent.",
         "kids": [
          {
           "title": "Two people call for help at once",
@@ -873,8 +873,8 @@
       "id": "p1-6"
      },
      {
-      "title": "Voice: sincere, not witty; her body knows first",
-      "note": "Character bible: her jokes are small and defensive; physical sensation comes before named feeling.",
+      "title": "Voice: practical anxieties, sharp boundaries, dry humor",
+      "note": "She worries about landlord, clothes and work; she also makes dry jokes and can be abrupt. Her body sometimes reacts before conscious explanation, but that is a variable expressive technique, not her whole identity or a rule that she cannot be witty.",
       "kids": [
        {
         "title": "She worries about ordinary things under pressure",
@@ -928,8 +928,8 @@
       "id": "p1-7"
      },
      {
-      "title": "End: she asks, and lets the answer be no",
-      "note": "Who she's become: she decides where they go and asks him along, without pardoning him.",
+      "title": "End: she chooses the route and asks him to join",
+      "note": "She picks an imperfect destination, checks a return route and asks Pathwell whether he wants to come. His 'Yes' is an invitation accepted; his final 'No' concerns readiness, not refusal. She leaves unresolved accountability intact rather than delivering forgiveness.",
       "kids": [
        {
         "title": "She won't make his guilt her job",
@@ -995,9 +995,9 @@
     "id": "p1"
    },
    {
-    "title": "Pathwell: the one who chooses for everyone",
+    "title": "Pathwell mistakes helping for decision-making authority",
     "kind": "character",
-    "note": "He helps by deciding what helping means, pays with his own future, and lets the bill land on other people. The book doesn't cure him. It makes him see it, say it, and start asking.",
+    "note": "His competence and kindness are real. He repeatedly substitutes his chosen method for another person's consent, then treats his own payment as a defense. The pattern culminates in forced rejoining, the fire and an intentional failure to summon help while Shade is caught. His later restraint, confession and assigned restitution represent behavioral change, not erasure of consequence.",
     "kids": [
      {
       "title": "Start: a charming scavenger who walks through open doors",
@@ -1055,8 +1055,8 @@
       "id": "p2-1"
      },
      {
-      "title": "Wants: to fix it fast, and be the one who fixed it",
-      "note": "He means well. That's what makes it dangerous.",
+      "title": "Wants: to be useful quickly, on his own terms",
+      "note": "Usefulness is genuinely valuable to him, and so is being the person who solves the problem. That combination becomes dangerous when he declines to ask who owns the decision and how they would define help.",
       "kids": [
        {
         "title": "He wants credit for the paper",
@@ -1096,7 +1096,7 @@
      },
      {
       "title": "Stands for: control that calls itself help",
-      "note": "The controlling idea in a person: treating future possibility as leverage, and letting other people pay for your convenience.",
+      "note": "The author's controlling idea as a person: control is not competence. A solution can be technically elegant and still violate its recipient's authority; Pathwell's confident problem solving causes losses no later efficiency can undo.",
       "kids": [
        {
         "title": "He invents a certainty to move her",
@@ -1246,8 +1246,8 @@
       "id": "p2-5"
      },
      {
-      "title": "Arc: from casual pruner to a man who asks first",
-      "note": "He doesn't get cured. He gets caught by what he did, says it out loud, and starts asking. Each step costs someone else first.",
+      "title": "Arc: from self-appointment to accountable restraint",
+      "note": "He does not simply learn a slogan or become innocent. He insists on imposing a rejoining, witnesses the harm, consciously withholds a call that might have helped Shade, admits it late, accepts the victim's inability to return and repeatedly works under other people's instructions. The cookbook left untouched and asking before acting are evidence of changed conduct, not a completed moral transaction.",
       "kids": [
        {
         "title": "He buys Camp's paper with his own future",
@@ -1755,8 +1755,8 @@
       "id": "p2-7"
      },
      {
-      "title": "End: changed in habits, not forgiven",
-      "note": "His everyday conduct really changes. It doesn't undo what he did to Shade, and nobody says it does.",
+      "title": "End: he accepts limits without receiving absolution",
+      "note": "At the museum and Camp he follows instructions rather than optimizing around their owners. In the bookshop he asks permission, leaves the cookbook, admits deliberate inaction and answers the invitation rather than scripting it. The story does not show Shade restored or Elizabeth expressly pardoning him.",
       "kids": [
        {
         "title": "He checks whether he was asked",
@@ -1822,9 +1822,9 @@
     "id": "p2"
    },
    {
-    "title": "Shade: the person someone else's choice made",
+    "title": "Shade's life is his, whatever his origin or fate",
     "kind": "character",
-    "note": "Made from one of Pathwell's prunes, he's proof that what you decide for someone becomes a someone. Where he came from explains him. It doesn't own him.",
+    "note": "Shade is not merely a failed prune or an object lesson in Pathwell's guilt. He acts, wants, refuses, jokes badly, chooses to stay at Camp and acquires relationships apart from his maker. His physical pull is not consent, and his fight against the cleanup creature is not a voluntary sacrifice. Dying does not make his former 'No' invalid.",
     "kids": [
      {
       "title": "Start: Pathwell's failed prune, walking around",
@@ -1905,8 +1905,8 @@
       "id": "p3-2"
      },
      {
-      "title": "Stands for: where you came from doesn't own you",
-      "note": "Thesis: “Origin explains Shade. Origin does not own Shade.” His death doesn't need his consent to matter.",
+      "title": "Stands for: origin never grants ownership",
+      "note": "His inherited memories and compulsory bodily draw explain a predicament but do not remove personhood. His independent, explicitly spoken refusal is valid even though Pathwell overrides it; the indifferent cleanup creature later kills him without permission.",
       "kids": [
        {
         "title": "He asks the only question that matters",
@@ -1936,8 +1936,8 @@
       "id": "p3-3"
      },
      {
-      "title": "In his way: he can't tell which feelings are his",
-      "note": "The draw is literal. His body keeps choosing Pathwell when he doesn't.",
+      "title": "In his way: an inherited pull still moves his body",
+      "note": "The obstacle is physically shown through his right arm drawing toward Pathwell even against conscious refusal, sometimes painfully. Inherited recollections complicate identity, but the text does not establish that Shade simply cannot distinguish his own feelings.",
       "kids": [
        {
         "title": "The hand turns him at the museum",
@@ -1969,8 +1969,8 @@
       "id": "p3-4"
      },
      {
-      "title": "Arc: from an argument with his maker to a person with a life",
-      "note": "He spends too long chasing Pathwell's admission, then finds a life at Camp just before he loses it.",
+      "title": "Arc: from demanding recognition to making a life",
+      "note": "Shade demands an account of what made him, but at Camp he begins to want more than an admission: clothes, onions, card games, a place to stay and a future he can discover. The sudden loss is not an earned punishment and does not retroactively turn his life into Pathwell's property.",
       "kids": [
        {
         "title": "He's a wrongness in a mirror",
@@ -2186,8 +2186,8 @@
       "id": "p3-7"
      },
      {
-      "title": "His death has to cost something",
-      "note": "If losing him doesn't hurt, Pathwell's silence costs nothing and the confession is empty.",
+      "title": "His life and death matter beyond Pathwell's guilt",
+      "note": "The reader has seen the pockets, coffee, onion, Hearts and wish to stay before his unexpected capture. Shade struggles, accepts help and calls out. Camp recognizes him as a person; the loss remains his as well as the others'. Pathwell's omission is morally important but not the only reason the death matters.",
       "kids": [
        {
         "title": "It takes him while he's helping",
@@ -2236,9 +2236,9 @@
     "id": "p3"
    },
    {
-    "title": "Stansbury: the brother who keeps people small",
+    "title": "Stansbury's prudence helps and limits other people",
     "kind": "character",
-    "note": "The other way to get it wrong. Pathwell decides for people by acting. Stansbury does it by protecting them from risk and handing them toys. His turn is small and his own: he chooses his scar.",
+    "note": "Stansbury is often right about the danger of his brother's methods, yet safety can become paternalistic when he limits what others may learn or choose. His charged foam weapons enable real rescue. He risks himself in the archive fire, lets a scar remain, and helps maintain boundaries after the damage. Neither all caution nor all intervention is wrong.",
     "kids": [
      {
       "title": "Start: the older brother who's watched this for centuries",
@@ -2273,8 +2273,8 @@
       "id": "p4-1"
      },
      {
-      "title": "Stands for: caution that calls itself prudence",
-      "note": "He protects people by keeping them out of it.",
+      "title": "Stands for: caution that can become paternalism",
+      "note": "He recognizes risks Pathwell ignores and often prevents harm; his failure is not prudence itself but assuming he can unilaterally determine how much exposure and information others should receive.",
       "kids": [
        {
         "title": "He slaps her hand off the box",
@@ -2382,8 +2382,8 @@
       "id": "p4-5"
      },
      {
-      "title": "His turn: he goes back in by choice",
-      "note": "The fire is the first time he takes a risk himself instead of keeping one away from someone.",
+      "title": "His turn: he acts when caution cannot contain the fire",
+      "note": "He goes into danger for other people; this is a real personal risk and not a simplistic lesson that all restraint is cowardice.",
       "kids": [
        {
         "title": "He counts who's safe",
@@ -2503,8 +2503,8 @@
     "id": "p4"
    },
    {
-    "title": "She was never the point",
-    "note": "Pathwell made her important by misreading a danger that was his. The book takes that importance away so she can earn the other kind: mattering because of what she does, not because something came for her.",
+    "title": "Elizabeth was never the target—and still becomes essential",
+    "note": "Pathwell's first explanation misreads a cleanup threat tied to him and Shade, not Elizabeth. The corrected inference deprives her of false magical importance but not agency or belonging: she acts, chooses and affects real people's lives without becoming the prophesied key.",
     "kids": [
      {
       "title": "Something was at her door before any magic",
@@ -2584,11 +2584,11 @@
       "id": "p5-2"
      },
      {
-      "title": "Why he was really there",
+      "title": "His scavenging motive is hinted at, not confronted",
       "ch": 1,
       "quote": "He'd been at the party, talking to everybody.",
       "status": "author",
-      "note": "Nobody asks, all book. P66's central finding.",
+      "note": "The author-approved Chapter 1 notebook glimpse hints why Pathwell remained after Elizabeth's welcome party. Chapters 2–3 show his possession of her charged books and the Space Between trade. The specific remaining reader-effect gap is whether she and an unprimed reader connect this cause, not the complete absence of a clue. Any inserted realization is still an unapproved experiment.",
       "kids": [
        {
         "title": "The evidence is all on the page",
@@ -2663,10 +2663,10 @@
         "id": "p5-3-1"
        },
        {
-        "title": "Fix 1: she asks him in Chapter 1",
+        "title": "Candidate: she directly questions him in Chapter 1",
         "ch": 1,
         "status": "author",
-        "note": "The author's line: “What are you still doing here?” The reply has to change with it.",
+        "note": "One possible clarification, not required canon. The author's proposed sharper opening could change the reading of her existing polite boundary; test a reader response and voice consequence before accepting.",
         "kids": [
          {
           "title": "Now: “Do you mind?” / “Not at all”",
@@ -2698,10 +2698,10 @@
         "id": "p5-3-2"
        },
        {
-        "title": "Fix 2: she works it out at the counter",
+        "title": "Candidate: she connects his motive at the shop",
         "ch": 3,
         "status": "author",
-        "note": "B1. Her suspicion, not his confession. It goes right after the ledger line, and the shopkeeper's “These were never his to spend.” confirms it.",
+        "note": "A small inference at the Chapter 3 counter could connect the Chapter 1 notebook clue to his unauthorized purchase and the shopkeeper's refusal. This is proposed B1 wording, not yet on the page or author-approved.",
         "proposed": "Elizabeth thought of Pathwell on her living-room floor, turning the pages of her diary like he was pricing it.",
         "kids": [],
         "id": "p5-3-3"
@@ -2845,8 +2845,8 @@
     "id": "p5"
    },
    {
-    "title": "The magic spends real lives",
-    "note": "Writing carries the person who wrote it, and using it uses them up. That makes every choice about a record a choice about a person, and it makes Pathwell's habit of spending futures literal.",
+    "title": "Magic can consume a person's history and possible future",
+    "note": "Charged writing can transmit lived experience and be permanently spent. Pathwell sells his own unrealized future to obtain Camp's records, but the choice to spend charged things can also erase what belongs to others. In the fire, ordinary flame destroys Nana's cookbook and Elizabeth's diary without any magical final benefit; a copy may preserve words but not the original life carried by the page.",
     "kids": [
      {
       "title": "A page carries the person who wrote it",
@@ -3031,11 +3031,11 @@
       "id": "p6-2"
      },
      {
-      "title": "People's lives are the currency",
+      "title": "The currency of magic is someone else's lived history",
       "ch": 3,
       "quote": "Not books — lives.",
       "status": "paid",
-      "note": "If records are money, then whoever spends one is spending a person. That's what turns Pathwell's habit into harm.",
+      "note": "The Space Between prices records and potential; whoever selects a record to spend can erase a unique human history. Ownership, permission and irreversibility matter more than whether the transaction is technically possible.",
       "kids": [
        {
         "title": "The shop is full of people",
@@ -3077,7 +3077,7 @@
       "ch": 3,
       "quote": "You did.",
       "status": "open",
-      "note": "How much is left stays open on purpose (Q96, R19).",
+      "note": "The Chapter 3 transaction pays with Pathwell's own future. The size of that loss and his remaining ability to prune are not conclusively tested in Chapter 18; don't use an implied future magical incapacity as a fake moral restraint.",
       "kids": [
        {
         "title": "He thinks he has plenty",
@@ -3220,15 +3220,15 @@
     "id": "p6"
    },
    {
-    "title": "The last page answers the first",
-    "note": "The ending uses the opening's own words so the reader feels the change without being told. What was done to her in Chapter 1, she does by choice in Chapter 18.",
+    "title": "The last page changes the meaning of the first",
+    "note": "Chapter 1's 'No' is overridden; Chapter 18's 'No' names unreadiness after an invitation he was allowed to accept. Elizabeth leads without commandeering his answer. Cookbook theft becomes a book left intact; automatic fixes become permission and restitution; the confession precedes the unpardoning invitation. The same 'Perfect' is a structural echo, not proof that everything was made right.",
     "kids": [
      {
-      "title": "In Chapter 1, everything happens to her",
+      "title": "In Chapter 1, others act despite her objections",
       "ch": 1,
       "quote": "It was the crash that woke her.",
       "status": "paid",
-      "note": "The ending only reads as change if the opening shows the opposite: things done to her, a decision made over her “No.”",
+      "note": "She asks, takes back the book, resists departure and says she is not ready. Pathwell and the incoming threat determine the action anyway. The final reversal matters because her resistance was previously ineffective—not because she had no will.",
       "kids": [
        {
         "title": "A crash wakes her",
@@ -3294,8 +3294,8 @@
       "id": "p7-3"
      },
      {
-      "title": "Following turns into inviting",
-      "note": "Chapters 1–5 each end with her following him (Ledger R3). Chapter 18 ends with him standing beside her.",
+      "title": "Following becomes an invitation, not a new command",
+      "note": "Early chapters repeatedly put her physically behind Pathwell and under his framing; the last chapter puts her at the threshold, asking him to accompany her. He already says yes to joining and then admits that he isn't ready; she does not force his consent.",
       "kids": [
        {
         "title": "She follows him out",
@@ -3346,7 +3346,7 @@
       "ch": 18,
       "quote": "That's not what I did.",
       "status": "paid",
-      "note": "The order matters: confession, an hour of browsing, then her invitation. So it isn't a pardon (R47).",
+      "note": "He acknowledges intentional failure to call for assistance, distinguishes it from Elizabeth's emergency rescue of Milo, and they spend time separately among the books before she invites him. She does not declare him forgiven; the order permits companionship with an unsettled account.",
       "kids": [],
       "id": "p7-6"
      },
@@ -3382,11 +3382,11 @@
       "id": "p7-7"
      },
      {
-      "title": "The last exchange, with the roles turned over",
+      "title": "The final exchange keeps both choices intact",
       "ch": 18,
       "quote": "Are you ready?",
       "status": "paid",
-      "note": "R9. The exact words are locked.",
+      "note": "At the beginning he hears 'No' and moves her anyway. At the end she chooses a route, he accepts the invitation, she asks about readiness and he says 'No'; she answers 'Perfect.' This is shared motion with acknowledged uncertainty, not a repetition of the original coercion.",
       "kids": [
        {
         "title": "She hears five ways out",
@@ -3459,9 +3459,9 @@
     "id": "p7"
    },
    {
-    "title": "Mama Baga and Camp: help that asks first",
+    "title": "Camp offers imperfect care without claiming ownership",
     "kind": "character",
-    "note": "Camp shows the other way to help, so the reader can see what Pathwell's way costs without anyone saying it. They ask, they wait, and they take no for an answer.",
+    "note": "Mama Baga, the healer and archivist frequently ask, listen and respect donated records, even while Camp is fallible and sometimes overbearing. Shade can stay without proving he is useful; Camp names and mourns him after he dies. Camp—not Pathwell—sets terms for repair. Their alternative is not perfect consent but the practice of recognizing who bears each decision's cost.",
     "kids": [
      {
       "title": "Mama Baga: his mother in everything but name",
@@ -3503,8 +3503,8 @@
       "id": "p8-1"
      },
      {
-      "title": "They ask, then wait for the answer",
-      "note": "The opposite of everything Pathwell does in Chapter 1.",
+      "title": "They usually ask and take the answer seriously",
+      "note": "At key moments the healer, archivist and Mama Baga ask or wait instead of making a person's decision. This is a recurring, not universal, practice; group care sometimes still includes instructions, pressure and emergency triage.",
       "kids": [
        {
         "title": "“Are you being dragged?”",
@@ -3781,11 +3781,11 @@
       "id": "p8-7"
      },
      {
-      "title": "Camp decides what Pathwell owes",
+      "title": "Camp sets the terms of repair rather than granting pardon",
       "ch": 16,
       "quote": "Defined by whom?",
       "status": "paid",
-      "note": "Restitution is evidence, not absolution (Q133).",
+      "note": "Staff assign useful restitution, specify methods and track irreplaceable losses. Pathwell complies and changes habits, but Shade and destroyed originals remain gone. Restitution is evidence of effort, not redemption by accounting.",
       "kids": [
        {
         "title": "Who decides?",
@@ -3818,7 +3818,8 @@
     "id": "p8"
    }
   ],
-  "id": "g"
+  "id": "g",
+  "status": "author"
  },
  "loose": [
   {
@@ -3845,6 +3846,11 @@
    "id": "A8",
    "text": "Ch4: why the healer can't use the cart's records (test with readers)",
    "status": "open"
+  },
+  {
+   "id": "THEME-CENTRE",
+   "status": "author",
+   "text": "The center has been rebuilt from the author's existing controlling idea; exact final wording remains subject to the author's approval. Do not call a chart's interpretation a new canon ruling."
   }
  ]
 }
