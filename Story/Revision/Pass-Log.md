@@ -2755,3 +2755,15 @@ Blobs: Ch14 `9b1be3f7` → `da48b224`; Ch16 `f61a3870` → `b752f794`; Ch17 `1ac
 
 **RECONCILE:** W16, W18 and W19 rows in [Decisions](Decisions.md#working-decisions) annotated; [Revision Status](../../Revision-Status.md) rows for Chapters 8, 11 and 13 updated. No chapter changed. Next: the Chapters 5–13 review.
 
+
+## P71, 2026-10-21: review of Chapters 5–13
+
+**AUTHORITY:** The author said "go for it" to settling W16, W18 and W19 and then reviewing Chapters 5–13 the same way as the ending: find what's wrong and offer small candidate fixes to pick from. No manuscript change without his pick.
+
+**DO:** Read Chapters 5–13 in full on `main` after P70, with Ch1, Ch3 and Ch14–18 checked wherever a setup or payoff depended on them. Checked against the September assessment's chapter verdicts, the October 8 panel and P34's open "For the author" items so settled points weren't re-raised. Wrote the [P71 review](Emergence/MIDDLE-P71-CH05-13-REVIEW-2026-10-21.md) and [EXP-0017](Emergence/experiments/EXP-0017-Ch05-13-Middle-Candidates-2026-10-21.md): three cuts (B1 Ch7's closing line; B2 Ch12's "For most of the night,"; B3 a doubled "cooking wagon" in Ch13) and one question (Q1, the Ch9 diner sign, DINER or the author's draft DINNER, open since P34).
+
+**CHECK:** All 43 manuscript quotations in the review match the chapter files. All four patches pass `git apply --check`, alone and together. The setup-to-payoff table (dagger, "Drive", "You took her from me.", Shade's hand, pockets and the queen, the coffee, "He lies") was checked in both directions.
+
+**OUTCOME:** No structural problem found, and nothing argues for reversing an author decision. Kept with reasons: the Ch5 "I don't lie" beat (the panel read it as intended), W16, the Ch10 "Camp" order (the choice is still hers), Shade's escalating hand in Ch13, the Ch6–7 fragment stacks, the Ch5 second-person aside. "Fair." and L15 stay on watch.
+
+**RECONCILE:** [Revision Status](../../Revision-Status.md) manuscript note added and its "What's next" list rewritten (the old list dated from October 1 and is in git history). [Emergence index](Emergence/INDEX.md) entry added for P68 and P71. No chapter changed; all still L3.

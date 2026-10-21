@@ -4,6 +4,14 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P71 review of the middle — Chapters 5–13 (2026-10-21)
+
+An informed review (not a blind read) of Chapters 5–13 after P70: the [**P71 review**](MIDDLE-P71-CH05-13-REVIEW-2026-10-21.md) and [**EXP-0017**](experiments/EXP-0017-Ch05-13-Middle-Candidates-2026-10-21.md). No structural problem; every setup the climax relies on is planted and checked. Three cuts (Ch7's closing line, Ch12's "For most of the night,", a doubled "cooking wagon" in Ch13) and one question (the Ch9 diner sign). **No chapter edits; L3 unchanged.** [Pass P71](../Pass-Log.md#p71-2026-10-21-review-of-chapters-513).
+
+## P68 review of the climax and ending — Chapters 14–18 (2026-10-21)
+
+The [**P68 review**](CLIMAX-P68-CH14-18-REVIEW-2026-10-21.md) and [**EXP-0016**](experiments/EXP-0016-Ch14-18-Climax-Candidates-2026-10-21.md). The author took three cuts (R54, P69) and kept "someone" in the Ch18 confession. [Pass P68](../Pass-Log.md#p68-2026-10-21-review-of-the-chapter-1418-climax-and-ending).
+
 ## P66 independent first-act editorial assessment — Chapters 1–4 (2026-10-20)
 
 A new editorial agent, independent of the passes that wrote the current text but **not** an unprimed reader, read Chapters 1–4 in full and produced the [**P66 assessment**](FIRST-ACT-P66-INDEPENDENT-EDITORIAL-ASSESSMENT-2026-10-20.md) (per-concern analysis, information map, Ch3–4 continuity audit) and [**EXP-0015**](experiments/EXP-0015-First-Act-Motive-Hinge-Order-Staging-Page-Tear-2026-10-20.md) (A/B/C candidates as verified patches). Central finding: **nobody in the book ever asks what Pathwell was doing in Elizabeth's apartment**, so the motive reads as an oversight rather than a held mystery; the answer's pieces are on the page and lack one hinge (B1: Elizabeth's inference at the Ch3 counter). Also: the Ch3 order has no source (B2/C2), the Ch1 page tear is never shown (B3/C3), and P62 orphaned an “Again” (R1). Ch2 and the accountability thread: keep. New author question [Q-O](../Decisions.md#open-for-the-author). **No chapter edits; L3 unchanged; issue #3 still open.** [Pass P66](../Pass-Log.md#p66-2026-10-20-independent-first-act-editorial-assessment-chapters-14).
