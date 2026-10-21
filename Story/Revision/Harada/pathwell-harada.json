@@ -1,4 +1,13 @@
 {
+ "title": "Pathwell Harada Chart",
+ "lede": "The center is what the story is saying. The eight around any box are how the story gets there, and each of those opens into its own eight, as deep as it needs. Select a box to read it; select it again, or use Open, to make it the center.",
+ "footer": "Built from the Pathwell manuscript and its Promise Ledger. Every manuscript quote is checked against its chapter by the build; boxes marked “Proposed wording” are candidate text, not the book. Statuses follow the ledger.",
+ "labels": {
+  "center": "The message",
+  "centerNote": "What the story is saying",
+  "source": "Ch",
+  "sourceName": "Chapter"
+ },
  "root": {
   "title": "Choose your own life, ready or not, and let other people choose theirs",
   "ch": 18,

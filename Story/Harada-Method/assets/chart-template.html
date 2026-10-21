@@ -1,8 +1,8 @@
-<title>Pathwell Harada Chart</title>
+<title>__TITLE__</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Literata:ital,opsz,wght@0,7..72,400;1,7..72,400&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
-/* Layout: an Open Window 64 sheet on archival board, recursive. Whatever box is the center, its eight sit around it and each of those sits at the heart of its own block with its own eight. Any box can become the center. Detail panel beside on wide screens; outline view on phones. */
+/* Harada chart viewer (Story/Harada-Method). Layout: an Open Window 64 sheet on archival board, recursive. Whatever box is the center, its eight sit around it and each of those sits at the heart of its own block with its own eight. Any box can become the center. Detail panel beside on wide screens; outline view on phones. */
 :root{
   --bg:#E9EEF0; --paper:#FBFCFC; --ink:#1C2733; --muted:#5A6873; --rule:#C6D0D6; --rule-soft:#DCE3E7;
   --marker:#1E4DA6; --marker-wash:#E3EAF8; --on-marker:#FBFCFC;
@@ -82,7 +82,7 @@ button:focus-visible,summary:focus-visible,input:focus-visible,textarea:focus-vi
 .pill.paid{background:var(--paid-wash);color:var(--paid)} .pill.thin{background:var(--thin-wash);color:var(--thin)} .pill.open{background:var(--open-wash);color:var(--open)} .pill.author{background:var(--author-wash);color:var(--author)}
 blockquote{margin:0;padding:10px 14px;border-left:3px solid var(--marker);background:var(--bg);font-family:var(--f-quote);font-style:italic;font-size:15px;line-height:1.5;overflow-wrap:anywhere}
 .proposed{border-left-color:var(--author);font-style:normal}
-.proposed::before{content:"Proposed wording · not in the manuscript";display:block;font-family:var(--f-mono);font-style:normal;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--author);margin-bottom:4px}
+.proposed::before{content:"Proposed wording · not in the source yet";display:block;font-family:var(--f-mono);font-style:normal;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--author);margin-bottom:4px}
 .panel p{margin:0}
 .how{display:flex;flex-direction:column;gap:5px}
 .muted{color:var(--muted)}
@@ -124,8 +124,8 @@ footer{font-size:12.5px;color:var(--muted);max-width:84ch}
   <header>
     <div>
       <div class="eyebrow" id="stats">Open Window 64 · ending at the center</div>
-      <h1>Pathwell Harada Chart</h1>
-      <p class="lede">The center is what the story is saying. The eight around any box are how the story gets there, and each of those opens into its own eight, as deep as it needs. Select a box to read it; select it again, or use Open, to make it the center.</p>
+      <h1 id="title"></h1>
+      <p class="lede" id="lede"></p>
     </div>
     <div class="controls">
       <div class="seg" role="group" aria-label="View">
@@ -148,14 +148,15 @@ footer{font-size:12.5px;color:var(--muted);max-width:84ch}
     </div>
     <aside class="panel" id="panel" aria-live="polite"></aside>
   </div>
-  <section class="loose"><h3>Not on the chart yet</h3><ul id="loose"></ul></section>
-  <footer>Built from the manuscript at main <span style="font-family:var(--f-mono)">63dd268</span>, the Promise Ledger and the P66 review. Every manuscript quote was checked against its chapter when the chart was built; boxes marked “Proposed wording” are candidate text, not the book. Statuses follow the ledger.</footer>
+  <section class="loose" id="loose-wrap"><h3>Not on the chart yet</h3><ul id="loose"></ul></section>
+  <footer id="footer"></footer>
 </div>
 
 <script>
 const DATA = __DATA__;
 const TEMPLATE = __TEMPLATE__;
-const STATUS = {paid:"On the page", thin:"Thin", open:"Open on purpose", author:"Needs the author"};
+const L = Object.assign({center:"The goal", centerNote:"What it is for", source:"Ch", sourceName:"Chapter", lede:"The center is the goal. The eight around any box are how you get there, and each of those opens into its own eight, as deep as it needs. Select a box to read it; select it again, or use Open, to make it the center."}, DATA.labels || {});
+const STATUS = Object.assign({paid:"On the page", thin:"Thin", open:"Open on purpose", author:"Needs the author"}, DATA.statuses || {});
 const POS = [0,1,2,3,5,6,7,8];
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -184,7 +185,7 @@ function crumbs(){
   $("#crumbs").innerHTML = p.map((n,i) => i === p.length-1 ? `<span class="here">${esc(short(n))}</span>` : `<button type="button" data-id="${n.id}">${esc(short(n))}</button><span class="sep">›</span>`).join("");
   $("#crumbs").querySelectorAll("button").forEach(b => b.onclick = () => openBox(b.dataset.id));
 }
-function short(n){ return n.id === "g" ? "The message" : n.title.length > 34 ? n.title.slice(0,32) + "…" : n.title; }
+function short(n){ return n.id === "g" ? L.center : n.title.length > 34 ? n.title.slice(0,32) + "…" : n.title; }
 
 function cellHTML(n, kind){
   if (!n) return "";
@@ -192,7 +193,7 @@ function cellHTML(n, kind){
   const st = n.status ? `<span class="st dot ${n.status}" title="${STATUS[n.status]}"></span>` : "";
   const d = desc(n);
   const inside = d ? `<span class="inside">${hasAuthorBelow(n) ? '<span class="dot author"></span>' : ""}${d} inside</span>` : "";
-  const ch = n.id === "g" ? "THE MESSAGE" : n.kind === "character" ? "CHARACTER" : (n.ch ? "Ch " + n.ch : "");
+  const ch = n.id === "g" ? L.center.toUpperCase() : n.kind === "character" ? "CHARACTER" : (n.ch ? L.source + " " + n.ch : "");
   return `<button type="button" class="cell ${kind}${n.kind === "character" ? " char" : ""} ${n.status||""}${dim}${n.id===selId?" sel":""}" data-id="${n.id}"><span class="ch">${esc(ch)}</span><span class="lbl">${esc(n.title)}</span>${st}${inside}</button>`;
 }
 function emptyHTML(parentId){ return editing && parentId ? `<button type="button" class="cell empty addable" data-add="${parentId}">+ Add a box</button>` : `<div class="cell empty" aria-hidden="true"></div>`; }
@@ -221,22 +222,22 @@ function renderOutline(){
   const g = DATA.root;
   const node = (n, lvl) => {
     const dim = filter !== "all" && n.status !== filter ? " dim" : "";
-    const ch = n.ch ? "Ch " + n.ch : "";
+    const ch = n.ch ? L.source + " " + n.ch : "";
     const pill = n.status ? `<span class="pill ${n.status}">${STATUS[n.status]}</span>` : "<span></span>";
     const body = `${n.quote ? `<blockquote>${esc(n.quote)}</blockquote>` : ""}${n.proposed ? `<blockquote class="proposed">${esc(n.proposed)}</blockquote>` : ""}${n.note ? `<span class="note">${esc(n.note)}</span>` : ""}`;
     const d = desc(n);
     return `<details id="o-${n.id}"${lvl === 0 ? "" : ""}><summary class="${dim}"><span class="ch">${esc(ch)}</span><span class="t">${esc(n.title)}${d ? `<small>${d} inside</small>` : ""}</span>${pill}</summary><div class="body">${body}</div>${n.kids.map(k => node(k, lvl+1)).join("")}</details>`;
   };
-  $("#outline").innerHTML = `<div class="goal"><span class="eyebrow" style="color:inherit;opacity:.85">The message</span><b>${esc(g.title)}</b><span>${esc(g.note)}</span></div>` + g.kids.map(k => node(k, 0)).join("");
+  $("#outline").innerHTML = `<div class="goal"><span class="eyebrow" style="color:inherit;opacity:.85">${esc(L.center)}</span><b>${esc(g.title)}</b><span>${esc(g.note)}</span></div>` + g.kids.map(k => node(k, 0)).join("");
 }
 
 function panel(){
   const n = byId[selId]; if (!n) return;
   const t = tally(n); const d = desc(n);
-  const meta = [n.id === "g" ? "The message" : n.kind === "character" ? "Character" : (n.ch ? "Chapter " + n.ch : ""), path(n.id).length - 1 ? "Level " + (path(n.id).length - 1) : ""].filter(Boolean).map(esc).join(" · ");
+  const meta = [n.id === "g" ? L.center : n.kind === "character" ? "Character" : (n.ch ? L.sourceName + " " + n.ch : ""), path(n.id).length - 1 ? "Level " + (path(n.id).length - 1) : ""].filter(Boolean).map(esc).join(" · ");
   let h = `<div class="meta"><span>${meta}</span>${n.status ? `<span class="pill ${n.status}">${STATUS[n.status]}</span>` : ""}</div><h2>${esc(n.title)}</h2>`;
-  if (n.note) h += `<div class="how"><span class="eyebrow">${n.id === "g" ? "What the story is saying" : "How it gets us there"}</span><p>${esc(n.note)}</p></div>`;
-  if (n.quote) h += `<div class="how"><span class="eyebrow">On the page${n.ch ? " · Chapter " + n.ch : ""}</span><blockquote>${esc(n.quote)}</blockquote></div>`;
+  if (n.note) h += `<div class="how"><span class="eyebrow">${n.id === "g" ? esc(L.centerNote) : "How it gets us there"}</span><p>${esc(n.note)}</p></div>`;
+  if (n.quote) h += `<div class="how"><span class="eyebrow">Evidence${n.ch ? " · " + esc(L.sourceName) + " " + esc(n.ch) : ""}</span><blockquote>${esc(n.quote)}</blockquote></div>`;
   if (n.proposed) h += `<blockquote class="proposed">${esc(n.proposed)}</blockquote>`;
   if (d) h += `<div class="tally">${Object.entries(t).filter(([,v]) => v).map(([s,v]) => `<span class="pill ${s}">${v} ${STATUS[s].toLowerCase()}</span>`).join("")}</div>`;
   h += `<div class="actions">`;
@@ -254,9 +255,9 @@ function panel(){
 function formHTML(n){
   const opts = ['<option value="">No status</option>'].concat(Object.entries(STATUS).map(([k,v]) => `<option value="${k}"${n.status===k?" selected":""}>${v}</option>`)).join("");
   return `<form class="form" id="edit-form"><label>Box<input id="e-title" value="${esc(n.title)}" required></label>
-  <div class="row2"><label>Chapter<input id="e-ch" type="number" min="1" max="18" value="${esc(n.ch ?? "")}"></label><label>Status<select id="e-status">${opts}</select></label></div>
-  <label>Manuscript quote<textarea id="e-quote">${esc(n.quote)}</textarea></label>
-  <label>Proposed wording (not in the book yet)<textarea id="e-proposed">${esc(n.proposed)}</textarea></label>
+  <div class="row2"><label>${esc(L.sourceName)}<input id="e-ch" value="${esc(n.ch ?? "")}"></label><label>Status<select id="e-status">${opts}</select></label></div>
+  <label>Quote (exact words from the source)<textarea id="e-quote">${esc(n.quote)}</textarea></label>
+  <label>Proposed wording (not in the source yet)<textarea id="e-proposed">${esc(n.proposed)}</textarea></label>
   <label>Note<textarea id="e-note">${esc(n.note)}</textarea></label>
   <div class="actions"><button class="btn primary" type="submit">Apply</button>${n.id !== "g" ? `<button class="btn danger" type="button" id="e-del"${n.kids.length ? " disabled" : ""}>Delete box</button>` : ""}</div>
   ${n.kids.length && n.id !== "g" ? '<p class="hint">Delete the boxes inside it first.</p>' : ""}</form>`;
@@ -265,7 +266,7 @@ function bindForm(n){
   $("#edit-form").onsubmit = e => { e.preventDefault();
     const v = id => $(id).value.trim();
     n.title = v("#e-title") || n.title;
-    const ch = parseInt(v("#e-ch"), 10); if (ch >= 1 && ch <= 18) n.ch = ch; else delete n.ch;
+    const chv = v("#e-ch"); if (!chv) delete n.ch; else n.ch = /^\d+$/.test(chv) ? parseInt(chv, 10) : chv;
     ["quote","proposed","note"].forEach(k => { const x = v("#e-" + k); if (x) n[k] = x; else delete n[k]; });
     const s = v("#e-status"); if (s) n.status = s; else delete n.status;
     markDirty(); render(); };
@@ -283,8 +284,8 @@ function safe(s){ return s.replace(/</g, "\\u003c").replace(/\u2028/g, "\\u2028"
 function buildDoc(){
   const head = '<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,-apple-system,"Segoe UI",sans-serif}img{max-width:100%}[hidden]{display:none!important}</style></head><body>';
   const strip = n => ({...n, kids: n.kids.map(strip)});
-  const data = {root: strip(DATA.root), loose: DATA.loose};
-  const content = TEMPLATE.replace(/__(DATA|TEMPLATE)__/g, (m, k) => k === "DATA" ? safe(JSON.stringify(data)) : safe(JSON.stringify(TEMPLATE)));
+  const data = {...DATA, root: strip(DATA.root)};
+  const content = TEMPLATE.replace(/__(DATA|TEMPLATE|TITLE)__/g, (m, k) => k === "DATA" ? safe(JSON.stringify(data)) : k === "TITLE" ? esc(DATA.title || "Harada chart") : safe(JSON.stringify(TEMPLATE)));
   return head + content + "</body></html>";
 }
 async function save(){
@@ -303,17 +304,19 @@ async function save(){
 function select(id){ selId = id; render(); }
 function openBox(id){ focusId = id; selId = id; try { history.replaceState(null, "", "#" + id); } catch(e){} render(); }
 function render(){ crumbs(); stats(); if (view === "chart") renderChart(); else renderOutline(); panel(); }
-function setView(v){ view = v; $("#v-chart").setAttribute("aria-pressed", v === "chart"); $("#v-list").setAttribute("aria-pressed", v === "list"); $("#board").hidden = v !== "chart"; $("#outline").hidden = v !== "list"; render(); try { localStorage.setItem("harada-view", v); } catch(e){} }
+function setView(v){ view = v; $("#v-chart").setAttribute("aria-pressed", v === "chart"); $("#v-list").setAttribute("aria-pressed", v === "list"); $("#board").hidden = v !== "chart"; $("#outline").hidden = v !== "list"; render(); try { localStorage.setItem("harada-view:" + (DATA.title || ""), v); } catch(e){} }
 $("#v-chart").onclick = () => setView("chart"); $("#v-list").onclick = () => setView("list");
 $("#edit-toggle").onclick = () => { editing = !editing; $("#edit-toggle").setAttribute("aria-pressed", editing); $("#edit-toggle").textContent = editing ? "Done editing" : "Edit"; $("#save").hidden = !editing && !dirty; render(); };
 $("#save").onclick = save;
-$("#loose").innerHTML = DATA.loose.map(l => `<li><span class="id"><span class="dot ${l.status}"></span>${esc(l.id)}</span><span>${esc(l.text)}</span></li>`).join("");
+$("#title").textContent = DATA.title || "Harada chart"; $("#lede").textContent = DATA.lede || L.lede; $("#footer").textContent = DATA.footer || "";
+if (!(DATA.loose || []).length) $("#loose-wrap").hidden = true;
+$("#loose").innerHTML = (DATA.loose || []).map(l => `<li><span class="id"><span class="dot ${l.status}"></span>${esc(l.id)}</span><span>${esc(l.text)}</span></li>`).join("");
 
 index(); chips();
 const h = (location.hash || "").slice(1);
 if (h && byId[h]) { selId = h; focusId = byId[h].kids.length ? h : (parentOf[h] || "g"); }
 let start = window.matchMedia("(max-width: 720px)").matches ? "list" : "chart";
-try { const s = localStorage.getItem("harada-view"); if (s === "chart" || s === "list") start = s; } catch(e){}
+try { const s = localStorage.getItem("harada-view:" + (DATA.title || "")); if (s === "chart" || s === "list") start = s; } catch(e){}
 setView(start);
 (async () => { try { const ns = await window.claude?.use?.("artifact"); if (ns) { artifactNs = ns; $("#edit-toggle").hidden = false; render(); } } catch(e){} })();
 </script>

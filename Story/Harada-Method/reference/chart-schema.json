@@ -1,0 +1,63 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Harada chart",
+ "description": "One Harada chart. The root box is the center; every box can hold up to eight boxes, to any depth. See ../SKILL.md.",
+ "type": "object",
+ "required": ["root"],
+ "properties": {
+  "title": {"type": "string", "description": "The chart's name: the page title and heading."},
+  "lede": {"type": "string", "description": "One or two sentences under the heading on how to read the chart."},
+  "footer": {"type": "string", "description": "Where the chart was built from."},
+  "labels": {
+   "type": "object",
+   "description": "Words the page uses. All optional.",
+   "properties": {
+    "center": {"type": "string", "description": "Name for the center box. Default: The goal."},
+    "centerNote": {"type": "string", "description": "Heading over the center's note. Default: What it is for."},
+    "source": {"type": "string", "description": "Short label before a source key in a cell, e.g. Ch. Default: Ch."},
+    "sourceName": {"type": "string", "description": "Long label for a source, e.g. Chapter. Default: Chapter."},
+    "lede": {"type": "string", "description": "Fallback lede if the chart has none."}
+   },
+   "additionalProperties": false
+  },
+  "statuses": {
+   "type": "object",
+   "description": "Optional display names for the four statuses.",
+   "properties": {"paid": {"type": "string"}, "thin": {"type": "string"}, "open": {"type": "string"}, "author": {"type": "string"}},
+   "additionalProperties": false
+  },
+  "root": {"$ref": "#/$defs/box"},
+  "loose": {
+   "type": "array",
+   "description": "Items that belong to the work but not yet to a box.",
+   "items": {
+    "type": "object",
+    "required": ["id", "text"],
+    "properties": {"id": {"type": "string"}, "text": {"type": "string"}, "status": {"$ref": "#/$defs/status"}},
+    "additionalProperties": false
+   }
+  }
+ },
+ "$defs": {
+  "status": {
+   "enum": ["paid", "thin", "open", "author"],
+   "description": "paid: it's there. thin: there but light. open: left open on purpose. author: needs the owner."
+  },
+  "box": {
+   "type": "object",
+   "required": ["id", "title", "kids"],
+   "properties": {
+    "id": {"type": "string", "description": "Root is g; its kids p1..p8; below, parent id plus -1..-8."},
+    "title": {"type": "string", "description": "A statement of what the box does for the box above. Under about ten words."},
+    "kind": {"enum": ["character"], "description": "Set on actors, who open into the eight facets."},
+    "ch": {"type": ["integer", "string"], "description": "Source key the quote comes from: the first number in the source file's name, or its name without the extension."},
+    "quote": {"type": "string", "description": "Exact words from the source. Checked by the script."},
+    "status": {"$ref": "#/$defs/status"},
+    "note": {"type": "string", "description": "How this box gets to the box above. Required in practice when the box has kids."},
+    "proposed": {"type": "string", "description": "Candidate wording not yet in the source. Never a quote; status should be author."},
+    "kids": {"type": "array", "maxItems": 8, "items": {"$ref": "#/$defs/box"}}
+   },
+   "additionalProperties": false
+  }
+ }
+}

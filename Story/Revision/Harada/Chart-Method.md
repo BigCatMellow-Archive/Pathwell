@@ -2,7 +2,7 @@
 
 **Status: active, 2026-10-21.** This page owns the method for the Pathwell Harada chart: what the author asked for, what each version got wrong, and the rules that came out of it. The chart itself is [pathwell-harada.json](pathwell-harada.json); the [README](README.md) says how to open, edit and rebuild it.
 
-The rules are written for Pathwell but most of them are general. A chart for another story, or for a project in MAPS_L, can use the same rules and the same [build script](build_chart.py) with a different source file.
+The general method (rules, procedure, checker, viewer) is [Story/Harada-Method](../../Harada-Method/SKILL.md). This page keeps what's specific to Pathwell: the author's rulings, how the chart got better, and its change log.
 
 ---
 
@@ -56,65 +56,17 @@ v1's problem was depth. v2's problem was words: "The pile", "Help!" and "Recalcu
 
 ---
 
-## Rules for the center
+## The rules
 
-1. **The center is what the story is saying, not what happens last.** Write it as a sentence the whole book argues and the ending proves. Test: could someone who finished the book say it back to you? v1 and v2 used "The last page earns it", which describes a mechanism, not a message.
-2. **Show how the ending says it.** The center's note names the scene that delivers the message. For Pathwell, the last page uses the first page's words with the roles swapped; same words, different person choosing.
-3. **The author owns the center sentence.** Draft it from the book's own targets ([Thesis](../../../Thesis-and-Controlling-Ideas.md)), then put it to him. Every other box hangs off it, so it's the one worth getting exactly right.
+The rules that came out of these corrections now live in the general method, [Story/Harada-Method/SKILL.md](../../Harada-Method/SKILL.md), so any chart (Pathwell or not) uses one copy. They keep the same numbers: rules 1–3 for the center, 4–9 for every box, 10–13 for actors, 14–16 for depth, 17–20 for evidence. Bad-to-good title pairs from this chart are in its [wording reference](../../Harada-Method/reference/wording.md).
 
-## Rules for the boxes
+How this chart applies them:
 
-4. **Every box answers one question: how does this get us to the box it sits around?** If it doesn't, it's in the wrong place or it shouldn't exist.
-5. **Every box that has boxes inside it gets a note saying how it gets to the box above.** That's the "How it gets us there" line on the page. The build script warns when one is missing.
-6. **Titles are statements, not labels.** Give them a subject and a verb, and make them say what's true or what happens. "The pile" becomes "Where the pile came from isn't shown." "Help!" becomes "He yells for help." Under about ten words; the script warns past 70 characters.
-7. **Say what the box does, not where it is.** "Ch1 depends on it" points at a location. "Chapters 1, 3 and 4 depend on the tear" says why it matters.
-8. **Plain words, in the book's register.** Write how people talk ([Writing Principles](../../../Writing-Principles.md); [AI tells](../AI-Tells.md)). No mannered asides, no "not X, but Y" for effect, no stock phrases. A box is a sentence someone would say out loud in a planning meeting.
-9. **Cut boxes with no job.** If a beat only restates its quote ("Recalculates" for "Huh."), drop it. Fewer than eight is fine; empty slots are honest. Never pad to eight.
-
-## Rules for characters
-
-10. **A character is a box, and it opens into the same eight facets every time.** That makes characters comparable at a glance:
-
-    | Facet | What it answers |
-    | --- | --- |
-    | Start | Who they are when we meet them |
-    | Wants | What they're after, and how it changes |
-    | Needs | What they actually need, which they don't know yet |
-    | Stands for | Their part in the story's argument (from the Thesis table) |
-    | In the way | Their flaw, blind spot, or the people blocking them |
-    | Arc | The steps from start to end; each step opens into the moments that build it |
-    | Voice | How they sound, with lines that prove it ([character bible](../../Story_Files/character_bible.md), "Where each character's humour comes from") |
-    | End | Who they are on the last page they're in |
-
-    A facet can be swapped when the character needs something else (Pathwell has "Flaw" and "Blind spot"; Shade has "A person in small things" and "His death has to cost something"). Keep the facet name as a prefix ("Wants: …") so the type is clear in a small cell.
-11. **Name the character by what they stand for.** "Elizabeth: the one who learns to choose", not "Elizabeth". The title should already connect them to the center.
-12. **Arcs go down to scenes, and scenes go down to moments.** Arc → step (one per chapter or turn) → the moments that make the step land, each with its quote.
-13. **Groups can be characters.** Mama Baga and Camp share one box because they do one job for the message: help that asks first.
-
-## Rules for depth
-
-14. **Open a box when its "how" has more than one part.** If the answer to "how does this get to the box above?" is a single quote, it's a leaf. If it takes several moments, it opens.
-15. **Go deep where the story is load-bearing or broken.** The climax, the confession and the open problems go to four or five levels. Simple beats stay as one box.
-16. **Put each problem under the box it threatens.** The motive gap sits under "She was never the point"; the page tear under "The magic spends real lives". Its children are the options: A (now), B (smallest fix), C (another approach).
-
-## Rules for evidence
-
-17. **Every manuscript quote is checked against its chapter** by the build script. A quote that drifts from the text fails the build.
-18. **Proposed wording is never a quote.** It goes in its own field, shows on the page as "Proposed wording · not in the manuscript", and is marked as needing the author.
-19. **New emotional lines belong to the author** ([Writing against sameness](../Writing-Against-Sameness.md)). The chart can say where a line could go; it doesn't write the line.
-20. **Status marks only what needs attention:** on the page, thin, open on purpose, needs the author. They follow the [Promise Ledger](../Promise-Ledger.md).
-
----
-
-## Check before publishing
-
-- [ ] Read the center and the eight around it aloud as one paragraph. Does it argue the message?
-- [ ] Open three boxes at random. Do the boxes inside add up to the box?
-- [ ] Read only the titles on one sheet. Could a stranger tell what each box does?
-- [ ] `python3 Story/Revision/Harada/build_chart.py` passes with no errors, and the warnings are either fixed or deliberate.
-- [ ] Anything new that's proposed wording is marked as needing the author.
-
----
+- **Center (rules 1–3):** drafted from the [Thesis page](../../../Thesis-and-Controlling-Ideas.md); still waiting on the author's words.
+- **Actors (rule 10):** Elizabeth uses the eight standard facets. Pathwell swaps Needs for **Flaw** and **Blind spot**. Shade swaps Needs and End for **A person in small things** and **His death has to cost something**. Stansbury and Camp use facets that fit their smaller roles. Mama Baga and Camp share one box (rule 13).
+- **Engines:** she was never the point; the magic spends real lives; the last page answers the first.
+- **Problems (rule 16):** the motive gap sits under "She was never the point", the page tear under "The magic spends real lives", the Chapter 3 order on Pathwell's arc. The options come from EXP-0015 in the P66 review ([PR #4](https://github.com/BigCatMellow-Archive/Pathwell/pull/4); it moves into `Story/Revision/Emergence/experiments/` when that merges).
+- **Statuses (rule 20)** follow the [Promise Ledger](../Promise-Ledger.md).
 
 ## Change log
 
@@ -124,6 +76,7 @@ v1's problem was depth. v2's problem was words: "The pile", "Help!" and "Recalcu
 | 2026-10-20 | v2 | Recursive: any box opens; 379 boxes; editing and saving on the page. (H2) |
 | 2026-10-20 | v3 | Rebuilt around the message; characters with eight facets each; every box reworded as a statement of what it does; 464 boxes. (H3) |
 | 2026-10-21 | v3.1 | Moved into the repo with the build script and this page. The script's first run caught six boxes with boxes inside and no note; notes added. (H4) |
+| 2026-10-21 | v3.2 | The method split out as a skill other agents can use ([Story/Harada-Method](../../Harada-Method/SKILL.md)): procedure, rules, wording reference, schema, a general checker and viewer, and an excerpt of this chart as the worked example. This chart now builds with it; the chart's content didn't change. |
 
 ## Still open
 

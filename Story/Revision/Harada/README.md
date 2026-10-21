@@ -4,16 +4,15 @@
 
 The chart puts what the story is saying in the middle, and around it the eight things that get the story there: five characters (Elizabeth, Pathwell, Shade, Stansbury, Mama Baga and Camp) and three story engines (she was never the point; the magic spends real lives; the last page answers the first). Any box opens into its own sheet of eight, as deep as it needs. Every manuscript quote on it is checked against its chapter.
 
-**How to make a good one, and how this one got better:** [Chart-Method.md](Chart-Method.md).
+**How to make a good one:** the general method, [Story/Harada-Method](../../Harada-Method/SKILL.md). **How this one got better:** [Chart-Method.md](Chart-Method.md).
 
 ## What's here
 
 | File | What it is |
 | --- | --- |
 | [pathwell-harada.json](pathwell-harada.json) | **The chart.** Every box: title, chapter, quote, status, note, proposed wording, boxes inside. Edit this, or edit on the page and sync. |
-| [Chart-Method.md](Chart-Method.md) | The rules for a good chart, the author's rulings (H1–H4), the before-and-after of each version, the change log |
-| [build_chart.py](build_chart.py) | Checks the chart (quotes against chapters, at most eight boxes inside any box, ids, statuses, wording warnings) and builds the page |
-| [chart-template.html](chart-template.html) | The page's design and code. The build fills in the chart. |
+| [Chart-Method.md](Chart-Method.md) | The author's rulings (H1–H4), the before-and-after of each version, how this chart applies the method's rules, the change log |
+| [build_chart.py](build_chart.py) | Runs the method's [checker and builder](../../Harada-Method/scripts/harada_chart.py) with Pathwell's paths: quotes against chapters, at most eight boxes inside any box, ids, statuses, wording warnings; then builds the page |
 | [pathwell-harada.html](pathwell-harada.html) | The built page. Open it in a browser to read the chart offline. |
 | [versions/](versions/) | Each version as it stood, so the improvements can be compared |
 
