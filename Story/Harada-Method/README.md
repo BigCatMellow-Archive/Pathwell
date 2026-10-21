@@ -15,7 +15,7 @@ The folder is portable. Copy it whole into another project or another agent's sk
 | [SKILL.md](SKILL.md) | The method. Read first. |
 | [reference/wording.md](reference/wording.md) | How to word boxes, with real before-and-after pairs |
 | [reference/chart-schema.json](reference/chart-schema.json) | The chart file's format (JSON Schema) |
-| [examples/pathwell-excerpt.json](examples/pathwell-excerpt.json) | A finished example: the center, one actor through its eight facets, one engine with a problem broken into options |
+| [examples/pathwell-excerpt.json](examples/pathwell-excerpt.json) | A current, source-checked **working** example (center wording still author-dependent): one actor's facets and a story engine with nested options |
 | [scripts/harada_chart.py](scripts/harada_chart.py) | Checks a chart against its sources and builds its page. Python 3, standard library only. |
 | [assets/chart-template.html](assets/chart-template.html) | The page the script builds: sheets, outline, open any box, edit and save |
 
@@ -28,3 +28,5 @@ python3 Story/Harada-Method/scripts/harada_chart.py Story/Harada-Method/examples
 ```
 
 That checks the example's quotes against the chapters and builds `examples/pathwell-excerpt.html` (for people) and `examples/pathwell-excerpt.md` (for agents).
+
+The worked excerpt follows the v4 Pathwell chart's current interpretation; historical v1–v3 alternatives are preserved in the [chart method history](../Revision/Harada/Chart-Method.md), including why a source-matched chart can still misstate the story's argument.
