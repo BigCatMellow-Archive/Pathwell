@@ -9,7 +9,7 @@ A Harada chart puts one goal in the middle. Around it are the eight things that 
 
 **Every box answers one question: how does this get us to the box it sits around?** If a box doesn't answer that, it's in the wrong place or it shouldn't exist. Everything below follows from that.
 
-This skill came out of three versions of a chart for a novel (Pathwell), each corrected by its author. The rules are the corrections. The worked example is in `examples/`; the full history is in `Story/Revision/Harada/Chart-Method.md` in the Pathwell repository.
+This skill came out of successive versions of a chart for a novel (Pathwell), including a manuscript-grounded v4 that corrected an appealing but incomplete central message. Historical versions remain examples of the failure modes, not models of thematic truth. The rules are the corrections. The worked example is in `examples/`; the full history is in `Story/Revision/Harada/Chart-Method.md` in the Pathwell repository.
 
 ## Files
 
@@ -27,25 +27,26 @@ This skill came out of three versions of a chart for a novel (Pathwell), each co
 Work in this order. Don't skip ahead to the boxes; the center decides everything.
 
 1. **Read the sources first.** Read the actual material the chart is about (chapters, specs, code docs) and the owner's own statements of intent (thesis, goals, decisions). The chart claims things about the source, so you need to know it, not summarise it from notes.
-2. **Write the center as a message, not an event.** One sentence that the whole work argues and its ending proves. *"The last page earns it"* is a mechanism. *"Choose your own life, ready or not, and let other people choose theirs"* is a message. Its note names where the work proves it. **Mark it as a draft and ask the owner for their words.** Every other box hangs off it.
-3. **Pick the eight around the center.** What has to be true for the center to land? Mix two kinds:
-   - **Actors** (characters, teams, components) named by what they stand for: *"Pathwell: the one who chooses for everyone"*, not *"Pathwell"*.
+2. **Write the center as a message, not an event.** One sentence that the whole work argues and its ending proves. *"The last page earns it"* is a mechanism. *"Control is not competence; others pay when you decide for them."* is the current **working**, still author-unapproved Pathwell message: it is supported by the author’s controlling-idea page and must also survive counterexamples such as Shade’s unchosen death. A grammatically convincing message is not enough. Its note names where the work proves it. **Mark it as a draft and ask the owner for their words.** Every other box hangs off it.
+3. **Challenge the center before filling the spokes.** Compare it with the owner's controlling idea, the complete ending and the hardest apparent counterexamples. Ask whether it wrongly implies that a character did not resist, deserved a fate, received forgiveness or had a power the manuscript denies. If the center needs qualifications that swallow the counterexamples, rewrite it; **do not bend the manuscript to save the chart**. Keep the exact sentence marked as an author decision until approved.
+4. **Pick the eight around the center.** What has to be true for the center to land? Mix two kinds:
+   - **Actors** (characters, teams, components) named by what they stand for: *"Pathwell mistakes helping for decision-making authority"*, not *"Pathwell"*.
    - **Engines**: the mechanisms that carry the message (a misdirection, a rule of the world, a structural echo).
 
    Test: read the center and the eight aloud as one paragraph. If it doesn't argue the center, change the eight.
-4. **Open every actor into the same eight facets** (table below). Use the same facets for every actor so they can be compared at a glance.
-5. **Go deeper only where it's needed.** Open a box when the answer to "how does this get to the box above?" has more than one part. Arcs open into steps; steps open into the moments that make them land. Load-bearing and broken places go four or five levels deep. Simple beats stay as one box.
-6. **Attach evidence.** Where a box claims something about the source, give the exact words and say which source file. The script checks every one.
-7. **Put problems where they hurt.** An open question goes under the box it threatens, with its options as children: A (as it is now), B (smallest fix), C (another approach). Mark them `author`.
-8. **Do a wording pass on titles alone.** Read only the titles on one sheet. Could a stranger tell what each box does? Fix the ones that are labels (see `reference/wording.md`).
-9. **Check, build, record.** Run the script. Fix every error. Fix each warning or decide it's deliberate. Add a line to the chart's change log saying what changed and why.
+5. **Open every actor into the same eight facets** (table below). Use the same facets for every actor so they can be compared at a glance.
+6. **Go deeper only where it's needed.** Open a box when the answer to "how does this get to the box above?" has more than one part. Arcs open into steps; steps open into the moments that make them land. Load-bearing and broken places go four or five levels deep. Simple beats stay as one box.
+7. **Attach evidence.** Where a box claims something about the source, give the exact words and say which source file. The script checks every one.
+8. **Put problems where they hurt.** An open question goes under the box it threatens, with its options as children: A (as it is now), B (smallest fix), C (another approach). Mark them `author`.
+9. **Do a wording pass on titles alone.** Read only the titles on one sheet. Could a stranger tell what each box does? Fix the ones that are labels (see `reference/wording.md`).
+10. **Check, build, record.** Run the script. Fix every error. Fix each warning or decide it's deliberate. Add a line to the chart's change log saying what changed and why.
 
 ## Rules
 
 **The center**
 1. It's what the work is saying, not what happens last.
-2. Its note shows how the ending delivers it.
-3. The owner writes or approves the sentence.
+2. Its note shows how the whole manuscript, especially its hardest counterexamples and its ending, supports or complicates it.
+3. The owner writes or approves the sentence; until then its status remains `author`. An old chart title is not itself an owner ruling.
 
 **Every box**
 
