@@ -1,27 +1,27 @@
 {
  "title": "Pathwell Harada Chart (excerpt)",
- "lede": "The center is what the story is saying. The eight around any box are how the story gets there, and each of those opens into its own eight, as deep as it needs. Select a box to read it; select it again, or use Open, to make it the center.",
- "footer": "An excerpt of the Pathwell chart, for learning the method: the center, one actor opened through its eight facets, and one story engine with a problem broken into options. Quotes check against Story/Chapters in the Pathwell repository.",
+ "lede": "A limited worked example from the current Pathwell chart. The center is a working statement grounded in the author’s existing controlling idea, not final author-approved wording; the nodes show how evidence can support or challenge a parent's claim.",
+ "footer": "Excerpted from the current, 18-chapter source-checked Pathwell Harada chart. The full chart, not this subset, owns the actual reading of the novel.",
  "labels": {
-  "center": "The message",
-  "centerNote": "What the story is saying",
+  "center": "Proposed controlling message",
+  "centerNote": "How the whole story argues this",
   "source": "Ch",
   "sourceName": "Chapter"
  },
  "root": {
-  "title": "Choose your own life, ready or not, and let other people choose theirs",
+  "title": "Control is not competence; others pay when you decide for them.",
   "ch": 18,
   "quote": "Are you ready?",
-  "note": "The last page says it with the first page's words. In Chapter 1 he asks “Ready?”, she says “No,” and he says “Perfect” and takes her hand. In Chapter 18 she asks, he says “No,” and she says “Perfect,” and he comes because she asked and he said yes. Same words. What changed is who is choosing. (Thesis: control is not competence, and Elizabeth matters without any power source.)",
+  "note": "WORKING THEMATIC CENTRE, not yet author-approved wording. This is grounded in the authoritative Thesis-and-Controlling-Ideas: Pathwell confuses the power to intervene and pay with the right to determine another person's life; the magic literally consumes human histories and possible futures. Elizabeth acts without magic, accepts loss and eventually makes an invitation rather than taking charge of Pathwell's answer. Shade's refusal is valid even though a cleanup creature kills him anyway; consent is not a guarantee of survival. Stansbury and Camp offer qualified counterexamples, and Pathwell's delayed confession/restitution change his conduct without restoring Shade or earning automatic pardon. The opening and closing 'Ready? / No. / Perfect.' exchange changes from overridden objection to chosen, mutually accepted movement; it does not erase the difference between being unready and unwilling. These are tested readings of Chapters 1, 3–4, 7–18, not a moral uttered by the characters.",
   "kids": [
    {
-    "title": "Elizabeth: the one who learns to choose",
+    "title": "Elizabeth becomes the author of her own decisions",
     "kind": "character",
-    "note": "She starts the book handing things over before she's decided to. She ends it choosing where they go and asking him along. She never gets magic; her choices count because they're only human.",
+    "note": "She resists from Chapter 1, but her objections do not determine what happens while others control the facts, danger and her property. Her agency grows through particular imperfect and costly decisions—forest, cookbook, car, accusation, diary, rescue—and ends in an invitation that leaves Pathwell free to answer. Her significance never depends on a magical gift, being a chosen target or guaranteeing a perfect outcome.",
     "kids": [
      {
-      "title": "Start: she hands things over before she's decided to",
-      "note": "The book has to start with someone who lets other people choose for her, or there's nothing to climb. The character bible calls it compliance under pressure.",
+      "title": "Start: Elizabeth resists before anyone listens",
+      "note": "The first chapter does not show a woman who simply complies. She objects to a stranger reading her diary, asks questions, takes back the cookbook, says she will not go and answers 'No' to being ready. The danger, withheld information and Pathwell's physical hand nevertheless determine the departure. Her later arc is from resistance with little effective control toward informed self-direction, not from a total absence of will.",
       "kids": [
        {
         "title": "Three weeks in, nothing unpacked",
@@ -87,8 +87,8 @@
       "id": "p1-2"
      },
      {
-      "title": "Needs: to choose for herself, even when nobody asks",
-      "note": "Her need is self-direction. Nobody hands it to her; she takes it one rung at a time (Writing Principles 7).",
+      "title": "Needs: to direct herself without controlling everyone else",
+      "note": "She already resists, so the unmet need is not to discover she can say no; it is to obtain enough truth, set terms, act despite uncertainty and own the consequences. Her best choices involve limits: she cannot rescue everyone or recover destroyed originals.",
       "kids": [
        {
         "title": "Nobody is going to make her important",
@@ -119,8 +119,8 @@
       "id": "p1-3"
      },
      {
-      "title": "Stands for: mattering without power",
-      "note": "The thesis: her choices matter because they're human. If she ever casts, the book becomes an empowerment fantasy (Thesis, critical constraint).",
+      "title": "Stands for: human worth without magical exceptionalism",
+      "note": "She owns ordinary decisions and acts with an injured body, not an undiscovered magical power. The dagger is Stansbury's enchantment; the Camp fire rescue works without it. She matters neither because she was the blob's target nor because her choice causes a magically favorable outcome.",
       "kids": [
        {
         "title": "She never does magic",
@@ -150,8 +150,8 @@
       "id": "p1-4"
      },
      {
-      "title": "In her way: people who choose for her, and her habit of letting them",
-      "note": "Her obstacle is outside and inside at once: people who decide for her, and her habit of letting them.",
+      "title": "In her way: withheld facts, imposed decisions, and attachment",
+      "note": "Elizabeth is not passively allowing everything. Pathwell, the brothers' evasions, the danger, her possessions and her desire for an explanation keep narrowing the real options she can see. Her decisions become more informed even when they remain costly or wrong.",
       "kids": [
        {
         "title": "He decides the danger is hers",
@@ -181,8 +181,8 @@
       "id": "p1-5"
      },
      {
-      "title": "Arc: pulled, pushing, choosing",
-      "note": "Eight rungs. Each one is something she does, not a door someone opens for her. The ninth rung is the last page.",
+      "title": "Arc: resisting, choosing, losing, and choosing again",
+      "note": "Each rung has an independent cause and cost. The ditch is a deliberate dangerous act, not automatically a wise one. Saving Milo while Shade struggles is an urgent choice under incompatible demands, not evidence that Shade deserved less. The final invitation is a new possibility, not a verdict of innocence.",
       "kids": [
        {
         "title": "She follows him for her books",
@@ -306,8 +306,8 @@
       "id": "p1-6"
      },
      {
-      "title": "Voice: sincere, not witty; her body knows first",
-      "note": "Character bible: her jokes are small and defensive; physical sensation comes before named feeling.",
+      "title": "Voice: practical anxieties, sharp boundaries, dry humor",
+      "note": "She worries about landlord, clothes and work; she also makes dry jokes and can be abrupt. Her body sometimes reacts before conscious explanation, but that is a variable expressive technique, not her whole identity or a rule that she cannot be witty.",
       "kids": [
        {
         "title": "She worries about ordinary things under pressure",
@@ -337,8 +337,8 @@
       "id": "p1-7"
      },
      {
-      "title": "End: she asks, and lets the answer be no",
-      "note": "Who she's become: she decides where they go and asks him along, without pardoning him.",
+      "title": "End: she chooses the route and asks him to join",
+      "note": "She picks an imperfect destination, checks a return route and asks Pathwell whether he wants to come. His 'Yes' is an invitation accepted; his final 'No' concerns readiness, not refusal. She leaves unresolved accountability intact rather than delivering forgiveness.",
       "kids": [
        {
         "title": "She won't make his guilt her job",
@@ -372,8 +372,8 @@
     "id": "p1"
    },
    {
-    "title": "She was never the point",
-    "note": "Pathwell made her important by misreading a danger that was his. The book takes that importance away so she can earn the other kind: mattering because of what she does, not because something came for her.",
+    "title": "Elizabeth was never the target—and still becomes essential",
+    "note": "Pathwell's first explanation misreads a cleanup threat tied to him and Shade, not Elizabeth. The corrected inference deprives her of false magical importance but not agency or belonging: she acts, chooses and affects real people's lives without becoming the prophesied key.",
     "kids": [
      {
       "title": "Something was at her door before any magic",
@@ -429,11 +429,11 @@
       "id": "p5-2"
      },
      {
-      "title": "Why he was really there",
+      "title": "His scavenging motive is hinted at, not confronted",
       "ch": 1,
       "quote": "He'd been at the party, talking to everybody.",
       "status": "author",
-      "note": "Nobody asks, all book. P66's central finding.",
+      "note": "The author-approved Chapter 1 notebook glimpse hints why Pathwell remained after Elizabeth's welcome party. Chapters 2–3 show his possession of her charged books and the Space Between trade. The specific remaining reader-effect gap is whether she and an unprimed reader connect this cause, not the complete absence of a clue. Any inserted realization is still an unapproved experiment.",
       "kids": [
        {
         "title": "The evidence is all on the page",
@@ -508,10 +508,10 @@
         "id": "p5-3-1"
        },
        {
-        "title": "Fix 1: she asks him in Chapter 1",
+        "title": "Candidate: she directly questions him in Chapter 1",
         "ch": 1,
         "status": "author",
-        "note": "The author's line: “What are you still doing here?” The reply has to change with it.",
+        "note": "One possible clarification, not required canon. The author's proposed sharper opening could change the reading of her existing polite boundary; test a reader response and voice consequence before accepting.",
         "kids": [
          {
           "title": "Now: “Do you mind?” / “Not at all”",
@@ -543,10 +543,10 @@
         "id": "p5-3-2"
        },
        {
-        "title": "Fix 2: she works it out at the counter",
+        "title": "Candidate: she connects his motive at the shop",
         "ch": 3,
         "status": "author",
-        "note": "B1. Her suspicion, not his confession. It goes right after the ledger line, and the shopkeeper's “These were never his to spend.” confirms it.",
+        "note": "A small inference at the Chapter 3 counter could connect the Chapter 1 notebook clue to his unauthorized purchase and the shopkeeper's refusal. This is proposed B1 wording, not yet on the page or author-approved.",
         "proposed": "Elizabeth thought of Pathwell on her living-room floor, turning the pages of her diary like he was pricing it.",
         "kids": [],
         "id": "p5-3-3"
@@ -584,6 +584,7 @@
     "id": "p5"
    }
   ],
-  "id": "g"
+  "id": "g",
+  "status": "author"
  }
 }
