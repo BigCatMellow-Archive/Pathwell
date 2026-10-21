@@ -2717,3 +2717,18 @@ Blobs: Ch1 `a105bc1c` → `6b063462`; Ch3 `7ac8171b` → `75296137`. No other ch
 
 **RECONCILE:** [Decisions R53](Decisions.md#the-authors-rulings-for-this-revision); [EXP-0015](Emergence/experiments/EXP-0015-First-Act-Motive-Hinge-Order-Staging-Page-Tear-2026-10-20.md) status; [Promise Ledger](Promise-Ledger.md) P1 and O1; [Revision Status](../../Revision-Status.md). Chapters 1 and 3 stay **L3**. Next, per the author: a fresh review of the 2026-10-15 climax and ending, Chapters 14–18.
 
+## P68, 2026-10-21: review of the Chapter 14–18 climax and ending
+
+**SOURCE / AUTHORITY:** The author chose this as the next work after P67: "Review the new ending, Ch14–18". `main` after P67; Chapters 14–18 read in full, with Ch4, Ch7 and Ch13 checked where a setup mattered. Built on [P54](#p54-2026-10-15-coordinated-chapter-1418-climax-and-ending-rewrite-author-authorized) and [P55](#p55-2026-10-15-informed-reader-and-voice-follow-up-not-independent-l4) rather than repeating them. An informed review by an agent that didn't write the text; not a blind read, not the author's verdict.
+
+**DO — research only, no chapter edits:**
+1. [P68 review](Emergence/CLIMAX-P68-CH14-18-REVIEW-2026-10-21.md): seven findings with counterarguments, what to protect, and the disagreements with P55.
+2. [EXP-0016](Emergence/experiments/EXP-0016-Ch14-18-Climax-Candidates-2026-10-21.md): verified patches. Ch18 B1 "Mama Baga" / C1 "my brother" for "someone"; Ch14 B2 cut "Shade was one breath behind her."; Ch16 B3a and Ch17 B3b cut the closing thesis lines.
+3. [Decisions Q-P](Decisions.md#open-for-the-author): does anyone at Camp learn what he confessed?
+
+**FINDINGS:** (F1, high) P55-01's open question has an answer on the page: Mama Baga is in earshot in Ch15, and Ch4 shows her lifting the crate with "no effort in it"; naming her is a one-word change to the confession. (F2, medium, new) Shade is "one breath behind" Elizabeth at the end of Ch14 but "on the far side of the ruined brass frame" at the start of Ch15, a leftover from the pre-P54 staging. (F3, medium, new) Ch16 and Ch17 end almost every scene on a polished line, and two state the thesis in the narrator's voice. (F4, medium) The pardon risk is smaller than P55 thought, because Ch16 already has "I don't know if I forgive you." / "I'm not asking you to."; it's a reader test. (F5, low) "I kept thinking resemblance was enough," may not parse on a first read; test. (F6, low-medium, new) Nobody at Camp learns the confessed fact; Q-P. (F7) The Ch4/Ch15 "That was the choice" echo earns its repeat; keep.
+
+**VERIFY:** Every curly-quoted manuscript line in both new files checked against the chapters (61 + EXP quotes, 0 missing). Every EXP-0016 patch passes `git apply --check`. No chapter, canon, Registry or ledger text changed.
+
+**OPEN:** Author choices on F1 (A/B/C), F2, F3a, F3b, and Q-P. Chapters 14–18 stay **L3**.
+
