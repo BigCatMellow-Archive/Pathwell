@@ -2747,3 +2747,11 @@ Blobs: Ch14 `9b1be3f7` → `da48b224`; Ch16 `f61a3870` → `b752f794`; Ch17 `1ac
 
 **RECONCILE:** [Decisions R54](Decisions.md#the-authors-rulings-for-this-revision) and Q-P marked answered; [EXP-0016](Emergence/experiments/EXP-0016-Ch14-18-Climax-Candidates-2026-10-21.md) status; [Promise Ledger](Promise-Ledger.md) new row L18 (who learns the confession: open-deliberate); [Revision Status](../../Revision-Status.md). P68's F4 (pardon risk) and F5 (“resemblance”) remain reader-test items. Chapters 14–18 stay **L3**.
 
+## P70, 2026-10-21: W16, W18, W19 put to the author
+
+**AUTHORITY:** The author said "go for it" to settling the three working decisions that had waited on him since early October (W8), then answered each. Recorded as [R55](Decisions.md#the-authors-rulings-for-this-revision).
+
+**OUTCOME:** **W18 confirmed** (Ch11 museum staging, with "You took her from me." / "She wasn't yours to take from."). **W19 confirmed** (no Ch13 tree-line talk; Ch14 carries the prediction and refusal; the two lines that talk was meant to hold are placed as ledger L16 and L17). **W16: "I dont know".** Under R36 the reviser's lean stands: keep the roadside reveal. It's the author's own draft, R39's diner revision is built on it, and reverting costs the end of Ch8 and the front half of Ch9. W16 is marked as the reviser's call, still overrulable.
+
+**RECONCILE:** W16, W18 and W19 rows in [Decisions](Decisions.md#working-decisions) annotated; [Revision Status](../../Revision-Status.md) rows for Chapters 8, 11 and 13 updated. No chapter changed. Next: the Chapters 5–13 review.
+
