@@ -4,7 +4,7 @@ Generated from `pathwell-harada.json` by the Harada method's `harada_chart.py`. 
 
 ## How to read this
 
-- The chart is a tree. The center is the message. **Every box's children are how it gets to that box.**
+- The chart is a tree. The center is proposed controlling message. **Every box's children are how it gets to that box.**
 - Each box is `[id] Title`, then where it comes from (Chapter N) and its status, if any.
   - **How:** how the box gets to the box above it.
   - **Quote:** exact words from the chapter named; every one is checked against the source when the chart is built.
@@ -12,104 +12,106 @@ Generated from `pathwell-harada.json` by the Harada method's `harada_chart.py`. 
 - Ids give the position: `p3-6-2` is the 3rd box around the center, its 6th box, and that box's 2nd box.
 - Statuses: `paid` = on the page; `thin` = thin; `open` = open on purpose; `author` = needs the author. A box with no status is structure.
 - `CHARACTER` marks an actor. Its children are facets: Start, Wants, Needs, Stands for, In the way (or Flaw, Blind spot), Arc, Voice, End.
-- Size: 464 boxes, 5 levels below the center. 390 on the page, 1 thin, 10 open on purpose, 16 needs the author.
+- Size: 464 boxes, 5 levels below the center. 390 on the page, 1 thin, 10 open on purpose, 17 needs the author.
 
 ## At a glance
 
-**The message: Choose your own life, ready or not, and let other people choose theirs**
+**Proposed controlling message: Control is not competence; others pay when you decide for them.**
 
-1. **[p1] Elizabeth: the one who learns to choose** · CHARACTER
-   - [p1-1] Start: she hands things over before she's decided to
+1. **[p1] Elizabeth becomes the author of her own decisions** · CHARACTER
+   - [p1-1] Start: Elizabeth resists before anyone listens
    - [p1-2] Wants: her books back, then the truth
-   - [p1-3] Needs: to choose for herself, even when nobody asks
-   - [p1-4] Stands for: mattering without power
-   - [p1-5] In her way: people who choose for her, and her habit of letting them
-   - [p1-6] Arc: pulled, pushing, choosing
-   - [p1-7] Voice: sincere, not witty; her body knows first
-   - [p1-8] End: she asks, and lets the answer be no
-2. **[p2] Pathwell: the one who chooses for everyone** · CHARACTER
+   - [p1-3] Needs: to direct herself without controlling everyone else
+   - [p1-4] Stands for: human worth without magical exceptionalism
+   - [p1-5] In her way: withheld facts, imposed decisions, and attachment
+   - [p1-6] Arc: resisting, choosing, losing, and choosing again
+   - [p1-7] Voice: practical anxieties, sharp boundaries, dry humor
+   - [p1-8] End: she chooses the route and asks him to join
+2. **[p2] Pathwell mistakes helping for decision-making authority** · CHARACTER
    - [p2-1] Start: a charming scavenger who walks through open doors
-   - [p2-2] Wants: to fix it fast, and be the one who fixed it
+   - [p2-2] Wants: to be useful quickly, on his own terms
    - [p2-3] Stands for: control that calls itself help
    - [p2-4] Flaw: paying for it himself makes him think it's his choice
    - [p2-5] Blind spot: other people pay the bill
-   - [p2-6] Arc: from casual pruner to a man who asks first
+   - [p2-6] Arc: from self-appointment to accountable restraint
    - [p2-7] Voice: polite evasion that skips a step
-   - [p2-8] End: changed in habits, not forgiven
-3. **[p3] Shade: the person someone else's choice made** · CHARACTER
+   - [p2-8] End: he accepts limits without receiving absolution
+3. **[p3] Shade's life is his, whatever his origin or fate** · CHARACTER
    - [p3-1] Start: Pathwell's failed prune, walking around
    - [p3-2] Wants: first an admission, then a life
-   - [p3-3] Stands for: where you came from doesn't own you
-   - [p3-4] In his way: he can't tell which feelings are his
-   - [p3-5] Arc: from an argument with his maker to a person with a life
+   - [p3-3] Stands for: origin never grants ownership
+   - [p3-4] In his way: an inherited pull still moves his body
+   - [p3-5] Arc: from demanding recognition to making a life
    - [p3-6] A person in small things
    - [p3-7] Voice: exact, literal, never the joker
-   - [p3-8] His death has to cost something
-4. **[p4] Stansbury: the brother who keeps people small** · CHARACTER
+   - [p3-8] His life and death matter beyond Pathwell's guilt
+4. **[p4] Stansbury's prudence helps and limits other people** · CHARACTER
    - [p4-1] Start: the older brother who's watched this for centuries
-   - [p4-2] Stands for: caution that calls itself prudence
+   - [p4-2] Stands for: caution that can become paternalism
    - [p4-3] The contradiction: he arms people with toys
    - [p4-4] His own question: energy nobody would use
    - [p4-5] Where he sees clearly
-   - [p4-6] His turn: he goes back in by choice
+   - [p4-6] His turn: he acts when caution cannot contain the fire
    - [p4-7] “Let it be”: he keeps the scar
    - [p4-8] Voice: a teacher's precision
-5. **[p5] She was never the point**
+5. **[p5] Elizabeth was never the target—and still becomes essential**
    - [p5-1] Something was at her door before any magic
    - [p5-2] He decides it's after her, and tells her so
-   - [p5-3] Why he was really there
+   - [p5-3] His scavenging motive is hinted at, not confronted
    - [p5-4] Camp sees the first part doesn't fit
    - [p5-5] The mirror turns it toward him
    - [p5-6] The next one goes for him
    - [p5-7] Shade says it out loud
    - [p5-8] So she has to matter some other way
-6. **[p6] The magic spends real lives**
+6. **[p6] Magic can consume a person's history and possible future**
    - [p6-1] A page carries the person who wrote it
    - [p6-2] Using a record uses it up
-   - [p6-3] People's lives are the currency
+   - [p6-3] The currency of magic is someone else's lived history
    - [p6-4] Pathwell pays with his own future
    - [p6-5] Ordinary people can feel it
    - [p6-6] Cleanup comes for waste, not for people
    - [p6-7] A copy isn't the thing
-7. **[p7] The last page answers the first**
-   - [p7-1] In Chapter 1, everything happens to her
+7. **[p7] The last page changes the meaning of the first**
+   - [p7-1] In Chapter 1, others act despite her objections
    - [p7-2] At the midpoint, she makes the crash
    - [p7-3] “The choice is yours” finally comes true
-   - [p7-4] Following turns into inviting
+   - [p7-4] Following becomes an invitation, not a new command
    - [p7-5] He takes a cookbook; then he puts one back
    - [p7-6] He confesses before she invites him
    - [p7-7] Ordinary bad things stay good
-   - [p7-8] The last exchange, with the roles turned over
-8. **[p8] Mama Baga and Camp: help that asks first** · CHARACTER
+   - [p7-8] The final exchange keeps both choices intact
+8. **[p8] Camp offers imperfect care without claiming ownership** · CHARACTER
    - [p8-1] Mama Baga: his mother in everything but name
-   - [p8-2] They ask, then wait for the answer
+   - [p8-2] They usually ask and take the answer seriously
    - [p8-3] She says stop, three times
    - [p8-4] Camp needed help, and didn't ask for his
    - [p8-5] They welcome her as one of them
    - [p8-6] The archive keeps records for people who use them
    - [p8-7] Milo: what Camp would lose
-   - [p8-8] Camp decides what Pathwell owes
+   - [p8-8] Camp sets the terms of repair rather than granting pardon
 
-## Needs the author: 6 items
+## Needs the author: 7 items
 
-- **[p1-1-4] Polite to a man reading her diary** · Chapter 1 · author — under Elizabeth: the one who learns to choose › Start: she hands things over before she's decided to
-  Her first words are an apology for existing. The author has proposed “What are you still doing here?” instead; see “She was never the point.”
-- **[p2-6-1-1] Where the pile came from isn't shown** · Chapter 3 · author — under Pathwell: the one who chooses for everyone › Arc: from casual pruner to a man who asks first › He buys Camp's paper with his own future
+- **[g] Control is not competence; others pay when you decide for them.** · Chapter 18 · author
+  WORKING THEMATIC CENTRE, not yet author-approved wording. This is grounded in the authoritative Thesis-and-Controlling-Ideas: Pathwell confuses the power to intervene and pay with the right to determine another person's life; the magic literally consumes human histories and possible futures. Elizabeth acts without magic, accepts loss and eventually makes an invitation rather than taking charge of Pathwell's answer. Shade's refusal is valid even though a cleanup creature kills him anyway; consent is not a guarantee of survival. Stansbury and Camp offer qualified counterexamples, and Pathwell's delayed confession/restitution change his conduct without restoring Shade or earning automatic pardon. The opening and closing 'Ready? / No. / Perfect.' exchange changes from overridden objection to chosen, mutually accepted movement; it does not erase the difference between being unready and unwilling. These are tested readings of Chapters 1, 3–4, 7–18, not a moral uttered by the characters.
+- **[p1-1-4] Her polite objection still marks a boundary** · Chapter 1 · author — under Elizabeth becomes the author of her own decisions › Start: Elizabeth resists before anyone listens
+  She says 'Do you mind?' to a stranger reading her diary. This is restrained and socially polite, not an apology for existing or proof she consents. The proposed sharper line is not in the manuscript; test reader comprehension before replacing her voice. The author retains the decision.
+- **[p2-6-1-1] Where the pile came from isn't shown** · Chapter 3 · author — under Pathwell mistakes helping for decision-making authority › Arc: from self-appointment to accountable restraint › He buys Camp's paper with his own future
   P66: the order appears from nowhere.
   - Option [p2-6-1-1-1] B2: say he built it: Recommended. Ties his disappearance into the aisles to a result.
   - Option [p2-6-1-1-2] C2: show the dust: Shows instead of tells. Two small touches.
-- **[p3-5-2] He names himself on the road** · Chapter 8 · author — under Shade: the person someone else's choice made › Arc: from an argument with his maker to a person with a life
+- **[p3-5-2] He names himself on the road** · Chapter 8 · author — under Shade's life is his, whatever his origin or fate › Arc: from demanding recognition to making a life
   The roadside reveal is kept over the August lock. W16 is still with the author.
-- **[p5-3] Why he was really there** · Chapter 1 · author — under She was never the point
-  Nobody asks, all book. P66's central finding.
-  - Option [p5-3-2] Fix 1: she asks him in Chapter 1: The author's line: “What are you still doing here?” The reply has to change with it.
+- **[p5-3] His scavenging motive is hinted at, not confronted** · Chapter 1 · author — under Elizabeth was never the target—and still becomes essential
+  The author-approved Chapter 1 notebook glimpse hints why Pathwell remained after Elizabeth's welcome party. Chapters 2–3 show his possession of her charged books and the Space Between trade. The specific remaining reader-effect gap is whether she and an unprimed reader connect this cause, not the complete absence of a clue. Any inserted realization is still an unapproved experiment.
+  - Option [p5-3-2] Candidate: she directly questions him in Chapter 1: One possible clarification, not required canon. The author's proposed sharper opening could change the reading of her existing polite boundary; test a reader response and voice consequence before accepting.
     - Option [p5-3-2-1] Now: “Do you mind?” / “Not at all”
     - Option [p5-3-2-2] B0: he just turns a page: Recommended. Her question doesn't get his attention. The thud does.
     - Option [p5-3-2-3] C0: “Reading,”: Funnier, but a new Pathwell joke and another dodge.
-  - Option [p5-3-3] Fix 2: she works it out at the counter: B1. Her suspicion, not his confession. It goes right after the ledger line, and the shopkeeper's “These were never his to spend.” confirms it.
-- **[p6-1-6-4] Or give it more at the Merritt shelf** · Chapter 18 · author — under The magic spends real lives › A page carries the person who wrote it › The sugar cookies come back once
+  - Option [p5-3-3] Candidate: she connects his motive at the shop: A small inference at the Chapter 3 counter could connect the Chapter 1 notebook clue to his unauthorized purchase and the shopkeeper's refusal. This is proposed B1 wording, not yet on the page or author-approved.
+- **[p6-1-6-4] Or give it more at the Merritt shelf** · Chapter 18 · author — under Magic can consume a person's history and possible future › A page carries the person who wrote it › The sugar cookies come back once
   Placement only. Any new emotional line is the author's to write.
-- **[p6-2-1] Nana's page tears out in the struggle** · Chapter 1 · author — under The magic spends real lives › Using a record uses it up
+- **[p6-2-1] Nana's page tears out in the struggle** · Chapter 1 · author — under Magic can consume a person's history and possible future › Using a record uses it up
   The tear itself isn't shown yet (P66).
   - Option [p6-2-1-1] Now: the page just stays: Readers can't picture what holds it.
   - Option [p6-2-1-2] B3: “tore free and”: Recommended. Three words, no new magic.
@@ -117,21 +119,21 @@ Generated from `pathwell-harada.json` by the Harada method's `harada_chart.py`. 
 
 ## Thin: 1 item
 
-- **[p6-1-6] The sugar cookies come back once** · Chapter 18 · thin — under The magic spends real lives › A page carries the person who wrote it
+- **[p6-1-6] The sugar cookies come back once** · Chapter 18 · thin — under Magic can consume a person's history and possible future › A page carries the person who wrote it
   One line in a list. The cold reader wanted more (Ledger O2).
 
 ## Open on purpose: 4 items
 
-- **[p4-4] His own question: energy nobody would use** · open — under Stansbury: the brother who keeps people small
+- **[p4-4] His own question: energy nobody would use** · open — under Stansbury's prudence helps and limits other people
   He takes energy from children's work. It echoes Pathwell selling futures, and the book leaves it open on purpose (R34).
   - Includes [p4-4-1] He calls it harmless
   - Includes [p4-4-2] Pathwell calls it stealing
-- **[p6-1-6-2] A stranger's kitchen in the fire** · Chapter 15 · open — under The magic spends real lives › A page carries the person who wrote it › The sugar cookies come back once
+- **[p6-1-6-2] A stranger's kitchen in the fire** · Chapter 15 · open — under Magic can consume a person's history and possible future › A page carries the person who wrote it › The sugar cookies come back once
   Someone else's kitchen with the same window over the sink as Nana's. A quiet rhyme, if the author wants it.
-- **[p6-1-6-3] Leave it thin** · open — under The magic spends real lives › A page carries the person who wrote it › The sugar cookies come back once
+- **[p6-1-6-3] Leave it thin** · open — under Magic can consume a person's history and possible future › A page carries the person who wrote it › The sugar cookies come back once
   Defensible: the Merritt book already carries the ending's cookbook feeling.
-- **[p6-4] Pathwell pays with his own future** · Chapter 3 · open — under The magic spends real lives
-  How much is left stays open on purpose (Q96, R19).
+- **[p6-4] Pathwell pays with his own future** · Chapter 3 · open — under Magic can consume a person's history and possible future
+  The Chapter 3 transaction pays with Pathwell's own future. The size of that loss and his remaining ability to prune are not conclusively tested in Chapter 18; don't use an implied future magical incapacity as a fake moral restraint.
   - Includes [p6-4-1] He thinks he has plenty
   - Includes [p6-4-2] He doesn't
   - Includes [p6-4-3] His brother can see it
@@ -144,21 +146,22 @@ Generated from `pathwell-harada.json` by the Harada method's `harada_chart.py`. 
 - **L1**: The nine o'clock meeting: set up five times, paid lightly · thin
 - **L15**: “Leo” and “big cat”: used once, in Ch10 · open
 - **A8**: Ch4: why the healer can't use the cart's records (test with readers) · open
+- **THEME-CENTRE**: The center has been rebuilt from the author's existing controlling idea; exact final wording remains subject to the author's approval. Do not call a chart's interpretation a new canon ruling. · author
 
 ## The chart
 
-### The message [g]: Choose your own life, ready or not, and let other people choose theirs · Chapter 18
+### Proposed controlling message [g]: Control is not competence; others pay when you decide for them. · Chapter 18 · author
 
-How: The last page says it with the first page's words. In Chapter 1 he asks “Ready?”, she says “No,” and he says “Perfect” and takes her hand. In Chapter 18 she asks, he says “No,” and she says “Perfect,” and he comes because she asked and he said yes. Same words. What changed is who is choosing. (Thesis: control is not competence, and Elizabeth matters without any power source.)
+How: WORKING THEMATIC CENTRE, not yet author-approved wording. This is grounded in the authoritative Thesis-and-Controlling-Ideas: Pathwell confuses the power to intervene and pay with the right to determine another person's life; the magic literally consumes human histories and possible futures. Elizabeth acts without magic, accepts loss and eventually makes an invitation rather than taking charge of Pathwell's answer. Shade's refusal is valid even though a cleanup creature kills him anyway; consent is not a guarantee of survival. Stansbury and Camp offer qualified counterexamples, and Pathwell's delayed confession/restitution change his conduct without restoring Shade or earning automatic pardon. The opening and closing 'Ready? / No. / Perfect.' exchange changes from overridden objection to chosen, mutually accepted movement; it does not erase the difference between being unready and unwilling. These are tested readings of Chapters 1, 3–4, 7–18, not a moral uttered by the characters.
 Quote (Chapter 18): “Are you ready?”
 
-## [p1] Elizabeth: the one who learns to choose · CHARACTER
+## [p1] Elizabeth becomes the author of her own decisions · CHARACTER
 
-How: She starts the book handing things over before she's decided to. She ends it choosing where they go and asking him along. She never gets magic; her choices count because they're only human.
+How: She resists from Chapter 1, but her objections do not determine what happens while others control the facts, danger and her property. Her agency grows through particular imperfect and costly decisions—forest, cookbook, car, accusation, diary, rescue—and ends in an invitation that leaves Pathwell free to answer. Her significance never depends on a magical gift, being a chosen target or guaranteeing a perfect outcome.
 
-### [p1-1] Start: she hands things over before she's decided to
+### [p1-1] Start: Elizabeth resists before anyone listens
 
-How: The book has to start with someone who lets other people choose for her, or there's nothing to climb. The character bible calls it compliance under pressure.
+How: The first chapter does not show a woman who simply complies. She objects to a stranger reading her diary, asks questions, takes back the cookbook, says she will not go and answers 'No' to being ready. The danger, withheld information and Pathwell's physical hand nevertheless determine the departure. Her later arc is from resistance with little effective control toward informed self-direction, not from a total absence of will.
 
 - **[p1-1-1] Three weeks in, nothing unpacked** · Chapter 2 · paid
   How: A new life she hasn't moved into yet.
@@ -169,8 +172,8 @@ How: The book has to start with someone who lets other people choose for her, or
 - **[p1-1-3] Nobody at work has noticed her** · Chapter 1 · paid
   How: The stranger going through her boxes is the one person at her party who laughed.
   Quote (Chapter 1): “He'd laughed at her joke about the landlord, which was more than anyone from work had managed.”
-- **[p1-1-4] Polite to a man reading her diary** · Chapter 1 · author
-  How: Her first words are an apology for existing. The author has proposed “What are you still doing here?” instead; see “She was never the point.”
+- **[p1-1-4] Her polite objection still marks a boundary** · Chapter 1 · author
+  How: She says 'Do you mind?' to a stranger reading her diary. This is restrained and socially polite, not an apology for existing or proof she consents. The proposed sharper line is not in the manuscript; test reader comprehension before replacing her voice. The author retains the decision.
   Quote (Chapter 1): “She watched for a moment before interrupting. "Do you mind?"”
 - **[p1-1-5] Her worries stay ordinary** · Chapter 2 · paid
   How: The meeting, the dry cleaning, the landlord. Her life is still the one she knows.
@@ -199,9 +202,9 @@ How: What she's after changes as she climbs. Each want is a little more her own 
   How: R40: her fear after the diner is losing this world, not losing her status.
   Quote (Chapter 9): “So I'm leverage.”
 
-### [p1-3] Needs: to choose for herself, even when nobody asks
+### [p1-3] Needs: to direct herself without controlling everyone else
 
-How: Her need is self-direction. Nobody hands it to her; she takes it one rung at a time (Writing Principles 7).
+How: She already resists, so the unmet need is not to discover she can say no; it is to obtain enough truth, set terms, act despite uncertainty and own the consequences. Her best choices involve limits: she cannot rescue everyone or recover destroyed originals.
 
 - **[p1-3-1] Nobody is going to make her important** · Chapter 9 · paid
   How: The diner takes away the importance Pathwell gave her by mistake.
@@ -213,9 +216,9 @@ How: Her need is self-direction. Nobody hands it to her; she takes it one rung a
 - **[p1-3-4] She has to let go of what she's holding** · Chapter 12 · paid
   Quote (Chapter 12): “"No," she said. "Give."”
 
-### [p1-4] Stands for: mattering without power
+### [p1-4] Stands for: human worth without magical exceptionalism
 
-How: The thesis: her choices matter because they're human. If she ever casts, the book becomes an empowerment fantasy (Thesis, critical constraint).
+How: She owns ordinary decisions and acts with an injured body, not an undiscovered magical power. The dagger is Stansbury's enchantment; the Camp fire rescue works without it. She matters neither because she was the blob's target nor because her choice causes a magically favorable outcome.
 
 - **[p1-4-1] She never does magic** · paid
   How: Canon hard boundary. She can own, carry, give, or position charged things. She can't use them.
@@ -231,9 +234,9 @@ How: The thesis: her choices matter because they're human. If she ever casts, th
   How: She uses the arm the healer told her not to use.
   Quote (Chapter 15): “Worse. Mine.”
 
-### [p1-5] In her way: people who choose for her, and her habit of letting them
+### [p1-5] In her way: withheld facts, imposed decisions, and attachment
 
-How: Her obstacle is outside and inside at once: people who decide for her, and her habit of letting them.
+How: Elizabeth is not passively allowing everything. Pathwell, the brothers' evasions, the danger, her possessions and her desire for an explanation keep narrowing the real options she can see. Her decisions become more informed even when they remain costly or wrong.
 
 - **[p1-5-1] He decides the danger is hers** · Chapter 1 · paid
   Quote (Chapter 1): “Your house has now been marked, magically speaking.”
@@ -246,9 +249,9 @@ How: Her obstacle is outside and inside at once: people who decide for her, and 
 - **[p1-5-5] He overrides her no** · Chapter 11 · paid
   Quote (Chapter 11): “I said no.”
 
-### [p1-6] Arc: pulled, pushing, choosing
+### [p1-6] Arc: resisting, choosing, losing, and choosing again
 
-How: Eight rungs. Each one is something she does, not a door someone opens for her. The ninth rung is the last page.
+How: Each rung has an independent cause and cost. The ditch is a deliberate dangerous act, not automatically a wise one. Saving Milo while Shade struggles is an urgent choice under incompatible demands, not evidence that Shade deserved less. The final invitation is a new possibility, not a verdict of innocence.
 
 - **[p1-6-1] She follows him for her books** · Chapter 2 · paid
   How: Rung 1: she stops absorbing what happened and goes after something that's hers.
@@ -319,7 +322,7 @@ How: Eight rungs. Each one is something she does, not a door someone opens for h
     How: Remembered at the fire. Why she can't save Shade this way.
     Quote (Chapter 15): “The seam had taken several cuts, and she had needed both arms to pull him free.”
 - **[p1-6-5] She puts the car in the ditch on purpose** · Chapter 8 · paid
-  How: Rung 5: the midpoint. She chooses the crash, not its consequences (Non-Negotiable 4).
+  How: She makes the brothers stop their evasion by putting the Cadillac in the ditch. It is her decision, but it damages Stansbury's car and puts people at risk. The fact that she chooses deliberately does not make the act morally or practically beyond criticism.
   Quote (Chapter 8): “Elizabeth chose the ditch.”
   - **[p1-6-5-1] They make her the driver and nothing else** · Chapter 7 · paid
     Quote (Chapter 7): “I become the driver.”
@@ -375,7 +378,7 @@ How: Eight rungs. Each one is something she does, not a door someone opens for h
   - **[p1-6-7-7] And she names who it's for** · Chapter 12 · paid
     Quote (Chapter 12): “Don't let Pathwell decide the restriction expired.”
 - **[p1-6-8] She chooses the child over everything she owns** · Chapter 15 · paid
-  How: Rung 8: no spell, dagger unused, diary and cookbook left to burn (R45).
+  How: She saves Milo with an injured shoulder and no magic, leaving the diary and cookbook to burn. Shade is simultaneously trapped and calls for help. Her action is urgent and legible, but it does not entail that his life was worth less or that Pathwell's later omission was equivalent.
   Quote (Chapter 15): “That was the choice.”
   - **[p1-6-8-1] Two people call for help at once** · Chapter 15 · paid
     Quote (Chapter 15): “Shade looked at the doorway. Elizabeth had heard both of them.”
@@ -412,9 +415,9 @@ How: Eight rungs. Each one is something she does, not a door someone opens for h
   - **[p1-6-8-8] She gets him out** · Chapter 15 · paid
     Quote (Chapter 15): “She got Milo through the door.”
 
-### [p1-7] Voice: sincere, not witty; her body knows first
+### [p1-7] Voice: practical anxieties, sharp boundaries, dry humor
 
-How: Character bible: her jokes are small and defensive; physical sensation comes before named feeling.
+How: She worries about landlord, clothes and work; she also makes dry jokes and can be abrupt. Her body sometimes reacts before conscious explanation, but that is a variable expressive technique, not her whole identity or a rule that she cannot be witty.
 
 - **[p1-7-1] She worries about ordinary things under pressure** · Chapter 2 · paid
   Quote (Chapter 2): “I have to get my dry cleaning before the meeting.”
@@ -429,9 +432,9 @@ How: Character bible: her jokes are small and defensive; physical sensation come
 - **[p1-7-6] Her jokes are small and late** · Chapter 18 · paid
   Quote (Chapter 18): “I contain multitudes,”
 
-### [p1-8] End: she asks, and lets the answer be no
+### [p1-8] End: she chooses the route and asks him to join
 
-How: Who she's become: she decides where they go and asks him along, without pardoning him.
+How: She picks an imperfect destination, checks a return route and asks Pathwell whether he wants to come. His 'Yes' is an invitation accepted; his final 'No' concerns readiness, not refusal. She leaves unresolved accountability intact rather than delivering forgiveness.
 
 - **[p1-8-1] She won't make his guilt her job** · Chapter 16 · paid
   Quote (Chapter 16): “I need you not to make me responsible for whether you become a better person.”
@@ -449,9 +452,9 @@ How: Who she's become: she decides where they go and asks him along, without par
 - **[p1-8-7] She asks if he wants to come** · Chapter 18 · paid
   Quote (Chapter 18): “Do you want to come?”
 
-## [p2] Pathwell: the one who chooses for everyone · CHARACTER
+## [p2] Pathwell mistakes helping for decision-making authority · CHARACTER
 
-How: He helps by deciding what helping means, pays with his own future, and lets the bill land on other people. The book doesn't cure him. It makes him see it, say it, and start asking.
+How: His competence and kindness are real. He repeatedly substitutes his chosen method for another person's consent, then treats his own payment as a defense. The pattern culminates in forced rejoining, the fire and an intentional failure to summon help while Shade is caught. His later restraint, confession and assigned restitution represent behavioral change, not erasure of consequence.
 
 ### [p2-1] Start: a charming scavenger who walks through open doors
 
@@ -470,9 +473,9 @@ How: Character bible: he takes things because his ledger balances. His danger is
 - **[p2-1-6] Camp is a layover, not home** · Chapter 4 · paid
   Quote (Chapter 4): “Home is such a permanent term. I prefer… layover.”
 
-### [p2-2] Wants: to fix it fast, and be the one who fixed it
+### [p2-2] Wants: to be useful quickly, on his own terms
 
-How: He means well. That's what makes it dangerous.
+How: Usefulness is genuinely valuable to him, and so is being the person who solves the problem. That combination becomes dangerous when he declines to ask who owns the decision and how they would define help.
 
 - **[p2-2-1] He wants credit for the paper** · Chapter 4 · paid
   Quote (Chapter 4): “You see?”
@@ -486,7 +489,7 @@ How: He means well. That's what makes it dangerous.
 
 ### [p2-3] Stands for: control that calls itself help
 
-How: The controlling idea in a person: treating future possibility as leverage, and letting other people pay for your convenience.
+How: The author's controlling idea as a person: control is not competence. A solution can be technically elegant and still violate its recipient's authority; Pathwell's confident problem solving causes losses no later efficiency can undo.
 
 - **[p2-3-1] He invents a certainty to move her** · Chapter 1 · paid
   How: A half-bluff over a real danger he misreads (R27).
@@ -533,9 +536,9 @@ How: What he can't see until it's in front of him: the costs never stay with him
 - **[p2-5-6] And she won't let him make it one thing** · Chapter 16 · paid
   Quote (Chapter 16): “Don't make them one thing because one apology is easier.”
 
-### [p2-6] Arc: from casual pruner to a man who asks first
+### [p2-6] Arc: from self-appointment to accountable restraint
 
-How: He doesn't get cured. He gets caught by what he did, says it out loud, and starts asking. Each step costs someone else first.
+How: He does not simply learn a slogan or become innocent. He insists on imposing a rejoining, witnesses the harm, consciously withholds a call that might have helped Shade, admits it late, accepts the victim's inability to return and repeatedly works under other people's instructions. The cookbook left untouched and asking before acting are evidence of changed conduct, not a completed moral transaction.
 
 - **[p2-6-1] He buys Camp's paper with his own future** · Chapter 3 · paid
   How: Step 1: a clean, casual prune, so pruning reads as routine before it's deadly (Non-Negotiable 1).
@@ -677,9 +680,9 @@ How: His humor protects something. Sometimes he stops joking, and those are the 
 - **[p2-7-6] He still jokes at the end, smaller** · Chapter 18 · paid
   Quote (Chapter 18): “You are sitting spiritually,”
 
-### [p2-8] End: changed in habits, not forgiven
+### [p2-8] End: he accepts limits without receiving absolution
 
-How: His everyday conduct really changes. It doesn't undo what he did to Shade, and nobody says it does.
+How: At the museum and Camp he follows instructions rather than optimizing around their owners. In the bookshop he asks permission, leaves the cookbook, admits deliberate inaction and answers the invitation rather than scripting it. The story does not show Shade restored or Elizabeth expressly pardoning him.
 
 - **[p2-8-1] He checks whether he was asked** · Chapter 18 · paid
   Quote (Chapter 18): “checking whether any of them had actually been requested.”
@@ -697,9 +700,9 @@ How: His everyday conduct really changes. It doesn't undo what he did to Shade, 
 - **[p2-8-7] He isn't ready, and says so** · Chapter 18 · paid
   Quote (Chapter 18): “No.”
 
-## [p3] Shade: the person someone else's choice made · CHARACTER
+## [p3] Shade's life is his, whatever his origin or fate · CHARACTER
 
-How: Made from one of Pathwell's prunes, he's proof that what you decide for someone becomes a someone. Where he came from explains him. It doesn't own him.
+How: Shade is not merely a failed prune or an object lesson in Pathwell's guilt. He acts, wants, refuses, jokes badly, chooses to stay at Camp and acquires relationships apart from his maker. His physical pull is not consent, and his fight against the cleanup creature is not a voluntary sacrifice. Dying does not make his former 'No' invalid.
 
 ### [p3-1] Start: Pathwell's failed prune, walking around
 
@@ -727,9 +730,9 @@ How: He starts out wanting Pathwell to see what he did. By Camp he wants somethi
 - **[p3-2-4] Then he wants to stay** · Chapter 13 · paid
   Quote (Chapter 13): “I want to stay here.”
 
-### [p3-3] Stands for: where you came from doesn't own you
+### [p3-3] Stands for: origin never grants ownership
 
-How: Thesis: “Origin explains Shade. Origin does not own Shade.” His death doesn't need his consent to matter.
+How: His inherited memories and compulsory bodily draw explain a predicament but do not remove personhood. His independent, explicitly spoken refusal is valid even though Pathwell overrides it; the indifferent cleanup creature later kills him without permission.
 
 - **[p3-3-1] He asks the only question that matters** · Chapter 14 · paid
   Quote (Chapter 14): “Do I remain myself?”
@@ -738,9 +741,9 @@ How: Thesis: “Origin explains Shade. Origin does not own Shade.” His death d
 - **[p3-3-3] Camp gives him a name, not a category** · Chapter 16 · paid
   Quote (Chapter 16): “Person is the word I have for that.”
 
-### [p3-4] In his way: he can't tell which feelings are his
+### [p3-4] In his way: an inherited pull still moves his body
 
-How: The draw is literal. His body keeps choosing Pathwell when he doesn't.
+How: The obstacle is physically shown through his right arm drawing toward Pathwell even against conscious refusal, sometimes painfully. Inherited recollections complicate identity, but the text does not establish that Shade simply cannot distinguish his own feelings.
 
 - **[p3-4-1] The hand turns him at the museum** · Chapter 11 · paid
   How: And Pathwell reads it as an attack.
@@ -751,9 +754,9 @@ How: The draw is literal. His body keeps choosing Pathwell when he doesn't.
   How: His choice is in the rest of him.
   Quote (Chapter 14): “This time he let the arm hang open instead of fighting it, palm toward Pathwell.”
 
-### [p3-5] Arc: from an argument with his maker to a person with a life
+### [p3-5] Arc: from demanding recognition to making a life
 
-How: He spends too long chasing Pathwell's admission, then finds a life at Camp just before he loses it.
+How: Shade demands an account of what made him, but at Camp he begins to want more than an admission: clothes, onions, card games, a place to stay and a future he can discover. The sudden loss is not an earned punishment and does not retroactively turn his life into Pathwell's property.
 
 - **[p3-5-1] He's a wrongness in a mirror** · Chapter 6 · paid
   Quote (Chapter 6): “Then, for one heartbeat, it didn't.”
@@ -817,9 +820,9 @@ How: Character bible: when he's funny it's because an exact mind meets an ordina
 - **[p3-7-4] He calls Camp hostile, and stays** · Chapter 13 · paid
   Quote (Chapter 13): “This place is hostile.”
 
-### [p3-8] His death has to cost something
+### [p3-8] His life and death matter beyond Pathwell's guilt
 
-How: If losing him doesn't hurt, Pathwell's silence costs nothing and the confession is empty.
+How: The reader has seen the pockets, coffee, onion, Hearts and wish to stay before his unexpected capture. Shade struggles, accepts help and calls out. Camp recognizes him as a person; the loss remains his as well as the others'. Pathwell's omission is morally important but not the only reason the death matters.
 
 - **[p3-8-1] It takes him while he's helping** · Chapter 15 · paid
   Quote (Chapter 15): “It took him.”
@@ -832,9 +835,9 @@ How: If losing him doesn't hurt, Pathwell's silence costs nothing and the confes
 - **[p3-8-5] Pathwell finally says what he did** · Chapter 18 · paid
   Quote (Chapter 18): “He was still trying to get free,”
 
-## [p4] Stansbury: the brother who keeps people small · CHARACTER
+## [p4] Stansbury's prudence helps and limits other people · CHARACTER
 
-How: The other way to get it wrong. Pathwell decides for people by acting. Stansbury does it by protecting them from risk and handing them toys. His turn is small and his own: he chooses his scar.
+How: Stansbury is often right about the danger of his brother's methods, yet safety can become paternalistic when he limits what others may learn or choose. His charged foam weapons enable real rescue. He risks himself in the archive fire, lets a scar remain, and helps maintain boundaries after the damage. Neither all caution nor all intervention is wrong.
 
 ### [p4-1] Start: the older brother who's watched this for centuries
 
@@ -848,9 +851,9 @@ How: He's seen Pathwell collect curiosities before.
 - **[p4-1-3] He wants the useful version** · Chapter 5 · paid
   Quote (Chapter 5): “It's the useful version.”
 
-### [p4-2] Stands for: caution that calls itself prudence
+### [p4-2] Stands for: caution that can become paternalism
 
-How: He protects people by keeping them out of it.
+How: He recognizes risks Pathwell ignores and often prevents harm; his failure is not prudence itself but assuming he can unilaterally determine how much exposure and information others should receive.
 
 - **[p4-2-1] He slaps her hand off the box** · Chapter 5 · paid
   Quote (Chapter 5): “These aren't toys for you to play with.”
@@ -888,9 +891,9 @@ How: He's the one who names Pathwell's pattern out loud, and then gets out of th
 - **[p4-5-3] He steps aside when Shade asks** · Chapter 14 · paid
   Quote (Chapter 14): “Then he stepped aside. That took the excuse away, and Pathwell knew it.”
 
-### [p4-6] His turn: he goes back in by choice
+### [p4-6] His turn: he acts when caution cannot contain the fire
 
-How: The fire is the first time he takes a risk himself instead of keeping one away from someone.
+How: He goes into danger for other people; this is a real personal risk and not a simplistic lesson that all restraint is cowardice.
 
 - **[p4-6-1] He counts who's safe** · Chapter 15 · paid
   Quote (Chapter 15): “Stansbury looked at Milo and counted limbs.”
@@ -928,9 +931,9 @@ How: He corrects people and notices the exact wrong thing.
 - **[p4-8-3] He mourns his car first** · Chapter 8 · paid
   Quote (Chapter 8): “You broke my car,”
 
-## [p5] She was never the point
+## [p5] Elizabeth was never the target—and still becomes essential
 
-How: Pathwell made her important by misreading a danger that was his. The book takes that importance away so she can earn the other kind: mattering because of what she does, not because something came for her.
+How: Pathwell's first explanation misreads a cleanup threat tied to him and Shade, not Elizabeth. The corrected inference deprives her of false magical importance but not agency or belonging: she acts, chooses and affects real people's lives without becoming the prophesied key.
 
 ### [p5-1] Something was at her door before any magic · Chapter 1 · paid
 
@@ -959,9 +962,9 @@ Quote (Chapter 1): “Your house has now been marked, magically speaking.”
 - **[p5-2-5] He uses it to move her** · Chapter 1 · paid
   Quote (Chapter 1): “Yes, I did mention the marked thing, didn't I?”
 
-### [p5-3] Why he was really there · Chapter 1 · author
+### [p5-3] His scavenging motive is hinted at, not confronted · Chapter 1 · author
 
-How: Nobody asks, all book. P66's central finding.
+How: The author-approved Chapter 1 notebook glimpse hints why Pathwell remained after Elizabeth's welcome party. Chapters 2–3 show his possession of her charged books and the Space Between trade. The specific remaining reader-effect gap is whether she and an unprimed reader connect this cause, not the complete absence of a clue. Any inserted realization is still an unapproved experiment.
 Quote (Chapter 1): “He'd been at the party, talking to everybody.”
 
 - **[p5-3-1] The evidence is all on the page**
@@ -983,8 +986,8 @@ Quote (Chapter 1): “He'd been at the party, talking to everybody.”
     Quote (Chapter 3): “He brought outside property into an open transaction”
   - **[p5-3-1-8] Camp calls him a thief** · Chapter 4 · paid
     Quote (Chapter 4): “I was only ever no good at being a thief.”
-- **[p5-3-2] Fix 1: she asks him in Chapter 1** · Chapter 1 · author
-  How: The author's line: “What are you still doing here?” The reply has to change with it.
+- **[p5-3-2] Candidate: she directly questions him in Chapter 1** · Chapter 1 · author
+  How: One possible clarification, not required canon. The author's proposed sharper opening could change the reading of her existing polite boundary; test a reader response and voice consequence before accepting.
   - **[p5-3-2-1] Now: “Do you mind?” / “Not at all”** · Chapter 1 · author
     Quote (Chapter 1): “"Not at all," he said, and turned a page.”
   - **[p5-3-2-2] B0: he just turns a page** · Chapter 1 · author
@@ -993,8 +996,8 @@ Quote (Chapter 1): “He'd been at the party, talking to everybody.”
   - **[p5-3-2-3] C0: “Reading,”** · Chapter 1 · author
     How: Funnier, but a new Pathwell joke and another dodge.
     Proposed (not in the source yet): “"What are you still doing here?" / "Reading," he said, and turned a page.”
-- **[p5-3-3] Fix 2: she works it out at the counter** · Chapter 3 · author
-  How: B1. Her suspicion, not his confession. It goes right after the ledger line, and the shopkeeper's “These were never his to spend.” confirms it.
+- **[p5-3-3] Candidate: she connects his motive at the shop** · Chapter 3 · author
+  How: A small inference at the Chapter 3 counter could connect the Chapter 1 notebook clue to his unauthorized purchase and the shopkeeper's refusal. This is proposed B1 wording, not yet on the page or author-approved.
   Proposed (not in the source yet): “Elizabeth thought of Pathwell on her living-room floor, turning the pages of her diary like he was pricing it.”
 
 ### [p5-4] Camp sees the first part doesn't fit · Chapter 4 · paid
@@ -1045,9 +1048,9 @@ How: This is why the ladder matters. Once she isn't chosen, every rung after the
 - **[p5-8-4] She chooses Milo** · Chapter 15 · paid
   Quote (Chapter 15): “That was the choice.”
 
-## [p6] The magic spends real lives
+## [p6] Magic can consume a person's history and possible future
 
-How: Writing carries the person who wrote it, and using it uses them up. That makes every choice about a record a choice about a person, and it makes Pathwell's habit of spending futures literal.
+How: Charged writing can transmit lived experience and be permanently spent. Pathwell sells his own unrealized future to obtain Camp's records, but the choice to spend charged things can also erase what belongs to others. In the fire, ordinary flame destroys Nana's cookbook and Elizabeth's diary without any magical final benefit; a copy may preserve words but not the original life carried by the page.
 
 ### [p6-1] A page carries the person who wrote it · Chapter 1 · paid
 
@@ -1108,9 +1111,9 @@ Quote (Chapter 4): “Not burned. Spent.”
 - **[p6-2-4] A copy keeps the words, not the thing** · Chapter 17 · paid
   Quote (Chapter 17): “The information survived. The page didn't.”
 
-### [p6-3] People's lives are the currency · Chapter 3 · paid
+### [p6-3] The currency of magic is someone else's lived history · Chapter 3 · paid
 
-How: If records are money, then whoever spends one is spending a person. That's what turns Pathwell's habit into harm.
+How: The Space Between prices records and potential; whoever selects a record to spend can erase a unique human history. Ownership, permission and irreversibility matter more than whether the transaction is technically possible.
 Quote (Chapter 3): “Not books — lives.”
 
 - **[p6-3-1] The shop is full of people** · Chapter 3 · paid
@@ -1124,7 +1127,7 @@ Quote (Chapter 3): “Not books — lives.”
 
 ### [p6-4] Pathwell pays with his own future · Chapter 3 · open
 
-How: How much is left stays open on purpose (Q96, R19).
+How: The Chapter 3 transaction pays with Pathwell's own future. The size of that loss and his remaining ability to prune are not conclusively tested in Chapter 18; don't use an implied future magical incapacity as a fake moral restraint.
 Quote (Chapter 3): “You did.”
 
 - **[p6-4-1] He thinks he has plenty** · Chapter 3 · open
@@ -1172,13 +1175,13 @@ Quote (Chapter 4): “The copy won't be the same thing.”
 - **[p6-7-3] “Copy the smudge.”** · Chapter 17 · paid
   Quote (Chapter 17): “The archivist, from the next table, said, "Copy the smudge."”
 
-## [p7] The last page answers the first
+## [p7] The last page changes the meaning of the first
 
-How: The ending uses the opening's own words so the reader feels the change without being told. What was done to her in Chapter 1, she does by choice in Chapter 18.
+How: Chapter 1's 'No' is overridden; Chapter 18's 'No' names unreadiness after an invitation he was allowed to accept. Elizabeth leads without commandeering his answer. Cookbook theft becomes a book left intact; automatic fixes become permission and restitution; the confession precedes the unpardoning invitation. The same 'Perfect' is a structural echo, not proof that everything was made right.
 
-### [p7-1] In Chapter 1, everything happens to her · Chapter 1 · paid
+### [p7-1] In Chapter 1, others act despite her objections · Chapter 1 · paid
 
-How: The ending only reads as change if the opening shows the opposite: things done to her, a decision made over her “No.”
+How: She asks, takes back the book, resists departure and says she is not ready. Pathwell and the incoming threat determine the action anyway. The final reversal matters because her resistance was previously ineffective—not because she had no will.
 Quote (Chapter 1): “It was the crash that woke her.”
 
 - **[p7-1-1] A crash wakes her** · Chapter 1 · paid
@@ -1204,9 +1207,9 @@ Quote (Chapter 8): “Elizabeth chose the ditch.”
 How: Ch2's choice was made while he held her things. Ch18's is hers to offer.
 Quote (Chapter 18): “Do you want to come?”
 
-### [p7-4] Following turns into inviting
+### [p7-4] Following becomes an invitation, not a new command
 
-How: Chapters 1–5 each end with her following him (Ledger R3). Chapter 18 ends with him standing beside her.
+How: Early chapters repeatedly put her physically behind Pathwell and under his framing; the last chapter puts her at the threshold, asking him to accompany her. He already says yes to joining and then admits that he isn't ready; she does not force his consent.
 
 - **[p7-4-1] She follows him out** · Chapter 1 · paid
   Quote (Chapter 1): “With a smile he grabbed her by the hand.”
@@ -1224,7 +1227,7 @@ Quote (Chapter 18): “put it back on the end of the shelf where it had been, sq
 
 ### [p7-6] He confesses before she invites him · Chapter 18 · paid
 
-How: The order matters: confession, an hour of browsing, then her invitation. So it isn't a pardon (R47).
+How: He acknowledges intentional failure to call for assistance, distinguishes it from Elizabeth's emergency rescue of Milo, and they spend time separately among the books before she invites him. She does not declare him forgiven; the order permits companionship with an unsettled account.
 Quote (Chapter 18): “That's not what I did.”
 
 ### [p7-7] Ordinary bad things stay good
@@ -1238,9 +1241,9 @@ How: Dumplings, terrible coffee, geese. The book's taste for things that aren't 
 - **[p7-7-3] She picks the route with geese** · Chapter 18 · paid
   Quote (Chapter 18): “There are geese.”
 
-### [p7-8] The last exchange, with the roles turned over · Chapter 18 · paid
+### [p7-8] The final exchange keeps both choices intact · Chapter 18 · paid
 
-How: R9. The exact words are locked.
+How: At the beginning he hears 'No' and moves her anyway. At the end she chooses a route, he accepts the invitation, she asks about readiness and he says 'No'; she answers 'Perfect.' This is shared motion with acknowledged uncertainty, not a repetition of the original coercion.
 Quote (Chapter 18): “Are you ready?”
 
 - **[p7-8-1] She hears five ways out** · Chapter 18 · paid
@@ -1260,9 +1263,9 @@ Quote (Chapter 18): “Are you ready?”
 - **[p7-8-8] “Perfect.” is hers now** · Chapter 18 · paid
   Quote (Chapter 18): “Perfect.”
 
-## [p8] Mama Baga and Camp: help that asks first · CHARACTER
+## [p8] Camp offers imperfect care without claiming ownership · CHARACTER
 
-How: Camp shows the other way to help, so the reader can see what Pathwell's way costs without anyone saying it. They ask, they wait, and they take no for an answer.
+How: Mama Baga, the healer and archivist frequently ask, listen and respect donated records, even while Camp is fallible and sometimes overbearing. Shade can stay without proving he is useful; Camp names and mourns him after he dies. Camp—not Pathwell—sets terms for repair. Their alternative is not perfect consent but the practice of recognizing who bears each decision's cost.
 
 ### [p8-1] Mama Baga: his mother in everything but name
 
@@ -1277,9 +1280,9 @@ How: Shown through ordinary care, never named on the page (Q126).
 - **[p8-1-4] She won't let Stansbury hide behind his injury** · Chapter 16 · paid
   Quote (Chapter 16): “Don't become decorative.”
 
-### [p8-2] They ask, then wait for the answer
+### [p8-2] They usually ask and take the answer seriously
 
-How: The opposite of everything Pathwell does in Chapter 1.
+How: At key moments the healer, archivist and Mama Baga ask or wait instead of making a person's decision. This is a recurring, not universal, practice; group care sometimes still includes instructions, pressure and emergency triage.
 
 - **[p8-2-1] “Are you being dragged?”** · Chapter 4 · paid
   Quote (Chapter 4): “Mama Baga kept looking at Elizabeth.”
@@ -1367,9 +1370,9 @@ How: An eleven-year-old with a sock that won't stay up. The child she chooses.
 - **[p8-7-5] He remembers what Shade liked** · Chapter 16 · paid
   Quote (Chapter 16): “He liked the pockets.”
 
-### [p8-8] Camp decides what Pathwell owes · Chapter 16 · paid
+### [p8-8] Camp sets the terms of repair rather than granting pardon · Chapter 16 · paid
 
-How: Restitution is evidence, not absolution (Q133).
+How: Staff assign useful restitution, specify methods and track irreplaceable losses. Pathwell complies and changes habits, but Shade and destroyed originals remain gone. Restitution is evidence of effort, not redemption by accounting.
 Quote (Chapter 16): “Defined by whom?”
 
 - **[p8-8-1] Who decides?** · Chapter 16 · paid
