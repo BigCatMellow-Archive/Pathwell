@@ -2820,3 +2820,23 @@ The light Sunday touch: not applicable.
 **DO:** The repository had no agent instructions. New `AGENTS.md` at the root: read first, every session ([Before you touch a chapter](Before-You-Touch-A-Chapter.md), the [Sunday Morning notes](../Sunday-Morning/README.md), this folder's [README](README.md)); which Sunday note to open for which job; the working rules and the checker command. New `CLAUDE.md` imports it, so Claude Code and other tools read one file. Linked from the repository README.
 
 **CHECK:** Every relative link in both pages resolves. No chapter changed. Routine (D23): not applicable.
+
+## P76, 2026-10-22: AGENTS.md rebuilt as the operating contract
+
+**AUTHORITY:** The author: "we need to build the agent instructions more, since theres a lot more going on than just Sunday notes, make sure to use https://github.com/BigCatMellow/MAPS_Lean/wiki as a guide as needed".
+
+**DO:** `AGENTS.md` rewritten on the MAPS_L wiki's pattern at method-only depth, and on the shape of MAPS_Lean's own AGENTS.md. It covers:
+- authority (this file governs agent conduct; the revision README's order governs the story; what is never authority);
+- who owns what (the author, the reviser, bounded helpers; delegation hands off the work, never the ownership);
+- the reading budget;
+- what needs the author (the boundary crossings) and what doesn't;
+- the loop and its stop conditions;
+- which method page for which job;
+- where records go (EXP candidates, reviews, IDEA/INS, one owner, one current version, UNKNOWN kept open);
+- independence;
+- the report format;
+- house rules.
+
+It adds no story rules; every line links to its owner. `CLAUDE.md` still imports it.
+
+**CHECK:** Every relative link and anchor resolves. No chapter changed. Routine (D23): not applicable.
