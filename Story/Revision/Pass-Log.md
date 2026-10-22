@@ -2905,3 +2905,25 @@ These edits are in this repository's copy only (D18); the 10 Kings copy doesn't 
 - D27 links the sources.
 
 **CHECK:** Links and anchors resolve. No chapter changed. Routine (D23): not applicable.
+
+## P80, 2026-10-22: two reads through the Sunday Morning lens
+
+**AUTHORITY:** The author: "would it be worth reading the story again with these new notes in mind and seeing what revisions need to be made?", then "yes" to running two independent reads and putting the results in a candidate page.
+
+**DO:** Two helpers that didn't write the text read the book on this branch, after P79.
+- The [lens read](Reader-Reports/Sunday-Lens-2026-10-22/LENS-Ch01-18.md) was informed: all 18 chapters, against the author's Sunday Morning Movies definition, R24, the Thesis and the brief.
+- The [drop-in read](Reader-Reports/Sunday-Lens-2026-10-22/DROP-IN-Ch09-18.md) was blind: given only Chapters 9–18, copied out of the repository.
+
+Both reports are saved verbatim. The reviser checked every finding against the chapters and the rulings, and built [EXP-0019](Emergence/experiments/EXP-0019-Sunday-Lens-Candidates-2026-10-22.md): four cuts (B1–B4, each leaned "take") and five questions (Q1–Q5). **No chapter changed.**
+
+**CHECK:** Every cited line was checked against the chapter text, and three counts were corrected. Every patch passes `git apply --check`, alone and all four together. Routine (D23):
+- Steps 1–9 are not applicable to the chapters, since no prose changed.
+- The two reads are the independent check, steps 5 and 6. The drop-in read is the first blind read of the back half since 10-06. It isn't the whole-book blind read L4 needs.
+- Tenth seat: not applicable (no verdict that later passes will treat as settled).
+
+**FINDINGS:**
+- **The book passes the author's test.** The blind reader would have kept reading from Ch9 at every checkpoint.
+- **The R24 balance holds.**
+- **The voice:** both readers, independently, found one shared deadpan spoken by too many characters. B1 and B2 thin it; Q1 asks whether the healer goes back to plain (R33).
+
+**RECONCILE:** [Revision Status](../../Revision-Status.md), the [Emergence index](Emergence/INDEX.md). Chapters still L3.

@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P80 two reads through the Sunday Morning lens (2026-10-22)
+
+A lens read of the whole book against the author's [Sunday Morning Movies](../../Sunday-Morning/Sources/Sunday-Morning-Movies.md) definition, and a blind drop-in read of Chapters 9–18: [reports](../Reader-Reports/Sunday-Lens-2026-10-22/) and [**EXP-0019**](experiments/EXP-0019-Sunday-Lens-Candidates-2026-10-22.md). The book passes his test; the R24 balance holds. Both readers flag one shared deadpan voice. Four cuts and five questions; **no chapter changed.** [Pass P80](../Pass-Log.md#p80-2026-10-22-two-reads-through-the-sunday-morning-lens).
+
 ## P73 external checklist, reconciled (2026-10-22)
 
 An external whole-book checklist reconciled with the records: [**EXP-0018**](experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md). Two author picks applied (Ch18 scar, two-page card in Ch12/Ch15); eleven B candidates and four flagged C candidates for the author; fifteen checklist items withdrawn, each with the ruling that rules it out. [Pass P73](../Pass-Log.md#p73-2026-10-22-the-external-checklist-reconciled-with-the-records). **P77 (R58):** the leans applied after a fresh check (B9 reverted); C1, C3 and C4 still open.
