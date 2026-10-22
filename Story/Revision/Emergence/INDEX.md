@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P85 resource audit (2026-10-22)
+
+[**Resource audit**](RESOURCE-AUDIT-2026-10-22.md): the passes have used the records for constraints more than aim. The author's own voice guide was never cited, and the reading list (Pratchett first) wasn't reachable from AGENTS.md. Both are now first stops for drafting. Some of his 2026-10-08 Ch1 line notes are still open. [Pass P85](../Pass-Log.md#p85-2026-10-22-resource-audit).
+
 ## P84 the house deadpan: candidate lines (2026-10-22)
 
 [**EXP-0021**](experiments/EXP-0021-House-Deadpan-Candidate-Lines-2026-10-22.md): 17 candidate patches over 12 spots for the voice items R59 and R60 left with the author (the healer back to plain, the turnips line, Stansbury's and Elizabeth's "No." lines, one trace of Stansbury's vanity). A [fresh check](../Reader-Reports/Fresh-Check-EXP-0021-2026-10-22.md) changed three leans. **No chapter changed.** [Pass P84](../Pass-Log.md#p84-2026-10-22-the-house-deadpan-candidate-lines-exp-0021).

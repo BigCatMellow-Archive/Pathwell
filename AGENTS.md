@@ -71,7 +71,7 @@ Stop when the pass is done, when you reach something only the author can decide,
 | Job | Open |
 | --- | --- |
 | Any change to a chapter | [Before you touch a chapter](Story/Revision/Before-You-Touch-A-Chapter.md) |
-| Drafting or revising prose | [Craft](Story/Sunday-Morning/Craft.md), then [Writing against sameness in Pathwell](Story/Revision/Writing-Against-Sameness.md) |
+| Drafting or revising prose | the author's [voice guide](Story/Sunday-Morning/Sources/Voice-Guide.md) (his own analysis of how he writes: read it whole before a pass that writes), [Craft](Story/Sunday-Morning/Craft.md), then [Writing against sameness in Pathwell](Story/Revision/Writing-Against-Sameness.md); his [line notes](Story/Sunday-Morning/Line-Notes.md) are the worked examples |
 | Exact words, a sentence or a paragraph | [Line-editing protocol](Story/Sunday-Morning/Line-Editing-Protocol.md) (§7 for small edits) |
 | A scene's job | the [scene diagnostic for Pathwell](Story/Revision/README.md#scene-diagnostic-for-pathwell) |
 | A character's reaction or motive that isn't landing | [Craft: character discovery](Story/Sunday-Morning/Craft.md#character-discovery-before-explanation) |
@@ -80,7 +80,7 @@ Stop when the pass is done, when you reach something only the author can decide,
 | Testing a consequential decision nobody has argued against | [the tenth seat](Story/Sunday-Morning/Pipeline.md#the-tenth-seat-narrow-d21); reports go in [Tenth-Seat](Story/Revision/Tenth-Seat/) |
 | Sameness or AI tells | [AI tells in Pathwell](Story/Revision/AI-Tells.md) (awareness, not rules; detector scores aren't targets, [R17](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)) |
 | Setups and payoffs | [Promise Ledger](Story/Revision/Promise-Ledger.md) |
-| A joke, an emotional line or a narrator comment, before drafting one | the author's own drafts in the [voice benchmark](Story/Revision/Voice-Benchmark/README.md) first, then the [quote and character voice reference](Story/Story_Files/quote_and_character_voice_reference.md): a bank of lines and tones he approved (a resource, not a rule; only its seed line is his own words, and none of it is in the book yet) |
+| A joke, an emotional line or a narrator comment, before drafting one | for what to aim at: the voice guide's *Humor*, *Dialogue* and *What to Avoid* sections, and the [reading list](Reading-List.md) (Pratchett first: "ideas smuggled inside jokes"). For how he does it: his own drafts in the [voice benchmark](Story/Revision/Voice-Benchmark/README.md). For tone to borrow: the [quote and character voice reference](Story/Story_Files/quote_and_character_voice_reference.md), a bank of lines and tones he approved (a resource, not a rule; only its seed line is his own words, none of it is in the book yet, and the voice guide outranks it: "not every line should be quotable") |
 | World facts, names, characters | [Story_Files](Story/Story_Files/README.md): canon, world and character bibles, [glossary](Story/Story_Files/glossary.md) |
 | What a chapter must accomplish | its contract in the [chapter contract matrix](Story/Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md); later rulings win |
 

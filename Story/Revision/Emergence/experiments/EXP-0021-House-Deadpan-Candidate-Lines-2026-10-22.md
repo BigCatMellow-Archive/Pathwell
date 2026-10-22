@@ -35,7 +35,7 @@
 | H9 | 16 | `"Good. This is going to take a while."` / `"Define a while."` / `"Longer than you want."` / `"Everything does."` | cut the three lines after hers | take: "Define a while." repeats Ch12's "Define using." | [H9](EXP-0021-H9-Ch16-Define-A-While.patch) |
 | S1a | 6 | `"Good."` / `"Really?"` / `"No. I ordered it because I enjoy disappointment."` | `Stansbury closed his eyes over the next bite. "Don't talk to me for a minute."` | take: the author's own Stansbury says "So good" to himself over this fish (benchmark Ch5), and the napkin slap now catches Pathwell with his eyes shut *(lean changed after the fresh check)* | [S1a](EXP-0021-S1a-Ch06-Fish-Dont-Talk.patch) |
 | S1b | 6 | (same) | `"Exceptional. I have exceptional taste in fish."` | |  [S1b](EXP-0021-S1b-Ch06-Fish-Exceptional-Taste.patch) |
-| S1c | 6 | (same) | `"Everyone has principles until the fish arrives."`, a jab at Pathwell's "objected to the batter on philosophical grounds", adapted from the quote bank's "Everyone has principles until lunch is delayed." | the bank option; S1a stays the lean, because it comes from his own draft and the bank is a resource, not a rule. An epigram is also the polished shape the AI-tells page warns about | [S1c](EXP-0021-S1c-Ch06-Fish-Principles.patch) |
+| S1c | 6 | (same) | `"Everyone has principles until the fish arrives."`, a jab at Pathwell's "objected to the batter on philosophical grounds", adapted from the quote bank's "Everyone has principles until lunch is delayed." | lean against: S1a comes from his own draft, and his voice guide says "not every line should be quotable" (see below) | [S1c](EXP-0021-S1c-Ch06-Fish-Principles.patch) |
 | S2 | 7 | `Stansbury set the baton down carefully. "That one is gone."` | `…carefully and brushed something off his vest that wasn't there. "That one is gone."` | take, with S1a: the author's own beat at this moment ("Stansbury dusted himself off", benchmark Ch5); the vest is set up in Ch5. S1a is appetite and S2 is vanity, so together they're the one trace EXP-0020 Q2 asked for | [S2](EXP-0021-S2-Ch07-Vest.patch) |
 | E1 | 8 | `"No. It's one of them."` | `"One of them."` | take: same joke, without the house shape | [E1](EXP-0021-E1-Ch08-One-Of-Them.patch) |
 | T1a | 15 | `There were advantages to children who had spent the morning taking instructions from people carrying turnips.` | `There were advantages to a boy half of Camp sent on errands.` | | [T1a](EXP-0021-T1a-Ch15-Turnips-Errands.patch) |
@@ -52,6 +52,14 @@ Every patch passes `git apply --check` on its own. The lean set (H2a, H3, H4, H5
 - **Its "barroom wise" set suits Stansbury at the bar.** S1c is adapted from it.
 - **None of its lines is in the book.** A five-word overlap search found only stock phrases ("the look of a man").
 - Kept for the author, not drafted: the portrait line "He was not cynical by temperament. He had simply kept the receipts." sits close to Stansbury's Ch10 "You keep receipts until they become archaeological sites." about Pathwell, one of the deadpan lines the fresh check found.
+
+## Checked against the author's voice guide
+
+Read after the author asked whether the repository's resources were being used ([resource audit](../RESOURCE-AUDIT-2026-10-22.md)). His [voice guide](../../../Sunday-Morning/Sources/Voice-Guide.md) names this problem itself: "everyone sharing the same sense of humor" and "constant quipping" are on its avoid list, and "Characters should not feel like stand-up comedians. Not every line should be quotable. Not every scene needs a joke."
+- **It explains the shape.** The "No. [correction]." line is someone answering the literal question exactly and winning the exchange. The guide wants the opposite: "People do not always answer the question they were asked. They may deflect, misunderstand, change subjects, answer the emotional question instead of the literal one." That's a way in for any of these lines he rewrites.
+- **It backs S1a over S1c.** Humour "from character… appetites… petty concerns", and "the funniest moments should often occur because a character is completely sincere about something ridiculous": Stansbury shutting his eyes over fried fish. S1c is a quotable line, which the guide warns against. **S1c: lean against.**
+- **It backs the healer cuts.** "Not every scene needs a joke"; "capable of kindness without announcing themselves as kind" is the plain healer who says "Sorry." and "I know."
+- **One caution.** H5b's "Milo considered that insufficient." is narrator cleverness ("Do not turn every observation into a clever observation"). H5b stays the lean, because it keeps Milo's soft landing, but that word is the one to write over.
 
 ## Fresh check
 

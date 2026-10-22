@@ -2,7 +2,7 @@
 
 **Source.** The author's Google Doc "Pathwell 10.7" (the whole book), where his notes are in red bold. Notes appear only in Chapter 1 and in the first line of Chapter 2. The doc's base text matches the repository's Chapter_01.txt at e6a0b08, except that his edits are applied in place.
 
-**Status: received and reviewed (R26). Nothing is applied to the chapters yet.** Recorded as R38 in [Decisions](../Decisions.md).
+**Status: received and reviewed (R26). Nothing is applied to the chapters yet.** Recorded as R38 in [Decisions](../Decisions.md). *(Stale as of 2026-10-16: most of these notes were applied in P57–P62; the [R38 row](../Decisions.md#the-authors-rulings-for-this-revision) has the current disposition, note by note.)*
 
 **Legend:**
 - `{+…+}` is red text: his insertion, his moved text, or a note to the reviser.

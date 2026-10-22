@@ -3008,3 +3008,20 @@ B4 was corrected after the reviser read it in context: the plain cut left "this 
 **Addendum:** the author asked whether the [quote and character voice reference](../Story_Files/quote_and_character_voice_reference.md) was being used. It wasn't: the reviser had searched it for the characters' names, found none, and not read it. Read in full and recorded on the EXP page; one option added from it (S1c). [AGENTS.md](../../AGENTS.md) §6 now sends any joke, emotional line or narrator comment to the voice benchmark first and then to this bank.
 
 **RECONCILE:** EXP-0021; EXP-0019's B1 row marked superseded by R59; [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).
+
+## P85, 2026-10-22: resource audit
+
+**AUTHORITY:** The author: "are we pulling inspiration from that? If we arent, are we using all the resources in the repo properly?"
+
+**DO:** [Resource audit](Emergence/RESOURCE-AUDIT-2026-10-22.md). Every tracked resource was checked for whether the entry pages reach it and whether passes cite it. Then the under-used pages were read. Finding: the records are linked, but passes have used them for constraints far more than for aim. The author's [voice guide](../Sunday-Morning/Sources/Voice-Guide.md) has never been cited by a pass, and the [reading list](../../Reading-List.md) (Pratchett first) wasn't reachable from AGENTS.md. Fixed where agents look:
+- AGENTS.md §6: the drafting row now starts with the voice guide and his line notes. The joke and narrator row now goes aim (voice guide, reading list), then his drafts, then the quote bank.
+- Two stale notes marked: the Ch1 line-notes page ("nothing applied") and the narrator register (pointed at archived guides).
+- A committed `.pyc` removed, and `.gitignore` added.
+
+EXP-0021 rechecked against the voice guide. S1c is now leaned against ("not every line should be quotable"), and the guide's dialogue section is recorded as the way into any "No. [correction]." rewrite.
+
+**CHECK:** Every link on the changed pages resolves. No chapter text changed, so the checker and readers aren't needed (D23 steps 2, 4, 5, 6 and 8 not applicable; 1, 3, 7 and 9 done).
+
+**OPEN, for the author:** some of his own Ch1 line notes from 2026-10-08 (R38) are still waiting: the first "Perfect." → "Good… that's good.", the second "low tide" cue, the felt cookbook panic, the party/light-switch deletion, the stammer and the "Huh" blocking. They're listed in the audit.
+
+**RECONCILE:** [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).
