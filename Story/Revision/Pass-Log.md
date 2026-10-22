@@ -3036,6 +3036,6 @@ EXP-0021 rechecked against the voice guide. S1c is now leaned against ("not ever
 - The [R38 disposition](Emergence/CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md) marked ¶71 "intent preserved", but his note changes "here" to "there", and that hadn't been applied. It is now.
 - `Story/Pathwell.txt` regenerated.
 
-**CHECK:** The checker runs clean (exit 0). A fresh check of the applied wording against his verbatim notes is running. Routine (D23): steps 1, 3, 7 and 9 done; 2 and 4 done (checker, ledger: "Perfect." R1 bookend intact); 5 pending (fresh check); 6 (cold read) waits for the whole-book review (P87); 8 not applicable; tenth seat not applicable.
+**CHECK:** The checker runs clean (exit 0). A fresh check read the applied wording against his verbatim notes and found every change faithful. It also found a third mechanic ("He waved it off." as its own sentence), now named in R61, and two notes nobody had tracked (¶39 more detail, ¶167 "his attention"), now EXP-0022 C5 and C6. Its opinions, for the author: the ¶73 memory line is now a verbless fragment; "she thought that he had left" leaves the paragraph's past perfect; the final "Perfect." now rests on the bookend rather than an echo inside the chapter. Routine (D23): steps 1, 3, 7 and 9 done; 2 and 4 done (checker, ledger: "Perfect." R1 bookend intact); 5 done (fresh check); 6 (cold read) waits for the whole-book review (P87); 8 not applicable; tenth seat not applicable.
 
 **RECONCILE:** R61; EXP-0022; [Revision Status](../../Revision-Status.md).
