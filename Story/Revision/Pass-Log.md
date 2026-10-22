@@ -2949,3 +2949,26 @@ Both reports are saved verbatim. The reviser checked every finding against the c
 - Tenth seat: not applicable.
 
 **RECONCILE:** R59, EXP-0019, [Revision Status](../../Revision-Status.md).
+
+## P82, 2026-10-22: the first half through the Sunday Morning lens
+
+**AUTHORITY:** The author: "read the first half of the story now with the sunday tone in mind".
+
+**DO:** Two helpers that didn't write the text read Chapters 1–9 after P81.
+- The [blind cold read](Reader-Reports/Sunday-Lens-First-Half-2026-10-22/BLIND-Ch01-09.md) got only the nine chapters, copied out of the repository.
+- The [lens read](Reader-Reports/Sunday-Lens-First-Half-2026-10-22/LENS-Ch01-09.md) went scene by scene with the rulings. It disclosed seeing a few one-line snippets of the earlier lens reports, which it didn't open; this is recorded in its report.
+
+Both reports are saved verbatim. The reviser checked every cited line against the chapters and checked authorship against the voice benchmark, then built [EXP-0020](Emergence/experiments/EXP-0020-First-Half-Sunday-Lens-Candidates-2026-10-22.md): four cuts (B1–B4, none in the author's own lines) and two questions. **No chapter changed.**
+
+**CHECK:** Every patch passes `git apply --check`, alone and together. Routine (D23):
+- Steps 1–9 are not applicable to the chapters (no prose changed).
+- The two reads are steps 5 and 6.
+- The blind read is the first blind read of Ch1–9 since the October edits. It isn't the whole-book blind read L4 needs.
+- Tenth seat: not applicable.
+
+**FINDINGS:**
+- The first half passes the author's test: the blind reader said "keep reading" after every chapter.
+- Camp (Ch4) and the bar (Ch6) are the half's Sunday heart.
+- As in the back half, both readers found one corrective deadpan shared by too many speakers. Stansbury after Ch5 is the clearest case, and Elizabeth picks it up in Ch7–9.
+
+**RECONCILE:** [Revision Status](../../Revision-Status.md), the [Emergence index](Emergence/INDEX.md). Chapters still L3.

@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P82 the first half through the Sunday Morning lens (2026-10-22)
+
+A blind cold read and a lens read of Chapters 1–9: [reports](../Reader-Reports/Sunday-Lens-First-Half-2026-10-22/) and [**EXP-0020**](experiments/EXP-0020-First-Half-Sunday-Lens-Candidates-2026-10-22.md). The first half passes the author's test; Camp and the bar are its heart. Both readers flag the shared corrective deadpan again. Four cuts and two questions; **no chapter changed.** [Pass P82](../Pass-Log.md#p82-2026-10-22-the-first-half-through-the-sunday-morning-lens).
+
 ## P80 two reads through the Sunday Morning lens (2026-10-22)
 
 A lens read of the whole book against the author's [Sunday Morning Movies](../../Sunday-Morning/Sources/Sunday-Morning-Movies.md) definition, and a blind drop-in read of Chapters 9–18: [reports](../Reader-Reports/Sunday-Lens-2026-10-22/) and [**EXP-0019**](experiments/EXP-0019-Sunday-Lens-Candidates-2026-10-22.md). The book passes his test; the R24 balance holds. Both readers flag one shared deadpan voice. Four cuts and five questions; **no chapter changed.** [Pass P80](../Pass-Log.md#p80-2026-10-22-two-reads-through-the-sunday-morning-lens).
