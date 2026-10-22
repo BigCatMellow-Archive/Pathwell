@@ -38,6 +38,7 @@ this file
 + Revision-Status.md and the latest Pass Log entry   (where things stand)
 + the chapter(s) in scope, and the Decisions rows that touch them
 + one method page for the job     (section 6)
++ the resources the web assigns to the pass's role   (section 8: Aim for any writing pass)
 ```
 
 Add other sources only when the work needs them: the interview when a lock's exact wording matters; the Promise Ledger before changing anything planted or paid; the Decision Timeline only to trace when a ruling arrived.
@@ -61,8 +62,8 @@ Inside that boundary, don't ask permission for routine steps. On your own questi
 3. **Check it against the records:** [Before you touch a chapter](Story/Revision/Before-You-Touch-A-Chapter.md), the ruling rows, the [Promise Ledger](Story/Revision/Promise-Ledger.md).
 4. **Do the smallest change that meets it.** If the author hasn't picked it, write it as a candidate (section 7).
 5. **Verify.** Run the [after-every-pass routine](Story/Revision/README.md#after-every-pass), including the checker. Independent checks go to helpers that didn't write the text.
-6. **Reconcile the records:** Pass Log entry, R-row for any new ruling, [Revision-Status](Revision-Status.md), the ledger, the [Emergence index](Story/Revision/Emergence/INDEX.md).
-7. **Commit** after each step ([R8](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)), then **report** (section 9).
+6. **Reconcile the records:** Pass Log entry (with its SOURCES line, section 8), R-row for any new ruling, [Revision-Status](Revision-Status.md), the ledger, the [Emergence index](Story/Revision/Emergence/INDEX.md).
+7. **Commit** after each step ([R8](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)), then **report** (section 10).
 
 Stop when the pass is done, when you reach something only the author can decide, or when you're waiting on him. Don't stop early while asked-for work remains, and don't invent new work after it's done.
 
@@ -94,11 +95,38 @@ Stop when the pass is done, when you reach something only the author can decide,
 - **One current version of anything** ([R16](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)). Superseded material moves to [Story/Archive](Story/Archive/README.md) in the same change, with a line in its index saying what replaced it.
 - **Keep UNKNOWN unknown.** Don't fill a gap in the records with a guess. Mark it open and ask, or take a lean and list it.
 
-## 8. Independence
+## 8. The web
+
+MAPS_L's [Spiderweb](https://github.com/BigCatMellow/MAPS_Lean/wiki/Operator-and-Developer-Tools) rule: **nothing durable is an island.** Every live record has to be reachable, and the passes have to actually use it. A resource nobody opens is as lost as an orphan: the [2026-10-22 audit](Story/Revision/Emergence/RESOURCE-AUDIT-2026-10-22.md) found that no pass had ever cited the author's own voice guide, and that some of his own line notes had sat open for two weeks.
+
+**The map** is the [inventory](Story/Revision/README.md#inventory-of-existing-process-records) in the revision README. It lists every live resource by role, with its owner, its state and **when to open it**:
+- **Rulings:** what he decided, including his notes in his own words.
+- **Targets:** what the book is for.
+- **Aim:** what it should feel and sound like.
+- **World:** what's true, what's named, what's planted.
+- **Method:** how to work.
+- **State:** where things stand.
+- **Candidates**, **Evidence**, **Lessons**, **Tools** and **History**.
+
+The rules:
+1. **Open by role, not by habit.** Every pass reads Rulings and State. A pass that writes or judges prose also reads **Aim**: his voice guide, whole, plus the definition and his drafts. A pass that changes what a scene does also reads **Targets** and **World**. Constraints say what not to break; Aim says what to reach for. A pass that only reads constraints will drift toward correct and flat.
+2. **Every Pass Log entry has a SOURCES line** naming the resources it opened, grouped by role. A writing pass with no Aim source on that line has skipped a step. This is what makes use auditable.
+3. **His own words outrank everything that came after them.** Before working on a chapter, check [Author-Notes](Story/Revision/Author-Notes/) and the Decisions rows for any of his notes still open on it.
+4. **Link every new record to what gives it meaning:** its ruling, source, candidate, pass or successor. If other agents should open it, add it to the map. Don't add links only to make the graph denser.
+5. **A status that's no longer true gets a dated "Current disposition" line,** not a rewrite. History stays; the present is marked.
+6. **Run the spiderweb scan** at the end of a multi-pass arc, before a handoff, or whenever something seems to have gone missing:
+
+   ```text
+   python3 Story/Revision/tools/check_spiderweb.py
+   ```
+
+   It reports broken links, duplicate IDs, orphans, thin connections and stale captures. Its findings are questions, not conclusions. Reconcile each one as **CONNECTED, MISSING_LINK, STALE_DISPOSITION, SUPERSEDED, INTENTIONALLY_STANDALONE or UNKNOWN** ([method](https://github.com/BigCatMellow/MAPS_Lean)'s `playbook/SPIDERWEB_AUDIT.md`), and make the smallest fix the evidence supports. The scan can't see a stale status line or an unused resource. For those, list the open statuses (`grep -m1 "^\*\*Status"` across the EXP pages) and compare recent SOURCES lines against the map.
+
+## 9. Independence
 
 The agent that wrote a text can't be the one that passes it. Fresh checks, cold readers and tenth seats are separate helpers. Give each one the chapters, the task and the primary records it needs (the ruling's own row, the lock's own paragraph), not your summary of them. Readers stay blind to the goals and to each other ([reader panel](Story/Sunday-Morning/Reader-Panel.md)). An informed read, including the reviser's own, never counts as the blind read L4 needs.
 
-## 9. Reporting to the author
+## 10. Reporting to the author
 
 Lead with the result, the decision he needs to make, or what's blocked. Then:
 
@@ -109,7 +137,7 @@ Lead with the result, the decision he needs to make, or what's blocked. Then:
 
 Don't narrate routine steps, and don't turn status into requests for permission.
 
-## 10. House rules
+## 11. House rules
 
 - Refer to him as **"the author"** in files, filenames and commit messages. Never by name.
 - Revise from his own drafts where they exist ([W14](Story/Revision/Decisions.md#working-decisions)). Don't smooth his lines toward "better writing".

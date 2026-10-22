@@ -4,7 +4,7 @@ Ported from MAPS_Lean's scripts/check_spiderweb.py (method: MAPS_Lean
 playbook/SPIDERWEB_AUDIT.md). Pathwell changes: the historical root is
 Story/Archive/, the root anchors are this repository's entry pages, and
 ideas/insights live in Story/ideas and Story/insights. Findings are questions,
-not conclusions; see AGENTS.md section 7.
+not conclusions; see AGENTS.md section 8.
 
     python3 Story/Revision/tools/check_spiderweb.py            # text report
     python3 Story/Revision/tools/check_spiderweb.py --no-thin  # less noise

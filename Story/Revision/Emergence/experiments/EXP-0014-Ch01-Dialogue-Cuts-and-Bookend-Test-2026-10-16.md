@@ -2,6 +2,7 @@
 
 **Date:** 2026-10-16  
 **Status:** **B'S PAIRED DIALOGUE CUTS ADOPTED PROVISIONALLY IN LIVE CHAPTER 1 UNDER P62/W21** (reviser decision following author “continue” and Oct 8 crossed-out lines); first “Perfect” / C dialogue alternative **NOT ADOPTED**; unprimed reader and author chapter verdict open.  
+**Current disposition (2026-10-22):** the first "Perfect." is now the author's own "Good… that's good." ([R61](../../Decisions.md#the-authors-rulings-for-this-revision), [P86](../../Pass-Log.md#p86-2026-10-22-the-authors-own-ch1-line-notes)); the final "Perfect." stays.  
 **Origin:** [R38 author markup](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md) ¶59, ¶131, ¶139; [July Chapter 1 author voice benchmark](../../Voice-Benchmark/Author_Chapter_01_before-2026-08-28.txt); [current Chapter 1](../../../Chapters/Chapter_01.txt).  
 **Mechanics context:** [EXP-0013](EXP-0013-Ch01-Cookbook-Page-Defensive-Contact-2026-10-16.md) has been applied to the actual chapter. This dialogue test **inherits the newest protective-page contact version**, not the prior ambiguous-strike source.
 
