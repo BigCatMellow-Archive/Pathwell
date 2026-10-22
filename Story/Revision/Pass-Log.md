@@ -2991,3 +2991,18 @@ B4 was corrected after the reviser read it in context: the plain cut left "this 
 - Tenth seat: not applicable.
 
 **RECONCILE:** R60, EXP-0020, [Revision Status](../../Revision-Status.md). Q1 and Q2 stay with the author.
+
+## P84, 2026-10-22: the house deadpan, candidate lines (EXP-0021)
+
+**AUTHORITY:** The author: "lets get back to the actual work of improving the story". The reviser took the open voice items from R59 and R60 (the healer back to plain, the Ch15 turnips line, Stansbury's Ch6 and Elizabeth's Ch8 "No. [correction]." lines, one trace of Stansbury's Ch5 vanity), because they are the convergent finding of both Sunday-lens passes.
+
+**DO:** [EXP-0021](Emergence/experiments/EXP-0021-House-Deadpan-Candidate-Lines-2026-10-22.md): 17 patches over 12 spots, as plain scaffolds for the author to pick, rewrite or refuse (who writes what). **No chapter changed.** The healer options take her back to her Ch4 register and keep Elizabeth's jokes wherever they can answer a plain line. The Stansbury options come from the author's own drafts (the fish, dusting himself off).
+
+**CHECK:** Every patch passes `git apply --check` alone, and the lean set applies together. An independent helper read each option in its scene against the author's Ch4–5 drafts, without the leans ([report](Reader-Reports/Fresh-Check-EXP-0021-2026-10-22.md)). It agreed on nine spots and changed three leans (H1 keep, S1a with S2, T1b). It also found two more deadpan "No." lines (Ch10:133, Ch18:233) and a third "the question" line (Ch12:187), all listed and not drafted. Routine (D23):
+- Steps 1, 3, 7 and 9: done.
+- Steps 2, 4 and 8: not applicable (no chapter text changed).
+- Step 5: done, as the fresh check above.
+- Step 6 (a cold read): not applicable until the author picks.
+- Tenth seat: not applicable.
+
+**RECONCILE:** EXP-0021; EXP-0019's B1 row marked superseded by R59; [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).

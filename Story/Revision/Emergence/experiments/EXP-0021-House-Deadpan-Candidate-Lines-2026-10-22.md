@@ -22,7 +22,7 @@
 
 | # | Ch | Current | Candidate | Lean | Patch |
 | --- | --- | --- | --- | --- | --- |
-| H1 | 12 | `Elizabeth looked at her. The healer looked back. "I ask because people point at the wrong thing surprisingly often."` | cut; "Which shoulder?" goes straight to "Left." | take | [H1](EXP-0021-H1-Ch12-Which-Shoulder.patch) |
+| H1 | 12 | `Elizabeth looked at her. The healer looked back. "I ask because people point at the wrong thing surprisingly often."` | cut; "Which shoulder?" goes straight to "Left." | keep the current text: it explains her question rather than correcting anyone. Take H1 only if she should be strictly plain *(lean changed after the fresh check)* | [H1](EXP-0021-H1-Ch12-Which-Shoulder.patch) |
 | H2a | 12 | `"Briefly? Very."` / `"Excellent."` / `"Afterward, less."` / `"Strong sales pitch."` | `"It'll hurt a lot, and then it'll hurt less."` / `"Strong sales pitch."` | take | [H2a](EXP-0021-H2a-Ch12-Briefly-Very-Plain.patch) |
 | H2b | 12 | (same) | `"Badly, for a moment."` / `"Strong sales pitch."` | | [H2b](EXP-0021-H2b-Ch12-Briefly-Very-Short.patch) |
 | H3 | 12 | `"Still mine."` / `"Keep them that way."` | cut her reply; "Still mine." is the button | take | [H3](EXP-0021-H3-Ch12-Keep-Them.patch) |
@@ -33,17 +33,26 @@
 | H7 | 16 | `"There was a shelf."` / `"Shelves are famous for respecting medical instructions."` / `"This one was especially difficult."` | `"There was a shelf."` / `"I know."` | take: she was at the fire | [H7](EXP-0021-H7-Ch16-Shelves-Famous.patch) |
 | H8 | 16 | the threat, Mama Baga's "No.", then `"Fine. I will ask you very firmly not to."` / `"That seems less effective."` / `"It is what we have."` | keep the threat and Mama Baga's "No."; cut the three lines after. "I'll try," follows the "No." | take: the threat is heat, not deadpan | [H8](EXP-0021-H8-Ch16-Tie-To-Wagon.patch) |
 | H9 | 16 | `"Good. This is going to take a while."` / `"Define a while."` / `"Longer than you want."` / `"Everything does."` | cut the three lines after hers | take: "Define a while." repeats Ch12's "Define using." | [H9](EXP-0021-H9-Ch16-Define-A-While.patch) |
-| S1a | 6 | `"Good."` / `"Really?"` / `"No. I ordered it because I enjoy disappointment."` | `Stansbury closed his eyes over the next bite. "Don't talk to me for a minute."` | | [S1a](EXP-0021-S1a-Ch06-Fish-Dont-Talk.patch) |
-| S1b | 6 | (same) | `"Exceptional. I have exceptional taste in fish."` | take: answers EXP-0020 Q1 and Q2 in one line | [S1b](EXP-0021-S1b-Ch06-Fish-Exceptional-Taste.patch) |
-| S2 | 7 | `Stansbury set the baton down carefully. "That one is gone."` | `…carefully and brushed something off his vest that wasn't there. "That one is gone."` | alternative to S1b; not both | [S2](EXP-0021-S2-Ch07-Vest.patch) |
+| S1a | 6 | `"Good."` / `"Really?"` / `"No. I ordered it because I enjoy disappointment."` | `Stansbury closed his eyes over the next bite. "Don't talk to me for a minute."` | take: the author's own Stansbury says "So good" to himself over this fish (benchmark Ch5), and the napkin slap now catches Pathwell with his eyes shut *(lean changed after the fresh check)* | [S1a](EXP-0021-S1a-Ch06-Fish-Dont-Talk.patch) |
+| S1b | 6 | (same) | `"Exceptional. I have exceptional taste in fish."` | |  [S1b](EXP-0021-S1b-Ch06-Fish-Exceptional-Taste.patch) |
+| S2 | 7 | `Stansbury set the baton down carefully. "That one is gone."` | `…carefully and brushed something off his vest that wasn't there. "That one is gone."` | take, with S1a: the author's own beat at this moment ("Stansbury dusted himself off", benchmark Ch5); the vest is set up in Ch5. S1a is appetite and S2 is vanity, so together they're the one trace EXP-0020 Q2 asked for | [S2](EXP-0021-S2-Ch07-Vest.patch) |
 | E1 | 8 | `"No. It's one of them."` | `"One of them."` | take: same joke, without the house shape | [E1](EXP-0021-E1-Ch08-One-Of-Them.patch) |
-| T1a | 15 | `There were advantages to children who had spent the morning taking instructions from people carrying turnips.` | `There were advantages to a boy half of Camp sent on errands.` | take: he's sent somewhere in Ch12 and Ch14 | [T1a](EXP-0021-T1a-Ch15-Turnips-Errands.patch) |
-| T1b | 15 | (same) | `There were advantages to a boy who had been carrying things for other people since he was big enough to carry turnips.` | | [T1b](EXP-0021-T1b-Ch15-Turnips-Kept.patch) |
+| T1a | 15 | `There were advantages to children who had spent the morning taking instructions from people carrying turnips.` | `There were advantages to a boy half of Camp sent on errands.` | | [T1a](EXP-0021-T1a-Ch15-Turnips-Errands.patch) |
+| T1b | 15 | (same) | `There were advantages to a boy who had been carrying things for other people since he was big enough to carry turnips.` | take: keeps the turnip, Milo's running tag, and the small absurdity R24 wants here. Two flaws for the author to write over: "carrying… carry", and "since he was big enough" is a small new claim *(lean changed after the fresh check)* | [T1b](EXP-0021-T1b-Ch15-Turnips-Kept.patch) |
 
-Every patch passes `git apply --check` on its own. The lean set (H1, H2a, H3, H4, H5b, H6–H9, S1b, E1, T1a) applies together: 8 lines in, 44 out, across Ch6, 8, 12, 15 and 16.
+Every patch passes `git apply --check` on its own. The lean set (H2a, H3, H4, H5b, H6–H9, S1a, S2, E1, T1b) applies together, across Ch6, 7, 8, 12, 15 and 16.
 
 **Kept on purpose:** the archivist's "No." in Ch4 (he's the sanctioned dry wit, R33) and Shade's "No. I'm getting coffee." in Ch8 (his literalness). In Ch12 the healer's "Because it's your shoulder." and in Ch16 "Can I check it?" stay: they're plain, and they carry the asking theme.
 
 ## Fresh check
 
-*(Pending: an independent helper is reading every option in its scene against the author's drafts.)*
+An independent helper read every option in its scene against the author's Ch4–5 drafts, without the reviser's leans: [report](../../Reader-Reports/Fresh-Check-EXP-0021-2026-10-22.md). It agreed on H2a, H3, H4, H5b, H6–H9 and E1, and changed three leans (H1, S1, T1, marked above). Also from the report:
+- **H4 removes an unflagged echo:** Ch12's "I wasn't." / "You were going to." copies Ch6's "I was not." / "You were about to."
+- **The healer's warmth in Ch16 then rests on "Sorry." (H5) and "I know." (H7).** Take the cuts without those two and she reads curt, not plain.
+- **H9 leaves Stansbury silent in that stretch;** his tight jaw carries it.
+
+**Found, not drafted** (for a later pass or the author):
+- Mama Baga's "That was not the question." (Ch12:187) is the third of its kind after Ch7's "That wasn't the question." and Ch8's "Was that a question?".
+- The healer's "before the swelling makes us all regret waiting" (Ch12:108) would be her one remaining flourish. Tolerable.
+- Two more house-deadpan "No." lines: "No. You keep receipts until they become archaeological sites." (Ch10:133) and "No. I can see gravy on the cover." (Ch18:233). The helper listed five more "No." lines in Ch10 and Ch13; the reviser read them, and they are plain answers, not the corrective shape (Ch10:522, "No. I would not try.", was kept on purpose in P77).
+- EXP-0019's B1 row still says "A low standard." / "It has been a morning." stay; R59 superseded that. Noted there.

@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P84 the house deadpan: candidate lines (2026-10-22)
+
+[**EXP-0021**](experiments/EXP-0021-House-Deadpan-Candidate-Lines-2026-10-22.md): 17 candidate patches over 12 spots for the voice items R59 and R60 left with the author (the healer back to plain, the turnips line, Stansbury's and Elizabeth's "No." lines, one trace of Stansbury's vanity). A [fresh check](../Reader-Reports/Fresh-Check-EXP-0021-2026-10-22.md) changed three leans. **No chapter changed.** [Pass P84](../Pass-Log.md#p84-2026-10-22-the-house-deadpan-candidate-lines-exp-0021).
+
 ## P82 the first half through the Sunday Morning lens (2026-10-22)
 
 A blind cold read and a lens read of Chapters 1–9: [reports](../Reader-Reports/Sunday-Lens-First-Half-2026-10-22/) and [**EXP-0020**](experiments/EXP-0020-First-Half-Sunday-Lens-Candidates-2026-10-22.md). The first half passes the author's test; Camp and the bar are its heart. Both readers flag the shared corrective deadpan again. Four cuts and two questions; **no chapter changed.** [Pass P82](../Pass-Log.md#p82-2026-10-22-the-first-half-through-the-sunday-morning-lens).
