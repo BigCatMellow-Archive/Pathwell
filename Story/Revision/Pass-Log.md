@@ -3005,4 +3005,6 @@ B4 was corrected after the reviser read it in context: the plain cut left "this 
 - Step 6 (a cold read): not applicable until the author picks.
 - Tenth seat: not applicable.
 
+**Addendum:** the author asked whether the [quote and character voice reference](../Story_Files/quote_and_character_voice_reference.md) was being used. It wasn't: the reviser had searched it for the characters' names, found none, and not read it. Read in full and recorded on the EXP page; one option added from it (S1c). [AGENTS.md](../../AGENTS.md) §6 now sends any joke, emotional line or narrator comment to the voice benchmark first and then to this bank.
+
 **RECONCILE:** EXP-0021; EXP-0019's B1 row marked superseded by R59; [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).

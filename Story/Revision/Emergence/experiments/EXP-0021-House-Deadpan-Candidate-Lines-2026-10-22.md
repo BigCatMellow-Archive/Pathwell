@@ -35,6 +35,7 @@
 | H9 | 16 | `"Good. This is going to take a while."` / `"Define a while."` / `"Longer than you want."` / `"Everything does."` | cut the three lines after hers | take: "Define a while." repeats Ch12's "Define using." | [H9](EXP-0021-H9-Ch16-Define-A-While.patch) |
 | S1a | 6 | `"Good."` / `"Really?"` / `"No. I ordered it because I enjoy disappointment."` | `Stansbury closed his eyes over the next bite. "Don't talk to me for a minute."` | take: the author's own Stansbury says "So good" to himself over this fish (benchmark Ch5), and the napkin slap now catches Pathwell with his eyes shut *(lean changed after the fresh check)* | [S1a](EXP-0021-S1a-Ch06-Fish-Dont-Talk.patch) |
 | S1b | 6 | (same) | `"Exceptional. I have exceptional taste in fish."` | |  [S1b](EXP-0021-S1b-Ch06-Fish-Exceptional-Taste.patch) |
+| S1c | 6 | (same) | `"Everyone has principles until the fish arrives."`, a jab at Pathwell's "objected to the batter on philosophical grounds", adapted from the quote bank's "Everyone has principles until lunch is delayed." | the bank option; S1a stays the lean, because it comes from his own draft and the bank is a resource, not a rule. An epigram is also the polished shape the AI-tells page warns about | [S1c](EXP-0021-S1c-Ch06-Fish-Principles.patch) |
 | S2 | 7 | `Stansbury set the baton down carefully. "That one is gone."` | `…carefully and brushed something off his vest that wasn't there. "That one is gone."` | take, with S1a: the author's own beat at this moment ("Stansbury dusted himself off", benchmark Ch5); the vest is set up in Ch5. S1a is appetite and S2 is vanity, so together they're the one trace EXP-0020 Q2 asked for | [S2](EXP-0021-S2-Ch07-Vest.patch) |
 | E1 | 8 | `"No. It's one of them."` | `"One of them."` | take: same joke, without the house shape | [E1](EXP-0021-E1-Ch08-One-Of-Them.patch) |
 | T1a | 15 | `There were advantages to children who had spent the morning taking instructions from people carrying turnips.` | `There were advantages to a boy half of Camp sent on errands.` | | [T1a](EXP-0021-T1a-Ch15-Turnips-Errands.patch) |
@@ -43,6 +44,14 @@
 Every patch passes `git apply --check` on its own. The lean set (H2a, H3, H4, H5b, H6–H9, S1a, S2, E1, T1b) applies together, across Ch6, 7, 8, 12, 15 and 16.
 
 **Kept on purpose:** the archivist's "No." in Ch4 (he's the sanctioned dry wit, R33) and Shade's "No. I'm getting coffee." in Ch8 (his literalness). In Ch12 the healer's "Because it's your shoulder." and in Ch16 "Can I check it?" stay: they're plain, and they carry the asking theme.
+
+## The quote bank
+
+[quote_and_character_voice_reference.md](../../../Story_Files/quote_and_character_voice_reference.md) was read for this page on the author's prompt, after the first draft of it. It is about 340 lines of tone he approved: the seed line is his ("These moments will someday be memories we wish had lasted longer."); the rest were written in an earlier chat. Most of it is reflective or irreverent aphorism, a "bad guy, not the villain" set and a portrait of a weary, careful man.
+- **It has no notes on the healer, Stansbury or Elizabeth,** so it doesn't change H1–H9, E1 or T1. The healer is meant to be plain, and the bank's register is the opposite of plain.
+- **Its "barroom wise" set suits Stansbury at the bar.** S1c is adapted from it.
+- **None of its lines is in the book.** A five-word overlap search found only stock phrases ("the look of a man").
+- Kept for the author, not drafted: the portrait line "He was not cynical by temperament. He had simply kept the receipts." sits close to Stansbury's Ch10 "You keep receipts until they become archaeological sites." about Pathwell, one of the deadpan lines the fresh check found.
 
 ## Fresh check
 

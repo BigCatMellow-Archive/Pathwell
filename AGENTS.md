@@ -80,6 +80,7 @@ Stop when the pass is done, when you reach something only the author can decide,
 | Testing a consequential decision nobody has argued against | [the tenth seat](Story/Sunday-Morning/Pipeline.md#the-tenth-seat-narrow-d21); reports go in [Tenth-Seat](Story/Revision/Tenth-Seat/) |
 | Sameness or AI tells | [AI tells in Pathwell](Story/Revision/AI-Tells.md) (awareness, not rules; detector scores aren't targets, [R17](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)) |
 | Setups and payoffs | [Promise Ledger](Story/Revision/Promise-Ledger.md) |
+| A joke, an emotional line or a narrator comment, before drafting one | the author's own drafts in the [voice benchmark](Story/Revision/Voice-Benchmark/README.md) first, then the [quote and character voice reference](Story/Story_Files/quote_and_character_voice_reference.md): a bank of lines and tones he approved (a resource, not a rule; only its seed line is his own words, and none of it is in the book yet) |
 | World facts, names, characters | [Story_Files](Story/Story_Files/README.md): canon, world and character bibles, [glossary](Story/Story_Files/glossary.md) |
 | What a chapter must accomplish | its contract in the [chapter contract matrix](Story/Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md); later rulings win |
 
