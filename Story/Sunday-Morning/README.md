@@ -10,7 +10,7 @@ Nothing here belongs to any one world. When a collection is set in a particular 
 
 ## What it's for
 
-**A Sunday Morning story is meant to be fun.** The idea and the name come from the author's own enjoyment of what he calls "Sunday Morning Movies" ([D27](Decisions.md#standing-rulings)). The [Framework](Sources/Framework.md)'s core promise puts the feeling in one line: "You do not need to brace yourself." Give the reader an interesting place, a good cast and a simple problem, and a reason to enjoy hanging around while it unfolds.
+**A Sunday Morning story is meant to be fun.** The idea and the name come from the author's "Sunday Morning Movies". In his own [definition](Sources/Sunday-Morning-Movies.md), they are "easygoing, star-driven, mid-budget films with clear premises, memorable supporting casts, human-scale stakes, and enough charm that you can stumble into them halfway through on cable and happily keep watching" ([D27](Decisions.md#standing-rulings)). His test is the one to keep in mind: "Would I happily leave this on if I discovered it halfway through on cable?" The [Framework](Sources/Framework.md) turns that viewing experience into a story mode, and its core promise puts the feeling in one line: "You do not need to brace yourself." Give the reader an interesting place, a good cast and a simple problem, and a reason to enjoy hanging around while it unfolds.
 
 **The tone is the point; everything else here protects it.** The rules, craft, pipeline and checks exist to keep a story feeling like that. When a check and the feeling pull apart, the feeling wins ([D9](Decisions.md#standing-rulings)). A pass that clears every step but leaves the story less enjoyable to spend time in hasn't worked. In particular, a soft landing after a hard moment (a meal, warmth, a small absurdity) is part of the promise, not a repeated beat to trim; check the [tone guardrails](Rules.md#tone-guardrails) before cutting one.
 
@@ -31,6 +31,7 @@ When two notes pull in different directions, each decides its own ground, in thi
 | Note | Owns | MAPS_L class | State | Read it when |
 | --- | --- | --- | --- | --- |
 | [Decisions](Decisions.md) | The author's standing rulings, working decisions waiting for him, the shape of a collection's own decisions list | authority | active | before changing anything a ruling might cover |
+| [Sunday Morning Movies](Sources/Sunday-Morning-Movies.md) | the author's definition of the kind of movie the idea comes from, and his test for it, verbatim; with the [first conversation](Sources/Sunday-Morning-Movies-Conversation.md) about it, kept as evidence | authority (imported source) | active, never edited | asking what a Sunday Morning story should feel like |
 | [Framework](Sources/Framework.md) | the Sunday Morning framework, verbatim | authority (imported source) | active, never edited | shaping a premise; the checklist (§20) and template (§23) |
 | [Voice Guide](Sources/Voice-Guide.md) | The author's analysis of his own style, verbatim | authority (imported source) | active, never edited | drafting or revising prose |
 | [AI tells](Sources/AI-Tells.md) | what research and editors report as common features of AI-generated fiction, each set against the voice guide, with sources; awareness, not rules ([D18](Decisions.md#standing-rulings)) | reference | active | checking a draft for sameness; before a fresh check |
@@ -57,7 +58,7 @@ For a single long work kept as plain files (a novel's chapters, say), add `--pat
 
 | Question | Go to |
 | --- | --- |
-| What is Sunday Morning for? | [What it's for](#what-its-for) |
+| What is Sunday Morning for? | [What it's for](#what-its-for), then the author's [Sunday Morning Movies](Sources/Sunday-Morning-Movies.md) |
 | What makes a story a Sunday Morning story? | [Framework](Sources/Framework.md) §1; the checklist, [§20](Sources/Framework.md#20-the-sunday-morning-story-checklist) |
 | How sad or tense can it get? | [Rules: tone guardrails](Rules.md#tone-guardrails) |
 | The stories belong to a bigger saga. How do they tie in? | [Rules: connecting to a larger story](Rules.md#connecting-to-a-larger-story), then [Pipeline: larger-story check](Pipeline.md#larger-story-check) |

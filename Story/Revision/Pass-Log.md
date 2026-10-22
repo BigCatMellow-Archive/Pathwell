@@ -2893,3 +2893,15 @@ It adds no story rules; every line links to its owner. `CLAUDE.md` still imports
 These edits are in this repository's copy only (D18); the 10 Kings copy doesn't have them yet.
 
 **CHECK:** Links and anchors resolve. No chapter changed. Routine (D23): not applicable. The README quotes only his words for "Sunday Morning Movies" and adds no description he didn't give.
+
+## P79, 2026-10-22: the author's "Sunday Morning Movies" definition added as a source
+
+**AUTHORITY:** The author supplied two files "I had worked on to define the concept": his own definition of Sunday Morning Movies, and the earlier conversation it grew out of. Both are recorded under Sunday Morning [D27](../Sunday-Morning/Decisions.md#standing-rulings).
+
+**DO:**
+- New source [Sunday Morning Movies](../Sunday-Morning/Sources/Sunday-Morning-Movies.md): his definition, word for word. Headings and bullets were added for reading; a script confirmed the words and their order are unchanged.
+- New evidence page [the first conversation](../Sunday-Morning/Sources/Sunday-Morning-Movies-Conversation.md): kept verbatim, marked not authority (it's another assistant's reply; its figures and links aren't checked here).
+- The Sunday Morning README's "What it's for" now quotes his short definition and his test ("Would I happily leave this on if I discovered it halfway through on cable?"), with a row in the notes table and the router.
+- D27 links the sources.
+
+**CHECK:** Links and anchors resolve. No chapter changed. Routine (D23): not applicable.
