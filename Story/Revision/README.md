@@ -24,6 +24,7 @@ When two notes pull in different directions, each decides its own ground in this
 
 | Note | Owns | MAPS_L class | State |
 | --- | --- | --- | --- |
+| [Before you touch a chapter](Before-You-Touch-A-Chapter.md) | nothing new: a one-page brief of the rulings most likely to be undone, who writes what, and how a change gets in, each linked to its owner | index | active; read first |
 | [Decisions](Decisions.md) | The author's rulings for this revision; earlier rulings recorded elsewhere, and whether the manuscript reflects them; working decisions; open questions for the author | authority | active |
 | [Chapter 1 author markup and editorial feedback (2026-10-08/09)](Author-Notes/2026-10-08_Chapter-01_line-notes.md) | verbatim red-and-bold author notes from *Pathwell 10.7*, initial R26 response, and separately labeled independent feedback on those edits; no manuscript change | evidence / editorial review | received; not applied |
 | [Plan](Plan.md) | the book-level THINK pass, the prioritized plan routed by level, reconsideration triggers, the Step 2 test | procedure | active, awaiting approval |

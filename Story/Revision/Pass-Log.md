@@ -2802,3 +2802,13 @@ Blobs: Ch14 `9b1be3f7` → `da48b224`; Ch16 `f61a3870` → `b752f794`; Ch17 `1ac
 The light Sunday touch: not applicable.
 
 **RECONCILE:** Decisions R57; EXP-0018 opened; [Revision Status](../../Revision-Status.md) (manuscript note; "What's next"); [Emergence index](Emergence/INDEX.md). Chapters 12, 15 and 18 still L3. **Found, not fixed:** `Story/Pathwell.txt` doesn't match an assembly of the current chapters (about 300 lines differ), so it predates at least one earlier pass. Left alone here; re-run `Story/assemble_manuscript.py` in its own commit.
+
+## P74, 2026-10-22: a one-page brief in front of the method
+
+**AUTHORITY:** The author, on the suggestion of a one-page brief to load before any chapter edit: "go for it".
+
+**DO:** New [Before you touch a chapter](Before-You-Touch-A-Chapter.md): seventeen rulings a pass is most likely to undo, each with its owner; who writes what; how a change gets in. It owns nothing new (MAPS_L: link, don't restate). Linked first in this folder's README table and in the repository README.
+
+**CHECK:** Every line was checked against its owner row (R9, R11, R17, R21, R26, R27, R29–R31, R35, R36, R42, R45–R48, R53, R54; the lock tables; the glossary). No chapter changed. Routine (D23): steps 1–9 not applicable (no prose changed); tenth seat not applicable.
+
+**RECONCILE:** README tables. Chapters unchanged.
