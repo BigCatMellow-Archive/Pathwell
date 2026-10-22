@@ -3025,3 +3025,17 @@ EXP-0021 rechecked against the voice guide. S1c is now leaned against ("not ever
 **OPEN, for the author:** some of his own Ch1 line notes from 2026-10-08 (R38) are still waiting: the first "Perfect." → "Good… that's good.", the second "low tide" cue, the felt cookbook panic, the party/light-switch deletion, the stammer and the "Huh" blocking. They're listed in the audit.
 
 **RECONCILE:** [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).
+
+## P86, 2026-10-22: the author's own Ch1 line notes
+
+**AUTHORITY:** The author: "go for it", on the lean to apply his open 2026-10-08 Ch1 notes as he wrote them unless a later ruling blocks one. Recorded as [R61](Decisions.md#the-authors-rulings-for-this-revision).
+
+**DO:**
+- Ch1: nine of his notes applied in his own words (listed in R61). The bookend lock keeps the final "Perfect.". ¶15 no longer has a line to apply to.
+- The four notes that ask for new writing (¶65 low tide, ¶69 panic, ¶73 "more poetic", ¶125 blocking) are candidates in [EXP-0022](Emergence/experiments/EXP-0022-Ch01-Author-Note-Requests-2026-10-22.md), with leans, aimed by his voice guide.
+- The [R38 disposition](Emergence/CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md) marked ¶71 "intent preserved", but his note changes "here" to "there", and that hadn't been applied. It is now.
+- `Story/Pathwell.txt` regenerated.
+
+**CHECK:** The checker runs clean (exit 0). A fresh check of the applied wording against his verbatim notes is running. Routine (D23): steps 1, 3, 7 and 9 done; 2 and 4 done (checker, ledger: "Perfect." R1 bookend intact); 5 pending (fresh check); 6 (cold read) waits for the whole-book review (P87); 8 not applicable; tenth seat not applicable.
+
+**RECONCILE:** R61; EXP-0022; [Revision Status](../../Revision-Status.md).
