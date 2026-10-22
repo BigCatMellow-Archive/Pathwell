@@ -2972,3 +2972,22 @@ Both reports are saved verbatim. The reviser checked every cited line against th
 - As in the back half, both readers found one corrective deadpan shared by too many speakers. Stansbury after Ch5 is the clearest case, and Elizabeth picks it up in Ch7–9.
 
 **RECONCILE:** [Revision Status](../../Revision-Status.md), the [Emergence index](Emergence/INDEX.md). Chapters still L3.
+
+## P83, 2026-10-22: EXP-0020 leans applied
+
+**AUTHORITY:** The author: "go for it". Recorded as [R60](Decisions.md#the-authors-rulings-for-this-revision).
+
+**DO:** Applied EXP-0020 B1–B3 unchanged:
+- Ch4: "He nodded. "This wheel is new." "Newer," he amended. "Relatively."" is now one paragraph.
+- Ch9: Shade's first "Fair." cut.
+- Ch8: "That wasn't my question." cut.
+
+B4 was corrected after the reviser read it in context: the plain cut left "this one passed too" with nothing to refer to, so Ch5 now reads "The pint-sized siege of chaos raged around them, then passed." The B4 patch and the EXP page are updated to match. `Story/Pathwell.txt` regenerated.
+
+**CHECK:** Each line read in its paragraph. The checker moved one watch count (5 → 4) and paragraph counts. Routine (D23):
+- Steps 1, 3, 7 and 9: done.
+- Steps 2, 4 and 8: not applicable.
+- Steps 5 and 6: covered by P82's two readers, who proposed these changes. The B4 correction is a reviser line edit, recorded here so a later fresh check can test it.
+- Tenth seat: not applicable.
+
+**RECONCILE:** R60, EXP-0020, [Revision Status](../../Revision-Status.md). Q1 and Q2 stay with the author.

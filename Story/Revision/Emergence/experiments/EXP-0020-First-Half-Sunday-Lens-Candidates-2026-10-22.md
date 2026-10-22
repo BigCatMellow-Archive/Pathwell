@@ -1,7 +1,7 @@
 # EXP-0020 — The first half through the Sunday Morning lens: four cuts and two questions
 
 **Date:** 2026-10-22  
-**Status:** **OPEN for the author.**  
+**Status:** **AUTHOR-SELECTED 2026-10-22 ([R60](../../Decisions.md#the-authors-rulings-for-this-revision), [P83](../../Pass-Log.md#p83-2026-10-22-exp-0020-leans-applied)): "go for it".** B1–B4 applied, with B4 corrected. Q1 and Q2 take the leans, but each needs a line from the author, so both stay with him.  
 **From:** two independent reads of Chapters 1–9 after P81, on the author's "read the first half of the story now with the sunday tone in mind":
 - the [blind cold read](../../Reader-Reports/Sunday-Lens-First-Half-2026-10-22/BLIND-Ch01-09.md): given only Chapters 1–9, with "see if you like it";
 - the [lens read](../../Reader-Reports/Sunday-Lens-First-Half-2026-10-22/LENS-Ch01-09.md): scene by scene, against his [Sunday Morning Movies](../../../Sunday-Morning/Sources/Sunday-Morning-Movies.md) definition, with the rulings. It disclosed seeing a few one-line snippets of the earlier lens reports, though it didn't open them.
@@ -29,7 +29,7 @@ Pathwell, the shopkeeper, the children, Ken and the waitress stay distinct. The 
 | B1 | 4 | `He nodded. "This wheel is new."` / `"Newer," Pathwell amended. "Relatively."` → one paragraph: `He nodded. "This wheel is new." "Newer," he amended. "Relatively."` | **both readers** stopped (the blind one reread it; the 10-08 panel misread it too): a new paragraph signals a new speaker. No word is added | take | [B1](EXP-0020-B1-Ch04-Newer-He-Amended.patch) |
 | B2 | 9 | cut Shade's first `"Fair."` (after "So is the seat I'm in. Mostly.") | the fourth "Fair." in the half and his first of two in Ch9; his second, "Fair." after "You don't get to know that yet.", is the better one and stays | take | [B2](EXP-0020-B2-Ch09-First-Fair.patch) |
 | B3 | 8 | cut Elizabeth's `"That wasn't my question."` | nearly repeats Ch7's "That wasn't the question.", which has to stay because "It's the answer I have." answers it; thins her drift into the house corrector | take | [B3](EXP-0020-B3-Ch08-My-Question.patch) |
-| B4 | 5 | "raged around them, but as all storms do, this one passed too." → "raged around them, but this one passed too." | the blind reader stopped on the cliché; it's not in the author's drafts (checked against the voice benchmark) | take (cuts narrator commentary, so it's flagged) | [B4](EXP-0020-B4-Ch05-Storms.patch) |
+| B4 | 5 | "raged around them, but as all storms do, this one passed too." → "raged around them, then passed." *(Corrected in P83: the plain cut left "this one… too" with nothing to refer to.)* | the blind reader stopped on the cliché; it's not in the author's drafts (checked against the voice benchmark) | take (cuts narrator commentary, so it's flagged) | [B4](EXP-0020-B4-Ch05-Storms.patch) |
 
 Every patch passes `git apply --check`, alone and all four together. None of the four touches a line from the author's own drafts.
 
