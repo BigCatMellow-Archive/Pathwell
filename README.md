@@ -7,6 +7,7 @@ A literary urban fantasy novel by BigCatMellow.
 | You want | Go to |
 | --- | --- |
 | **The book** | [Story/Chapters](Story/Chapters/): `Chapter_01.txt` to `Chapter_18.txt`, in order |
+| Instructions for AI agents (and CLAUDE.md) | [AGENTS.md](AGENTS.md) |
 | Before editing any chapter | [Before you touch a chapter](Story/Revision/Before-You-Touch-A-Chapter.md) |
 | Where each chapter stands | [Revision-Status.md](Revision-Status.md) |
 | What the author decided about the story and world | [Story/Interview](Story/Interview/README.md) (the Bible interview), then the revision's [Decisions](Story/Revision/Decisions.md) |

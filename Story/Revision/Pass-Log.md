@@ -2812,3 +2812,11 @@ The light Sunday touch: not applicable.
 **CHECK:** Every line was checked against its owner row (R9, R11, R17, R21, R26, R27, R29–R31, R35, R36, R42, R45–R48, R53, R54; the lock tables; the glossary). No chapter changed. Routine (D23): steps 1–9 not applicable (no prose changed); tenth seat not applicable.
 
 **RECONCILE:** README tables. Chapters unchanged.
+
+## P75, 2026-10-22: agent instructions point to the Sunday notes
+
+**AUTHORITY:** The author: "Can we make sure the Agent instructions point to the sunday notes".
+
+**DO:** The repository had no agent instructions. New `AGENTS.md` at the root: read first, every session ([Before you touch a chapter](Before-You-Touch-A-Chapter.md), the [Sunday Morning notes](../Sunday-Morning/README.md), this folder's [README](README.md)); which Sunday note to open for which job; the working rules and the checker command. New `CLAUDE.md` imports it, so Claude Code and other tools read one file. Linked from the repository README.
+
+**CHECK:** Every relative link in both pages resolves. No chapter changed. Routine (D23): not applicable.
