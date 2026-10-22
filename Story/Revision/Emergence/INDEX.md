@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P73 external checklist, reconciled (2026-10-22)
+
+An external whole-book checklist reconciled with the records: [**EXP-0018**](experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md). Two author picks applied (Ch18 scar, two-page card in Ch12/Ch15); eleven B candidates and four flagged C candidates for the author; fifteen checklist items withdrawn, each with the ruling that rules it out. [Pass P73](../Pass-Log.md#p73-2026-10-22-the-external-checklist-reconciled-with-the-records).
+
 ## P71 review of the middle — Chapters 5–13 (2026-10-21)
 
 An informed review (not a blind read) of Chapters 5–13 after P70: the [**P71 review**](MIDDLE-P71-CH05-13-REVIEW-2026-10-21.md) and [**EXP-0017**](experiments/EXP-0017-Ch05-13-Middle-Candidates-2026-10-21.md). No structural problem; every setup the climax relies on is planted and checked. Three cuts (Ch7's closing line, Ch12's "For most of the night,", a doubled "cooking wagon" in Ch13) and one question (the Ch9 diner sign). **No chapter edits; L3 unchanged.** [Pass P71](../Pass-Log.md#p71-2026-10-21-review-of-chapters-513).

@@ -2777,3 +2777,28 @@ Blobs: Ch14 `9b1be3f7` → `da48b224`; Ch16 `f61a3870` → `b752f794`; Ch17 `1ac
 **CHECK:** The diff is three lines across three chapters, cuts only. No other text moved.
 
 **RECONCILE:** EXP-0017 status, the P71 review header, [Revision Status](../../Revision-Status.md) (manuscript note; "What's next" item 1 marked done) and Decisions R56. P34's diner-sign question is closed by R56. Chapters 7, 12 and 13 still L3.
+
+## P73, 2026-10-22: the external checklist, reconciled with the records
+
+**AUTHORITY:** The author asked for the revisions from an external three-read review and its chapter-by-chapter checklist (made outside this repository), chose scope "Everything", "Keep the scar" and "Card says two", then asked that this repository's rules be followed. Recorded as [R57](Decisions.md#the-authors-rulings-for-this-revision).
+
+**THINK:** A first draft of this pass applied about forty changes to an exported copy of the manuscript, without the records. Checked against them, many broke rulings: R21, R29, R31, R35, R39, R47, R48/R53, Q136 and the glossary's "Leo" rule. That draft is discarded and never reached the chapters. The corrected work separates what the author decided directly (applied) from what needs his pick (candidates) and what the records rule out (withdrawn).
+
+**DO:** Ch12's card reads `TWO PAGES USED — SUGAR COOKIES, CHICKEN & DUMPLINGS`, and Ch15's echo reads "Two pages used." (author pick; overrides P23/P38, with push-back noted in EXP-0018). Ch18's "The old scratch was long gone." becomes "Elizabeth looked at the thin scar between her thumb and wrist." (author pick; matches Ch3). Ch18's "the Shopkeeper" is lowercased. Everything else is in [EXP-0018](Emergence/experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md): eleven B candidates (cuts and continuity), four flagged C candidates (new text), and fifteen withdrawn items with the ruling that rules each out.
+
+**CHECK:** The diff is four lines in three chapters. Small-edit path ([Line-Editing Protocol §7](../Sunday-Morning/Line-Editing-Protocol.md)): each line was read in its paragraph; the scar matches Ch3's placement and wording; ledger L4 is still paid ("He remembers winning."); the card now agrees with the archivist's two marks in Ch4. The routine (D23):
+
+1. Tone guardrails: done. No tonal change; the pass adds nothing a reader would brace for.
+2. Shapes before sentences: not applicable. No opening, engine, resolution or ending changed.
+3. Checker: done. Output identical before and after.
+4. Scene diagnostic: not applicable. No scene's movement changed.
+5. Fresh check: skipped. Four mechanical lines, all on the author's direct answers, no new cautious-category text in the chapters. EXP-0018's C candidates need one if he adopts any.
+6. Reader protocol: skipped, for the same reason. A cold reader is due if B or C candidates are adopted.
+7. Replacement tic: done for the candidates. Every B is a cut, not a substitute move.
+8. Deliberate ambiguity: done. The withdrawn list keeps R54/Q-P, Q136 and the open "who asked for help" (08-22 §4) as they are.
+9. Change notes from the diff: done (above).
+10. Tenth seat: not applicable. It doesn't fire on line edits or the author's rulings.
+
+The light Sunday touch: not applicable.
+
+**RECONCILE:** Decisions R57; EXP-0018 opened; [Revision Status](../../Revision-Status.md) (manuscript note; "What's next"); [Emergence index](Emergence/INDEX.md). Chapters 12, 15 and 18 still L3. **Found, not fixed:** `Story/Pathwell.txt` doesn't match an assembly of the current chapters (about 300 lines differ), so it predates at least one earlier pass. Left alone here; re-run `Story/assemble_manuscript.py` in its own commit.
