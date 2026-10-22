@@ -2927,3 +2927,25 @@ Both reports are saved verbatim. The reviser checked every finding against the c
 - **The voice:** both readers, independently, found one shared deadpan spoken by too many characters. B1 and B2 thin it; Q1 asks whether the healer goes back to plain (R33).
 
 **RECONCILE:** [Revision Status](../../Revision-Status.md), the [Emergence index](Emergence/INDEX.md). Chapters still L3.
+
+## P81, 2026-10-22: EXP-0019 leans applied
+
+**AUTHORITY:** The author: "I trust your leans". Recorded as [R59](Decisions.md#the-authors-rulings-for-this-revision).
+
+**DO:** Applied EXP-0019 B1–B4 with `git apply`, unchanged:
+- Ch16: "Can I check it?"
+- Ch18: the shopkeeper's "Occupationally." cut.
+- Ch14: "…spreading from Pathwell's shadow."
+- Ch15: "outside the bar".
+
+`Story/Pathwell.txt` regenerated. EXP-0019 now lists the healer's dry lines for the author to rewrite (Q1). No new text was written.
+
+**CHECK:** Small-edit path; all four are cuts or a one-word change, and both readers in P80 read them in context. The checker moved only paragraph counts. Routine (D23):
+- Steps 1, 3 and 9: done.
+- Steps 2, 4 and 8: not applicable.
+- Step 5 (fresh check): covered by P80's two readers, who proposed these exact changes.
+- Step 6 (reader): skipped. The first-half read starts next, on this text.
+- Step 7 (replacement tic): done; no substitute moves.
+- Tenth seat: not applicable.
+
+**RECONCILE:** R59, EXP-0019, [Revision Status](../../Revision-Status.md).

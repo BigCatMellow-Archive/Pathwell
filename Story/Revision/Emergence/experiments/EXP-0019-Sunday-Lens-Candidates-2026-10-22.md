@@ -1,7 +1,7 @@
 # EXP-0019 — The Sunday Morning lens: four cuts and five questions
 
 **Date:** 2026-10-22  
-**Status:** **OPEN for the author.**  
+**Status:** **AUTHOR-SELECTED 2026-10-22 ([R59](../../Decisions.md#the-authors-rulings-for-this-revision), [P81](../../Pass-Log.md#p81-2026-10-22-exp-0019-leans-applied)): "I trust your leans".** B1–B4 applied. Q1: the healer goes back to plain; her lines are marked below for the author to rewrite. Q3, Q4 and Q5 are kept as they are. **Q2 stays open**, because it had no lean.  
 **From:** two independent reads of the book after P79, both requested by the author ("would it be worth reading the story again with these new notes in mind"):
 - the [lens read](../../Reader-Reports/Sunday-Lens-2026-10-22/LENS-Ch01-18.md): informed, all 18 chapters, against his [Sunday Morning Movies](../../../Sunday-Morning/Sources/Sunday-Morning-Movies.md) definition and R24;
 - the [drop-in read](../../Reader-Reports/Sunday-Lens-2026-10-22/DROP-IN-Ch09-18.md): blind, given only Chapters 9–18, as his cable test turned into reading.
@@ -58,3 +58,19 @@ No lean on these where they're taste. Each would need new text in your categorie
 | Never explained to the drop-in reader: "marked", who asked for help, why the blob spared Pathwell | each is deliberately open or set up before Ch9, and the reader marked each "fine not knowing" |
 | The gold chain's resting place | already EXP-0018 C3 |
 | Elizabeth almost always right in the back half | already EXP-0018 C1 |
+
+## The healer's lines, for the author (Q1)
+
+The author's call (R59) is that the healer goes back to plain, as R33 set her in Ch4. These are the lines where she's the dry wit. Rewriting them is his (who writes what). The lines around them that are hers and plain ("Which shoulder?", "Because it's your shoulder.", "Fingers?", "Still in.") already do the job.
+
+| Ch | Line (as on the branch after P81) | Note |
+| --- | --- | --- |
+| 12 | "I ask because people point at the wrong thing surprisingly often." | wry, but explains her question; may stay |
+| 12 | "Briefly? Very." / "Afterward, less." | a two-part quip; Elizabeth's "Excellent." / "Strong sales pitch." answer it |
+| 12 | "If you are about to ask whether carrying something counts, yes." / "You were going to." | banter in the house rhythm |
+| 16 | "Useful." / "Me." (to Milo, after "Ow." / "For who?") | Milo's "deeply unfair" depends on it |
+| 16 | "A low standard." | answers Elizabeth's "Still attached." |
+| 16 | "Shelves are famous for respecting medical instructions." | Elizabeth's "This one was especially difficult." depends on it |
+| 16 | "You use this arm again today and I will tie you to the wagon." / "Fine. I will ask you very firmly not to." / "It is what we have." | a running exchange with Mama Baga's "No." in the middle |
+
+If any of these become plain, check the reply that answers it. Several of Elizabeth's jokes only work as answers to the healer's.
