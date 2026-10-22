@@ -2879,3 +2879,17 @@ It adds no story rules; every line links to its owner. `CLAUDE.md` still imports
 10. **Tenth seat: not applicable.** These are line edits.
 
 **RECONCILE:** R58, EXP-0018, the Registry, the ledger, [Revision Status](../../Revision-Status.md) and the [Emergence index](Emergence/INDEX.md). Chapters still L3.
+
+## P78, 2026-10-22: the Sunday Morning tone written into the notes
+
+**AUTHORITY:** The author, on what the Sunday stories were for: "the goal of the sunday stories was a more fun tone … Based off my experience / enjoyment with what I called 'Sunday Morning Movies'". Then: "Can we add the tone to the sunday morning stuff too?" Recorded as Sunday Morning [D27](../Sunday-Morning/Decisions.md#standing-rulings).
+
+**DO:**
+- The Sunday Morning README opens with a new "What it's for": the stories are meant to be fun; the name comes from his "Sunday Morning Movies"; the method protects the feeling, and the feeling wins over a check (D9); a soft landing isn't a repeated beat to trim. It also gets a router row.
+- The tone guardrails link back to it.
+- `AGENTS.md` names R24 (Pathwell keeps some of the tone) beside the Sunday notes.
+- The brief adds "don't cut a soft landing as a repeated beat".
+
+These edits are in this repository's copy only (D18); the 10 Kings copy doesn't have them yet.
+
+**CHECK:** Links and anchors resolve. No chapter changed. Routine (D23): not applicable. The README quotes only his words for "Sunday Morning Movies" and adds no description he didn't give.

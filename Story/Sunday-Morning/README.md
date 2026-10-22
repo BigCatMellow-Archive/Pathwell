@@ -8,6 +8,12 @@ This folder holds everything needed to make one, or a whole collection: the fram
 
 Nothing here belongs to any one world. When a collection is set in a particular setting, the setting's own owner pages (its bible or wiki) outrank everything in this folder on setting facts ([Rules: canon discipline](Rules.md#canon-discipline)).
 
+## What it's for
+
+**A Sunday Morning story is meant to be fun.** The idea and the name come from the author's own enjoyment of what he calls "Sunday Morning Movies" ([D27](Decisions.md#standing-rulings)). The [Framework](Sources/Framework.md)'s core promise puts the feeling in one line: "You do not need to brace yourself." Give the reader an interesting place, a good cast and a simple problem, and a reason to enjoy hanging around while it unfolds.
+
+**The tone is the point; everything else here protects it.** The rules, craft, pipeline and checks exist to keep a story feeling like that. When a check and the feeling pull apart, the feeling wins ([D9](Decisions.md#standing-rulings)). A pass that clears every step but leaves the story less enjoyable to spend time in hasn't worked. In particular, a soft landing after a hard moment (a meal, warmth, a small absurdity) is part of the promise, not a repeated beat to trim; check the [tone guardrails](Rules.md#tone-guardrails) before cutting one.
+
 ## Order of authority
 
 When two notes pull in different directions, each decides its own ground, in this order. The Framework's place is the author's ruling ([D9](Decisions.md#standing-rulings)); the rest of the order is a working decision ([W7](Decisions.md#working-decisions)).
@@ -51,6 +57,7 @@ For a single long work kept as plain files (a novel's chapters, say), add `--pat
 
 | Question | Go to |
 | --- | --- |
+| What is Sunday Morning for? | [What it's for](#what-its-for) |
 | What makes a story a Sunday Morning story? | [Framework](Sources/Framework.md) §1; the checklist, [§20](Sources/Framework.md#20-the-sunday-morning-story-checklist) |
 | How sad or tense can it get? | [Rules: tone guardrails](Rules.md#tone-guardrails) |
 | The stories belong to a bigger saga. How do they tie in? | [Rules: connecting to a larger story](Rules.md#connecting-to-a-larger-story), then [Pipeline: larger-story check](Pipeline.md#larger-story-check) |

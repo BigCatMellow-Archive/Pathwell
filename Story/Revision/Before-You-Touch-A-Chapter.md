@@ -27,6 +27,7 @@ These are the ones a pass is most likely to undo without the records. Several ha
 | Let Elizabeth do magic, or buy the diary back | Hard constraints | [locks](Decisions.md#the-bible-interview-locks-the-manuscript-follows) |
 | Add scenes to reach a length | Length isn't a target | R42 |
 | Change a line because a detector flagged it | Scores aren't targets | R17 |
+| Cut a soft landing (a meal, warmth, a small absurdity after a hard moment) as a repeated beat | Pathwell keeps some of the Sunday Morning tone; the feeling outranks the checklist | R24; [what it's for](../Sunday-Morning/README.md#what-its-for) |
 
 The R-rows live in [Decisions: the author's rulings](Decisions.md#the-authors-rulings-for-this-revision). Also check the Pass Log before reversing a small detail: some were weighed and kept on purpose. (The archive card's page count was weighed in P23 and P38 before R57 changed it.)
 

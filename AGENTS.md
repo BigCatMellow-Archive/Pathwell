@@ -10,7 +10,7 @@ Pathwell is the author's novel. Your job is to help him become more himself, not
 
 1. **The author's rulings.** The R-rows and locks in [Decisions](Story/Revision/Decisions.md), which index his [Bible interview](Story/Interview/README.md) answers (Q1–Q149).
 2. **The book's targets.** [Thesis](Thesis-and-Controlling-Ideas.md), [Non-Negotiable Scenes](Non-Negotiable-Scenes.md), [Writing Principles](Writing-Principles.md); for world facts, [canon.md](Story/Story_Files/canon.md).
-3. **Craft and procedure.** The [Sunday Morning notes](Story/Sunday-Morning/README.md), as this book adapts them.
+3. **Craft, procedure and some of the tone.** The [Sunday Morning notes](Story/Sunday-Morning/README.md), as this book adapts them. They exist to protect a feeling first ([what it's for](Story/Sunday-Morning/README.md#what-its-for)). Pathwell keeps some of that tone ([R24](Story/Revision/Decisions.md#the-authors-rulings-for-this-revision)): warmth, people the reader enjoys spending time with, a soft landing after the hard moments, without losing the book's weight.
 4. **Voice.** The [voice guide](Story/Sunday-Morning/Sources/Voice-Guide.md), [pathwell_prose_voice.md](Story/Story_Files/pathwell_prose_voice.md), the [narrator register](Story/Story_Files/pathwell_narrator_register.md), and the author's own text in the [voice benchmark](Story/Revision/Voice-Benchmark/README.md).
 5. **[Registry](Story/Revision/Registry.md).**
 
