@@ -98,7 +98,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | Milo's falling sock | 4, 12, 13, 14, 15, 16 |
 | "Lizzy—" / "Elizabeth." correction | he hears it in Nana's echo in 1 (R21; the banner reads WELCOME ELIZABETH); first said in 2; corrected in 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
 | The Space Between coffee memory recited ("late nights spent studying") | 3, 9, 10, 13, 18 |
-| Pathwell goes still as a tell | 1, 4, 5, 6, 7, 8, 10, 11 and later |
+| Pathwell goes still as a tell | 1, 4, 5, 6, 7, 8, 11 (one each in 10, 11 and 16 cut in P77) |
 | A found document read aloud as a small payoff (accession card, road book, Merritt margins) | 4, 11, 17, 18 |
 | Unnamed functional roles (healer, archivist, shopkeeper, curator) | throughout; deliberate, but see [Open for the author](Decisions.md#open-for-the-author) on the healer |
 | Rhymed choices: "It was an absurdly small decision. / It was still hers." → "The choice was ridiculous. / It was still hers." | 2 → 17 |

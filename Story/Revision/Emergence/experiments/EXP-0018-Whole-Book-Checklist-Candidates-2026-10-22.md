@@ -1,7 +1,7 @@
 # EXP-0018 — Whole-book checklist: candidates, and what was withdrawn
 
 **Date:** 2026-10-22  
-**Status:** **OPEN for the author.** Three items applied as P73 on his direct answers; everything else below is a candidate.  
+**Status:** **Leans applied 2026-10-22 ([R58](../../Decisions.md#the-authors-rulings-for-this-revision), [P77](../../Pass-Log.md#p77-2026-10-22-exp-0018-leans-applied-after-a-fresh-check)), as adjusted by the fresh check:** B1 (first cut only), B2 (keeping "No. I would not try."), B3–B8, B10, B11 (attributed as "…hold onto," Shade said.") and C2. **B9 reverted:** the cabinets paragraph sets up "It fits the cabinets." later in Ch17. **C1, C3 and C4 stay open** (no lean). Three items were applied earlier as P73.  
 **From:** an external three-read review of the P72 manuscript and its revision checklist (outside this repository). On 2026-10-22 the author asked for the checklist's revisions, scope "Everything", and then asked that this repository's rules be followed. A first, unrecorded draft applied about forty changes directly to an exported copy. Checked against the records, many of them broke rulings. That draft is **discarded**; nothing from it reached the chapters. This page is the corrected version of that work.  
 **Control (A):** the chapter text on `main` after P73. Each candidate is a patch in this folder; adopt one with `git apply <patch>` from the repository root.
 
@@ -33,7 +33,7 @@ All are cuts or one-line changes. The **lean** is the reviser's under R36.
 | B10 | 18 | "The orange cat" → "Boots", twice. Ties the Ch18 cat to Ch3 by name; the glossary flags Boots as underused | take, low stakes | [B10](EXP-0018-B10-Ch18-Boots.patch) |
 | B11 | 13 | **Staging slip.** Shade pockets the queen ("Shade put the queen into one of the green jacket's many pockets."), then "He turned the card over once more." and later takes it out of the jacket again. → "After a while he said, …" | take | [B11](EXP-0018-B11-Ch13-Pocketed-Card.patch) |
 
-After B1–B7, "went still" variants drop from 10 to 6 and "Elizabeth waited" from 16 to 14. No replacement move was added: every one is a cut, which is the rule's fix for the replacement tic (Pipeline step 7). B1–B11 apply together.
+After B1–B7, the checker's "goes still" watch pattern drops from 12 to 8, and "Elizabeth waited" from 16 to 14. *(Corrected in P77; the first version gave "10 to 6" from a hand count.)* No replacement move was added: every one is a cut, which is the rule's fix for the replacement tic (Pipeline step 7). B1–B11 apply together.
 
 ## Candidates: new text (C), flagged
 

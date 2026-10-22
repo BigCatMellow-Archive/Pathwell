@@ -2840,3 +2840,42 @@ The light Sunday touch: not applicable.
 It adds no story rules; every line links to its owner. `CLAUDE.md` still imports it.
 
 **CHECK:** Every relative link and anchor resolves. No chapter changed. Routine (D23): not applicable.
+
+## P77, 2026-10-22: EXP-0018 leans applied after a fresh check
+
+**AUTHORITY:** [R58](Decisions.md#the-authors-rulings-for-this-revision): "i authorize you to this time do what you need to do push the PR". Delivered as a pull request, not a push to main.
+
+**DO:**
+- **Prose (as finally applied):**
+  - Ch5 adds "Thumper's paw print was in there somewhere." (C2).
+  - Ch7 drops "Elizabeth waited." (B3).
+  - Ch10 drops "Pathwell went still." before "No." (B1, first cut only), and "That wasn't the question." becomes "Would you try?" (B2, his "No. I would not try." kept).
+  - Ch11 and Ch16 each drop "Pathwell went still." (B4, B6).
+  - Ch13 drops "Shade went completely still." (B5), and the pocketed-card slip becomes `"He keeps acting like you're something he can hold onto," Shade said.` (B11).
+  - Ch15 drops "Rain on canvas." and "Bread." (B8).
+  - Ch17 drops "Elizabeth waited." after the Hearts game (B7).
+  - Ch18 names Boots twice and "It allowed this" becomes "He allowed this" (B10).
+- **Not applied:** B9 (cabinets) and C1, C3, C4.
+- **Records:**
+  - The revision README's "Where things stand" now points to Revision Status and the Pass Log instead of a 10-15 snapshot.
+  - Its inventory no longer says the chapters last changed 08-28.
+  - Plan.md's status says the plan has been overtaken by the chapter passes.
+  - `Story/Pathwell.txt` regenerated; it had lagged the chapters.
+  - Ledger L11 records the Ch5 Thumper plant.
+  - The Registry's "goes still" row is updated.
+  - EXP-0018's status is updated, and its count is corrected (12 → 8 on the checker's pattern, not "10 to 6").
+
+**CHECK:** Routine (D23):
+
+1. **Targets first: done.** No ruling or lock keeps any cut text. The fresh check searched Decisions, the ledger, the glossary, the Registry and Non-Negotiable Scenes. Ch13's "holding onto" line stays (R37, Q82); Ch11's "I don't need to be rescued" stays.
+2. **Shapes: not applicable.** No opening, engine or ending changed.
+3. **Checker: done.** The "goes still" watch pattern drops from 12 to 8; nothing else moved but paragraph counts.
+4. **Scene diagnostic: done, by the fresh check's reading.** No scene's movement changed.
+5. **Fresh check: done,** by a helper that didn't write the patches. Ten hunks KEEP. Three REVISE (Ch10 ×2, Ch13), all applied: the first Ch10 cut was restored rather than merged, because a merge would have had Pathwell correct himself unprompted, and Non-Negotiable 6 has Elizabeth make him say it. One REVERT (the Ch17 cabinets setup), applied. Outside the hunks it found the Ch18 pronoun (fixed), the stale Registry row (fixed), the missing authorization record (R58), and two older repeats it didn't cause (Ch11 "He waited."; Ch10's two remaining "Elizabeth waited."), left as they are.
+6. **Reader protocol: skipped.** Every change is a cut or a one-line plain edit, and the fresh check read each in context. A cold reader is still owed for L4.
+7. **Replacement tic: done.** The fresh check caught two (a fifth bare "No." in Ch10; "After a while he said" four lines under "After a moment Shade added" in Ch13), and both are fixed.
+8. **Deliberate ambiguity: done.** Untouched.
+9. **Change notes from the diff: done** (above).
+10. **Tenth seat: not applicable.** These are line edits.
+
+**RECONCILE:** R58, EXP-0018, the Registry, the ledger, [Revision Status](../../Revision-Status.md) and the [Emergence index](Emergence/INDEX.md). Chapters still L3.
