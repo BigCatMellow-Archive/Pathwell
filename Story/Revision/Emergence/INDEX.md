@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P87 the web, and the whole book against the resources (2026-10-23)
+
+[**EXP-0023**](experiments/EXP-0023-Whole-Book-Resource-Review-Candidates-2026-10-23.md): three independent reviews (aim, targets, world: [reports](../Reader-Reports/Whole-Book-Resources-2026-10-22/)) agree the book holds together and the back half explains itself. There are 19 cuts, 4 continuity fixes, 8 items for the author's pen, and a records pass done. [AGENTS.md §8](../../../AGENTS.md#8-the-web) adds the web (MAPS_L Spiderweb), and the scanner is ported. **No chapter changed.** [Pass P87](../Pass-Log.md#p87-2026-102223-the-web-and-the-whole-book-against-the-repositorys-resources).
+
 ## P85 resource audit (2026-10-22)
 
 [**Resource audit**](RESOURCE-AUDIT-2026-10-22.md): the passes have used the records for constraints more than aim. The author's own voice guide was never cited, and the reading list (Pratchett first) wasn't reachable from AGENTS.md. Both are now first stops for drafting. Some of his 2026-10-08 Ch1 line notes are still open. [Pass P85](../Pass-Log.md#p85-2026-10-22-resource-audit).

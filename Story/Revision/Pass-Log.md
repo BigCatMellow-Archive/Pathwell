@@ -3039,3 +3039,27 @@ EXP-0021 rechecked against the voice guide. S1c is now leaned against ("not ever
 **CHECK:** The checker runs clean (exit 0). A fresh check read the applied wording against his verbatim notes and found every change faithful. It also found a third mechanic ("He waved it off." as its own sentence), now named in R61, and two notes nobody had tracked (¶39 more detail, ¶167 "his attention"), now EXP-0022 C5 and C6. Its opinions, for the author: the ¶73 memory line is now a verbless fragment; "she thought that he had left" leaves the paragraph's past perfect; the final "Perfect." now rests on the bookend rather than an echo inside the chapter. Routine (D23): steps 1, 3, 7 and 9 done; 2 and 4 done (checker, ledger: "Perfect." R1 bookend intact); 5 done (fresh check); 6 (cold read) waits for the whole-book review (P87); 8 not applicable; tenth seat not applicable.
 
 **RECONCILE:** R61; EXP-0022; [Revision Status](../../Revision-Status.md).
+
+## P87, 2026-10-22/23: the web, and the whole book against the repository's resources
+
+**AUTHORITY:** The author: "we need to then review the entire story using the resources in the repo, and mkae the agent notes make note of it all, that should have been part of the spiderweb from MAPSL".
+
+**SOURCES:** *Rulings:* Decisions, Before you touch a chapter, Author-Notes. *Targets:* Thesis, Non-Negotiable Scenes, Writing Principles, the contract matrix, INS-0001/IDEA-0001. *Aim:* the voice guide (whole), the Sunday Morning Movies definition, the reading list, pathwell_prose_voice, the narrator register, the voice benchmark (Ch1–7), the quote bank, forbidden_patterns, Writing against sameness, AI tells. *World:* canon, the world and character bibles, glossary, Registry, Promise Ledger. *Evidence:* the 2026-10-22 Sunday lens reports and blind reads, the cold read, the panel. *Method:* MAPS_L's Spiderweb playbook and scanner.
+
+**DO:**
+- **The web** ([AGENTS.md §8](../../AGENTS.md#8-the-web)): MAPS_L's Spiderweb rule, "nothing durable is an island". Resources are opened by role, and Aim is required for any writing pass. Every Pass Log entry now carries a SOURCES line. His own words come first. Stale statuses get dated current dispositions. The [inventory](README.md#inventory-of-existing-process-records) is now the full map, with when to open each resource. The scanner is ported to [`tools/check_spiderweb.py`](tools/check_spiderweb.py), where links to folders and folder READMEs count as edges: 349 files, no findings. Three stale EXP statuses (0008, 0012, 0014) got current dispositions.
+- **The review:** three independent reviewers each read all 18 chapters through one role (aim, targets, world): [reports](Reader-Reports/Whole-Book-Resources-2026-10-22/). They're reconciled in [EXP-0023](Emergence/experiments/EXP-0023-Whole-Book-Resource-Review-Candidates-2026-10-23.md):
+  - 19 cuts where the book explains itself;
+  - 5 lines where reviewers disagree with earlier readers;
+  - 4 continuity fixes;
+  - 8 items for his pen;
+  - partial options A3b, A8b and A17b.
+  **No chapter changed.**
+- **Records pass**, from the world and targets reviewers. Dated current-disposition notes on stale lines in canon, the world and character bibles (including Stansbury's turn), the glossary, the contract matrix, Writing Principles and three Decisions lock rows. The ledger's P2, O6, R3, R7, R12, R17, L1 and L11 corrected, and L19 (the healed young woman), L20 (the gold chain) and L21 (Q-O) added. The Registry gains Ken, and its open letters and three final lines are corrected.
+
+**CHECK:**
+- An independent [fresh check](Reader-Reports/Whole-Book-Resources-2026-10-22/FRESH-CHECK-EXP-0023.md) applied the leans and read each in context. Four leans changed: A8 → A8b, A14 keep, A15 keep, A17 → A17b.
+- Every patch applies, and the lean set applies together. The checker runs clean on it. The spiderweb finds nothing.
+- Routine (D23): steps 1, 2, 4, 5, 6 and 9 done; 3 done (checker); 7 done (open-on-purpose items left alone: marked, the prune, the blob sparing Pathwell); 8 done (this entry, ledger, status). Tenth seat: not applicable.
+
+**RECONCILE:** EXP-0023; [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).
