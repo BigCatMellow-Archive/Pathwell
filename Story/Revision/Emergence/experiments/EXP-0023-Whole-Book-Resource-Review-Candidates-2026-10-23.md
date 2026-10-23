@@ -1,7 +1,7 @@
 # EXP-0023: the whole book against the repository's resources
 
 **Date:** 2026-10-23  
-**Status:** **CANDIDATES. Nothing applied.** Most are cuts of narrator commentary or stated theme, so each is the author's to pick ([who writes what](../../../Sunday-Morning/Craft.md#ai-and-the-author-who-writes-what)). Four are continuity fixes.  
+**Status:** **CANDIDATES. Nothing applied. Leans revised 2026-10-23 against two blind readers (next section).** Most are cuts of narrator commentary or stated theme, so each is the author's to pick ([who writes what](../../../Sunday-Morning/Craft.md#ai-and-the-author-who-writes-what)). Four are continuity fixes.  
 **From:** the author: "we need to then review the entire story using the resources in the repo". Three independent reviewers each read all 18 chapters through one role of [the web](../../../../AGENTS.md#8-the-web):
 - [Aim](../../Reader-Reports/Whole-Book-Resources-2026-10-22/REVIEW-VOICE.md): his voice guide, the reading list, prose voice, narrator register, forbidden patterns, his drafts, the quote bank;
 - [Targets](../../Reader-Reports/Whole-Book-Resources-2026-10-22/REVIEW-TARGETS.md): Thesis, Non-Negotiable Scenes, Writing Principles, the chapter contracts, INS-0001;
@@ -23,6 +23,30 @@ Tone wasn't given its own reviewer: the [Sunday lens](EXP-0019-Sunday-Lens-Candi
 The author's own voice guide names this: "every emotional scene explaining what the reader should feel"; "Growth should appear in changed behavior before it appears in speeches"; "question → character choice → consequence, over question → speech explaining the theme". Almost every fix is a cut.
 
 **Protect** (aim reviewer, section 1): Nana's soup note (Ch4), FIND NANA'S SPOON (Ch12), the coffee laugh that breaks into crying (Ch16), Milo's boot (Ch16), LIKED POCKETS (Ch16), SAM HOME TODAY (Ch11), the author's own rough jokes in Ch10–11, the Merritt margins and the geese (Ch18).
+
+## Current disposition (2026-10-23): checked against two blind readers
+
+After this page was written, two fresh blind readers read the whole book ([P88](../../Pass-Log.md#p88-2026-10-23-the-diner-and-shades-death-exp-0024-with-a-blind-ab-read): [reader A](../../Reader-Reports/Blind-AB-Shade-and-Diner-2026-10-23/READER-A-CONTROL.md), [reader B](../../Reader-Reports/Blind-AB-Shade-and-Diner-2026-10-23/READER-B-CANDIDATES.md)), logging reactions as they went, with no goals. **They singled out most of the lines the informed reviewers wanted cut, as moving.** The reviewers read against the author's guide ("every emotional scene explaining what the reader should feel"). The readers, reading cold, felt these lines land. Where a reader named a line, the lean now follows the reader:
+
+| # | Line | Blind readers | Lean now |
+| --- | --- | --- | --- |
+| A1 | "Both things were true." | B: "A bit stated, but fine." | take (no reader defends it) |
+| A2 | "…had still cost her things she wanted back." | A: "The truest sentence in…"; B moved by the litany | **keep** |
+| A3 | the "Adventure…" paragraph | A: "Liked… Laughed." | **keep; take A3b** (cut only the diner sentence, which fixes the clock) |
+| A4 | "The choice was ridiculous. / It was still hers." | A and B: "Tiny, perfect" | **keep** |
+| A5 | "…names were one of the few things the fire hadn't managed to take." | B: "Moved." | **keep** |
+| A6 | "Loss didn't care much about paperwork." | A: "Moved. Great line"; B: "Good." | **keep** |
+| A7 | "That was as much funeral as Camp had time for." | A: "Good." | **keep** |
+| A8 / A8b | "…another man who sounded certain. / Too late to call it an accident." | A and B: "Excellent ending" | **keep both** |
+| A9 | "That didn't make the next step his." | A and B: "Moved." | **keep** |
+| A10, A11, A13, A16, A18 | (the "old Pathwell" gloss; "she intended to make him answer it"; "The distinction had become easier…"; the museum narration; "since the road") | not mentioned by either | take as leaned (A18 still no lean) |
+| A12 | "It didn't make the choice for her." | A and B: "Good." | **keep** |
+| A14, A15 | already keep | A and B liked both | keep |
+| A17b | the stew exchange | A and B: "warm", "laughed" at "Say nothing." / "I am enjoying the possibility." | take A17b (both lines they quoted stay) |
+| A19 | "All of it could look generous from one angle." | A: "A pang." | **keep** |
+| N1–N3 | "No spell…"; "Person is the word I have for that."; "You don't get to use being funny…" | moved / "Beautiful" / "Very good" | keep (as leaned) |
+
+**The lean set is now** A1, A3b, A10, A11, A13, A16, A17b and C1–C4. **The lesson** ([INS-0002](../../../insights/INS-0002-check-blind-reader-logs-before-cutting-a-line.md)): an informed review against the voice guide over-cuts. Before cutting a line, search the blind-read logs for it.
 
 ## A. The book explaining itself (cuts)
 

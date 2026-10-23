@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## P88 the diner and Shade's death (2026-10-23)
+
+[**EXP-0024**](experiments/EXP-0024-Diner-and-Shades-Death-Candidates-2026-10-23.md): six candidates, tested by a blind A/B read of the whole book ([reports](../Reader-Reports/Blind-AB-Shade-and-Diner-2026-10-23/)). Shade's repair note and "REPAIR REQUESTED." became reader B's most moving moment. The same readers overturned most of EXP-0023's cuts ([INS-0002](../../insights/INS-0002-check-blind-reader-logs-before-cutting-a-line.md)). **No chapter changed.** [Pass P88](../Pass-Log.md#p88-2026-10-23-the-diner-and-shades-death-exp-0024-with-a-blind-ab-read).
+
 ## P87 the web, and the whole book against the resources (2026-10-23)
 
 [**EXP-0023**](experiments/EXP-0023-Whole-Book-Resource-Review-Candidates-2026-10-23.md): three independent reviews (aim, targets, world: [reports](../Reader-Reports/Whole-Book-Resources-2026-10-22/)) agree the book holds together and the back half explains itself. There are 19 cuts, 4 continuity fixes, 8 items for the author's pen, and a records pass done. [AGENTS.md §8](../../../AGENTS.md#8-the-web) adds the web (MAPS_L Spiderweb), and the scanner is ported. **No chapter changed.** [Pass P87](../Pass-Log.md#p87-2026-102223-the-web-and-the-whole-book-against-the-repositorys-resources).

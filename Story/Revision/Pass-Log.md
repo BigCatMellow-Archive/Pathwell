@@ -3063,3 +3063,31 @@ EXP-0021 rechecked against the voice guide. S1c is now leaned against ("not ever
 - Routine (D23): steps 1, 2, 4, 5, 6 and 9 done; 3 done (checker); 7 done (open-on-purpose items left alone: marked, the prune, the blob sparing Pathwell); 8 done (this entry, ledger, status). Tenth seat: not applicable.
 
 **RECONCILE:** EXP-0023; [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).
+
+## P88, 2026-10-23: the diner and Shade's death (EXP-0024), with a blind A/B read
+
+**AUTHORITY:** The author: the diner and Shade's death "really have room / need to really carry emotional weight". At the diner "we need to feel like elizabeth finding out that everythign she built didnt matter". Shade's death "needs to feel unfair… like hope was ripped from the world".
+
+**SOURCES:** *Rulings:* NN5, NN9, R45–R47, Rung Q58–Q59, W16, R23, R24. *Aim:* the voice guide (objects carry emotion; collapse over something trivial; let reflection stretch); his drafts. *World:* the Promise Ledger (R12, the queen of spades). *Evidence:* earlier reader reports on Shade (the 10-08 panel; the 10-22 drop-in and blind reads).
+
+**DO:**
+- [EXP-0024](Emergence/experiments/EXP-0024-Diner-and-Shades-Death-Candidates-2026-10-23.md): a diagnosis and six candidates.
+  - D1: the diner beat on "never the point".
+  - D2: "He told me my apartment was marked."
+  - S1: Shade's repair note at the wash basket, paying off Mama Baga's "If you want it repaired, leave a note."
+  - S2: the queen on the card table.
+  - S3: the stretched remembering.
+  - S4: "REPAIR REQUESTED." on the loss sheet.
+  Shade saying "Go." was ruled out (Q59). **No chapter changed.**
+- **A blind A/B read:** two fresh readers read the whole book (control vs D1–S4), and the same questions were sent only after they finished ([reports](Reader-Reports/Blind-AB-Shade-and-Diner-2026-10-23/)). Both rank Shade first and score his death 8/10 and the diner 7/10. Reader B felt every candidate, and S4 was "the most moving moment in the book for me".
+- **The readers overturned most of EXP-0023's leans.** Both singled out as moving 11 of the lines the informed reviewers wanted cut. EXP-0023 now has a current disposition: the lean set shrinks to A1, A3b, A10, A11, A13, A16, A17b and C1–C4. The lesson is [INS-0002](../insights/INS-0002-check-blind-reader-logs-before-cutting-a-line.md), folded into [Before you touch a chapter](Before-You-Touch-A-Chapter.md#how-a-change-gets-in): search the blind-read logs before cutting a line.
+
+**CHECK:** All six EXP-0024 patches apply together. The blind readers are the independent check. Routine (D23):
+- Steps 1, 5, 6 and 9: done.
+- Steps 2, 3, 4 and 8: not applicable (no chapter text changed).
+- Step 7: done (Q59 respected).
+- Tenth seat: not applicable.
+
+**OPEN, for the author** (both readers): a goodbye with Shade, within Q59; the silence after the Ch18 confession; whether the diner should land as loss before relief; the walk back from the diner; reader B inferring that Shade's look sends her to Milo.
+
+**RECONCILE:** EXP-0023, EXP-0024, INS-0002, the brief, [Emergence index](Emergence/INDEX.md), [Revision Status](../../Revision-Status.md).

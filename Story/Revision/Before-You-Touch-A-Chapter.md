@@ -44,7 +44,7 @@ Owner: [Craft: who writes what](../Sunday-Morning/Craft.md#ai-and-the-author-who
 ## How a change gets in
 
 1. **The canon is `Story/Chapters/Chapter_01–18.txt`** (R3). Exports and assembled copies aren't.
-2. **Anything the author hasn't picked goes in as a candidate:** an `EXP-NNNN` page with one patch per candidate in `Emergence/experiments/`, each marked lean or no lean. Copy the latest EXP page for the shape. He picks; the picks are applied verbatim.
+2. **Anything the author hasn't picked goes in as a candidate:** an `EXP-NNNN` page with one patch per candidate in `Emergence/experiments/`, each marked lean or no lean. Copy the latest EXP page for the shape. He picks; the picks are applied verbatim. **Before leaning toward a cut, search the blind-read logs in [Reader-Reports](Reader-Reports/) for the line;** if a blind reader named it as moving, keep it unless a ruling says otherwise ([INS-0002](../insights/INS-0002-check-blind-reader-logs-before-cutting-a-line.md)).
 3. **Small edits he asked for** follow the [minimum path](../Sunday-Morning/Line-Editing-Protocol.md) (§7).
 4. **Every pass** gets a Pass Log entry that reports the [after-every-pass routine](../Sunday-Morning/Pipeline.md#after-every-pass) step by step: done, skipped (with the reason) or not applicable (D23). Record any new ruling as an R-row, in his words. Update [Revision Status](../../Revision-Status.md).
 5. **Commit after each step** (R8), naming him only as "the author".
