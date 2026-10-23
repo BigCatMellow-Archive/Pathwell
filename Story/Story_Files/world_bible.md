@@ -52,7 +52,7 @@ This is not a reliable technique for intentionally creating spillage; it is a da
 
 **Climax example:** Pathwell tries to pay for a working that would absorb/reintegrate Shade into himself. He does not know what that would do to Shade's independent personhood and, at his core, no longer believes he has the right to decide it. He forces the prune through anyway. The released possibility cannot settle cleanly and becomes malformed spillage.
 
-**Coda contrast:** Pathwell later begins a prune, reaches the point where he could continue, and deliberately stops before release. The possibility returns cleanly. His growth is expressed by stopping rather than by losing the ability to prune.
+**Coda contrast:** Pathwell later begins a prune, reaches the point where he could continue, and deliberately stops before release. The possibility returns cleanly. His growth is expressed by stopping rather than by losing the ability to prune. *Current disposition (2026-10-23): superseded by R19: Ch18 has no prune begun, no price and no transaction (P43).*
 
 ### Practice and culture
 
@@ -90,7 +90,7 @@ These are different substances that can attract the same cleanup creatures. Ordi
 
 **After cleanup:** Once the waste that drew it has been consumed, a blob briefly searches the immediate area for more unclaimed waste. If it finds none, it leaves on its own. It normally does not need to be dismissed or redirected.
 
-**Chapter 1:** The blob reaches Elizabeth's apartment by following the effectively overlapping Pathwell/Shade signature. Shade has followed Pathwell because of the draw; Pathwell has wandered into Elizabeth's apartment while scavenging charged material. Elizabeth is not the reason the blob is there. Pathwell sees the blob breaking down her door, does not know Shade exists, and incorrectly concludes that the blob must be after Elizabeth. Once inside, the blob redirects toward fresh unclaimed casting waste created when Elizabeth physically interrupts Pathwell's already-active cookbook working.
+**Chapter 1:** The blob reaches Elizabeth's apartment by following the effectively overlapping Pathwell/Shade signature. Shade has followed Pathwell because of the draw; Pathwell has wandered into Elizabeth's apartment while scavenging charged material. Elizabeth is not the reason the blob is there. Pathwell sees the blob breaking down her door, does not know Shade exists, and incorrectly concludes that the blob must be after Elizabeth. Once inside, the blob redirects toward fresh unclaimed casting waste created when Elizabeth physically interrupts Pathwell's already-active cookbook working. *Current disposition (2026-10-23): Pathwell is a guest at her welcome party, not someone who wandered in (R10, P7).*
 
 **Climactic cleanup (Chapter 14–15, author revision 2026-10-15):** The failed forced rejoining generates a fresh, strong unclaimed-pruning-spillage signal while a creature was already near Camp. The sudden stronger signal acts as a **beacon**, letting the creature push painfully/with visible resistance through the moving Camp's difficult border near the woods; this is neither teleportation nor a general rule that blobs can ignore every threshold. **Shade is the actual unresolved pruning-waste anomaly**; Pathwell only resembles that target because their signatures overlap. The creature reaches Shade unexpectedly because he is in its route from the wooded edge toward the spilled waste. He is not attracting it deliberately or selecting his own destruction. When it absorbs Shade, the unresolved Shade source and ambiguous draw are removed; it **then collects the fresh loose spillage by the failed frame**, briefly checks the immediate area (including Pathwell), and withdraws. The archive's burning emotional records are not its target. Removing Shade does not retroactively settle Pathwell's failed prune. Exceptionally effective enchanted implements can still affect a blob, as demonstrated by Elizabeth's dagger and Stansbury's baton in Chapter 7; no blanket anti-magic immunity is implied.
 
@@ -185,7 +185,7 @@ They cannot selectively consume a paragraph, sentence, word, or emotional strand
 
 Multiple pages can be used together. Compatible material may reinforce; conflicting emotional material increases interference, feedback, and instability.
 
-Pathwell's museum injury is a direct example: he mixes multiple emotional sources and hurts himself while trying to force a working through the interference.
+Pathwell's museum injury is a direct example: he mixes multiple emotional sources and hurts himself while trying to force a working through the interference. *Current disposition (2026-10-23): in Ch11 the working uses one letter; the injury comes from forcing it, not from mixing sources.*
 
 ### Point of no return
 

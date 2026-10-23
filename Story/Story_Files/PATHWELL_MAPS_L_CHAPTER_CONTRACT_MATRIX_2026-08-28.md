@@ -2,6 +2,7 @@
 
 - State: `WORKING`
 - Mode: **story architecture / reconciliation planning only — NO MANUSCRIPT CHAPTERS EDITED**
+- *Current disposition (2026-10-23): the chapters were rewritten to this matrix on 2026-08-28 and revised since; later rulings win. Known stale lines: W03's exit state (moved to Ch4 by R31), W16 (the climax as R45–R47 have it), the tree-line scene (W19, R55), "by the shin" (Ch15: "around his boot"), the Pathwell flaw list (no silence at the fire, R46, or confession, R47), and the coda's "clean voluntary stop before release" (R19). See [EXP-0023](../Revision/Emergence/experiments/EXP-0023-Whole-Book-Resource-Review-Candidates-2026-10-23.md) E.*
 - Companion documents:
   - `PATHWELL_MAPS_L_STORY_RECONCILIATION_ROADMAP_2026-08-27.md`
   - `PATHWELL_MAPS_L_BACKWARD_STORY_PROOF_2026-08-27.md`

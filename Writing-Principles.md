@@ -183,7 +183,7 @@ Do not promote a climax solution because it elegantly matches the theme.
 
 If the mechanism is unknown, leave it unknown until the rules support it.
 
-Current application: Shade survival remains blocked until pruning/cleanup mechanics honestly explain it.
+Current application: Shade survival remains blocked until pruning/cleanup mechanics honestly explain it. *Current disposition (2026-10-23): superseded. Shade dies at Camp (lock 08-22 §2, R46; Ch15).*
 
 **Canon correction rule — the story Bible is the source of truth unless it is wrong.** The Bible records intended canon; it does not prove that an event happened on the page, that a character learned a fact, or that a causal step exists. When a scene exposes a contradiction, unsupported knowledge, or a missing cause, first check the manuscript, established mechanics, character knowledge, and the author's actual rulings. Do not invent unseen conversations, memories, events, or magical explanations just to rescue a reference entry. Identify whether the manuscript or the Bible is mistaken; take changes to an author-locked decision back to the author; correct the mistaken source, record the ruling in `Story/Revision/Decisions.md`, and reconcile affected references. Until resolved, flag the discrepancy rather than presenting the Bible's assertion as an on-page explanation. Established in-world rules remain binding unless deliberately revised.
 
