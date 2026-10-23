@@ -3036,7 +3036,7 @@ EXP-0021 rechecked against the voice guide. S1c is now leaned against ("not ever
 - The [R38 disposition](Emergence/CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md) marked ¶71 "intent preserved", but his note changes "here" to "there", and that hadn't been applied. It is now.
 - `Story/Pathwell.txt` regenerated.
 
-**CHECK:** The checker runs clean (exit 0). A fresh check read the applied wording against his verbatim notes and found every change faithful. It also found a third mechanic ("He waved it off." as its own sentence), now named in R61, and two notes nobody had tracked (¶39 more detail, ¶167 "his attention"), now EXP-0022 C5 and C6. Its opinions, for the author: the ¶73 memory line is now a verbless fragment; "she thought that he had left" leaves the paragraph's past perfect; the final "Perfect." now rests on the bookend rather than an echo inside the chapter. Routine (D23): steps 1, 3, 7 and 9 done; 2 and 4 done (checker, ledger: "Perfect." R1 bookend intact); 5 done (fresh check); 6 (cold read) waits for the whole-book review (P87); 8 not applicable; tenth seat not applicable.
+**CHECK:** The checker runs clean (exit 0). A [fresh check](Reader-Reports/Fresh-Check-P86-Ch01-2026-10-22.md) read the applied wording against his verbatim notes and found every change faithful. It also found a third mechanic ("He waved it off." as its own sentence), now named in R61, and two notes nobody had tracked (¶39 more detail, ¶167 "his attention"), now EXP-0022 C5 and C6. Its opinions, for the author: the ¶73 memory line is now a verbless fragment; "she thought that he had left" leaves the paragraph's past perfect; the final "Perfect." now rests on the bookend rather than an echo inside the chapter. Routine (D23): steps 1, 3, 7 and 9 done; 2 and 4 done (checker, ledger: "Perfect." R1 bookend intact); 5 done (fresh check); 6 (cold read) waits for the whole-book review (P87); 8 not applicable; tenth seat not applicable.
 
 **RECONCILE:** R61; EXP-0022; [Revision Status](../../Revision-Status.md).
 
@@ -3091,3 +3091,10 @@ EXP-0021 rechecked against the voice guide. S1c is now leaned against ("not ever
 **OPEN, for the author** (both readers): a goodbye with Shade, within Q59; the silence after the Ch18 confession; whether the diner should land as loss before relief; the walk back from the diner; reader B inferring that Shade's look sends her to Milo.
 
 **RECONCILE:** EXP-0023, EXP-0024, INS-0002, the brief, [Emergence index](Emergence/INDEX.md), [Revision Status](../../Revision-Status.md).
+
+**P88 addendum (2026-10-23):** the author asked that all the blind-reader material be on the repository. Added:
+- [Reader-Reports/README.md](Reader-Reports/README.md), an index of every read (blind, informed, fresh check) with the grep that INS-0002 asks for;
+- READMEs for the [blind A/B read](Reader-Reports/Blind-AB-Shade-and-Diner-2026-10-23/README.md) and the [whole-book resource reviews](Reader-Reports/Whole-Book-Resources-2026-10-22/README.md). The A/B README records both briefs verbatim, the follow-up questions, the exact text each reader read (`5817524`, plus the EXP-0024 patches for B) and a results table;
+- the P86 fresh check, which had been summarized in the Pass Log but not saved ([report](Reader-Reports/Fresh-Check-P86-Ch01-2026-10-22.md)).
+
+Both A/B logs were checked byte for byte against the readers' own files.
