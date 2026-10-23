@@ -1,7 +1,7 @@
 # EXP-0018 — Whole-book checklist: candidates, and what was withdrawn
 
 **Date:** 2026-10-22  
-**Status:** **OPEN for the author.** Three items applied as P73 on his direct answers; everything else below is a candidate.  
+**Status:** **CLOSED 2026-10-23.** Three items applied as P73 on his direct answers. The author then took B1–B10 and all four C lines (C1 in place of B11, which it contains): [R58](../../Decisions.md#the-authors-rulings-for-this-revision), [P77](../../Pass-Log.md#p77-2026-10-23-the-authors-exp-0018-picks). The withdrawn list stands.  
 **From:** an external three-read review of the P72 manuscript and its revision checklist (outside this repository). On 2026-10-22 the author asked for the checklist's revisions, scope "Everything", and then asked that this repository's rules be followed. A first, unrecorded draft applied about forty changes directly to an exported copy. Checked against the records, many of them broke rulings. That draft is **discarded**; nothing from it reached the chapters. This page is the corrected version of that work.  
 **Control (A):** the chapter text on `main` after P73. Each candidate is a patch in this folder; adopt one with `git apply <patch>` from the repository root.
 

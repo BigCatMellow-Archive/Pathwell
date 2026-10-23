@@ -2840,3 +2840,35 @@ The light Sunday touch: not applicable.
 It adds no story rules; every line links to its owner. `CLAUDE.md` still imports it.
 
 **CHECK:** Every relative link and anchor resolves. No chapter changed. Routine (D23): not applicable.
+
+## P77, 2026-10-23: the author's EXP-0018 picks
+
+**AUTHORITY:** The author, asked to clear [EXP-0018](Emergence/experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md): B cuts "Take all"; C lines: C1, C2, C3 and C4. Recorded as [R58](Decisions.md#the-authors-rulings-for-this-revision), with the order he set for the remaining work.
+
+**DO:** Applied the EXP-0018 patches verbatim, in order: B1–B10, then C1 (in place of B11: both edit the same Ch13 line, and C1 already carries B11's fix for the pocketed queen), C2, C3, C4. Every patch passed `git apply --check` against `main` first, and they applied in sequence without conflict.
+
+Change notes from the diff (9 chapters, 21 lines in, 25 out):
+- Ch5: "Thumper's paw print was in there somewhere." added to the opening paragraph (C2).
+- Ch7: "Leo, would you please focus!?" (C4); "Elizabeth waited." cut from the mirror beat (B3).
+- Ch10: the Ask loses "Pathwell went still." and "That's not what I asked." (B1); "That wasn't the question." / "No. I would not try." becomes "Would you try?" / "No." (B2).
+- Ch11: "Pathwell went still." cut after "I don't need to be rescued." (B4).
+- Ch13: Elizabeth plans Shade's stay and he stops her ("That's your plan," Shade said. "Let me find mine."); "He turned the card over once more." becomes "After a while he said," (C1, carrying B11); "Shade went completely still." cut at the seam of light (B5).
+- Ch15: "Rain on canvas." and "Bread." cut from the fire (B8).
+- Ch16: "Pathwell went still." cut before "Elizabeth continued before he could answer." (B6).
+- Ch17: the cabinets paragraph cut (B9); "Elizabeth waited." cut at Hearts (B7); "Some days her hand went to the gold chain at her throat instead." added (C3).
+- Ch18: "The orange cat" becomes "Boots", twice (B10).
+
+**CHECK:** Each change was read in its paragraph. Ch13 still flows into Shade's own "I want to stay here." to Mama Baga, and the queen now stays pocketed until he hands it to Milo. Ch17 still introduces the cabinets later without the cut paragraph ("Blank paper went into one cabinet."). The routine (D23):
+
+1. Tone guardrails / book's targets: done. No lock in [Before you touch a chapter](Before-You-Touch-A-Chapter.md) is touched; no line states the theme; "Leo" stays Pathwell's (glossary).
+2. Shapes before sentences: not applicable. No opening, engine, resolution or ending changed.
+3. Checker: done. Narration "going still" 12 → 8; otherwise only paragraph counts move (Ch13 260 → 264, Ch15 203 → 201, and single-paragraph changes elsewhere).
+4. Scene diagnostic: done for Ch13's card-table scene, the only scene whose movement changed. C1 gives Elizabeth a wrong move she backs off from; Shade's choice to stay is still his.
+5. Fresh check: done by this session, which did not write the patches (they were drafted in P73). C1–C4 are the author's selected text, so no taste call was made. A fully independent check is folded into step 2 below: the author's own read.
+6. Reader protocol: skipped. The author set his own straight read-through as the next step (R58); a blind read follows it.
+7. Replacement tic: done. B1–B10 are all cuts; no new "went still" or "waited" move replaced them.
+8. Deliberate ambiguity: done. R54, Q136 and lock 08-22 §4 untouched.
+9. Change notes from the diff: done (above).
+10. Tenth seat: not applicable. Author picks of existing candidates.
+
+**RECONCILE:** Decisions R58; EXP-0018 closed; [Emergence index](Emergence/INDEX.md); [Promise Ledger](Promise-Ledger.md) L11 (Thumper planted in Ch5), L15 ("Leo" planted in Ch7), new L19 (the gold chain, paid in Ch17); [Revision Status](../../Revision-Status.md) (manuscript note; "What's next" rewritten to the author's order). All chapters still L3.

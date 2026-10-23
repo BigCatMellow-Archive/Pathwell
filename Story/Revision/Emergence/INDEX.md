@@ -6,7 +6,7 @@ Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54)
 
 ## P73 external checklist, reconciled (2026-10-22)
 
-An external whole-book checklist reconciled with the records: [**EXP-0018**](experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md). Two author picks applied (Ch18 scar, two-page card in Ch12/Ch15); eleven B candidates and four flagged C candidates for the author; fifteen checklist items withdrawn, each with the ruling that rules it out. [Pass P73](../Pass-Log.md#p73-2026-10-22-the-external-checklist-reconciled-with-the-records).
+An external whole-book checklist reconciled with the records: [**EXP-0018**](experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md). Two author picks applied (Ch18 scar, two-page card in Ch12/Ch15); eleven B candidates and four flagged C candidates for the author; fifteen checklist items withdrawn, each with the ruling that rules it out. [Pass P73](../Pass-Log.md#p73-2026-10-22-the-external-checklist-reconciled-with-the-records). **Closed 2026-10-23:** the author took every B and C candidate (C1 in place of B11), applied in [P77](../Pass-Log.md#p77-2026-10-23-the-authors-exp-0018-picks).
 
 ## P71 review of the middle — Chapters 5–13 (2026-10-21)
 
