@@ -2872,3 +2872,28 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 10. Tenth seat: not applicable. Author picks of existing candidates.
 
 **RECONCILE:** Decisions R58; EXP-0018 closed; [Emergence index](Emergence/INDEX.md); [Promise Ledger](Promise-Ledger.md) L11 (Thumper planted in Ch5), L15 ("Leo" planted in Ch7), new L19 (the gold chain, paid in Ch17); [Revision Status](../../Revision-Status.md) (manuscript note; "What's next" rewritten to the author's order). All chapters still L3.
+
+## P78, 2026-10-23: the author's Chapter 1 line edits
+
+**AUTHORITY:** The author marked up Chapter 1 in a Google Doc copy of the manuscript ("PATHWELL 10.23", exported from main @ 36334f9; Ch1 unchanged since) with strikeouts and bold, and asked for them to be applied. Recorded as [R59](Decisions.md#the-authors-rulings-for-this-revision).
+
+**DO:** Chapter 1 rebuilt from his marked copy: struck text removed, bold text kept, and his direct (unmarked) edits taken as they stand. His four notes to the reviser were not treated as text. Held: "GOODBYE LIZZY" (the chapter keeps "WELCOME ELIZABETH" until he answers). Reviser fixes, each listed for him to overrule:
+- staging: "The door slammed hard enough to rattle the chain and threw the bolt, the man had thrown himself across the room." becomes "The door slammed hard enough to rattle the chain, and the bolt shot home. The man had thrown himself across the room." (a door can't throw a bolt);
+- his note asking for blocking after "Huh.": "He looked from her to the wrecked doorway and back again." (plain, his to replace);
+- his note "how can she see inside the book?": "She looked at the cookbook in his hand, bent open at the ragged edge where the page had been.";
+- mechanical: a comma before "bringing with it", "tore free, sticking", "starts and stops, tracing"; "Yes, but—"; a stray "." paragraph and a double period removed; the sentence after the cut "the diary still under his arm" closed.
+
+**CHECK:** The result was read whole. Locks checked: the first line, "It was the crash that woke her." (R11) and the final "Ready?" / "No." / "Perfect." are intact; "marked" is still his bluff (R27); the notebook cue (R48) and "Reading," (R53) stay. The routine (D23):
+
+1. Book's targets: done. No theme stated. The R10/R21 conflict in the banner edit is held, not applied.
+2. Shapes before sentences: not applicable. The opening's shape is unchanged pending his hook note.
+3. Checker: done. Ch1 is 1,240 words; short paragraphs 21%.
+4. Scene diagnostic: not applicable. No scene's movement changed.
+5. Fresh check: skipped. The text is the author's own; the three reviser lines are plain staging, listed above.
+6. Reader protocol: not applicable until the author's read-through is done (R58).
+7. Replacement tic: done. None added.
+8. Deliberate ambiguity: done. Untouched.
+9. Change notes from the diff: done (R59 lists them).
+10. Tenth seat: not applicable.
+
+**RECONCILE:** Decisions R59; Promise Ledger L1 (the Ch1 meeting plant is gone; Ch2 still sets it up); Revision Status. Ch1 still L3. **Open for the author:** the banner (Q-Q, below in this report) and the opening hook.
