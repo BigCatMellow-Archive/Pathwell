@@ -2896,4 +2896,4 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 9. Change notes from the diff: done (R59 lists them).
 10. Tenth seat: not applicable.
 
-**RECONCILE:** Decisions R59; Promise Ledger L1 (the Ch1 meeting plant is gone; Ch2 still sets it up); Revision Status. Ch1 still L3. **Open for the author:** the banner (Q-Q, below in this report) and the opening hook.
+**RECONCILE:** Decisions R59; Promise Ledger L1 (the Ch1 meeting plant is gone; Ch2 still sets it up); Revision Status. Ch1 still L3. **Answered:** the banner stays "WELCOME ELIZABETH" (the author, same day). **Open for the author:** the opening hook.
