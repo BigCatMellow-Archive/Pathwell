@@ -2897,3 +2897,13 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 10. Tenth seat: not applicable.
 
 **RECONCILE:** Decisions R59; Promise Ledger L1 (the Ch1 meeting plant is gone; Ch2 still sets it up); Revision Status. Ch1 still L3. **Answered:** the banner stays "WELCOME ELIZABETH" (the author, same day). **Open for the author:** the opening hook, kept as Q-Q ("more just thinking"; not acted on).
+
+## P79, 2026-10-23: what the author's Chapter 1 markup shows about his writing
+
+**AUTHORITY:** The author asked for feedback on his Chapter 1 markup and for notes "on how i prefer to write vs what we have to help build out the writing notes"; after reading the feedback and ten patterns: "Go for it, add all this".
+
+**DO:** [Line notes](../Sunday-Morning/Line-Notes.md) gains section 9, "What his own rewrites show": ten patterns, each with his before-and-after lines and the logic, and a table of the questions raised about his own rewrites (none applied; his call). Two older rows there are marked superseded by his markup: the sniff paragraph (§2) and the Ch1 meeting plant (§3). [Craft](../Sunday-Morning/Craft.md#lessons-from-the-authors-line-notes) gains rules 9 to 14 from the patterns, and a push-back line: his own rewrites get the same check, and when he asks for feedback, give it before applying.
+
+**CHECK:** Every new anchor resolves. No chapter changed. Routine (D23): not applicable (no prose changed).
+
+**RECONCILE:** Pass Log only; R59 already records the markup.

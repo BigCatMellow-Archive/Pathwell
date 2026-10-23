@@ -2,7 +2,7 @@
 
 ## Status
 
-**Evidence, open. Added to as the author gives line notes.** This page records each line note the author has given, what changed on the page, and why. It started with the Pathwell revision: his notes on Chapters 1 and 2, on 2026-10-01 (Pathwell R25, R27 and R28).
+**Evidence, open. Added to as the author gives line notes.** This page records each line note the author has given, what changed on the page, and why. It started with the Pathwell revision: his notes on Chapters 1 and 2, on 2026-10-01 (Pathwell R25, R27 and R28). On 2026-10-23 he marked up Chapter 1 himself (Pathwell R59/P78): his own cuts and rewrites, not notes to the reviser. What those rewrites show about how he writes is [section 9](#9-what-his-own-rewrites-show); where the reviser questioned a rewrite is at the end of [the push-back section](#where-a-note-was-adjusted-or-held-and-why).
 
 The rules drawn from these notes are in [Craft: lessons from the author's line notes](Craft.md#lessons-from-the-authors-line-notes). This page is the evidence for them. When a rule seems arbitrary, the example here shows the problem it fixes. When he gives new notes, add them here, and add a rule to Craft only if the lesson is new.
 
@@ -31,7 +31,7 @@ A reader pictures the room, so the room has to work: where everyone is, what the
 
 | Note | Change | Logic |
 | --- | --- | --- |
-| "Wheres your cookbook… i feel like he should smell the blob to know its there" (Ch1) | Added: "He lifted his head and sniffed. Under the cheese and the cake there was something else, faint and wrong. Low tide, a long way from any sea. / His face changed." | He goes from casual to urgent, so the reader has to see what changed his mind. A smell also leaves room for her to get the full stench later. |
+| "Wheres your cookbook… i feel like he should smell the blob to know its there" (Ch1) | Added: "He lifted his head and sniffed. Under the cheese and the cake there was something else, faint and wrong. Low tide, a long way from any sea. / His face changed." | *(Superseded 2026-10-23: he cut the sniff paragraph in his own markup, because it sat in Pathwell's senses in Elizabeth's chapter. The stench now reaches her when she opens the door, which still shows what turns him urgent. See [section 9](#9-what-his-own-rewrites-show), row 2.)* He goes from casual to urgent, so the reader has to see what changed his mind. A smell also leaves room for her to get the full stench later. |
 | "Does she need to ask about the diary? … when she walked out on him with it." (Ch1) | "Why are you holding my diary?" is cut. | She watched him read it, so the question is the writer checking in, not her. |
 | "Does he need to ask something like 'you dont know?' he thinks that the blob is there for her" (Ch1) | Added: "Then he looked at her more carefully. / 'You really don't know?' / 'Know what?' / 'Huh.'" | A character's wrong belief that drives the plot has to be visible on the page. Otherwise the reader can't see the misread, and the later reveal has nothing to overturn. |
 
@@ -40,7 +40,7 @@ A reader pictures the room, so the room has to work: where everyone is, what the
 | Note | Change | Logic |
 | --- | --- | --- |
 | "make it clear what the ticket is for, before hand?" (Ch2) | "laundry ticket" becomes "dry-cleaning ticket" (also in Ch3). Her worry earlier in the chapter already says "I have to get my dry cleaning before the meeting." | The setup was already there, but two names for one thing hid the link. Call a thing by the same name every time, and the reader makes the connection on their own. |
-| "Do we need to make the meeting more important, like she wakes up in chapter 1 and is like 'okay, parties over, i got a big meeting in the morning'" (Ch2, applied in Ch1) | Ch1's party paragraph: "The guests had left hours ago, and she'd gone straight to bed. She had a meeting at nine, her first big one since she'd started." | A loss only hurts if the reader felt the stake before it went. It goes after the opening rather than in it, so the first lines stay fast (see the push-back section). |
+| "Do we need to make the meeting more important, like she wakes up in chapter 1 and is like 'okay, parties over, i got a big meeting in the morning'" (Ch2, applied in Ch1) | Ch1's party paragraph: "The guests had left hours ago, and she'd gone straight to bed. She had a meeting at nine, her first big one since she'd started." | *(Superseded 2026-10-23: he cut this sentence from Ch1 in his own markup; Ch2's "I have a meeting at nine tomorrow" now sets it up.)* A loss only hurts if the reader felt the stake before it went. It goes after the opening rather than in it, so the first lines stay fast (see the push-back section). |
 | "Maybe somehting like 'She heard her again, Lizzy'" (Ch2) | "She heard her again." comes before "Lizzy." | Whatever sets off a feeling has to be readable. The bare "Lizzy." relied on the reader guessing it was Nana's word. "Her" is unclear for one line, then the butter and sugar make it clear. That short delay is fine. A wrong guess that lasts would not be. |
 
 ## 4. If cutting it changes nothing, cut it, and don't replace it
@@ -87,6 +87,23 @@ His test, from Ch1: "it doesnt help the story and doesnt change anyhting if remo
 | "line break at 'she hurried'?" (Ch2) | The paragraph splits into three: him walking off; "She looked back one more time at her apartment window. A shadow filled the space."; "She hurried to catch him at the corner." | The shadow needs a moment to itself before she moves. The fix also removed "looked around… looking back". |
 | (two quips in one exchange) | "That's it. Easy to remember." became "That's it." once "Don't need one. Saves everybody time." went in. | Two answers in a row with the same shape (short answer, then a reason) make a pattern. Keep one ([writing against sameness](Craft.md#writing-against-sameness)). |
 
+## 9. What his own rewrites show
+
+From his own markup of Chapter 1 (2026-10-23): strikeouts and additions in his hand, not notes to the reviser. Each row is a pattern that ran through several of his changes. Write toward these; don't "correct" them back.
+
+| Pattern | Before → after (his) | Logic |
+| --- | --- | --- |
+| **1. No reminders.** Don't re-tell the reader who is holding what, or what they just saw. | "He went straight back to the boxes, the diary still under his arm." → "He went straight back to the boxes." (his margin: "we get it, he still has the diary"). Also cut: "Elizabeth leaned close enough to see the ink still there beneath it."; "She waited. Hushed, pressed against the door."; "Someone might have fallen in the hall." | Each cut line was the narrator double-checking something the reader already had. The scene moves faster without the check. |
+| **2. Stay in her senses.** Other characters' perceptions and feelings come through what she can see and hear, not through narration of what they sense. | Cut: "He lifted his head and sniffed. Under the cheese and the cake there was something else, faint and wrong. Low tide, a long way from any sea." Now: "Something wet and dark sagged into the gap, bringing with it a stench of low tide." Also cut: "He stopped. For a second he wasn't in a hurry at all." | The sniff paragraph was inside Pathwell's nose in a chapter told from Elizabeth. Giving her the smell at the door keeps the viewpoint and puts the danger on her. |
+| **3. Flow, not fragments.** Join clauses with commas and "and"; merge short paragraphs into one movement. Comma splices are his voice, not errors. | "She knew him, a little. He'd been at the party, talking to everybody." → "She knew him, a little, he'd been at the party." / "It had been a good party. Better than she'd expected…" → "It was a good party, better than she'd expected." / "She went to the door and turned the lock and opened it against the chain." The door, the smell, the gap and the slam became one paragraph. | People telling a story don't stop every five words. Stacked one-line paragraphs make every moment the same size; his joined sentences let the action run. This is the opposite of the "one cadence for every register" weakness the revision keeps finding. |
+| **4. Fragments are for one beat.** | "Stillness." / "Don't. Think." / "Taking their light with it." | He uses a fragment where a voice would pause: a held breath, an order, an afterthought. Because the paragraphs around them run long, the fragments land. |
+| **5. Repetition as rhythm.** Carry a word forward into the next clause. | "There was only her racing heart and stillness, a stillness interrupted by a dull rumbling." → "Stillness. There was only her racing heart and stillness. A stillness interrupted by a dull rumbling, rumbling that grew into shaking, a shaking that rocked the walls around her." | A storyteller's cadence: each clause picks up the last word of the one before and pushes it further. He expanded this where an editor would trim. Leave it. |
+| **6. Everyday words over writerly ones.** | "Paper cups" → "Plastic cups"; "the stench of wet-rot permeating the room" → "splattered across the room"; "dropped onto the carpet" → "dripped"; "now said only ELIZ" → "now only read ELIZ"; "Nana's blue marker" / "Nana's pen" → "her blue marker" / "the pen". | Plain words that someone would say aloud. He also cut a repeated name where a pronoun was clear. |
+| **7. The narrator talks like someone telling it.** | "He sat on the floor with a box open beside him" → "But there he was, sat on the floor, with a box open beside him"; "There in the middle of it all" → "And there in the middle of it all". | Spoken connectives ("But there he was", "And there…") and colloquial grammar ("sat on the floor") make the narration a person talking, which is what "writes how people talk" means in narration. |
+| **8. Spoken lines over narrated reactions.** | Added: "You should probably get behind something."; "The old one, the handwritten one with notes. I know there's one around here somewhere."; "You really have no idea?" He looked her over, searching for a reaction.; her outburst "No, look at what you did, my apartment is wrecked, how am I going to even clean… whatever this even is?" | He gives characters something to say where a draft gave them a look or a pause. Her outburst is the first time she pushes back in her own words. |
+| **9. Save signature words for the payoff.** | The early "Perfect." → "Good… that's good."; the chapter's last "Perfect." stays. | A word that will carry weight at the end is spent if it's used casually first. |
+| **10. Bracket what isn't solved yet.** | His margin notes: "(need some sort of blocking here to demonstrate his confusion)"; "(how can she see inside the book?)". | He marks staging gaps and logic questions instead of forcing a line. Solving them is the reviser's job (staging is the reviser's lead): write the plainest fix and list it for him. |
+
 ## Where a note was adjusted or held, and why
 
 These are the cases where [push-back](Craft.md#ai-and-the-author-who-writes-what) changed what went in. In each case the author agreed.
@@ -99,3 +116,16 @@ These are the cases where [push-back](Craft.md#ai-and-the-author-who-writes-what
 | "half-chewed" asked for on two lines (Ch2) | **It went on one line.** | Two notes can collide. Read them together before applying either. |
 | "the exploding blob is what marks the house" (Ch1) | **It became a prop for a bluff:** "He nodded at the ooze drying on her walls." He made up "marked", and the ooze helps sell it. | Fit a new idea to what the story already has before adding new lore (Pathwell R23). The author chose this: "lets keep it a bluff". |
 | "a voice that couldnt be real" (Ch1) | **"couldn't be here"** | His idea, with the stock phrase swapped out. |
+
+### Questions raised about his own rewrites (2026-10-23)
+
+Raised with him after his Chapter 1 markup; none applied. They're his call, and they're kept here because each one is a pattern to catch in a draft.
+
+| His line | The question | Logic |
+| --- | --- | --- |
+| "The door slammed hard enough to rattle the chain, and the bolt shot home. The man had thrown himself across the room." | The result comes first and the cause after, so his lunge happens offstage. | A fast move is strongest shown as it happens. This is the one moment in the opening where he moves fast, which bears on the opening-hook question (Pathwell Q-Q). |
+| "That last part came out more as a demand than a request." | It explains a joke the dialogue already lands ("So please. Grab your things."). | Explaining what the scene just showed is the revision's top recurring weakness, and it applies to his lines too. |
+| "now really, we should be going." / "We really need to be going." | Two lines apart. | Insistence can repeat on purpose, but the same phrase twice reads as an accident. Vary it or cut one. |
+| "the stench of wet-rot splattered across the room" | A smell doesn't splatter. | Either the ooze splatters and the smell follows, or the smell fills. Pattern 6 still holds: choose the everyday verb that fits the thing. |
+| "going shiny" → "going dry"; "something else, someone else. A voice that couldn't be there." | Taste: "shiny" was the sharper picture; "someone else" and "A voice" say the same thing twice. | Small. Listed so the choice is his, not a default. |
+

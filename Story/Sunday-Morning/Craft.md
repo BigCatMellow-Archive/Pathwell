@@ -181,7 +181,7 @@ These are guides for judgment, not rules. Any of them can be broken on purpose. 
 
 ## Lessons from the author's line notes
 
-These rules come from his line notes on Pathwell's Chapters 1 and 2 (2026-10-01). He asked for them to be recorded "so that we can… make sure we keep the same quality". Each one links to the worked examples in [Line notes](Line-Notes.md): the note, the change and the reasoning ([D19](Decisions.md#standing-rulings)). Check a draft against them before it goes to him.
+These rules come from his line notes on Pathwell's Chapters 1 and 2 (2026-10-01), and rules 9 to 14 from his own markup of Chapter 1 (2026-10-23), where he made the cuts and rewrites himself. He asked for them to be recorded "so that we can… make sure we keep the same quality". Each one links to the worked examples in [Line notes](Line-Notes.md): the note, the change and the reasoning ([D19](Decisions.md#standing-rulings)). Check a draft against them before it goes to him.
 
 1. **Walk the scene physically** ([examples](Line-Notes.md#1-walk-the-scene-physically)). Know where everyone is, what they're holding, what they can hear and what they left with. Count the events: "again" has to mean a second time. A worry must be true to the situation (she has no wallet; she didn't lose her transportation). A physical cause needs physical distance (the table is at the curb, so a passing truck can blow the ticket away).
 2. **Every piece of knowledge needs a source on the page, and no one asks about what they just saw** ([examples](Line-Notes.md#2-every-piece-of-knowledge-needs-a-source-and-no-one-asks-what-they-just-saw)). If a character changes their mind, show what changed it (he smells the blob). If a wrong belief drives the plot, make it visible ("You really don't know?").
@@ -191,6 +191,12 @@ These rules come from his line notes on Pathwell's Chapters 1 and 2 (2026-10-01)
 6. **Check what each describing word suggests** ([examples](Line-Notes.md#6-check-what-each-word-carries)). "Crisp" pages sound new. Watch for the same phrase twice on one page. Don't trade one stock phrase for another.
 7. **Give two people a beat by having them answer each other** ([examples](Line-Notes.md#7-give-two-people-a-beat-and-let-them-answer-each-other)). An exchange that shows something about one of them does more than a stock gesture. An accusation is the speaker's reading of events; let the other character's reply correct it, not the narrator. Let a character take the other's word and turn it around ("crappy" → "Perfectly crappy").
 8. **Rhythm on the page** ([examples](Line-Notes.md#8-rhythm-on-the-page)). Give a beat that needs a moment its own paragraph. Two quips in a row with the same shape is one too many.
+9. **No reminders** ([examples](Line-Notes.md#9-what-his-own-rewrites-show), row 1). Don't re-tell the reader who is holding what or what they just saw. If a line only double-checks, cut it.
+10. **Stay in the viewpoint character's senses** (row 2). Others' perceptions and feelings come through what she can see and hear. A line describing what another character smells, feels or decides inside is a viewpoint slip.
+11. **Flow, with fragments for one beat** (rows 3 to 5). Join clauses with commas and "and", and let short paragraphs merge into one movement; comma splices are his voice, not errors to fix. Save a fragment for a pause a voice would make (an order, a held breath, an afterthought). Carrying a word forward into the next clause ("stillness, a stillness…") is his rhythm; don't trim it.
+12. **Everyday words, and a narrator who talks** (rows 6 and 7). Plain words someone would say aloud ("plastic", "dripped", "splattered"), a pronoun where the name is already clear, and spoken connectives in narration ("But there he was", "And there…").
+13. **Spoken lines over narrated reactions; save the signature word** (rows 8 and 9). Where a draft gives a look or a pause, give him something to say. Keep a word that pays off at the end (Pathwell's "Perfect.") out of casual use before it.
+14. **His brackets are requests** (row 10). A bracketed note about blocking or logic means he wants the staging solved: write the plainest fix and list it for him.
 
 **When pushing back on a note** ([examples](Line-Notes.md#where-a-note-was-adjusted-or-held-and-why)):
 
@@ -198,6 +204,7 @@ These rules come from his line notes on Pathwell's Chapters 1 and 2 (2026-10-01)
 - Before changing an object, check the promise ledger for everything that depends on it.
 - Keep the opening hook fast. Put the stakes just after it, not inside it.
 - Read all the notes together before applying any of them; two notes can collide.
+- His own rewrites get the same check. Raise a cost (an offstage action, a line that explains what the scene showed, a phrase repeated nearby) and let him choose ([examples](Line-Notes.md#questions-raised-about-his-own-rewrites-2026-10-23)). Don't apply his markup before giving feedback when he asks for feedback.
 - Fit a new idea to what the story already has before adding new lore.
 
 ## AI and the author: who writes what
