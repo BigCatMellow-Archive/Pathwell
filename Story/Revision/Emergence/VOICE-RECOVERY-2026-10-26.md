@@ -62,6 +62,8 @@ The author asked whether his early habit of describing gestures and movements (s
 
 **Audit impact:** Every before/after comparison involving a gesture must name whether it (a) establishes staging, (b) changes a character's intention or credibility, (c) carries timing/humor/embodied feeling, (d) contributes attachment/atmosphere, or (e) duplicates a nearby beat. Distinguish lost effects from repaired redundancy; **plot-information-only deletion tests are insufficient**.
 
+**Further specification after the author's clarification:** The half-nod is a small lateral/off-center movement timed to the phrase "Magically speaking." It is **a rhetorical hedge**, akin to "so to speak," rather than a deictic movement pointing at the residue, a firm agreement, or a sure sign Pathwell doubts the statement. The deception may be intentional throughout. Good editing preserves that mixture of verbal looseness and confident evasiveness; refer to [Line Notes §12](../../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26). Still **no change to canonical Chapter 1**.
+
 General owner: [Sunday Morning Line-Editing Protocol — action beats](../../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity); worked evidence: [Line Notes §12](../../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26). This is an analysis note; **no author-approved Chapter 1 wording or changed lock**.
 
 ## First tranche
