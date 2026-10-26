@@ -3006,3 +3006,38 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 **DO:** Added a detailed explanation to [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26): a small off-center dip or bob timed to "Magically speaking" acts as a **physical "so to speak"** — a rhetorical qualifier, not a gesture at an object, a definite assent or necessary indication of genuine doubt. Pathwell may know he's bluffing while performing noncommittal word-choice. Recorded two *illustrative, unapproved* prose phrasings. Linked its transfer to [Sunday Morning Craft](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity) and [Voice-Recovery Audit](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler). The test now asks what a gesture does **to the sentence**, not automatically what it points **toward**.
 
 **CHECK:** Documentation-only, direct on main by the author's request. Existing author-approved Chapter 1 unchanged, no scene patch, no chapter checker, no blind read, no new L4 status. This preserves R27's bluff, R58's paper-read gate, and all current locks.
+
+
+## P88, 2026-10-26: tone review, two cuts and EXP-0019
+
+**AUTHORITY:** [R60](Decisions.md#the-authors-rulings-for-this-revision). The author asked for all the tone notes to be read and the story checked against them. He then supplied the [Do-Not-Overliteralize rule](Author-Notes/2026-10-26_Do-Not-Overliteralize.md) and, shown the revised [tone review](Emergence/TONE-REVIEW-2026-10-26.md), said "Go for it." Branch `revision/p88-tone-pass-20261026`; the author merges.
+
+**READ:** the Voice Guide, Framework, Rules, Thesis, Writing Principles, Non-Negotiable Scenes, pathwell_prose_voice, the narrator register, forbidden_patterns, the character bible, the Tone North Star, the archived register and narration-mode guides, Writing Against Sameness, AI-Tells, Craft, Line-Notes, the Line-Editing Protocol, Before-You-Touch, the voice benchmark, the voice-recovery audit, the Oct 5 tone reports and the P55 follow-up. The review's scorecard: the gap, tonal range, warmth, weight, Pathwell's madness and Elizabeth's growing play all hit. The misses are stated theme, itemized grief, explained magic and some repetition.
+
+**DO (change notes from the diff):**
+
+- **Ch16:** cut the crying list's last item, "For the fact that choosing Milo had been right and had still cost her things she wanted back." It was the thesis at the emotional peak (A). It had been a reviser lean kept in P54, not an author pick. The list now ends on "…still managed to owe Milo a card game."
+- **Ch18:** cut "She had asked him to bring her here. That didn't make the next step his." The narrator was stating what "Do you want to come?" shows (A). **Flag:** the line came in with the Version C prose test (EXP-0004C) the author picked under R47. Revert if he wants it.
+- **Harada:** box p1-8-6 ("The next step isn't his") now quotes `"Do you want to come?" she asked.`
+- **Candidates:** [EXP-0019](Emergence/experiments/EXP-0019-Tone-Review-Candidates-2026-10-26.md) holds seven patches:
+  - B1a/B1b, the Ch1 half-nod; B1a is the author's own P83 wording, lean take;
+  - B2, Ch14 "The working knows…";
+  - B3a/B3b, the Ch17 "evidence" line;
+  - B4, the Ch17 adventure paragraph;
+  - B5, the Ch4 cookbook closer.
+
+  It also records ten withdrawn recommendations and the reason for each.
+- **Records:** R60; the rule saved verbatim in Author-Notes; the tone review saved in Emergence (its §8 supersedes §3 where they differ); the Emergence index; Revision Status.
+
+**CHECK (after-every-pass):**
+
+1. **Targets:** both cuts serve the thesis test. No ruling is broken; the R47 flag is above. No world rule touched. Done.
+2. **Shapes:** Ch16 and Ch18 openings, engines and endings are unchanged; no Registry update. Done.
+3. **Checker:** run before and after. The only movements: "choice words (theme density)" fell from 19 to 18 (Ch16 3 → 2), and paragraph counts dropped by one each in Ch16 and Ch18. Done.
+4. **Scene diagnostic:** Q4 ("did anyone, including the narrator, explain what the scene already showed?") is the reason for both cuts. Done.
+5. **Fresh check:** **not done.** No independent pass ran. Owed before L4, with the blind read.
+6. **Replacement tic:** both are pure cuts; nothing added. Done.
+7. **Deliberate ambiguity:** untouched. Done.
+8. **Change notes:** from the diff, above. Ledger: no setup or payoff affected. Status note added. Done.
+
+**Harada check:** 22 errors before and after. They are pre-existing, mostly from Ch1 changes since the chart was built; the page isn't rebuilt. **Story/Pathwell.txt is not reassembled**; run `assemble_manuscript.py` on merge if the assembled copy should follow.

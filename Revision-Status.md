@@ -45,6 +45,8 @@ Details for every chapter: the [assessment](Story/Revision/Assessment-2026-09-29
 
 ## What's next
 
+**Tone review, 2026-10-26 ([P88](Story/Revision/Pass-Log.md#p88-2026-10-26-tone-review-two-cuts-and-exp-0019)):** On the author's "Go for it" (R60), two stated-theme cuts were applied: Ch16's last crying-list item and Ch18's "That didn't make the next step his." Seven candidates wait in [EXP-0019](Story/Revision/Emergence/experiments/EXP-0019-Tone-Review-Candidates-2026-10-26.md). Chapter levels are unchanged (L3), and R58's paper read is still the next step.
+
 **Documentation-only source audit, 2026-10-26 (P80):** The author's earliest draft has been added as a historical source and a [voice recovery audit](Story/Revision/Emergence/VOICE-RECOVERY-2026-10-26.md) begun with an [informed Chapters 1–3 evidence ledger](Story/Revision/Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md). This preserves source comparisons and provisional editor findings **without a manuscript pass, author picks or L4 read**. The author's R58 order below is **not** reset or waived.
 
 *Rewritten 2026-10-23 after [P77](Story/Revision/Pass-Log.md#p77-2026-10-23-the-authors-exp-0018-picks). The author set this order (R58): one step at a time. The previous list is in git history.*
