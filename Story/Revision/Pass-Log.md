@@ -2907,3 +2907,30 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 **CHECK:** Every new anchor resolves. No chapter changed. Routine (D23): not applicable (no prose changed).
 
 **RECONCILE:** Pass Log only; R59 already records the markup.
+
+
+## P80, 2026-10-26: earliest first-draft source and voice-recovery audit started
+
+**AUTHORITY:** The author identified his separately supplied `pathwell - work.docx` as the first draft, distinguished it from the intermediate `Pathwell Working` document, discussed ways revision may have normalized expressive prose, and explicitly asked to put that work in this repo and begin a voice-recovery audit. The existing [R58](Decisions.md#the-authors-rulings-for-this-revision) manuscript sequence (paper read-through first) remains the gate for **applying** future prose changes; this pass performs historical documentary research only.
+
+**DO:**
+- Saved an exact-words **plain-text export** of the author's earliest linked draft as [Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), preserving its spelling, bracket notes, alternate plot and historical status. Original Word layout is not preserved. Existing [`Pathwell Working.docx`](../Archive/Manuscript/Pathwell%20Working.docx) and [Voice-Benchmark extracts](Voice-Benchmark/README.md) were reused, not duplicated. Voice-Benchmark and archive indexes updated.
+- Wrote the [voice recovery protocol and provenance](Emergence/VOICE-RECOVERY-2026-10-26.md) and [selected Chapters 1–3 evidence ledger](Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md): 13 labeled comparisons across first draft, intermediate author's text, pre-August benchmark and current manuscript. Comparison judgments are **provisional informed editorial notes**, not selected novel patches or blind reads.
+- Added to the existing [line-editing procedure](../Sunday-Morning/Line-Editing-Protocol.md#literal-correctness-is-not-the-test-for-figurative-language) a guard against mistaking metaphoric transferred actions for factual errors. Added a historical clarification to [Line Notes](../Sunday-Morning/Line-Notes.md#10-correction-to-a-literalist-editorial-objection-2026-10-26): "a smell doesn't splatter" is not sufficient reason to cut the author's `wet-rot splattered` line.
+- Indexed evidence in [Emergence](Emergence/INDEX.md) and marked [Revision-Status](../../Revision-Status.md) without changing the author's next-step sequence.
+
+**PRELIMINARY RESULT:** The bookstore's broad, cumulative first-draft catalogue (**V10**) is the strongest potential *voice-effect* recovery. The door's panic and cookbook's "seasoned" verb demonstrate author instincts but do not justify reversing story-locked opening/staging. The bad-food line and Boots's blood-god joke survive in improved forms; the current cookie-memory embodiment is stronger than the long first-draft spell. No blanket restoration of early prose justified.
+
+**CHECK (D23 after-every-pass, reported individually):**
+1. Book targets and authority: **done** — AGENTS, Before You Touch a Chapter, R11, R27, R58 and the author benchmark used. No authority change, no new story canon.
+2. Shapes before sentences: **not applicable** — no manuscript edit or scene structural change.
+3. Checker: **not run / not applicable to documentation-only change** — no chapter text, assembled manuscript or length changed; do not claim a checker pass.
+4. Scene diagnostic: **not applicable** — no scene changed.
+5. Fresh independent check: **not done** — this is an informed source comparison; it cannot approve its own candidate and counts for no L4 status.
+6. Reader protocol: **not applicable** until R58 sequence and a genuinely unprimed reader.
+7. Replacement tic: **not applicable** — no prose replacements.
+8. Deliberate ambiguity: **done** — existing Q-Q opening hook and Q-O neighborhood issue left open; no pruning mechanic or author taste decision asserted.
+9. Change notes / diff: **done** — only archived historical reference, editorial notes and linked method/index/status; no `Story/Chapters/Chapter_*.txt` changes.
+10. Tenth seat: **not applicable** — no consequential prose choice adopted.
+
+**RECONCILE:** Source benchmark/Archive README, Emergence index, Line Notes, Line-Editing Protocol and Revision Status updated. No R-row added (the author made no new novel ruling). All chapters remain **L3**. An actual chapter-by-chapter exhaustive recovery map, source-diff lineage and approved EXP patches remain **not done**.
