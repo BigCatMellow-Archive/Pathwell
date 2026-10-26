@@ -6,6 +6,8 @@
 
 ## The manuscript
 
+**2026-10-26 P87 (draft branch only):** The voice-recovery project now has **18 full V2 chapter alternatives** and a [single 52,147-word continuous comparison draft](Story/Revision/Emergence/Voice-Recovery-Drafts/Pathwell_Voice_Recovery_V2_Complete.txt). Ch3–18 received a second, deeper scene-level pass, with the [V2 review](Story/Revision/Emergence/Voice-Recovery-Drafts/V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) tracking protective reversions and the rule against manufactured foreshadowing. All remain **unapproved candidates**. The canonical `Story/Chapters/`, assembled `Story/Pathwell.txt`, author's R58 read-through gate and chapter L3 statuses are unchanged. See [P87](Story/Revision/Pass-Log.md#p87-2026-10-26-second-scene-level-full-novel-voice-recovery).
+
 **2026-10-26 P85 (draft branch only):** There are now [18 full alternative voice-recovery chapters](Story/Revision/Emergence/Voice-Recovery-Drafts/README.md) in the active draft PR, with Chapter 1–2 comprehensive expanded versions and Chapters 3–18 progressively more selective editorial experiments. They **are not current canon**; every `Story/Chapters/Chapter_*.txt` file is unchanged in this PR. The author has not selected any new wording, and the R58 reading gate and chapter-level L3 status do not move. See [P85](Story/Revision/Pass-Log.md#p85-2026-10-26-full-novel-voice-recovery-draft-alternatives).
 
 
