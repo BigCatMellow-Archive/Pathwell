@@ -3006,3 +3006,78 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 **DO:** Added a detailed explanation to [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26): a small off-center dip or bob timed to "Magically speaking" acts as a **physical "so to speak"** — a rhetorical qualifier, not a gesture at an object, a definite assent or necessary indication of genuine doubt. Pathwell may know he's bluffing while performing noncommittal word-choice. Recorded two *illustrative, unapproved* prose phrasings. Linked its transfer to [Sunday Morning Craft](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity) and [Voice-Recovery Audit](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler). The test now asks what a gesture does **to the sentence**, not automatically what it points **toward**.
 
 **CHECK:** Documentation-only, direct on main by the author's request. Existing author-approved Chapter 1 unchanged, no scene patch, no chapter checker, no blind read, no new L4 status. This preserves R27's bluff, R58's paper-read gate, and all current locks.
+
+
+## P85, 2026-10-26: full-novel voice-recovery draft alternatives
+
+**AUTHORITY:** After reviewing the author's earliest draft, studying the author's own Chapter 1 rewrite and the corrected non-directional "Magically speaking" half-nod, the author requested: "lets put ch1 and 2 here on the repo, and lets do the rest of the story like this." This pass creates **comparison alternatives**, not replacement chapters, consistent with [Before You Touch a Chapter](Before-You-Touch-A-Chapter.md) and the R58 paper-read gate.
+
+**DO:** Created [Voice-Recovery-Drafts](Emergence/Voice-Recovery-Drafts/README.md), a complete collection of **18 full chapter files** on branch `draft/voice-recovery-full-novel-20261026`, plus a draft pull request. Ch1 V2 and Ch2 V2 reproduce the full conversational examples shared with the author, without promotion into the canonical manuscript. Ch3 and Ch4 received medium/substantial selective passes restoring narrator observation, bookstore lived-in cataloguing, physical behavior and conversational rhythms; the pruning ritual and Elizabeth's cookbook choice were preserved. Chapters 5–18 received **lighter, deliberately selective** voice passes (3–5 hand-placed sentence/paragraph treatments per chapter), usually leaving already strong dialogue, physical scenes, major losses and accountability unchanged. All are full text and labelled as **unapproved alternatives**.
+
+**WHAT THIS IS NOT:** 18 equally deep line-by-line rewrites, a claim that all additions improve on the source, a substituted new canonical manuscript, a second archive of the author's actual first draft, or a blind reader verdict. The draft index explicitly identifies intensity by chapter and flags where added narrator commentary may be redundant. The author's voice remains the arbiter; the added prose is assistant-written.
+
+**Checks and exceptions (D23):**
+1. Author locks: **checked** — Ch1 R11 opening, Ch3 prune/vow and "Don't make anything of that," Ch15 rescue/evacuation and Shade loss, Ch18 "I could have called someone. I didn't." and the exact closing three-line exchange kept in the alternatives.
+2. Whole-scene shapes: **selective only** — Ch3–18 begin from current canon and change identified passages rather than recreating scenes or introducing new major plot.
+3. Checker: **not run** — no changes to `Story/Chapters` and automated style/count checks are not a reliable voice verdict. Verify after any author-selected patch.
+4. Scene logic: **structural checkpoints inspected**, but full line-by-line continuity not independently certified.
+5. Fresh independent read: **not run**.
+6. Reader protocol: **not run**; no L4 promotion.
+7. AI sameness: **self-review caution recorded** in index — first two expanded versions may over-explain emotional beats or add too many comedic asides; later dramatic chapters consciously restrained, but all additions still need author approval.
+8. Open ambiguity/author ownership: **preserved**; no new lore as a ruling; a fabricated Lemon sign in initial Ch17 pass was retracted before documentation completion.
+9. Change records: **done** — index identifies each draft and relative intervention scope, with no hidden canonical edits.
+10. Tenth seat: **not applicable** until an author-approved prose change is tested.
+
+**RECONCILE:** Only draft alternatives and branch-specific method/status documentation changed. Existing canonical chapter files remain untouched on the feature branch and on `main`. The PR is a **draft** and must not be merged without author selection and regression review.
+
+
+## P86, 2026-10-26: cross-chapter foreshadowing and callback audit
+
+**AUTHORITY / ASK:** After author-requested 18-chapter voice-recovery alternatives were created (P85), the author noted another feature to preserve: "things like foreshadowing, callbacks, references within the story." This pass adds **cross-chapter continuity of narrative effects** to the alternatives before any adoption of prose, with the [canonical Promise Ledger](Promise-Ledger.md) as sole setup/payoff owner.
+
+**DO:** Compared the full 18 current `Story/Chapters/` texts with the 18 full alternate texts and [Promise Ledger](Promise-Ledger.md) entries, checking occurrence and function of the major plants, echoes, custody chains and payoff choices. Added [**FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md**](Emergence/Voice-Recovery-Drafts/FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md) to the existing voice-recovery draft folder: 22 cross-book connections and a seven-step evaluation gate, grouped by existing owner IDs. Updated the [draft collection README](Emergence/Voice-Recovery-Drafts/README.md) and [Emergence index](Emergence/INDEX.md) rather than creating a second Promise Ledger.
+
+**Two draft corrections justified by cross-chapter evidence:**
+- **Ch8 comparison version:** Removed new narrator explanation that the ditch crash was "still a choice," duplicating current "She had time to choose" and drawing attention away from the **bare Ch1 first-line echo**. Kept the causal and emotional scene untouched.
+- **Ch18 comparison version:** Removed an assistant-added claim Boots remembered *unpaid* tribute; the cat actually drew blood in Ch3, and the Ch18 "He remembers winning"/Elizabeth scar is the established delayed payoff. No additional cat joke is needed before that beat.
+
+**Open author decisions / risks:** Ch2 draft adds personal history (spoon packed for movers; leaving because staying felt worse), not established merely by existing Canon. Ch3 draft expands unmailed cards, handwritten music and other lived-in archive detail, which may strengthen affection but introduce unintended story promises if overemphasized. Ch4/15 expand narrator comments near important choices, possibly muting the clean internal echo of "That was the choice"; Ch18 extra waiting commentary might explain an agency reversal already dramatized. Marked **review**, not auto-edited. Foreshadowing is not a demand to make every object significant, and a theme is not necessarily a future plot question.
+
+**AFTER-PASS CHECK (D23; scope: **unapproved alternative drafts / documentation**):**
+1. Source/rulings: **done** — active Promise Ledger, Before-You-Touch-A-Chapter, author rulings and main chapters consulted; no new lore or event settled.
+2. Whole-book shape: **inspected anchor chains**, not a complete independent full prose read; no restructuring.
+3. Automated checker: **not run**, no canonical story edits. Keyword counts alone cannot certify emotional callbacks; the audit explicitly disclaims that inference.
+4. Scene causality: **examined for 22 links**, with book-past/book-future checks; not comprehensive line-by-line proof.
+5. Independent fresh review: **not run**, and no promise of L4.
+6. Reader protocol: **not run**; author paper-read gate R58 remains.
+7. Repetition / AI tics: **two concrete draft regressions removed**; still review other assistant-added explanatory sentences.
+8. Intentional ambiguity: **preserved**; blob's original target, prune background, Shade's agency and the confession's audience follow author decisions.
+9. Record reconciliation: **done** — draft audit cross-references canonical Promise Ledger; no duplicate ledger or rewriting the canon's P/O/R/L rows; draft README and Emergence INDEX updated.
+10. Tenth seat: **not applicable**, no author-approved new prose applied.
+
+**STATUS:** This is a **preliminary comparison audit**. The branch remains `draft/voice-recovery-full-novel-20261026`, draft PR #8 remains open/unmerged, and all canonical novel chapters stay as in main.
+
+
+## P87, 2026-10-26: second scene-level full-novel voice recovery
+
+**AUTHORITY / ASSIGNMENT:** The author asked to continue the full rewrite after the first run staged extensive Ch1–2 alternatives but only a light first-pass treatment of much of Ch3–18. Their subsequent clarification rules out mechanically adding foreshadowing: good planting works **backwards from a concrete future payoff**, and the current story probably needs little conventional foreshadowing beyond its existing causal foundations and callbacks.
+
+**DO:** Worked from the current canonical chapters and first-run V1 alternatives, with the author's voice notes, P84 nod clarification, [Before-You-Touch-A-Chapter](Before-You-Touch-A-Chapter.md), Decisions and [Promise Ledger](Promise-Ledger.md) as guardrails. Developed new **full standalone V2 alternative texts for Chapters 3–18**, materially revisiting 12–17 chosen paragraphs/beats per chapter in addition to the existing V1 edits, leaving already strong dialogue and serious consequences alone. Chapters 1–2 retain their prior full expanded V2 texts. Finished a single in-order [52,147-word 18-chapter V2 reading manuscript](Emergence/Voice-Recovery-Drafts/Pathwell_Voice_Recovery_V2_Complete.txt) in the alternative draft folder; its source chapters are individually linked in the [V2 draft inventory](Emergence/Voice-Recovery-Drafts/README.md).
+
+**Aesthetic approach:** Restore personally inflected observation, textured physical gestures, ordinary material life and wrong-priority humor where they belong. Do **not** turn every dialogue beat into a physical action, overstate the meaning of gestures, invent facts that demand later payoff, or add jokiness to fire, loss or culpability. The climax Ch14–16, restitution Ch17 and invitation Ch18 received deliberate restrained passes.
+
+**Source-aligned self-corrections:** Retired a V2 Ch15 extra sentence that made Elizabeth overconfident about the future of Nana's cookbook, a Ch16 interpretation of Mama Baga's kindness after the gesture spoke for itself, a Ch17 invented landlord cleaner interaction, a Ch17 weakening of the original-vs-facsimile observation, another Ch17 expansion of the deliberately brief **"She called it evidence"** line, and a Ch17 passage that blurred the threshold constraint; Ch18 reverted several extra explanations at the recipe shelves, Pathwell's silent book refusal, Shade's coffee memory and the return to asking for the route. All are described in the [V2 scene and callback review](Emergence/Voice-Recovery-Drafts/V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md).
+
+**CHECKS (documentation / comparison drafts only):**
+1. **Author locks and decisions:** key exact lines and events **checked present** in V2: Ch1 fixed opener and concluding exchange; Ch3 ritual including the vow, Latin, million voices and final "Don't make anything of that"; Ch4 full voluntary cookbook gift and "That was the choice"; Ch5 dagger seed; Ch6 mirror/draw; Ch7 Elizabeth's extraction and target misreading; Ch8 bare crash echo; Ch9 bad-coffee/target uncertainty and Shade's ask; Ch10 personal-cost/pruning admission; Ch11 gallery originals, injury and Camp choice; Ch12 donation consent; Ch13 Hearts/green jacket/pockets; Ch14 Shade refuses reintegration; Ch15 Shade calls for help, Milo survives, books burn and Shade is lost; Ch16 memorial `LIKED POCKETS`, apology and qualified grief; Ch17 information vs original and evidence-not-redemption; Ch18 non-calling confession and exact locked final exchange.
+2. **Sequence and packaging:** assembled reading version built from the eighteen actual V2 chapter files, with each chapter title once and the final exchange exact. **52,147 whitespace-delimited words** in compiled version.
+3. **Canon impact:** **none**. The entire PR is alternative prose and branch-only status documentation; original `Story/Chapters/` and `Story/Pathwell.txt` remain unchanged.
+4. **Novel checks / language:** **not run** for this unapproved alternative; keyword and scene presence do not certify every new inference, reader recognition, precision, originality, or emotional pacing.
+5. **Independent blind read:** **not done**; no L4 or publication claim.
+6. **Author R58 paper read:** still required before accepting any new manuscript prose; no author-selected variants or automatic R-row updates.
+7. **Repetition and physical blocking:** checked against author-owned rhetorical half-nod and purposeful-gesture principle; some new lines may still over-explain and are explicitly flagged for comparison.
+8. **Foreshadowing:** no mandate for a new clue quota. The existing [Promise Ledger](Promise-Ledger.md) owns the book's setups, and any new clue must be justified **backward from a missing later foundation**.
+9. **References and decisions:** branch draft README, Emergence index, V2 review and PR updated; V1 left visible for historical comparison. No competing promise ledger created.
+10. **Tenth seat:** not applicable absent an adopted canonical change.
+
+**STATUS / HANDOFF:** [Draft PR #8](https://github.com/BigCatMellow-Archive/Pathwell/pull/8) now contains an **18-chapter complete V2 reading alternative**, not an approved final manuscript. The proper next step is *author comparison and selection* of individual gains; wholesale merging into canonical prose would bypass R58 and author-owned expressive choices.
