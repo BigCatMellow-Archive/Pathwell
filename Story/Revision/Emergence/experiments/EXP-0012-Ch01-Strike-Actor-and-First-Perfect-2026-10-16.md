@@ -2,6 +2,7 @@
 
 **Date:** 2026-10-16  
 **Status:** INFORMED TEXT/CANON COMPARISON + THREE NONCANONICAL CONTROLLED VERSIONS; **NOT APPLIED TO MANUSCRIPT; AUTHOR CHOICE / UNPRIMED READ OPEN**  
+**Current disposition (2026-10-22):** the strike was staged as W20 (P61); the first "Perfect." became the author's own "Good… that's good." under [R61](../../Decisions.md#the-authors-rulings-for-this-revision) (P86).  
 **Source:** [current Chapter 1](../../../Chapters/Chapter_01.txt), after the author-selected EXP-0011 C and small October 8 line fixes; [author's R38 notes](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md) ¶59/¶83; [current triage](../CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md).  
 **Rules:** [active world bible](../../../Story_Files/world_bible.md); [voice benchmark](../../Voice-Benchmark/Author_Chapter_01_before-2026-08-28.txt); [non-negotiable scenes](../../../../Non-Negotiable-Scenes.md).
 

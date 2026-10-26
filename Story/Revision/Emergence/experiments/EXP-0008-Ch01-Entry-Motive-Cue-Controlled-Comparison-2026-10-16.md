@@ -2,6 +2,7 @@
 
 **Date:** 2026-10-16  
 **Status:** **CANDIDATE B SELECTED BY AUTHOR AND IMPLEMENTED IN CHAPTER 1 (R48 / P56)**; informed comparison complete, **uninformed reader comparison and broader R38 author-notes pass still open**  
+**Current disposition (2026-10-22):** the broader R38 author-notes pass was done in [P86](../../Pass-Log.md#p86-2026-10-22-the-authors-own-ch1-line-notes) ([R61](../../Decisions.md#the-authors-rulings-for-this-revision)); his remaining requests are in [EXP-0022](EXP-0022-Ch01-Author-Note-Requests-2026-10-22.md).  
 **Decision owner:** Author  
 **Scope:** The two paragraphs between the opening party inventory and first blob thud; no new scene/prologue, no additional subplot, no production manuscript changes.  
 **Parent:** [EXP-0007](EXP-0007-first-act-information-debt-2026-10-16.md), [author clarification](../AUTHOR-FEEDBACK-2026-10-16-Opening-Choice-Invitation.md), original [Aug 22 party-entry intent](../../../Interview/BIBLE_DECISIONS_2026-08-22.md#3-chapter-1-entry-and-false-importance-setup), [R38 line notes](../../Author-Notes/2026-10-08_Chapter-01_line-notes.md).

@@ -8,7 +8,7 @@ The [Framework](Sources/Framework.md) sets tone and stakes; this page applies it
 
 ## Tone guardrails
 
-Every collection is Sunday Morning first (a [standing ruling](Decisions.md#standing-rulings)). Check every pass against the Framework's core promise, "You do not need to brace yourself", before checking it against the voice guide. The guide's "that was unexpectedly sad" is welcome only inside that promise.
+Every collection is Sunday Morning first (a [standing ruling](Decisions.md#standing-rulings)). The guardrails protect a feeling, not a checklist; [what it's for](README.md#what-its-for) says which feeling. Check every pass against the Framework's core promise, "You do not need to brace yourself", before checking it against the voice guide. The guide's "that was unexpectedly sad" is welcome only inside that promise.
 
 - **One sad moment, said once.** Don't tell the same loss two or three ways. (In the first collection, one story told the same estrangement three times; it was cut to one.)
 - **Then give the reader somewhere soft to land:** warmth, absurdity or food right after.

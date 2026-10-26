@@ -4,7 +4,7 @@
 
 Two registers in the narration: **clinical precision** and **irreverent oral storytelling**. Both are correct. Knowing when to use each is the difference between narration that lands and narration that's just stage direction.
 
-This guide is the Pathwell-specific companion to `cadence-rhythm-euphony-ai-review-guide.md` and `natural-oral-storytelling-prose-ai-guide.md`. Read those first for the general framework. This file applies it to this book.
+This guide is the Pathwell-specific companion to `cadence-rhythm-euphony-ai-review-guide.md` and `natural-oral-storytelling-prose-ai-guide.md`. Read those first for the general framework. This file applies it to this book. *(2026-10-22: both are now in [Story/Archive/Voice-notes](../Archive/Voice-notes/), so they're background, not authority; where they differ from this page or the author's [voice guide](../Sunday-Morning/Sources/Voice-Guide.md), those win.)*
 
 ---
 

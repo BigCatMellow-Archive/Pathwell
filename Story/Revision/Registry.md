@@ -30,6 +30,7 @@ Every named person in the manuscript. The Story column is the chapter where the 
 | Ch04 | Olan | Camp; disputes the creek crossing (offstage) | minor |
 | Ch04 | Hess | Camp; dead 22 years, still quoted in the road book | minor |
 | Ch04 | Stansbury | Pathwell's older brother; imbues foam weapons | cast |
+| Ch05 | Ken | the teacher at Stansbury's school (added 2026-10-23) | minor |
 | Ch08 | Shade | made from Pathwell's failed prune | cast |
 | Ch09 | Celia | in Shade's inherited memories ("hated pears") | minor |
 | Ch10 | Ellison | estate whose unsent letters Stansbury keeps | minor |
@@ -50,7 +51,7 @@ Every named person in the manuscript. The Story column is the chapter where the 
 
 The template's [name rules](../Sunday-Morning/Registry.md#name-rules) apply. For this book:
 
-- **Crowded letters:** E (Elizabeth, Elsie, Ellen, Ellison), M (Mama Baga, Milo, Margaret, Mara, Merritt), S (Stansbury, Shade, Sam). Pick any new name from open letters: A, B, F, G, I, K, Q, T, U, V (Vale is taken), W, X, Y, Z.
+- **Crowded letters:** E (Elizabeth, Elsie, Ellen, Ellison), M (Mama Baga, Milo, Margaret, Mara, Merritt), S (Stansbury, Shade, Sam). Pick any new name from open letters: A, F, G, I, Q, T, U, V (Vale is taken), W, X, Y, Z. *(2026-10-23: B is taken by Baga, Bell and the cat Boots, and K by Ken. Animals crowd letters too: Thumper, Boots.)*
 - **Place names in use:** Camp Cunnan, the Space Between, the museum (unnamed town), Prague (in Pathwell's past). New places stay unnamed unless a scene needs the name.
 - *Rename log:* none yet.
 - *Expected checker notes:* the Vale family (Daniel, Henry) and the Merritt/Pike family share surnames on purpose. `Ell-` (Ellen, Ellison) and `Mar-` (Margaret, Mara) are minor names in different chapters; leave them unless a pass puts them on the same page.
@@ -67,7 +68,7 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 | 4 | arrival at Camp; the dying woman | a gift (the whole cookbook) | tender | "She had assumed…the word camp would mean something she could leave." | "Camp Cunnan kept being a place without asking permission." (she follows) |
 | 5 | the portal to the school; meet Stansbury; the order of events | a question ("Was it?") | brisk comic | a field at dawn; the portal (the author's, P25) | "Elizabeth followed him inside." |
 | 6 | the bar; the mirror (Pathwell POV section) | a realization ("Mine.") | warm, then uneasy | "The bar wasn't nearly as dingy as she'd imagined." (the author's, P28) | "Then, from the far side of the Cadillac, a thud. / Wet. Heavy." (cliffhanger; echoes Ch1's first thud) |
-| 7 | blob takes Pathwell | an act (Elizabeth cuts him out); then being shut out | action, anger | "The smell reached Elizabeth before the shape did." | "For the first time since the apartment, nobody was telling Elizabeth where to go." |
+| 7 | blob takes Pathwell | an act (Elizabeth cuts him out); then being shut out | action, anger | "The smell reached Elizabeth before the shape did." | "For the first time since the apartment, nobody was telling Elizabeth where to go." *(2026-10-23: cut by R56; now "…a long empty stretch of road with nothing coming the other way.")* |
 | 8 | the withheld prune | an act (the deliberate crash); Shade arrives | defiance | "Elizabeth chose the ditch." | "Too late to call it an accident." |
 | 9 | the diner | a conversation (Shade: "You were never the point") | quiet, sharp | "The radio glowed blue through the dark." | she walks back ("She had a question now, and this time she intended to make him answer it.") |
 | 10 | the walk home and the tracking working (brothers' POV, the author's, P33); the Ask | a confession ("But you still chose it." / "Yes.") | brothers' banter, procedural, then bare | "She'd been walking for a little over an hour." | "Pathwell didn't correct the route." |
@@ -76,8 +77,8 @@ The book's variety lives here. Filled in from the manuscript as it stood at pass
 | 13 | Shade becomes a person at Camp | a choice ("I want to stay here.") | warm, funny | "By full morning, Elizabeth was still by the central fire when Mama Baga stopped beside Shade…" (P38) | "Then the threshold opened." (cliffhanger) |
 | 14 | the forced rejoining; boundary warning and archive ignition (P54) | a forced act (Pathwell proceeds against every no) | dread, disaster | "The threshold opened onto the unfinished hand of Hearts." | "And inside it, Milo shouted again." (cliffhanger) |
 | 15 | simultaneous archive fire, Milo rescue, Shade's involuntary cleanup capture (P54) | acts (Elizabeth chooses Milo; a bystander tries to help Shade; Shade fights for life; Pathwell visibly watches without calling) | fear, grief | "Elizabeth reached the archive as the bucket line was still forming." | "Shade did not either." |
-| 16 | aftermath; restitution terms | people (a hearing, a boundary: "Let it be.") | grief, dry | "Elizabeth was sitting in the dirt and didn't remember sitting down." (P41) | "…for once Pathwell would not be the person deciding what those things were." |
-| 17 | three weeks of restitution; the Henry Vale refusal, seen from Elizabeth's side table (P42) | behaviour over time (corrections accepted) | dry comic | "By the third morning, Pathwell had learned that restitution contained more rulers than magic." | "Not because she knew where she wanted to go yet. / Because she wanted to go." |
+| 16 | aftermath; restitution terms | people (a hearing, a boundary: "Let it be.") | grief, dry | "Elizabeth was sitting in the dirt and didn't remember sitting down." (P41) | "…for once Pathwell would not be the person deciding what those things were." *(2026-10-23: cut by R54; now "Then she went to sleep because morning was going to require things from all of them.")* |
+| 17 | three weeks of restitution; the Henry Vale refusal, seen from Elizabeth's side table (P42) | behaviour over time (corrections accepted) | dry comic | "By the third morning, Pathwell had learned that restitution contained more rulers than magic." | "Not because she knew where she wanted to go yet. / Because she wanted to go." *(2026-10-23: cut by R54; now "Elizabeth smiled.")* |
 | 18 | a visit asked for; silent Merritt cookbook return; later shame confession (Version C) | a refusal and belated admission (Pathwell); an invitation and chosen journey (Elizabeth) | grave, then curious/wry | "Three weeks and four days after the archive burned, Elizabeth called Pathwell…" | "Are you ready?" / "No." / "Perfect." |
 | Coda | Pathwell alone at the counter; a failed prune | an errand card | wry | "The Space Between smelled the same as it always had…" | "Are you ready?" she said. / "No," he said. / "Perfect." |
 
@@ -98,7 +99,7 @@ Reuse one only on purpose, and never in the next chapter. Counts are from pass P
 | Milo's falling sock | 4, 12, 13, 14, 15, 16 |
 | "Lizzy—" / "Elizabeth." correction | he hears it in Nana's echo in 1 (R21; the banner reads WELCOME ELIZABETH); first said in 2; corrected in 3, 7, 8, 10, 14; inverted in 16 ("He did not say Lizzy.") |
 | The Space Between coffee memory recited ("late nights spent studying") | 3, 9, 10, 13, 18 |
-| Pathwell goes still as a tell | 1, 4, 5, 6, 7, 8, 10, 11 and later |
+| Pathwell goes still as a tell | 1, 4, 5, 6, 7, 8, 11 (one each in 10, 11 and 16 cut in P77) |
 | A found document read aloud as a small payoff (accession card, road book, Merritt margins) | 4, 11, 17, 18 |
 | Unnamed functional roles (healer, archivist, shopkeeper, curator) | throughout; deliberate, but see [Open for the author](Decisions.md#open-for-the-author) on the healer |
 | Rhymed choices: "It was an absurdly small decision. / It was still hers." → "The choice was ridiculous. / It was still hers." | 2 → 17 |
