@@ -52,6 +52,18 @@ Before flagging an apparent impossibility, distinguish:
 
 Procedure owner: [Line-Editing Protocol](../../Sunday-Morning/Line-Editing-Protocol.md) (figurative-language guardrail, added in this branch); voice owners remain the existing two [Story_Files guides](../../Story_Files/).
 
+## Additional diagnostic — character movement is not automatically filler
+
+The author asked whether his early habit of describing gestures and movements (sometimes called "blocking") was a real defect or had been lost to overly reductive editing. **Answer: both effects occurred in different passages.** Repeated searching/turning/nodding can delay an urgent scene, while a small physical action can make the dialogue comprehensible *as behavior* rather than just information.
+
+**Source example — current Ch1:** `He nodded at the ooze drying on her walls.` followed by `"Your house has now been marked. Magically speaking. So we should probably be anywhere but here."` The gesture helps Pathwell persuade Elizabeth using an object in the room; the claim itself remains his bluff (R27). The author's hypothetical `"... Magically speaking," he said, nodding his head to the side` is expressive but less spatially precise. Here the later version improves **specificity**, not "less blocking."
+
+**First-draft counterexample:** many box-search motions and multiple attempts to say "Hey" before Elizabeth gets a reply can create an unwieldy repeated action loop. Tightening these is useful. Do not therefore delete the vivid image of her courage borrowed from a baseball bat or the movement used to sell the marked-house deception.
+
+**Audit impact:** Every before/after comparison involving a gesture must name whether it (a) establishes staging, (b) changes a character's intention or credibility, (c) carries timing/humor/embodied feeling, (d) contributes attachment/atmosphere, or (e) duplicates a nearby beat. Distinguish lost effects from repaired redundancy; **plot-information-only deletion tests are insufficient**.
+
+General owner: [Sunday Morning Line-Editing Protocol — action beats](../../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity); worked evidence: [Line Notes §12](../../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26). This is an analysis note; **no author-approved Chapter 1 wording or changed lock**.
+
 ## First tranche
 
 The [Chapters 1–3 evidence ledger](VOICE-RECOVERY-CH01-03-2026-10-26.md) begins the audit. This is a **selected-passages** read of the supplied first draft, intermediate working versions and main manuscript, not an exhaustive every-line comparison. Keep confidence appropriately limited. Starting focus: opening energy vs R11 lock; cookbook sensory magic; "splattered"; Pathwell's appetite/comic register; bookstore catalogue vs embodied emotion and staging.
