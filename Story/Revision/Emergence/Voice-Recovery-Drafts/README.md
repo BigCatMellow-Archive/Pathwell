@@ -22,31 +22,47 @@ In Chapter 1, the tiny sideways half-nod on "Magically speaking" is a **rhetoric
 
 Other high-value guards: Ch1 starts "It was the crash that woke her"; she can hear Nana through the recipe's echo; "marked" is an untrue claim over a real misread threat; preserve the book's causality and Elizabeth's choices; Ch3 prune contains its tome, vow, Latin, growing/burning tree and extinguished million voices, and ends on "Don't make anything of that"; Ch4 Elizabeth freely offers the cookbook and later chooses to travel; Ch14–18 keep the accountability events and Ch18 closing three lines unchanged.
 
-## Draft inventory
+## Full draft inventory
 
-| Chapter | File | Treatment | Status |
+**Every chapter now has a full standalone comparison file.** The scope is intentionally **not uniform**: Chapters 1–2 are extensive rewrites drafted in conversation; Chapters 3–4 are selected scene/paragraph reworks; Chapters 5–18 are *lighter targeted voice passes* on complete canonical chapter texts. More substantial drafting of any later chapter should be guided by the author's response to this pass rather than forcing equal word growth everywhere.
+
+| Chapter | Working alternative | Degree of intervention | Review status |
 | --- | --- | --- | --- |
-| 1 | [Chapter 01 voice recovery v2](Chapter_01_voice-recovery-v2.txt) | Complete expanded alternative developed in conversation | DRAFT; requires comparison |
-| 2 | [Chapter 02 voice recovery v2](Chapter_02_voice-recovery-v2.txt) | Complete expanded alternative developed in conversation | DRAFT; requires comparison |
-| 3 | [Chapter 03 voice recovery v1](Chapter_03_voice-recovery-v1.txt) | Full chapter, selected substantial rework of narrator/register and bookstore catalogue; locked prune unchanged | DRAFT; requires comparison |
-| 4 | [Chapter 04 voice recovery v1](Chapter_04_voice-recovery-v1.txt) | Full chapter, selective narration and embodied action; cookbook choice unchanged | DRAFT; requires comparison |
+| 1 | [Chapter 01 — V2](Chapter_01_voice-recovery-v2.txt) | Complete expanded voice rewrite from conversation | Unapproved |
+| 2 | [Chapter 02 — V2](Chapter_02_voice-recovery-v2.txt) | Complete expanded voice rewrite from conversation | Unapproved |
+| 3 | [Chapter 03 — V1](Chapter_03_voice-recovery-v1.txt) | 15 targeted replacements; longer bookstore catalogue and more oral narrator; prune preserved | Unapproved |
+| 4 | [Chapter 04 — V1](Chapter_04_voice-recovery-v1.txt) | 14 targeted replacements; Camp details and body-language, cookbook choice preserved | Unapproved |
+| 5 | [Chapter 05 — V1](Chapter_05_voice-recovery-v1.txt) | 5 selective voice edits | Unapproved |
+| 6 | [Chapter 06 — V1](Chapter_06_voice-recovery-v1.txt) | 4 selective voice edits; bar scene already distinctively voiced | Unapproved |
+| 7 | [Chapter 07 — V1](Chapter_07_voice-recovery-v1.txt) | 5 selective edits around existing rescue and dialogue | Unapproved |
+| 8 | [Chapter 08 — V1](Chapter_08_voice-recovery-v1.txt) | 5 selective edits; first-line echo and ditch choice unchanged | Unapproved |
+| 9 | [Chapter 09 — V1](Chapter_09_voice-recovery-v1.txt) | 5 selective edits; Shade's autonomy and diner sequence unchanged | Unapproved |
+| 10 | [Chapter 10 — V1](Chapter_10_voice-recovery-v1.txt) | 5 selective edits; explanation and accusation unchanged | Unapproved |
+| 11 | [Chapter 11 — V1](Chapter_11_voice-recovery-v1.txt) | 5 selective edits; museum sequence and injury unchanged | Unapproved |
+| 12 | [Chapter 12 — V1](Chapter_12_voice-recovery-v1.txt) | 5 selective edits; diary gift / consent unchanged | Unapproved |
+| 13 | [Chapter 13 — V1](Chapter_13_voice-recovery-v1.txt) | 5 selective edits; Shade's social belonging and card game unchanged | Unapproved |
+| 14 | [Chapter 14 — V1](Chapter_14_voice-recovery-v1.txt) | 4 selective edits; failed working, force/choice and fire still intact | Unapproved |
+| 15 | [Chapter 15 — V1](Chapter_15_voice-recovery-v1.txt) | 3 selective edits; Shade calls for help, Elizabeth rescues Milo, loss stays intact | Unapproved |
+| 16 | [Chapter 16 — V1](Chapter_16_voice-recovery-v1.txt) | 4 selective edits; apology, records of Shade and grief preserved | Unapproved |
+| 17 | [Chapter 17 — V1](Chapter_17_voice-recovery-v1.txt) | 4 selective edits; repair-as-evidence and original/replica distinctions preserved | Unapproved |
+| 18 | [Chapter 18 — V1](Chapter_18_voice-recovery-v1.txt) | 4 selective edits; confession and final invitation / last lines unchanged | Unapproved |
 
-**Chapters 5–18 not yet rewritten** in this first tranche. Do not say the series is complete until every full alternative exists and has been audited.
+These are **comparison texts**, not eighteen equally exhaustive, finalized prose edits. The sparse later passes are useful for evaluating *where restraint already serves the author's voice*, but they are **not a claim that every sentence was fully line-edited for voice**.
 
-## Process for each remaining chapter
+## Process for review and deeper iteration
 
-1. Read the entire current chapter in sequence with its neighbors and the author's locks.
+1. For each alternative, compare it with the full current chapter, its neighbors and the author's locks. The later light-touch alternatives should not be mistaken for a full sentence-by-sentence rewrite.
 2. Preserve the plot, relationship information, emotional choices, world mechanics and callback anchors.
 3. Restore expressive narrator / bodily dialogue selectively; avoid the AI habit of adding a polished quip to every paragraph.
-4. Keep a **full, standalone chapter file**, even when a scene is left exactly as written. Do not store only a suggestion or an outline.
+4. Keep a **full, standalone chapter file**, even where a scene is left exactly as written. Do not store only a suggestion or an outline; the current alternatives all meet the full-chapter file requirement.
 5. Compare line by line against canon and flag *new* dialogue, jokes, narrator commentary and potential downstream continuity differences as **author-owned alternatives**. Never replace canonical prose from these drafts without explicit approval.
 6. After individual review, author-selected patches belong in numbered EXP records and normal revision workflow, not a wholesale reset.
 
-## First-tranche notes / open problems
+## Open reviewer questions
 
 - **Ch1:** Longer banter, "front door" joke and rhetorical half-nod may improve conversational tone but **may also weaken urgency**. One additional description of the cookbook title's exact typography is not an authorized canon ruling.
 - **Ch2:** Extra park/coffee shop detail, longer ending meditation and added exchanges may over-explain emotional moments already strong in the current version. Keep the original dry-cleaning breakdown intact when testing.
 - **Ch3:** The enlarged bookstore catalogue is a deliberate recovery test. It adds human details not individually confirmed as magical properties; test whether the increase steals focus from Elizabeth's bodily emotion and pruning. The actual pruning vow/event is untouched.
 - **Ch4:** This draft intervenes less than Ch1/2 because the current Camp Cunnan chapter already has many of the author's expressive, lived-in strengths. Check for redundant narrator commentary near Nana's cookbook gift rather than assuming more narration is automatically better.
 
-**No chapter prose edits on main, no L4 reader verdict, and no assertion that these variants are improvements until reviewed.**
+**Additional comparison risks:** Chapters 5–13 contain a few extra interpretive and atmospheric sentences that may explain what the existing gesture already conveyed. Chapters 14–16 intentionally avoid jokes in the climax and grief, and any added sentences must earn their duration under intense action. Chapter 17 removed one invented wagon-sign detail during self-review; do not quietly create events to make a paragraph charming. In Chapter 18, added cat/body humor and waiting-around business must not crowd the exact accountability confession or final invitation.\n\n**No chapter prose edits on main, no L4 reader verdict, and no assertion that these variants are improvements until reviewed.**
