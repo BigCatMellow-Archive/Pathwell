@@ -2907,3 +2907,93 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 **CHECK:** Every new anchor resolves. No chapter changed. Routine (D23): not applicable (no prose changed).
 
 **RECONCILE:** Pass Log only; R59 already records the markup.
+
+
+## P80, 2026-10-26: earliest first-draft source and voice-recovery audit started
+
+**AUTHORITY:** The author identified his separately supplied `pathwell - work.docx` as the first draft, distinguished it from the intermediate `Pathwell Working` document, discussed ways revision may have normalized expressive prose, and explicitly asked to put that work in this repo and begin a voice-recovery audit. The existing [R58](Decisions.md#the-authors-rulings-for-this-revision) manuscript sequence (paper read-through first) remains the gate for **applying** future prose changes; this pass performs historical documentary research only.
+
+**DO:**
+- Saved an exact-words **plain-text export** of the author's earliest linked draft as [Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), preserving its spelling, bracket notes, alternate plot and historical status. Original Word layout is not preserved. Existing [`Pathwell Working.docx`](../Archive/Manuscript/Pathwell%20Working.docx) and [Voice-Benchmark extracts](Voice-Benchmark/README.md) were reused, not duplicated. Voice-Benchmark and archive indexes updated.
+- Wrote the [voice recovery protocol and provenance](Emergence/VOICE-RECOVERY-2026-10-26.md) and [selected Chapters 1–3 evidence ledger](Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md): 13 labeled comparisons across first draft, intermediate author's text, pre-August benchmark and current manuscript. Comparison judgments are **provisional informed editorial notes**, not selected novel patches or blind reads.
+- Added to the existing [line-editing procedure](../Sunday-Morning/Line-Editing-Protocol.md#literal-correctness-is-not-the-test-for-figurative-language) a guard against mistaking metaphoric transferred actions for factual errors. Added a historical clarification to [Line Notes](../Sunday-Morning/Line-Notes.md#10-correction-to-a-literalist-editorial-objection-2026-10-26): "a smell doesn't splatter" is not sufficient reason to cut the author's `wet-rot splattered` line.
+- Indexed evidence in [Emergence](Emergence/INDEX.md) and marked [Revision-Status](../../Revision-Status.md) without changing the author's next-step sequence.
+
+**PRELIMINARY RESULT:** The bookstore's broad, cumulative first-draft catalogue (**V10**) is the strongest potential *voice-effect* recovery. The door's panic and cookbook's "seasoned" verb demonstrate author instincts but do not justify reversing story-locked opening/staging. The bad-food line and Boots's blood-god joke survive in improved forms; the current cookie-memory embodiment is stronger than the long first-draft spell. No blanket restoration of early prose justified.
+
+**CHECK (D23 after-every-pass, reported individually):**
+1. Book targets and authority: **done** — AGENTS, Before You Touch a Chapter, R11, R27, R58 and the author benchmark used. No authority change, no new story canon.
+2. Shapes before sentences: **not applicable** — no manuscript edit or scene structural change.
+3. Checker: **not run / not applicable to documentation-only change** — no chapter text, assembled manuscript or length changed; do not claim a checker pass.
+4. Scene diagnostic: **not applicable** — no scene changed.
+5. Fresh independent check: **not done** — this is an informed source comparison; it cannot approve its own candidate and counts for no L4 status.
+6. Reader protocol: **not applicable** until R58 sequence and a genuinely unprimed reader.
+7. Replacement tic: **not applicable** — no prose replacements.
+8. Deliberate ambiguity: **done** — existing Q-Q opening hook and Q-O neighborhood issue left open; no pruning mechanic or author taste decision asserted.
+9. Change notes / diff: **done** — only archived historical reference, editorial notes and linked method/index/status; no `Story/Chapters/Chapter_*.txt` changes.
+10. Tenth seat: **not applicable** — no consequential prose choice adopted.
+
+**RECONCILE:** Source benchmark/Archive README, Emergence index, Line Notes, Line-Editing Protocol and Revision Status updated. No R-row added (the author made no new novel ruling). All chapters remain **L3**. An actual chapter-by-chapter exhaustive recovery map, source-diff lineage and approved EXP patches remain **not done**.
+
+
+## P81, 2026-10-26: transfer earliest author voice into Sunday Morning craft
+
+**AUTHORITY:** The author asked what his first draft reveals about how he likes to tell stories, and explicitly asked to transfer the **best version of that voice** into the Sunday Stories. The reusable Sunday Morning method in this repository is `Story/Sunday-Morning/` (this copy is the richest/most recently developed copy, per its README); the source documents and author draft remain references. No new ruling of tone or fiction canon was made.
+
+**DO:** In the existing [Sunday Morning Craft owner page](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling) added seven observed narrative instincts and a six-part **diagnostic rather than recipe**: a speaking, sometimes associative narrator; deliberate personification and cross-sense metaphor; sincere "wrong priority" humor; conversational rhythms with longer accumulation; human emotional history in ordinary things; pleasure/attachment as valid functions; selective pruning of over-description. The [Sunday Morning Line Notes evidence owner](../Sunday-Morning/Line-Notes.md#11-what-the-authors-earliest-first-draft-adds-to-the-voice-evidence-2026-10-26) now includes ten verified author-original excerpts with gains/limits. [Sunday Morning README](../Sunday-Morning/README.md#find-it-fast) directs drafting/review to both.
+
+**Specific correction to prior method:** "If cutting it changes nothing" now expressly tests enjoyment, attachment, atmosphere and rhythm **as well as** cause and plot. An earlier local reduction of AI-drafted narrator jokes to about one per story is **not** a rule for the author's natural narration. Successful figurative nonliteral language remains available; cut stacked *effects* and confusing staging, not expressive words by category. Do not imitate the first draft's spelling/plot choices, or darken Sunday Morning stories to match Pathwell. The [imported Voice Guide](../Sunday-Morning/Sources/Voice-Guide.md), [Framework](../Sunday-Morning/Sources/Framework.md), [Decisions](../Sunday-Morning/Decisions.md) and canon remain unchanged.
+
+**CHECK (D23, method-only):**
+1. Author authority and Sunday Morning tone: **done** — Framework's "You do not need to brace yourself" retains priority. No setting facts imported.
+2. Shapes before sentences: **not applicable** — no story prose.
+3. Checker: **not run** — no story/chapter modified; checker is not a test for documentation truth.
+4. Scene diagnostic: **not applicable**.
+5. Fresh independent check: **not done** — editorial observations are labeled as inference.
+6. Reader protocol: **not applicable**; this is not an L4 reader report.
+7. Repetition/tic check: **done by inspection** — explicitly bans quotas and signature-line imitation, preserves room for quiet stories.
+8. Deliberate ambiguities: **done** — Pathwell R58, R11 and the book's unresolved choices unchanged.
+9. Change notes/source: **done** — new historical evidence grounded in the saved original author draft, with opposite cases where revision genuinely improved the effect.
+10. Tenth seat: **not applicable**.
+
+**RECONCILE:** Sunday Morning `Craft.md`, `Line-Notes.md`, `README.md` updated in their existing ownership locations rather than creating another competing voice guide; no files in `Story/Chapters/` changed and no L4 status advanced.
+
+
+## P82, 2026-10-26: action beats versus redundant blocking
+
+**AUTHORITY:** The author asked whether describing gestures and character movements in his earliest Chapter 1 was genuinely excessive "blocking" or whether a later editing process eliminated too much expressive physical storytelling. After comparing the archived first draft, author's hypothetical `"... Magically speaking," he said, nodding his head to the side`, and **actual current Chapter 1**, the reviser recorded a distinction without seeking or applying prose changes.
+
+**DO:**
+- Extended the existing [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity) with a bounded test separating *spatial staging*, *expressive action beats*, and *redundant choreography*. An action can serve character, persuasive intent, comic timing, emotional embodiment, rhythm or reader pleasure; it needn't convey new plot data to belong.
+- Added [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26) with three explicit comparison treatments. The author's "nodding to the side" is **illustrative hypothetical phrasing**, not falsely attributed to the checked canonical file. The present Ch1's `He nodded at the ooze drying on her walls` is a more precise and characterful beat: Pathwell recruits apparent physical evidence for his **false "marked" claim** (R27).
+- Compared this with a real first-draft cost: the repeated box-search motions and multiple "Hey" attempts before the exchange moves forward. The earlier author-approved cut `He drummed his fingers on the edge of the table, looking around aimlessly` remains defensible as duplicated generic movement. **Neither case licenses an anti-gesture rule**.
+- Extended [Sunday Morning Craft's first-draft habits](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), navigation [README](../Sunday-Morning/README.md#find-it-fast), [voice-recovery protocol](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler) and [Emergence index](Emergence/INDEX.md#action-beat-and-blocking-distinction-2026-10-26). No redundant new style guide created.
+
+**JUDGMENT:** Much of the earliest draft's searching/repetition could be trimmed for timing and clarity. Physical movement conveying intent, presence, humor or a credible bluff deserves to survive even if dialogue makes semantic sense without it. The best current sentence is improved by **specifying its target**, not by removal. This is a provisional editorial determination, **not a new author ruling**.
+
+**CHECK (D23, documentation-only):**
+1. Book targets and author decisions: **done** — Ch1 `marked` is still a bluff; R11 first line and R9 last-line locks untouched.
+2. Shapes before sentences: **not applicable**, no chapter changes.
+3. Checker: **not run** (no chapter, story, or assembled manuscript changed).
+4. Scene diagnostic: **not applicable**.
+5. Independent fresh check: **not done**; no L4 claims.
+6. Reader protocol: **not applicable**; R58 author paper-read gate stays.
+7. Repetition/tic: **done in guidance** — explicitly warns against quotas, repeated nods/glances, and physical-action lists.
+8. Deliberate ambiguity: **done** — the current deceptive assertion remains a bluff, with no new canon.
+9. Diff and source verification: **done** — current Ch1, original early Ch1, existing approved line notes checked; branch only documents findings.
+10. Tenth seat: **not applicable**; no story-level choice applied.
+
+**RECONCILE:** Method owner, evidence owner, Sunday Morning and Emergence navigation, voice audit and Pass Log updated. No R-row, manuscript edit, EXP patch, or status upgrade.
+
+
+## P83, 2026-10-26: author clarifies qualifying nod
+
+**AUTHORITY:** Immediately after the P82 discussion, the author clarified that his example `"... Magically speaking," he said, nodding his head to the side` was **not** a nod indicating anything in the room. It was "like a indecisive nod like 'so to speak'": a small, conversational qualifying movement accompanying an intentionally hedged phrase.
+
+**CORRECTION TO P82:** P82 described the current line `He nodded at the ooze drying on her walls` as a more purposeful and spatially precise improvement, assuming the original sideways nod was meant to indicate something. That inference was **wrong**. The current line supports the invented magical-marking bluff using visible residue, but is a **different performance** from the author's intended little verbal-physical qualification. It should not be presented as automatically better. The older P82 entry remains as a historical record of the error, with this explicit correction taking precedence.
+
+**DO:** Corrected the [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity), [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26), the existing [Sunday Morning Craft application](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), the [voice-recovery audit](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler), and the [Emergence index](Emergence/INDEX.md#action-beat-and-blocking-distinction-2026-10-26). No additional style guide created.
+
+**LESSON:** Do not assume every nod, head tilt or sideways movement is directional. Some gestures are rhetorical punctuation, ambivalence, hedging, self-correction or subtext; "clarifying" such a gesture by assigning it a target can erase the character's original manner. Ask what the action *means* in the utterance before adjusting where it points.
+
+**STATUS / CHECK:** Historical and craft documents only. **No `Story/Chapters/` changes**, no author-selected new wording, no patch, no story checker run and no independent/blind read. R27's `marked` bluff and R58's author-read gate remain intact; all chapter L3 statuses unchanged. The author may decide whether or how to revise the actual Ch1 gesture after the paper read.

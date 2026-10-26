@@ -17,6 +17,41 @@
 
 **Result labels:** `KEEP` (working text), `CUT`, `REPLACE`, `MOVE`, `OPEN` (missing fact or author choice), `FLAG` (voice/taste or uncertain impact), `REVERT` (candidate worsened the text). Each applied change points to an identifiable problem; not every reviewed line receives a change.
 
+### Literal correctness is not the test for figurative language
+
+**A transferred property or action is not a staging error just because it is impossible literally.** A door may open "with panic"; a stench may "splatter" across a room. The reader is asked to experience the panic or sudden invasion, not to believe a door feels or an odor has liquid droplets. Personification, metaphor, synesthesia, transferred epithets and comic incongruity are *candidates for successful expression*, not errors by category.
+
+When a phrase appears physically impossible, ask, in order:
+
+1. **Function:** What bodily sensation, urgency, attitude, humor or character inference does the transfer deliver? Does it do more work than a literal paraphrase?
+2. **Context:** Can a reader track the physical action and speaker/POV despite the figure? Is the effect intentionally disorienting or unintentionally confusing?
+3. **Density and placement:** Are several strong images competing at the same moment, especially in fast action, grief or a punchline?
+4. **Regression:** Does the proposed literal alternative lose something the scene needs? If the only reason offered is "X can't literally do Y," **KEEP** pending a better diagnosis.
+
+**Separate:** (a) actual cause/blocking/knowledge errors, (b) unsuccessful figures, (c) excessive figurative density, and (d) deliberate successful strangeness. Solve (a); diagnose (b) or (c) on the page; protect (d). The same standard applies to author-produced and AI-produced lines. Editors do **not** own the final artistic choice ([Craft: who writes what](Craft.md#ai-and-the-author-who-writes-what)).
+
+**Pathwell evidence, not a general-setting rule:** the author's initial "The door burst open with panic" and current "the stench of wet-rot splattered across the room" are analyzed in [the voice-recovery record](../Revision/Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md). This section owns the editing test; that record owns book-specific evidence.
+
+### Action beats and physical blocking: purpose, not austerity
+
+**Distinguish physical staging from action beats.** *Staging/blocking* answers where bodies, objects and exits are, who acts, what can be perceived and what causes the next event. *Action beats* are the physical movements in and around dialogue (a nod, folded arms, adjusting a coat, retrieving an object, turning away). They can serve staging **or** characterization, pacing, embodied emotion, comic timing, persuasion and a lived-in sense of presence. There is no rule to reduce their number automatically.
+
+**A movement does not need to advance the plot to earn its place.** An apparently small gesture may make a speaker evasive, self-conscious, pushy, patient or absurd. It may give the narrator room for humor or allow an exchange to breathe. Those are real effects, not "filler" because an isolated dialogue line is comprehensible without them.
+
+**The risk is redundant choreography:** a character looks, nods, shrugs, shifts, fixes a sleeve and turns, each gesture restating the same reaction; or a string of movements delays the decisive line, hides who is acting, contradicts viewpoint, or makes geography impossible. Trim **duplicated functions**, not "motion" as a category. A purposeful gesture can also be misread by an editor: a little sideways nod might **qualify a phrase** (like a physical "so to speak"), not indicate an object. First identify the *type* of gesture — pointing, hesitation, concession, bluff, self-correction — before specifying its target or rewriting it.
+
+**Pathwell Chapter 1 worked example — author correction (2026-10-26):** The author supplied an *illustrative phrasing* — `"Your house has now been marked. Magically speaking," he said, nodding his head to the side.` He subsequently clarified that the nod **is not toward evidence**: it is a small, indecisive/qualifying movement, a physical **"so to speak"** accompanying the hedged wording "Magically speaking." The *actual current manuscript* instead says `He nodded at the ooze drying on her walls.` followed by `"Your house has now been marked. Magically speaking. So we should probably be anywhere but here."` That **reinterprets** the action as directing attention toward evidence for Pathwell's bluff. The two versions have different character effects; **greater spatial specificity is not an improvement when it changes the author's intended social gesture**. The actual chapter has not been edited; the difference remains a proposed author-owned voice correction. Story-specific evidence: [the author's line notes](Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26).
+
+For every proposed action-beat deletion or replacement:
+
+1. **Locate the event.** Can readers tell who moves, from where, toward what, and what the POV character can actually observe? A physically impossible action requires repair; nonliteral expressive description alone doesn't.
+2. **Name the beat's effect.** Does it change the meaning or sincerity of speech, show an intention or defense, sustain voice or comedic timing, establish space, or contribute pleasure and rhythm?
+3. **Check the density.** Is it doing the *same* work as a neighboring beat, blocking important dialogue, using a recurring filler motion, or creating a camera reset? If so, try the smallest cut or consolidation.
+4. **Compare in context.** Read the speech with and without the beat. The better version is the one a reader understands, believes, and enjoys more — not automatically the shorter version.
+5. **Preserve author choice.** A meaningful metaphor, characteristic gesture, narrator interpretation or comic movement is an author-owned expressive choice. Offer evidence and alternatives; don't silently neutralize it.
+
+**Do not turn this into an instruction to add a gesture to every exchange.** Stillness, untagged speech, a plain `said`, and an uninterrupted argument are often strongest. The test is **intention and effect**, not a gesture quota or an anti-gesture quota.
+
 ## 2. Fixed order of an editing pass
 
 | Pass | What to test | Leave this pass with | Do not do yet |

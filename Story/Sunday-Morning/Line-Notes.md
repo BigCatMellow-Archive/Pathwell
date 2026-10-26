@@ -129,3 +129,76 @@ Raised with him after his Chapter 1 markup; none applied. They're his call, and 
 | "the stench of wet-rot splattered across the room" | A smell doesn't splatter. | Either the ooze splatters and the smell follows, or the smell fills. Pattern 6 still holds: choose the everyday verb that fits the thing. |
 | "going shiny" → "going dry"; "something else, someone else. A voice that couldn't be there." | Taste: "shiny" was the sharper picture; "someone else" and "A voice" say the same thing twice. | Small. Listed so the choice is his, not a default. |
 
+
+## 10. Correction to a literalist editorial objection (2026-10-26)
+
+The 2026-10-23 table above contains an editor's question about **"the stench of wet-rot splattered across the room"**: "A smell doesn't splatter." That is an accurate statement about literal physics but **not** sufficient editorial evidence against the line. A transferred action may convey sudden, violent arrival, and the author deliberately substituted this verb for "permeating." It is neither a factual claim about a smell nor automatically a prose defect.
+
+The remaining legitimate tests are reader comprehension, point of view, physical blocking, unwanted ambiguity and image density **in the passage**. Until one of those fails, the default is **KEEP**, with artistic choice belonging to the author. This corrects the earlier editor's *reasoning*, not the historical entry or the author's wording. General editing test: [Line-Editing Protocol — figurative language](Line-Editing-Protocol.md#literal-correctness-is-not-the-test-for-figurative-language). Evidence: [voice recovery V05](../Revision/Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md#v05--a-stench-splattered-as-figurative-violence).
+
+
+## 11. What the author's earliest first draft adds to the voice evidence (2026-10-26)
+
+**Source:** The author identified [`pathwell - work`, earliest first draft](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), distinct from the intermediate `Pathwell Working.docx` and the pre-August voice benchmarks. The archive is a plain-text export preserving his original spellings and rough draft notes, **not** canonical story material. The [full source-lineage voice audit](../Revision/Emergence/VOICE-RECOVERY-2026-10-26.md) and [first-act comparison](../Revision/Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md) record additional context.
+
+**Method:** Quote a short exact line from the first draft, identify **what it accomplishes**, then identify the risk revealed by the surrounding passage. These are observed author habits and editorial inferences, **not new universal writing rules**. Some examples come from early material whose plot no longer belongs in the book. Use their craft effects in any setting, not their lore, cast or structure.
+
+| First-draft evidence (original spelling retained) | What it reveals about the telling | The best version, and where it can go wrong |
+| --- | --- | --- |
+| **"The door burst open with panic, slamed shut with desperation."** (Ch1 opening) | Emotion is put into a physical event, with two energetic verbs and a parallel cadence. The scene arrives *feeling* hurried before anyone explains the danger. | Preserve the option of successful personification and transferred action. Do **not** mistake it for a physically impossible door. But later staging has to let the reader identify **who** enters and where the movement happens; the current Pathwell opening has other locked work to do. |
+| **"WIth all the courage a baseball bat could proivde"** (Ch1) | A frightened person measures her own courage through a prop, not through the narrator announcing "she was afraid." The sentence is funny *and* sympathetic. | Ordinary objects can carry a character's inner state. Don't make every object conscious or interrupt danger with a new joke. |
+| **"The box was upended and seasoned the floor with books."** (Ch1, cookbook search) | An unexpected **ordinary** verb belongs to the scene's subject matter and makes the narrator's associative mind audible. | Keep verbal play when it makes an image sharper or gives pleasure; don't replace `seasoned` with `scattered` merely for literal correctness. Yet the earliest cookbook search lingered too long while an urgent creature approached: protect pacing and clarity. |
+| **"The door to her appartment was gone, or at least it wasnt whre it was."** (Ch1) | An oral storyteller corrects themself in the act of telling. The correction creates understated humor from an absurd catastrophe. | Allow occasional conversational self-revision and digression, not constant `or rather` machinery. The narrator is not merely a camera or a dispenser of witticisms. |
+| **"Sunshine directed right at her stomach."** (Ch1 cookie magic) | Sight, temperature and bodily feeling blend. The physical body gets the emotion before the character finds an explanation. | Sensory category-crossings are a strength, but the current tighter Nana memory better carries the scene's emotional stakes. The lesson is **cross-sensory freedom**, not a command to restore the discarded words. |
+| **"These are not just paper, and ink, they are a pulse, a breath, they. are. proof."** (Ch3 bookstore after the long list of letters, recipes, wills, music and diaries) | A catalogue **accumulates** before the payoff; the narrator loves the unremarkable records of human life. The prose slows to make a place worth inhabiting. | Sunday Stories can use a deliberate run of human detail where abundance *is* the feeling. In Pathwell the revised Chapter 3 gains pace and close-POV bodily magic; restoring the whole list would bring back lecturing and repetition. Keep **rhythm and breadth**, not the sermon. |
+| **"The seats plastic was worn from years of supprting customers to inherbriated to do it for themselves."** (early bar, later material) | The narrator notices evidence of regular patrons and tells a mild joke through what the furniture has endured. The place feels used, not merely described. | The best version is **affectionately observant**: people have histories, even when they're absent. Avoid making every bench or bottle a comic prop. |
+| **"The aged vinly seat sighed as she slummped back again"** (Shade drive) | A seat's sound is reported as a reaction, echoing Elizabeth's disappointment. The everyday world seems to respond to people. | Personification is valid shorthand for sound and mood; when the same sentence also catalogues every creak, squeak and movement, trim **duplication**, not the expressive verb. |
+| **"This is perfectly crappy Chinese food"** (Ch2) | Pathwell admires an ordinary thing in terms that contradict each other; his affection is sincere, not performed as a stand-up punchline. | The current story improves this into "Perfectly crappy. They aren't trying to be anything they're not." **Keep revised:** evidence of authentic voice *surviving* correction. |
+| **"We pay him in mice."** (Ch3, Boots the cat and alleged blood god) | The supernatural is treated like an employee with ordinary compensation. Worldbuilding comes from a relationship and a concrete transaction. | The joke survives in the current Chapter 3; this is an excellent transferable habit for low-stakes Sunday Stories, **not** a requirement to put a god or other fantasy device in them. |
+
+### What this corrects in earlier editing advice
+
+- The original isn't chiefly **minimalist deadpan**. It alternates practical physical storytelling with an exuberant, associative narrator; a measured, funnier/sadder observation sometimes expands rather than compresses.
+- "If cutting a sentence changes nothing, cut it" has a blind spot when **nothing** means only plot or causal information. A sentence may change pleasure, warmth, rhythm, place, character or the reader's desire to stay. Those effects count.
+- "Let the situation be funny first" **does not ban** funny narration. It means the narratorial joke should belong to this moment, not read as a generic line imposed on it.
+- "The narrator shouldn't compete with the characters" is a question of **timing and density**, not a fixed allowance such as one narratorial joke per story.
+- The correction for **excess personification** is to examine *clustering and comprehension*; treating every nonliteral verb as an error erases the voice.
+- "Polish" may rightfully remove repetitions, typos, redundant physical beats and excessive catalogue length; it may not silently swap unique metaphor for safe but lesser prose.
+
+**Method owner:** [Craft — first-draft-derived guidance](Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling) explains how these observations transfer into Sunday Morning stories under their own reader promise. The imported [Voice Guide](Sources/Voice-Guide.md) and [Framework](Sources/Framework.md) remain unchanged.
+
+
+## 12. Blocking, action beats and the risk of overcorrection (2026-10-26)
+
+**Prompt / scope.** The author asked whether his early tendency to describe characters' movements and gestures ("blocking") was genuinely a defect, or whether editing advice had made his prose too literal and spare. He offered this **illustrative sentence**, not a verified quotation from the manuscript:
+
+> "Your house has now been marked. Magically speaking," he said, nodding his head to the side.
+
+**Author clarification (later 2026-10-26):** The intended little sideways/indecisive nod was **not a gesture toward the room or toward the ooze**. It was a physical qualification of Pathwell's words, something like **"so to speak"** or a half-concession attached to "Magically speaking." This is the author's meaning, not an editor's interpretation of direction.
+
+**Source-verified current Chapter 1** (`Story/Chapters/Chapter_01.txt`, after the author's P78 markup):
+
+> He nodded at the ooze drying on her walls.  
+>
+> "Your house has now been marked. Magically speaking. So we should probably be anywhere but here."
+
+The current version instead **points out visible residue** to make his invented "marked" claim look supported by evidence (R27). That is a coherent alternate characterization, but **it is not the original gesture's intended meaning**. The earlier editor praised the rewrite for specifying the nod's target, **without checking whether it had a target at all**. That evaluation was wrong. The author's version performs an uncertain, conversational hedge, which can be funnier and more characteristic than a deliberate demonstration of evidence.
+
+**Contrast the readings; no automatic approval or patch:**
+
+| Treatment | Reader effect | Editorial judgment after author clarification |
+| --- | --- | --- |
+| Dialogue alone: "Your house has now been marked. Magically speaking." (*illustrative, not the manuscript*) | Conveys the questionable assertion and verbal qualification without bodily delivery. | Can work, but loses the little performative hesitation the author intended. |
+| Author's hypothetical "he said, nodding his head to the side" | A small off-center, indecisive motion qualifies "Magically speaking": **physical "so to speak"**, not pointing. | **PRESERVE THE INTENDED EFFECT.** If the direction reads as ambiguous to readers, clarify the *character of the movement*, not an invented object of indication. Wording remains the author's choice. |
+| Current "He nodded at the ooze drying on her walls." | Treats ooze as evidence in support of a lie, creating a more deliberate persuasive tactic. | **REASSESS** as an unintended change of meaning, not automatically a stronger version. The current chapter remains untouched pending the author's normal read/revision process. |
+
+**Evidence that earlier blocking sometimes was a real problem:** In the [author's earliest Chapter 1 draft](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), the stranger keeps shuffling/searching boxes and Elizabeth tries variations of "hey", "Hey", "HEy" and "HEY" before his response. Multiple similar gestures, box searches and reassertions of surprise are doing overlapping jobs. Cutting or tightening these can improve pacing and physical comprehension without erasing the vivid **"WIth all the courage a baseball bat could proivde"** (original spelling retained), which conveys her fear through a prop. That is a genuine repetition/density issue **alongside** a genuinely good physical image; neither cancels the other.
+
+**Earlier example of a defensible cut:** The author's own note, preserved in [§4](#4-if-cutting-it-changes-nothing-cut-it-and-dont-replace-it), suggested cutting `"He drummed his fingers on the edge of the table, looking around aimlessly."` The movement conveyed nothing that wasn't already there in the local scene. This is different from a purposeful physical qualification of Pathwell's words. Do not revive cut filler because gestures as a category have been defended.
+
+**Editorial distinction:** 
+- **Legitimate repair:** simplify repeated movements; clarify action that hides who did what; locate a gesture's object; fix blocking that contradicts geography, timing, or POV; stop a joke or action sequence after the best beat.
+- **Overcorrection:** strip character-specific gestures because their **dialogue remains technically intelligible**, prefer disembodied voices to the author's oral/physical storytelling, or require every gesture to contribute new plot information.
+- **Effect of either choice:** Evaluate what a line contributes to **intent, power, character, comic timing, vulnerability, social atmosphere, embodied experience, and the reader's pleasure** as well as cause and clarity.
+
+The author has **not selected a new Chapter 1 rewrite** here. No voice-recovery alternatives are approved merely because the reviewer finds a version appealing. The general procedure and its tests are in [Line-Editing Protocol — action beats](Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity). The [Sunday Morning craft application](Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling) links to those tests. This historical discussion is **editorial evidence, not a new prohibition or required gesture pattern**.
