@@ -2934,3 +2934,26 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 10. Tenth seat: **not applicable** — no consequential prose choice adopted.
 
 **RECONCILE:** Source benchmark/Archive README, Emergence index, Line Notes, Line-Editing Protocol and Revision Status updated. No R-row added (the author made no new novel ruling). All chapters remain **L3**. An actual chapter-by-chapter exhaustive recovery map, source-diff lineage and approved EXP patches remain **not done**.
+
+
+## P81, 2026-10-26: transfer earliest author voice into Sunday Morning craft
+
+**AUTHORITY:** The author asked what his first draft reveals about how he likes to tell stories, and explicitly asked to transfer the **best version of that voice** into the Sunday Stories. The reusable Sunday Morning method in this repository is `Story/Sunday-Morning/` (this copy is the richest/most recently developed copy, per its README); the source documents and author draft remain references. No new ruling of tone or fiction canon was made.
+
+**DO:** In the existing [Sunday Morning Craft owner page](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling) added seven observed narrative instincts and a six-part **diagnostic rather than recipe**: a speaking, sometimes associative narrator; deliberate personification and cross-sense metaphor; sincere "wrong priority" humor; conversational rhythms with longer accumulation; human emotional history in ordinary things; pleasure/attachment as valid functions; selective pruning of over-description. The [Sunday Morning Line Notes evidence owner](../Sunday-Morning/Line-Notes.md#11-what-the-authors-earliest-first-draft-adds-to-the-voice-evidence-2026-10-26) now includes ten verified author-original excerpts with gains/limits. [Sunday Morning README](../Sunday-Morning/README.md#find-it-fast) directs drafting/review to both.
+
+**Specific correction to prior method:** "If cutting it changes nothing" now expressly tests enjoyment, attachment, atmosphere and rhythm **as well as** cause and plot. An earlier local reduction of AI-drafted narrator jokes to about one per story is **not** a rule for the author's natural narration. Successful figurative nonliteral language remains available; cut stacked *effects* and confusing staging, not expressive words by category. Do not imitate the first draft's spelling/plot choices, or darken Sunday Morning stories to match Pathwell. The [imported Voice Guide](../Sunday-Morning/Sources/Voice-Guide.md), [Framework](../Sunday-Morning/Sources/Framework.md), [Decisions](../Sunday-Morning/Decisions.md) and canon remain unchanged.
+
+**CHECK (D23, method-only):**
+1. Author authority and Sunday Morning tone: **done** — Framework's "You do not need to brace yourself" retains priority. No setting facts imported.
+2. Shapes before sentences: **not applicable** — no story prose.
+3. Checker: **not run** — no story/chapter modified; checker is not a test for documentation truth.
+4. Scene diagnostic: **not applicable**.
+5. Fresh independent check: **not done** — editorial observations are labeled as inference.
+6. Reader protocol: **not applicable**; this is not an L4 reader report.
+7. Repetition/tic check: **done by inspection** — explicitly bans quotas and signature-line imitation, preserves room for quiet stories.
+8. Deliberate ambiguities: **done** — Pathwell R58, R11 and the book's unresolved choices unchanged.
+9. Change notes/source: **done** — new historical evidence grounded in the saved original author draft, with opposite cases where revision genuinely improved the effect.
+10. Tenth seat: **not applicable**.
+
+**RECONCILE:** Sunday Morning `Craft.md`, `Line-Notes.md`, `README.md` updated in their existing ownership locations rather than creating another competing voice guide; no files in `Story/Chapters/` changed and no L4 status advanced.
