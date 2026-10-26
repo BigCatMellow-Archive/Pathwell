@@ -3029,3 +3029,30 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 10. Tenth seat: **not applicable** until an author-approved prose change is tested.
 
 **RECONCILE:** Only draft alternatives and branch-specific method/status documentation changed. Existing canonical chapter files remain untouched on the feature branch and on `main`. The PR is a **draft** and must not be merged without author selection and regression review.
+
+
+## P86, 2026-10-26: cross-chapter foreshadowing and callback audit
+
+**AUTHORITY / ASK:** After author-requested 18-chapter voice-recovery alternatives were created (P85), the author noted another feature to preserve: "things like foreshadowing, callbacks, references within the story." This pass adds **cross-chapter continuity of narrative effects** to the alternatives before any adoption of prose, with the [canonical Promise Ledger](Promise-Ledger.md) as sole setup/payoff owner.
+
+**DO:** Compared the full 18 current `Story/Chapters/` texts with the 18 full alternate texts and [Promise Ledger](Promise-Ledger.md) entries, checking occurrence and function of the major plants, echoes, custody chains and payoff choices. Added [**FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md**](Emergence/Voice-Recovery-Drafts/FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md) to the existing voice-recovery draft folder: 22 cross-book connections and a seven-step evaluation gate, grouped by existing owner IDs. Updated the [draft collection README](Emergence/Voice-Recovery-Drafts/README.md) and [Emergence index](Emergence/INDEX.md) rather than creating a second Promise Ledger.
+
+**Two draft corrections justified by cross-chapter evidence:**
+- **Ch8 comparison version:** Removed new narrator explanation that the ditch crash was "still a choice," duplicating current "She had time to choose" and drawing attention away from the **bare Ch1 first-line echo**. Kept the causal and emotional scene untouched.
+- **Ch18 comparison version:** Removed an assistant-added claim Boots remembered *unpaid* tribute; the cat actually drew blood in Ch3, and the Ch18 "He remembers winning"/Elizabeth scar is the established delayed payoff. No additional cat joke is needed before that beat.
+
+**Open author decisions / risks:** Ch2 draft adds personal history (spoon packed for movers; leaving because staying felt worse), not established merely by existing Canon. Ch3 draft expands unmailed cards, handwritten music and other lived-in archive detail, which may strengthen affection but introduce unintended story promises if overemphasized. Ch4/15 expand narrator comments near important choices, possibly muting the clean internal echo of "That was the choice"; Ch18 extra waiting commentary might explain an agency reversal already dramatized. Marked **review**, not auto-edited. Foreshadowing is not a demand to make every object significant, and a theme is not necessarily a future plot question.
+
+**AFTER-PASS CHECK (D23; scope: **unapproved alternative drafts / documentation**):**
+1. Source/rulings: **done** — active Promise Ledger, Before-You-Touch-A-Chapter, author rulings and main chapters consulted; no new lore or event settled.
+2. Whole-book shape: **inspected anchor chains**, not a complete independent full prose read; no restructuring.
+3. Automated checker: **not run**, no canonical story edits. Keyword counts alone cannot certify emotional callbacks; the audit explicitly disclaims that inference.
+4. Scene causality: **examined for 22 links**, with book-past/book-future checks; not comprehensive line-by-line proof.
+5. Independent fresh review: **not run**, and no promise of L4.
+6. Reader protocol: **not run**; author paper-read gate R58 remains.
+7. Repetition / AI tics: **two concrete draft regressions removed**; still review other assistant-added explanatory sentences.
+8. Intentional ambiguity: **preserved**; blob's original target, prune background, Shade's agency and the confession's audience follow author decisions.
+9. Record reconciliation: **done** — draft audit cross-references canonical Promise Ledger; no duplicate ledger or rewriting the canon's P/O/R/L rows; draft README and Emergence INDEX updated.
+10. Tenth seat: **not applicable**, no author-approved new prose applied.
+
+**STATUS:** This is a **preliminary comparison audit**. The branch remains `draft/voice-recovery-full-novel-20261026`, draft PR #8 remains open/unmerged, and all canonical novel chapters stay as in main.
