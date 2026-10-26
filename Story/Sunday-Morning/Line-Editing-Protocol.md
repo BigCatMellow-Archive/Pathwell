@@ -32,6 +32,26 @@ When a phrase appears physically impossible, ask, in order:
 
 **Pathwell evidence, not a general-setting rule:** the author's initial "The door burst open with panic" and current "the stench of wet-rot splattered across the room" are analyzed in [the voice-recovery record](../Revision/Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md). This section owns the editing test; that record owns book-specific evidence.
 
+### Action beats and physical blocking: purpose, not austerity
+
+**Distinguish physical staging from action beats.** *Staging/blocking* answers where bodies, objects and exits are, who acts, what can be perceived and what causes the next event. *Action beats* are the physical movements in and around dialogue (a nod, folded arms, adjusting a coat, retrieving an object, turning away). They can serve staging **or** characterization, pacing, embodied emotion, comic timing, persuasion and a lived-in sense of presence. There is no rule to reduce their number automatically.
+
+**A movement does not need to advance the plot to earn its place.** An apparently small gesture may make a speaker evasive, self-conscious, pushy, patient or absurd. It may give the narrator room for humor or allow an exchange to breathe. Those are real effects, not "filler" because an isolated dialogue line is comprehensible without them.
+
+**The risk is redundant choreography:** a character looks, nods, shrugs, shifts, fixes a sleeve and turns, each gesture restating the same reaction; or a string of movements delays the decisive line, hides who is acting, contradicts viewpoint, or makes geography impossible. Trim **duplicated functions**, not "motion" as a category. A purposeful gesture can also become vague if its target is unclear ("nodding to the side"): often the smallest repair is **specifying what the person indicates**.
+
+**Pathwell Chapter 1 worked example:** The author supplied an *illustrative phrasing* — `"Your house has now been marked. Magically speaking," he said, nodding his head to the side.` It establishes physical persuasion but leaves the referent of the nod uncertain. The *actual current manuscript* makes the action precise: `He nodded at the ooze drying on her walls.` Then he says `"Your house has now been marked. Magically speaking. So we should probably be anywhere but here."` The gesture is not disposable: it recruits visible ooze as **false evidence for the character's bluff**. The later version succeeds **by making blocking more purposeful, not by removing it**. Story-specific evidence belongs in [the author's line notes](Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26); the general editing decision stays here.
+
+For every proposed action-beat deletion or replacement:
+
+1. **Locate the event.** Can readers tell who moves, from where, toward what, and what the POV character can actually observe? A physically impossible action requires repair; nonliteral expressive description alone doesn't.
+2. **Name the beat's effect.** Does it change the meaning or sincerity of speech, show an intention or defense, sustain voice or comedic timing, establish space, or contribute pleasure and rhythm?
+3. **Check the density.** Is it doing the *same* work as a neighboring beat, blocking important dialogue, using a recurring filler motion, or creating a camera reset? If so, try the smallest cut or consolidation.
+4. **Compare in context.** Read the speech with and without the beat. The better version is the one a reader understands, believes, and enjoys more — not automatically the shorter version.
+5. **Preserve author choice.** A meaningful metaphor, characteristic gesture, narrator interpretation or comic movement is an author-owned expressive choice. Offer evidence and alternatives; don't silently neutralize it.
+
+**Do not turn this into an instruction to add a gesture to every exchange.** Stillness, untagged speech, a plain `said`, and an uninterrupted argument are often strongest. The test is **intention and effect**, not a gesture quota or an anti-gesture quota.
+
 ## 2. Fixed order of an editing pass
 
 | Pass | What to test | Leave this pass with | Do not do yet |
