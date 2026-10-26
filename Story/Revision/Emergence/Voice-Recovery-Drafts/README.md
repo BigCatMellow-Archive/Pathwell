@@ -4,6 +4,12 @@
 
 This folder holds the author's requested alternative prose treatment, beginning with the full Chapter 1 and Chapter 2 examples developed in conversation on 2026-10-26 and continuing in chapter order. The true manuscript remains `Story/Chapters/Chapter_01.txt`–`Chapter_18.txt` on `main`. Do not confuse these files with the archived **first draft** or the author-edited current draft.
 
+## Read the whole alternative
+
+[**Pathwell — Voice Recovery V2: Complete Reading Copy**](Pathwell_Voice_Recovery_V2_Complete.txt) is a single continuous **52,147-word** reading version assembled from the eighteen V2 chapter files, in order. The complete copy is **not canonical** and will need to be rebuilt if any individual chapter draft is revised. The original chapter files on `main` remain authoritative.
+
+The [V2 scene / callback review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) explains the extent of editing and the intentionally preserved passages. Earlier V1 drafts remain here for comparison.
+
 ## Aim
 
 **Recover the author's experience of telling the story without surrendering the actual progress of the revision.** The first draft showed lively associative narration, figurative actions that make objects feel involved, funny undercutting priorities, compassion for ordinary things, and conversational rhythms. Some early over-description and repeated physical choreography genuinely needed cutting. The fix is to keep the expressive effects while preserving causal clarity, scene direction, and the author's authoritative rulings.
@@ -73,4 +79,10 @@ Before replacing any sentence with recovered voice, identify the earlier **plant
 - **Ch3:** The enlarged bookstore catalogue is a deliberate recovery test. It adds human details not individually confirmed as magical properties; test whether the increase steals focus from Elizabeth's bodily emotion and pruning. The actual pruning vow/event is untouched.
 - **Ch4:** This draft intervenes less than Ch1/2 because the current Camp Cunnan chapter already has many of the author's expressive, lived-in strengths. Check for redundant narrator commentary near Nana's cookbook gift rather than assuming more narration is automatically better.
 
-**V2 follows the backward-from-payoff constraint.** It does not plant new riddles simply to increase foreshadowing. The existing Promise Ledger remains the single owner. [V2 review notes](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) record the corrections to Ch15, Ch16, Ch17 and Ch18.\n\n**The cross-book audit makes the same point more precisely:** a restored figurative line can also carry misleading information or weaken a future return, even when entertaining now. [See explicit evidence and the callback gate](FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md).\n\n**Additional comparison risks:** Chapters 5–13 contain a few extra interpretive and atmospheric sentences that may explain what the existing gesture already conveyed. Chapters 14–16 intentionally avoid jokes in the climax and grief, and any added sentences must earn their duration under intense action. Chapter 17 removed one invented wagon-sign detail during self-review; do not quietly create events to make a paragraph charming. In Chapter 18, added cat/body humor and waiting-around business must not crowd the exact accountability confession or final invitation.\n\n**No chapter prose edits on main, no L4 reader verdict, and no assertion that these variants are improvements until reviewed.**
+**V2 follows the backward-from-payoff constraint.** It does not plant new riddles simply to increase foreshadowing. The existing Promise Ledger remains the single owner. [V2 review notes](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) record the corrections to Ch15, Ch16, Ch17 and Ch18. 
+
+**The cross-book audit makes the same point more precisely:** a restored figurative line can also carry misleading information or weaken a future return, even when entertaining now. [See explicit evidence and the callback gate](FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md). 
+
+**Additional comparison risks:** Chapters 5–13 contain a few extra interpretive and atmospheric sentences that may explain what the existing gesture already conveyed. Chapters 14–16 intentionally avoid jokes in the climax and grief, and any added sentences must earn their duration under intense action. Chapter 17 removed one invented wagon-sign detail during self-review; do not quietly create events to make a paragraph charming. In Chapter 18, added cat/body humor and waiting-around business must not crowd the exact accountability confession or final invitation. 
+
+**No chapter prose edits on main, no L4 reader verdict, and no assertion that these variants are improvements until reviewed.**
