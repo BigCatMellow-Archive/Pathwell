@@ -17,6 +17,21 @@
 
 **Result labels:** `KEEP` (working text), `CUT`, `REPLACE`, `MOVE`, `OPEN` (missing fact or author choice), `FLAG` (voice/taste or uncertain impact), `REVERT` (candidate worsened the text). Each applied change points to an identifiable problem; not every reviewed line receives a change.
 
+### Literal correctness is not the test for figurative language
+
+**A transferred property or action is not a staging error just because it is impossible literally.** A door may open "with panic"; a stench may "splatter" across a room. The reader is asked to experience the panic or sudden invasion, not to believe a door feels or an odor has liquid droplets. Personification, metaphor, synesthesia, transferred epithets and comic incongruity are *candidates for successful expression*, not errors by category.
+
+When a phrase appears physically impossible, ask, in order:
+
+1. **Function:** What bodily sensation, urgency, attitude, humor or character inference does the transfer deliver? Does it do more work than a literal paraphrase?
+2. **Context:** Can a reader track the physical action and speaker/POV despite the figure? Is the effect intentionally disorienting or unintentionally confusing?
+3. **Density and placement:** Are several strong images competing at the same moment, especially in fast action, grief or a punchline?
+4. **Regression:** Does the proposed literal alternative lose something the scene needs? If the only reason offered is "X can't literally do Y," **KEEP** pending a better diagnosis.
+
+**Separate:** (a) actual cause/blocking/knowledge errors, (b) unsuccessful figures, (c) excessive figurative density, and (d) deliberate successful strangeness. Solve (a); diagnose (b) or (c) on the page; protect (d). The same standard applies to author-produced and AI-produced lines. Editors do **not** own the final artistic choice ([Craft: who writes what](Craft.md#ai-and-the-author-who-writes-what)).
+
+**Pathwell evidence, not a general-setting rule:** the author's initial "The door burst open with panic" and current "the stench of wet-rot splattered across the room" are analyzed in [the voice-recovery record](../Revision/Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md). This section owns the editing test; that record owns book-specific evidence.
+
 ## 2. Fixed order of an editing pass
 
 | Pass | What to test | Leave this pass with | Do not do yet |
