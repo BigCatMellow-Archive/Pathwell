@@ -2841,260 +2841,168 @@ It adds no story rules; every line links to its owner. `CLAUDE.md` still imports
 
 **CHECK:** Every relative link and anchor resolves. No chapter changed. Routine (D23): not applicable.
 
-## P77, 2026-10-22: EXP-0018 leans applied after a fresh check
+## P77, 2026-10-23: the author's EXP-0018 picks
 
-**AUTHORITY:** [R58](Decisions.md#the-authors-rulings-for-this-revision): "i authorize you to this time do what you need to do push the PR". Delivered as a pull request, not a push to main.
+**AUTHORITY:** The author, asked to clear [EXP-0018](Emergence/experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md): B cuts "Take all"; C lines: C1, C2, C3 and C4. Recorded as [R58](Decisions.md#the-authors-rulings-for-this-revision), with the order he set for the remaining work.
 
-**DO:**
-- **Prose (as finally applied):**
-  - Ch5 adds "Thumper's paw print was in there somewhere." (C2).
-  - Ch7 drops "Elizabeth waited." (B3).
-  - Ch10 drops "Pathwell went still." before "No." (B1, first cut only), and "That wasn't the question." becomes "Would you try?" (B2, his "No. I would not try." kept).
-  - Ch11 and Ch16 each drop "Pathwell went still." (B4, B6).
-  - Ch13 drops "Shade went completely still." (B5), and the pocketed-card slip becomes `"He keeps acting like you're something he can hold onto," Shade said.` (B11).
-  - Ch15 drops "Rain on canvas." and "Bread." (B8).
-  - Ch17 drops "Elizabeth waited." after the Hearts game (B7).
-  - Ch18 names Boots twice and "It allowed this" becomes "He allowed this" (B10).
-- **Not applied:** B9 (cabinets) and C1, C3, C4.
-- **Records:**
-  - The revision README's "Where things stand" now points to Revision Status and the Pass Log instead of a 10-15 snapshot.
-  - Its inventory no longer says the chapters last changed 08-28.
-  - Plan.md's status says the plan has been overtaken by the chapter passes.
-  - `Story/Pathwell.txt` regenerated; it had lagged the chapters.
-  - Ledger L11 records the Ch5 Thumper plant.
-  - The Registry's "goes still" row is updated.
-  - EXP-0018's status is updated, and its count is corrected (12 → 8 on the checker's pattern, not "10 to 6").
+**DO:** Applied the EXP-0018 patches verbatim, in order: B1–B10, then C1 (in place of B11: both edit the same Ch13 line, and C1 already carries B11's fix for the pocketed queen), C2, C3, C4. Every patch passed `git apply --check` against `main` first, and they applied in sequence without conflict.
 
-**CHECK:** Routine (D23):
+Change notes from the diff (9 chapters, 21 lines in, 25 out):
+- Ch5: "Thumper's paw print was in there somewhere." added to the opening paragraph (C2).
+- Ch7: "Leo, would you please focus!?" (C4); "Elizabeth waited." cut from the mirror beat (B3).
+- Ch10: the Ask loses "Pathwell went still." and "That's not what I asked." (B1); "That wasn't the question." / "No. I would not try." becomes "Would you try?" / "No." (B2).
+- Ch11: "Pathwell went still." cut after "I don't need to be rescued." (B4).
+- Ch13: Elizabeth plans Shade's stay and he stops her ("That's your plan," Shade said. "Let me find mine."); "He turned the card over once more." becomes "After a while he said," (C1, carrying B11); "Shade went completely still." cut at the seam of light (B5).
+- Ch15: "Rain on canvas." and "Bread." cut from the fire (B8).
+- Ch16: "Pathwell went still." cut before "Elizabeth continued before he could answer." (B6).
+- Ch17: the cabinets paragraph cut (B9); "Elizabeth waited." cut at Hearts (B7); "Some days her hand went to the gold chain at her throat instead." added (C3).
+- Ch18: "The orange cat" becomes "Boots", twice (B10).
 
-1. **Targets first: done.** No ruling or lock keeps any cut text. The fresh check searched Decisions, the ledger, the glossary, the Registry and Non-Negotiable Scenes. Ch13's "holding onto" line stays (R37, Q82); Ch11's "I don't need to be rescued" stays.
-2. **Shapes: not applicable.** No opening, engine or ending changed.
-3. **Checker: done.** The "goes still" watch pattern drops from 12 to 8; nothing else moved but paragraph counts.
-4. **Scene diagnostic: done, by the fresh check's reading.** No scene's movement changed.
-5. **Fresh check: done,** by a helper that didn't write the patches. Ten hunks KEEP. Three REVISE (Ch10 ×2, Ch13), all applied: the first Ch10 cut was restored rather than merged, because a merge would have had Pathwell correct himself unprompted, and Non-Negotiable 6 has Elizabeth make him say it. One REVERT (the Ch17 cabinets setup), applied. Outside the hunks it found the Ch18 pronoun (fixed), the stale Registry row (fixed), the missing authorization record (R58), and two older repeats it didn't cause (Ch11 "He waited."; Ch10's two remaining "Elizabeth waited."), left as they are.
-6. **Reader protocol: skipped.** Every change is a cut or a one-line plain edit, and the fresh check read each in context. A cold reader is still owed for L4.
-7. **Replacement tic: done.** The fresh check caught two (a fifth bare "No." in Ch10; "After a while he said" four lines under "After a moment Shade added" in Ch13), and both are fixed.
-8. **Deliberate ambiguity: done.** Untouched.
-9. **Change notes from the diff: done** (above).
-10. **Tenth seat: not applicable.** These are line edits.
+**CHECK:** Each change was read in its paragraph. Ch13 still flows into Shade's own "I want to stay here." to Mama Baga, and the queen now stays pocketed until he hands it to Milo. Ch17 still introduces the cabinets later without the cut paragraph ("Blank paper went into one cabinet."). The routine (D23):
 
-**RECONCILE:** R58, EXP-0018, the Registry, the ledger, [Revision Status](../../Revision-Status.md) and the [Emergence index](Emergence/INDEX.md). Chapters still L3.
+1. Tone guardrails / book's targets: done. No lock in [Before you touch a chapter](Before-You-Touch-A-Chapter.md) is touched; no line states the theme; "Leo" stays Pathwell's (glossary).
+2. Shapes before sentences: not applicable. No opening, engine, resolution or ending changed.
+3. Checker: done. Narration "going still" 12 → 8; otherwise only paragraph counts move (Ch13 260 → 264, Ch15 203 → 201, and single-paragraph changes elsewhere).
+4. Scene diagnostic: done for Ch13's card-table scene, the only scene whose movement changed. C1 gives Elizabeth a wrong move she backs off from; Shade's choice to stay is still his.
+5. Fresh check: done by this session, which did not write the patches (they were drafted in P73). C1–C4 are the author's selected text, so no taste call was made. A fully independent check is folded into step 2 below: the author's own read.
+6. Reader protocol: skipped. The author set his own straight read-through as the next step (R58); a blind read follows it.
+7. Replacement tic: done. B1–B10 are all cuts; no new "went still" or "waited" move replaced them.
+8. Deliberate ambiguity: done. R54, Q136 and lock 08-22 §4 untouched.
+9. Change notes from the diff: done (above).
+10. Tenth seat: not applicable. Author picks of existing candidates.
 
-## P78, 2026-10-22: the Sunday Morning tone written into the notes
+**RECONCILE:** Decisions R58; EXP-0018 closed; [Emergence index](Emergence/INDEX.md); [Promise Ledger](Promise-Ledger.md) L11 (Thumper planted in Ch5), L15 ("Leo" planted in Ch7), new L19 (the gold chain, paid in Ch17); [Revision Status](../../Revision-Status.md) (manuscript note; "What's next" rewritten to the author's order). All chapters still L3.
 
-**AUTHORITY:** The author, on what the Sunday stories were for: "the goal of the sunday stories was a more fun tone … Based off my experience / enjoyment with what I called 'Sunday Morning Movies'". Then: "Can we add the tone to the sunday morning stuff too?" Recorded as Sunday Morning [D27](../Sunday-Morning/Decisions.md#standing-rulings).
+## P78, 2026-10-23: the author's Chapter 1 line edits
 
-**DO:**
-- The Sunday Morning README opens with a new "What it's for": the stories are meant to be fun; the name comes from his "Sunday Morning Movies"; the method protects the feeling, and the feeling wins over a check (D9); a soft landing isn't a repeated beat to trim. It also gets a router row.
-- The tone guardrails link back to it.
-- `AGENTS.md` names R24 (Pathwell keeps some of the tone) beside the Sunday notes.
-- The brief adds "don't cut a soft landing as a repeated beat".
+**AUTHORITY:** The author marked up Chapter 1 in a Google Doc copy of the manuscript ("PATHWELL 10.23", exported from main @ 36334f9; Ch1 unchanged since) with strikeouts and bold, and asked for them to be applied. Recorded as [R59](Decisions.md#the-authors-rulings-for-this-revision).
 
-These edits are in this repository's copy only (D18); the 10 Kings copy doesn't have them yet.
+**DO:** Chapter 1 rebuilt from his marked copy: struck text removed, bold text kept, and his direct (unmarked) edits taken as they stand. His four notes to the reviser were not treated as text. Held: "GOODBYE LIZZY" (the chapter keeps "WELCOME ELIZABETH" until he answers). Reviser fixes, each listed for him to overrule:
+- staging: "The door slammed hard enough to rattle the chain and threw the bolt, the man had thrown himself across the room." becomes "The door slammed hard enough to rattle the chain, and the bolt shot home. The man had thrown himself across the room." (a door can't throw a bolt);
+- his note asking for blocking after "Huh.": "He looked from her to the wrecked doorway and back again." (plain, his to replace);
+- his note "how can she see inside the book?": "She looked at the cookbook in his hand, bent open at the ragged edge where the page had been.";
+- mechanical: a comma before "bringing with it", "tore free, sticking", "starts and stops, tracing"; "Yes, but—"; a stray "." paragraph and a double period removed; the sentence after the cut "the diary still under his arm" closed.
 
-**CHECK:** Links and anchors resolve. No chapter changed. Routine (D23): not applicable. The README quotes only his words for "Sunday Morning Movies" and adds no description he didn't give.
+**CHECK:** The result was read whole. Locks checked: the first line, "It was the crash that woke her." (R11) and the final "Ready?" / "No." / "Perfect." are intact; "marked" is still his bluff (R27); the notebook cue (R48) and "Reading," (R53) stay. The routine (D23):
 
-## P79, 2026-10-22: the author's "Sunday Morning Movies" definition added as a source
+1. Book's targets: done. No theme stated. The R10/R21 conflict in the banner edit is held, not applied.
+2. Shapes before sentences: not applicable. The opening's shape is unchanged pending his hook note.
+3. Checker: done. Ch1 is 1,240 words; short paragraphs 21%.
+4. Scene diagnostic: not applicable. No scene's movement changed.
+5. Fresh check: skipped. The text is the author's own; the three reviser lines are plain staging, listed above.
+6. Reader protocol: not applicable until the author's read-through is done (R58).
+7. Replacement tic: done. None added.
+8. Deliberate ambiguity: done. Untouched.
+9. Change notes from the diff: done (R59 lists them).
+10. Tenth seat: not applicable.
 
-**AUTHORITY:** The author supplied two files "I had worked on to define the concept": his own definition of Sunday Morning Movies, and the earlier conversation it grew out of. Both are recorded under Sunday Morning [D27](../Sunday-Morning/Decisions.md#standing-rulings).
+**RECONCILE:** Decisions R59; Promise Ledger L1 (the Ch1 meeting plant is gone; Ch2 still sets it up); Revision Status. Ch1 still L3. **Answered:** the banner stays "WELCOME ELIZABETH" (the author, same day). **Open for the author:** the opening hook, kept as Q-Q ("more just thinking"; not acted on).
 
-**DO:**
-- New source [Sunday Morning Movies](../Sunday-Morning/Sources/Sunday-Morning-Movies.md): his definition, word for word. Headings and bullets were added for reading; a script confirmed the words and their order are unchanged.
-- New evidence page [the first conversation](../Sunday-Morning/Sources/Sunday-Morning-Movies-Conversation.md): kept verbatim, marked not authority (it's another assistant's reply; its figures and links aren't checked here).
-- The Sunday Morning README's "What it's for" now quotes his short definition and his test ("Would I happily leave this on if I discovered it halfway through on cable?"), with a row in the notes table and the router.
-- D27 links the sources.
+## P79, 2026-10-23: what the author's Chapter 1 markup shows about his writing
 
-**CHECK:** Links and anchors resolve. No chapter changed. Routine (D23): not applicable.
+**AUTHORITY:** The author asked for feedback on his Chapter 1 markup and for notes "on how i prefer to write vs what we have to help build out the writing notes"; after reading the feedback and ten patterns: "Go for it, add all this".
 
-## P80, 2026-10-22: two reads through the Sunday Morning lens
+**DO:** [Line notes](../Sunday-Morning/Line-Notes.md) gains section 9, "What his own rewrites show": ten patterns, each with his before-and-after lines and the logic, and a table of the questions raised about his own rewrites (none applied; his call). Two older rows there are marked superseded by his markup: the sniff paragraph (§2) and the Ch1 meeting plant (§3). [Craft](../Sunday-Morning/Craft.md#lessons-from-the-authors-line-notes) gains rules 9 to 14 from the patterns, and a push-back line: his own rewrites get the same check, and when he asks for feedback, give it before applying.
 
-**AUTHORITY:** The author: "would it be worth reading the story again with these new notes in mind and seeing what revisions need to be made?", then "yes" to running two independent reads and putting the results in a candidate page.
+**CHECK:** Every new anchor resolves. No chapter changed. Routine (D23): not applicable (no prose changed).
 
-**DO:** Two helpers that didn't write the text read the book on this branch, after P79.
-- The [lens read](Reader-Reports/Sunday-Lens-2026-10-22/LENS-Ch01-18.md) was informed: all 18 chapters, against the author's Sunday Morning Movies definition, R24, the Thesis and the brief.
-- The [drop-in read](Reader-Reports/Sunday-Lens-2026-10-22/DROP-IN-Ch09-18.md) was blind: given only Chapters 9–18, copied out of the repository.
+**RECONCILE:** Pass Log only; R59 already records the markup.
 
-Both reports are saved verbatim. The reviser checked every finding against the chapters and the rulings, and built [EXP-0019](Emergence/experiments/EXP-0019-Sunday-Lens-Candidates-2026-10-22.md): four cuts (B1–B4, each leaned "take") and five questions (Q1–Q5). **No chapter changed.**
 
-**CHECK:** Every cited line was checked against the chapter text, and three counts were corrected. Every patch passes `git apply --check`, alone and all four together. Routine (D23):
-- Steps 1–9 are not applicable to the chapters, since no prose changed.
-- The two reads are the independent check, steps 5 and 6. The drop-in read is the first blind read of the back half since 10-06. It isn't the whole-book blind read L4 needs.
-- Tenth seat: not applicable (no verdict that later passes will treat as settled).
+## P80, 2026-10-26: earliest first-draft source and voice-recovery audit started
 
-**FINDINGS:**
-- **The book passes the author's test.** The blind reader would have kept reading from Ch9 at every checkpoint.
-- **The R24 balance holds.**
-- **The voice:** both readers, independently, found one shared deadpan spoken by too many characters. B1 and B2 thin it; Q1 asks whether the healer goes back to plain (R33).
-
-**RECONCILE:** [Revision Status](../../Revision-Status.md), the [Emergence index](Emergence/INDEX.md). Chapters still L3.
-
-## P81, 2026-10-22: EXP-0019 leans applied
-
-**AUTHORITY:** The author: "I trust your leans". Recorded as [R59](Decisions.md#the-authors-rulings-for-this-revision).
-
-**DO:** Applied EXP-0019 B1–B4 with `git apply`, unchanged:
-- Ch16: "Can I check it?"
-- Ch18: the shopkeeper's "Occupationally." cut.
-- Ch14: "…spreading from Pathwell's shadow."
-- Ch15: "outside the bar".
-
-`Story/Pathwell.txt` regenerated. EXP-0019 now lists the healer's dry lines for the author to rewrite (Q1). No new text was written.
-
-**CHECK:** Small-edit path; all four are cuts or a one-word change, and both readers in P80 read them in context. The checker moved only paragraph counts. Routine (D23):
-- Steps 1, 3 and 9: done.
-- Steps 2, 4 and 8: not applicable.
-- Step 5 (fresh check): covered by P80's two readers, who proposed these exact changes.
-- Step 6 (reader): skipped. The first-half read starts next, on this text.
-- Step 7 (replacement tic): done; no substitute moves.
-- Tenth seat: not applicable.
-
-**RECONCILE:** R59, EXP-0019, [Revision Status](../../Revision-Status.md).
-
-## P82, 2026-10-22: the first half through the Sunday Morning lens
-
-**AUTHORITY:** The author: "read the first half of the story now with the sunday tone in mind".
-
-**DO:** Two helpers that didn't write the text read Chapters 1–9 after P81.
-- The [blind cold read](Reader-Reports/Sunday-Lens-First-Half-2026-10-22/BLIND-Ch01-09.md) got only the nine chapters, copied out of the repository.
-- The [lens read](Reader-Reports/Sunday-Lens-First-Half-2026-10-22/LENS-Ch01-09.md) went scene by scene with the rulings. It disclosed seeing a few one-line snippets of the earlier lens reports, which it didn't open; this is recorded in its report.
-
-Both reports are saved verbatim. The reviser checked every cited line against the chapters and checked authorship against the voice benchmark, then built [EXP-0020](Emergence/experiments/EXP-0020-First-Half-Sunday-Lens-Candidates-2026-10-22.md): four cuts (B1–B4, none in the author's own lines) and two questions. **No chapter changed.**
-
-**CHECK:** Every patch passes `git apply --check`, alone and together. Routine (D23):
-- Steps 1–9 are not applicable to the chapters (no prose changed).
-- The two reads are steps 5 and 6.
-- The blind read is the first blind read of Ch1–9 since the October edits. It isn't the whole-book blind read L4 needs.
-- Tenth seat: not applicable.
-
-**FINDINGS:**
-- The first half passes the author's test: the blind reader said "keep reading" after every chapter.
-- Camp (Ch4) and the bar (Ch6) are the half's Sunday heart.
-- As in the back half, both readers found one corrective deadpan shared by too many speakers. Stansbury after Ch5 is the clearest case, and Elizabeth picks it up in Ch7–9.
-
-**RECONCILE:** [Revision Status](../../Revision-Status.md), the [Emergence index](Emergence/INDEX.md). Chapters still L3.
-
-## P83, 2026-10-22: EXP-0020 leans applied
-
-**AUTHORITY:** The author: "go for it". Recorded as [R60](Decisions.md#the-authors-rulings-for-this-revision).
-
-**DO:** Applied EXP-0020 B1–B3 unchanged:
-- Ch4: "He nodded. "This wheel is new." "Newer," he amended. "Relatively."" is now one paragraph.
-- Ch9: Shade's first "Fair." cut.
-- Ch8: "That wasn't my question." cut.
-
-B4 was corrected after the reviser read it in context: the plain cut left "this one passed too" with nothing to refer to, so Ch5 now reads "The pint-sized siege of chaos raged around them, then passed." The B4 patch and the EXP page are updated to match. `Story/Pathwell.txt` regenerated.
-
-**CHECK:** Each line read in its paragraph. The checker moved one watch count (5 → 4) and paragraph counts. Routine (D23):
-- Steps 1, 3, 7 and 9: done.
-- Steps 2, 4 and 8: not applicable.
-- Steps 5 and 6: covered by P82's two readers, who proposed these changes. The B4 correction is a reviser line edit, recorded here so a later fresh check can test it.
-- Tenth seat: not applicable.
-
-**RECONCILE:** R60, EXP-0020, [Revision Status](../../Revision-Status.md). Q1 and Q2 stay with the author.
-
-## P84, 2026-10-22: the house deadpan, candidate lines (EXP-0021)
-
-**AUTHORITY:** The author: "lets get back to the actual work of improving the story". The reviser took the open voice items from R59 and R60 (the healer back to plain, the Ch15 turnips line, Stansbury's Ch6 and Elizabeth's Ch8 "No. [correction]." lines, one trace of Stansbury's Ch5 vanity), because they are the convergent finding of both Sunday-lens passes.
-
-**DO:** [EXP-0021](Emergence/experiments/EXP-0021-House-Deadpan-Candidate-Lines-2026-10-22.md): 17 patches over 12 spots, as plain scaffolds for the author to pick, rewrite or refuse (who writes what). **No chapter changed.** The healer options take her back to her Ch4 register and keep Elizabeth's jokes wherever they can answer a plain line. The Stansbury options come from the author's own drafts (the fish, dusting himself off).
-
-**CHECK:** Every patch passes `git apply --check` alone, and the lean set applies together. An independent helper read each option in its scene against the author's Ch4–5 drafts, without the leans ([report](Reader-Reports/Fresh-Check-EXP-0021-2026-10-22.md)). It agreed on nine spots and changed three leans (H1 keep, S1a with S2, T1b). It also found two more deadpan "No." lines (Ch10:133, Ch18:233) and a third "the question" line (Ch12:187), all listed and not drafted. Routine (D23):
-- Steps 1, 3, 7 and 9: done.
-- Steps 2, 4 and 8: not applicable (no chapter text changed).
-- Step 5: done, as the fresh check above.
-- Step 6 (a cold read): not applicable until the author picks.
-- Tenth seat: not applicable.
-
-**Addendum:** the author asked whether the [quote and character voice reference](../Story_Files/quote_and_character_voice_reference.md) was being used. It wasn't: the reviser had searched it for the characters' names, found none, and not read it. Read in full and recorded on the EXP page; one option added from it (S1c). [AGENTS.md](../../AGENTS.md) §6 now sends any joke, emotional line or narrator comment to the voice benchmark first and then to this bank.
-
-**RECONCILE:** EXP-0021; EXP-0019's B1 row marked superseded by R59; [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).
-
-## P85, 2026-10-22: resource audit
-
-**AUTHORITY:** The author: "are we pulling inspiration from that? If we arent, are we using all the resources in the repo properly?"
-
-**DO:** [Resource audit](Emergence/RESOURCE-AUDIT-2026-10-22.md). Every tracked resource was checked for whether the entry pages reach it and whether passes cite it. Then the under-used pages were read. Finding: the records are linked, but passes have used them for constraints far more than for aim. The author's [voice guide](../Sunday-Morning/Sources/Voice-Guide.md) has never been cited by a pass, and the [reading list](../../Reading-List.md) (Pratchett first) wasn't reachable from AGENTS.md. Fixed where agents look:
-- AGENTS.md §6: the drafting row now starts with the voice guide and his line notes. The joke and narrator row now goes aim (voice guide, reading list), then his drafts, then the quote bank.
-- Two stale notes marked: the Ch1 line-notes page ("nothing applied") and the narrator register (pointed at archived guides).
-- A committed `.pyc` removed, and `.gitignore` added.
-
-EXP-0021 rechecked against the voice guide. S1c is now leaned against ("not every line should be quotable"), and the guide's dialogue section is recorded as the way into any "No. [correction]." rewrite.
-
-**CHECK:** Every link on the changed pages resolves. No chapter text changed, so the checker and readers aren't needed (D23 steps 2, 4, 5, 6 and 8 not applicable; 1, 3, 7 and 9 done).
-
-**OPEN, for the author:** some of his own Ch1 line notes from 2026-10-08 (R38) are still waiting: the first "Perfect." → "Good… that's good.", the second "low tide" cue, the felt cookbook panic, the party/light-switch deletion, the stammer and the "Huh" blocking. They're listed in the audit.
-
-**RECONCILE:** [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).
-
-## P86, 2026-10-22: the author's own Ch1 line notes
-
-**AUTHORITY:** The author: "go for it", on the lean to apply his open 2026-10-08 Ch1 notes as he wrote them unless a later ruling blocks one. Recorded as [R61](Decisions.md#the-authors-rulings-for-this-revision).
+**AUTHORITY:** The author identified his separately supplied `pathwell - work.docx` as the first draft, distinguished it from the intermediate `Pathwell Working` document, discussed ways revision may have normalized expressive prose, and explicitly asked to put that work in this repo and begin a voice-recovery audit. The existing [R58](Decisions.md#the-authors-rulings-for-this-revision) manuscript sequence (paper read-through first) remains the gate for **applying** future prose changes; this pass performs historical documentary research only.
 
 **DO:**
-- Ch1: nine of his notes applied in his own words (listed in R61). The bookend lock keeps the final "Perfect.". ¶15 no longer has a line to apply to.
-- The four notes that ask for new writing (¶65 low tide, ¶69 panic, ¶73 "more poetic", ¶125 blocking) are candidates in [EXP-0022](Emergence/experiments/EXP-0022-Ch01-Author-Note-Requests-2026-10-22.md), with leans, aimed by his voice guide.
-- The [R38 disposition](Emergence/CHAPTER-01-R38-CURRENT-DISPOSITION-2026-10-16.md) marked ¶71 "intent preserved", but his note changes "here" to "there", and that hadn't been applied. It is now.
-- `Story/Pathwell.txt` regenerated.
+- Saved an exact-words **plain-text export** of the author's earliest linked draft as [Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), preserving its spelling, bracket notes, alternate plot and historical status. Original Word layout is not preserved. Existing [`Pathwell Working.docx`](../Archive/Manuscript/Pathwell%20Working.docx) and [Voice-Benchmark extracts](Voice-Benchmark/README.md) were reused, not duplicated. Voice-Benchmark and archive indexes updated.
+- Wrote the [voice recovery protocol and provenance](Emergence/VOICE-RECOVERY-2026-10-26.md) and [selected Chapters 1–3 evidence ledger](Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md): 13 labeled comparisons across first draft, intermediate author's text, pre-August benchmark and current manuscript. Comparison judgments are **provisional informed editorial notes**, not selected novel patches or blind reads.
+- Added to the existing [line-editing procedure](../Sunday-Morning/Line-Editing-Protocol.md#literal-correctness-is-not-the-test-for-figurative-language) a guard against mistaking metaphoric transferred actions for factual errors. Added a historical clarification to [Line Notes](../Sunday-Morning/Line-Notes.md#10-correction-to-a-literalist-editorial-objection-2026-10-26): "a smell doesn't splatter" is not sufficient reason to cut the author's `wet-rot splattered` line.
+- Indexed evidence in [Emergence](Emergence/INDEX.md) and marked [Revision-Status](../../Revision-Status.md) without changing the author's next-step sequence.
 
-**CHECK:** The checker runs clean (exit 0). A [fresh check](Reader-Reports/Fresh-Check-P86-Ch01-2026-10-22.md) read the applied wording against his verbatim notes and found every change faithful. It also found a third mechanic ("He waved it off." as its own sentence), now named in R61, and two notes nobody had tracked (¶39 more detail, ¶167 "his attention"), now EXP-0022 C5 and C6. Its opinions, for the author: the ¶73 memory line is now a verbless fragment; "she thought that he had left" leaves the paragraph's past perfect; the final "Perfect." now rests on the bookend rather than an echo inside the chapter. Routine (D23): steps 1, 3, 7 and 9 done; 2 and 4 done (checker, ledger: "Perfect." R1 bookend intact); 5 done (fresh check); 6 (cold read) waits for the whole-book review (P87); 8 not applicable; tenth seat not applicable.
+**PRELIMINARY RESULT:** The bookstore's broad, cumulative first-draft catalogue (**V10**) is the strongest potential *voice-effect* recovery. The door's panic and cookbook's "seasoned" verb demonstrate author instincts but do not justify reversing story-locked opening/staging. The bad-food line and Boots's blood-god joke survive in improved forms; the current cookie-memory embodiment is stronger than the long first-draft spell. No blanket restoration of early prose justified.
 
-**RECONCILE:** R61; EXP-0022; [Revision Status](../../Revision-Status.md).
+**CHECK (D23 after-every-pass, reported individually):**
+1. Book targets and authority: **done** — AGENTS, Before You Touch a Chapter, R11, R27, R58 and the author benchmark used. No authority change, no new story canon.
+2. Shapes before sentences: **not applicable** — no manuscript edit or scene structural change.
+3. Checker: **not run / not applicable to documentation-only change** — no chapter text, assembled manuscript or length changed; do not claim a checker pass.
+4. Scene diagnostic: **not applicable** — no scene changed.
+5. Fresh independent check: **not done** — this is an informed source comparison; it cannot approve its own candidate and counts for no L4 status.
+6. Reader protocol: **not applicable** until R58 sequence and a genuinely unprimed reader.
+7. Replacement tic: **not applicable** — no prose replacements.
+8. Deliberate ambiguity: **done** — existing Q-Q opening hook and Q-O neighborhood issue left open; no pruning mechanic or author taste decision asserted.
+9. Change notes / diff: **done** — only archived historical reference, editorial notes and linked method/index/status; no `Story/Chapters/Chapter_*.txt` changes.
+10. Tenth seat: **not applicable** — no consequential prose choice adopted.
 
-## P87, 2026-10-22/23: the web, and the whole book against the repository's resources
+**RECONCILE:** Source benchmark/Archive README, Emergence index, Line Notes, Line-Editing Protocol and Revision Status updated. No R-row added (the author made no new novel ruling). All chapters remain **L3**. An actual chapter-by-chapter exhaustive recovery map, source-diff lineage and approved EXP patches remain **not done**.
 
-**AUTHORITY:** The author: "we need to then review the entire story using the resources in the repo, and mkae the agent notes make note of it all, that should have been part of the spiderweb from MAPSL".
 
-**SOURCES:** *Rulings:* Decisions, Before you touch a chapter, Author-Notes. *Targets:* Thesis, Non-Negotiable Scenes, Writing Principles, the contract matrix, INS-0001/IDEA-0001. *Aim:* the voice guide (whole), the Sunday Morning Movies definition, the reading list, pathwell_prose_voice, the narrator register, the voice benchmark (Ch1–7), the quote bank, forbidden_patterns, Writing against sameness, AI tells. *World:* canon, the world and character bibles, glossary, Registry, Promise Ledger. *Evidence:* the 2026-10-22 Sunday lens reports and blind reads, the cold read, the panel. *Method:* MAPS_L's Spiderweb playbook and scanner.
+## P81, 2026-10-26: transfer earliest author voice into Sunday Morning craft
+
+**AUTHORITY:** The author asked what his first draft reveals about how he likes to tell stories, and explicitly asked to transfer the **best version of that voice** into the Sunday Stories. The reusable Sunday Morning method in this repository is `Story/Sunday-Morning/` (this copy is the richest/most recently developed copy, per its README); the source documents and author draft remain references. No new ruling of tone or fiction canon was made.
+
+**DO:** In the existing [Sunday Morning Craft owner page](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling) added seven observed narrative instincts and a six-part **diagnostic rather than recipe**: a speaking, sometimes associative narrator; deliberate personification and cross-sense metaphor; sincere "wrong priority" humor; conversational rhythms with longer accumulation; human emotional history in ordinary things; pleasure/attachment as valid functions; selective pruning of over-description. The [Sunday Morning Line Notes evidence owner](../Sunday-Morning/Line-Notes.md#11-what-the-authors-earliest-first-draft-adds-to-the-voice-evidence-2026-10-26) now includes ten verified author-original excerpts with gains/limits. [Sunday Morning README](../Sunday-Morning/README.md#find-it-fast) directs drafting/review to both.
+
+**Specific correction to prior method:** "If cutting it changes nothing" now expressly tests enjoyment, attachment, atmosphere and rhythm **as well as** cause and plot. An earlier local reduction of AI-drafted narrator jokes to about one per story is **not** a rule for the author's natural narration. Successful figurative nonliteral language remains available; cut stacked *effects* and confusing staging, not expressive words by category. Do not imitate the first draft's spelling/plot choices, or darken Sunday Morning stories to match Pathwell. The [imported Voice Guide](../Sunday-Morning/Sources/Voice-Guide.md), [Framework](../Sunday-Morning/Sources/Framework.md), [Decisions](../Sunday-Morning/Decisions.md) and canon remain unchanged.
+
+**CHECK (D23, method-only):**
+1. Author authority and Sunday Morning tone: **done** — Framework's "You do not need to brace yourself" retains priority. No setting facts imported.
+2. Shapes before sentences: **not applicable** — no story prose.
+3. Checker: **not run** — no story/chapter modified; checker is not a test for documentation truth.
+4. Scene diagnostic: **not applicable**.
+5. Fresh independent check: **not done** — editorial observations are labeled as inference.
+6. Reader protocol: **not applicable**; this is not an L4 reader report.
+7. Repetition/tic check: **done by inspection** — explicitly bans quotas and signature-line imitation, preserves room for quiet stories.
+8. Deliberate ambiguities: **done** — Pathwell R58, R11 and the book's unresolved choices unchanged.
+9. Change notes/source: **done** — new historical evidence grounded in the saved original author draft, with opposite cases where revision genuinely improved the effect.
+10. Tenth seat: **not applicable**.
+
+**RECONCILE:** Sunday Morning `Craft.md`, `Line-Notes.md`, `README.md` updated in their existing ownership locations rather than creating another competing voice guide; no files in `Story/Chapters/` changed and no L4 status advanced.
+
+
+## P82, 2026-10-26: action beats versus redundant blocking
+
+**AUTHORITY:** The author asked whether describing gestures and character movements in his earliest Chapter 1 was genuinely excessive "blocking" or whether a later editing process eliminated too much expressive physical storytelling. After comparing the archived first draft, author's hypothetical `"... Magically speaking," he said, nodding his head to the side`, and **actual current Chapter 1**, the reviser recorded a distinction without seeking or applying prose changes.
 
 **DO:**
-- **The web** ([AGENTS.md §8](../../AGENTS.md#8-the-web)): MAPS_L's Spiderweb rule, "nothing durable is an island". Resources are opened by role, and Aim is required for any writing pass. Every Pass Log entry now carries a SOURCES line. His own words come first. Stale statuses get dated current dispositions. The [inventory](README.md#inventory-of-existing-process-records) is now the full map, with when to open each resource. The scanner is ported to [`tools/check_spiderweb.py`](tools/check_spiderweb.py), where links to folders and folder READMEs count as edges: 349 files, no findings. Three stale EXP statuses (0008, 0012, 0014) got current dispositions.
-- **The review:** three independent reviewers each read all 18 chapters through one role (aim, targets, world): [reports](Reader-Reports/Whole-Book-Resources-2026-10-22/). They're reconciled in [EXP-0023](Emergence/experiments/EXP-0023-Whole-Book-Resource-Review-Candidates-2026-10-23.md):
-  - 19 cuts where the book explains itself;
-  - 5 lines where reviewers disagree with earlier readers;
-  - 4 continuity fixes;
-  - 8 items for his pen;
-  - partial options A3b, A8b and A17b.
-  **No chapter changed.**
-- **Records pass**, from the world and targets reviewers. Dated current-disposition notes on stale lines in canon, the world and character bibles (including Stansbury's turn), the glossary, the contract matrix, Writing Principles and three Decisions lock rows. The ledger's P2, O6, R3, R7, R12, R17, L1 and L11 corrected, and L19 (the healed young woman), L20 (the gold chain) and L21 (Q-O) added. The Registry gains Ken, and its open letters and three final lines are corrected.
+- Extended the existing [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity) with a bounded test separating *spatial staging*, *expressive action beats*, and *redundant choreography*. An action can serve character, persuasive intent, comic timing, emotional embodiment, rhythm or reader pleasure; it needn't convey new plot data to belong.
+- Added [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26) with three explicit comparison treatments. The author's "nodding to the side" is **illustrative hypothetical phrasing**, not falsely attributed to the checked canonical file. The present Ch1's `He nodded at the ooze drying on her walls` is a more precise and characterful beat: Pathwell recruits apparent physical evidence for his **false "marked" claim** (R27).
+- Compared this with a real first-draft cost: the repeated box-search motions and multiple "Hey" attempts before the exchange moves forward. The earlier author-approved cut `He drummed his fingers on the edge of the table, looking around aimlessly` remains defensible as duplicated generic movement. **Neither case licenses an anti-gesture rule**.
+- Extended [Sunday Morning Craft's first-draft habits](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), navigation [README](../Sunday-Morning/README.md#find-it-fast), [voice-recovery protocol](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler) and [Emergence index](Emergence/INDEX.md#action-beat-and-blocking-distinction-2026-10-26). No redundant new style guide created.
 
-**CHECK:**
-- An independent [fresh check](Reader-Reports/Whole-Book-Resources-2026-10-22/FRESH-CHECK-EXP-0023.md) applied the leans and read each in context. Four leans changed: A8 → A8b, A14 keep, A15 keep, A17 → A17b.
-- Every patch applies, and the lean set applies together. The checker runs clean on it. The spiderweb finds nothing.
-- Routine (D23): steps 1, 2, 4, 5, 6 and 9 done; 3 done (checker); 7 done (open-on-purpose items left alone: marked, the prune, the blob sparing Pathwell); 8 done (this entry, ledger, status). Tenth seat: not applicable.
+**JUDGMENT:** Much of the earliest draft's searching/repetition could be trimmed for timing and clarity. Physical movement conveying intent, presence, humor or a credible bluff deserves to survive even if dialogue makes semantic sense without it. The best current sentence is improved by **specifying its target**, not by removal. This is a provisional editorial determination, **not a new author ruling**.
 
-**RECONCILE:** EXP-0023; [Emergence index](Emergence/INDEX.md); [Revision Status](../../Revision-Status.md).
+**CHECK (D23, documentation-only):**
+1. Book targets and author decisions: **done** — Ch1 `marked` is still a bluff; R11 first line and R9 last-line locks untouched.
+2. Shapes before sentences: **not applicable**, no chapter changes.
+3. Checker: **not run** (no chapter, story, or assembled manuscript changed).
+4. Scene diagnostic: **not applicable**.
+5. Independent fresh check: **not done**; no L4 claims.
+6. Reader protocol: **not applicable**; R58 author paper-read gate stays.
+7. Repetition/tic: **done in guidance** — explicitly warns against quotas, repeated nods/glances, and physical-action lists.
+8. Deliberate ambiguity: **done** — the current deceptive assertion remains a bluff, with no new canon.
+9. Diff and source verification: **done** — current Ch1, original early Ch1, existing approved line notes checked; branch only documents findings.
+10. Tenth seat: **not applicable**; no story-level choice applied.
 
-## P88, 2026-10-23: the diner and Shade's death (EXP-0024), with a blind A/B read
+**RECONCILE:** Method owner, evidence owner, Sunday Morning and Emergence navigation, voice audit and Pass Log updated. No R-row, manuscript edit, EXP patch, or status upgrade.
 
-**AUTHORITY:** The author: the diner and Shade's death "really have room / need to really carry emotional weight". At the diner "we need to feel like elizabeth finding out that everythign she built didnt matter". Shade's death "needs to feel unfair… like hope was ripped from the world".
 
-**SOURCES:** *Rulings:* NN5, NN9, R45–R47, Rung Q58–Q59, W16, R23, R24. *Aim:* the voice guide (objects carry emotion; collapse over something trivial; let reflection stretch); his drafts. *World:* the Promise Ledger (R12, the queen of spades). *Evidence:* earlier reader reports on Shade (the 10-08 panel; the 10-22 drop-in and blind reads).
+## P83, 2026-10-26: author clarifies qualifying nod
 
-**DO:**
-- [EXP-0024](Emergence/experiments/EXP-0024-Diner-and-Shades-Death-Candidates-2026-10-23.md): a diagnosis and six candidates.
-  - D1: the diner beat on "never the point".
-  - D2: "He told me my apartment was marked."
-  - S1: Shade's repair note at the wash basket, paying off Mama Baga's "If you want it repaired, leave a note."
-  - S2: the queen on the card table.
-  - S3: the stretched remembering.
-  - S4: "REPAIR REQUESTED." on the loss sheet.
-  Shade saying "Go." was ruled out (Q59). **No chapter changed.**
-- **A blind A/B read:** two fresh readers read the whole book (control vs D1–S4), and the same questions were sent only after they finished ([reports](Reader-Reports/Blind-AB-Shade-and-Diner-2026-10-23/)). Both rank Shade first and score his death 8/10 and the diner 7/10. Reader B felt every candidate, and S4 was "the most moving moment in the book for me".
-- **The readers overturned most of EXP-0023's leans.** Both singled out as moving 11 of the lines the informed reviewers wanted cut. EXP-0023 now has a current disposition: the lean set shrinks to A1, A3b, A10, A11, A13, A16, A17b and C1–C4. The lesson is [INS-0002](../insights/INS-0002-check-blind-reader-logs-before-cutting-a-line.md), folded into [Before you touch a chapter](Before-You-Touch-A-Chapter.md#how-a-change-gets-in): search the blind-read logs before cutting a line.
+**AUTHORITY:** Immediately after the P82 discussion, the author clarified that his example `"... Magically speaking," he said, nodding his head to the side` was **not** a nod indicating anything in the room. It was "like a indecisive nod like 'so to speak'": a small, conversational qualifying movement accompanying an intentionally hedged phrase.
 
-**CHECK:** All six EXP-0024 patches apply together. The blind readers are the independent check. Routine (D23):
-- Steps 1, 5, 6 and 9: done.
-- Steps 2, 3, 4 and 8: not applicable (no chapter text changed).
-- Step 7: done (Q59 respected).
-- Tenth seat: not applicable.
+**CORRECTION TO P82:** P82 described the current line `He nodded at the ooze drying on her walls` as a more purposeful and spatially precise improvement, assuming the original sideways nod was meant to indicate something. That inference was **wrong**. The current line supports the invented magical-marking bluff using visible residue, but is a **different performance** from the author's intended little verbal-physical qualification. It should not be presented as automatically better. The older P82 entry remains as a historical record of the error, with this explicit correction taking precedence.
 
-**OPEN, for the author** (both readers): a goodbye with Shade, within Q59; the silence after the Ch18 confession; whether the diner should land as loss before relief; the walk back from the diner; reader B inferring that Shade's look sends her to Milo.
+**DO:** Corrected the [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity), [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26), the existing [Sunday Morning Craft application](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), the [voice-recovery audit](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler), and the [Emergence index](Emergence/INDEX.md#action-beat-and-blocking-distinction-2026-10-26). No additional style guide created.
 
-**RECONCILE:** EXP-0023, EXP-0024, INS-0002, the brief, [Emergence index](Emergence/INDEX.md), [Revision Status](../../Revision-Status.md).
+**LESSON:** Do not assume every nod, head tilt or sideways movement is directional. Some gestures are rhetorical punctuation, ambivalence, hedging, self-correction or subtext; "clarifying" such a gesture by assigning it a target can erase the character's original manner. Ask what the action *means* in the utterance before adjusting where it points.
 
-**P88 addendum (2026-10-23):** the author asked that all the blind-reader material be on the repository. Added:
-- [Reader-Reports/README.md](Reader-Reports/README.md), an index of every read (blind, informed, fresh check) with the grep that INS-0002 asks for;
-- READMEs for the [blind A/B read](Reader-Reports/Blind-AB-Shade-and-Diner-2026-10-23/README.md) and the [whole-book resource reviews](Reader-Reports/Whole-Book-Resources-2026-10-22/README.md). The A/B README records both briefs verbatim, the follow-up questions, the exact text each reader read (`5817524`, plus the EXP-0024 patches for B) and a results table;
-- the P86 fresh check, which had been summarized in the Pass Log but not saved ([report](Reader-Reports/Fresh-Check-P86-Ch01-2026-10-22.md)).
+**STATUS / CHECK:** Historical and craft documents only. **No `Story/Chapters/` changes**, no author-selected new wording, no patch, no story checker run and no independent/blind read. R27's `marked` bluff and R58's author-read gate remain intact; all chapter L3 statuses unchanged. The author may decide whether or how to revise the actual Ch1 gesture after the paper read.
 
-Both A/B logs were checked byte for byte against the readers' own files.
+
+## P84, 2026-10-26: precise rhetorical half-nod and Sunday Morning transfer
+
+**AUTHORITY:** The author requested a clearer, more detailed explanation of the previously described sideways, indecisive half-nod on Pathwell's "Magically speaking" line, and explicitly requested the notes be updated. This refines the author clarification in P83 rather than making a new canonical line choice.
+
+**DO:** Added a detailed explanation to [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26): a small off-center dip or bob timed to "Magically speaking" acts as a **physical "so to speak"** — a rhetorical qualifier, not a gesture at an object, a definite assent or necessary indication of genuine doubt. Pathwell may know he's bluffing while performing noncommittal word-choice. Recorded two *illustrative, unapproved* prose phrasings. Linked its transfer to [Sunday Morning Craft](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity) and [Voice-Recovery Audit](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler). The test now asks what a gesture does **to the sentence**, not automatically what it points **toward**.
+
+**CHECK:** Documentation-only, direct on main by the author's request. Existing author-approved Chapter 1 unchanged, no scene patch, no chapter checker, no blind read, no new L4 status. This preserves R27's bluff, R58's paper-read gate, and all current locks.

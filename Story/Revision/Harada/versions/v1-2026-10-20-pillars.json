@@ -1,0 +1,550 @@
+{
+ "center": {
+  "title": "The last page earns it",
+  "short": "“Are you ready?” / “No.” / “Perfect.”",
+  "detail": "Elizabeth, with no power and no debt left to collect, asks the man whose control cost a life to come along, and the reader believes both her question and his “No.”",
+  "thesis": "Control is not competence. When you treat future possibility as leverage, you eventually destroy your ability to choose, and other people pay for your convenience.",
+  "test": "If a character says the theme out loud, it's failed."
+ },
+ "pillars": [
+  {
+   "id": "choose",
+   "title": "Elizabeth chooses her way here",
+   "ref": "Ledger R15",
+   "why": "The invitation only means something if she has been choosing, one rung at a time, all book.",
+   "cells": [
+    {
+     "ch": 1,
+     "label": "Opens the chained door",
+     "quote": "She turned the lock and opened it against the chain.",
+     "status": "paid",
+     "note": "First small independent act, before any magic (R50)."
+    },
+    {
+     "ch": 1,
+     "label": "Grabs the cookbook back",
+     "quote": "Elizabeth grabbed the cookbook by the spine and pulled it from his hands.",
+     "status": "paid",
+     "note": "Property defense under pressure (R49)."
+    },
+    {
+     "ch": 2,
+     "label": "Goes after her books",
+     "quote": "He still has it.",
+     "status": "paid",
+     "note": "She follows for the cookbook, not for him. Constrained, not consent (Q118)."
+    },
+    {
+     "ch": 4,
+     "label": "Chooses the forest over the sidewalk",
+     "quote": "She had put them there herself, after the shopkeeper had offered to send her back to the sidewalk.",
+     "status": "paid",
+     "note": "The first choice made with her books back (R31)."
+    },
+    {
+     "ch": 7,
+     "label": "Cuts him out of the blob",
+     "quote": "Elizabeth already had the dagger in her hand.",
+     "status": "paid",
+     "note": "Stansbury made the tool; she chose to use it (Q106)."
+    },
+    {
+     "ch": 8,
+     "label": "Puts the car in the ditch",
+     "quote": "Elizabeth chose the ditch.",
+     "status": "paid",
+     "note": "The midpoint crash, chosen (Non-Negotiable 4)."
+    },
+    {
+     "ch": 11,
+     "label": "Refuses rescue",
+     "quote": "I don't need to be rescued.",
+     "status": "paid",
+     "note": "He overrides her anyway; the museum pays (Non-Negotiable 6)."
+    },
+    {
+     "ch": 15,
+     "label": "Runs to Milo",
+     "quote": "That was the choice.",
+     "status": "paid",
+     "note": "No spell, dagger unused, diary and cookbook passed by (R45)."
+    }
+   ]
+  },
+  {
+   "id": "control",
+   "title": "Pathwell decides for people",
+   "ref": "Ledger R16, R8",
+   "why": "The controlling idea made flesh. Each step is help nobody asked for, until the last step is help he withholds.",
+   "cells": [
+    {
+     "ch": 1,
+     "label": "The invented certainty",
+     "quote": "Your house has now been marked, magically speaking.",
+     "status": "paid",
+     "note": "Half-bluff over a real, misread danger (Ledger P4, transformed)."
+    },
+    {
+     "ch": 2,
+     "label": "A choice while holding her things",
+     "quote": "The choice is yours, Lizzy.",
+     "status": "paid",
+     "note": "Blind-spot irony, locked (Q118); inverted in Ch18 (Ledger R4)."
+    },
+    {
+     "ch": 3,
+     "label": "Buys what nobody ordered",
+     "quote": "Did Camp Cunnan ask you for all of this?",
+     "status": "paid",
+     "note": "Pays with his own future and clears the old debt (Non-Negotiable 1)."
+    },
+    {
+     "ch": 4,
+     "label": "The self-appointed delivery",
+     "quote": "You appointed yourself a delivery.",
+     "status": "paid",
+     "note": "Camp needed it and didn't ask (Ledger R8)."
+    },
+    {
+     "ch": 10,
+     "label": "The Ask",
+     "quote": "But you still chose it.",
+     "status": "paid",
+     "note": "Morally paid. What the original problem was stays open by lock (Q141)."
+    },
+    {
+     "ch": 11,
+     "label": "Overrides her at the museum",
+     "quote": "She wasn't yours to take from.",
+     "status": "paid",
+     "note": "Shade says it; the discharge destroys the records and hurts her."
+    },
+    {
+     "ch": 14,
+     "label": "Builds the frame over a no",
+     "quote": "You're building a rejoining frame.",
+     "status": "paid",
+     "note": "Shade refuses, Mama Baga says stop, he forces it (Non-Negotiable 7)."
+    },
+    {
+     "ch": 15,
+     "label": "Doesn't call for help",
+     "quote": "He was close enough to hear Shade calling.",
+     "status": "paid",
+     "note": "Shown, not explained; he confesses it in Ch18 (R46)."
+    }
+   ]
+  },
+  {
+   "id": "reckon",
+   "title": "Pathwell reckons, without a pardon",
+   "ref": "Ledger R16; R47",
+   "why": "So the invitation reads as her choice, not his absolution.",
+   "cells": [
+    {
+     "ch": 3,
+     "label": "Sees the torn page",
+     "quote": "Pathwell saw, and looked away.",
+     "status": "paid",
+     "note": "The first time he registers a cost to her."
+    },
+    {
+     "ch": 6,
+     "label": "The mirror turns toward him",
+     "quote": "Something points in an unpleasant direction,",
+     "status": "paid",
+     "note": "“Mine.” The mystery starts pointing at him."
+    },
+    {
+     "ch": 14,
+     "label": "Mama Baga says stop",
+     "quote": "Mama Baga said, \"Stop.\"",
+     "status": "paid",
+     "note": "He doesn't. That's the point (Q145)."
+    },
+    {
+     "ch": 16,
+     "label": "Restitution, defined by Camp",
+     "quote": "\"Not me,\" Pathwell said.",
+     "status": "paid",
+     "note": "Evidence, not absolution (Q133, Q143)."
+    },
+    {
+     "ch": 16,
+     "label": "Elizabeth refuses to make it mean something",
+     "quote": "I am not going to make your guilt useful.",
+     "status": "paid",
+     "note": "Her line, not the narrator's."
+    },
+    {
+     "ch": 18,
+     "label": "Asks first, takes the no",
+     "quote": "I asked first.",
+     "status": "paid",
+     "note": "“And the wagon remains yellow.”"
+    },
+    {
+     "ch": 18,
+     "label": "Puts the other cookbook back",
+     "quote": "put it back on the end of the shelf where it had been, square to the edge.",
+     "status": "paid",
+     "note": "Silent; he doesn't find out if he can still prune (Q96, Q99, Q103)."
+    },
+    {
+     "ch": 18,
+     "label": "Confesses",
+     "quote": "That's not what I did.",
+     "status": "paid",
+     "note": "From shame, before her comparison; he refuses the equivalence (Version C)."
+    }
+   ]
+  },
+  {
+   "id": "shade",
+   "title": "Shade is a person",
+   "ref": "Ledger R13, R14, P6",
+   "why": "His death has to cost something, or Pathwell's omission costs nothing.",
+   "cells": [
+    {
+     "ch": 6,
+     "label": "The wrong reflection",
+     "quote": "like hearing your own voice on a recording and recognizing every word without recognizing the man who said them.",
+     "status": "paid",
+     "note": "Before anyone knows he exists."
+    },
+    {
+     "ch": 8,
+     "label": "He names himself",
+     "quote": "A pause. \"Shade.\"",
+     "status": "author",
+     "note": "Roadside reveal kept over the August lock; W16 is still with the author."
+    },
+    {
+     "ch": 9,
+     "label": "Doesn't confess for Pathwell",
+     "quote": "He knows what he did. Ask him.",
+     "status": "paid",
+     "note": "Shade's restraint makes the Ask hers (Non-Negotiable 5)."
+    },
+    {
+     "ch": 13,
+     "label": "Bad at Hearts",
+     "quote": "Shade was bad at Hearts.",
+     "status": "paid",
+     "note": "Personhood in small things: coffee, the green jacket, pockets."
+    },
+    {
+     "ch": 13,
+     "label": "Wants something",
+     "quote": "I want to stay here.",
+     "status": "paid",
+     "note": "His own want, not Pathwell's problem."
+    },
+    {
+     "ch": 14,
+     "label": "Says no",
+     "quote": "Do I remain myself?",
+     "status": "paid",
+     "note": "The refusal a blind reader called the strongest dialogue in the book."
+    },
+    {
+     "ch": 15,
+     "label": "Fights to live",
+     "quote": "\"Again,\" Shade said.",
+     "status": "paid",
+     "note": "Caught while helping; no consent, no serene acceptance (R46)."
+    },
+    {
+     "ch": 16,
+     "label": "Camp names him",
+     "quote": "SHADE — DIED AT CAMP.",
+     "status": "paid",
+     "note": "“LIKED POCKETS.”"
+    }
+   ]
+  },
+  {
+   "id": "records",
+   "title": "Her records are given, not taken",
+   "ref": "Ledger O1, O2, O3",
+   "why": "What he took in Ch1 she gives away herself by Ch12, and loses by choice in Ch15.",
+   "cells": [
+    {
+     "ch": 1,
+     "label": "Nana's ink lights up",
+     "quote": "Gold ran along the ink in little starts and stops",
+     "status": "paid",
+     "note": "The magic belongs to the person who wrote the page (R51)."
+    },
+    {
+     "ch": 1,
+     "label": "The page tears",
+     "quote": "The sugar-cookie page stayed under his palm.",
+     "status": "author",
+     "note": "The tear itself isn't shown yet. EXP-0015 B3 / C3 waiting."
+    },
+    {
+     "ch": 2,
+     "label": "Nana's name for her",
+     "quote": "Lizzy.",
+     "status": "paid",
+     "note": "The echo sends her after the cookbook (R21)."
+    },
+    {
+     "ch": 3,
+     "label": "Returned by the shop, not by him",
+     "quote": "These were never his to spend.",
+     "status": "paid",
+     "note": "The rebuke the P65 reader liked best."
+    },
+    {
+     "ch": 4,
+     "label": "Given whole",
+     "quote": "The whole book.",
+     "status": "paid",
+     "note": "One page spent healing a stranger (Non-Negotiable 3)."
+    },
+    {
+     "ch": 12,
+     "label": "The diary donated",
+     "quote": "Ask me before anyone reads it.",
+     "status": "paid",
+     "note": "Ownership passes to the archive (Ledger O3)."
+    },
+    {
+     "ch": 15,
+     "label": "She runs past both",
+     "quote": "Everything else burned afterward.",
+     "status": "paid",
+     "note": "Rhymes with Ch4's “That was the choice.” (Ledger R6)."
+    },
+    {
+     "ch": 18,
+     "label": "The sugar cookies come back",
+     "quote": "The torn sugar-cookie page.",
+     "status": "thin",
+     "note": "One line in a list. The cold reader wanted more; any return is the author's line (Ledger O2)."
+    }
+   ]
+  },
+  {
+   "id": "camp",
+   "title": "Camp is help that asks",
+   "ref": "Ledger R17, O8; R41",
+   "why": "The other way to help, so the reader can see what Pathwell's way costs without anyone saying it.",
+   "cells": [
+    {
+     "ch": 4,
+     "label": "Asks her, not him",
+     "quote": "Are you being dragged?",
+     "status": "paid",
+     "note": "He answers for her; she answers for herself: “Less than I was.”"
+    },
+    {
+     "ch": 4,
+     "label": "Welcomes her",
+     "quote": "You'll fit in here.",
+     "status": "paid",
+     "note": "Clothes, the gold chain, the tucked hair (R41)."
+    },
+    {
+     "ch": 4,
+     "label": "The archive",
+     "quote": "Not hidden. Not displayed. Available.",
+     "status": "paid",
+     "note": "Records kept for people who still need them."
+    },
+    {
+     "ch": 4,
+     "label": "Milo's sock",
+     "quote": "One sock had surrendered halfway down his calf.",
+     "status": "paid",
+     "note": "Runs to the fire and after (Ledger R11)."
+    },
+    {
+     "ch": 10,
+     "label": "Why she picks Camp",
+     "quote": "Mama Baga didn't ask me anything I didn't want to tell her.",
+     "status": "paid",
+     "note": "Chosen because nobody controls the room there."
+    },
+    {
+     "ch": 15,
+     "label": "The blue notebook saved",
+     "quote": "Stansbury came back out through the side window carrying the blue road notebook",
+     "status": "paid",
+     "note": "Camp's own record survives (Ledger O8)."
+    },
+    {
+     "ch": 16,
+     "label": "Pathwell carries boxes where told",
+     "quote": "He didn't rearrange them.",
+     "status": "paid",
+     "note": "Restraint shown in one gesture."
+    },
+    {
+     "ch": 17,
+     "label": "Clean hands, one section",
+     "quote": "clean hands, a pencil, and exactly one section",
+     "status": "paid",
+     "note": "“Copy the smudge.”"
+    }
+   ]
+  },
+  {
+   "id": "fair",
+   "title": "The mysteries play fair",
+   "ref": "Ledger P1, P3, P5, P7",
+   "why": "The reader has to trust the withholding. Every held question gets a hand-off or a payoff.",
+   "cells": [
+    {
+     "ch": 1,
+     "label": "At the door before any magic",
+     "quote": "Something wet and dark sagged into the gap.",
+     "status": "paid",
+     "note": "The clue that the blob isn't hers (Ledger P3)."
+    },
+    {
+     "ch": 1,
+     "label": "A true line said as a joke",
+     "quote": "Just cleaning up a mess.",
+     "status": "paid",
+     "note": "Literally what the creature is."
+    },
+    {
+     "ch": 1,
+     "label": "Why was he in her apartment?",
+     "quote": "Do you mind?",
+     "status": "author",
+     "note": "Nobody asks, all book. Author's fix: “What are you still doing here?” (EXP-0015 B0) paired with her Ch3 inference (B1)."
+    },
+    {
+     "ch": 3,
+     "label": "How much future is left?",
+     "quote": "You did.",
+     "status": "open",
+     "note": "Open by ruling: he chooses not to find out (Q96, R19)."
+    },
+    {
+     "ch": 4,
+     "label": "It came first; then it ate the waste",
+     "quote": "It changed targets. Fresh waste.",
+     "status": "paid",
+     "note": "“The first part did not.” The question becomes hers."
+    },
+    {
+     "ch": 7,
+     "label": "It goes for him",
+     "quote": "\"Not me,\" she said.",
+     "status": "paid",
+     "note": "“No.” Pathwell corrects his own misread."
+    },
+    {
+     "ch": 9,
+     "label": "Never the point",
+     "quote": "Then you were never the point.",
+     "status": "paid",
+     "note": "The target misdirection paid (Ledger P3, P4)."
+    },
+    {
+     "ch": 16,
+     "label": "The draw goes quiet",
+     "quote": "Shade was gone.",
+     "status": "paid",
+     "note": "Because the anomaly is gone, not because of a mechanic (Ledger P8)."
+    }
+   ]
+  },
+  {
+   "id": "bookend",
+   "title": "The bookend turns over",
+   "ref": "Ledger R1, R2, R3, R7",
+   "why": "The first page's exchange comes back with the roles swapped, and the small ordinary things carry it.",
+   "cells": [
+    {
+     "ch": 1,
+     "label": "He asks; she says no",
+     "quote": "Ready?",
+     "status": "paid",
+     "note": "Momentum over her. “Perfect.” is his."
+    },
+    {
+     "ch": 1,
+     "label": "The first line",
+     "quote": "It was the crash that woke her.",
+     "status": "paid",
+     "note": "Boxes falling, not the blob (R27)."
+    },
+    {
+     "ch": 2,
+     "label": "Perfectly crappy",
+     "quote": "Perfectly crappy.",
+     "status": "paid",
+     "note": "The book's taste for honest, ordinary things starts here."
+    },
+    {
+     "ch": 3,
+     "label": "Terrible coffee",
+     "quote": "Familiar things are useful.",
+     "status": "paid",
+     "note": "Recurs through Ch9, 10, 13, 16, 18 (Ledger R7)."
+    },
+    {
+     "ch": 8,
+     "label": "The first line, chosen",
+     "quote": "It was the crash that woke her.",
+     "status": "paid",
+     "note": "Bare, at the midpoint (R11)."
+    },
+    {
+     "ch": 17,
+     "label": "The spoon",
+     "quote": "It was still hers.",
+     "status": "paid",
+     "note": "Ordinary life stays aggressively itself."
+    },
+    {
+     "ch": 18,
+     "label": "She asks to go",
+     "quote": "You asked me to take you somewhere.",
+     "status": "paid",
+     "note": "He checks whether anything was actually requested."
+    },
+    {
+     "ch": 18,
+     "label": "She asks; he says no",
+     "quote": "Are you ready?",
+     "status": "paid",
+     "note": "“Perfect.” is hers now (R9)."
+    }
+   ]
+  }
+ ],
+ "loose": [
+  {
+   "id": "Q-O",
+   "text": "Ch2's changed neighborhood: displacement or magic?",
+   "status": "author"
+  },
+  {
+   "id": "W16 / W18",
+   "text": "Ch8 roadside reveal and Ch11 museum staging kept over August locks",
+   "status": "author"
+  },
+  {
+   "id": "L1",
+   "text": "The nine o'clock meeting: set up five times, paid lightly",
+   "status": "thin"
+  },
+  {
+   "id": "L15",
+   "text": "“Leo” and “big cat”: used once, in Ch10",
+   "status": "open"
+  },
+  {
+   "id": "A8",
+   "text": "Ch4: why the healer can't use the cart's records (test with readers)",
+   "status": "open"
+  }
+ ]
+}

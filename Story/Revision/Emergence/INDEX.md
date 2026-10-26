@@ -4,33 +4,17 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
-## P88 the diner and Shade's death (2026-10-23)
+## Author voice recovery — new earliest draft and Chapters 1–3 (2026-10-26)
 
-[**EXP-0024**](experiments/EXP-0024-Diner-and-Shades-Death-Candidates-2026-10-23.md): six candidates, tested by a blind A/B read of the whole book ([reports](../Reader-Reports/Blind-AB-Shade-and-Diner-2026-10-23/)). Shade's repair note and "REPAIR REQUESTED." became reader B's most moving moment. The same readers overturned most of EXP-0023's cuts ([INS-0002](../../insights/INS-0002-check-blind-reader-logs-before-cutting-a-line.md)). **No chapter changed.** [Pass P88](../Pass-Log.md#p88-2026-10-23-the-diner-and-shades-death-exp-0024-with-a-blind-ab-read).
+[**Voice recovery source/procedure and source lineage**](VOICE-RECOVERY-2026-10-26.md) and the [**initial 13-entry first-act comparison ledger**](VOICE-RECOVERY-CH01-03-2026-10-26.md). The author provided an earlier `pathwell - work.docx` as his **first draft**, distinct from the already-archived intermediate `Pathwell Working.docx`. A plain-text source snapshot has been added to [Archive/Manuscript](../../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), and the [Voice Benchmark README](../Voice-Benchmark/README.md) records its provenance. The ledger compares opening voice, figurative verbs, the cookie magic, food humor and bookstore catalog/transaction against actual current Chapters 1–3. **No chapter edits or approved candidates; R58 author's paper read-through gate and L3 remain unchanged.** Pass [P80](../Pass-Log.md#p80-2026-10-26-earliest-draft-source-and-voice-recovery-audit-started).
 
-## P87 the web, and the whole book against the resources (2026-10-23)
+## Action-beat and blocking distinction (2026-10-26)
 
-[**EXP-0023**](experiments/EXP-0023-Whole-Book-Resource-Review-Candidates-2026-10-23.md): three independent reviews (aim, targets, world: [reports](../Reader-Reports/Whole-Book-Resources-2026-10-22/)) agree the book holds together and the back half explains itself. There are 19 cuts, 4 continuity fixes, 8 items for the author's pen, and a records pass done. [AGENTS.md §8](../../../AGENTS.md#8-the-web) adds the web (MAPS_L Spiderweb), and the scanner is ported. **No chapter changed.** [Pass P87](../Pass-Log.md#p87-2026-102223-the-web-and-the-whole-book-against-the-repositorys-resources).
-
-## P85 resource audit (2026-10-22)
-
-[**Resource audit**](RESOURCE-AUDIT-2026-10-22.md): the passes have used the records for constraints more than aim. The author's own voice guide was never cited, and the reading list (Pratchett first) wasn't reachable from AGENTS.md. Both are now first stops for drafting. Some of his 2026-10-08 Ch1 line notes are still open. [Pass P85](../Pass-Log.md#p85-2026-10-22-resource-audit).
-
-## P84 the house deadpan: candidate lines (2026-10-22)
-
-[**EXP-0021**](experiments/EXP-0021-House-Deadpan-Candidate-Lines-2026-10-22.md): 17 candidate patches over 12 spots for the voice items R59 and R60 left with the author (the healer back to plain, the turnips line, Stansbury's and Elizabeth's "No." lines, one trace of Stansbury's vanity). A [fresh check](../Reader-Reports/Fresh-Check-EXP-0021-2026-10-22.md) changed three leans. **No chapter changed.** [Pass P84](../Pass-Log.md#p84-2026-10-22-the-house-deadpan-candidate-lines-exp-0021).
-
-## P82 the first half through the Sunday Morning lens (2026-10-22)
-
-A blind cold read and a lens read of Chapters 1–9: [reports](../Reader-Reports/Sunday-Lens-First-Half-2026-10-22/) and [**EXP-0020**](experiments/EXP-0020-First-Half-Sunday-Lens-Candidates-2026-10-22.md). The first half passes the author's test; Camp and the bar are its heart. Both readers flag the shared corrective deadpan again. Four cuts and two questions; **no chapter changed.** [Pass P82](../Pass-Log.md#p82-2026-10-22-the-first-half-through-the-sunday-morning-lens).
-
-## P80 two reads through the Sunday Morning lens (2026-10-22)
-
-A lens read of the whole book against the author's [Sunday Morning Movies](../../Sunday-Morning/Sources/Sunday-Morning-Movies.md) definition, and a blind drop-in read of Chapters 9–18: [reports](../Reader-Reports/Sunday-Lens-2026-10-22/) and [**EXP-0019**](experiments/EXP-0019-Sunday-Lens-Candidates-2026-10-22.md). The book passes his test; the R24 balance holds. Both readers flag one shared deadpan voice. Four cuts and five questions; **no chapter changed.** [Pass P80](../Pass-Log.md#p80-2026-10-22-two-reads-through-the-sunday-morning-lens).
+The author questioned whether early critiques had unnecessarily removed gesture/action beats alongside genuinely redundant physical blocking. The [voice-recovery protocol](VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler) now distinguishes the effects, pointing to [Sunday Morning Line Notes §12](../../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26), the [line-editing procedure](../../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity), and the [Craft guidance](../../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling). **Author's later clarification:** his example was a small, indecisive **"so to speak"** nod qualifying "Magically speaking," **not** an indication of ooze. The current Ch1 gesture toward ooze can support the bluff, but shifts the performance away from his intended hedged conversational movement. The earlier claim that the pointing version was simply more purposeful has been corrected; see [Pass P83](../Pass-Log.md#p83-2026-10-26-author-clarifies-qualifying-nod). This is a **documentation-only** diagnostic; no Chapter 1 rewrite authorized or applied. [Pass P82](../Pass-Log.md#p82-2026-10-26-action-beats-versus-redundant-blocking).
 
 ## P73 external checklist, reconciled (2026-10-22)
 
-An external whole-book checklist reconciled with the records: [**EXP-0018**](experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md). Two author picks applied (Ch18 scar, two-page card in Ch12/Ch15); eleven B candidates and four flagged C candidates for the author; fifteen checklist items withdrawn, each with the ruling that rules it out. [Pass P73](../Pass-Log.md#p73-2026-10-22-the-external-checklist-reconciled-with-the-records). **P77 (R58):** the leans applied after a fresh check (B9 reverted); C1, C3 and C4 still open.
+An external whole-book checklist reconciled with the records: [**EXP-0018**](experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md). Two author picks applied (Ch18 scar, two-page card in Ch12/Ch15); eleven B candidates and four flagged C candidates for the author; fifteen checklist items withdrawn, each with the ruling that rules it out. [Pass P73](../Pass-Log.md#p73-2026-10-22-the-external-checklist-reconciled-with-the-records). **Closed 2026-10-23:** the author took every B and C candidate (C1 in place of B11), applied in [P77](../Pass-Log.md#p77-2026-10-23-the-authors-exp-0018-picks).
 
 ## P71 review of the middle — Chapters 5–13 (2026-10-21)
 
