@@ -12,11 +12,11 @@ This folder holds the author's requested alternative prose treatment, beginning 
 
 ## Authoritative references and locks
 
-- [Original author voice and strongest first-draft habits](../../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling)
-- [Figurative language / qualifying gestures editing rules](../../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity)
-- [Author's nod clarification](../../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26)
-- [Before changing chapters](../Before-You-Touch-A-Chapter.md)
-- [Initial comparative voice ledger](../Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md)
+- [Original author voice and strongest first-draft habits](../../../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling)
+- [Figurative language / qualifying gestures editing rules](../../../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity)
+- [Author's nod clarification](../../../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26)
+- [Before changing chapters](../../Before-You-Touch-A-Chapter.md)
+- [Initial comparative voice ledger](../VOICE-RECOVERY-CH01-03-2026-10-26.md)
 
 In Chapter 1, the tiny sideways half-nod on "Magically speaking" is a **rhetorical hedge**, physically akin to "so to speak." It is **not** pointing at ooze; it need not mean he sincerely doubts his bluff. Do not assign directional meaning to gestures without evidence.
 
