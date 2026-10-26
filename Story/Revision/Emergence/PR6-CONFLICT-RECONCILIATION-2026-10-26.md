@@ -7,8 +7,8 @@ The author requested help resolving PR #6, which diverged after commit `dbb2c811
 ## Disposition
 
 - **Main is authoritative in files changed on both branches (19 paths).** Later author-approved P77–P84 changes, including canonical Chapter 1, must not be reverted by applying earlier versions from this branch.
-- **PR-only changes preserved (113 paths):** 112 additions/modifications at paths untouched on main, including Chapter_04, Chapter_08, Chapter_09, and Chapter_14, plus deletion of a tracked Python `__pycache__` binary.
-- **Three manual resolutions:** (1) Sunday Morning README carries the author D27 *Sunday Morning Movies* origin/purpose from the PR while preserving main's more recent voice recovery links; (2) `.gitignore` includes `*.pyc` and `__pycache__/`; (3) `Story/Pathwell.txt` is regenerated to reflect the four retained PR-only chapters without replacing main's newer approved text in other chapters.
+- **PR-only documentary changes preserved:** The PR originally contained 113 changes at paths untouched on main. Four were proposed prose edits to Chapters 4, 8, 9, and 14; **all four were restored to main's canonical text after content review**. The remaining changes (108 existing/new non-chapter paths and deletion of a tracked Python `__pycache__` binary) remain proposed for PR review.
+- **Manual resolutions:** (1) Sunday Morning README carries the author D27 *Sunday Morning Movies* origin/purpose from the PR while preserving main's more recent voice recovery links; (2) `.gitignore` includes `*.pyc` and `__pycache__/`; (3) `Story/Pathwell.txt` is **restored to match current main** after all four proposed chapter edits were withdrawn from the mergeable PR diff.
 - The old PR branch has a competing `P77`–`P88` narrative in `Story/Revision/Pass-Log.md` and overlapping R-rows. **These historical entries were not copied to main's active records**, which would collide with main's own P77–P84. They remain inspectable in the PR branch's original parent commit `ba97dba31e869d9ad7f6cd0b947b9926b5ca1860`. Their substance requires separate author-led reconciliation before any merger.
 - All unresolved semantic conflicts in older Pass Log, Decisions, Promise Ledger and status records were resolved **in favor of current main**; PR-only reports and experiments remain available as proposals and evidence, not automatic story law.
 
@@ -36,7 +36,7 @@ The author requested help resolving PR #6, which diverged after commit `dbb2c811
 
 ## Review gates before merging PR #6
 
-1. **Inspect the four PR-only chapter diffs** (Ch04, Ch08, Ch09, Ch14) and their authorization. This reconciliation retains them as **proposed PR content**, not approved canon.
+1. **Do not reinstate four unapproved chapter changes by accident.** The earlier branch commit preserves them, and the EXP-0020 patch records can be examined later. The Ch4 variant puts `"This wheel is new." "Newer," he amended.` on the same line, obscuring the speaker. The Ch8 and Ch9 variants remove conversational responses; the Ch14 variant removes the line about possibility being given a shape. They need specific artistic and authorization review under R58; **none remains in the proposed canonical manuscript**.
 2. **Audit new experiment files** and reader reports (EXP-0019 through EXP-0024 and related reviews) for stale descriptions of decisions before importing their authority.
 3. **Run the story's tests, check the assembled manuscript, and check book continuity**. None was run as part of this Git ancestry repair.
 4. **Do not press Merge solely because GitHub reports mergeable**. This PR still changes many files, and the absence of textual conflicts is not literary approval.
