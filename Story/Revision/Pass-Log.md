@@ -2997,3 +2997,12 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 **LESSON:** Do not assume every nod, head tilt or sideways movement is directional. Some gestures are rhetorical punctuation, ambivalence, hedging, self-correction or subtext; "clarifying" such a gesture by assigning it a target can erase the character's original manner. Ask what the action *means* in the utterance before adjusting where it points.
 
 **STATUS / CHECK:** Historical and craft documents only. **No `Story/Chapters/` changes**, no author-selected new wording, no patch, no story checker run and no independent/blind read. R27's `marked` bluff and R58's author-read gate remain intact; all chapter L3 statuses unchanged. The author may decide whether or how to revise the actual Ch1 gesture after the paper read.
+
+
+## P84, 2026-10-26: precise rhetorical half-nod and Sunday Morning transfer
+
+**AUTHORITY:** The author requested a clearer, more detailed explanation of the previously described sideways, indecisive half-nod on Pathwell's "Magically speaking" line, and explicitly requested the notes be updated. This refines the author clarification in P83 rather than making a new canonical line choice.
+
+**DO:** Added a detailed explanation to [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26): a small off-center dip or bob timed to "Magically speaking" acts as a **physical "so to speak"** — a rhetorical qualifier, not a gesture at an object, a definite assent or necessary indication of genuine doubt. Pathwell may know he's bluffing while performing noncommittal word-choice. Recorded two *illustrative, unapproved* prose phrasings. Linked its transfer to [Sunday Morning Craft](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity) and [Voice-Recovery Audit](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler). The test now asks what a gesture does **to the sentence**, not automatically what it points **toward**.
+
+**CHECK:** Documentation-only, direct on main by the author's request. Existing author-approved Chapter 1 unchanged, no scene patch, no chapter checker, no blind read, no new L4 status. This preserves R27's bluff, R58's paper-read gate, and all current locks.
