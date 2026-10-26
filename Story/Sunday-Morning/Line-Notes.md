@@ -201,4 +201,19 @@ The current version instead **points out visible residue** to make his invented 
 - **Overcorrection:** strip character-specific gestures because their **dialogue remains technically intelligible**, prefer disembodied voices to the author's oral/physical storytelling, or require every gesture to contribute new plot information.
 - **Effect of either choice:** Evaluate what a line contributes to **intent, power, character, comic timing, vulnerability, social atmosphere, embodied experience, and the reader's pleasure** as well as cause and clarity.
 
+### Gesture mechanics and rhetorical meaning — clarified on 2026-10-26
+
+**What the author describes:** not a confident up-and-down nod; not a point toward the ooze; not a visible admission that Pathwell doubts the lie. It is a **small, off-center half-nod**, a loose sideways dip or bob of the head timed to the words **"Magically speaking."** The movement functions like a spoken qualifier — *"so to speak," "well, sort of," "more or less"* — and may carry an almost shrug-like quality. A reader should perceive a verbal hedge expressed with the body. It is **rhetorical punctuation**, not map coordinates.
+
+**Why Pathwell might use it:** he can be perfectly aware he is bluffing while performing a playful or noncommittal qualification. A physical hesitation is not proof of actual psychological uncertainty. The joke is his ease in offering an extraordinary assertion with a little verbal wiggle room, as though **"magically speaking"** accounts for everything.
+
+**Possible illustrative formulations; none is approved manuscript prose:**
+
+- *Minimal physical:* `"Your house has now been marked. Magically speaking." He gave a small, sideways half-nod at the last two words.`
+- *More explicit for an editor:* `"Your house has now been marked. Magically speaking," he added with a little half-nod, as though qualifying the claim rather than explaining it.`
+
+Neither motion needs an object to point at. Editorial choice: once the gesture reads, **do not explain its meaning again**. Avoid a double interpretation such as "he pointed at the wall and hedged" unless the author wants both effects. The verb *nodded* may suggest assent; its proximity to `Magically speaking`, direction, size and timing make the half-commitment legible. The wording above illustrates an effect, not mandatory phrasing.
+
+**Operational distinction:** The right question is not **"What is he nodding toward?"** but **"What is this nod doing to the sentence?"** Treat gesture-as-discourse marker separately from gesture-as-deixis (pointing). Record the author's meaning before any spatial clarification.
+
 The author has **not selected a new Chapter 1 rewrite** here. No voice-recovery alternatives are approved merely because the reviewer finds a version appealing. The general procedure and its tests are in [Line-Editing Protocol — action beats](Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity). The [Sunday Morning craft application](Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling) links to those tests. This historical discussion is **editorial evidence, not a new prohibition or required gesture pattern**.
