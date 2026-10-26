@@ -10,7 +10,7 @@ This folder holds the author's requested alternative prose treatment, beginning 
 
 **Never make every chapter sound equally jokey.** When it gets dark, bodily movement and sentence rhythm can carry the same signature voice without quips. Prose must adapt to the situation rather than meet a uniform metaphor-per-paragraph quota.
 
-**A novel remembers what it says.** A line that looks removable in isolation may foreshadow a threat, explain who has a book, recur as a phrase, define a character's default gesture, or set up a deliberately altered return fifteen chapters later. Before revising for voice, compare both earlier **plants** and later **payoffs**. The [canonical Promise Ledger](../../Promise-Ledger.md) owns these relationships; the [18-chapter draft callback audit](FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md) checks how this series treats them. **Do not add new foreshadowing just to make prose feel important, or explain echoes the reader can recognize.**
+**A novel remembers what it says.** A line that looks removable in isolation may foreshadow a threat, explain who has a book, recur as a phrase, define a character's default gesture, or set up a deliberately altered return fifteen chapters later. Before revising for voice, compare both earlier **plants** and later **payoffs**. The [canonical Promise Ledger](../../Promise-Ledger.md) owns these relationships; the [18-chapter draft callback audit](FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md) checks how this series treats them. **Do not add new foreshadowing just to make prose feel important, or explain echoes the reader can recognize.** The author clarified that real foreshadowing must work **backward from a definite future payoff**, and that this character-centered story probably needs little additional conventional foreshadowing. First identify a later moment whose meaning/credibility fails *without* earlier preparation; only then plant the smallest natural cue. Ordinary details are allowed to be ordinary.
 
 ## Authoritative references and locks
 
@@ -26,30 +26,30 @@ Other high-value guards: Ch1 starts "It was the crash that woke her"; she can he
 
 ## Full draft inventory
 
-**Every chapter now has a full standalone comparison file.** The scope is intentionally **not uniform**: Chapters 1–2 are extensive rewrites drafted in conversation; Chapters 3–4 are selected scene/paragraph reworks; Chapters 5–18 are *lighter targeted voice passes* on complete canonical chapter texts. More substantial drafting of any later chapter should be guided by the author's response to this pass rather than forcing equal word growth everywhere.
+**Every chapter has a full standalone V2 comparison file.** Chapters 1–2 retain the extensive conversational rewrites; Chapters 3–18 received a **second, deeper scene-by-scene editorial pass** with roughly 12–17 deliberately chosen paragraph/beat changes per chapter, building on the earlier V1 treatment. Strong existing dialogue and especially grim or consequential scenes are often left unchanged. That is **not** 18 identical start-to-finish rewrites, and the original V1 texts remain alongside for comparison. [V2 scene review, risks, and corrected regressions](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md).
 
 | Chapter | Working alternative | Degree of intervention | Review status |
 | --- | --- | --- | --- |
 | 1 | [Chapter 01 — V2](Chapter_01_voice-recovery-v2.txt) | Complete expanded voice rewrite from conversation | Unapproved |
 | 2 | [Chapter 02 — V2](Chapter_02_voice-recovery-v2.txt) | Complete expanded voice rewrite from conversation | Unapproved |
-| 3 | [Chapter 03 — V1](Chapter_03_voice-recovery-v1.txt) | 15 targeted replacements; longer bookstore catalogue and more oral narrator; prune preserved | Unapproved |
-| 4 | [Chapter 04 — V1](Chapter_04_voice-recovery-v1.txt) | 14 targeted replacements; Camp details and body-language, cookbook choice preserved | Unapproved |
-| 5 | [Chapter 05 — V1](Chapter_05_voice-recovery-v1.txt) | 5 selective voice edits | Unapproved |
-| 6 | [Chapter 06 — V1](Chapter_06_voice-recovery-v1.txt) | 4 selective voice edits; bar scene already distinctively voiced | Unapproved |
-| 7 | [Chapter 07 — V1](Chapter_07_voice-recovery-v1.txt) | 5 selective edits around existing rescue and dialogue | Unapproved |
-| 8 | [Chapter 08 — V1](Chapter_08_voice-recovery-v1.txt) | 4 selective edits; one overexplaining choice addition withdrawn, crash echo intact | Unapproved |
-| 9 | [Chapter 09 — V1](Chapter_09_voice-recovery-v1.txt) | 5 selective edits; Shade's autonomy and diner sequence unchanged | Unapproved |
-| 10 | [Chapter 10 — V1](Chapter_10_voice-recovery-v1.txt) | 5 selective edits; explanation and accusation unchanged | Unapproved |
-| 11 | [Chapter 11 — V1](Chapter_11_voice-recovery-v1.txt) | 5 selective edits; museum sequence and injury unchanged | Unapproved |
-| 12 | [Chapter 12 — V1](Chapter_12_voice-recovery-v1.txt) | 5 selective edits; diary gift / consent unchanged | Unapproved |
-| 13 | [Chapter 13 — V1](Chapter_13_voice-recovery-v1.txt) | 5 selective edits; Shade's social belonging and card game unchanged | Unapproved |
-| 14 | [Chapter 14 — V1](Chapter_14_voice-recovery-v1.txt) | 4 selective edits; failed working, force/choice and fire still intact | Unapproved |
-| 15 | [Chapter 15 — V1](Chapter_15_voice-recovery-v1.txt) | 3 selective edits; Shade calls for help, Elizabeth rescues Milo, loss stays intact | Unapproved |
-| 16 | [Chapter 16 — V1](Chapter_16_voice-recovery-v1.txt) | 4 selective edits; apology, records of Shade and grief preserved | Unapproved |
-| 17 | [Chapter 17 — V1](Chapter_17_voice-recovery-v1.txt) | 4 selective edits; repair-as-evidence and original/replica distinctions preserved | Unapproved |
-| 18 | [Chapter 18 — V1](Chapter_18_voice-recovery-v1.txt) | 3 selective edits; false Boots callback withdrawn; confession and final invitation / last lines unchanged | Unapproved |
+| 3 | [Chapter 03 — V2](Chapter_03_voice-recovery-v2.txt) | Second scene-level pass; ~12 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 4 | [Chapter 04 — V2](Chapter_04_voice-recovery-v2.txt) | Second scene-level pass; ~16 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 5 | [Chapter 05 — V2](Chapter_05_voice-recovery-v2.txt) | Second scene-level pass; ~13 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 6 | [Chapter 06 — V2](Chapter_06_voice-recovery-v2.txt) | Second scene-level pass; ~12 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 7 | [Chapter 07 — V2](Chapter_07_voice-recovery-v2.txt) | Second scene-level pass; ~12 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 8 | [Chapter 08 — V2](Chapter_08_voice-recovery-v2.txt) | Second scene-level pass; ~14 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 9 | [Chapter 09 — V2](Chapter_09_voice-recovery-v2.txt) | Second scene-level pass; ~14 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 10 | [Chapter 10 — V2](Chapter_10_voice-recovery-v2.txt) | Second scene-level pass; ~16 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 11 | [Chapter 11 — V2](Chapter_11_voice-recovery-v2.txt) | Second scene-level pass; ~12 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 12 | [Chapter 12 — V2](Chapter_12_voice-recovery-v2.txt) | Second scene-level pass; ~15 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 13 | [Chapter 13 — V2](Chapter_13_voice-recovery-v2.txt) | Second scene-level pass; ~14 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 14 | [Chapter 14 — V2](Chapter_14_voice-recovery-v2.txt) | Second scene-level pass; ~15 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 15 | [Chapter 15 — V2](Chapter_15_voice-recovery-v2.txt) | Second scene-level pass; ~15 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 16 | [Chapter 16 — V2](Chapter_16_voice-recovery-v2.txt) | Second scene-level pass; ~16 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 17 | [Chapter 17 — V2](Chapter_17_voice-recovery-v2.txt) | Second scene-level pass; ~13 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
+| 18 | [Chapter 18 — V2](Chapter_18_voice-recovery-v2.txt) | Second scene-level pass; ~9 further purposeful edits after self-review; see [V2 review](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) | Unapproved |
 
-These are **comparison texts**, not eighteen equally exhaustive, finalized prose edits. The sparse later passes are useful for evaluating *where restraint already serves the author's voice*, but they are **not a claim that every sentence was fully line-edited for voice**.
+These remain **comparison texts**, not author-approved final prose. V2 is a deeper considered pass than V1, but the chapter contracts and core passages do not benefit from uniform expansion. Review against **canon and each chapter's earlier V1**, not by judging added word count. The complete [V2 scene and callback record](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) documents where the second pass deliberately kept the earlier text.
 
 ## Continuity and callback gate — required for every author-selected candidate
 
@@ -59,7 +59,7 @@ Before replacing any sentence with recovered voice, identify the earlier **plant
 
 ## Process for review and deeper iteration
 
-1. For each alternative, compare it with the full current chapter, its neighbors and the author's locks. The later light-touch alternatives should not be mistaken for a full sentence-by-sentence rewrite.
+1. Compare each V2 alternative with the **full current canonical chapter**, its neighbors, the earlier V1 and the author's locks. More paragraphs have been reconsidered, not every sentence changed; do not impose edits without evidence.
 2. Preserve the plot, relationship information, emotional choices, world mechanics and callback anchors.
 3. Restore expressive narrator / bodily dialogue selectively; avoid the AI habit of adding a polished quip to every paragraph.
 4. Keep a **full, standalone chapter file**, even where a scene is left exactly as written. Do not store only a suggestion or an outline; the current alternatives all meet the full-chapter file requirement.
@@ -73,4 +73,4 @@ Before replacing any sentence with recovered voice, identify the earlier **plant
 - **Ch3:** The enlarged bookstore catalogue is a deliberate recovery test. It adds human details not individually confirmed as magical properties; test whether the increase steals focus from Elizabeth's bodily emotion and pruning. The actual pruning vow/event is untouched.
 - **Ch4:** This draft intervenes less than Ch1/2 because the current Camp Cunnan chapter already has many of the author's expressive, lived-in strengths. Check for redundant narrator commentary near Nana's cookbook gift rather than assuming more narration is automatically better.
 
-**The cross-book audit makes the same point more precisely:** a restored figurative line can also carry misleading information or weaken a future return, even when entertaining now. [See explicit evidence and the callback gate](FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md).\n\n**Additional comparison risks:** Chapters 5–13 contain a few extra interpretive and atmospheric sentences that may explain what the existing gesture already conveyed. Chapters 14–16 intentionally avoid jokes in the climax and grief, and any added sentences must earn their duration under intense action. Chapter 17 removed one invented wagon-sign detail during self-review; do not quietly create events to make a paragraph charming. In Chapter 18, added cat/body humor and waiting-around business must not crowd the exact accountability confession or final invitation.\n\n**No chapter prose edits on main, no L4 reader verdict, and no assertion that these variants are improvements until reviewed.**
+**V2 follows the backward-from-payoff constraint.** It does not plant new riddles simply to increase foreshadowing. The existing Promise Ledger remains the single owner. [V2 review notes](V2-SCENE-AND-CALLBACK-REVIEW-2026-10-26.md) record the corrections to Ch15, Ch16, Ch17 and Ch18.\n\n**The cross-book audit makes the same point more precisely:** a restored figurative line can also carry misleading information or weaken a future return, even when entertaining now. [See explicit evidence and the callback gate](FORESHADOWING-CALLBACK-AUDIT-2026-10-26.md).\n\n**Additional comparison risks:** Chapters 5–13 contain a few extra interpretive and atmospheric sentences that may explain what the existing gesture already conveyed. Chapters 14–16 intentionally avoid jokes in the climax and grief, and any added sentences must earn their duration under intense action. Chapter 17 removed one invented wagon-sign detail during self-review; do not quietly create events to make a paragraph charming. In Chapter 18, added cat/body humor and waiting-around business must not crowd the exact accountability confession or final invitation.\n\n**No chapter prose edits on main, no L4 reader verdict, and no assertion that these variants are improvements until reviewed.**
