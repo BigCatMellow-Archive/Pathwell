@@ -129,3 +129,9 @@ Raised with him after his Chapter 1 markup; none applied. They're his call, and 
 | "the stench of wet-rot splattered across the room" | A smell doesn't splatter. | Either the ooze splatters and the smell follows, or the smell fills. Pattern 6 still holds: choose the everyday verb that fits the thing. |
 | "going shiny" → "going dry"; "something else, someone else. A voice that couldn't be there." | Taste: "shiny" was the sharper picture; "someone else" and "A voice" say the same thing twice. | Small. Listed so the choice is his, not a default. |
 
+
+## 10. Correction to a literalist editorial objection (2026-10-26)
+
+The 2026-10-23 table above contains an editor's question about **"the stench of wet-rot splattered across the room"**: "A smell doesn't splatter." That is an accurate statement about literal physics but **not** sufficient editorial evidence against the line. A transferred action may convey sudden, violent arrival, and the author deliberately substituted this verb for "permeating." It is neither a factual claim about a smell nor automatically a prose defect.
+
+The remaining legitimate tests are reader comprehension, point of view, physical blocking, unwanted ambiguity and image density **in the passage**. Until one of those fails, the default is **KEEP**, with artistic choice belonging to the author. This corrects the earlier editor's *reasoning*, not the historical entry or the author's wording. General editing test: [Line-Editing Protocol — figurative language](Line-Editing-Protocol.md#literal-correctness-is-not-the-test-for-figurative-language). Evidence: [voice recovery V05](../Revision/Emergence/VOICE-RECOVERY-CH01-03-2026-10-26.md#v05--a-stench-splattered-as-figurative-violence).
