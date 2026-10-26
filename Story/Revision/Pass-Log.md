@@ -3006,3 +3006,26 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 **DO:** Added a detailed explanation to [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26): a small off-center dip or bob timed to "Magically speaking" acts as a **physical "so to speak"** — a rhetorical qualifier, not a gesture at an object, a definite assent or necessary indication of genuine doubt. Pathwell may know he's bluffing while performing noncommittal word-choice. Recorded two *illustrative, unapproved* prose phrasings. Linked its transfer to [Sunday Morning Craft](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity) and [Voice-Recovery Audit](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler). The test now asks what a gesture does **to the sentence**, not automatically what it points **toward**.
 
 **CHECK:** Documentation-only, direct on main by the author's request. Existing author-approved Chapter 1 unchanged, no scene patch, no chapter checker, no blind read, no new L4 status. This preserves R27's bluff, R58's paper-read gate, and all current locks.
+
+
+## P85, 2026-10-26: full-novel voice-recovery draft alternatives
+
+**AUTHORITY:** After reviewing the author's earliest draft, studying the author's own Chapter 1 rewrite and the corrected non-directional "Magically speaking" half-nod, the author requested: "lets put ch1 and 2 here on the repo, and lets do the rest of the story like this." This pass creates **comparison alternatives**, not replacement chapters, consistent with [Before You Touch a Chapter](Before-You-Touch-A-Chapter.md) and the R58 paper-read gate.
+
+**DO:** Created [Voice-Recovery-Drafts](Emergence/Voice-Recovery-Drafts/README.md), a complete collection of **18 full chapter files** on branch `draft/voice-recovery-full-novel-20261026`, plus a draft pull request. Ch1 V2 and Ch2 V2 reproduce the full conversational examples shared with the author, without promotion into the canonical manuscript. Ch3 and Ch4 received medium/substantial selective passes restoring narrator observation, bookstore lived-in cataloguing, physical behavior and conversational rhythms; the pruning ritual and Elizabeth's cookbook choice were preserved. Chapters 5–18 received **lighter, deliberately selective** voice passes (3–5 hand-placed sentence/paragraph treatments per chapter), usually leaving already strong dialogue, physical scenes, major losses and accountability unchanged. All are full text and labelled as **unapproved alternatives**.
+
+**WHAT THIS IS NOT:** 18 equally deep line-by-line rewrites, a claim that all additions improve on the source, a substituted new canonical manuscript, a second archive of the author's actual first draft, or a blind reader verdict. The draft index explicitly identifies intensity by chapter and flags where added narrator commentary may be redundant. The author's voice remains the arbiter; the added prose is assistant-written.
+
+**Checks and exceptions (D23):**
+1. Author locks: **checked** — Ch1 R11 opening, Ch3 prune/vow and "Don't make anything of that," Ch15 rescue/evacuation and Shade loss, Ch18 "I could have called someone. I didn't." and the exact closing three-line exchange kept in the alternatives.
+2. Whole-scene shapes: **selective only** — Ch3–18 begin from current canon and change identified passages rather than recreating scenes or introducing new major plot.
+3. Checker: **not run** — no changes to `Story/Chapters` and automated style/count checks are not a reliable voice verdict. Verify after any author-selected patch.
+4. Scene logic: **structural checkpoints inspected**, but full line-by-line continuity not independently certified.
+5. Fresh independent read: **not run**.
+6. Reader protocol: **not run**; no L4 promotion.
+7. AI sameness: **self-review caution recorded** in index — first two expanded versions may over-explain emotional beats or add too many comedic asides; later dramatic chapters consciously restrained, but all additions still need author approval.
+8. Open ambiguity/author ownership: **preserved**; no new lore as a ruling; a fabricated Lemon sign in initial Ch17 pass was retracted before documentation completion.
+9. Change records: **done** — index identifies each draft and relative intervention scope, with no hidden canonical edits.
+10. Tenth seat: **not applicable** until an author-approved prose change is tested.
+
+**RECONCILE:** Only draft alternatives and branch-specific method/status documentation changed. Existing canonical chapter files remain untouched on the feature branch and on `main`. The PR is a **draft** and must not be merged without author selection and regression review.
