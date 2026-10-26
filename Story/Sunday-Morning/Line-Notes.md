@@ -166,3 +166,37 @@ The remaining legitimate tests are reader comprehension, point of view, physical
 - "Polish" may rightfully remove repetitions, typos, redundant physical beats and excessive catalogue length; it may not silently swap unique metaphor for safe but lesser prose.
 
 **Method owner:** [Craft — first-draft-derived guidance](Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling) explains how these observations transfer into Sunday Morning stories under their own reader promise. The imported [Voice Guide](Sources/Voice-Guide.md) and [Framework](Sources/Framework.md) remain unchanged.
+
+
+## 12. Blocking, action beats and the risk of overcorrection (2026-10-26)
+
+**Prompt / scope.** The author asked whether his early tendency to describe characters' movements and gestures ("blocking") was genuinely a defect, or whether editing advice had made his prose too literal and spare. He offered this **illustrative sentence**, not a verified quotation from the manuscript:
+
+> "Your house has now been marked. Magically speaking," he said, nodding his head to the side.
+
+**Source-verified current Chapter 1** (`Story/Chapters/Chapter_01.txt`, after the author's P78 markup):
+
+> He nodded at the ooze drying on her walls.  
+>  
+> "Your house has now been marked. Magically speaking. So we should probably be anywhere but here."
+
+Here the action **sells a deliberate bluff**: he points Elizabeth toward visible mess as apparent proof of magical danger. The improvement over an unspecified nod "to the side" is **referent and intention**, not a prohibition on gestures. Removing the action would make the words still intelligible but diminish the character's manipulation. The direction of motion is useful: his **pointing/nodding is causal persuasion**, not wasted blocking.
+
+**Compare three editorial choices, distinguishing illustrative dialogue-only from manuscript evidence:**
+
+| Treatment | Reader effect | Editorial judgment |
+| --- | --- | --- |
+| Dialogue without gesture: "Your house has now been marked. Magically speaking." (*illustrative, not the manuscript*) | Conveys the assertion, not the tactic by which it is sold. | Not wrong everywhere; weaker in this exact bluff because the visible ooze is the pretext. |
+| The author's hypothetical "he said, nodding his head to the side" | Gives him physical presence and a hint of persuasion, but leaves the target of the gesture uncertain. | **REWORK** only if readers need to see what he indicates; not "delete because a gesture is filler." |
+| Current chapter's "He nodded at the ooze drying on her walls." | Makes an evidentiary gesture part of his strategy and grounds Elizabeth's environment. | **KEEP REVISED**. Strong example of useful blocking. |
+
+**Evidence that earlier blocking sometimes was a real problem:** In the [author's earliest Chapter 1 draft](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), the stranger keeps shuffling/searching boxes and Elizabeth tries variations of "hey", "Hey", "HEy" and "HEY" before his response. Multiple similar gestures, box searches and reassertions of surprise are doing overlapping jobs. Cutting or tightening these can improve pacing and physical comprehension without erasing the vivid **"WIth all the courage a baseball bat could proivde"** (original spelling retained), which conveys her fear through a prop. That is a genuine repetition/density issue **alongside** a genuinely good physical image; neither cancels the other.
+
+**Earlier example of a defensible cut:** The author's own note, preserved in [§4](#4-if-cutting-it-changes-nothing-cut-it-and-dont-replace-it), suggested cutting `"He drummed his fingers on the edge of the table, looking around aimlessly."` The movement conveyed nothing that wasn't already there in the local scene. This is different from using the wall's residue to support Pathwell's lie. Do not revive cut filler because gestures as a category have been defended.
+
+**Editorial distinction:** 
+- **Legitimate repair:** simplify repeated movements; clarify action that hides who did what; locate a gesture's object; fix blocking that contradicts geography, timing, or POV; stop a joke or action sequence after the best beat.
+- **Overcorrection:** strip character-specific gestures because their **dialogue remains technically intelligible**, prefer disembodied voices to the author's oral/physical storytelling, or require every gesture to contribute new plot information.
+- **Effect of either choice:** Evaluate what a line contributes to **intent, power, character, comic timing, vulnerability, social atmosphere, embodied experience, and the reader's pleasure** as well as cause and clarity.
+
+The author has **not selected a new Chapter 1 rewrite** here. No voice-recovery alternatives are approved merely because the reviewer finds a version appealing. The general procedure and its tests are in [Line-Editing Protocol — action beats](Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity). The [Sunday Morning craft application](Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling) links to those tests. This historical discussion is **editorial evidence, not a new prohibition or required gesture pattern**.
