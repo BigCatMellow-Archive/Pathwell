@@ -174,25 +174,27 @@ The remaining legitimate tests are reader comprehension, point of view, physical
 
 > "Your house has now been marked. Magically speaking," he said, nodding his head to the side.
 
+**Author clarification (later 2026-10-26):** The intended little sideways/indecisive nod was **not a gesture toward the room or toward the ooze**. It was a physical qualification of Pathwell's words, something like **"so to speak"** or a half-concession attached to "Magically speaking." This is the author's meaning, not an editor's interpretation of direction.
+
 **Source-verified current Chapter 1** (`Story/Chapters/Chapter_01.txt`, after the author's P78 markup):
 
 > He nodded at the ooze drying on her walls.  
->  
+>
 > "Your house has now been marked. Magically speaking. So we should probably be anywhere but here."
 
-Here the action **sells a deliberate bluff**: he points Elizabeth toward visible mess as apparent proof of magical danger. The improvement over an unspecified nod "to the side" is **referent and intention**, not a prohibition on gestures. Removing the action would make the words still intelligible but diminish the character's manipulation. The direction of motion is useful: his **pointing/nodding is causal persuasion**, not wasted blocking.
+The current version instead **points out visible residue** to make his invented "marked" claim look supported by evidence (R27). That is a coherent alternate characterization, but **it is not the original gesture's intended meaning**. The earlier editor praised the rewrite for specifying the nod's target, **without checking whether it had a target at all**. That evaluation was wrong. The author's version performs an uncertain, conversational hedge, which can be funnier and more characteristic than a deliberate demonstration of evidence.
 
-**Compare three editorial choices, distinguishing illustrative dialogue-only from manuscript evidence:**
+**Contrast the readings; no automatic approval or patch:**
 
-| Treatment | Reader effect | Editorial judgment |
+| Treatment | Reader effect | Editorial judgment after author clarification |
 | --- | --- | --- |
-| Dialogue without gesture: "Your house has now been marked. Magically speaking." (*illustrative, not the manuscript*) | Conveys the assertion, not the tactic by which it is sold. | Not wrong everywhere; weaker in this exact bluff because the visible ooze is the pretext. |
-| The author's hypothetical "he said, nodding his head to the side" | Gives him physical presence and a hint of persuasion, but leaves the target of the gesture uncertain. | **REWORK** only if readers need to see what he indicates; not "delete because a gesture is filler." |
-| Current chapter's "He nodded at the ooze drying on her walls." | Makes an evidentiary gesture part of his strategy and grounds Elizabeth's environment. | **KEEP REVISED**. Strong example of useful blocking. |
+| Dialogue alone: "Your house has now been marked. Magically speaking." (*illustrative, not the manuscript*) | Conveys the questionable assertion and verbal qualification without bodily delivery. | Can work, but loses the little performative hesitation the author intended. |
+| Author's hypothetical "he said, nodding his head to the side" | A small off-center, indecisive motion qualifies "Magically speaking": **physical "so to speak"**, not pointing. | **PRESERVE THE INTENDED EFFECT.** If the direction reads as ambiguous to readers, clarify the *character of the movement*, not an invented object of indication. Wording remains the author's choice. |
+| Current "He nodded at the ooze drying on her walls." | Treats ooze as evidence in support of a lie, creating a more deliberate persuasive tactic. | **REASSESS** as an unintended change of meaning, not automatically a stronger version. The current chapter remains untouched pending the author's normal read/revision process. |
 
 **Evidence that earlier blocking sometimes was a real problem:** In the [author's earliest Chapter 1 draft](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), the stranger keeps shuffling/searching boxes and Elizabeth tries variations of "hey", "Hey", "HEy" and "HEY" before his response. Multiple similar gestures, box searches and reassertions of surprise are doing overlapping jobs. Cutting or tightening these can improve pacing and physical comprehension without erasing the vivid **"WIth all the courage a baseball bat could proivde"** (original spelling retained), which conveys her fear through a prop. That is a genuine repetition/density issue **alongside** a genuinely good physical image; neither cancels the other.
 
-**Earlier example of a defensible cut:** The author's own note, preserved in [§4](#4-if-cutting-it-changes-nothing-cut-it-and-dont-replace-it), suggested cutting `"He drummed his fingers on the edge of the table, looking around aimlessly."` The movement conveyed nothing that wasn't already there in the local scene. This is different from using the wall's residue to support Pathwell's lie. Do not revive cut filler because gestures as a category have been defended.
+**Earlier example of a defensible cut:** The author's own note, preserved in [§4](#4-if-cutting-it-changes-nothing-cut-it-and-dont-replace-it), suggested cutting `"He drummed his fingers on the edge of the table, looking around aimlessly."` The movement conveyed nothing that wasn't already there in the local scene. This is different from a purposeful physical qualification of Pathwell's words. Do not revive cut filler because gestures as a category have been defended.
 
 **Editorial distinction:** 
 - **Legitimate repair:** simplify repeated movements; clarify action that hides who did what; locate a gesture's object; fix blocking that contradicts geography, timing, or POV; stop a joke or action sequence after the best beat.
