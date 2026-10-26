@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Author voice recovery — new earliest draft and Chapters 1–3 (2026-10-26)
+
+[**Voice recovery source/procedure and source lineage**](VOICE-RECOVERY-2026-10-26.md) and the [**initial 13-entry first-act comparison ledger**](VOICE-RECOVERY-CH01-03-2026-10-26.md). The author provided an earlier `pathwell - work.docx` as his **first draft**, distinct from the already-archived intermediate `Pathwell Working.docx`. A plain-text source snapshot has been added to [Archive/Manuscript](../../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), and the [Voice Benchmark README](../Voice-Benchmark/README.md) records its provenance. The ledger compares opening voice, figurative verbs, the cookie magic, food humor and bookstore catalog/transaction against actual current Chapters 1–3. **No chapter edits or approved candidates; R58 author's paper read-through gate and L3 remain unchanged.** Pass [P80](../Pass-Log.md#p80-2026-10-26-earliest-draft-source-and-voice-recovery-audit-started).
+
 ## P73 external checklist, reconciled (2026-10-22)
 
 An external whole-book checklist reconciled with the records: [**EXP-0018**](experiments/EXP-0018-Whole-Book-Checklist-Candidates-2026-10-22.md). Two author picks applied (Ch18 scar, two-page card in Ch12/Ch15); eleven B candidates and four flagged C candidates for the author; fifteen checklist items withdrawn, each with the ruling that rules it out. [Pass P73](../Pass-Log.md#p73-2026-10-22-the-external-checklist-reconciled-with-the-records). **Closed 2026-10-23:** the author took every B and C candidate (C1 in place of B11), applied in [P77](../Pass-Log.md#p77-2026-10-23-the-authors-exp-0018-picks).
