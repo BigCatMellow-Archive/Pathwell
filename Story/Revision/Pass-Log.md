@@ -2984,3 +2984,16 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 10. Tenth seat: **not applicable**; no story-level choice applied.
 
 **RECONCILE:** Method owner, evidence owner, Sunday Morning and Emergence navigation, voice audit and Pass Log updated. No R-row, manuscript edit, EXP patch, or status upgrade.
+
+
+## P83, 2026-10-26: author clarifies qualifying nod
+
+**AUTHORITY:** Immediately after the P82 discussion, the author clarified that his example `"... Magically speaking," he said, nodding his head to the side` was **not** a nod indicating anything in the room. It was "like a indecisive nod like 'so to speak'": a small, conversational qualifying movement accompanying an intentionally hedged phrase.
+
+**CORRECTION TO P82:** P82 described the current line `He nodded at the ooze drying on her walls` as a more purposeful and spatially precise improvement, assuming the original sideways nod was meant to indicate something. That inference was **wrong**. The current line supports the invented magical-marking bluff using visible residue, but is a **different performance** from the author's intended little verbal-physical qualification. It should not be presented as automatically better. The older P82 entry remains as a historical record of the error, with this explicit correction taking precedence.
+
+**DO:** Corrected the [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity), [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26), the existing [Sunday Morning Craft application](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), the [voice-recovery audit](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler), and the [Emergence index](Emergence/INDEX.md#action-beat-and-blocking-distinction-2026-10-26). No additional style guide created.
+
+**LESSON:** Do not assume every nod, head tilt or sideways movement is directional. Some gestures are rhetorical punctuation, ambivalence, hedging, self-correction or subtext; "clarifying" such a gesture by assigning it a target can erase the character's original manner. Ask what the action *means* in the utterance before adjusting where it points.
+
+**STATUS / CHECK:** Historical and craft documents only. **No `Story/Chapters/` changes**, no author-selected new wording, no patch, no story checker run and no independent/blind read. R27's `marked` bluff and R58's author-read gate remain intact; all chapter L3 statuses unchanged. The author may decide whether or how to revise the actual Ch1 gesture after the paper read.
