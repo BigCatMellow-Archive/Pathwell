@@ -2957,3 +2957,30 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 10. Tenth seat: **not applicable**.
 
 **RECONCILE:** Sunday Morning `Craft.md`, `Line-Notes.md`, `README.md` updated in their existing ownership locations rather than creating another competing voice guide; no files in `Story/Chapters/` changed and no L4 status advanced.
+
+
+## P82, 2026-10-26: action beats versus redundant blocking
+
+**AUTHORITY:** The author asked whether describing gestures and character movements in his earliest Chapter 1 was genuinely excessive "blocking" or whether a later editing process eliminated too much expressive physical storytelling. After comparing the archived first draft, author's hypothetical `"... Magically speaking," he said, nodding his head to the side`, and **actual current Chapter 1**, the reviser recorded a distinction without seeking or applying prose changes.
+
+**DO:**
+- Extended the existing [Line-Editing Protocol](../Sunday-Morning/Line-Editing-Protocol.md#action-beats-and-physical-blocking-purpose-not-austerity) with a bounded test separating *spatial staging*, *expressive action beats*, and *redundant choreography*. An action can serve character, persuasive intent, comic timing, emotional embodiment, rhythm or reader pleasure; it needn't convey new plot data to belong.
+- Added [Line Notes §12](../Sunday-Morning/Line-Notes.md#12-blocking-action-beats-and-the-risk-of-overcorrection-2026-10-26) with three explicit comparison treatments. The author's "nodding to the side" is **illustrative hypothetical phrasing**, not falsely attributed to the checked canonical file. The present Ch1's `He nodded at the ooze drying on her walls` is a more precise and characterful beat: Pathwell recruits apparent physical evidence for his **false "marked" claim** (R27).
+- Compared this with a real first-draft cost: the repeated box-search motions and multiple "Hey" attempts before the exchange moves forward. The earlier author-approved cut `He drummed his fingers on the edge of the table, looking around aimlessly` remains defensible as duplicated generic movement. **Neither case licenses an anti-gesture rule**.
+- Extended [Sunday Morning Craft's first-draft habits](../Sunday-Morning/Craft.md#what-the-earliest-first-draft-reveals-about-the-authors-telling), navigation [README](../Sunday-Morning/README.md#find-it-fast), [voice-recovery protocol](Emergence/VOICE-RECOVERY-2026-10-26.md#additional-diagnostic--character-movement-is-not-automatically-filler) and [Emergence index](Emergence/INDEX.md#action-beat-and-blocking-distinction-2026-10-26). No redundant new style guide created.
+
+**JUDGMENT:** Much of the earliest draft's searching/repetition could be trimmed for timing and clarity. Physical movement conveying intent, presence, humor or a credible bluff deserves to survive even if dialogue makes semantic sense without it. The best current sentence is improved by **specifying its target**, not by removal. This is a provisional editorial determination, **not a new author ruling**.
+
+**CHECK (D23, documentation-only):**
+1. Book targets and author decisions: **done** — Ch1 `marked` is still a bluff; R11 first line and R9 last-line locks untouched.
+2. Shapes before sentences: **not applicable**, no chapter changes.
+3. Checker: **not run** (no chapter, story, or assembled manuscript changed).
+4. Scene diagnostic: **not applicable**.
+5. Independent fresh check: **not done**; no L4 claims.
+6. Reader protocol: **not applicable**; R58 author paper-read gate stays.
+7. Repetition/tic: **done in guidance** — explicitly warns against quotas, repeated nods/glances, and physical-action lists.
+8. Deliberate ambiguity: **done** — the current deceptive assertion remains a bluff, with no new canon.
+9. Diff and source verification: **done** — current Ch1, original early Ch1, existing approved line notes checked; branch only documents findings.
+10. Tenth seat: **not applicable**; no story-level choice applied.
+
+**RECONCILE:** Method owner, evidence owner, Sunday Morning and Emergence navigation, voice audit and Pass Log updated. No R-row, manuscript edit, EXP patch, or status upgrade.
