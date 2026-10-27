@@ -3095,3 +3095,18 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 Full reasons are on [EXP-0019](Emergence/experiments/EXP-0019-Tone-Review-Candidates-2026-10-26.md#decided-2026-10-27-b2-and-b5-kept). EXP-0019 is closed.
 
 **CHECK:** No chapter changes, so there was nothing to run. The B2 and B5 patch files stay in the experiments folder as the record of what was considered.
+
+
+## P91, 2026-10-27: Read 1 fixes (Shade's hand beats)
+
+**AUTHORITY:** bt 7274 chose "Apply clear fixes, ask on the rest" and "Fresh readers" for the read series ([Read 1](Reader-Reports/2026-10-27_Read-01_Full-Book.md)).
+
+**DO (Read 1 item 2, A, repetition):**
+
+- **Ch13:** the three-paragraph hand beat at the threshold merged into one sentence.
+- **Ch14:** cut "Shade's right hand remained open." before his Stansbury line, which already has its speaker.
+- **Ch14:** cut the gloss after "Shade didn't move." It repeated "His choice was in the rest of him" from earlier in the chapter.
+
+Every hand beat that changes something stays: the onions, the scattered cards, the arm left open in refusal. `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
+
+**ASKED, not applied:** Read 1 items 3 (the Cadillac's return) and 4 (the healed woman after the fire) add new beats, so they go to bt 7274.
