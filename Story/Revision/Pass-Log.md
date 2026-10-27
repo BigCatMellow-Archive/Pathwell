@@ -3110,3 +3110,19 @@ Full reasons are on [EXP-0019](Emergence/experiments/EXP-0019-Tone-Review-Candid
 Every hand beat that changes something stays: the onions, the scattered cards, the arm left open in refusal. `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
 
 **ASKED, not applied:** Read 1 items 3 (the Cadillac's return) and 4 (the healed woman after the fire) add new beats, so they go to bt 7274.
+
+
+## P92, 2026-10-27: the healed woman returns (Read 1, item 4)
+
+**AUTHORITY:** asked which of Read 1's two new beats to write, bt 7274 chose **"Healed woman after fire"** and declined the Cadillac's return.
+
+**DO:** **Ch16**, after "Loss didn't care much about paperwork.", added a short beat. The young woman the chicken-and-dumplings page healed in Ch4 sets a bowl of chicken soup beside Elizabeth: "There's dumplings in it. They're not as good." She leaves before Elizabeth can answer. "There was more in it than she could possibly eat."
+
+**Why:**
+
+- The cookbook's one rescue had no payoff; in Ch12 she was only "gone from the cot".
+- The beat shows that the cookbook's last use is still alive in Camp on the morning the book burns. This is the "chosen sacrifice mattered" step in the [Scrubs notes](Author-Notes/2026-10-27_Irreverence-With-Heart-Scrubs.md).
+- The last line echoes Nana's "MORE IF THEY'RE SICK. THEY WON'T EAT ENOUGH." without quoting or explaining it.
+- She speaks plainly, as the minor cast should.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. Read 2 started on the text from before this beat.
