@@ -3302,3 +3302,21 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **ASKED:** whether to trim the Ch16 crying list; whether the Ch18 confession should open on "It was my fault."; and two lines in bt 7274's own Ch4 and Ch5.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
+
+
+## P103, 2026-10-27: bt 7274's answers on Read 6
+
+**AUTHORITY:** bt 7274 chose:
+
+- **"Cut; open on 'It was my fault.'"**
+- **"Trim to Nana, the pockets, the card game"**
+- cuts to both flagged lines in his own Ch4 and Ch5.
+
+**DO:**
+
+- **Ch18:** "I kept thinking resemblance was enough" and the look after it are cut. The confession now opens: "It was my fault," he said. This is the line Shade wanted from him (Q94–Q95). The Merritt sleeve beat carries the resemblance idea without words.
+- **Ch16:** the crying list is now "Elizabeth cried for Nana. / For Shade's green jacket and excessive pockets. / For a man whose history had only just begun and who had still managed to owe Milo a card game."
+- **Ch5:** "Sometimes where you want to go and where you need to go aren't the same place." cut. Elizabeth's retort still answers "We went where we needed to go."
+- **Ch4:** "Elizabeth nearly cried again." cut. The tucked blanket carries it.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing; box p2-6-8-5 follows the new line.
