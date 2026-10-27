@@ -1,6 +1,8 @@
 # Chapter 3: welcome-party memory during the Space Between blackout — THINK → PLAN
 
-**Status: PROPOSED / READY FOR A CONTROLLED DRAFT TEST (2026-10-14). No manuscript edit approved or made by this note.**
+**Status: IMPLEMENTED 2026-10-27 ([R63](Decisions.md#the-authors-rulings-for-this-revision), [P97](Pass-Log.md#p97-2026-10-27-the-ch3-blackout-memory-elizabeth-was-nanas-caregiver)).** bt 7274 chose the blackout placement and widened its content: the memory now carries Elizabeth's years as Nana's caregiver as well as the welcome party. The gates below were followed: Ch1's first line is unchanged, there's no new magic mechanism, "Lizzy" comes from Nana, and drinking is not diagnosed. Candidate B (no flashback) was not drafted separately, because bt 7274 asked for it directly. A cold reader should still check the seam.
+
+*Original status (2026-10-14): PROPOSED / READY FOR A CONTROLLED DRAFT TEST. No manuscript edit approved or made by this note.*
 **Owner:** The placement, scene contract, alternative and evaluation of a party flashback. Character motivations belong to the [Rung development record](Chapter-09-Character-Dynamics-and-Camp-Access-2026-10-13.md); author rulings belong to [Decisions](Decisions.md), and editorial evidence to the [Pass Log](Pass-Log.md).
 
 ## 1. Author's question and non-negotiable constraint

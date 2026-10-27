@@ -10,6 +10,8 @@
 
 **Flaw at the start:** Not passivity exactly — *compliance under pressure*. She accommodates, extends the generous interpretation, hands over what's asked before she's thought about whether to. (Chapter 1: she hands over the cookbook because a stranger demands it and the door is breaking — reflexive giving before thinking. Only a page is consumed by the spell; the book survives Ch1.) The ladder is her climbing away from this. The broader Chapter 1 setup now has Pathwell passing as a party guest before wandering into Elizabeth's slightly open apartment; exact party logistics and how much appears on-page remain open.
 
+**Before the book (bt 7274, R63):** Elizabeth lived with Nana and was her primary caregiver through her last years, in Nana's house: pill organizers, the thirteen stairs, cooking from the cookbook for her. After Nana died she packed the house, kept the cookbook, the spoon and her diary, and moved across the city. The welcome party three weeks later is her new life. Shown once, in the Ch3 blackout memory; elsewhere it should surface only through behavior (staying busy, listening for someone upstairs), never as a speech.
+
 ### Hard magic boundary
 
 **Elizabeth does not perform magic.**

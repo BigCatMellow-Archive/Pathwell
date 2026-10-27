@@ -3191,3 +3191,39 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
   - The book's theme is never stated.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. Read 4 (continuity) started on the text from before these changes.
+
+
+## P97, 2026-10-27: the Ch3 blackout memory (Elizabeth was Nana's caregiver)
+
+**AUTHORITY:** [R63](Decisions.md#the-authors-rulings-for-this-revision). This also closes R44's open placement test ([plan](Chapter-03-Party-Flashback-THINK-PLAN-2026-10-14.md)).
+
+**DO:** **Ch3**, between "The last thing she registered was the carpet against her knees." and "When her eyes opened, they were heavy.", a memory of about 420 words in Elizabeth's close point of view:
+
+- Nana's thirteen stairs.
+- "A few months" that became years.
+- The pill organizer, the pharmacist, and the neighbor who'd sit with Nana for tomatoes.
+- Plates carried up the stairs and back down mostly full: "You ate the pepper." / "The pepper was the best part, Lizzy."
+- Elizabeth cooking the chicken and dumplings for Nana: "They're your dumplings." / "Then you made them wrong."
+- The last week, reading her the cookbook while Nana corrected the measurements with her eyes closed.
+- Packing the house.
+- The welcome party: refilling, the landlord joke, the man looking into her box of notebooks, "There was no upstairs."
+- "She went to bed. She had a meeting at nine."
+
+**Why it's built this way:**
+
+- It answers Read 3's "her past is a blank" with bt 7274's own fact.
+- It shows the party R44 asked for without touching Ch1's hook.
+- It plants things that later chapters pay off without explaining: the chicken-and-dumplings page she gives away in Ch4 becomes the recipe she cooked for Nana; the pepper becomes her Ch9 order; the stairs and "listening for someone upstairs" sit under her habit of staying busy.
+- It contains one sad moment, said once.
+
+**Continuity checked:**
+
+- Ch1: the party, the notebooks, the landlord joke, bed.
+- Ch2: three weeks, the spoon, the garbage bags.
+- Ch4: the seventeen-year-old memory, and "Chicken and dumplings. Of course."
+- Ch12: the diary predates the caregiving years (Thumper), so it isn't given a new origin.
+- "Lizzy" stays Nana's.
+
+**Records:** the character bible's Elizabeth section, R63, and the plan doc's status.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. The next fresh reader should judge the seam: is the shift from blackout to memory to chair legible?
