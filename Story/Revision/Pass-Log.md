@@ -3258,3 +3258,14 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **Why:** the book's rule says destroyed charged records release their feeling (Ch11 and Ch14), and the cookbook was charged. The detail echoes the Ch1 memory ("an open window above the sink") and the pepper from the new Ch3 memory, without explaining either. The diary that burns next is ordinary, so "No spell. No sacrifice. No last message. Just fire." still holds, and the contrast is now sharper.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. Read 5 started on the text from before this beat.
+
+
+## P100, 2026-10-27: Read 5 (line level) fixes
+
+**READ:** [Read 5](Reader-Reports/2026-10-27_Read-05_Line-Level.md), a cold line-level read with bt 7274's Do-Not-Overliteralize rule. It covers the looked/waited/timing tics, narrator glosses and unclear sentences, and quotes about 150 lines to protect.
+
+**DO (A/D):** sixteen minimal cuts and swaps in Ch3 (the new memory only), Ch6, 8, 9, 10, 12, 14, 15, 17 and 18. They are listed in the report's triage. Harada box p6-1-6-4 follows the Ch18 line.
+
+**ASKED:** nine small fixes inside bt 7274's own Ch1, 3, 4 and 5.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
