@@ -3160,3 +3160,14 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **STILL OPEN from Read 2:** Ch17's unexplained "No." after the rigged queen; the Ch14 bucket girl; Q-O (Ch2's changed neighborhood).
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. Read 3 started on the text from before these changes.
+
+
+## P95, 2026-10-27: Read 3 (character) and the shared-word fixes
+
+**READ:** [Read 3](Reader-Reports/2026-10-27_Read-03_Character.md), a cold read through a character lens. Its top finding is one shared deadpan voice across the cast.
+
+**DO (A):** eight lines handed back to their own speakers, so identical one-word replies no longer pass between characters. They are listed in the report's triage. Ch14's "There he is," becomes Shade's own "I remember that sentence,". Ch18's Whitman quote becomes Elizabeth teasing Pathwell with his own line. Harada box p1-7-6 follows the Ch18 line.
+
+**ASKED:** a consented restitution flourish for Pathwell, one fact about Elizabeth's past, and Stansbury's school business.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
