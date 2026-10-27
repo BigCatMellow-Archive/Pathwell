@@ -3247,3 +3247,14 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **ASKED:** whether the cookbook's burning releases feeling (a rule question).
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
+
+
+## P99, 2026-10-27: the cookbook's last breath (Read 4 rule question)
+
+**AUTHORITY:** bt 7274 chose **"One last breath of Nana"**.
+
+**DO:** **Ch15**, as the cookbook burns: "For one breath the smoke smelled like Nana's kitchen. Pepper. Flour. Sun on the window over the sink. / Then it was smoke again."
+
+**Why:** the book's rule says destroyed charged records release their feeling (Ch11 and Ch14), and the cookbook was charged. The detail echoes the Ch1 memory ("an open window above the sink") and the pepper from the new Ch3 memory, without explaining either. The diary that burns next is ordinary, so "No spell. No sacrifice. No last message. Just fire." still holds, and the contrast is now sharper.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. Read 5 started on the text from before this beat.
