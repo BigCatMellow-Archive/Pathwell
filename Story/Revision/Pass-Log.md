@@ -3081,3 +3081,17 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 - **Harada:** 22 errors, all pre-existing.
 - **Fresh check:** owed, together with the blind read.
 - **Chapter levels:** unchanged (L3).
+
+
+## P90, 2026-10-27: EXP-0019 closed, B2 and B5 kept
+
+**AUTHORITY:** [R62](Decisions.md#the-authors-rulings-for-this-revision), "do whats best, but make notes on why in the repo."
+
+**DECIDED:**
+
+- **B2 kept.** Mama Baga's line states a rule of the world, not the theme. The loosening frame proves it immediately, and cutting it would change her manner.
+- **B5 kept.** The Ch4 closer is the grief shown through an object, and it plants Ch15's "Elizabeth ran past the cookbook too."
+
+Full reasons are on [EXP-0019](Emergence/experiments/EXP-0019-Tone-Review-Candidates-2026-10-26.md#decided-2026-10-27-b2-and-b5-kept). EXP-0019 is closed.
+
+**CHECK:** No chapter changes, so there was nothing to run. The B2 and B5 patch files stay in the experiments folder as the record of what was considered.
