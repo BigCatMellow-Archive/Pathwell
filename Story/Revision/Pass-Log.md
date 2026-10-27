@@ -3291,3 +3291,14 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - **Ch1:** "That last part came out more as a demand than a request." cut.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
+
+
+## P102, 2026-10-27: Read 6 (tone) and the narrator's stated theme
+
+**READ:** [Read 6](Reader-Reports/2026-10-27_Read-06_Tone.md), a cold tone read against bt 7274's goals. It found the irreverence-with-heart working throughout, but the narrator stating the theme or explaining sad beats, mostly in Ch15–18.
+
+**DO (A/D, all cuts):** ten narrator statements removed, in Ch11, 14, 15, 16, 17 and 18. They are listed in the report's triage. Three were P54 reviser leans, now overturned by an independent reader. Harada boxes p1-4-4, p4-7-4 and p6-5-4 follow the text.
+
+**ASKED:** whether to trim the Ch16 crying list; whether the Ch18 confession should open on "It was my fault."; and two lines in bt 7274's own Ch4 and Ch5.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
