@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Tone review and EXP-0019 (2026-10-26)
+
+The [**tone review**](TONE-REVIEW-2026-10-26.md) reads all the tone notes and checks canon against them, revised under the author's [Do-Not-Overliteralize rule](../Author-Notes/2026-10-26_Do-Not-Overliteralize.md). Two cuts applied on his "Go for it" (R60). Seven candidates and ten withdrawals are in [**EXP-0019**](experiments/EXP-0019-Tone-Review-Candidates-2026-10-26.md). [Pass P88](../Pass-Log.md#p88-2026-10-26-tone-review-two-cuts-and-exp-0019).
+
 ## Author voice recovery — new earliest draft and Chapters 1–3 (2026-10-26)
 
 [**Voice recovery source/procedure and source lineage**](VOICE-RECOVERY-2026-10-26.md) and the [**initial 13-entry first-act comparison ledger**](VOICE-RECOVERY-CH01-03-2026-10-26.md). The author provided an earlier `pathwell - work.docx` as his **first draft**, distinct from the already-archived intermediate `Pathwell Working.docx`. A plain-text source snapshot has been added to [Archive/Manuscript](../../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), and the [Voice Benchmark README](../Voice-Benchmark/README.md) records its provenance. The ledger compares opening voice, figurative verbs, the cookie magic, food humor and bookstore catalog/transaction against actual current Chapters 1–3. **No chapter edits or approved candidates; R58 author's paper read-through gate and L3 remain unchanged.** Pass [P80](../Pass-Log.md#p80-2026-10-26-earliest-draft-source-and-voice-recovery-audit-started).
