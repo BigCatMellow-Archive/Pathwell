@@ -3041,3 +3041,43 @@ Change notes from the diff (9 chapters, 21 lines in, 25 out):
 8. **Change notes:** from the diff, above. Ledger: no setup or payoff affected. Status note added. Done.
 
 **Harada check:** 22 errors before and after. They are pre-existing, mostly from Ch1 changes since the chart was built; the page isn't rebuilt. **Story/Pathwell.txt is not reassembled**; run `assemble_manuscript.py` on merge if the assembled copy should follow.
+
+
+## P89, 2026-10-27: whole-book tone pass and Scrubs beats
+
+**AUTHORITY:** [R61](Decisions.md#the-authors-rulings-for-this-revision). He asked for light process, so this entry is short. Branch `tone/full-pass-20261027`, [PR #10](https://github.com/BigCatMellow-Archive/Pathwell/pull/10), built on P88.
+
+**DO (from the diff):**
+
+- **Ch17 (the calibration chapter he approved):**
+  - Seven new beats giving late Pathwell back his delight, his speed, his physical oddness and a first impulse he checks himself: the rack tour, "since the canal went in", the capped pen, the catalog "like a cat with a bird", under the Lemon's axle, "first adult to use it", the wide fan of cards.
+  - Two told lines cut ("The distinction…", "She didn't measure improvement by it.").
+  - The "evidence" line cut (EXP-0019 B3a).
+  - The adventure paragraph rewritten to keep the ditch joke without its thesis sentence.
+- **Ch1:** the half-nod in the author's own P83 wording (EXP-0019 B1a).
+- **Narrator glosses cut:**
+  - Ch6, "It sounded strange coming from Pathwell." (it contradicted his Ch5 run of "I don't know");
+  - Ch9, "That was the thing she had been trying to name since the road.";
+  - Ch12, Shade's explained restraint and "it no longer felt like a disappearance";
+  - Ch14, "It wasn't an apology…" and "He simply stood where he was and refused."
+- **Tidies:** five doubled speaker tags or split paragraphs merged (Ch6, 11, 13, 14, 16), and one pronoun slip fixed (Ch10, "either of you").
+- **Ch16:** Pathwell turns a box's label out, then back.
+- **Scrubs beats (author's notes, R61):**
+  - Ch16, "Let it be, big cat." pays off ledger L15.
+  - Ch17, Mama Baga puts stew in front of Pathwell, and Elizabeth realizes she hasn't seen him eat since the fire. This answers Ch14's uneaten biscuit.
+  - Ch17, the archivist files the loss sheet, smudges and LIKED POCKETS included. This gives "Copy the smudge" a second meaning.
+- **Reverted during the pass, because the records mark them deliberate:** Ch4's "That was the choice. / Everything afterward was consequence." (R33; it rhymes with Ch15, Registry) and Ch12's "One sock had surrendered" (Registry linked phrase).
+- **Records:**
+  - the Scrubs notes saved verbatim in Author-Notes;
+  - R61;
+  - ledger L15 paid;
+  - EXP-0019 status updated;
+  - Harada boxes p5-2-4 and p4-7-5 follow the text;
+  - `Story/Pathwell.txt` reassembled.
+
+**CHECK:**
+
+- **Checker:** watch counts fell only.
+- **Harada:** 22 errors, all pre-existing.
+- **Fresh check:** owed, together with the blind read.
+- **Chapter levels:** unchanged (L3).

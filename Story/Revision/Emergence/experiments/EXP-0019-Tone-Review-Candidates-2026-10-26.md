@@ -1,7 +1,7 @@
 # EXP-0019 — Tone review: candidates, and what was withdrawn
 
 **Date:** 2026-10-26
-**Status:** **OPEN.** Waiting on the author's picks.
+**Status:** **Partly closed 2026-10-27 ([P89](../../Pass-Log.md#p89-2026-10-27-whole-book-tone-pass-and-scrubs-beats), R61).** Applied: B1a (the half-nod, in the author's words) and B3a (the "evidence" line). B4 was replaced by a rewrite that keeps the ditch joke. B1b and B3b are moot. **Still open:** B2 (Ch14 "The working knows…") and B5 (Ch4 cookbook closer); their patches may need regenerating against the current text.
 **From:** the [tone review](../TONE-REVIEW-2026-10-26.md). It read all the tone and voice notes and checked whether canon hits them. It was revised under the author's [Do-Not-Overliteralize rule](../../Author-Notes/2026-10-26_Do-Not-Overliteralize.md). Asked about it, the author said **"Go for it."**
 **Applied in [P88](../../Pass-Log.md#p88-2026-10-26-tone-review-two-cuts-and-exp-0019):** only the two cuts that held up when read in context. Everything else that held up is a candidate here. Recommendations that didn't hold up are listed as withdrawn, with the reason.
 **Control (A):** the chapter text on `main` after P88. Each candidate is a patch in this folder; adopt one with `git apply <patch>` from the repository root.
