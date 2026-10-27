@@ -3144,3 +3144,19 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **ASKED:** seven items are listed in the report's triage, for bt 7274.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
+
+
+## P94, 2026-10-27: bt 7274's answers on the Read 2 questions
+
+**AUTHORITY:** bt 7274 answered four of the Read 2 triage questions: "Reorder: lunge, then slam"; "Hand drifts to his sleeve"; "One wordless beat among the shelves"; Thumper was "A cat".
+
+**DO:**
+
+- **Ch1:** "The man threw himself across the room, and the door slammed hard enough to rattle the chain. The bolt shot home." The cause now comes before the effect.
+- **Ch18, Merritt cookbook:** "His left hand found his right sleeve, over the place where the roots had gone in, and rested there." The temptation, paying with his future as in Ch3, is now visible without words, so "I kept thinking resemblance was enough" has something to point at. The put-back stays silent, as R47 has it.
+- **Ch18, after the confession:** "For a while she didn't read anything. She stood in an aisle out of sight of the counter with one hand flat against a shelf, the way she had the first night, and waited for her breathing to come back to her." This shows she's carrying it, with no speech. It echoes her Ch3 panic in the stacks, and it guards the ending against reading as easy forgiveness (P55).
+- **Ch5:** "He had been a very bad cat about ink." Thumper is now a cat, and the inked paw print that pays off in Ch12 has a cause.
+
+**STILL OPEN from Read 2:** Ch17's unexplained "No." after the rigged queen; the Ch14 bucket girl; Q-O (Ch2's changed neighborhood).
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. Read 3 started on the text from before these changes.
