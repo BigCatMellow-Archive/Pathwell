@@ -3126,3 +3126,21 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - She speaks plainly, as the minor cast should.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. Read 2 started on the text from before this beat.
+
+
+## P93, 2026-10-27: Read 2 (cold clarity) and four fixes
+
+**AUTHORITY:** bt 7274's read series: fresh readers, "Apply clear fixes, ask on the rest."
+
+**READ:** [Read 2](Reader-Reports/2026-10-27_Read-02_Cold-Clarity.md), a cold, in-order read by a reader with no notes. Its report is kept verbatim, followed by the reviser's triage.
+
+**DO (A, clarity):**
+
+- **Ch8:** Stansbury names "the draw" when Shade first describes it.
+- **Ch5:** Ken calls Stansbury "Leo", planting the name before Ch7.
+- **Ch10:** the van's self-correcting "No." joined to Pathwell's line.
+- **Ch4:** the wheel line's self-correction merged into one paragraph.
+
+**ASKED:** seven items are listed in the report's triage, for bt 7274.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
