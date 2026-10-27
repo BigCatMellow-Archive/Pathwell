@@ -3269,3 +3269,25 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **ASKED:** nine small fixes inside bt 7274's own Ch1, 3, 4 and 5.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
+
+
+## P101, 2026-10-27: Read 5 fixes in bt 7274's own chapters
+
+**AUTHORITY:** bt 7274 chose **"Apply all nine"** ([Read 5 triage](Reader-Reports/2026-10-27_Read-05_Line-Level.md)).
+
+**DO:**
+
+- **Ch5:**
+  - "rode through the small town without music", and "before he pulled away" dropped, so the dialogue no longer breaks a stated silence;
+  - "She hissed," replaces the second whisper-yell joke;
+  - the second "forced a smile" cut;
+  - "and she shut her eyes again" cut.
+- **Ch3:**
+  - the paper is laid "over the cube" (the door didn't exist yet);
+  - "Floor to ceiling," cut from its second use.
+- **Ch4:**
+  - the archivist asks "Name?";
+  - the camp-ring restatement trimmed to "Smaller fires branched off from the big one in the middle, wherever people had decided to stay."
+- **Ch1:** "That last part came out more as a demand than a request." cut.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.

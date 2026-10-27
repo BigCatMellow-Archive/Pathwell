@@ -132,7 +132,7 @@ When he turned back, he was sure of himself again.
 
 "Yes, but—"
 
-"Good. Now here's the thing. We really do need to get going. So please. Grab your things." That last part came out more as a demand than a request.
+"Good. Now here's the thing. We really do need to get going. So please. Grab your things."
 
 She looked at the cookbook in his hand, bent open at the ragged edge where the page had been.
 
@@ -382,7 +382,7 @@ She stepped through.
 
 The street noise cut out like someone had closed a window. No cars, no sirens, no wind. Just the soft creak of shelves bearing more weight than they were built for, and a silence that felt like it had been here practicing for years.
 
-Books. Floor to ceiling, wall to wall, stacked and leaning and wedged into every surface the room could offer. Not books — lives. Journals with cracked spines, letters bundled in ribbon, recipes on index cards spotted with oil. Thousands of them, maybe more, pressed together so tightly the shelves bowed under the effort.
+Books. Wall to wall, stacked and leaning and wedged into every surface the room could offer. Not books — lives. Journals with cracked spines, letters bundled in ribbon, recipes on index cards spotted with oil. Thousands of them, maybe more, pressed together so tightly the shelves bowed under the effort.
 
 "Lizzy, would you mind closing the door?"
 
@@ -560,7 +560,7 @@ Neither of them answered her.
 
 "Can we do this before I change my mind?"
 
-The shopkeeper turned to the wall behind him and slid open a panel that had blended into the soft brown paneling. Behind it sat a cast-iron cube. He pulled a short sheet of paper from his sleeve and laid it over the door. His hands moved over it, turning it light blue. His fingers danced. A thunk, a clank, and shifting gears.
+The shopkeeper turned to the wall behind him and slid open a panel that had blended into the soft brown paneling. Behind it sat a cast-iron cube. He pulled a short sheet of paper from his sleeve and laid it over the cube. His hands moved over it, turning it light blue. His fingers danced. A thunk, a clank, and shifting gears.
 
 A door popped open from nothing.
 
@@ -701,7 +701,7 @@ A short hike brought them to a clearing of circled wagons, and they came into th
 
 Through the gaps between the wagons Elizabeth caught the camp a piece at a time. A man in an old blazer with no shirt underneath, playing a fiddle that was missing a string. A boar turning on a spit over the coals, a small boy leaning his whole weight into the crank. Children playing tag between the tents. A woman reading a man's palm with the focused disinterest of someone who had done it ten thousand times and still found people mildly surprising. People around a table, laughing at something.
 
-The camp was a loose ring of wagons around a central fire, with smaller fires branching off where people had decided to stay. Everything was used and kept: patched canvas, polished ironwork, rope dark with old rain. Nothing matched, and almost everything had been repaired by someone who believed replacement was a personal failure.
+Smaller fires branched off from the big one in the middle, wherever people had decided to stay. Everything was used and kept: patched canvas, polished ironwork, rope dark with old rain. Nothing matched, and almost everything had been repaired by someone who believed replacement was a personal failure.
 
 Near the fire, two children crouched over a beetle.
 
@@ -1080,6 +1080,8 @@ The archivist finished the line he was writing before he looked up. He was somew
 
 The boy pointed at Elizabeth, and she nodded.
 
+"Name?"
+
 "Elizabeth."
 
 "Family name?"
@@ -1280,7 +1282,7 @@ From the circle, a golden line burst into the center, made a small bead there, a
 
 "What was that all about?"
 
-But as the words left her mouth, his arms shot out, palms open, fingers splayed. The circle took off again, spinning wildly, air shooting around them, and it was all Elizabeth could do to close her eyes. The wind whipped around her, gaining fury, and pulled the breath out of her. Her eyes watered. Her joints ached. Her bandana flew off her head, and she reached blindly to grab it before it was lost. Her hand was snatched back just as her fingers closed on it. Pathwell hugged her tight, and she shut her eyes again.
+But as the words left her mouth, his arms shot out, palms open, fingers splayed. The circle took off again, spinning wildly, air shooting around them, and it was all Elizabeth could do to close her eyes. The wind whipped around her, gaining fury, and pulled the breath out of her. Her eyes watered. Her joints ached. Her bandana flew off her head, and she reached blindly to grab it before it was lost. Her hand was snatched back just as her fingers closed on it. Pathwell hugged her tight.
 
 The wind let up. When she opened her eyes, the bandana in her hand had been singed in half.
 
@@ -1320,7 +1322,7 @@ Through the open door, the hall was empty. White speckled tile, with a blue tile
 
 "Why are there lockers on the wall?" Pathwell asked.
 
-"What?" Elizabeth poked her head out the door. She saw the lockers, the posters, the names on the doors and the numbers above them, and she shrank back into the closet. In the quietest yell she could manage: "You brought us to a school!?"
+"What?" Elizabeth poked her head out the door. She saw the lockers, the posters, the names on the doors and the numbers above them, and she shrank back into the closet. She hissed, "You brought us to a school!?"
 
 "What?"
 
@@ -1414,7 +1416,7 @@ The two of them paused, each waiting for the other to answer, when a voice behin
 
 A tall man stepped around Elizabeth, a walkie-talkie still in one hand. His shoulders were wide and his hair was slicked jet black, and he was well dressed, in a button-down under a vest. "Sorry, I was running late, Pathwell. Hope I didn't keep you waiting long."
 
-Pathwell locked eyes with him. "Stansbury." He forced a smile. "It's been too long."
+Pathwell locked eyes with him. "Stansbury. It's been too long."
 
 Stansbury smiled back with a light chuckle. "Sorry about the confusion, Ken. I'll make sure they check out when they leave."
 
@@ -1540,9 +1542,9 @@ Pathwell slid the box across the hood toward his brother. "All right, Stansbury,
 "Pathwell!" She gathered herself, walked around to the back of the car, and slammed the door.
 
 
-Her sleeves were still damp from the tree. They rode in silence through the small town, mostly because the radio only worked when it wanted to, and partly because that annoyed Pathwell.
+Her sleeves were still damp from the tree. They rode through the small town without music, mostly because the radio only worked when it wanted to, and partly because that annoyed Pathwell.
 
-Stansbury glanced once at Pathwell's right hand before he pulled away. "How thin?"
+Stansbury glanced once at Pathwell's right hand. "How thin?"
 
 Pathwell looked out the window. "He said I didn't have much left to give."
 
