@@ -3171,3 +3171,23 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **ASKED:** a consented restitution flourish for Pathwell, one fact about Elizabeth's past, and Stansbury's school business.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
+
+
+## P96, 2026-10-27: bt 7274's answers on Read 3
+
+**AUTHORITY:** bt 7274 answered three Read 3 questions:
+
+- **A consented flourish for Pathwell:** "Yes, write it".
+- **The Ch17 queen "No.":** "To saying Shade's line".
+- **Elizabeth's past:** "I'll tell you". The fact is pending.
+
+**DO:**
+
+- **Ch17, the rigged queen:** "Pathwell opened his mouth, and Elizabeth heard the sentence coming in somebody else's voice. *This child is cheating.* / He closed his mouth. 'No,' he said." His "No." is now his refusal to say Shade's Ch13 line, and two readers flagged it as unreadable before.
+- **Ch17, new short scene (early in the third week):** a family arrives from the north road. Mama Baga asks Pathwell to welcome them, and he does the whole Ch4 welcome speech, remembering the runemasters this time and saying "spaewives" again for the smallest child. He asks before taking the grandmother's bag. "Is he always like this?" / "Worse," Mama Baga says, and goes to see about the goat. **Why:**
+  - Read 3 found that his growth showed mostly as compliance.
+  - The North Star says "Do not cure Pathwell of being Pathwell".
+  - This is his flair at full volume, asked for by someone else.
+  - The book's theme is never stated.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. Read 4 (continuity) started on the text from before these changes.
