@@ -3221,7 +3221,7 @@ Overhead, a drawer stopped. Stansbury's head appeared at the top of the half fli
 
 "What do you mean, really?"
 
-Stansbury came down the steps with three scraps of paper in his hand. "I just didn't expect it to work so soon. Or at all, for that matter."
+Stansbury came down the steps with two scraps of paper in his hand. "I just didn't expect it to work so soon. Or at all, for that matter."
 
 "Why do you keep sounding so surprised?"
 
@@ -5410,11 +5410,11 @@ Milo frowned. "But—"
 
 "Now."
 
-Milo took the deck and ran toward the archive wagon, his sock falling as he went, and disappeared through the open door.
+Milo took the deck and ran toward the archive wagon and disappeared through the open door.
 
 Elizabeth looked at Pathwell. "Tell me he's wrong."
 
-Pathwell put the untouched biscuit on the paper bag. "He isn't."
+Pathwell put the uneaten halves of the biscuit on the paper bag. "He isn't."
 
 Stansbury stood. "Little brother."
 
@@ -5825,7 +5825,7 @@ Milo knew her name now.
 
 She stepped over the diary.
 
-The front reserve shelf was three feet farther in. Nana's cookbook sat exactly where it had that morning, spine supported, flour-stained cover turned slightly toward the aisle.
+The front reserve shelf was three feet farther in. Nana's cookbook sat exactly where it had that morning, spine-out between the weather ledger and the wrapped letters, the support still fitted around its damaged spine.
 
 JONES FAMILY COOKBOOK.
 
@@ -6778,7 +6778,7 @@ Pathwell blinked. "I didn't say anything."
 
 The healer looked between them.
 
-Pathwell held the bandage roll very still. "There are ways to reduce what remains after the skin closes."
+Pathwell held the bandage roll very still. "There are people who can reduce what remains after the skin closes."
 
 Stansbury looked at his brother. "Ordinary ways?"
 
@@ -7174,12 +7174,12 @@ Elizabeth spent less time at Camp during the second week. She went back to work.
 
 She took a long route home one evening because the weather was good. Nothing magical happened. She liked the walk anyway.
 
-She decided it counted. Her standards for adventure had been set by a diner at four in the morning, a museum before opening, and one ditch she had chosen herself, though she was willing to file the ditch under poor execution.
+She decided it counted. Her standards for adventure had been set by a diner with terrible coffee, a museum before opening, and one ditch she had chosen herself, though she was willing to file the ditch under poor execution.
 
 
 At the end of the second week, Milo needed a fourth player again.
 
-Elizabeth had come to Camp for dinner. The older woman in the knitted cap was already seated. The archivist had the deck.
+Elizabeth had come to Camp for dinner. The older woman in the knitted cap was already seated. The archivist had a new deck, still stiff from the box.
 
 Milo pointed at Pathwell. "You."
 
@@ -7502,7 +7502,7 @@ The shopkeeper looked at Pathwell. "Your account remains at zero."
 
 Pathwell leaned one elbow on the counter. "You say that as though waiting for weather."
 
-"Three weeks is not a character trait."
+"A month is not a character trait."
 
 "Cruel."
 

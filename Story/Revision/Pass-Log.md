@@ -3227,3 +3227,23 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **Records:** the character bible's Elizabeth section, R63, and the plan doc's status.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing. The next fresh reader should judge the seam: is the shift from blackout to memory to chair legible?
+
+
+## P98, 2026-10-27: Read 4 (continuity) and eight fixes
+
+**READ:** [Read 4](Reader-Reports/2026-10-27_Read-04_Continuity.md), a cold read through a continuity and logistics lens, with a day-by-day timeline and a ledger of the world's rules.
+
+**DO (A):** eight fixes, listed in the report's triage:
+
+- Ch17's diner time;
+- Ch16's scar offer, made consistent with Ch3;
+- Ch15's cookbook placement, matched to Ch12;
+- Ch14's biscuit;
+- Ch17's new deck;
+- Ch14's sock clause cut, protecting the Ch15 payoff;
+- Ch10's scrap count;
+- Ch18's "A month".
+
+**ASKED:** whether the cookbook's burning releases feeling (a rule question).
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
