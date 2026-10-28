@@ -3356,3 +3356,43 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - Every member is Claude, so findings that several members reach should still be confirmed with a human reader.
 
 **CHECK:** `draw.py` tested: a random draw of 6 seated all six families, and a mixed draw wrote briefs with no unfilled placeholders. No chapter text changed.
+
+## P106, 2026-10-28: Council round 1, the best version
+
+**AUTHORITY:** bt 7274: "Lets use the council to review the book again like we did with the honest reviewer, but not just telling me whats wrong, but how to make the story the best version of itself." Under [R64](Decisions.md#the-authors-rulings-for-this-revision).
+
+**DO:**
+
+- Nine blind readers across six families read the frozen text at 90bf73c: 17, 19, 20, 32, 34, 41, 09, 26, 44.
+  - Each got its card brief plus the new [best-version add-on](Council/addons/best-version.md).
+  - Two Opus seats (20, 26) hit API safety false positives and were rerun on Sonnet.
+- Reports are filed unedited in [Reader-Reports/Council/2026-10-28](Reader-Reports/Council/2026-10-28/), with provenance lines. Most were saved from hand-backs, because reader agents couldn't write files.
+- Synthesis: [00-Best-Version-Plan.md](Reader-Reports/Council/2026-10-28/00-Best-Version-Plan.md). It covers:
+  - a protect list;
+  - ten convergent findings (C1–C10), each with seats, locks, options and a lean;
+  - single-seat findings;
+  - disagreements;
+  - seven questions for bt 7274;
+  - the work proposed without asking, on his go.
+- Council housekeeping:
+  - `tools/save_handback.py` added;
+  - README run steps updated (blocked writes, Opus-to-Sonnet retry);
+  - first LEDGER run row.
+
+**LOCKS TOUCHED (shown, not changed):**
+
+- the prune's content (08-22 Q141, "open unless the story later needs it");
+- R47 and R54 (the confession late and private);
+- R45 and R46 (the climax);
+- R42 (length is not a target);
+- R33 and R62 (the "That was the choice" rhyme);
+- R54 ("Elizabeth smiled.");
+- R31 (the act-one choice off the page);
+- R34 (Stansbury's source);
+- R30 (no prune marks).
+
+**CHECK:** No chapter text changed. Spot-verified against the frozen text:
+- "sore and hungry" (line 981);
+- "Bank it." (line 3073);
+- "looked at" ×233;
+- the Ch17 "concussion" line, which is a joke rather than a diagnosis. This is noted in the plan as a correction to seat 41.

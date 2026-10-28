@@ -21,6 +21,8 @@ The council owns **who** reads. The Sunday Morning [Reader Panel](../../Sunday-M
 | `tools/roster_source.py` | The source for every card. Edit this file to add or change a member |
 | `tools/build.py` | Regenerates the cards, `roster.json` and ROSTER.md from the source |
 | `roster.json` | Machine-readable roster, used by `draw.py` |
+| `addons/best-version.md` | Optional brief add-on asking for a protect list, prioritized changes and the shape of the best version (round 1) |
+| `tools/save_handback.py` | Saves a reader's report from its agent transcript when the reader couldn't write its own file |
 
 ## The families
 
@@ -74,7 +76,7 @@ python3 Story/Revision/Council/tools/draw.py --include 17 --include 19 --n 5 --a
 3. **Launch the readers in parallel and in the background, one agent per member,** on the member's default model unless you're deliberately rotating. Send the brief exactly as written. **Never add** bt 7274's goals, the tone notes, earlier reports, or what you hope they'll find. That's the lesson of Reads 1–8.
 4. **Chained members** (07 commuter skimmer, 23 rereader) need several agents. Follow the Reader Panel's [chain procedure](../../Sunday-Morning/Reader-Panel.md#lenses-that-need-more-than-one-agent).
 5. **The shared core, second.** When a reader has filed its report, send it the Reader Panel's six [shared-core questions](../../Sunday-Morning/Reader-Panel.md#the-shared-core) by message, so different members can be compared on the same questions.
-6. **File it.** Copy each report to `Story/Revision/Reader-Reports/Council/<date>/<NN-slug>.md` with a provenance line saying which text (commit) it read and which model ran it. Add a row to [LEDGER.md](LEDGER.md).
+6. **File it.** Reader agents are usually blocked from writing their own report file, so the report arrives as the agent's final hand-back. `tools/save_handback.py <transcript> <report.md>` saves it without retyping. If an Opus reader stops on an API safety false positive, relaunch the same brief on Sonnet and record the swap. Copy each report to `Story/Revision/Reader-Reports/Council/<date>/<NN-slug>.md` with a provenance line saying which text (commit) it read and which model ran it. Add a row to [LEDGER.md](LEDGER.md).
 7. **Triage**, as with the earlier reads:
    - Clear problems are fixed and logged in the [Pass Log](../Pass-Log.md).
    - Anything that changes meaning, adds a beat, or touches bt 7274's own chapters or his rulings goes to him with a lean.

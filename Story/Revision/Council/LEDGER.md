@@ -21,3 +21,4 @@ These reads came before the council existed. They're listed here so later draws 
 
 | Date | Run | Members | Models | Text (commit) | Reports |
 | --- | --- | --- | --- | --- | --- |
+| 2026-10-28 | 1: best version (whole book, with [best-version add-on](addons/best-version.md)) | developmental-editor, comedy-writer, screenwriter-adapter, expansion-editor, magic-systems-lawyer, medic, book-club-host, ai-prose-detector, ending-skeptic | opus 17, 19, 34; sonnet 20, 26 (both retried after opus false positives), 32, 44; haiku 09, 41 | 90bf73c | [Council/2026-10-28](../Reader-Reports/Council/2026-10-28/00-Best-Version-Plan.md) |
