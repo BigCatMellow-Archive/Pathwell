@@ -3396,3 +3396,53 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - "Bank it." (line 3073);
 - "looked at" ×233;
 - the Ch17 "concussion" line, which is a joke rather than a diagnosis. This is noted in the plan as a correction to seat 41.
+
+## P107, 2026-10-28: R65, the council plan applied
+
+**AUTHORITY:** [R65](Decisions.md#the-authors-rulings-for-this-revision) and its same-day follow-ups. The work went in four commits: 353aad1, 28ec03f, dc97880, f663c62.
+
+**DO (by plan item):**
+
+- **C1, the prune** (Ch9, Ch10): Shade's fragment is a kitchen table and hands around a cup. In the van, Pathwell can't name who asked ("I'd stopped keeping the faces"), and Elizabeth recognizes Shade's fragment.
+- **C2, the confession** (Ch18): it is still late and private, with no pardon. Elizabeth makes him say Shade's name before she goes back to the shelves. At the door, his right hand no longer pulls.
+- **C3, Ch15:**
+  - The dagger splits in the Ch11 discharge, paying off Stansbury's Ch5 warning, and is carried split through Ch14 and Ch15. The Ch14 restraint beat is kept.
+  - Shade points her to the door: "Go."
+  - Pathwell's inaction is not shown earlier.
+- **C4, the first sin** (Ch16, Ch10):
+  - The apology list now opens with her apartment, her diary and the cookbook.
+  - Ch10 says the first blob followed him, not her (P3).
+- **C10 and Q5–6, her want and her ordinary life:**
+  - Ch12: she holds the cookbook and waits for the voice.
+  - Ch17: work, the missed meeting and the ABETH cake. She pays for the farmer's fence. On Sunday she makes dumplings with Nana's spoon and writes the recipe in her own hand.
+  - Ch18: the card is in her pocket at the recipe shelf and at the door.
+- **C6, repetition:**
+  - The Ch12 donation runs ahead of the archivist's procedure instead of repeating Ch4.
+  - The Ch13 hand beat is cut.
+  - The Ch17 catalog beat and the "No debt vanished" inventory are cut.
+  - Gaze beats are trimmed in Ch6–18, keeping purposeful blocking.
+  - Consent glosses are cut in Ch12.
+- **C8, seeds:**
+  - Ch5: a plain cost line, and Stansbury separates harvesting from spending (R34 kept).
+  - Ch7: brass pins in Pathwell's coat.
+  - Ch14: "Don't think" returns as the intent rule.
+  - Ch17: the arm shakes while he copies.
+- **C9, pain-beat jokes:** Ch11 "a noise she would later deny", Ch14 "There was no joke in it.", and Ch15 "perfect timing".
+- **One-liners:**
+  - Ch10: the need-portal; "Bank it" made legible; the quarantine letter planted.
+  - Ch11: Stansbury checks Pathwell's eyes, which sets up the Ch17 concussion joke.
+  - Ch15: Camp's charged pages are all inside the fire.
+  - Ch16: Milo's chest is listened to.
+  - Ch3, Ch4, Ch5: the landlord joke shown; two clichés.
+
+**NOT DONE YET:**
+
+- The full voice-differentiation pass (C5). Only gaze and tic trims are in.
+- The Ch14 chant trim.
+- Q-O (the Ch2 street change). It is still the author's question; Ch18's laundromat is available as the payoff.
+
+**CHECK:**
+
+- Harada matches the pre-edit error list exactly (22). Three quote breaks were caught and reverted: Ch13 "Asking."/"Disorienting." is a Ch18 callback; Ch14 "I am trying to make this right."; Ch16 "I don't know if I forgive you."
+- One Harada quote was updated: "Not store. Not loan."
+- The story checker shows no new hard findings.
