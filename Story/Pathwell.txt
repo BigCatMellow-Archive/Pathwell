@@ -430,7 +430,7 @@ Afterward there was nobody to carry anything up the stairs for. Elizabeth carrie
 
 Then a new apartment across the city, three weeks of boxes, and a party she hadn't asked for.
 
-She had forgotten she was good at parties. She refilled the chips before anyone noticed they were low. She found the bottle opener nobody could find. She topped off her own glass while she was at it, because she was at it. She told the one about the landlord, and the man looking into her box of old notebooks laughed, which was more than anyone from work managed. She meant to ask his name. Whenever a conversation ran out, she picked up three empty cups and went to the kitchen, where there was always something to do.
+She had forgotten she was good at parties. She refilled the chips before anyone noticed they were low. She found the bottle opener nobody could find. She topped off her own glass while she was at it, because she was at it. She told the one about the landlord, who had shown her the apartment by naming each room as they walked into it ("Kitchen.") in case she tried to sleep in it, and the man looking into her box of old notebooks laughed. She meant to ask his name. Whenever a conversation ran out, she picked up three empty cups and went to the kitchen, where there was always something to do.
 
 It was a good party. It was only at the end, with the door shut and the cups everywhere, that the apartment went very quiet, and she noticed she was listening for someone upstairs.
 
@@ -673,7 +673,7 @@ Nothing. She grumbled under her breath. "Darn it, where are you?" Then, louder: 
 
 The sounds of the forest were the only response.
 
-She made her way around a large oak, and her foot caught in the undergrowth. She wiggled it free and took one step forward, just enough for her foot to meet a tree root, followed by another greeting with the ground. The taste of dirt kissed her lips.
+She made her way around a large oak, and her foot caught in the undergrowth. She wiggled it free and took one step forward, just enough for her foot to meet a tree root, followed by another greeting with the ground. She got up with dirt in her teeth.
 
 She lay there for a moment, frustrated. Annoyed.
 
@@ -1360,7 +1360,7 @@ Friday. Somewhere back in the city, her nine o'clock meeting had come and gone w
 
 "You're unbelievable," Elizabeth said.
 
-The pint-sized siege of chaos raged around them, but as all storms do, this one passed too. They had drawn the attention of a few teachers on their way by, but not enough to warrant an inquisition. So Pathwell started walking the halls, peeking through the glass in the classroom doors.
+The pint-sized siege of chaos raged around them and then, abruptly, moved on to the next hallway. They had drawn the attention of a few teachers on their way by, but not enough to warrant an inquisition. So Pathwell started walking the halls, peeking through the glass in the classroom doors.
 
 "Which room is he in?"
 
@@ -1531,6 +1531,8 @@ Stansbury's lips pursed and his eyes narrowed. "That feels a bit reductive, even
 
 "That feels… harmless… I guess?" Elizabeth let the words mumble out, looking to Pathwell. "It doesn't really feel any different from what you did at the bookstore. Selling off potential nobody was going to use."
 
+"It's different," Stansbury said. "The children keep theirs. I only take what comes off the work. Nobody's future goes into mine." He didn't look at his brother when he said it.
+
 Pathwell slid the box across the hood toward his brother. "All right, Stansbury, you can stop showing off and put your noodle away."
 
 "Always so crass, Pathwell." Stansbury collected his things, walked around to the driver's side and put the box in the back seat. "Well?" He gestured to the doors.
@@ -1559,6 +1561,14 @@ Stansbury's jaw moved once. "And you bought what?"
 "Paper too."
 
 "That fixes it."
+
+Elizabeth leaned forward between the seats. "Not much left of what?"
+
+Neither of them answered right away.
+
+"Future," Stansbury said. "He pays with it. Not years, exactly. Things he might have done. Whatever he sells doesn't come back."
+
+Pathwell went on looking out the window.
 
 You would be forgiven for not stopping in the town as you drove through, and even more forgiven if you didn't notice it while you did. A small crossroads store sat at the only stop sign and served as the town's general store and restaurant, with most of the rest of the town just off the main road. A small bar sat behind the store, sharing its parking lot. It had a pool table, a dartboard and its regulars.
 
@@ -1677,7 +1687,7 @@ Pathwell took a piece from the basket. Stansbury slapped his hand with a napkin.
 
 Elizabeth laughed.
 
-Pathwell looked at her. "You see what I endure."
+"You see what I endure," Pathwell said.
 
 "I've been with you for one night and I already think he deserves the fish."
 
@@ -1685,13 +1695,13 @@ Pathwell looked at her. "You see what I endure."
 
 The bartender put a second basket in front of Pathwell without being asked.
 
-Pathwell looked at him. "You understand me."
+"You understand me," Pathwell told him.
 
 "You ordered this last time."
 
 "Less romantic, but acceptable."
 
-Elizabeth looked at Stansbury. "How long ago was last time?"
+"How long ago was last time?" Elizabeth asked.
 
 "Don't ask questions that encourage him."
 
@@ -1716,7 +1726,7 @@ Stansbury waited until Pathwell went to get his darts back before he spoke, quie
 
 "You chose to come with him from Camp?"
 
-Elizabeth looked at him. "Yes."
+"Yes."
 
 "He didn't still have something of yours?"
 
@@ -1798,9 +1808,9 @@ Nothing changed that he could name. Same coat, same face, same eyes. But the arr
 
 Pathwell leaned closer. His reflection leaned closer, perfectly. Of course it did. He felt ridiculous.
 
-The tension tightened again when he angled toward the far wall, and he stopped testing it.
+It tightened again when he angled toward the far wall, and he stopped testing it.
 
-The long, intermittent tension he had filed under damage, because damage was easier than mystery.
+The long, intermittent pull he had filed under damage, because damage was easier than mystery.
 
 His own face in the mirror suddenly felt less like evidence than like an accusation.
 
@@ -1872,7 +1882,7 @@ Elizabeth stopped at the bottom of the steps. "Red sky at night, sailors' deligh
 
 At the bottom he looked toward the Cadillac, then past it, to the far edge of the lot. Stansbury saw where he was looking. He took the keys from his pocket and held them out to Elizabeth.
 
-She looked at them. "Why me?"
+"Why me?"
 
 "Because I want the passenger seat."
 
@@ -2035,6 +2045,10 @@ Pathwell looked. Stansbury watched his pupils for a second, then pressed two fin
 
 "Several dignities."
 
+Stansbury's hand moved to his ribs. Pathwell's breath stopped halfway in.
+
+"Bruised," Stansbury said. "Not broken. You'll hate breathing for a week, and I'll hear about it."
+
 "Anything important?"
 
 Pathwell looked toward the black streaks on the dirt. "No."
@@ -2093,9 +2107,7 @@ He paused.
 
 Stansbury's expression changed, though not enough. "You're right," he said.
 
-Pathwell looked at him. Stansbury looked back at Pathwell.
-
-Then he said, "Let's get away from here first."
+"Let's get away from here first," he said.
 
 It was reasonable.
 
@@ -2111,7 +2123,7 @@ Pathwell frowned. "I dislike the back."
 
 Stansbury opened the passenger door for himself.
 
-Elizabeth looked at him. "You gave me the keys because you wanted that seat."
+"You gave me the keys because you wanted that seat," Elizabeth said.
 
 "I still do."
 
@@ -2334,7 +2346,7 @@ Elizabeth got out on the driver's side. "So was pulling me out of my apartment b
 
 Stansbury made a sound that might have been a cough.
 
-Pathwell looked at him. "Do not encourage her."
+"Do not encourage her," Pathwell told him.
 
 "My axle is in a drainage culvert. I'm evaluating several positions."
 
@@ -2526,7 +2538,7 @@ Pathwell turned toward her. Shade didn't answer right away.
 
 Pathwell's expression hardened. "You don't know me."
 
-Shade looked at him. "I know old versions of your excuses."
+"I know old versions of your excuses," Shade said.
 
 Stansbury stepped between the sentence and whatever might have come after it. "Nobody knows enough yet."
 
@@ -2538,7 +2550,7 @@ Elizabeth rubbed the place where the seatbelt had caught her shoulder. The adren
 
 Shade noticed. "There's coffee somewhere along this road."
 
-Elizabeth looked at him. "Is that an invitation?"
+"Is that an invitation?"
 
 "No. I'm getting coffee."
 
