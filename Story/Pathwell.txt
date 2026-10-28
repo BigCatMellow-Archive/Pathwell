@@ -4371,7 +4371,7 @@ Elizabeth drank.
 
 Shade stayed until the healer finished. He didn't touch the sling or correct the healer. He mostly stood by the door and resisted his own right hand whenever it tried to open toward somewhere beyond the camp.
 
-When the healer was done, Mama Baga looked at him. "You hurt?"
+When the healer was done, Mama Baga turned to him. "You hurt?"
 
 Shade glanced at the cut across his palm from the museum. "Not especially."
 
@@ -4383,7 +4383,7 @@ Mama Baga pointed at the basin. "Wash it."
 
 Shade washed it.
 
-The healer wrapped his palm with a strip of clean cloth after asking permission in exactly the same tone she'd used with Elizabeth.
+The healer asked first. Then she wrapped his palm with a strip of clean cloth.
 
 Shade watched the bandage go around his hand. "This is humiliating."
 
@@ -4407,7 +4407,7 @@ Mama Baga held the wagon door open. Shade went first.
 
 Elizabeth stood carefully.
 
-The healer touched the sling once, checking the knot rather than steering her body.
+The healer touched the sling once, checking the knot.
 
 "If the fingers numb, if the swelling gets worse, if the pain changes instead of just hurting, you come back."
 
@@ -4476,7 +4476,7 @@ She looked toward the archive wagon. The door stood open, and someone moved insi
 
 Elizabeth set down her bowl.
 
-Shade looked at her. "Where are you going?"
+"Where are you going?" Shade asked.
 
 "Archive."
 
@@ -4517,7 +4517,19 @@ Elizabeth stared. "Is that also a category?"
 
 "Old one."
 
-She almost laughed. Instead she took the diary out of her coat.
+Elizabeth nodded at the shelf. "Can I hold it?"
+
+"You're the donor," the archivist said. "You're who we'd ask."
+
+He took the cookbook down and set it in her good hand. The new support creaked around the spine. She let it fall open: Nana's slanted capitals, a margin note about salt, a grease spot shaped like nothing in particular.
+
+She waited for the kitchen. For the voice.
+
+It didn't come. There was only a faint warmth a long way off, like a radio left on in another room of a house.
+
+She turned one more page anyway. Then she handed it back before she could start turning all of them, and the archivist put it back exactly where it had been.
+
+Then she took the diary out of her coat.
 
 The cover was scuffed from the night but otherwise intact. Ordinary. Her handwriting was inside, and her crossed-out sentences, and her private complaints, and her attempt to explain Nana's funeral, which she'd given up halfway through because every sentence sounded like someone else's grief. Thumper was in there too: his six-toed paw print pressed into the center of a page, the ink still holding after all these years.
 
@@ -4527,17 +4539,13 @@ The archivist looked at the diary, then at Elizabeth. He didn't reach for it.
 
 Elizabeth had expected him to ask what it was worth, or whether it was charged, or whether Camp could use it.
 
-She looked at the cookbook on the shelf. "I want to give you this."
+"I want to give you this."
 
 The archivist waited. "Store?" he asked.
 
-"No."
+"Not store. Not loan." Elizabeth tightened her grip on the diary anyway.
 
-"Loan?"
-
-Elizabeth tightened her grip on the diary.
-
-There was still time to choose that. A loan meant it stayed hers in a different building, and she could tell herself she'd only moved the checking somewhere safer.
+There was still time to choose loan. A loan meant it stayed hers in a different building, and she could tell herself she'd only moved the checking somewhere safer.
 
 She opened the diary once. The page fell naturally to a list she'd written during the move.
 
@@ -4555,27 +4563,17 @@ Elizabeth smiled.
 
 She closed the book. "No," she said. "Give."
 
-The archivist looked at her sling and back at her face. "You sure?"
+Then, before he could ask: "Elizabeth. You have the family name. Original writer, me. Pages used, none."
 
-"Yes."
+The archivist's pencil had stopped halfway to the ledger. "You've done this before."
 
-He waited one more beat.
+"Once."
 
-Elizabeth held the diary out.
-
-The archivist took it with both hands, the way Mama Baga had taken the cookbook.
+She held the diary out, and he took it with both hands.
 
 Elizabeth's hand stayed suspended after the diary left it. Empty. She lowered it.
 
-"Name for the card?" he asked.
-
-"Elizabeth."
-
-"Family name?"
-
-She gave it.
-
-He wrote it in the ledger. "Anything you want restricted?"
+He wrote in the ledger. "Anything you want restricted?"
 
 Elizabeth looked at the diary. "For now," she said. "Ask me before anyone reads it."
 
@@ -4740,7 +4738,7 @@ Elizabeth covered her mouth with her good hand.
 
 Shade stood with the grinder under one arm. "Do you want coffee?"
 
-Elizabeth remembered the Space Between, and then the diner. "I want to know whether you can make coffee."
+"I want to know whether you can make coffee."
 
 "That is a different question."
 
@@ -4787,7 +4785,7 @@ Shade took it. "I know."
 
 Elizabeth stopped.
 
-Shade looked at her. "What?"
+"What?"
 
 "Nothing."
 
@@ -4895,7 +4893,7 @@ He stared at it. "This child is cheating."
 
 Milo leaned back with both hands behind his head.
 
-Shade looked at Elizabeth. "You see how they treat guests."
+"You see how they treat guests," Shade told Elizabeth.
 
 "Are you one?"
 
@@ -4917,24 +4915,6 @@ The archivist gathered the cards. "Again?"
 Shade looked surprised by the question. "Yes."
 
 The older woman began shuffling.
-
-His right hand opened. Shade closed it.
-
-The older woman kept shuffling.
-
-Milo looked at the hand. "Does that hurt?"
-
-Elizabeth could see him consider lying. "Sometimes."
-
-"Why does it do that?"
-
-Shade looked toward the far edge of Camp. "Something is pulling."
-
-"Can you still play?"
-
-"Yes."
-
-"Then deal."
 
 
 Later, when Milo was sent on another errand and the archivist returned to the wagon, Shade stayed at the table turning one of the cards between his fingers.
@@ -5412,7 +5392,7 @@ Elizabeth said, "You should do it."
 
 Pathwell looked at her. "I will."
 
-There was no joke in it. Then his attention went back to the cord. He passed one end around the first pin and the other around the second: a narrow line between two fixed points.
+His attention went back to the cord. He passed one end around the first pin and the other around the second: a narrow line between two fixed points.
 
 Shade stood, and the stool scraped the dirt. The older woman in the knitted cap looked up. Milo froze with the cards squared between his palms.
 
@@ -5472,7 +5452,7 @@ Pathwell held the pin between thumb and forefinger. Shade stepped closer, and th
 
 "No," Shade said again.
 
-Pathwell looked at him. "You don't know what I'm going to do."
+"You don't know what I'm going to do," Pathwell said.
 
 "I know the shape."
 
@@ -5598,7 +5578,7 @@ Elizabeth stared at him. "This is leaving damage behind you."
 
 Shade's face changed. "You still think the result gets to decide whether the choice was acceptable."
 
-Pathwell looked at him. "I am trying to make this right."
+"I am trying to make this right," Pathwell said.
 
 "For who?"
 
@@ -5653,6 +5633,8 @@ Mama Baga's eyes stayed on Pathwell. "You don't know that."
 "No."
 
 Mama Baga pointed at his hands. "The working knows what you mean, not what you wish you meant. You are giving it two incompatible answers."
+
+Don't think, he had told Elizabeth in her living room, with his hand flat on Nana's page. Don't. Think. She understood now what he had been asking her for.
 
 The pale branches shivered. The brass loop dipped, and for one second the whole structure began to loosen. Pathwell could still let it. Mama Baga saw it too.
 
@@ -5817,7 +5799,7 @@ He looked at her.
 
 Her right hand had found the foam dagger behind her waist. It had split at the museum and been warm ever since. She had cut Pathwell out of one of these things at the bar. The seam had taken several cuts, and she had needed both arms to pull him free. Her left shoulder hurt inside the sling before she'd moved it at all.
 
-The man caught Shade's jacket again. Mama Baga was calling people back from the burning wall. On the far side of the wagon Stansbury was pushing through the people carrying water.
+The man caught Shade's jacket again. Mama Baga was calling people back from the burning wall; every charged page Camp owned was inside it. On the far side of the wagon Stansbury was pushing through the people carrying water.
 
 "Elizabeth!" Milo shouted.
 
@@ -5918,7 +5900,7 @@ The answer came out in Shade's voice and Pathwell's voice and her own.
 
 The shelf was too heavy to lift one-handed. She knew this before trying, and tried anyway. Her right hand found the edge. She pulled. Nothing moved.
 
-Her left shoulder throbbed inside the sling like something offended to still be attached to her. The healer's instruction returned with perfect timing.
+Her left shoulder throbbed inside the sling like something offended to still be attached to her. The healer's instruction came back to her.
 
 You are not using this arm today.
 
