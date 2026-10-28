@@ -3474,3 +3474,24 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - Ch1–5. They are bt 7274's chapters and would need his approval.
 
 **CHECK:** Harada matches the pre-edit list. No callbacks were broken: each changed line was checked against Harada quotes and against later chapters.
+
+## P109, 2026-10-28: Council round 2, six to nine
+
+**AUTHORITY:** bt 7274: "ask the council, what it takes to make this 6 into a 9".
+
+**DO:**
+
+- Eight blind seats, none of whom sat in round 1, read the text at a820598 with the new [to-a-nine add-on](Council/addons/to-a-nine.md). No earlier score was given to them.
+- Scores: 6, 6.5, 6.5, 7, 7, 7, 7, 7 (median 7).
+- Reports are filed in [Reader-Reports/Council/2026-10-28-round2](Reader-Reports/Council/2026-10-28-round2/), with the synthesis in [00-Six-to-Nine.md](Reader-Reports/Council/2026-10-28-round2/00-Six-to-Nine.md).
+- LEDGER row added.
+
+**FINDINGS:**
+
+- All eight place the book past competent and on the plateau, where polish has stopped paying and the next points come from choices.
+- 8/8 want Pathwell's silence about Shade carried at full weight. This touches R47 and R54.
+- 7/8 want one governing voice. They split on whether it should be the quiet voice (05) or a comic narrator (01).
+- 7/8 want Ch1–5 brought up to the standard of the back half. Those are bt 7274's chapters.
+- 7/8 want Elizabeth beyond grief. The caregiver seat adds the idea of turning the care-versus-tyranny lens on her.
+
+**No chapter text changed.** Five decisions are put to bt 7274 in the synthesis.
