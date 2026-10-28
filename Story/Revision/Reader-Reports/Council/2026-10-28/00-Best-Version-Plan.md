@@ -1,6 +1,16 @@
 # Council round 1: the best-version plan
 
-**Status: a plan for bt 7274 to rule on. Nothing in the book has changed.** No chapter edits follow from this round until he has seen the plan and chosen.
+**Status: ruled (R65, 2026-10-28).** bt 7274 picked the recommended option on every question:
+
+- Q1 his not-knowing;
+- Q2 a decision beat, with Shade present at the end, inside R47 and R54;
+- Q3 crack the dagger, settle the look, and don't show Pathwell earlier;
+- Q4 the apology-list line;
+- Q5 one short beat;
+- Q6 a few lines;
+- Q7 keep both rhymes.
+
+Section 6 runs chapter by chapter with diffs; his chapters (Ch1–5) are shown before they're committed. See [R65](../../../Decisions.md#the-authors-rulings-for-this-revision).
 
 ## The round
 
