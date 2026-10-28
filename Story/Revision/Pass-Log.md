@@ -3320,3 +3320,14 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - **Ch4:** "Elizabeth nearly cried again." cut. The tucked blanket carries it.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing; box p2-6-8-5 follows the new line.
+
+
+## P104, 2026-10-27: Read 7 (whole-book cold read of the revised text)
+
+**READ:** [Read 7](Reader-Reports/2026-10-27_Read-07_Whole-Book.md), the second-round opening read. Verdict: "I'd recommend it without hesitation." It flagged 12 A issues out of 51, all small, and all the new passages landed.
+
+**DO:** the Ch2 oven contradiction; the last "whose door" recap (Ch9) and the Ch6 mirror-scene recap fragments; three attribution stalls (Ch14, Ch16, Ch17); Elizabeth's skipped return home (Ch17); the Ch18 coffee contradiction; and four book-wide copyedits (semicolon, "toward", em dashes, italics). Cards and inscriptions keep their spaced dashes. Harada follows the text.
+
+**ASKED:** Ch5's "He lies, you know" mind-reading.
+
+**CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
