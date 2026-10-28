@@ -3331,3 +3331,28 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **ASKED:** Ch5's "He lies, you know" mind-reading.
 
 **CHECK:** `Story/Pathwell.txt` reassembled. Harada: 22 errors, all pre-existing.
+
+
+## P105, 2026-10-28: the Council
+
+**AUTHORITY:** [R64](Decisions.md#the-authors-rulings-for-this-revision).
+
+**DO:** created [Story/Revision/Council](Council/README.md):
+
+- **44 member cards** (`members/`) in six families: experience 15, craft 9, market 6, audit 4, specialist 5, adversarial 5. Each card has:
+  - a reading life built from reading history;
+  - a distinct job and output;
+  - a reading condition;
+  - a default model (rotating Haiku, Sonnet and Opus);
+  - an honest "known lean" for weighting its findings;
+  - a paste-ready brief. The brief carries the Reader Panel's ground rules, the honesty calibration that made Read 8 useful, and a short form of bt 7274's do-not-overliteralize rule. It contains none of the book's goals.
+- **[ROSTER.md](Council/ROSTER.md)** and `roster.json`, generated from `tools/roster_source.py` by `tools/build.py`.
+- **`tools/draw.py`**, which seats members by hand, at random or mixed. It spreads seats across families, skips recent members via the ledger, and writes filled briefs for a frozen text.
+- **[LEDGER.md](Council/LEDGER.md)**, seeded with Reads 1–8 and their nearest council lenses.
+
+**CAVEATS (in the README):**
+
+- The cards were written by the revising session. The Reader Panel's blind brief-drafting and reviewer check hasn't been run on them yet.
+- Every member is Claude, so findings that several members reach should still be confirmed with a human reader.
+
+**CHECK:** `draw.py` tested: a random draw of 6 seated all six families, and a mixed draw wrote briefs with no unfilled placeholders. No chapter text changed.
