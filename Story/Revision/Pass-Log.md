@@ -3446,3 +3446,31 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - Harada matches the pre-edit error list exactly (22). Three quote breaks were caught and reverted: Ch13 "Asking."/"Disorienting." is a Ch18 callback; Ch14 "I am trying to make this right."; Ch16 "I don't know if I forgive you."
 - One Harada quote was updated: "Not store. Not loan."
 - The story checker shows no new hard findings.
+
+## P108, 2026-10-28: voice pass, first round (R65)
+
+**AUTHORITY:** bt 7274: "go for the voice pass stuff". The guide is the [character bible's humour sources](../Story_Files/character_bible.md#where-each-characters-humour-comes-from): Shade is exact and literal, not a joker; Stansbury is precision and control, with a teacher's irritation. The Registry's "formal phrasing used as a punchline" watch pattern applies too.
+
+**DO:**
+
+- **Shade** loses his shared-deadpan toppers in favour of exact, sincere lines:
+  - Ch9: "Would you prefer applause?" becomes "You got him out, and he's alive. … What else is there?"
+  - Ch11: the grocery-list quips become "Whose?" / "I didn't ask." / "Somebody wrote them." (the records ethic in his mouth).
+  - Ch12: "Efficient system." / "Diversifying." become "He left it." / "Then he carries whatever's next."
+  - Ch13: "Evidence." / "Corruption." become "I want to know how he did it. … Six rounds."
+  - Ch14: "Apparently." becomes "I've known them one morning."
+- **Stansbury** gets inventory and correction in place of one-word toppers:
+  - Ch14: "Occupationally." becomes "Inventoried. Labeled. Counted back in at the end of the day.", and "It improves compliance." becomes "He held still. I'm keeping the method."
+  - Ch10: "Try to survive." becomes "Concentrate."
+  - Ch16: "Immensely." becomes "I've been waiting about two hundred years for this meeting."
+- **The healer** (Ch16): "A low standard." becomes "Attached and working are different questions."
+- **Ch14 chant:** Shade's two lines and Pathwell's first "I know." are merged into one line.
+
+**LEFT ALONE, deliberately:**
+
+- The archivist, the shopkeeper and the curator. Their signature lines are on several seats' protect lists ("Specificity is expensive.", "A month is not a character trait.", "Paid is not completed.").
+- Elizabeth's "Important distinction.", which is a Ch12/Ch18 callback.
+- Shade's "This child is cheating.", "Pockets." and "Disorienting.", which are callbacks.
+- Ch1–5. They are bt 7274's chapters and would need his approval.
+
+**CHECK:** Harada matches the pre-edit list. No callbacks were broken: each changed line was checked against Harada quotes and against later chapters.
