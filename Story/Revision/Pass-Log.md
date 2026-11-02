@@ -3495,3 +3495,15 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - 7/8 want Elizabeth beyond grief. The caregiver seat adds the idea of turning the care-versus-tyranny lens on her.
 
 **No chapter text changed.** Five decisions are put to bt 7274 in the synthesis.
+
+## P110, 2026-11-02: Round 2 working guides
+
+**AUTHORITY:** bt 7274: "get the most recent review to give more detailed notes on how to get to that 9. Not jsut to have more nerve, but examples, and understanding of how to get there."
+
+**DO:**
+
+- The eight round 2 readers were resumed with their context intact. Each turned its top three gap items into a working guide.
+- Four of them hit a usage limit on 2026-10-28 and finished on 2026-11-02.
+- The guides are filed in [guides/](Reader-Reports/Council/2026-10-28-round2/guides/), with an [index](Reader-Reports/Council/2026-10-28-round2/guides/00-Guide-Index.md) covering where they agree, where they disagree, a suggested way in, and the checks gathered from all eight.
+
+**No chapter text changed.** The ILLUSTRATIONS are demonstrations only.
