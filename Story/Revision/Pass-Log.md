@@ -3527,3 +3527,15 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **CHECKS:** Harada at baseline (22 pre-existing errors). Story checker: no errors; advisory only (gaze-phrase repeats such as "looked at the" across Ch12–18, filter verbs in Ch6, Ch8, Ch12), left for the next line pass.
 
 **Commits:** ab7c427, a828803, the voice tweaks, f5a6851, and the records commit.
+
+## P112, 2026-11-02: bt 7274's audit of R66 (R67)
+
+**AUTHORITY:** bt 7274 noticed he'd been approving notes to appease every reader rather than weighing them. He marked all 30 R66 changes on the [R66 Audit page](https://claude.ai/artifact/6uWmP1Zdyct7X27MzzZWi4): 25 Mine, 2 Fine, 3 Roll back. Recorded as [R67](Decisions.md).
+
+**DO:**
+
+- Ch1 restored to its pre-R66 text (Nana memory and the three small fixes). Harada quote p6-1-3 restored.
+- Ch15: the mouth-open-and-close beat removed; the original Stansbury and Shade lines restored. Elizabeth's two-column choice, "I'm not going because you said so" and the dagger stay.
+- Ledger L18 updated.
+
+**CHECKS:** Harada at baseline.
