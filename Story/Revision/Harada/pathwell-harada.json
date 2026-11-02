@@ -1229,7 +1229,7 @@
        {
         "title": "He finally lists them",
         "ch": 16,
-        "quote": "The museum. Your shoulder. The working. Shade. The archive.",
+        "quote": "The museum. Your shoulder. The working.\" He stopped.",
         "status": "paid",
         "kids": [],
         "id": "p2-5-5"
@@ -1622,7 +1622,7 @@
        },
        {
         "title": "He puts the book back and tells the truth",
-        "ch": 18,
+        "ch": 16,
         "quote": "I could have called someone. I didn't.",
         "status": "paid",
         "note": "Step 8: restraint, then confession, from shame and not to be forgiven (R47).",
@@ -1670,7 +1670,7 @@
          },
          {
           "title": "He says why",
-          "ch": 18,
+          "ch": 16,
           "quote": "I thought that if the creature took him, it would be finished.",
           "status": "paid",
           "kids": [],
@@ -1678,7 +1678,7 @@
          },
          {
           "title": "He says what he didn't do",
-          "ch": 18,
+          "ch": 16,
           "quote": "I could have called someone. I didn't.",
           "status": "paid",
           "kids": [],
@@ -2223,7 +2223,7 @@
        },
        {
         "title": "Pathwell finally says what he did",
-        "ch": 18,
+        "ch": 16,
         "quote": "He was still trying to get free,",
         "status": "paid",
         "kids": [],
