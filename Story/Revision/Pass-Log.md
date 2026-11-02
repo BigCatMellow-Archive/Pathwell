@@ -3539,3 +3539,12 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - Ledger L18 updated.
 
 **CHECKS:** Harada at baseline.
+
+## P113, 2026-11-02: The Garden, Chapters 1–3 regrown in Sunday Morning mode
+
+**AUTHORITY:** bt 7274 asked for a version "more inline with the Sunday Stories Drafts", grown with Martin's gardener method: known beats, organic growth between them, pruning for the good of the garden. He chose Chapters 1–3 before reading, from fresh soil (the current chapters as reference only).
+
+**DO:** [Experiments/Garden](Experiments/Garden/README.md). It has the plan (soil, water, pruning test), three chapters (about 7,100 words, against about 5,000 now) and a [growth log](Experiments/Garden/Growth-Log.md) of what grew, what was pruned, and the new lines for his judgment. `Story/Chapters/` is untouched.
+
+**CHECKS:** The Sunday Morning freshness checker passed after the repeats were fixed. Shared six-word phrases with the current chapters are at about 2%, almost all soil lines. One meaning-altering growth (C) is flagged: the shopkeeper asking whether her books were part of the payment. Harada isn't affected, because no manuscript chapter changed.
+
