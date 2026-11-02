@@ -3507,3 +3507,23 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 - The guides are filed in [guides/](Reader-Reports/Council/2026-10-28-round2/guides/), with an [index](Reader-Reports/Council/2026-10-28-round2/guides/00-Guide-Index.md) covering where they agree, where they disagree, a suggested way in, and the checks gathered from all eight.
 
 **No chapter text changed.** The ILLUSTRATIONS are demonstrations only.
+
+## P111, 2026-11-02: Applying the round 2 guides (R66)
+
+**AUTHORITY:** bt 7274: "lets refocus on where we are in the review and rewrites and take the notes given to us and apply them to the story, keeping the tone goals in place." Picks recorded as [R66](Decisions.md).
+
+**DO:**
+
+- **Paper work first.** Causal spine, Elizabeth's draft facts and voice sheets with house rules, drafted in [Rewrite-R66/Working-Decisions.md](Rewrite-R66/Working-Decisions.md) for bt 7274 to correct.
+- **The prune named, in layers.** Ch8 (ditch, one fact; his hand turns toward the road), Ch9 (Shade's fragment: a kitchen table, hands around a cup), Ch10 (van: Ada Kell, Tess, "a pull toward home"; the leftover pull is Shade's draw).
+- **The "no" costs something.** Ch13: Wren's grey hand at the stream. Ch14: Pathwell's case for the frame has her in it; Mama Baga owns the risk out loud; the chorus of bare refusals cut.
+- **Shade's taking seen.** Ch15: Elizabeth sees Pathwell's mouth open and close. Ch16: the apology list breaks at "Shade" and he confesses to her. Ch18: the confession removed; "Say his name" kept. R47 amended, R54 kept.
+- **The climax is hers.** Ch15: "I'm not going because you said so… I'm going because he's eleven."
+- **Elizabeth's own life.** Ch9 diary page (the Chicago job, her mother, Thumper's ink); Ch12 the applesauce pill; Ch17 the Chicago tab; Ch18 the recognition ("You could stay here… called it kindness").
+- **Voice pass (Scrubs-shaped)** across Ch6–18: quiet windows after loss, toppers cut, shared deadpan returned to its owners, gaze trims, Mama Baga's Ch14 arrival.
+- **Ch1–5**, shown as diffs and approved: Ch1 Nana memory rebuilt; Ch2 "Why were you at my party?" ("Your boxes were loud"); Ch4 the R65 dirt-in-teeth continuity bug fixed; Ch5 halved, with the portal in the document register (a bundle of postcards).
+- Harada quotes updated where text moved; Registry gains Ada Kell, Tess and Wren; ledger P5 and L18 updated.
+
+**CHECKS:** Harada at baseline (22 pre-existing errors). Story checker: no errors; advisory only (gaze-phrase repeats such as "looked at the" across Ch12–18, filter verbs in Ch6, Ch8, Ch12), left for the next line pass.
+
+**Commits:** ab7c427, a828803, the voice tweaks, f5a6851, and the records commit.

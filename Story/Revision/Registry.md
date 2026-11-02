@@ -33,6 +33,8 @@ Every named person in the manuscript. The Story column is the chapter where the 
 | Ch08 | Shade | made from Pathwell's failed prune | cast |
 | Ch09 | Celia | in Shade's inherited memories ("hated pears") | minor |
 | Ch10 | Ellison | estate whose unsent letters Stansbury keeps | minor |
+| Ch10 | Ada Kell | the prune's client; kitchen table, cup of tea (R66) | minor |
+| Ch10 | Tess | Ada Kell's daughter; the pull toward home (R66) | minor |
 | Ch10 | Leo | Stansbury's first name; only Pathwell uses it (the author's, P33) | cast |
 | Ch11 | Margaret Bell | the museum's first curator | minor |
 | Ch11 | Daniel Vale | Civil War letter writer, museum collection | minor |
@@ -40,6 +42,7 @@ Every named person in the manuscript. The Story column is the chapter where the 
 | Ch11 | Sam | household notebook ("SAM HOME TODAY") | minor |
 | Ch11 | Elsie | addressee of the quarantine letter | minor |
 | Ch13 | Milo | Camp child ("the turnip boy", "the one-sock boy") until named | cast |
+| Ch13 | Wren | Camp girl with the bucket; grey hand at the stream (R66) | minor |
 | Ch18 | Ruth Merritt | first name in the Merritt family cookbook | minor |
 | Ch18 | Joanne Merritt Pike | Merritt cookbook | minor |
 | Ch18 | Ellen Pike | Merritt cookbook | minor |
@@ -50,7 +53,7 @@ Every named person in the manuscript. The Story column is the chapter where the 
 
 The template's [name rules](../Sunday-Morning/Registry.md#name-rules) apply. For this book:
 
-- **Crowded letters:** E (Elizabeth, Elsie, Ellen, Ellison), M (Mama Baga, Milo, Margaret, Mara, Merritt), S (Stansbury, Shade, Sam). Pick any new name from open letters: A, B, F, G, I, K, Q, T, U, V (Vale is taken), W, X, Y, Z.
+- **Crowded letters:** E (Elizabeth, Elsie, Ellen, Ellison), M (Mama Baga, Milo, Margaret, Mara, Merritt), S (Stansbury, Shade, Sam). Pick any new name from open letters: B, F, G, I, Q, U, V (Vale is taken), X, Y, Z. (A, K, T and W went to Ada Kell, Tess and Wren in R66.)
 - **Place names in use:** Camp Cunnan, the Space Between, the museum (unnamed town), Prague (in Pathwell's past). New places stay unnamed unless a scene needs the name.
 - *Rename log:* none yet.
 - *Expected checker notes:* the Vale family (Daniel, Henry) and the Merritt/Pike family share surnames on purpose. `Ell-` (Ellen, Ellison) and `Mar-` (Margaret, Mara) are minor names in different chapters; leave them unless a pass puts them on the same page.
