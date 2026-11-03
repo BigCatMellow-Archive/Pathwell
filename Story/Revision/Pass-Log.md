@@ -3556,3 +3556,11 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 
 **CHECKS:** Freshness checker run; accidental repeats fixed. Overlap with the current chapters is 2–3%, almost all soil lines. Two meaning-altering growths flagged for him: Elizabeth sees the open hand in the bar mirror (Ch6), and Milo is named in Ch4. Harada isn't affected.
 
+## P115, 2026-11-02: The Garden, to the end
+
+**AUTHORITY:** bt 7274: "lets just finish the story, being mindful that you are a gardener and what that means."
+
+**DO:** Garden Chapters 7–18, grown three at a time and committed after each batch. Growth from Ch1–6 was allowed to change what followed: Elizabeth as the witness to the mirror, the owing thread, Milo, the dry marker. The garden found Shade's object for itself (his notebook and the queen of spades). The confession is held to Ch18 (NN10, R65), which departs from the current Ch16. The [growth log](Experiments/Garden/Growth-Log.md) records every growth, prune and flagged line. `Story/Chapters/` is untouched.
+
+**CHECKS:** Overlap with the current chapters across all 18 is 1.7% of six-word phrases, mostly soil lines (several chapters were rewritten to get there). The freshness checker was run and the repeated-phrase tic cut back. Continuity was walked for days, pockets, the dagger, the debts and the objects. Harada isn't affected.
+

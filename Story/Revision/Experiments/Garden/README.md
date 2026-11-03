@@ -2,7 +2,7 @@
 
 ## Status
 
-**Experiment, not the manuscript.** bt 7274 asked (2026-11-02) for a version of the first act closer in tone to the 10 Kings Sunday Morning drafts, written the way George R.R. Martin describes a *gardener* writing: the beats are known, the route between them is allowed to grow. His terms: "fresh soil" (the current chapters are reference only, no prose transplanted) and Chapters 1–3 before he reads. After reading them ("I love it, let's continue") he asked for more; Chapters 4–6 followed the same day. The files in `Story/Chapters/` are unchanged and remain the current text. Nothing here becomes canon unless he chooses it.
+**Experiment, not the manuscript.** bt 7274 asked (2026-11-02) for a version of the first act closer in tone to the 10 Kings Sunday Morning drafts, written the way George R.R. Martin describes a *gardener* writing: the beats are known, the route between them is allowed to grow. His terms: "fresh soil" (the current chapters are reference only, no prose transplanted) and Chapters 1–3 before he reads. After reading them ("I love it, let's continue") he asked for more; Chapters 4–6 followed the same day. Then: "lets just finish the story, being mindful that you are a gardener and what that means". Chapters 7–18 were grown that night, letting what had already grown change what came next. The files in `Story/Chapters/` are unchanged and remain the current text. Nothing here becomes canon unless he chooses it.
 
 His metaphor, as this experiment reads it:
 

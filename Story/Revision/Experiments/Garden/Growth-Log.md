@@ -209,3 +209,48 @@ bt 7274: "lets just finish the story, being mindful that you are a gardener and 
 ## Soil lines kept
 
 "Then no." · "Stop." · "Don't make him the reason." · "Not because you said so" / "Because he's eleven." (his R66/R67 keep) · "That was the choice. / Everything else burned afterward." · "Help!" (Shade, generally) · Pathwell "close enough to hear", his face turned toward Shade (R47: his choice not shown) · the blob leans toward Pathwell, then leaves · "Don't think" (Garden Ch1) · "Then it's yours." · Stansbury's burned right hand
+
+---
+
+# Chapters 16–18 (sixth growth: aftermath and ending)
+
+## What grew
+
+| Growth | Where | Where it came from | What it feeds |
+| --- | --- | --- | --- |
+| **The young woman healed by the dumplings page brings Elizabeth a bowl of chicken and dumplings.** It's more than one person can eat, and Elizabeth thinks "More if they're sick." She eats it all. | Ch16 | The current text's bowl beat, regrown, with the cookbook line | Ch4 comes back round without anyone saying so. |
+| **"QUEEN OF SPADES. RECOVERED."** on the archivist's loss sheet, under "SHADE. DIED AT CAMP." The green jacket's line becomes "(HAMID'S). WENT WITH HIM." | Ch16 | Ch13 and Ch15 | Replaces "LIKED POCKETS". |
+| **The confession is held to Ch18.** In Ch16 he lists the first wrongs (the party, the diary, the cookbook, "drive", the museum, "all right" twice) and says only "I lost him." / "That's not all of it." / "Not today… I will." | Ch16 → Ch18 | Non-negotiable 10 and R65 (2): the confession comes late, privately, in Ch18 | **This departs from the current Ch16**, where he already confesses ("You saw."). Following the NN doc and R65 here was a judgment call, so it's flagged for him. |
+| **Shade's last notebook pages:** "Carried: 11 buckets…", "Breakfast… E. made them. Paid.", "Coffee: worse than his. Mine.", "Milo asked was I a person. Said yes." And the museum page: "Put mine in here instead of on the wall. Didn't want to get anybody in trouble. SHADE. I WAS HERE." She reads only those two pages, after asking herself what he'd have said. | Ch16 | Ch9's notebook, Ch11's wall, and Mama Baga: "There's never anybody to ask, in the end. Then you ask what they'd have said." | Shade's own words carry his funeral. Flagged: these are emotional lines, his call. |
+| **Mama Baga's "Person is the word I have for that"** list now includes "He carried things nobody asked him to carry." | Ch16 | Camp's carrying | The soil line is kept. |
+| **The cabinet is too deep, not the rack too low.** "Two inches. So you can see everything in it at once." | Ch17 | The archive's logic | Regrown restitution comedy. |
+| **"4 MILES TO THE FORD."** Pathwell knows it's six. The archivist: "Write that underneath. In your own hand. With your name. Don't change his four." He writes "SIX, I THINK. P." and crosses out "I THINK", then writes it back in. | Ch17 | Replaces the Susquehanna spelling (current text) | He adds his own record instead of correcting someone else's. |
+| **The dry marker is found under the couch.** She draws a line with it that isn't there, and puts it in the drawer with the spoon. **She finds a drawer for the spoon**, the last item on the diary's unfinished list, though the list itself burned. | Ch17 | Ch1, Ch5, Ch15 | Two threads close without comment. |
+| **The recipe card ends "WATCH THE PEPPER, LIZZY."** In her own handwriting, which leans right like Nana's; she'd never noticed. | Ch17 | R65 (5): she ends holding one thing of Nana's | Flagged. |
+| **She carries the extra dumplings down to the landlord.** "The radiator's been very quiet lately." | Ch17 | Her carrying habit, and the Ch3 radiator joke | A plate to somebody again, an ordinary one this time. |
+| **The nine o'clock meeting was about whether to get cake for new hires** "as a general policy, since the last party had gone so well." | Ch17 | L1, the cake device | Closes the meeting with a laugh. |
+| **The curator is the same woman whose tent he slept in, in 1971.** He offers another nurse's notebook; "No. It isn't hers." It's accepted "not instead of anything." The quilt square torn through is **Ada Lowe** (no relation to Ada Kell), and it will be mended "so you'd have to know it was there". | Ch17 | Ch11 | The restitution rule ("not as replacement") with the Garden's own exhibits. |
+| **The Eraser,** a chalk-pink wagon. Pathwell jumps on its roof instead of knocking on the axle. | Ch17 | Replaces The Lemon | New. |
+| **Shade's notebook goes into the new archive:** "SHADE. / HIS OWN. / ANYONE MAY ASK. / NOT PATHWELL'S." "He asked for it. I'm only writing down what he asked for." Somebody has already asked to see it. | Ch17 | Ch12's "NOT PATHWELL" card, and Shade's request in Ch14 | **His object, kept the way he asked.** |
+| **"It's not yours. It's his. You play yours."** Milo refuses to let Pathwell play Shade's unfinished hand. | Ch17 | "He still owes me a hand" (R11), and the owing thread | Nobody can pay someone else's debt. Flagged. |
+| **Pathwell asks before taking the grandmother's bag.** "He's getting better at it." | Ch17 | Replaces the Cunning Folk speech, which the Garden never planted | Asking, shown. |
+| **The message left at the dumpling place.** The crossword woman takes messages for him: "I always do." / "He'll want dumplings first." | Ch18 | Ch2 | Replaces the phone call. |
+| **The door is the tree in the little park** from Ch2 (one bench, one tree). Two short knocks and a long. | Ch18 | Ch2 | Replaces the laundromat. |
+| **She pays for her coffee in advance with a grocery-store cake that says THANK YOU.** "Paid." Boots watches the box all evening. "You've never once brought him anything." / "Bought from him. Not brought." | Ch18 | The Ch3 cake, which closes the book's cake thread | Flagged. |
+| **MOM'S BOOK. DO NOT LEND. (THIS MEANS YOU, DEBBIE.)** Three sisters who copied everything and couldn't agree who'd keep it. Pathwell asks "May I?" and the shopkeeper hesitates as if he'd heard a new language. The book is put back. | Ch18 | Non-negotiable 10, regrown (it was the Merritt book) | Same beat, new family. |
+| **The confession**, private, at the counter, about the empty cup. "Don't let me borrow yours." She lays the queen of spades on the counter; he says "Shade", the first time she has heard him say the name; she puts the card back in her pocket "where it lived". | Ch18 | NN10, R47 Version C, and the queen from Ch15 | The object makes him say it. No pardon. |
+| **The fifth route is a lighthouse whose keeper charges a song.** "He sings flat." | Ch18 | Replaces the geese | Flagged. |
+| **"Her other hand was in her pocket, round both of the cards."** The recipe card and the queen of spades. | Ch18 | R65 (2) and (5) | The last image holds Nana and Shade, one card each. |
+
+## Pruned this round
+
+- **Ch16–18 first drafts** were at 3.6%, 6.1% and 4.5% overlap with the current chapters; the flagged paragraphs were rewritten. The whole garden is now at **1.7%**, nearly all of it soil lines.
+- **A tic:** "looked at X for a long time" turned up about twenty times across the garden. About half of them were cut or varied.
+- **Diary-pocket continuity:** it rides on the right, inside the blazer. Shade's notebook is on the left, buttoned.
+- **The landlord's callback** was "Kitchen", the current text's joke. It's now the Garden's radiator.
+
+## The whole garden, at a glance
+
+- **Length:** about 55,600 words, against about 47,400 now.
+- **Threads that grew on their own and run end to end:** the cake (Ch1 to Ch3, and Ch18); owing and paying ($2.65, breakfast, "Paid.", the tab, the THANK YOU cake); carrying (cups, the cart, plates, buckets, Milo); the dry marker and the spoon; Shade's notebook and the queen of spades.
+- **The meaning-altering growths, all his call:** her books and the payment (Ch3); Elizabeth sees the mirror (Ch6) and Shade saw the bar's hallway (Ch8); Milo named in Ch4; the confession held to Ch18; the fire started by the recoil, not a lantern (Ch14).
