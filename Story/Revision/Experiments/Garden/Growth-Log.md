@@ -103,3 +103,38 @@ All of these are new, and all of them are his call. The ones I'm least sure of c
 8. "Last fellow who let go ended up in Portugal. He was very nice about it." (Ch5)
 9. "I'm not your driver." / "You're everybody's driver, Stan." (Ch5)
 10. The pajamas with sheep on them (Ch4).
+
+---
+
+# Chapters 7–9 (third growth, 2026-11-02)
+
+bt 7274: "lets just finish the story, being mindful that you are a gardener and what that means." Read as: grow to the end, and let what has already grown change what comes next, instead of steering back to the current chapters.
+
+## What grew
+
+| Growth | Where | Where it came from | What it feeds |
+| --- | --- | --- | --- |
+| **Elizabeth is the witness.** After the parking-lot blob, she tells Stansbury what she saw in the bar mirror. Pathwell: "Thank you, Elizabeth," politely. | Ch7 | The Ch6 mirror growth | She has information the brothers don't, and they still talk around her. That makes the crash sharper. |
+| **"They were writing on the backs of things, Stan!"** He gave all his paper to Camp, so he has nothing to fight with. | Ch7 | The Ch4 delivery | His generosity has a cost, and it's funny in the moment. |
+| **"Drive."** is heard against her caregiving years: driving to appointments, waiting in the hall while the doctor talked to Nana. | Ch7 | The Ch3 memory | The crash is about more than tonight. Never stated. |
+| **The crash, regrown.** The car plows into the grass "like a boat into a reed bed"; afterward she's awake, not afraid or sorry. | Ch8 | Non-negotiable 4 | The line "It was the crash that woke her." stands bare, as the soil requires. |
+| **"I've wanted to do that to him for about two hundred years."** Stansbury, on the ditch. | Ch8 | Centuries-old brothers (canon) | Stansbury is on her side, briefly. Flagged. |
+| **She walks to Shade's car herself.** Nobody gets out of the sedan, so she goes to its window. She meets Shade first, and the brothers stand back. | Ch8 | Her impatience ("Well, this is stupid") | She meets him on her own terms. |
+| **"That's the hand."** She recognizes Shade's opening hand from the mirror. Shade says that in a gas-station mirror he once saw "a hallway. With a dead phone." | Ch8 | The Ch6 mirror | **New lore (C):** the mirror moment happened on both sides. The world bible says the mirror routes Shade's perspective back at Pathwell; this adds Shade seeing the bar hallway. |
+| **"I don't know. I've never made one."** Shade, on whether coffee is an offer. | Ch8 | Shade is a few weeks old | His newness, played straight. |
+| **Shade's notebook.** A gas-station spiral notebook ($1.29, "This pen. Free with notebook.") that he started three weeks ago. "Everything else is his. This is the only thing I have that isn't." Entries: rain, a dog that came to him because he asked, a pear he didn't like ("That one's mine, then"). | Ch9 | bt 7274's empty-pen idea, turned around: a full new pen and an almost-empty book | **Shade's object.** R65 (2) wants Shade, "his name or an object of his", in the closing pages. The garden found the object. |
+| **"Elizabeth owes me breakfast."** She can't pay, and says she'll owe him. "Nobody's ever owed me anything." He writes it down. | Ch9 | The owing thread meets Shade, who has no history with anyone | Her debt is the first entry in his notebook that's about someone else. A seed for Ch15 onward. Flagged. |
+| **She clears the table.** She carries their plates to the counter. "Well, aren't you a treat." | Ch9 | Her carrying habit | Small, and in character. |
+| **Pancakes.** She orders what she wants. | Ch9 | The ordering beat in Ch6 | She chooses for herself again. |
+| **"He looked at you. He doesn't look at me." / "He looked at me the way you look at a stain."** Shade's reason for telling her. | Ch9 | Replaces "he'll listen to you longer" | Flagged. |
+
+## Pruned this round
+
+- **Ch8, first draft:** about 6% of its six-word phrases matched the current Ch8 (the crash, the hubcap, the Shade dialogue). I wrote the whole chapter again from the crash on, with a different route: she walks to Shade's window. It's now at 1.3%.
+- **"Which, she found out later, it wasn't."** I'd hinted that Shade's car wasn't his. It opened a stolen-car question nothing needs, so it's now "a borrowed car".
+- **The diary page in the diner** (the Chicago job, in the current Ch9). Garden Ch5 already gave her a moment with her diary.
+- **Repeats:** "$2.65 minus a coffee" (Ch8 and Ch9), and "best thing she'd heard" (an echo of Ch2).
+
+## Soil lines kept
+
+"It was the crash that woke her." · "You broke my car" (now "That was my car") · "Shade." · "I remember things I didn't live" · the kitchen table and "somebody's hands around a cup" (R65) · "Then you were never the point." · "He knows what he did. Ask him." · "For him to stop deciding what I am before I get the chance to." · "Drive." · following "another man who sounded certain" (now "because he'd sounded sure")
