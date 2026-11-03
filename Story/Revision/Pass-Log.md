@@ -3564,3 +3564,11 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 
 **CHECKS:** Overlap with the current chapters across all 18 is 1.7% of six-word phrases, mostly soil lines (several chapters were rewritten to get there). The freshness checker was run and the repeated-phrase tic cut back. Continuity was walked for days, pockets, the dagger, the debts and the objects. Harada isn't affected.
 
+
+## P116, 2026-11-02: The Wild Garden, grown without looking
+
+**AUTHORITY:** bt 7274: "I would like to see you do a version without reading the old version, you know what the goals of the project are, go back like a gardener and lets just see how it grows on its own when you let it." Then: "if beats change, change em, really let the garden grow here."
+
+**DO:** [Experiments/Wild/](Experiments/Wild/README.md), Chapters 1–18, about 38k words. Grown from the goals and the beat list only. Neither `Story/Chapters/` nor `Experiments/Garden/` was opened. Beats changed freely; the [growth notes](Experiments/Wild/Growth-Notes.md) list each one. The largest changes: the rejoining is not forced, Shade lives and loses only what was borrowed, Kevin sets the terms of restitution, and the confession is that Pathwell picked her because she carries things. `Story/Chapters/` is untouched.
+
+**CHECKS:** Overlap was measured by script only. Six-word phrases shared with the current chapters: 0.4%. Shared with the first Garden: 2.1%, after the lines that had come back from memory were regrown. The freshness checker was run; the uncontracted forms it flags in Ch17–18 are Shade's letters, which are deliberate. Continuity was walked for the days of the week, the coat, the sling, Kevin's age and the dog. Harada isn't affected.
