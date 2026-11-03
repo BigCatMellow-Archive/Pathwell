@@ -71,3 +71,17 @@ Six-word phrases shared with the old texts, measured by script across all 18 cha
 
 - **With the current chapters:** 0.4%.
 - **With the first Garden:** 2.1%. Several lines had come back from memory of the Garden: the Ch7 fire, the "useful word" paragraph, and a run of Ch10 lines. Those were found by script and regrown. What's left is ordinary phrasing ("for a long moment").
+
+## First tending (2026-11-03)
+
+bt 7274: "go be a gardner". Once it was written, I went back over the Wild chapters only.
+
+- **Seeds I thought were dropped mostly weren't.** The shop account was settled in Ch3. The M handkerchief pays off in Ch4. Boots and Ron are one-scene people. The asking spine was there from the start: "Did they ask you for it?" (Ch3), "Nobody asked" (Ch4), "He likes being asked" (Ch5).
+- **The Ch3 question now pays off (Ch18).** Pathwell asks Mama what Camp wants before he goes to the shop: dominoes, envelopes, a coffee pot. The shopkeeper charges nothing for things people asked for. "He could have told you." / "I never asked."
+- **The gold star pays off (Ch16).** Kevin sticks I WAS GOOD AT STORY HOUR on Stansbury's cardigan. The daggers are ten feet away, and he leaves it on. This replaces the line "He didn't say anything. He didn't have to."
+- **Ch16 had Stansbury's reason wrong.** He takes from the children's paintings, not from reading, and the passage now matches Ch5.
+- **Wren's death is planted in Ch10.** "In her sister's churchyard. Three winters ago. I heard in the spring. I didn't go." Dot's report in Ch16 now agrees.
+- **Pushback in Ch18.** The confession now makes her angry. She sends him to wait on the landing, where Mrs. Okafor gives him tea and apologizes for the stairs. Then "I'd have done it anyway."
+- **A continuity fix in Ch18.** Pathwell walked beside the handcart; he never rode in it.
+- **Tics cut back.** "For a long moment/time" went from 24 to 10, "Not too close" from 5 to 2, and "very still" from 11 to 7.
+- **Left alone:** Ch3's length, the narrator's similes ("the way you'd…", "as though"), and the rate of short paragraphs, which is mostly one-line dialogue. These are voice, so they're for bt 7274's call.

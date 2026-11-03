@@ -3572,3 +3572,11 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **DO:** [Experiments/Wild/](Experiments/Wild/README.md), Chapters 1–18, about 38k words. Grown from the goals and the beat list only. Neither `Story/Chapters/` nor `Experiments/Garden/` was opened. Beats changed freely; the [growth notes](Experiments/Wild/Growth-Notes.md) list each one. The largest changes: the rejoining is not forced, Shade lives and loses only what was borrowed, Kevin sets the terms of restitution, and the confession is that Pathwell picked her because she carries things. `Story/Chapters/` is untouched.
 
 **CHECKS:** Overlap was measured by script only. Six-word phrases shared with the current chapters: 0.4%. Shared with the first Garden: 2.1%, after the lines that had come back from memory were regrown. The freshness checker was run; the uncontracted forms it flags in Ch17–18 are Shade's letters, which are deliberate. Continuity was walked for the days of the week, the coat, the sling, Kevin's age and the dog. Harada isn't affected.
+
+## P117, 2026-11-03: The Wild Garden, first tending
+
+**AUTHORITY:** bt 7274: "go be a gardner".
+
+**DO:** I tended `Experiments/Wild/` only. The Ch3 shop question now pays off in Ch18. Kevin's gold star goes on Stansbury in Ch16, and that chapter's account of why Stansbury stopped reading was corrected. Wren's death is planted in Ch10. In Ch18 the confession now makes Elizabeth angry and she sends Pathwell to the landing; a handcart contradiction was also fixed there. Repeated tics were trimmed. The [growth notes](Experiments/Wild/Growth-Notes.md#first-tending-2026-11-03) list each change. `Story/Chapters/` is untouched.
+
+**CHECKS:** Overlap is unchanged: 0.4% with the current chapters and 2.1% with the first Garden. Harada isn't affected.
