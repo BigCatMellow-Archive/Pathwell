@@ -3580,3 +3580,11 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **DO:** I tended `Experiments/Wild/` only. The Ch3 shop question now pays off in Ch18. Kevin's gold star goes on Stansbury in Ch16, and that chapter's account of why Stansbury stopped reading was corrected. Wren's death is planted in Ch10. In Ch18 the confession now makes Elizabeth angry and she sends Pathwell to the landing; a handcart contradiction was also fixed there. Repeated tics were trimmed. The [growth notes](Experiments/Wild/Growth-Notes.md#first-tending-2026-11-03) list each change. `Story/Chapters/` is untouched.
 
 **CHECKS:** Overlap is unchanged: 0.4% with the current chapters and 2.1% with the first Garden. Harada isn't affected.
+
+## P118, 2026-11-03: The Wild Garden, told its own way
+
+**AUTHORITY:** bt 7274: "dont limit yourself to how books are normally done… Tell the story the way it needs to be told, not how stories are told."
+
+**DO:** These are form changes to `Experiments/Wild/` only. The book opens on Nana's recipe page and closes on Elizabeth's. Each chapter is titled for its object. Wren's letter now appears in full in Ch10. In Ch15, the section after the cut is told in Shade's present tense. Ch16 adds Pathwell's insurance list. The [growth notes](Experiments/Wild/Growth-Notes.md#second-tending-told-its-own-way-2026-11-03) give the reasons. `Story/Chapters/` is untouched.
+
+**CHECKS:** The docx builder now keeps line breaks inside documents. The chapter titles replace "Chapter N", which only matters if the Wild text is ever assembled with `assemble_manuscript.py`. Harada isn't affected.

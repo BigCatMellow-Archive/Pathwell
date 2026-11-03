@@ -85,3 +85,16 @@ bt 7274: "go be a gardner". Once it was written, I went back over the Wild chapt
 - **A continuity fix in Ch18.** Pathwell walked beside the handcart; he never rode in it.
 - **Tics cut back.** "For a long moment/time" went from 24 to 10, "Not too close" from 5 to 2, and "very still" from 11 to 7.
 - **Left alone:** Ch3's length, the narrator's similes ("the way you'd…", "as though"), and the rate of short paragraphs, which is mostly one-line dialogue. These are voice, so they're for bt 7274's call.
+
+## Second tending: told its own way (2026-11-03)
+
+bt 7274: "dont limit yourself to how books are normally done, this is yours to do how you want. Tell the story the way it needs to be told, not how stories are told."
+
+This book is about things people write down and leave a bit of themselves in. So the form now lets those documents speak for themselves, instead of the narrator summarizing them.
+
+- **The book opens and closes on a recipe page.** Nana's page comes before the first line of Ch1, so the reader holds it before it tears. Elizabeth's page, in her own hand, is the last thing in the book. Ch18 no longer spells out her three lines; "P. is the horse" lands on the final page.
+- **Each chapter is named for its object:** The Good Ones, A Work Shoe, Bad Coffee, Chicken Soup, A Gold Star, Hot Chocolate from a Machine, Keys with an Owl On, The Duck Pond, Suds, A Very Good Letter, A Bear in a Hat, Peel, Dominoes, Ask Before Using, A Bootlace, By Pathwell, A Wooden Spoon, Edges and Middles.
+- **Wren speaks (Ch10).** Pathwell now asks Elizabeth to read Wren's letter rather than paraphrasing it: "he never once took the boat out to fetch in a ship that hadn't called." The kettle "only wants asking twice." The pond took the last line under her name. Wren was the one person in the book with no voice, and the Ask scene now has her in it.
+- **After the cut, the narration becomes Shade's (Ch15).** For one section it's in the present tense, in plain sentences, and nobody is named until they tell him their name. The reader meets Camp as a stranger, the way he does: "He didn't know about the ears."
+- **Pathwell's insurance list (Ch16).** The last page of his 312 items ends with the one he isn't allowed to claim: "Drawing. Bear, in a hat… Not replaceable. Not to be claimed for." Mrs. Patel leaves it on.
+- **The docx builder** now keeps line breaks inside documents (recipes, cards, lists), which it used to run together. This also fixes the archive card in Ch12.
