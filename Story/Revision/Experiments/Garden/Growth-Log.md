@@ -172,3 +172,40 @@ bt 7274: "lets just finish the story, being mindful that you are a gardener and 
 
 - **Ch10, Ch11 and Ch12 leaned on the current text** (Ch10 at 5.6% before regrowing). Ch10 and Ch11 were written again whole, Ch12 in passages. Now Ch10 is at 1.6%, Ch11 at 0.8% and Ch12 at about 2%, mostly soil lines.
 - **Stansbury's "three hundred years"** became "That's weather", to keep the brothers' age consistent with Ch8's "two hundred years".
+
+---
+
+# Chapters 13–15 (fifth growth: the climax)
+
+## What grew
+
+| Growth | Where | Where it came from | What it feeds |
+| --- | --- | --- | --- |
+| **Shade's list of what he carried**: eleven buckets, two sacks of onions, a baby (briefly), a ladder. All written down. | Ch13 | Ch12's bucket, and the notebook | Shade belongs by carrying, the way Elizabeth did in Ch4. |
+| **The green jacket is Hamid's** ("from before he got fat"). Hamid is the man who pulls Shade by that same jacket in Ch15. | Ch13, Ch15 | The jacket needed an owner | The Camp member who tries to save Shade (non-negotiable 9) now has a name and a reason. |
+| **Shade keeps the notebook in the left inside pocket, over his heart, "the one his hand didn't pull toward."** | Ch13 | His hand pulls to the right | Sets up the handover in Ch14. |
+| **Elizabeth pays the breakfast debt.** One-handed eggs over easy at the cooking fire, Milo cracking the eggs; she carries the plate across the ring ("It's a plate. It doesn't count."). Shade crosses out "Elizabeth owes me breakfast" and writes "Paid." | Ch13 | The owing thread from Ch9 | **The sharpest quiet beat in the garden.** She carries a plate to someone again (Ch3), and the debt is settled hours before he dies. Flagged. |
+| **"That's terrible." / "I know."** Shade answers Elizabeth's line about his coffee exactly as Pathwell did in the Space Between, without knowing it. "Then it's yours." | Ch13 | Garden Ch3 | Kept as soil (R7) and paid off by the garden itself. |
+| **"Are you a person or not?" / "Yes. I think so."** Milo recruits Shade for Hearts. | Ch13 | Milo | Shade's question, asked by a child as a matter of logistics. |
+| **The queen of spades goes into one of Shade's pockets**, and is found in the dirt after he's gone. "He'd had so many of them." | Ch13, Ch15 | Pockets (character bible) | **Shade's second object.** A small one, from a game, not from Pathwell. |
+| **Posy**, the girl hurt at the stream (renamed from the current text). | Ch13–14 | Fresh soil | None beyond the scene. |
+| **Stansbury still holding the museum broom** when he comes through the wall. | Ch14 | Ch11 | Comedy at the entrance to the climax. |
+| **"That's not one of mine. I've never liked pockets." / "I know. That's why I like it."** | Ch14 | Shade separating himself from Pathwell | Flagged. |
+| **Shade gives Elizabeth his notebook before the working.** "If it works, I don't know if whoever's left over will be the one who wrote that. It isn't his. I don't want it to be his." | Ch14 | Shade's fear of being folded back in, and the notebook as the one thing that's his | **His record survives because he chose who would hold it.** R65 (2): his object can be in the closing pages. Flagged. |
+| **"You don't get to buy your way out of a room. I said that to you this morning, and I'll say it every morning."** Stansbury's R8 speech now opens with his Ch11 line. | Ch14 | Ch11 | Ties the climax to the museum. |
+| **"You paid, so you choose. It's the bus all over again."** Elizabeth, as he drives the third pin. | Ch14 | Ch10 | Her reading of him, applied as he does it. |
+| **The fire starts from the recoil itself**, a flat white ring of failed light that hits the archive's dry steps and wall. There's no lantern. | Ch14 | The world bible: "the malformed failure's recoil physically ignites the archive" | Closer to canon than the current text's lantern. |
+| **She lifts the shelf with her back, not her arms**, the way you lift when you move house. Then she takes Milo's weight on her good side: "fast is how people fall." | Ch15 | Her three weeks of boxes, Nana's thirteen stairs, and the healer's "Not a baby, if anyone hands you one, and they will" | Her carrying habit is how she rescues him. No magic, no dagger. |
+| **The diary page in the aisle shows "Owe Shade breakfast", not crossed out** ("it wasn't hers to cross out anymore"). It burns with the rest. | Ch15 | Ch12–13 | The record of the debt burns; the record that it was paid survives in his notebook. Nobody says so. |
+| **Stansbury is burned on a shelf by the archive's back door**, not by falling canvas. | Ch15 | Fresh staging | Same scar (soil). He stops going back when she asks him to check. |
+| **The last image:** Pathwell's right hand opens on the dirt "and didn't point anywhere at all." | Ch15 | The draw's gone, seen from Elizabeth's side (she can't feel it) | Replaces the narrator's "The draw did not return." |
+
+## Pruned this round
+
+- **Ch14 and Ch15, first drafts:** both followed the current chapters too closely (6.8% and 6.4%). The frame scene from the pins on, and all of Ch15, were written again with different staging: the recoil fire, the back-lift, Hamid, the back door. Now Ch13 is at 2.0%, Ch14 at 1.3% and Ch15 at 2.4%.
+- **The lantern.** It was the current text's way to start the fire, and it contradicted the world bible's "recoil" lock.
+- **"She'd given it away yesterday."** It was that morning.
+
+## Soil lines kept
+
+"Then no." · "Stop." · "Don't make him the reason." · "Not because you said so" / "Because he's eleven." (his R66/R67 keep) · "That was the choice. / Everything else burned afterward." · "Help!" (Shade, generally) · Pathwell "close enough to hear", his face turned toward Shade (R47: his choice not shown) · the blob leans toward Pathwell, then leaves · "Don't think" (Garden Ch1) · "Then it's yours." · Stansbury's burned right hand
