@@ -44,3 +44,62 @@ All of these are new, and all of them are his call. The ones I'm least sure of c
 8. The sugar-cookie memory, rewritten: on the counter, creaming by hand, "Don't tell your mother," "and Elizabeth never had." (Ch1). The ledger calls the old memory his benchmark scene, so this one matters most.
 9. "Spoons are very patient." (Ch2).
 10. The prune's words: "What I might have been, for what's needed now." (Ch3).
+
+---
+
+# Chapters 4–6 (second growth, 2026-11-02)
+
+## What grew
+
+| Growth | Where | Where it came from | What it feeds |
+| --- | --- | --- | --- |
+| **Elizabeth unloads the cart.** Nobody asks her; she picks up a bundle of letters, and Milo shows her where the archive is. Then she changes the healer's cold basin. | Ch4 | Her habit of carrying, and a place where everybody carries | She belongs at Camp by doing what Camp does, before anyone gives her anything (R41). |
+| **Mama Baga takes the cart from him** and holds his shaking arm up to the light. "Sit down before you fall down and I have to step over you." | Ch4 | The first person who takes something from Pathwell without asking | Shows him as someone's son before we're told. |
+| **"She never sent anybody home with half a pot."** Elizabeth's reason for giving the whole book. | Ch4 | MORE IF THEY'RE SICK | The reason is Nana, not the theme. Flagged. |
+| **The chicken-pox memory:** oven mitts taped on, Nana holding the spoon and waiting. | Ch4 | Replaces the flu memory | The spoon again. Flagged. |
+| **"It is not a loan."** Mama Baga, as she fastens the chain. | Ch4 | The owing thread from Ch2–3 | Elizabeth won't owe anyone. Here she has to take something. |
+| **The archivist reads the pages with no ink.** "She didn't stop." He writes something on the card that she can't see. | Ch4 | The dry marker from Ch1 and Ch3 | Pays the marker once, quietly. What's on the card stays open (the Ch12 card is RESERVE / ASK BEFORE USE). |
+| **The writer is "HER GRANDMOTHER".** He doesn't press her for Nana's name. | Ch4 | Q: Nana's name is still open | Keeps the name open, so nothing is decided. |
+| **Milo is named in Ch4** by the archivist ("Milo dropped two"). | Ch4 | It's how a busy adult would talk to him | **Changes the ledger:** Milo is currently named in Ch13 (R11). |
+| **"The books came with me."** Her correction of "She came with the books." | Ch4 | Her small corrections (the Lizzy pattern) | Agency in one line. |
+| **"You still have my two dollars and sixty-five cents."** Her first reason for going on, before the real one. | Ch4 | The coins Pathwell pocketed in Ch2 | Her joke protecting her real want ("I want to know why"). |
+| **She finds the folded page in her diary.** He'd dog-eared her list from the week after the funeral, which ends "Find a drawer for the spoon." | Ch5 | She reads what he read | The spoon (O5) and her grief carried by a list. She unfolds the corner. Flagged. |
+| **Ticket stubs** instead of postcards for the threshold: a woman who kept every ticket, "never once went anywhere she didn't want to see twice." | Ch5 | Ch2's lost dry-cleaning ticket | An unstated rhyme. |
+| **Arriving under the bleachers**, and the HAVE A GREAT WEEKEND banner telling her it's Friday afternoon. | Ch5 | The meeting at nine (L1) | The meeting passes in a line, and she mostly feels the sun. |
+| **Priya, the hall monitor,** replaces Ken. Elizabeth crouches and handles her the way she handled the neighbor's grandkids. "He's the one who takes the art down." | Ch5 | Elizabeth's competence | She's good at something in front of Pathwell. New minor character. |
+| **"Stan."** Pathwell calls him Stan, and Stansbury hates it. | Ch5–6 | Brothers | A small comic engine for Pathwell around his brother. |
+| **The drying-rack closet.** Stansbury's work is shown as a room full of wet paintings giving off heat, before he explains it in one short speech. | Ch5 | Show, then tell once | The world bible's rule: the kids keep their work. |
+| **The gum.** Stansbury shows what the dagger does by cutting the gum off Pathwell's shoe. "It cuts what clings." The warning about cracks stays (R65). | Ch5 | It needed a demonstration that plants Ch7 | Ch7 is a blob clinging to Pathwell. |
+| **Both of them sit in the back.** "I'm not your driver." / "You're everybody's driver, Stan." | Ch5 | Stansbury's role in the family | It's turned around in Ch6, when he gives Elizabeth the keys. |
+| **Stansbury hands her the dagger himself**, at the car, "the way people hand over their car keys to a teenager." | Ch5 | The character bible: he handed her the tool | Reluctant arming. |
+| **She orders the bar's terrible coffee.** "It's been on since this morning." / "Good." | Ch6 | The Space Between coffee (Ch3) | Her first order for herself is something familiar. Pathwell smiles at the dartboard. |
+| **"Two dollars and sixty-five cents."** Her answer to Stansbury's question ("He doesn't still have something of yours?"). It makes Stansbury laugh. | Ch6 | The owing thread | Stansbury's real laugh. |
+| **"You're the first person in a long time he hasn't had to talk into anything. I'd like to see how that goes."** | Ch6 | Stansbury's reason for keeping his opinions | A new line of his. Flagged. |
+| **Elizabeth sees the mirror.** Pathwell's real right hand is a fist, and in the mirror it's open, palm out, toward him. Then it's normal. She tells him. | Ch6 | The scene stays in her viewpoint (rule 10), and the draw's tell is the right hand opening (P8) | **Meaning-altering (C).** She sees the first sign of Shade in Ch6, not just Pathwell. It also changes W15: the scene is no longer his. |
+| **He pays her back.** He counts the $2.65 into her hand; she pays $1.25 for her coffee and leaves the rest. "It was a good coffee." | Ch6 | The owing thread, closed | He gives something back rather than paying for it. Stansbury watches him do it. |
+| **"Never once."** Her mom's red sky never worked, and she kept saying it. "Good for her." | Ch6 | L2 | Pathwell answers a sincere thing sincerely. |
+| **"You've never had a license."** | Ch6 | Stansbury's precision | Sets up the crash with her driving. |
+
+## Pruned this round
+
+- **Ch4–6 leaned on the current text again** (Mama Baga's "On what?", the onion crate, the archivist's "opposite of an archive", "Don't. / Look pleased with yourself", the bar's mounted fish, the keys exchange, the brothers' fish argument, and more). All regrown. Overlap with the current chapters is now Ch4 about 3%, Ch5 about 2% and Ch6 about 2%, almost all of it soil lines.
+- **"I'm thirty-one."** I'd invented her age, so it came out.
+- **Continuity:** the rubber bands (Pathwell snapped them all off in Ch1), the man with the notebook (not a woman), and her books going into the wagon with her.
+- **Repeats the checker found:** "She didn't decide to. Her hands did." (Ch1 and Ch4), "a lot of noise", "under his breath", "took her hand back". The left-and-right turning (Ch5 steps, Ch6 mirror) is kept on purpose, as a clue that repeats.
+
+## Soil lines kept
+
+"That was the choice. / Everything afterward was consequence." · MORE IF THEY'RE SICK. THEY WON'T EAT ENOUGH. · DO NOT TRUST THE SOUTH BANK AFTER THREE DAYS OF RAIN, NO MATTER WHAT HESS SAYS. · "It was already at the door… before you used the cookbook?" · "Try these. Take what you like." and the hair tuck (his R41 picks) · the collar, "as though he were twelve" · "Was it?" · "You pruned." · "How thin?" · Thumper's paw print · "If one cracks… stop using it." · "Mine." · "Red sky at night", "My mom used to say that." · "It was wet, and it was heavy." (his Ch1 rhythm)
+
+## For bt 7274: new lines this round, the least sure first
+
+1. Elizabeth seeing the open hand in the mirror (Ch6). This is the big one (C).
+2. Milo named in Ch4 (ledger change).
+3. "She never sent anybody home with half a pot in her life." (Ch4)
+4. The diary list: "Find a drawer for the spoon." (Ch5)
+5. "It's where they go to wait." The archivist on what an archive is (Ch4). It's a philosophical line, so it's yours to judge.
+6. "You're the first person in a long time he hasn't had to talk into anything." (Ch6)
+7. "It is not a loan." (Ch4)
+8. "Last fellow who let go ended up in Portugal. He was very nice about it." (Ch5)
+9. "I'm not your driver." / "You're everybody's driver, Stan." (Ch5)
+10. The pajamas with sheep on them (Ch4).

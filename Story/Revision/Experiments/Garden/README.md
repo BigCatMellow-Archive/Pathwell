@@ -2,7 +2,7 @@
 
 ## Status
 
-**Experiment, not the manuscript.** bt 7274 asked (2026-11-02) for a version of the first act closer in tone to the 10 Kings Sunday Morning drafts, written the way George R.R. Martin describes a *gardener* writing: the beats are known, the route between them is allowed to grow. His terms: "fresh soil" (the current chapters are reference only, no prose transplanted) and Chapters 1–3 before he reads. The files in `Story/Chapters/` are unchanged and remain the current text. Nothing here becomes canon unless he chooses it.
+**Experiment, not the manuscript.** bt 7274 asked (2026-11-02) for a version of the first act closer in tone to the 10 Kings Sunday Morning drafts, written the way George R.R. Martin describes a *gardener* writing: the beats are known, the route between them is allowed to grow. His terms: "fresh soil" (the current chapters are reference only, no prose transplanted) and Chapters 1–3 before he reads. After reading them ("I love it, let's continue") he asked for more; Chapters 4–6 followed the same day. The files in `Story/Chapters/` are unchanged and remain the current text. Nothing here becomes canon unless he chooses it.
 
 His metaphor, as this experiment reads it:
 
@@ -52,6 +52,14 @@ These are the beats and objects the rest of the book depends on (from [Non-Negot
 - The shopkeeper holds her books: outside property in an open transaction. Pathwell has bought Camp Cunnan's books, unasked (R8). He pays with a prune: the tree, the fire, no marks after. Non-negotiable 1.
 - "These were never his to spend." She gets her books back.
 - The handcart he never knew existed. She puts her books on his cart herself (Ch4 opens on this).
+
+**Chapters 4–6** (added for the second growth)
+- Camp at night: Mama Baga; the unasked delivery ("Nobody asked you for this." / "You needed it."). The turnip boy with the fallen sock (R11). The collar, "as though he were twelve" (R17).
+- The young woman hurt on the north grade. Elizabeth gives the whole cookbook; one page (chicken and dumplings, MORE IF THEY'RE SICK) is spent. "That was the choice. / Everything afterward was consequence." (R6, called back in Ch15)
+- Clothes and Mama Baga's gold chain (R41, L19). The archive, the reserve shelf (Ch12 card), and the blue road notebook with HESS (O8).
+- "It was already at the door before you used the cookbook?" (P3). Stansbury, the brother. Elizabeth chooses to go on, and not because he has her things.
+- The meeting at nine passes (L1). Thumper's paw print (L11). A threshold made from someone's charged record. Stansbury's school, with the children's work warm and its energy feeding only his tools (O6b). The foam weapons, and the dagger that cuts separation, with its crack warning (O4, R65). "You pruned." "Was it?" "How thin?"
+- The bar. She orders for herself. The missed dart (P7). The mirror and "Mine." (P3, P6). "Red sky at night" and her mom (L2). Stansbury gives her the keys. A wet, heavy thud.
 
 **Hard limits:** Elizabeth does no magic. Nobody explains the magic system. The prune leaves no mark.
 

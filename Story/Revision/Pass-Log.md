@@ -3548,3 +3548,11 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 
 **CHECKS:** The Sunday Morning freshness checker passed after the repeats were fixed. Shared six-word phrases with the current chapters are at about 2%, almost all soil lines. One meaning-altering growth (C) is flagged: the shopkeeper asking whether her books were part of the payment. Harada isn't affected, because no manuscript chapter changed.
 
+## P114, 2026-11-02: The Garden, Chapters 4–6
+
+**AUTHORITY:** bt 7274 on Garden Ch1–3: "Iove it, let's continue". Taken as the next three chapters under the same terms (fresh soil, beats fixed).
+
+**DO:** [Experiments/Garden](Experiments/Garden/README.md) Chapter_04–06 (about 8,200 words, against about 8,900 now). The README gets a soil list for Ch4–6, and the [growth log](Experiments/Garden/Growth-Log.md) gets a second section. The owing thread (Ch2–3) is closed: he counts her $2.65 back at the bar. `Story/Chapters/` is untouched.
+
+**CHECKS:** Freshness checker run; accidental repeats fixed. Overlap with the current chapters is 2–3%, almost all soil lines. Two meaning-altering growths flagged for him: Elizabeth sees the open hand in the bar mirror (Ch6), and Milo is named in Ch4. Harada isn't affected.
+
