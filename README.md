@@ -7,6 +7,7 @@ A literary urban fantasy novel by BigCatMellow.
 | You want | Go to |
 | --- | --- |
 | **The book** | [Story/Chapters](Story/Chapters/): `Chapter_01.txt` to `Chapter_18.txt`, in order |
+| **Wild Garden alternate edition** | [Story/Revision/Experiments/Wild](Story/Revision/Experiments/Wild/) — 18 separate experimental chapters and [carryover notes](Story/Revision/Experiments/Wild/Carryover-Review-2026-11-03.md); not the canonical manuscript |
 | Instructions for AI agents (and CLAUDE.md) | [AGENTS.md](AGENTS.md) |
 | Before editing any chapter | [Before you touch a chapter](Story/Revision/Before-You-Touch-A-Chapter.md) |
 | Where each chapter stands | [Revision-Status.md](Revision-Status.md) |

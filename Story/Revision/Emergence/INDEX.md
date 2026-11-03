@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Wild Garden carryover assessment (2026-11-03)
+
+The [separate Wild Garden edition](../Experiments/Wild/README.md) includes 18 experimental chapters and an [informed carryover review](../Experiments/Wild/Carryover-Review-2026-11-03.md) comparing its ethical consequences with the current canonical manuscript. This is an index link only; the review is owned by the Wild folder. **No approved chapter changes, author picks or L4 review.**
+
 ## Tone review and EXP-0019 (2026-10-26)
 
 The [**tone review**](TONE-REVIEW-2026-10-26.md) reads all the tone notes and checks canon against them, revised under the author's [Do-Not-Overliteralize rule](../Author-Notes/2026-10-26_Do-Not-Overliteralize.md). Two cuts applied on his "Go for it" (R60). Seven candidates and ten withdrawals are in [**EXP-0019**](experiments/EXP-0019-Tone-Review-Candidates-2026-10-26.md). [Pass P88](../Pass-Log.md#p88-2026-10-26-tone-review-two-cuts-and-exp-0019).

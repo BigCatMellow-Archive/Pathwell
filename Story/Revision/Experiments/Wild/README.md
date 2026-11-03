@@ -8,6 +8,14 @@ The rule for this version: neither the current chapters (`Story/Chapters/`) nor 
 
 Nothing here is canon. Every line is scaffolding for bt 7274 to write over.
 
+
+## Read this separate edition
+
+This folder contains **all 18 chapters** of the *Wild Garden* alternate edition (`Chapter_01.txt`–`Chapter_18.txt`). The canonical manuscript in [Story/Chapters](../../../Chapters/) is unchanged.
+
+- [Growth Notes](Growth-Notes.md) — what grew, what changed and why.
+- [Carryover Review — 2026-11-03](Carryover-Review-2026-11-03.md) — specific older-manuscript strengths to retain, tradeoffs, chapter-level suggestions and verification. **Editorial notes only, not adopted changes.**
+
 ## The goals (from memory)
 
 - **Sunday Morning:** "You do not need to brace yourself." An interesting place, people you like spending time with, a simple problem. Small stakes with something big behind them.
