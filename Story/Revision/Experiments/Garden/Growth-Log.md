@@ -138,3 +138,37 @@ bt 7274: "lets just finish the story, being mindful that you are a gardener and 
 ## Soil lines kept
 
 "It was the crash that woke her." · "You broke my car" (now "That was my car") · "Shade." · "I remember things I didn't live" · the kitchen table and "somebody's hands around a cup" (R65) · "Then you were never the point." · "He knows what he did. Ask him." · "For him to stop deciding what I am before I get the chance to." · "Drive." · following "another man who sounded certain" (now "because he'd sounded sure")
+
+---
+
+# Chapters 10–12 (fourth growth)
+
+## What grew
+
+| Growth | Where | Where it came from | What it feeds |
+| --- | --- | --- | --- |
+| **The shared memory that catches is the $2.65.** Pathwell tries the dumplings, the cart, Mama Baga and the coffee; it catches on counting the coins into her hand, which "felt more like paying something than anything he'd done in fifty years". She's thinking about the same coins while she walks. | Ch10 | The owing thread (Ch2–6) | The thread that finds her is the one time he gave something back. |
+| **Stansbury's garage archive.** Gray boxes, square labels, colored dots, not a speck of dust; the Vargas letters (71 of them, sold "in with the Christmas decorations"). Peas for Pathwell, corn for himself: "I have a brother." | Ch10 | Stansbury's precision | Replaces the paper towers. "The copy keeps the words." / "Not the thing." is kept. |
+| **"Checking the stove."** Pathwell realizes Stansbury has been checking on him all night, "and that the stove was him." | Ch10 | Stansbury's repeated "Good" | Brothers, without a speech. |
+| **The school activity bus.** EAGLES, eleven rows of tiny seats, a juice box rolling down the aisle. "Somebody is about to learn something." The Ask happens on it. | Ch10–11 | The lanyard of keys from Ch5 | Sunday Morning absurdity around the most serious conversation. Elizabeth sits in a seat built for a seven-year-old. |
+| **The yellow dog.** It walks her half a mile and stops at its own field line. | Ch10 | The walk needed company, not a mishap | Small warmth: someone who goes with her and doesn't take over. |
+| **Pathwell tells the Ada story straight through, unprompted, to the initials scratched on the seat in front of him** (B.K. + T.R., with T.R. half scratched out). Her questions come afterward. | Ch10 | The Q&A shape of the current Ch10 | A different shape for non-negotiable 6. "But you chose the rest of it." / "Yes." is kept. |
+| **Pathwell was the museum's night watchman in 1971,** found asleep in the Union tent by a school group. That's why he has a key. | Ch11 | Replaces the donor backstory | New backstory. Flagged. |
+| **New exhibits:** socks darned by five people (Stansbury corrects the card); the nurse's notebook of letters she wrote for soldiers ("Pvt. Lyle. To nobody. He wanted it written anyway."); the church quilt of stitched names. | Ch11 | Fresh soil | The discharge destroys the notebook and tears the quilt through a name. **A Garden Ch17 must use these, not the Vale letters.** |
+| **Shade reads the wall's names and writes one line in his notebook.** She doesn't ask. | Ch11 | Shade's notebook, and the world bible's "I was here" resonance | What he wrote stays unknown for now. |
+| **She catches Shade.** The draw drops him at the rail; she holds him up with her good arm, and his hand grips her arm. Pathwell sees an attack: "Let go of her." / "He's not holding me. I'm holding him." | Ch11 | Her carrying habit, in place of Shade stumbling into her | Pathwell's misreading flaw, aimed at the act of hers that most belongs to her. |
+| **Pathwell's letter is a mother's "don't come home"** (a fever in the house): love that puts a door between people. | Ch11 | The mechanics of the separation working | The kind of care he uses is the kind he practices. |
+| **"You don't get to buy your way out of a room."** Stansbury refuses to let Pathwell pay for the museum. | Ch11 | The owing thread meets the prune | Sets up the restitution in Ch16–17. Flagged. |
+| **"Can I touch it?" asked of Shade too.** He's startled; nobody has ever asked him. | Ch12 | The healer's consent | Shade's newness. |
+| **Nana's buttons:** "I'm not a coat, Lizzy. Ask first." | Ch12 | Replaces the pill memory | Why the healer's question lands on Elizabeth. Flagged. |
+| **Milo gives Shade a bucket.** "Everybody carries something." Shade carries water five times and writes one line. | Ch12 | Camp's carrying (Ch4), and the character bible's "carrying onions" | Shade's first ordinary Camp choice. |
+| **"I'm right-handed."** Shade, eating left-handed: "I don't know about him." | Ch12 | Shade separating himself from Pathwell | Small. |
+| **The cookbook's card is revealed:** "LAST 4 PAGES WRITTEN WITHOUT INK. SHE DIDN'T STOP." | Ch12 | The Ch4 card she couldn't see | Pays off the dry marker. |
+| **No echo from the cookbook, and "That was all right."** | Ch12 | The current text's faint radio | She lets it go. |
+| **"Owe Shade breakfast."** Her last line in the diary, in borrowed pencil, under the funeral list, before she gives it away. | Ch12 | The owing thread meets the diary | The diary burns in Ch15 with that line in it. Flagged. |
+| **"ASK DONOR FIRST. NOT PATHWELL."** / "He reads cards. It's people he has trouble with." | Ch12 | The archivist's restriction card | Short. "Ask me before anyone reads it" is kept as soil. |
+
+## Pruned this round
+
+- **Ch10, Ch11 and Ch12 leaned on the current text** (Ch10 at 5.6% before regrowing). Ch10 and Ch11 were written again whole, Ch12 in passages. Now Ch10 is at 1.6%, Ch11 at 0.8% and Ch12 at about 2%, mostly soil lines.
+- **Stansbury's "three hundred years"** became "That's weather", to keep the brothers' age consistent with Ch8's "two hundred years".
