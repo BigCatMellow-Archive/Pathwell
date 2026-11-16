@@ -3588,3 +3588,11 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 **DO:** These are form changes to `Experiments/Wild/` only. The book opens on Nana's recipe page and closes on Elizabeth's. Each chapter is titled for its object. Wren's letter now appears in full in Ch10. In Ch15, the section after the cut is told in Shade's present tense. Ch16 adds Pathwell's insurance list. The [growth notes](Experiments/Wild/Growth-Notes.md#second-tending-told-its-own-way-2026-11-03) give the reasons. `Story/Chapters/` is untouched.
 
 **CHECKS:** The docx builder now keeps line breaks inside documents. The chapter titles replace "Chapter N", which only matters if the Wild text is ever assembled with `assemble_manuscript.py`. Harada isn't affected.
+
+## P119, 2026-11-16: A brief for a high-effort session
+
+**AUTHORITY:** bt 7274: "If I increase the model and effort… what should I do with it for this project? I want to get the most out of its effort without it having to do a bunch of discovery work… so we need a strong outline for tasks."
+
+**DO:** created the [High-effort brief](High-Effort-Brief.md). It sets out what's true now, the known Wild problems, a table of where Wild breaks the locks, the open items, a reading budget, the standing rules, and four tasks with inputs, outputs, done-when and paste-ready prompts. The four tasks are the harvest map, grafting, Wild's second growth, and a cold panel. It also moved the session-scratch build and overlap scripts into the repo as [Experiments/tools](Experiments/tools/README.md): `build_book.py` for docx and epub, `overlap.py`, and the docx template.
+
+**CHECKS:** Both tools were run on Wild; they reproduce the 0.4% and 2.0% overlap and build the docx and epub. Harada is at 22 errors, all pre-existing. `Story/Chapters/` is untouched.
