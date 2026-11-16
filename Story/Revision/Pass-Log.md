@@ -3593,6 +3593,13 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 
 **AUTHORITY:** bt 7274: "If I increase the model and effort… what should I do with it for this project? I want to get the most out of its effort without it having to do a bunch of discovery work… so we need a strong outline for tasks."
 
-**DO:** created the [High-effort brief](High-Effort-Brief.md). It sets out what's true now, the known Wild problems, a table of where Wild breaks the locks, the open items, a reading budget, the standing rules, and four tasks with inputs, outputs, done-when and paste-ready prompts. The four tasks are the harvest map, grafting, Wild's second growth, and a cold panel. It also moved the session-scratch build and overlap scripts into the repo as [Experiments/tools](Experiments/tools/README.md): `build_book.py` for docx and epub, `overlap.py`, and the docx template.
+**DO:** created the [High-effort brief](High-Effort-Brief.md), a task router that sits under [AGENTS.md](../../AGENTS.md). It contains:
+- the one decision only bt 7274 can make: which edition leads (A: Wild, B: the manuscript, C: decide after a blind read);
+- what's true now, including the [Carryover Review](Experiments/Wild/Carryover-Review-2026-11-03.md) committed on 2026-11-03;
+- the known Wild problems: US/UK drift, Ch3 length, tics, the gentler back half, the Shade-POV switch, timeline;
+- a table of where Wild breaks the locks, and the open items;
+- four tasks with inputs, outputs, done-when and paste-ready prompts: Wild's third tending with carryover C2 → C1 → C3 and C4 as an EXP for him; a blind comparative panel; a lock re-ruling sheet for A; a harvest map for B.
 
-**CHECKS:** Both tools were run on Wild; they reproduce the 0.4% and 2.0% overlap and build the docx and epub. Harada is at 22 errors, all pre-existing. `Story/Chapters/` is untouched.
+It also moved the session-scratch scripts into the repo as [Experiments/tools](Experiments/tools/README.md): `build_book.py` for docx and epub, `overlap.py`, and the docx template.
+
+**CHECKS:** Both tools were run on Wild; they reproduce the 0.4% and 2.0% overlap and build the docx and epub. Harada is at 22 errors, all pre-existing. `Story/Chapters/` is untouched. Flagged for bt 7274: AGENTS.md §10 still says "the author", where his newer preference is "bt 7274".
