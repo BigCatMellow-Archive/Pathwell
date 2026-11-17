@@ -3630,3 +3630,5 @@ It also moved the session-scratch scripts into the repo as [Experiments/tools](E
 - Ch7: H6 ("Let me drive first") withdrawn as a fourth telling of Nana's illness. Ch7 is the manuscript's again.
 
 Findings are in the [Composite README](Experiments/Composite/README.md#tone-pass-2026-11-17-bt-7274-go-for-it).
+
+**RHYTHM PASS, same day** (bt 7274: "go for it", modeled on the 10 Kings Sunday Morning drafts): Ch13, 14, 16, 17 and 18 merged toward longer paragraphs, with glance traffic cut. Narration paragraphs went from 16.3 to 22.2 words, and "looked at" from 5.5 to 2.9 per 1,000. Ch15 was tried and put back. A fresh check found lost speakers, four altered jokes and new verb tics; all were fixed. Ruled lines are intact.

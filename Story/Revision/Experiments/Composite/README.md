@@ -6,7 +6,7 @@
 
 **How it was built:**
 
-- **The spine is the manuscript**, copied chapter for chapter and revised in place, not regrown. Ch1 is byte-for-byte bt 7274's text (R67). Ch2, Ch5, Ch7 and Ch12 are unchanged; Ch15 has only the R69 cut. The other twelve have targeted changes only: about 90 paragraphs changed or cut and a dozen added, out of about 3,900, and 47,407 words against 47,357.
+- **The spine is the manuscript**, copied chapter for chapter and revised in place, not regrown. Ch1 is byte-for-byte bt 7274's text (R67). Ch2, Ch5, Ch7 and Ch12 are unchanged; Ch15 has only the R69 cut. The other twelve have targeted changes only: about 90 paragraphs changed or cut and a dozen added, out of about 3,900, and 47,258 words against 47,357.
 - **What drove the changes:** the [manuscript evaluation](../../Emergence/MANUSCRIPT-EVALUATION-2026-11-17.md) (P1–P4, T1–T8, P7) and six pieces from the [harvest map](../../Emergence/HARVEST-2026-11-17-Three-Versions.md) (H1–H5 and H7; H6 was tried and withdrawn in the tone pass). The beats and the check that they hold are in the [outline](OUTLINE.md).
 - **Ruled things are untouched:** Ch15's line 21 (R67); "someone" and the Ch16 confession (R54, R66); the Ch16 and Ch17 endings (R54); "That was the choice." in Ch4 and Ch15 (R62, R65); "It was the crash that woke her." in Ch8 (R11); "The working knows what you mean…" (R62); the climax events.
 - **No prose was transplanted** from the Garden or the Wild Garden. Where a harvest piece needed words, the plainest version is in, and it's listed below for him to write over ([who writes what](../../../Sunday-Morning/Craft.md#ai-and-the-author-who-writes-what)).
@@ -28,6 +28,27 @@ The whole edition was checked against the [tone guardrails](../../../Sunday-Morn
 | A soft landing after the hard moment | Present everywhere else: coffee after the blackout (Ch3); "Several dignities." (Ch7); the cold pack "an insult to activate" (Ch11); stew and the dropped spoon (Ch12); onions after Wren (Ch13); "bought lunch because she was hungry" (Ch17); bird personalities and geese (Ch18) | None |
 | Human-scale stakes; a meal and a quiet moment | Held in every chapter | None |
 | Endings land warm | Ch16 (ruled), Ch17 ("Elizabeth smiled.") and Ch18 do. Ch14 and Ch15 end hard on purpose; K3 (c) shortened the dread between them | None |
+
+### Rhythm pass, Ch13–18 (2026-11-17, bt 7274: "go for it")
+
+Modeled on the [10 Kings Sunday Morning drafts](https://github.com/BigCatMellow/10Kings/tree/main/wiki/Sunday-Morning/Drafts), which bt 7274 named as the model. What changed: beat-by-beat paragraphs were merged, glance traffic was cut, and dialogue words, jokes and emotional lines were left as they were. Ch15 was tried and then put back: it's danger, where fragments belong, and the merges were piling up ", and" joins.
+
+| Ch13–18 | Before | After | 10 Kings | bt 7274's Ch1–2 draft |
+| --- | --- | --- | --- | --- |
+| Paragraphs | 1,542 | 1,303 | — | — |
+| Words per narration paragraph | 16.3 | 22.2 | 41 | 29 |
+| "looked at" per 1,000 words | 5.5 | 2.9 | 2.3 | 0 |
+| Average sentence length | 9.7 | 10.2 | 14.6 | 11.7 |
+
+**Fresh check.** A helper that didn't make the changes read the diff against the model and the ruled lines. Every ruled line is intact. Its findings were all fixed:
+
+- **Speakers lost when a tag was cut.** Fixed in Ch13 ("Then sit."), Ch14 (Mama Baga's "Lift it", "Let it fail") and Ch16 ("Ordinary ways?").
+- **Four jokes changed by merging.** Each is back on its own beat: "Then he counted Elizabeth." "She looked back." "Milo looked innocent enough to convict himself." "She decided it counted."
+- **Timing lost on four beats.** "Milo looked impressed.", "Let it be, big cat.", the diary and cookbook pair, and "He got the onion anyway." are back on their own lines.
+- **Replacement verbs that became tics.** "considered" went back to its old count. "turned to" was cut back to 19 (it was 16).
+- **", and" chains.** About fifteen joins were split again.
+
+**What's left.** The book reads closer to 10 Kings, but not like it. What remains is the 10 Kings narrator's habit of summing up days and habits ("Gossip in Kettle Cove moved at the speed of fish-turning"). A merge can't make that; it needs new narration, which is bt 7274's to write. Ch1–12 haven't had this pass.
 
 ## Leans taken (overrule any)
 
