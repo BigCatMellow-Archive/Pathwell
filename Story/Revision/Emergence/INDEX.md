@@ -8,6 +8,7 @@ Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54)
 
 - [**Author conversation and reflections**](AUTHOR-CONVERSATION-2026-11-17.md) — preserves the author's quotations about losing interest after many AI revisions, discovery-writing/"pantsing", the original Google Doc, pruning's **unsettled** cost, Shade's narrator experiment, and the desire to **eventually** outline again as a gardener in the 10Kings Sunday Morning Stories tone. **Conversation/evidence only; no new canon, author picks or chapter edits.**
 - [**Creative retrospective**](CREATIVE-RETROSPECTIVE-2026-11-17.md) — scene-by-scene account of the earliest draft versus the canonical novel and Composite: genuine gains, potential over-polishing, lost experimental ideas, narrator paradoxes, and the [existing Do Not Overliteralize rule](../Author-Notes/2026-10-26_Do-Not-Overliteralize.md). **Informed opinion, not a cold reader or revision authorization.**
+- [**Author goals versus story rules audit**](GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) — reviews the thesis, story/character/world bibles, all ten non-negotiable scenes, craft constraints and author rulings against the author's newly clarified exploratory/gardener direction. Separates explicit past choices, editorial interpretations, live contradictions and open decisions. **Review only; no authority or manuscript changed.**
 
 ## Three evaluations, a harvest map and the Composite (2026-11-16 to 11-17)
 

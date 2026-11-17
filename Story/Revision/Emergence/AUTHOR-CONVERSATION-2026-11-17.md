@@ -151,6 +151,20 @@ One of the assistant’s concise judgments was: **"excellent premise, difficult 
 
 **Assistant response, summarized:** A novel may reach answers, but an answer-driven revision can make the plot prove what the author already believes, rather than letting a character surprise the writer. Elizabeth can choose badly, choose to follow someone, retreat, become uncertain about her own transformation, or enjoy an odd encounter with no immediate thematic justification. The "Are you ready?" / "No." / "Perfect." refrain can express an evolving relationship to uncertainty rather than mastery over life. **Caution:** Do not make "always explore uncertainty" another compulsory rule. A scene is allowed to be exciting, comic, emotionally true or strange without demonstrating a thesis.
 
+### 11. The author recognizes the question-led direction as closer to the desired book
+
+**Author:**
+
+> I think this is more in line with what I wanted from the story
+
+**Status:** This expresses a **directional preference** for a novel in which Elizabeth and the author can live with unresolved questions, develop through mistakes and discovery, and keep delight in the world. It does **not** yet select an alternative premise, revoke the August–October scene rulings, authorize rewriting, or establish a finalized new thesis.
+
+**Later author request:**
+
+> can we put this stuff on the repo and then i want to look at the story bible, and the non negotiables, and all that kind of rules for the story and see what is in line with my actual goals, and what maybe came up as the story morphed
+
+**Result of review request:** [Goals-versus-rules audit](GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) compares the existing authority pages with the author's now-articulated creative aims. Its labels are a **review proposal**. It does not replace the existing Decisions, thesis, bibles, non-negotiables, chapter contracts or manuscript.
+
 ## What this conversation did **not** decide
 
 - No final definition of what pruning sells.
