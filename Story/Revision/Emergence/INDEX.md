@@ -4,6 +4,10 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Three evaluations, a harvest map and the Composite (2026-11-16 to 11-17)
+
+Foundation-and-prose evaluations of the [Wild Garden](../Experiments/Wild/Evaluation-2026-11-16.md), the [Garden](../Experiments/Garden/Evaluation-2026-11-16.md) and the [manuscript](MANUSCRIPT-EVALUATION-2026-11-17.md); the [harvest map](HARVEST-2026-11-17-Three-Versions.md) of forks K1–K8 and harvest pieces H1–H10; and the [Composite](../Experiments/Composite/README.md), the manuscript revised with the leaned pieces, with its [outline and soundness check](../Experiments/Composite/OUTLINE.md). **Correction:** the evaluations' F3 scored Ch14–15 against the Sunday "brace" promise, which R1 says isn't a Pathwell target ([README](../Experiments/Composite/README.md#a-correction-to-my-earlier-evaluations)).
+
 ## Wild Garden carryover assessment (2026-11-03)
 
 The [separate Wild Garden edition](../Experiments/Wild/README.md) includes 18 experimental chapters and an [informed carryover review](../Experiments/Wild/Carryover-Review-2026-11-03.md) comparing its ethical consequences with the current canonical manuscript. This is an index link only; the review is owned by the Wild folder. **No approved chapter changes, author picks or L4 review.**

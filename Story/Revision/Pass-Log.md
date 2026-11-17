@@ -3603,3 +3603,22 @@ Every hand beat that changes something stays: the onions, the scattered cards, t
 It also moved the session-scratch scripts into the repo as [Experiments/tools](Experiments/tools/README.md): `build_book.py` for docx and epub, `overlap.py`, and the docx template.
 
 **CHECKS:** Both tools were run on Wild; they reproduce the 0.4% and 2.0% overlap and build the docx and epub. Harada is at 22 errors, all pre-existing. `Story/Chapters/` is untouched. Flagged for bt 7274: AGENTS.md §10 still says "the author", where his newer preference is "bt 7274".
+
+## P120, 2026-11-17: The Composite edition
+
+**AUTHORITY:** bt 7274, after the three evaluations and the [harvest map](Emergence/HARVEST-2026-11-17-Three-Versions.md): "just outline the story, make sure its sound and write it with all the relevant prose and processes we have developed in the repo."
+
+**DO:** built [Experiments/Composite](Experiments/Composite/README.md) as a trial edition. The manuscript was copied and revised in place, not regrown.
+- Ch1 is verbatim (R67). Ch2, 5, 12 and 15 are unchanged, and every ruled line is kept.
+- The manuscript evaluation's fixes: Pathwell's late register roughened (P1); the elders told apart (P2); nine stated lessons and verdict lines cut (P3, P4b); four personified closers cut (P4a); continuity items T1–T8; US/UK slips outside Ch1 (P7).
+- Harvest pieces H1–H7, taking the map's leans on the forks.
+- Thirteen new or reworded lines are listed for his words. One is lore: Ada Kell is alive and answers Pathwell's letter.
+
+**CORRECTION:** R1 ("Take the method only, not the Sunday Morning tone") means the brace promise isn't a Pathwell target. The manuscript and Garden evaluations' F3, and the map's fork K3, were miscalibrated. Ch14–15's events are untouched.
+
+**CHECKS:**
+- The after-every-pass routine is reported step by step in the Composite README.
+- Checker: flat except one commentary-paragraph match, which comes from a gloss cut rather than a new line.
+- A fresh check by a helper that didn't write the changes found no broken ruling. It found five continuity slips and several voice problems; all of them are fixed or listed in the README. Two cuts were restored: the R9 payoff line and "It was my fault".
+- `Story/Chapters/` is untouched.
+
