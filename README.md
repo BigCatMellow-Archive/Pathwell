@@ -1,23 +1,36 @@
 # Pathwell
 
-A literary urban fantasy novel by BigCatMellow.
+A literary urban fantasy novel. This repository keeps the **manuscript**, **experimental editions**, and **historical writing** separate so they are not mistaken for one another.
 
-## Where things are
+## Start here
 
-| You want | Go to |
+| If you want to… | Read |
 | --- | --- |
-| **The book** | [Story/Chapters](Story/Chapters/): `Chapter_01.txt` to `Chapter_18.txt`, in order |
-| **Wild Garden alternate edition** | [Story/Revision/Experiments/Wild](Story/Revision/Experiments/Wild/) — 18 separate experimental chapters and [carryover notes](Story/Revision/Experiments/Wild/Carryover-Review-2026-11-03.md); not the canonical manuscript |
-| Instructions for AI agents (and CLAUDE.md) | [AGENTS.md](AGENTS.md) |
-| Before editing any chapter | [Before you touch a chapter](Story/Revision/Before-You-Touch-A-Chapter.md) |
-| Where each chapter stands | [Revision-Status.md](Revision-Status.md) |
-| What the author decided about the story and world | [Story/Interview](Story/Interview/README.md) (the Bible interview), then the revision's [Decisions](Story/Revision/Decisions.md) |
-| The current revision's plan and records | [Story/Revision](Story/Revision/README.md) |
-| The book's targets | [Thesis and Controlling Ideas](Thesis-and-Controlling-Ideas.md), [Non-Negotiable Scenes](Non-Negotiable-Scenes.md), [Writing Principles](Writing-Principles.md) |
-| World, characters, voice | [Story/Story_Files](Story/Story_Files/README.md) |
-| Reading and influences | [Reading-List.md](Reading-List.md) |
-| Anything older | [Story/Archive](Story/Archive/README.md): history only, never authority |
+| **Read the current book** | [Story/Chapters/](Story/Chapters/) — the 18-chapter canonical manuscript |
+| **Return to the early creative work** | [Original and working-draft sources](Story/Archive/Manuscript/README.md) — including a read-only snapshot of the author's *Pathwell Working* Google Doc |
+| **Compare alternate versions** | [Experiments index](Story/Revision/Experiments/README.md) — Garden, Wild Garden, Composite, and earlier tone tests |
+| **See the Composite** | [Composite edition](Story/Revision/Experiments/Composite/README.md) — an experiment, **not** the canonical book |
+| **Understand why the story changed** | [Revision records](Story/Revision/README.md) and [archive index](Story/Archive/README.md) |
+| **Explore the world and magic** | [Story files](Story/Story_Files/README.md), including canon and character/world references |
 
-## One current version of anything
+## Version boundaries
 
-Everything outside `Story/Archive/` is current. When something is superseded, it moves to the archive in the same change, with a line in the archive's index saying what replaced it. If two current pages disagree, the order is: the author's rulings (the interview and Decisions), then the book's targets, then the Story_Files references; the revision's [README](Story/Revision/README.md#order-of-authority) has the full order.
+- **Canonical manuscript:** only `Story/Chapters/Chapter_01.txt` through `Chapter_18.txt`, in order. `Story/Pathwell.txt` is a generated copy and may lag behind.
+- **Experiments:** `Story/Revision/Experiments/` contains trial manuscripts. They are available to read, but are not automatically adopted.
+- **Sources and history:** `Story/Archive/` preserves earlier writing, retired endings, and superseded records for reference. Archived material is **not** story authority.
+- **Author decisions:** the [Bible interview](Story/Interview/README.md) and [Decisions](Story/Revision/Decisions.md) govern revisions under the project's [authority order](Story/Revision/README.md#order-of-authority).
+
+**An early draft is evidence of the author's creative process, not an instruction to rewrite the current book.** Do not change the canonical manuscript merely because a source or experiment differs.
+
+## Working on the book
+
+| Need | Document |
+| --- | --- |
+| Instructions for AI agents | [AGENTS.md](AGENTS.md) (and [CLAUDE.md](CLAUDE.md)) |
+| Before changing a chapter | [Before you touch a chapter](Story/Revision/Before-You-Touch-A-Chapter.md) |
+| Chapter progress | [Revision-Status.md](Revision-Status.md) |
+| Story objectives | [Thesis and Controlling Ideas](Thesis-and-Controlling-Ideas.md), [Non-Negotiable Scenes](Non-Negotiable-Scenes.md), [Writing Principles](Writing-Principles.md) |
+| Revision process | [Story/Revision](Story/Revision/README.md) |
+| Influences and reading | [Reading-List.md](Reading-List.md) |
+
+Nothing in this navigation guide changes the book's existing authority hierarchy.

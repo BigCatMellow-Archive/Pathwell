@@ -1,30 +1,28 @@
-# Pathwell: the Story folder
+# Pathwell: Story index
 
-## The manuscript
+## The book
 
-The manuscript is the eighteen chapter files, read in order. Nothing else is the manuscript.
+**The canonical manuscript is only the eighteen files in [Chapters/](Chapters/), read from `Chapter_01.txt` through `Chapter_18.txt`.** No draft, trial edition, or compiled copy takes their place without an explicit author decision.
 
-```text
-Chapters/Chapter_01.txt
-...
-Chapters/Chapter_18.txt
-```
+`python3 Story/assemble_manuscript.py` assembles those files into `Story/Pathwell.txt`. The individual chapter files win if an assembled copy differs.
 
-To assemble them into one plain-text file, run `python3 Story/assemble_manuscript.py`, which writes `Story/Pathwell.txt`. The chapter files win if the two ever differ.
+## Find the right material
 
-The old ending (`Coda.txt`), `Pathwell Working.docx`, the June review notes and every other earlier version are in [Archive/](Archive/README.md). Chapter 12b and the old `Pathwell.txt` are in git history.
-
-## What's in this folder
-
-| Folder | What it is | State |
+| Location | Purpose | Status |
 | --- | --- | --- |
-| [Chapters/](Chapters/) | The manuscript | current |
-| [Interview/](Interview/README.md) | The Bible interview (2026-08-21 to 08-27): the author's locked answers about the story and the world | authority |
-| [Revision/](Revision/README.md) | The current revision: order of authority, decisions, plan, promise ledger, registry, pass log, and the author's pre-August chapters as the [voice benchmark](Revision/Voice-Benchmark/README.md) | current |
-| [Story_Files/](Story_Files/README.md) | Canon, the world and character bibles, the chapter contracts, the voice reference | current |
-| [Sunday-Morning/](Sunday-Morning/README.md) | The writing method the revision uses (its tone isn't used for this book) | current |
-| [Harada-Method/](Harada-Method/README.md) | How to build a recursive Harada chart: an agent skill ([SKILL.md](Harada-Method/SKILL.md)) with rules, a checker and a viewer, learned from the Pathwell chart in [Revision/Harada](Revision/Harada/README.md) | current |
-| [ideas/](ideas/), [insights/](insights/) | Two promoted MAP records (the unpaid-plot-debts insight) | history, still cited by the method |
-| [Archive/](Archive/README.md) | Everything superseded, with what replaced it | never authority |
+| [Chapters/](Chapters/) | Current book, in chapter order | **manuscript** |
+| [Revision/Experiments/](Revision/Experiments/README.md) | Separate Garden, Wild Garden, Composite, and smaller alternate versions | **experiments; not the manuscript** |
+| [Archive/Manuscript/](Archive/Manuscript/README.md) | The author's earlier exploratory writing and working drafts, including the Google Doc snapshot | **historical source; not canon** |
+| [Interview/](Interview/README.md) | Locked answers about the story and world | **author authority** |
+| [Revision/](Revision/README.md) | Decisions, plan, pass log, status evidence, promise ledger, and voice benchmarks | **working records** |
+| [Story_Files/](Story_Files/README.md) | World and character material, canon, voice, and chapter contracts | **current references** |
+| [Sunday-Morning/](Sunday-Morning/README.md) | Writing and review method, adapted for this book; its tone has also been selectively adopted per later author rulings | **method** |
+| [Harada-Method/](Harada-Method/README.md) | Recursive planning chart instructions and checker | **method/tool** |
+| [ideas/](ideas/), [insights/](insights/) | Promoted project ideas and lessons | **historical records** |
+| [Archive/](Archive/README.md) | Superseded plans, drafts, and historical evidence | **not authority** |
 
-The MAP coordination system that some older notes mention lives in the separate MultiAgentProject repository, not here.
+## Returning to the early writing
+
+Start at the [manuscript-source index](Archive/Manuscript/README.md). It distinguishes the linked *Pathwell Working* Google Doc export from the older `Pathwell Working.docx` already in the archive and the separately identified earliest-first-draft snapshot. These may overlap; none is presented as one clean original book.
+
+For current revisions, follow [AGENTS.md](../AGENTS.md) and the [order of authority](Revision/README.md#order-of-authority). Do not promote an experiment or archived passage by updating an index alone.
