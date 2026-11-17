@@ -4,6 +4,11 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Author's creative-recovery conversation (2026-11-17)
+
+- [**Author conversation and reflections**](AUTHOR-CONVERSATION-2026-11-17.md) — preserves the author's quotations about losing interest after many AI revisions, discovery-writing/"pantsing", the original Google Doc, pruning's **unsettled** cost, Shade's narrator experiment, and the desire to **eventually** outline again as a gardener in the 10Kings Sunday Morning Stories tone. **Conversation/evidence only; no new canon, author picks or chapter edits.**
+- [**Creative retrospective**](CREATIVE-RETROSPECTIVE-2026-11-17.md) — scene-by-scene account of the earliest draft versus the canonical novel and Composite: genuine gains, potential over-polishing, lost experimental ideas, narrator paradoxes, and the [existing Do Not Overliteralize rule](../Author-Notes/2026-10-26_Do-Not-Overliteralize.md). **Informed opinion, not a cold reader or revision authorization.**
+
 ## Three evaluations, a harvest map and the Composite (2026-11-16 to 11-17)
 
 Foundation-and-prose evaluations of the [Wild Garden](../Experiments/Wild/Evaluation-2026-11-16.md), the [Garden](../Experiments/Garden/Evaluation-2026-11-16.md) and the [manuscript](MANUSCRIPT-EVALUATION-2026-11-17.md); the [harvest map](HARVEST-2026-11-17-Three-Versions.md) of forks K1–K8 and harvest pieces H1–H10; and the [Composite](../Experiments/Composite/README.md), the manuscript revised with the leaned pieces, with its [outline and soundness check](../Experiments/Composite/OUTLINE.md). The Composite briefly claimed R1 excluded the Sunday tone. That was wrong: R24 lifted it, and bt 7274 confirmed it (R68). F3 stands, and K3 is open ([README](../Experiments/Composite/README.md#the-sunday-morning-tone-corrected-2026-11-17)).

@@ -13,6 +13,7 @@
 | [Chapters/](Chapters/) | Current book, in chapter order | **manuscript** |
 | [Revision/Experiments/](Revision/Experiments/README.md) | Separate Garden, Wild Garden, Composite, and smaller alternate versions | **experiments; not the manuscript** |
 | [Archive/Manuscript/](Archive/Manuscript/README.md) | The author's earlier exploratory writing and working drafts, including the Google Doc snapshot | **historical source; not canon** |
+| [Revision/Emergence/](Revision/Emergence/INDEX.md) | The author's Nov 17 reflections on the original, canon and Composite; pruning/ Shade questions; longer-term gardener/10Kings direction | **discussion and analysis; no new rulings** |
 | [Interview/](Interview/README.md) | Locked answers about the story and world | **author authority** |
 | [Revision/](Revision/README.md) | Decisions, plan, pass log, status evidence, promise ledger, and voice benchmarks | **working records** |
 | [Story_Files/](Story_Files/README.md) | World and character material, canon, voice, and chapter contracts | **current references** |
