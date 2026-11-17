@@ -6,7 +6,7 @@
 
 **How it was built:**
 
-- **The spine is the manuscript**, copied chapter for chapter and revised in place, not regrown. Ch1 is byte-for-byte bt 7274's text (R67). Ch2, Ch5, Ch7 and Ch12 are unchanged; Ch15 has only the R69 cut. The other twelve have targeted changes only: about 90 paragraphs changed or cut and a dozen added, out of about 3,900, and 47,258 words against 47,357.
+- **The spine is the manuscript**, copied chapter for chapter and revised in place, not regrown. Ch1 is bt 7274's text, put back into his first draft's order (R70). Ch2, Ch5, Ch7 and Ch12 are unchanged; Ch15 has only the R69 cut. The other twelve have targeted changes only: about 90 paragraphs changed or cut and a dozen added, out of about 3,900, and 47,258 words against 47,357.
 - **What drove the changes:** the [manuscript evaluation](../../Emergence/MANUSCRIPT-EVALUATION-2026-11-17.md) (P1–P4, T1–T8, P7) and six pieces from the [harvest map](../../Emergence/HARVEST-2026-11-17-Three-Versions.md) (H1–H5 and H7; H6 was tried and withdrawn in the tone pass). The beats and the check that they hold are in the [outline](OUTLINE.md).
 - **Ruled things are untouched:** Ch15's line 21 (R67); "someone" and the Ch16 confession (R54, R66); the Ch16 and Ch17 endings (R54); "That was the choice." in Ch4 and Ch15 (R62, R65); "It was the crash that woke her." in Ch8 (R11); "The working knows what you mean…" (R62); the climax events.
 - **No prose was transplanted** from the Garden or the Wild Garden. Where a harvest piece needed words, the plainest version is in, and it's listed below for him to write over ([who writes what](../../../Sunday-Morning/Craft.md#ai-and-the-author-who-writes-what)).
@@ -28,6 +28,14 @@ The whole edition was checked against the [tone guardrails](../../../Sunday-Morn
 | A soft landing after the hard moment | Present everywhere else: coffee after the blackout (Ch3); "Several dignities." (Ch7); the cold pack "an insult to activate" (Ch11); stew and the dropped spoon (Ch12); onions after Wren (Ch13); "bought lunch because she was hungry" (Ch17); bird personalities and geese (Ch18) | None |
 | Human-scale stakes; a meal and a quiet moment | Held in every chapter | None |
 | Endings land warm | Ch16 (ruled), Ch17 ("Elizabeth smiled.") and Ch18 do. Ch14 and Ch15 end hard on purpose; K3 (c) shortened the dread between them | None |
+
+### The Ch1 hook (R70)
+
+bt 7274 asked for his original opening's speed back. Ch1 now runs in the order of his first draft: the crash, a man tearing through her boxes for "the old one", the thud at the door. The party comes after the fight, when she steps out into the wreck and recognizes her last guest. The first thud comes 87 words in (the manuscript took 221; his first draft took 61).
+
+- **Kept and moved:** the party, ELIZ, her diary, "You really don't know?", the rubber bands, the torn page and the loose gold the blob goes for. Ch2's "Why were you at my party?", Ch3's party memory, Ch5's "already at the door before I used anything", Ch16's apology list and Ch17's ELIZ still hold.
+- **Cut:** the chain on the door, "Friend of yours?", "What are you still doing here?" / "Reading", and "like a magazine in a waiting room". All four are from his later draft; any of them can come back.
+- **New:** one plain line, "Her diary lay open beside him." (**your words**), plus the join into the party paragraph. Ch3's "turning the pages of her diary" became "her diary open beside him".
 
 ### Rhythm pass, Ch13–18 (2026-11-17, bt 7274: "go for it")
 
