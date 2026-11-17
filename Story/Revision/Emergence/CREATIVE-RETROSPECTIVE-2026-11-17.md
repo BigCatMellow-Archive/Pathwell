@@ -126,6 +126,16 @@ The [10Kings overview](https://github.com/BigCatMellow/10Kings/blob/main/wiki/Su
 
 **Balance:** "Gardener" should not become an excuse for aimlessness; "Sunday Morning" should not flatten serious stakes; a protection against overliteral editing should not immunize weak prose. The desirable synthesis is **freedom to discover with proportionate craft**, not the absence of editing.
 
+## Newly clarified: Elizabeth was a question, not a thesis
+
+The author subsequently explained that the earliest motive may **not have been a consciously stated point**. He reflected on having lived passively, wondering whether accepting events without choosing them amounted to living fully, then created Elizabeth to explore doing something he had not known how to do himself: making choices. The writing became a **shared inquiry with the character**, including wrong turns, losing footing and learning to recover, rather than the execution of a predetermined lesson.
+
+**The middle turning point deserves special attention:** Elizabeth discovers she was brought into the adventure **by mistake**. She must confront whether she was changing through her own agency or simply because an adventure happened to her; whether she earned who she was becoming or was given it. The question is not just *Can she choose?* but *Does she own a transformation whose circumstances she did not choose?*
+
+**Interpretive correction to this retrospective:** The current book's increasingly polished argument that other people should respect Elizabeth's choices may be a narrowing of the original experiment. Distinguish **learning what choosing means**, including bad decisions and retreat, from **showing that she knows how to choose correctly**. Do not assume the original story preached a passive-to-active moral arc; the author explicitly says the point may have emerged without being preplanned. It is possible that not every passive decision is a failure and not every decisive action is growth. The author's reflection is evidence of his developing understanding **now**, not proof of a fixed original target.
+
+This clarification is preserved in [the author-conversation record](AUTHOR-CONVERSATION-2026-11-17.md#9-the-storys-question-emerged-from-the-authors-own-uncertainty-about-living-passively). It changes how the editorial retrospective should be read, **not** the existing manuscript or established author rulings.
+
 ## The original conversation's most useful conclusion
 
 > "The original Pathwell wanted to discover what was possible. The revised Pathwell wants to demonstrate what was right."
