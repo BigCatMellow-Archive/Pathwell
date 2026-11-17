@@ -141,6 +141,16 @@ One of the assistant’s concise judgments was: **"excellent premise, difficult 
 
 **Assistant's response (informed interpretation):** This clarifies a distinction the earlier retrospective underplayed: a story **discovering what choice means** can be transformed by repeated revisions into a story **demonstrating the correct principles of choice**. The current novel's emphasis on asking permission and respecting autonomy is one interpretation of the broader, more uncertain inquiry. The author's account suggests that stumbling, false independence, reluctance, passivity and the authenticity of change are artistically central possibilities. The accidental invitation is not merely a reveal; it strips away the comforting claim of destiny and raises the question whether an imposed adventure can nevertheless yield self-authored growth. Do not turn the assistant's reading into an official theme or settled ending.
 
+### 10. Living in the questions rather than converting them to answers
+
+**Author:**
+
+> I think you made a good point about the revision process and that through trying to learn more about the questions and finding answers, the story became about the answers rather than the questions. When maybe it should be about living in those questions
+
+**Meaning and status:** The author recognizes a risk in the prior revision process: investigation and explanation may have hardened into a story whose scenes illustrate settled answers. The alternative he is contemplating is to **live alongside the questions through Elizabeth's experiences**, without requiring her to become a model of correct agency or every scene to justify a lesson. His "maybe" matters: this is a developing creative insight, **not a fixed theme, final ruling or outline order**.
+
+**Assistant response, summarized:** A novel may reach answers, but an answer-driven revision can make the plot prove what the author already believes, rather than letting a character surprise the writer. Elizabeth can choose badly, choose to follow someone, retreat, become uncertain about her own transformation, or enjoy an odd encounter with no immediate thematic justification. The "Are you ready?" / "No." / "Perfect." refrain can express an evolving relationship to uncertainty rather than mastery over life. **Caution:** Do not make "always explore uncertainty" another compulsory rule. A scene is allowed to be exciting, comic, emotionally true or strange without demonstrating a thesis.
+
 ## What this conversation did **not** decide
 
 - No final definition of what pruning sells.
