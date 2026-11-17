@@ -6,7 +6,7 @@
 
 **How it was built:**
 
-- **The spine is the manuscript**, copied chapter for chapter and revised in place, not regrown. Ch1 is bt 7274's text, put back into his first draft's order (R70). Ch2, Ch5, Ch7 and Ch12 are unchanged; Ch15 has only the R69 cut. The other twelve have targeted changes only: about 90 paragraphs changed or cut and a dozen added, out of about 3,900, and 47,258 words against 47,357.
+- **The spine is the manuscript**, copied chapter for chapter and revised in place, not regrown. Ch1 is bt 7274's text, put back into his first draft's order (R70). Ch2, Ch5, Ch7 and Ch12 are unchanged; Ch15 has only the R69 cut. The other twelve have targeted changes only: about 90 paragraphs changed or cut and a dozen added, out of about 3,900, and 47,104 words against 47,357.
 - **What drove the changes:** the [manuscript evaluation](../../Emergence/MANUSCRIPT-EVALUATION-2026-11-17.md) (P1–P4, T1–T8, P7) and six pieces from the [harvest map](../../Emergence/HARVEST-2026-11-17-Three-Versions.md) (H1–H5 and H7; H6 was tried and withdrawn in the tone pass). The beats and the check that they hold are in the [outline](OUTLINE.md).
 - **Ruled things are untouched:** Ch15's line 21 (R67); "someone" and the Ch16 confession (R54, R66); the Ch16 and Ch17 endings (R54); "That was the choice." in Ch4 and Ch15 (R62, R65); "It was the crash that woke her." in Ch8 (R11); "The working knows what you mean…" (R62); the climax events.
 - **No prose was transplanted** from the Garden or the Wild Garden. Where a harvest piece needed words, the plainest version is in, and it's listed below for him to write over ([who writes what](../../../Sunday-Morning/Craft.md#ai-and-the-author-who-writes-what)).
@@ -56,7 +56,26 @@ Modeled on the [10 Kings Sunday Morning drafts](https://github.com/BigCatMellow/
 - **Replacement verbs that became tics.** "considered" went back to its old count. "turned to" was cut back to 19 (it was 16).
 - **", and" chains.** About fifteen joins were split again.
 
-**What's left.** The book reads closer to 10 Kings, but not like it. What remains is the 10 Kings narrator's habit of summing up days and habits ("Gossip in Kettle Cove moved at the speed of fish-turning"). A merge can't make that; it needs new narration, which is bt 7274's to write. Ch1–12 haven't had this pass.
+**What's left.** The book reads closer to 10 Kings, but not like it. What remains is the 10 Kings narrator's habit of summing up days and habits ("Gossip in Kettle Cove moved at the speed of fish-turning"). A merge can't make that; it needs new narration, which is bt 7274's to write. Ch3–12 had a lighter, merge-only version afterward (below).
+
+### Rhythm pass, Ch4–12 (merge only)
+
+Ch3 and Ch5 were left alone: they're mostly bt 7274's own text and already near his rate. Ch4 and Ch6–12 got merges only. Adjacent narration paragraphs of 12 words or more were joined, and the word sequences are unchanged (checked). Danger passages and emotional peaks were skipped.
+
+The fresh check found ten merges that hurt timing anyway, and all ten have their breaks back:
+
+- the diary handover and the chapter's last image (Ch12);
+- the museum struggle, the dagger's echoed warning and "At the threshold she looked back" (Ch11);
+- the end of Ch9;
+- the cookbook leaving (Ch4);
+- the stranger's arrival (Ch8);
+- a joke's landing (Ch6).
+
+Seven close calls got their breaks back too. "looked at" was left alone here: in these chapters most glances carry a beat, and swapping in other verbs made new tics in Ch13–18.
+
+**Result:** small. Across the book, narration paragraphs went from 20.5 to 21.9 words. In Ch3–12 the short paragraphs are mostly doing work. What's left of the gap to 10 Kings is summary narration, and that needs new prose from bt 7274.
+
+**Ch1, after the same fresh check:** the reveal sentence was split. The banner now hangs "over the kitchen doorway" before it falls. "Her last guest" became "the man", so the recognition paragraph that follows doesn't read as an afterthought. Ch16's "Your diary, which I read" now rests on the diary lying open beside him. Ch1 no longer shows him reading it.
 
 ## Leans taken (overrule any)
 

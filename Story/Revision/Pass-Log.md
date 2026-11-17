@@ -3632,3 +3632,8 @@ It also moved the session-scratch scripts into the repo as [Experiments/tools](E
 Findings are in the [Composite README](Experiments/Composite/README.md#tone-pass-2026-11-17-bt-7274-go-for-it).
 
 **RHYTHM PASS, same day** (bt 7274: "go for it", modeled on the 10 Kings Sunday Morning drafts): Ch13, 14, 16, 17 and 18 merged toward longer paragraphs, with glance traffic cut. Narration paragraphs went from 16.3 to 22.2 words, and "looked at" from 5.5 to 2.9 per 1,000. Ch15 was tried and put back. A fresh check found lost speakers, four altered jokes and new verb tics; all were fixed. Ruled lines are intact.
+
+**CH1 HOOK AND CH3–12, same day** (bt 7274: "Yes, but also the story gets off to a much slower start…"):
+- Ch1 rebuilt into his first draft's order (R70). The first thud now comes at 87 words, against 221.
+- Ch4 and Ch6–12 got a merge-only rhythm pass, with words unchanged.
+- A fresh check flagged ten merges that hurt timing and some new wording in Ch1. All of it was fixed.
