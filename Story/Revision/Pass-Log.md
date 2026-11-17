@@ -3623,3 +3623,10 @@ It also moved the session-scratch scripts into the repo as [Experiments/tools](E
 - `Story/Chapters/` is untouched.
 
 **FOLLOW-UP, same day:** bt 7274 confirmed the Sunday tone (R68), then picked K3 (c) (R69). Ch15 in the Composite now frees Milo one attempt sooner. The ruled beats are unchanged.
+
+**TONE PASS, same day** (bt 7274: "go for it"): checked against the Sunday tone guardrails to R24's degree, with R66's "no joke for a page after a loss" winning where the two conflict.
+- Ch16: the triage loss list cut, so the losses are said once.
+- Ch16: the chair scene opens on what Pathwell did right.
+- Ch7: H6 ("Let me drive first") withdrawn as a fourth telling of Nana's illness. Ch7 is the manuscript's again.
+
+Findings are in the [Composite README](Experiments/Composite/README.md#tone-pass-2026-11-17-bt-7274-go-for-it).

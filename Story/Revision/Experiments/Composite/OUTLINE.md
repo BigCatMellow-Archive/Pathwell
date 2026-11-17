@@ -29,7 +29,7 @@ Under two days for Ch1–16 (Thursday night to Saturday night), then 25 days for
 
 **6. Bar and mirror.** Ginger ale; the missed dart; the marked point-of-view break at the mirror; "Mine." ✚ "The mirror offered no opinion." cut.
 
-**7. Swallowed.** The blob goes for him. She cuts him out. "Then stop talking around me." "Drive." ✚ The word is one she's used herself: outside the doctor's office, "Let me drive first." (H6)
+**7. Swallowed.** The blob goes for him. She cuts him out. "Then stop talking around me." "Drive." *Unchanged.* (A "Let me drive first" beat was tried and taken out in the tone pass.)
 
 **8. The ditch.** "Then we stop." The chosen ditch, seatbelt, brakes, apology. "It was the crash that woke her." (R11). Shade arrives. ✚ "all night" → "a whole day" (T1).
 
@@ -47,7 +47,7 @@ Under two days for Ch1–16 (Thursday night to Saturday night), then 25 days for
 
 **15. The choice.** ✚ Milo freed one attempt sooner (R69); otherwise unchanged. Line 21 (R67); "Go."; the dagger passed; over the diary, past the cookbook; Milo out; "That was the choice."; Shade taken.
 
-**16. The account.** Triage; UNKNOWN; LIKED POCKETS; the apology list breaks at "Shade" (R66); "I need you not to make me responsible…"; the chair; "Let it be, big cat."; the crying; "Person is the word I have for that." Ends at "…require things from all of them." (R54). ✚ "Loss didn't care much about paperwork." cut (P3). ✚ Mama Baga's three maxims turned into orders (P2). ✚ "For the breakfast she'd never pay back." (H1, paid). ✚ "trouser" ×2.
+**16. The account.** ✚ Tone pass: the triage loss list cut, and the chair scene opens on what he did right. Triage; UNKNOWN; LIKED POCKETS; the apology list breaks at "Shade" (R66); "I need you not to make me responsible…"; the chair; "Let it be, big cat."; the crying; "Person is the word I have for that." Ends at "…require things from all of them." (R54). ✚ "Loss didn't care much about paperwork." cut (P3). ✚ Mama Baga's three maxims turned into orders (P2). ✚ "For the breakfast she'd never pay back." (H1, paid). ✚ "trouser" ×2.
 
 **17. Restitution.** The rack; HESS SAYS FOUR and the smudge; Susquehanna; the apartment; the spoon, "It was still hers."; the museum and Henry Vale; The Lemon; the welcome speech; the label. Ends at "Elizabeth smiled." (R54). ✚ The apartment section slowed into longer paragraphs (H7). ✚ Her recipe card shown (H3). ✚ The manager and the missed meeting (T4); the ELIZ half accounted for and the meeting turned out to be about the birthday calendar (T3, H2). ✚ The curator given full, institutional sentences so she doesn't sound like the archivist (P2). ✚ One stated lesson cut ("Nobody asked her to mediate…"), and the capped-pen test cut (P3, F5). ✚ Milo sets his own term: "When I need a fourth, you come." (H5). ✚ Ada Kell's letter (H4, K1). ✚ Pathwell contracted (P1).
 
@@ -70,20 +70,20 @@ Under two days for Ch1–16 (Thursday night to Saturday night), then 25 days for
 
 ### Arcs
 
-- **Elizabeth.** Outward: the whole cookbook → ginger ale → the cut → the ditch → "Now." → the diary given → Milo over everything. Inward: the applesauce (Ch12) → ✚ "Let me drive first" (Ch7) → "You could stay here… I could—" (Ch13) → "called it kindness" (Ch18). The ✚ Ch7 beat plants her flaw before Ch12 rather than after, so Ch13 reads as a pattern, not a surprise. Holds.
+- **Elizabeth.** Outward: the whole cookbook → ginger ale → the cut → the ditch → "Now." → the diary given → Milo over everything. Inward: the applesauce (Ch12) → "You could stay here… I could—" (Ch13) → "called it kindness" (Ch18). Holds.
 - **Pathwell.** Two overrides with separate motives (Ch11, Ch14); the hinge "Defined by whom?" / "Not me" (Ch16); proofs that nearly fail (Susquehanna, Henry Vale). ✚ Ada's "Nothing. That's what I'm asking for." is the one term he can't work off. Holds. F4 (what the second prune cost him) is still unnamed; that's lore and his call.
 - **Shade.** Unchanged, and the ✚ debt line makes his loss cost Elizabeth one more concrete thing. Holds.
 - **Stansbury.** Unchanged. Holds.
 
 ### Setups and payoffs
 
-- **New threads and where they land:** OWE SHADE BREAKFAST (9 → 12 → 15 → 16); "Let me drive first" (7 → 12 → 13 → 18); Milo's name (13 → 15); the recipe card (17 shown → 18 in her pocket); ELIZ (1 → 17); the meeting (2 → 5 → 17); Ada (10 → 14 → 17).
-- **Payoff density.** Six pieces added that pay off. To keep the book from tidying up, five tidy things came out: the capped-pen test, one Ch17 gloss and Ch18's three narrator explanations.
+- **New threads and where they land:** OWE SHADE BREAKFAST (9 → 12 → 15 → 16); Milo's name (13 → 15); the recipe card (17 shown → 18 in her pocket); ELIZ (1 → 17); the meeting (2 → 5 → 17); Ada (10 → 14 → 17).
+- **Payoff density.** Five pieces added that pay off. To keep the book from tidying up, five tidy things came out: the capped-pen test, one Ch17 gloss and Ch18's three narrator explanations.
 - **Still open on purpose:** her forgiveness, the museum ("reopened, not restored"), the Chicago tab, Tess, and Ada's account, which she closes to him herself.
 
 ### Rules and world
 
-No rule added. Ada's letter is a letter, with no magic in it. The "Drive" beat uses Nana's doctors (Ch3, Ch12), not a new nurse or hospital.
+No rule added. Ada's letter is a letter, with no magic in it.
 
 ### Timeline
 
@@ -93,7 +93,7 @@ Walked again after the changes. T1, T2, T3, T4, T5, T6 and T7 resolved; T8's fou
 
 | Goal | After this edition |
 | --- | --- |
-| Control isn't competence | Unchanged, and sharper: Elizabeth's own "Let me drive first" sits beside his "Drive." |
+| Control isn't competence | Unchanged |
 | Elizabeth matters without power | Unchanged |
 | Shade is a person | Unchanged |
 | R66's tone: one narrator, each character funny their own way, the shared deadpan cut | Closer. Pathwell contracts again in the late chapters (dialogue ratio in Ch17–18 went from 17:33 to 45:13). The curator speaks in full sentences, the archivist in commands, the shopkeeper in money, and Mama Baga in orders |
