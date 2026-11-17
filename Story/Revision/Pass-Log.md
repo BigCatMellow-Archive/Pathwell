@@ -3614,7 +3614,7 @@ It also moved the session-scratch scripts into the repo as [Experiments/tools](E
 - Harvest pieces H1–H7, taking the map's leans on the forks.
 - Thirteen new or reworded lines are listed for his words. One is lore: Ada Kell is alive and answers Pathwell's letter.
 
-**CORRECTION:** R1 ("Take the method only, not the Sunday Morning tone") means the brace promise isn't a Pathwell target. The manuscript and Garden evaluations' F3, and the map's fork K3, were miscalibrated. Ch14–15's events are untouched.
+**CORRECTION (withdrawn the same day):** this entry first said R1 excluded the Sunday tone. R24 had already lifted that, and bt 7274 confirmed it (R68). F3 stands, and K3 is open.
 
 **CHECKS:**
 - The after-every-pass routine is reported step by step in the Composite README.

@@ -61,7 +61,7 @@ Under two days for Ch1–16 (Thursday night to Saturday night), then 25 days for
 | --- | --- | --- |
 | K1 Ada and Tess | Kept, and Ada gets one letter (Ch17) | Closes F1 at its root: the first person wronged sets her own terms, and refuses restitution |
 | K2 Shade's end | Death at Camp | Ruled |
-| K3 the Sunday promise | **No change to Ch14–15** | R1: "Take the method only, not the Sunday Morning tone." The brace promise isn't a Pathwell target, so this fork dissolves. See the [README](README.md#a-correction-to-my-earlier-evaluations) |
+| K3 the Sunday promise | **Open, for bt 7274** | R24 and R68 take the tone, so the brace promise applies. Ch14–15 are unchanged until he picks (a), (b) or (c) on the [harvest map](../../Emergence/HARVEST-2026-11-17-Three-Versions.md#k3-does-the-sunday-promise-hold-in-ch1415). See the [README](README.md#the-sunday-morning-tone-corrected-2026-11-17) |
 | K4 who records Shade | Camp (LIKED POCKETS) | Lean, weak. Shade's notebook stays home |
 | K5 owing | Half chain | Ch9 written → Ch12 given → Ch15 burned → Ch16 "never pay back". No Ch2 change |
 | K6 her habit | Caregiving control | The manuscript's; it matches his flaw |

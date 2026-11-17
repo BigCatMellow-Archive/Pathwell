@@ -11,13 +11,15 @@
 - **Ruled things are untouched:** Ch15's line 21 (R67); "someone" and the Ch16 confession (R54, R66); the Ch16 and Ch17 endings (R54); "That was the choice." in Ch4 and Ch15 (R62, R65); "It was the crash that woke her." in Ch8 (R11); "The working knows what you mean…" (R62); the climax events.
 - **No prose was transplanted** from the Garden or the Wild Garden. Where a harvest piece needed words, the plainest version is in, and it's listed below for him to write over ([who writes what](../../../Sunday-Morning/Craft.md#ai-and-the-author-who-writes-what)).
 
-## A correction to my earlier evaluations
+## The Sunday Morning tone (corrected 2026-11-17)
 
-R1 says: "Take the method only, not the Sunday Morning tone." Pathwell is a longer, darker book. So "You do not need to brace yourself" isn't one of its targets. The manuscript and Garden evaluations both scored Ch14–15 against it (F3), and the harvest map made it fork K3. That was miscalibrated. Ch14–15 aren't a defect against any Pathwell target, and this edition leaves their events alone. The Wild evaluation's C1–C4 and goal findings don't depend on it.
+This edition first said R1 ("Take the method only, not the Sunday Morning tone") ruled the tone out, and that the evaluations' F3 was miscalibrated. **That was wrong.** R24 (2026-10-01, "I love the sunday tone") lifted R1: Pathwell takes the tone, including "the reader needn't brace," while keeping its weight. bt 7274 confirmed it on 2026-11-17: "I wanted to take its tone too" (R68).
+
+So F3 stands. Ch14–15 are where the tone and the ruled climax events pull against each other, and fork K3 is open again for him. This edition hasn't been given a tone pass beyond the manuscript's.
 
 ## Leans taken (overrule any)
 
-1. **Forks:** every fork went the way the harvest map leaned (table in the [outline](OUTLINE.md#the-forks-as-this-edition-takes-them)). K3 dissolved under R1.
+1. **Forks:** every fork went the way the harvest map leaned (table in the [outline](OUTLINE.md#the-forks-as-this-edition-takes-them)). K3 is open again (see above).
 2. **Contractions by speaker.** Pathwell contracts. Stansbury, Shade and the healer keep their full forms, because precision is how they're funny. Elizabeth's full forms stay where they're emphasis ("I am not going to make your guilt useful").
 3. **The elders, told apart by how they talk, not cut:**
    - the curator speaks in full institutional sentences;

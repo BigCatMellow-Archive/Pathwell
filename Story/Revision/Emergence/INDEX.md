@@ -6,7 +6,7 @@ Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54)
 
 ## Three evaluations, a harvest map and the Composite (2026-11-16 to 11-17)
 
-Foundation-and-prose evaluations of the [Wild Garden](../Experiments/Wild/Evaluation-2026-11-16.md), the [Garden](../Experiments/Garden/Evaluation-2026-11-16.md) and the [manuscript](MANUSCRIPT-EVALUATION-2026-11-17.md); the [harvest map](HARVEST-2026-11-17-Three-Versions.md) of forks K1–K8 and harvest pieces H1–H10; and the [Composite](../Experiments/Composite/README.md), the manuscript revised with the leaned pieces, with its [outline and soundness check](../Experiments/Composite/OUTLINE.md). **Correction:** the evaluations' F3 scored Ch14–15 against the Sunday "brace" promise, which R1 says isn't a Pathwell target ([README](../Experiments/Composite/README.md#a-correction-to-my-earlier-evaluations)).
+Foundation-and-prose evaluations of the [Wild Garden](../Experiments/Wild/Evaluation-2026-11-16.md), the [Garden](../Experiments/Garden/Evaluation-2026-11-16.md) and the [manuscript](MANUSCRIPT-EVALUATION-2026-11-17.md); the [harvest map](HARVEST-2026-11-17-Three-Versions.md) of forks K1–K8 and harvest pieces H1–H10; and the [Composite](../Experiments/Composite/README.md), the manuscript revised with the leaned pieces, with its [outline and soundness check](../Experiments/Composite/OUTLINE.md). The Composite briefly claimed R1 excluded the Sunday tone. That was wrong: R24 lifted it, and bt 7274 confirmed it (R68). F3 stands, and K3 is open ([README](../Experiments/Composite/README.md#the-sunday-morning-tone-corrected-2026-11-17)).
 
 ## Wild Garden carryover assessment (2026-11-03)
 
