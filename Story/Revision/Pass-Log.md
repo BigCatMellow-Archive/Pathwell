@@ -3622,3 +3622,4 @@ It also moved the session-scratch scripts into the repo as [Experiments/tools](E
 - A fresh check by a helper that didn't write the changes found no broken ruling. It found five continuity slips and several voice problems; all of them are fixed or listed in the README. Two cuts were restored: the R9 payoff line and "It was my fault".
 - `Story/Chapters/` is untouched.
 
+**FOLLOW-UP, same day:** bt 7274 confirmed the Sunday tone (R68), then picked K3 (c) (R69). Ch15 in the Composite now frees Milo one attempt sooner. The ruled beats are unchanged.

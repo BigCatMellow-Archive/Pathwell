@@ -6,7 +6,7 @@
 
 **How it was built:**
 
-- **The spine is the manuscript**, copied chapter for chapter and revised in place, not regrown. Ch1 is byte-for-byte bt 7274's text (R67). Ch2, Ch5, Ch12 and Ch15 are unchanged. The other thirteen have targeted changes only: about 90 paragraphs changed or cut and a dozen added, out of about 3,900, and 47,502 words against 47,357.
+- **The spine is the manuscript**, copied chapter for chapter and revised in place, not regrown. Ch1 is byte-for-byte bt 7274's text (R67). Ch2, Ch5 and Ch12 are unchanged; Ch15 has only the R69 cut. The other thirteen have targeted changes only: about 90 paragraphs changed or cut and a dozen added, out of about 3,900, and 47,502 words against 47,357.
 - **What drove the changes:** the [manuscript evaluation](../../Emergence/MANUSCRIPT-EVALUATION-2026-11-17.md) (P1–P4, T1–T8, P7) and seven pieces from the [harvest map](../../Emergence/HARVEST-2026-11-17-Three-Versions.md) (H1–H7). The beats and the check that they hold are in the [outline](OUTLINE.md).
 - **Ruled things are untouched:** Ch15's line 21 (R67); "someone" and the Ch16 confession (R54, R66); the Ch16 and Ch17 endings (R54); "That was the choice." in Ch4 and Ch15 (R62, R65); "It was the crash that woke her." in Ch8 (R11); "The working knows what you mean…" (R62); the climax events.
 - **No prose was transplanted** from the Garden or the Wild Garden. Where a harvest piece needed words, the plainest version is in, and it's listed below for him to write over ([who writes what](../../../Sunday-Morning/Craft.md#ai-and-the-author-who-writes-what)).
@@ -15,7 +15,7 @@
 
 This edition first said R1 ("Take the method only, not the Sunday Morning tone") ruled the tone out, and that the evaluations' F3 was miscalibrated. **That was wrong.** R24 (2026-10-01, "I love the sunday tone") lifted R1: Pathwell takes the tone, including "the reader needn't brace," while keeping its weight. bt 7274 confirmed it on 2026-11-17: "I wanted to take its tone too" (R68).
 
-So F3 stands. Ch14–15 are where the tone and the ruled climax events pull against each other, and fork K3 is open again for him. This edition hasn't been given a tone pass beyond the manuscript's.
+So F3 stands. Ch14–15 are where the tone and the ruled climax events pull against each other. On fork K3, bt 7274 chose **(c), shorten Milo's time in danger** (R69). Ch15 now frees him on the try after the strut first slips. The cuts are the second failed lift, the homesick-kitchen impression from a burning page, and the "Again!" before the boot comes free. Every ruled beat is unchanged. The rest of the edition hasn't had a tone pass beyond the manuscript's yet.
 
 ## Leans taken (overrule any)
 

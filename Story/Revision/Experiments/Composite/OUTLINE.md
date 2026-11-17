@@ -45,7 +45,7 @@ Under two days for Ch1–16 (Thursday night to Saturday night), then 25 days for
 
 **14. The frame.** The rejoining frame; "Then no."; "Stop."; Stansbury's Ada Kell speech; the release; the fire; Milo inside. ✚ "one morning" → "on a road last night" (T5). ✚ Three point-of-view slips and one verdict line cut (T8, P4b). ✚ One of the four objections cut (Shade's "result" line) (P3). ✚ "She understood now what he had been asking her for." cut (W1).
 
-**15. The choice.** *Unchanged.* Line 21 (R67); "Go."; the dagger passed; over the diary, past the cookbook; Milo out; "That was the choice."; Shade taken.
+**15. The choice.** ✚ Milo freed one attempt sooner (R69); otherwise unchanged. Line 21 (R67); "Go."; the dagger passed; over the diary, past the cookbook; Milo out; "That was the choice."; Shade taken.
 
 **16. The account.** Triage; UNKNOWN; LIKED POCKETS; the apology list breaks at "Shade" (R66); "I need you not to make me responsible…"; the chair; "Let it be, big cat."; the crying; "Person is the word I have for that." Ends at "…require things from all of them." (R54). ✚ "Loss didn't care much about paperwork." cut (P3). ✚ Mama Baga's three maxims turned into orders (P2). ✚ "For the breakfast she'd never pay back." (H1, paid). ✚ "trouser" ×2.
 
@@ -61,7 +61,7 @@ Under two days for Ch1–16 (Thursday night to Saturday night), then 25 days for
 | --- | --- | --- |
 | K1 Ada and Tess | Kept, and Ada gets one letter (Ch17) | Closes F1 at its root: the first person wronged sets her own terms, and refuses restitution |
 | K2 Shade's end | Death at Camp | Ruled |
-| K3 the Sunday promise | **Open, for bt 7274** | R24 and R68 take the tone, so the brace promise applies. Ch14–15 are unchanged until he picks (a), (b) or (c) on the [harvest map](../../Emergence/HARVEST-2026-11-17-Three-Versions.md#k3-does-the-sunday-promise-hold-in-ch1415). See the [README](README.md#the-sunday-morning-tone-corrected-2026-11-17) |
+| K3 the Sunday promise | **(c): shorter danger for Milo** (R69) | R24 and R68 take the tone, so the brace promise applies. Ch15 frees Milo one attempt sooner; the events are unchanged. See the [README](README.md#the-sunday-morning-tone-corrected-2026-11-17) |
 | K4 who records Shade | Camp (LIKED POCKETS) | Lean, weak. Shade's notebook stays home |
 | K5 owing | Half chain | Ch9 written → Ch12 given → Ch15 burned → Ch16 "never pay back". No Ch2 change |
 | K6 her habit | Caregiving control | The manuscript's; it matches his flaw |
