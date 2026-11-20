@@ -172,3 +172,15 @@ Asked whether Elizabeth's increased activity should arrive gradually in a planne
 **Important provenance warning from the author:** Much or most of the earlier revision work was **AI-assisted**. The author is not claiming to know precisely why every change was made or what goals the assisting models pursued. It is therefore inappropriate to infer that an existing scene's rationale was *his original intent* merely because the scene is present or was approved as part of a revision. Likewise it would be wrong to claim every AI-assisted edit was imposed without his consent; the decisions ledger includes explicit author selections. For each contested beat distinguish (1) original draft evidence, (2) documented AI suggestion or explanation, (3) the author's recorded choice if any, (4) demonstrable on-page effect, and (5) **unknown motivation**. Assess the scene's creative merits and logical consequences independently.
 
 **Status:** Scene #2 remains OPEN, current manuscript unchanged; no new R-number or rule about Elizabeth's plot has been adopted. The review will continue to ask what feels true to the author now rather than treating the current revision as automatically authoritative for future creative direction.
+
+## 11. Non-negotiable #2 — Elizabeth's instinct to help Pathwell (2026-11-20)
+
+When asked whether Elizabeth's rescue of Pathwell in the existing bar blob sequence feels natural or arranged to give her a heroic moment, the author answered:
+
+> it feels like something anyone would do in that situation. By now she somewhat likes the guy, and seeing him swallowed by a blob her instincts (even to her surprise) is to help him
+
+**Author's current understanding:** By this point Elizabeth feels some affection for Pathwell. His sudden danger prompts an instinctive response; she surprises herself by helping. The act need not be contrived as a moral demonstration or a measured milestone in a predetermined agency progression. This is an **author-endorsed character motivation for the existing rescue**, not a new required line or a declaration that the entire present bar sequence is optimal.
+
+**Review disposition:** The Elizabeth-rescues-Pathwell beat now has **positive author support** as a believable action. The surrounding scene's loss or preservation of the original bar's strange perceptual escalation remains open for comparison. A future version need not treat the original hallucination sequence and the current instinctive rescue as mutually exclusive, but no combined scene has yet been approved. No changes to canonical prose, locked scenes, or world rules.
+
+**Next useful question:** How does the suspense, dread and disorientation of the present bar/parking-lot sequence compare for the author with the original scene?
