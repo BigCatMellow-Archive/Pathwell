@@ -14,6 +14,12 @@
 
 To find a lock: search this folder for the question number (`Q112`) or a heading word, and read the newest file that mentions it. The chat sessions that carried the interview between windows are in the [archive](../Archive/README.md) (`Interview-handoffs/`); they're plumbing, not rulings.
 
+## November 2026 author-led goals interview
+
+- [**2026-11-19–20: Thesis and pruning interview**](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) — **story-focused, non-verbatim conversation record**. Author's direct creative statements, corrections of the assistant, first decisions, and open questions. Because the repository is public, sensitive autobiographical comparisons are paraphrased instead of republished verbatim.
+- [**Exploratory review guardrails**](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md) — the current review method, anti-overliteralization safeguards, statuses, and resume point.
+- This **does not replace or retroactively rewrite** the August locked interview. Existing 18-chapter commitments remain intact unless the author separately reopens them.
+
 ## After the interview
 
 - The chapters were rewritten to these locks on 2026-08-28. Where the chapters still don't follow a lock, the revision's [Decisions](../Revision/Decisions.md#the-bible-interview-locks-the-manuscript-doesnt-yet-follow) lists it.

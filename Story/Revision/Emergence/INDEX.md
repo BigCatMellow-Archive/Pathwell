@@ -4,6 +4,11 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
+## Thesis/pruning interview checkpoint (2026-11-19–20)
+
+- [**Author-led thesis and pruning interview**](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) — story-focused conversation record: what the author was exploring through Elizabeth, decision to let the story live in questions (R71), pruning's narrator-awareness origin, why Shade's narrator interaction changed, the feeling of fate's pull, and the explicit warning against overliteral interpretation. Personal examples are summarized rather than copied in unnecessary detail because the repository is public.
+- [**Exploratory review guardrails**](EXPLORATORY-GUARDRAILS-2026-11-20.md) — compact author-facing continuation rules, clear status distinctions (author decisions versus working interpretations versus open mechanics), one question at a time, and no unapproved canon/manuscript changes. **Paused on non-negotiable scene #1**, not a new outline or rewrite.
+
 ## Author's creative-recovery conversation (2026-11-17)
 
 - [**Author conversation and reflections**](AUTHOR-CONVERSATION-2026-11-17.md) — preserves the author's quotations about losing interest after many AI revisions, discovery-writing/"pantsing", the original Google Doc, pruning's **unsettled** cost, Shade's narrator experiment, and the desire to **eventually** outline again as a gardener in the 10Kings Sunday Morning Stories tone. **Conversation/evidence only; no new canon, author picks or chapter edits.**
