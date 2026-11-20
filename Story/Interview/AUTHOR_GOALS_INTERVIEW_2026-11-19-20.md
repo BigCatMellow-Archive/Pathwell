@@ -196,3 +196,17 @@ Asked specifically whether the original sequence's strange noises, unreliable re
 **Provisional disposition:** **Keep the idea of Elizabeth instinctively rescuing Pathwell** as a credible action motivated by her growing affection; do **not** require restoration of the original bar hallucination. Other specifics of the blob, dagger, timing, stagecraft, and the whole scene remain subject to the eventual scene/outline review. No canonical file has been modified.
 
 **Next interview item:** Non-negotiable scene #3 — Elizabeth gives Nana's cookbook to heal a stranger at Camp.
+
+## 13. Non-negotiable #3 — Nana's cookbook and whether the sacrifice is earned (2026-11-20)
+
+Asked what interested him about Elizabeth giving the family cookbook to heal a nearly unknown injured woman at Camp, the author said:
+
+> It was supposed to be her giving up her past to move forward, which still might feel like it happened too quick, unless the reason there is something that can have the reader feel / understand why she did it. Like Mama Baga treats her in a way that reminds her of her grandmother, maybe something intangible like the way she looks at her
+
+**Author's intent and doubt:** The sacrifice was imagined as Elizabeth *giving up her past to move forward*. The author is not confident the current timing and motivation make this credible. He proposed **subtle, emotionally familiar treatment from Mama Baga**—perhaps only the way she looks at Elizabeth—as a possible bridge. This is a **candidate**, not an approved replacement beat or a requirement for an explicit Nana comparison.
+
+**Source check:** In [current Chapter 4](../Chapters/Chapter_04.txt), Mama Baga notices Elizabeth's exhaustion, offers tea, sees her without pressing for answers ("I wasn't only thinking of tonight"; "But I can get to know you"), and watches quietly as she offers the cookbook. Elizabeth initially refuses to give even a page, remembers Nana's chicken-and-dumplings care, then reverses herself. The healer says **only the page is needed**, but Elizabeth insists on giving the entire cookbook, explaining that holding on to it might make her rationalize refusing that page. Mama Baga receives the book in both hands and later touches Elizabeth's shoulder. These existing elements mean some tenderness and hesitation are already on the page. They do **not** by themselves prove that the whole-book sacrifice feels earned to a reader.
+
+**Assistant's cautious counter-interpretation (not author ruling):** Giving the book away need not literally mean relinquishing Nana or repudiating the past; it could also mean allowing the care Nana gave Elizabeth to reach another person. Do not turn that option into a predetermined "lesson" or automatically rewrite the scene to advertise its symbolism.
+
+**Disposition: OPEN — potential keep of the sacrifice, pending emotional/causal credibility.** Keep both creative effect and mechanical plausibility under review. No new canonical ruling; no chapter edits.
