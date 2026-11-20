@@ -156,3 +156,15 @@ The **next substantive step** is an author-led review of the *proposed classific
 **Scope boundary:** No selection yet about which story beats, magic restrictions, character histories or ending should be retained in a new outline. This decision is recorded for the interview and any possible fresh development. Existing author locks and the current manuscript are preserved until separately reconsidered. No change to the text of the current Thesis page has been authorized or made.
 
 **Next interview item:** Review the [Non-Negotiable Scenes](../../../Non-Negotiable-Scenes.md) sequentially, starting with #1 (early casual prune). Only one question at a time.
+
+### 2026-11-20 — Non-negotiable #1: author recalls why pruning was invented (OPEN, not a decision)
+
+**Author's direct account:**
+
+> I thought about it for a bit and I think the pruning was a result of the need for an explanation of how Shade could hear the narrator. The idea that reducing your possible futures would eventually make it so you only had one path and that let Shade hear the narrator. So I built the prune screen to explain how he was giving away his futures. I was doing this on the fly so it might not make sense
+
+**Source check:** The [archived *Pathwell Working* manuscript](../../Archive/Manuscript/Pathwell-Working-GoogleDoc-2026-11-17.txt) has (a) the tree-of-branches pruning transaction at roughly lines 1138–1150, with extinguished voices of "memories never made"; (b) a Chapter 4 planning note at roughly lines 1153–1155 saying Pathwell begins to hear the narrator as his potential/free will diminishes; (c) Shade directly addressing the narrative voice after the car wreck (roughly line 1519); (d) a character conversation about hearing the narrator (around 1746); and (e) Shade confronting Pathwell about hearing the voice and the future being already narrated (around 1808). **The creative connection is documented; the actual composition chronology cannot be proven from the snapshot.** The same working snapshot opens with an alternative "selling his past, not his potential" note, so it contains evolving experiments, not one unchanging rule.
+
+**Review implication:** The early prune in [Non-Negotiable Scenes #1](../../../Non-Negotiable-Scenes.md) may have developed as *support for the narrator-aware Shade invention*, rather than as an independently conceived thesis about agency. This does not mean pruning was a mistake; it means the reason to retain the scene should be tested against the future story's creative ambitions, rather than assumed by the current doctrine that every scene must demonstrate an argument.
+
+**Status:** Author has **not yet decided** whether narrator awareness, pruning, or Non-Negotiable #1 belongs in the possible fresh version. No magic rule, scene requirement, timeline, or chapter has been changed. The interview should follow the author's actual point of fascination before asking him to choose a mechanism.
