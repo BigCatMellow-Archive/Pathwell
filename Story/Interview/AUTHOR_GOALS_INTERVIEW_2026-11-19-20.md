@@ -134,3 +134,17 @@ When asked whether **some version of this moment** should survive even if the ex
 > I think so, it feels like a solid idea
 
 **Disposition — PROVISIONAL KEEP, not a formal revised scene lock:** The author currently favors preserving the threshold experience in some form. **Not established:** that the prune must have exactly these steps, that its magic is fixed, that the book/roots/tree must be retained word-for-word, or that the other parts of scene #1 (Camp order, old debt) are indispensable. The current 18-chapter manuscript and existing Non-Negotiable Scenes list remain untouched. Resume review with scene #2.
+
+## 8. Non-negotiable #2 — the author corrects the origin of the bar rescue
+
+Asked why Elizabeth rescues Pathwell from a bar blob, the author clarified:
+
+> Well that was actually a change made with the help of AI, what I originall had was Elizabeth went into the bar with them, and things got weird, and weirder, until she fell into the darkness of the backhall and Pathwell pulled her out of the blob as it turned out she was attacked on her way into the bar
+
+**Source check, not assistant recollection:** [The original identified first draft](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), around its bar scene, follows Elizabeth through thuds that seem to come from a bartender crushing mint, an abrupt darkness and loss of familiar people, a hallway that seems to have no bottom, and Pathwell pulling her into the daylight. **Important detail:** In the ensuing struggle with the blob around the car, Elizabeth uses a foam dagger to help **Stansbury**, who is being engulfed. So the original did not eliminate Elizabeth's ability to act; the later change moves the rescue to Pathwell.
+
+**Current canonical staging:** [Chapter 6](../Chapters/Chapter_06.txt) retains ordinary bar time, family banter, a thud, and mounting unease; [Chapter 7](../Chapters/Chapter_07.txt) moves the principal blob rescue outside to the parking lot, has the blob catch **Pathwell**, and makes **Elizabeth** cut him free with the dagger.
+
+**Review implication:** This is a **substantive AI-assisted revision to scene design**, not merely the author originally wishing for a neat demonstration of agency. The comparison should evaluate the early draft's escalating perceptual wrongness and disorienting reveal, the changed roles, and the current scene's clear stakes. Don't presume the later role reversal is better because Elizabeth directly rescues Pathwell. Don't presume the earlier draft is better merely because it came first. **No preference or canon change selected yet.**
+
+**Next interview question:** What did the author feel was lost or gained by relocating the danger and changing who Elizabeth rescues?
