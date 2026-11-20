@@ -114,3 +114,23 @@ This record and the [exploratory review guardrails](../Revision/Emergence/EXPLOR
 **Unaffected:** Canonical Chapter 1–18 prose, the existing thesis page as the historical/current-version target, non-negotiable list, world/character bibles, and the Composite experiment. **No new outline or rewriting authorized.**
 
 **Resume point:** Non-negotiable #1, the early pruning scene. First understand what the author enjoys about the current device and scene, without demanding mechanical definitions or an answer to the novel's question. Do not re-ask questions settled above.
+
+## 7. Resumed review: what the early prune does for Elizabeth (2026-11-20)
+
+When asked whether to evaluate scenes for creative interest or mechanical coherence, the author answered:
+
+> Both, why not
+
+**Method refinement:** Review for both imaginative/emotional effect **and** narrative soundness; do not pretend these are mutually exclusive or require every mechanism to be exhaustively described. This is a review preference, not a newly added magical rule.
+
+Asked what the early pruning scene offers the reader, the author explained:
+
+> I think its final step in Elizabeth choosing to see how deep the rabbit hole goes, so to speak. Everything up to this point has been disorienting, and then she sees this thing happen, roots coming from a book, twisting their way into Pathwells arm, and a tree appears and branches burn. And the normality that the characters have. She sees all this, and she has the choice to go home, or go on. Its this violent, painful, frightful experience and all it does is pull you in to want to know more about this world
+
+**Author's creative interest:** the alarming sensory spectacle, its casual acceptance by people accustomed to the world, Elizabeth's chance to turn back or follow the mystery, and the reader's desire to discover what else this world contains. The scene has a valuable **threshold / invitation into the unknown** function independent of treating pruning as proof of a thesis.
+
+When asked whether **some version of this moment** should survive even if the exact mechanics of pruning change, the author replied:
+
+> I think so, it feels like a solid idea
+
+**Disposition — PROVISIONAL KEEP, not a formal revised scene lock:** The author currently favors preserving the threshold experience in some form. **Not established:** that the prune must have exactly these steps, that its magic is fixed, that the book/roots/tree must be retained word-for-word, or that the other parts of scene #1 (Camp order, old debt) are indispensable. The current 18-chapter manuscript and existing Non-Negotiable Scenes list remain untouched. Resume review with scene #2.

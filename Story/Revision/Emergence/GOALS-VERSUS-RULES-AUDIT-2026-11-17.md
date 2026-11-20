@@ -180,3 +180,11 @@ The author clarified the analogy for pruning's pull. Choosing a drink by accumul
 ## Pause checkpoint — November 20 interview preserved
 
 The complete **story-relevant sequence** of the 2026-11-19–20 author-led thesis/pruning interview is preserved as a **faithful, non-verbatim conversation record** in [Author Goals Interview](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), alongside a concise [Exploratory Review Guardrails](EXPLORATORY-GUARDRAILS-2026-11-20.md) page. This review queue is **paused at non-negotiable scene #1**; none of scenes #1–10 has been approved for retention/removal in a hypothetical new book. [R71](../Decisions.md#the-authors-rulings-for-this-revision) governs the thesis as a possibility for new exploration; [R72](../Decisions.md#the-authors-rulings-for-this-revision) reconfirms anti-overliteralization and one-question-at-a-time interviewing. No production changes.
+
+### 2026-11-20 — Non-negotiable #1 follow-up: provisional keep of the threshold experience
+
+The author explicitly rejected a creative-versus-mechanical false choice: **"Both, why not"**. Review each scene for its imaginative/emotional attraction **and** whether its causal logic works for the novel, without demanding excessive literalization.
+
+The author described the early prune as Elizabeth's final decision point before stepping farther into the rabbit hole: the book's roots invade Pathwell's arm, the tree appears and its branches burn, while the surrounding characters regard the frightening transaction as routine. Elizabeth can go home, or go on. The contrast, visual spectacle, and horror chiefly **increase curiosity about this world**. This is the author's described appeal, not a claim that the spectacle is simply a symbolic lesson about choice.
+
+Asked whether some version of that scene should remain even if mechanics evolve, he said: **"I think so, it feels like a solid idea"**. **Classification: PROVISIONAL KEEP — threshold function, not necessarily every listed beat or the fixed pruning mechanic.** No hard new lock or canon change. The original ten-scene review now advances to **scene #2 (Elizabeth cuts Pathwell out of the bar blob)**. See [author interview §7](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#7-resumed-review-what-the-early-prune-does-for-elizabeth-2026-11-20).
