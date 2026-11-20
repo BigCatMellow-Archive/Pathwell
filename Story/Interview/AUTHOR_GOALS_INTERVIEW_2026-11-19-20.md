@@ -184,3 +184,15 @@ When asked whether Elizabeth's rescue of Pathwell in the existing bar blob seque
 **Review disposition:** The Elizabeth-rescues-Pathwell beat now has **positive author support** as a believable action. The surrounding scene's loss or preservation of the original bar's strange perceptual escalation remains open for comparison. A future version need not treat the original hallucination sequence and the current instinctive rescue as mutually exclusive, but no combined scene has yet been approved. No changes to canonical prose, locked scenes, or world rules.
 
 **Next useful question:** How does the suspense, dread and disorientation of the present bar/parking-lot sequence compare for the author with the original scene?
+
+## 12. Scene #2 — original bar atmosphere not required (2026-11-20)
+
+Asked specifically whether the original sequence's strange noises, unreliable reality, and dark hallway were important to preserve **regardless of who needs rescuing**, the author replied:
+
+> not really
+
+**Interpretation limited to the question asked:** The author does **not** consider that original atmosphere an independently necessary feature of the future version. This is **not** a claim that he dislikes the first draft, wants all of its bar details removed, or has endorsed every line of the current revision.
+
+**Provisional disposition:** **Keep the idea of Elizabeth instinctively rescuing Pathwell** as a credible action motivated by her growing affection; do **not** require restoration of the original bar hallucination. Other specifics of the blob, dagger, timing, stagecraft, and the whole scene remain subject to the eventual scene/outline review. No canonical file has been modified.
+
+**Next interview item:** Non-negotiable scene #3 — Elizabeth gives Nana's cookbook to heal a stranger at Camp.

@@ -206,3 +206,7 @@ Author on Elizabeth becoming more active: **"I think the second one"** (i.e., he
 ### 2026-11-20 — Scene #2 author motivation: instinctive rescue, not imposed heroic proof
 
 Asked whether Elizabeth saving Pathwell feels natural, the author answered that she **somewhat likes him by now**, and when the blob swallows him, she helps instinctively, surprising even herself. **Classification: positive support for retaining the *rescue action*** as character-driven, not a mandated agency beat. This does not automatically approve the entire current bar/parking-lot sequence, and the original's increasingly surreal bar and hallway remain artistically relevant. Continue assessing both imaginative effect and internal coherence. [Author interview §11](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#11-non-negotiable-2--elizabeths-instinct-to-help-pathwell). No manuscript edits.
+
+### 2026-11-20 — Scene #2: author's answer on preserving the original atmosphere
+
+Asked whether the original bar's thuds, surreal disorientation, and dark hallway needed to be preserved regardless of rescue roles, author: **"not really"**. Read that narrowly: the original atmosphere is **not a requirement**, not that the author necessarily dislikes it. Combined with his preceding support for Elizabeth instinctively helping Pathwell, the **core rescue earns a provisional keep** while specific scene mechanics/staging are still open. The current canon remains unchanged. Review moves to **Non-Negotiable #3: Elizabeth's cookbook given to heal a stranger**.
