@@ -210,3 +210,15 @@ Asked what interested him about Elizabeth giving the family cookbook to heal a n
 **Assistant's cautious counter-interpretation (not author ruling):** Giving the book away need not literally mean relinquishing Nana or repudiating the past; it could also mean allowing the care Nana gave Elizabeth to reach another person. Do not turn that option into a predetermined "lesson" or automatically rewrite the scene to advertise its symbolism.
 
 **Disposition: OPEN — potential keep of the sacrifice, pending emotional/causal credibility.** Keep both creative effect and mechanical plausibility under review. No new canonical ruling; no chapter edits.
+
+## 14. Non-negotiable #3 — retaining favorite pages (2026-11-20)
+
+After considering what the reader might feel when Elizabeth gives up Nana's cookbook, the author proposed:
+
+> Maybe she stops and takes out a page or two of her favorites?
+
+**Status: CANDIDATE, not yet an approved text change or magic rule.** Elizabeth might deliberately keep one or two personally treasured recipe pages before giving the remaining book to Camp's healer/archive. This could make a very large early sacrifice feel more psychologically plausible and preserve a tangible connection with Nana rather than making "moving forward" require total severance. The physical gesture could communicate the emotion without explanatory dialogue.
+
+**Continuity and craft checks before any rewrite:** Current Chapter 4's healer says the magic requires only one page, while Elizabeth volunteers the whole cookbook. Distinguish the **healing page** from Elizabeth's **kept favorites**, and preserve the cost of giving the rest away; a small keepsake should not make the sacrifice feel costless. Current Chapters 14–15 burn Nana's cookbook in the archive fire, so preserved pages would alter (not necessarily invalidate) the later loss and the existing thesis's image of leaving the cookbook behind. Review those downstream effects with the author. No scene, canon, or thesis edit authorized here.
+
+**Next single interview question:** Should Elizabeth herself decide to set aside the favorite pages, or should Mama Baga gently offer the possibility?
