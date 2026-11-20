@@ -160,3 +160,15 @@ Asked what was lost or gained from changing the bar blob encounter, the author a
 **Editorial distinction (not author ruling):** Having agency does not require Elizabeth to rescue somebody in every scene; being vulnerable or rescued is not in itself a failure of characterization. The original draft already includes Elizabeth using a dagger to help Stansbury after Pathwell saves her. The revised version's more direct Elizabeth-rescues-Pathwell beat and the original bar's rising surreal dread should be judged for what they contribute to story, pacing, character, and pleasure—not a blanket preference for either activity or passivity.
 
 **Status:** Scene #2 remains OPEN in the prospective exploratory version; current canonical scene remains untouched.
+
+## 10. Non-negotiable #2 — surprise, spontaneity, and revision provenance (2026-11-20)
+
+Asked whether Elizabeth's increased activity should arrive gradually in a planned progression or sometimes surprise her before she understands why, the author said:
+
+> I think the second one, mind you most if not all the revision changes came with the help of AI. So it might have had different goals, or made changes that I might not understand fully.
+
+**Author preference, not a prescribed character beat:** Elizabeth can **surprise herself by acting decisively**; a gradual, pre-plotted ladder of agency is not required. This does not demand impulsive heroics or prove that any particular rescue scene works.
+
+**Important provenance warning from the author:** Much or most of the earlier revision work was **AI-assisted**. The author is not claiming to know precisely why every change was made or what goals the assisting models pursued. It is therefore inappropriate to infer that an existing scene's rationale was *his original intent* merely because the scene is present or was approved as part of a revision. Likewise it would be wrong to claim every AI-assisted edit was imposed without his consent; the decisions ledger includes explicit author selections. For each contested beat distinguish (1) original draft evidence, (2) documented AI suggestion or explanation, (3) the author's recorded choice if any, (4) demonstrable on-page effect, and (5) **unknown motivation**. Assess the scene's creative merits and logical consequences independently.
+
+**Status:** Scene #2 remains OPEN, current manuscript unchanged; no new R-number or rule about Elizabeth's plot has been adopted. The review will continue to ask what feels true to the author now rather than treating the current revision as automatically authoritative for future creative direction.
