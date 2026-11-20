@@ -148,3 +148,15 @@ Asked why Elizabeth rescues Pathwell from a bar blob, the author clarified:
 **Review implication:** This is a **substantive AI-assisted revision to scene design**, not merely the author originally wishing for a neat demonstration of agency. The comparison should evaluate the early draft's escalating perceptual wrongness and disorienting reveal, the changed roles, and the current scene's clear stakes. Don't presume the later role reversal is better because Elizabeth directly rescues Pathwell. Don't presume the earlier draft is better merely because it came first. **No preference or canon change selected yet.**
 
 **Next interview question:** What did the author feel was lost or gained by relocating the danger and changing who Elizabeth rescues?
+
+## 9. Non-negotiable #2 — why the role reversal was attractive (2026-11-20)
+
+Asked what was lost or gained from changing the bar blob encounter, the author answered:
+
+> I dont know, I think it does make sense for Elizabeth act more than have things happen to her. I think that was one of the main focuses in the revisions
+
+**Author's reflection:** Increasing Elizabeth's participation rather than having extraordinary events simply happen to her was a central focus of prior revisions, and he still sees value in that goal. He has **not** declared the original or revised bar sequence the winner or ruled that the change damaged the book.
+
+**Editorial distinction (not author ruling):** Having agency does not require Elizabeth to rescue somebody in every scene; being vulnerable or rescued is not in itself a failure of characterization. The original draft already includes Elizabeth using a dagger to help Stansbury after Pathwell saves her. The revised version's more direct Elizabeth-rescues-Pathwell beat and the original bar's rising surreal dread should be judged for what they contribute to story, pacing, character, and pleasure—not a blanket preference for either activity or passivity.
+
+**Status:** Scene #2 remains OPEN in the prospective exploratory version; current canonical scene remains untouched.
