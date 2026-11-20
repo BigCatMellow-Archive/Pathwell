@@ -142,3 +142,17 @@ These are the places where a future outline would likely change most depending o
 - **No action authorized or taken:** changing [Decisions](../Decisions.md), [Thesis](../../../Thesis-and-Controlling-Ideas.md), [Non-Negotiables](../../../Non-Negotiable-Scenes.md), [bibles](../../Story_Files/), [contracts](../../Story_Files/PATHWELL_MAPS_L_CHAPTER_CONTRACT_MATRIX_2026-08-28.md), [canonical chapters](../../Chapters/), or the Composite experiment.
 
 The **next substantive step** is an author-led review of the *proposed classifications*, beginning with **the Thesis page** and then **Non-Negotiable Scenes 1–10**, one choice at a time if desired. Only after the author makes explicit new rulings should the authoritative pages be revised, with superseded versions preserved and the current novel kept separate from any new exploration.
+
+## Interview dispositions — author decisions
+
+### 2026-11-19 — Thesis review: conclusions are hypotheses, not predetermined truths
+
+**Author's exact answer:**
+
+> Let's treat all of its conclusions as possibilities the story is free to explore, question, or even contradict
+
+**Decision ([R71](../Decisions.md#the-authors-rulings-for-this-revision)):** For the **future, question-led development of Pathwell**, the existing [Thesis and Controlling Ideas](../../../Thesis-and-Controlling-Ideas.md) should be read as possible interpretations to explore, **not conclusions the story is required to prove**. This includes its account of freedom, control, action, and Elizabeth's mattering; the instruction that every scene must argue for or against the thesis is **not a design requirement for the exploratory version**. The author wants to discover meaning through Elizabeth rather than prescribe answers in advance. This is not a decree that the story must never arrive at an answer, or that it must negate the old thesis.
+
+**Scope boundary:** No selection yet about which story beats, magic restrictions, character histories or ending should be retained in a new outline. This decision is recorded for the interview and any possible fresh development. Existing author locks and the current manuscript are preserved until separately reconsidered. No change to the text of the current Thesis page has been authorized or made.
+
+**Next interview item:** Review the [Non-Negotiable Scenes](../../../Non-Negotiable-Scenes.md) sequentially, starting with #1 (early casual prune). Only one question at a time.
