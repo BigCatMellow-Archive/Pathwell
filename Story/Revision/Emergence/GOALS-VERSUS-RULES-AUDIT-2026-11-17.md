@@ -168,3 +168,11 @@ The **next substantive step** is an author-led review of the *proposed classific
 **Review implication:** The early prune in [Non-Negotiable Scenes #1](../../../Non-Negotiable-Scenes.md) may have developed as *support for the narrator-aware Shade invention*, rather than as an independently conceived thesis about agency. This does not mean pruning was a mistake; it means the reason to retain the scene should be tested against the future story's creative ambitions, rather than assumed by the current doctrine that every scene must demonstrate an argument.
 
 **Status:** Author has **not yet decided** whether narrator awareness, pruning, or Non-Negotiable #1 belongs in the possible fresh version. No magic rule, scene requirement, timeline, or chapter has been changed. The interview should follow the author's actual point of fascination before asking him to choose a mechanism.
+
+### 2026-11-20 — Pruning as an intensifying impulse (author clarification; not yet canonical revision)
+
+The author clarified the analogy for pruning's pull. Choosing a drink by accumulated preference is a weak example; the more pertinent experience is an impulse or habit that one **can resist**, but which becomes harder to resist as giving in brings short-term ease or relief. He described finding himself on autopilot getting a snack he had not intended to eat and compared the experience of resisting impulses to previous experiences around drinking or drug use. This is **the author's explanatory analogy**, not a diagnosis or a claim that magical pruning is literally addiction.
+
+**Creative implication under discussion:** Pruning could strengthen the felt pull toward a specific fate, without straightforwardly eliminating the ability to choose another action or making a character a puppet. Distinguish the subjective growing difficulty of resistance from a hard metaphysical claim that no alternatives exist. No numerical strength, inevitability rule, or character-specific on-page experience has been established. The next interview question is whether Pathwell recognizes that intensifying pull as the cost of pruning at the time or only recognizes a pattern later.
+
+**Scope:** This records the ongoing author interview; no changes to canon, existing Chapter 1–18 text, or non-negotiable scenes.
