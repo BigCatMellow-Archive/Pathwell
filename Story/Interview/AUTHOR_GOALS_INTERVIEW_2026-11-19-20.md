@@ -383,3 +383,17 @@ Asked whether Pathwell casts a protective spell in sudden panic or already has p
 **Editorial tradeoff (assistant lean, not adopted):** Prefer **Pathwell's own reserve page**, allowing a protective instinct without making Elizabeth pay yet again. Using a favorite page she deliberately kept would have a significant character and continuity cost: saving her life by **consuming another irreplaceable choice of hers without her permission**, potentially repeating Pathwell's pattern of managing other people's sacrifices. That is a possible dramatic choice only if intended, not a disposable spell ingredient. Keep Elizabeth's small "Ow," an imperfect rescue, a wrecked vehicle and human responsibility for the crash. No manuscript or canon edits.
 
 **Interview next question:** Is it important to the author that Pathwell's protective spell cost Elizabeth something, or should he spend one of his own reserves?
+
+## 26. Scene #4 — defer spell source until the aftermath is understood (2026-11-23)
+
+Asked to choose whether Pathwell hurries a protection spell using his own reserve page or one of Elizabeth's treasured cookbook pages, the author said:
+
+> Its hard to tell right now, both can work. I think maybe the answer might be in what is awaken in Elizabeth after the accident
+
+**Author's explicit decision about decision-making:** Do **not** lock the spell's source yet. Both versions are artistically plausible; first find out what **the crash wakes in Elizabeth**, and choose the material according to the scene's eventual human/emotional effect. This is a priority to discover consequences and character response before cementing magical mechanism, not a request to prescribe a moral lesson.
+
+**Potential divergent consequences (assistant proposals, not a verdict):** If Pathwell spends **his own** page, Elizabeth may discover his instinctive care despite how dismissively he treats her. If he spends **her saved Nana recipe**, rescue comes intertwined with the loss of a possession Elizabeth deliberately kept, potentially complicating gratitude with anger, grief, and the issue of his deciding on her behalf. In both, Elizabeth made a dangerously reckless threat, and the accident shouldn't become consequence-free. These readings should not be forced into exposition or canonical rules.
+
+**Status:** Scene #4 protection-source choice **DEFERRED**, the crash and repeated line provisional; character experience after the wreck is now the next exploration target. No change to chapters, rulebook, locks, or prior author decisions.
+
+**Next one question:** What do you imagine has changed for Elizabeth when she steps away from the wreck?
