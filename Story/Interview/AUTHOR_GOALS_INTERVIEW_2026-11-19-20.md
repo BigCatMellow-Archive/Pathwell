@@ -253,3 +253,13 @@ Following the pause and the separate sugar-cookie/echo note, the author resumed.
 **Scope:** The exact pages, the scene's execution, the downstream fire consequence, and whether the broader cookbook change will be adopted in the manuscript are not settled. The recipe napkin at the Chinese restaurant remains a separate candidate; the already-existing transient informational/emotional echo stays distinct. No prose/canon change.
 
 **Resume question:** What makes the particular one or two pages Elizabeth saves irreplaceable to her?
+
+## 17. Scene #3 — recipes need not be overjustified (2026-11-23)
+
+Asked why Elizabeth's retained one or two recipe pages would be special, the author resisted treating the question as needing an elaborate causal justification:
+
+> what makes any recipe special? Maybe they were well guarded recipes Nana told her to protect with her life, or just her favorite,
+
+**Author's possibilities, not a selected backstory:** Nana might have affectionately charged Elizabeth with guarding cherished family recipes, or the recipes might simply be Elizabeth's personal favorites. Both are ordinary, sufficient reasons to keep something connected with a loved one. Do **not** insist on a new tragic event, engineered symbolic lesson, or elaborate justification for each page. The precise recipes and Nana's words remain open.
+
+**Scene #3 remains provisional:** Elizabeth initiating the keepsake gesture is the author's preference; the larger timing, emotional bridge, and ramifications for the archive fire remain to be tested. No prose or canon changed.
