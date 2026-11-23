@@ -241,3 +241,15 @@ The author paused the interview immediately after proposing that Elizabeth might
 **Interaction with Scene #3:** If Elizabeth later retains one or two favorite physical pages before giving the rest of the cookbook away, those are **different keepsakes** from the nonmagical napkin transcription of the already-consumed sugar-cookie page. Do not merge the two ideas or mistake this interruption for an answer to whether Elizabeth or Mama Baga suggests saving pages.
 
 **Scope and review state:** Interview paused by author. No manuscript, existing lore, or formal non-negotiable changed. The napkin action is a **candidate worth revisiting** in Chapter 2; the temporary information/emotional echo is **already documented canon**, reaffirmed as a feature the author values. No next interview question until the author asks to resume.
+
+## 16. Resuming Scene #3 — Elizabeth keeps pages by her own instinct (2026-11-23)
+
+Following the pause and the separate sugar-cookie/echo note, the author resumed. Asked whether Elizabeth chooses to save one or two of Nana's favorite recipe pages on her own or Mama Baga suggests it, he answered:
+
+> Its her own instinct
+
+**Author selection inside the still-exploratory idea:** If Elizabeth saves one or two pages before giving away the rest of the cookbook, **the initiative is hers**. Mama Baga may still remind Elizabeth of Nana through familiar kindness or attention, but she does not direct or propose this act. This preserves Elizabeth making both choices herself: what she gives to help the injured stranger, and what she keeps as a personal connection.
+
+**Scope:** The exact pages, the scene's execution, the downstream fire consequence, and whether the broader cookbook change will be adopted in the manuscript are not settled. The recipe napkin at the Chinese restaurant remains a separate candidate; the already-existing transient informational/emotional echo stays distinct. No prose/canon change.
+
+**Resume question:** What makes the particular one or two pages Elizabeth saves irreplaceable to her?
