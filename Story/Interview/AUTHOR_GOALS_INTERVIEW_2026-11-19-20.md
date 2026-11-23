@@ -369,3 +369,17 @@ Asked what Elizabeth feels immediately after the crash, the author replied:
 **Assistant's lean:** A brief, imperfect protection focused on Elizabeth could add warmth and reveal something of Pathwell's feeling for her, while preserving their interpersonal tension. However, if the crash is reduced in severity as the author had earlier considered, ordinary seatbelts might suffice; magic should not exist solely to make a hazardous choice consequence-free. Both are options until the author selects staging.
 
 **Status:** SCENE #4 OPEN. No manuscript, bible, or locked ruling edited.
+
+## 25. Scene #4 — hurried Pathwell cast, two possible sources (2026-11-23)
+
+Asked whether Pathwell casts a protective spell in sudden panic or already has protection prepared, the author answered:
+
+> he sees the car getting ready to crash and hurries a spell, maybe from reserves or he grabs one of elizabeths pages that she held on to from the old cook book
+
+**Author's current picture:** Pathwell recognizes the imminent collision and **hurries an improvised working in response**. It is not a preloaded shield. The **source is open**: (A) a suitable original charged page from his own reserves; (B) one of the one or two beloved physical cookbook pages Elizabeth might have chosen to save earlier at Camp. The latter depends on a **separate still-unapplied candidate** from Scene #3, so do not assume Elizabeth currently carries those pages.
+
+**Verified magic constraints:** [World bible](../Story_Files/world_bible.md#charge-meaning-and-effect) allows protection from authentic text whose emotional context fits care/protection; [direct contact / consumption](../Story_Files/world_bible.md#sensing-and-contact) requires the activating practitioner to touch the original and consumes the page. It cannot be a reusable instantaneous gesture without physical source, cost, and credible casting time. [Current Chapter 8](../Chapters/Chapter_08.txt) has Pathwell in the back seat, so physically stealing/reaching pages carried by the driver during the few seconds before impact would need credible blocking.
+
+**Editorial tradeoff (assistant lean, not adopted):** Prefer **Pathwell's own reserve page**, allowing a protective instinct without making Elizabeth pay yet again. Using a favorite page she deliberately kept would have a significant character and continuity cost: saving her life by **consuming another irreplaceable choice of hers without her permission**, potentially repeating Pathwell's pattern of managing other people's sacrifices. That is a possible dramatic choice only if intended, not a disposable spell ingredient. Keep Elizabeth's small "Ow," an imperfect rescue, a wrecked vehicle and human responsibility for the crash. No manuscript or canon edits.
+
+**Interview next question:** Is it important to the author that Pathwell's protective spell cost Elizabeth something, or should he spend one of his own reserves?
