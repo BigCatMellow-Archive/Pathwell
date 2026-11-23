@@ -294,3 +294,15 @@ By contrast, in **current Chapter 8**, "Elizabeth chose the ditch," consciously 
 **Assistant evaluation, not author ruling:** The original threat-that-goes-wrong may offer a more humanly credible escalation than deliberately wrecking a vehicle merely to make the brothers answer, but it still puts others in danger and needs credible motivation. The opening/midpoint repetition "It was the crash that woke her" remains the clearly stated creative constant; the old future-Pathwell Shade mechanism is historical, not current canon.
 
 **Disposition:** Re-evaluate **threat / escalating pressure / unintended impact** as a candidate structural alternative under the current story's Shade mechanics, without automatically restoring the original motivations or approving this as the final solution. Current text and formal locks untouched. **Next question:** Does the author want to preserve the threat-that-slips-out-of-control pattern in a future version, or was this purely clarification of the original?
+
+## 20. Scene #4 — bluff and intimidation are both present (2026-11-23)
+
+Asked whether Elizabeth genuinely means to frighten the brothers with reckless driving or is bluffing and surprised when they take her threat seriously, the author answered:
+
+> a little column a, a little column b
+
+**Narrowly interpreted:** These are **not exclusive**. Elizabeth may deliberately frighten the brothers into paying attention, while bluffing about her willingness to **actually crash**. She expects to be able to recover control and is surprised when the danger becomes real. Her recklessness is intentional; the actual collision need not be.
+
+**Assistant's proposed shape, not adopted staging:** frustrated demand → intentionally unsettling swerve/threat → an unexpectedly failed correction → genuine fear → unintended collision. This would retain the literal/symbolic “It was the crash that woke her” echo without celebrating the dangerous choice as a triumph. The author has endorsed the mixed psychology, not a particular swerve, dialogue, road geometry, or final scene.
+
+**OPEN:** What the revised story makes important enough for Elizabeth to attempt the threat, now that the older draft's future-Pathwell meeting premise has been retired. Existing manuscript and rulings unchanged.
