@@ -430,3 +430,26 @@ Asked whether Elizabeth continues demanding answers immediately after the crash,
 **Craft consequence (assistant interpretation only):** A forced abduction immediately after Elizabeth's attempt to seize the wheel creates ironic loss of control and disrupts the need for a formal post-crash discussion. A chosen ride gives her a further self-directed action, but could make an over-linear "agency ladder." Neither has to be a predetermined lesson.
 
 **Review status:** Scene #4 aftermath and transition into Scene #5 OPEN. Keep the protected crash-line echo; page source for Pathwell's hurried rescue remains deferred. No chapter/canon changes. **Next interview question:** Does the author want Shade to take Elizabeth against her will as in the original draft, or does the revised voluntary departure feel closer to what he wants now?
+
+## 29. Crash aftermath — disoriented Elizabeth leaves with Shade while brothers are incapacitated (2026-11-23)
+
+Asked whether Shade physically abducts Elizabeth as in the first draft or whether she makes a fully informed choice to accompany him as in the current manuscript, the author proposed a **third version**:
+
+> i think the idea is that she is disoriented and gets into the car while concussed and the other two are out of commission. When they come to and realize elizabeth is gone thats when they go looking for her
+
+**Author's proposed staging (distinct from both extant versions):**
+- Elizabeth's reckless bluff has ended in an **unintended collision**. The author envisages her disoriented / potentially concussed afterward, not capable of the measured, clear-eyed decision in the current Chapter 8.
+- **Pathwell and Stansbury are temporarily out of commission** when Shade arrives and takes Elizabeth away; they do **not** see her leave or consent to her departure. The precise extent of their injuries, unconsciousness, and recovery time has not been fixed.
+- Elizabeth **gets into Shade's car** rather than being physically dragged or restrained as in the first draft, but this is **not a clearly informed or free decision** in her impaired state. Shade's role as active manipulator versus opportunistic stranger remains unselected.
+- **When Pathwell and Stansbury recover and discover Elizabeth missing, they set out to find her**, allowing the diner sequence to develop while they pursue.
+
+**Verified manuscript conflicts/dependencies:**
+- [Current Chapter 8](../Chapters/Chapter_08.txt) has both brothers conscious, standing with Elizabeth, and participating in a long roadside revelation in which Shade **names himself** and discusses his relation to Pathwell. Elizabeth knowingly enters Shade's car while they watch her go. This whole roadside staging would be affected, not just the transition line.
+- [Current Chapter 9](../Chapters/Chapter_09.txt) assumes she consciously chose Shade's back seat, understands that Shade is another man, exchanges questions about Pathwell with Shade while driving, and voluntarily enters the diner. The author-proposed change would require reconsidering this continuity, including the prior [diner-recognition scene #5](../../../Non-Negotiable-Scenes.md), whose target is that Elizabeth realizes he isn't Pathwell **at the diner**.
+- The original [first draft](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt) has an explicit forced magical abduction; it should not be copied wholesale in place of this new proposal.
+- No assurance of rapid recovery from a real concussion should be assumed: symptoms, risk, and Elizabeth's subsequent functioning would require believable follow-through if this scenario is used. This is craft realism, not new magical canon.
+- Connection to Scene #4's proposed **hurried Pathwell protection** remains open: a partial shield could explain Elizabeth being relatively functional compared with the brothers, without making everyone unharmed or removing the consequential injury.
+
+**Status:** A clear author-proposed *third scene shape*, not yet a prose edit or a settled choice about Shade's apparent identity. The previous unresolved fork (literal kidnapping versus fully voluntary departure) should no longer be presented as exhaustive. Review now naturally crosses into **Scene #5 and its diner recognition**, without rushing to settle the protection-page source.
+
+**Next interview question (one at a time):** In her confusion, does Elizabeth initially mistake Shade for Pathwell and recognize him at the diner, or does she sense earlier that he is someone different?
