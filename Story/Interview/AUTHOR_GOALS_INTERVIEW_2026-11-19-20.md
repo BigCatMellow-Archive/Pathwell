@@ -397,3 +397,19 @@ Asked to choose whether Pathwell hurries a protection spell using his own reserv
 **Status:** Scene #4 protection-source choice **DEFERRED**, the crash and repeated line provisional; character experience after the wreck is now the next exploration target. No change to chapters, rulebook, locks, or prior author decisions.
 
 **Next one question:** What do you imagine has changed for Elizabeth when she steps away from the wreck?
+
+## 27. Scene #4 — Elizabeth taking the wheel as autonomy and a demand to be heard (2026-11-23)
+
+Asked what the crash awakens in Elizabeth, the author answered:
+
+> I feel as though the choice to literally take the wheel in her own hands is part of that. Its her taking autonomy and demanding to be heard
+
+**Author's positive creative center:** The choice of **literally taking the wheel** and demanding to be heard is part of Elizabeth's awakening. The crash is not primarily a demonstration that agency is bad or that her quest for respect is unreasonable. She has been carried through events and talked around; here she attempts to participate on her own terms and assert herself, even if the attempt is imperfect or dangerous. The phrase **“It was the crash that woke her”** should support this literal/symbolic resonance without a moral explanation spelled out on the page.
+
+**Reconciliation with previous answers:** The author earlier clarified that Elizabeth mixes intentional intimidation with a bluff and then **loses control**; she does not fully plan the collision. Both can coexist with **an intentional bid for autonomy**: she chooses to use the driver's position as leverage, not the resulting impact. Do **not** turn the loss of control into a neat cautionary fable, or dismiss the emotional significance of her independent action because the tactic is reckless. Conversely, do not make a hazardous threat into an unequivocal victory.
+
+**Source/staging nuance:** Current Chapter 7 gives Elizabeth the keys so the brothers can talk; the author highlights the wheel itself as an evocative physical/metaphorical object. Do not insist on an exact newly staged "taking the keys" gesture from this remark alone.
+
+**Still open:** How this awakening manifests in her next behavior; which page, if any, Pathwell spends to protect her; and precise physical blocking, timing, or post-crash dialogue. No prose or canon changes.
+
+**Next one-question follow-up:** After the crash, does Elizabeth still insist that the brothers answer her, or has the accident interrupted that demand?
