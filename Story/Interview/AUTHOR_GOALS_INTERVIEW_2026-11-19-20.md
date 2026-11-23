@@ -335,3 +335,19 @@ Asked specifically what the brothers do to precipitate Elizabeth's breaking poin
 **Editorial consequence:** The danger/revelation and her exclusion can make anger understandable. But the present Chapter 7 already has a substantial direct confrontation and both men's verbal recognition, followed by silence; an eventual revision should check whether this interaction builds rather than prematurely discharges the pressure. The precise amount Elizabeth overhears/understands about Shade, as opposed to Pathwell and Stansbury's suspicions, is still open. This is not approval for a new magic reveal, altered canon, or chapter edit.
 
 **Status:** Scene #4 still OPEN on specific escalation. Protected literary echo "It was the crash that woke her" and favored exploratory threat → unintended loss of control remain separate from the yet-unsettled exact motivation and mechanics. **Next useful question:** How much does Elizabeth understand about Shade and the blob attacks while the brothers are speaking?
+
+## 23. Scene #4 — Elizabeth knows nothing about Shade; roadside blob alternative (2026-11-23)
+
+Asked how much Elizabeth understands while the brothers discuss Shade and the recent blob attacks, the author answered:
+
+> She wouldnt understand anything about him, and I guess we would have to add an explanation about the blobs in a conversation. Maybe during the crash scene a blob coming out of the woods or out of a ditch or something is why she crashes? or is that too much
+
+**Two separate points:**
+1. **Author-stated character knowledge:** Elizabeth would understand **nothing about Shade** at this stage. Any version must respect her ignorance, even if Pathwell and Stansbury have begun to connect the evidence. She may need to hear a limited, humanly motivated **explanation of what blobs are**, rather than a full magical encyclopedia or all of Shade's history.
+2. **New alternative for consideration, not a pick:** Another blob emerges from the roadside/woods/ditch and causes or contributes to the crash. The author asks whether this makes the sequence overloaded.
+
+**Source-grounded review:** [World bible, "The blobs"](../Story_Files/world_bible.md#the-blobs) describes creatures that pursue unresolved magical waste, including Pathwell/Shade's overlapping signal; they do not indiscriminately leap at people. Another blob is thus **not categorically illegal**, but its arrival soon after Stansbury destroys a creature in [Chapter 7](../Chapters/Chapter_07.txt) would require credible timing/proximity/targeting and risk repetition. More consequentially, **a creature forcing Elizabeth to swerve would externalize the collision's immediate cause**, weakening the recently recovered dramatic shape of a reckless bluff that goes wrong. The author has not chosen this option.
+
+**Assistant's lean (not an author ruling):** Do not add a second blob to cause the crash for now. Let the brothers' incomplete conversation about the bar attack and its real target supply credible mystery and emotional provocation; allow Elizabeth's driving bluff/misjudgment to create the accident. The conversation can explain the creatures in limited, character-specific terms without giving Elizabeth answers about Shade.
+
+**Unresolved:** Whether a roadside creature could have a different narrative purpose (e.g., an independent future threat); how much of the blob mechanics the brothers themselves know, and where the details should be revealed; the immediate credible trigger of the bluff. No canonical lore, current chapter, or lock changed.
