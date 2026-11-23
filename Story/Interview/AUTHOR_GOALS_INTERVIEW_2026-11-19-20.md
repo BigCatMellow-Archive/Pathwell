@@ -413,3 +413,20 @@ Asked what the crash awakens in Elizabeth, the author answered:
 **Still open:** How this awakening manifests in her next behavior; which page, if any, Pathwell spends to protect her; and precise physical blocking, timing, or post-crash dialogue. No prose or canon changes.
 
 **Next one-question follow-up:** After the crash, does Elizabeth still insist that the brothers answer her, or has the accident interrupted that demand?
+
+## 28. Scene #4 aftermath — Shade takes Elizabeth to diner (2026-11-23)
+
+Asked whether Elizabeth continues demanding answers immediately after the crash, the author responded:
+
+> after the crash she is more or less kidnapped by shade and taken to the diner
+
+**Author's current recollection/desired continuity:** The crash is followed rapidly by Shade taking Elizabeth to the diner; the brothers' confrontation is interrupted, rather than being resolved on the roadside. The phrase **"more or less kidnapped"** matters: it conveys coercive/lost-control framing without yet explicitly selecting precisely how much resistance or agency she has in the latest version.
+
+**Verified source distinction, important to raise rather than silently harmonize:**
+- [Original draft](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt) shows **literal coercion**: Shade forcibly restrains her with bursts of magic, grabs/drags her, puts her into his car and drives off. In the ensuing journey she explicitly calls it kidnapping and attempts to escape when stopped on the road. She eventually returns to the car and goes to a diner.
+- [Current Chapters 8–9](../Chapters/Chapter_08.txt) show **Elizabeth choosing** to enter Shade's car in full view of Pathwell and Stansbury. She opts for his information and rejects Pathwell's order; she chooses the back seat, and later freely follows Shade into the diner. Though Shade is intimidating and the choice may be constrained by circumstance, the current text is *not* an explicit abduction.
+- The user's current wording could reflect the original version, a wish to restore its atmosphere, or a shorthand description of involuntary-feeling circumstances. **Do not infer a new ruling** before author clarifies.
+
+**Craft consequence (assistant interpretation only):** A forced abduction immediately after Elizabeth's attempt to seize the wheel creates ironic loss of control and disrupts the need for a formal post-crash discussion. A chosen ride gives her a further self-directed action, but could make an over-linear "agency ladder." Neither has to be a predetermined lesson.
+
+**Review status:** Scene #4 aftermath and transition into Scene #5 OPEN. Keep the protected crash-line echo; page source for Pathwell's hurried rescue remains deferred. No chapter/canon changes. **Next interview question:** Does the author want Shade to take Elizabeth against her will as in the original draft, or does the revised voluntary departure feel closer to what he wants now?
