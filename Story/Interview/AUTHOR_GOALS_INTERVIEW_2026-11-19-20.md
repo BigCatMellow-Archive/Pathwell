@@ -306,3 +306,15 @@ Asked whether Elizabeth genuinely means to frighten the brothers with reckless d
 **Assistant's proposed shape, not adopted staging:** frustrated demand → intentionally unsettling swerve/threat → an unexpectedly failed correction → genuine fear → unintended collision. This would retain the literal/symbolic “It was the crash that woke her” echo without celebrating the dangerous choice as a triumph. The author has endorsed the mixed psychology, not a particular swerve, dialogue, road geometry, or final scene.
 
 **OPEN:** What the revised story makes important enough for Elizabeth to attempt the threat, now that the older draft's future-Pathwell meeting premise has been retired. Existing manuscript and rulings unchanged.
+
+## 21. Scene #4 — respect as the emotional motive (2026-11-23)
+
+Asked what Elizabeth wants from Pathwell and Stansbury badly enough to resort to threatening, reckless driving after the original future-Pathwell premise is removed, the author offered:
+
+> Respect?
+
+**Tentative author proposal, with question mark intact:** Elizabeth may be demanding **respect**, not a specific magical result or merely attention. A plausible expression is that she wants to be treated as a real participant whose questions and objections count, instead of someone the brothers carry along while talking over or around her. Her need for respect can be legitimate without making dangerous intimidation a reasonable way of securing it.
+
+**Craft caution:** Do not insert an overt "I deserve respect" speech or turn the scene into a neat moral lesson. The pressure should be visible in the brothers' behavior and Elizabeth's mounting frustration. The original bluff/mixed intimidation followed by unintended loss of control remains the favored *exploratory* shape, not yet approved staging. The exact conversational last straw is OPEN. The author's "Respect?" is tentative, not a ruling that the scene is fully motivated or ready to rewrite.
+
+**Next interview question:** What do the brothers do just before Elizabeth's threatening swerve that makes her feel she has finally had enough?
