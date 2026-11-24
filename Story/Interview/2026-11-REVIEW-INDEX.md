@@ -20,8 +20,8 @@
 | **6. The Ask / museum** | **Not yet reviewed in this interview pass.** Existing decisions still stand. | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
 | **7. Forced reintegration** | **R73 selected revision implemented:** Shade dies directly in Pathwell's forced working; his conscious continuation replaces October cleanup-death mechanics. | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
 | **8. Milo / archive fire** | **R73 continuity implemented:** fire starts from the torn pin/lantern while Shade is being taken; Milo's rescue and the two books' burning remain. Cookbook-page alternatives elsewhere are still exploratory. | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
-| **9. Shade's death / Pathwell's inaction** | **New author-selected R73 staging implemented:** the author floated an unresolved-survivor absorption ending, **not approved**. Existing selected climax and Pathwell's knowing inaction remain unchanged. | [Decisions R45–R47](../Revision/Decisions.md#the-authors-rulings-for-this-revision) |
-| **10. Confession / next adventure** | **Not yet reviewed in this pass.** | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
+| **9. Shade's death / Pathwell's choice** | **R73 implemented:** Shade refuses, struggles and is destroyed by Pathwell's continued working; Pathwell knows and does not stop. The blob only collects spillage. The earlier ambiguous-survivor idea remains unselected. | [Decisions R73](../Revision/Decisions.md#the-authors-rulings-for-this-revision), [§46](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#46-author-selects-shades-death-in-pathwells-forced-working-2026-11-24) |
+| **10. Confession / next adventure** | **R73 implemented:** the direct-death confession occurs privately in the bookshop; the browsing hour, Elizabeth's independent invitation, and exact last exchange remain. No absolution. | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
 
 ## Find a topic or choice
 
