@@ -454,3 +454,17 @@ Asked whether Shade physically abducts Elizabeth as in the first draft or whethe
 **Status:** A clear author-proposed *third scene shape*, not yet a prose edit or a settled choice about Shade's apparent identity. The previous unresolved fork (literal kidnapping versus fully voluntary departure) should no longer be presented as exhaustive. Review now naturally crosses into **Scene #5 and its diner recognition**, without rushing to settle the protection-page source.
 
 **Next interview question (one at a time):** In her confusion, does Elizabeth initially mistake Shade for Pathwell and recognize him at the diner, or does she sense earlier that he is someone different?
+
+## 30. Scene #5 — missing Stansbury is wrong, not evidence of a double (2026-11-24)
+
+Asked if Elizabeth thinks the person driving Shade's car is Pathwell until the diner, or senses a difference beforehand, the author replied:
+
+> She has to realize something is wrong when Stansbury is missing but she wouldnt naturally think "oh this man must be a clone of Pathwell"
+
+**Author clarification:** Elizabeth is alert enough to recognize that the **absence of Stansbury** after the crash is deeply wrong. But it would be unnatural for her to jump immediately from that absence to a theory that the driver is a copy of Pathwell. She notices an immediate mundane discontinuity **without knowing its supernatural explanation**. If she is dazed or injured, do not use that to make her incapable of noticing an obvious missing companion; likewise don't turn her into an unusually prescient detective.
+
+**Still not settled:** Whether she explicitly believes she is riding with Pathwell, thinks she's with an uncertain or familiar-looking man, or suspects something else; when she establishes that the driver is not Pathwell; whether the older diner-recognition device (he refers to Pathwell as another person) is preferred now. [August's diner-recognition lock](MANUSCRIPT_RECONCILIATION_AUDIT_REFINEMENTS_2026-08-23.md#11-diner-recognition-trigger--locked) and later working roadside reveal W16/R55 remain contrasting recorded versions, not silently changed by this interview.
+
+**Editorial caution (assistant only):** The missing brother can generate ordinary questions (where he is, what happened, where the driver is taking her), while the full Shade identity emerges later through evidence or conversation. No forced clone-language, convenient amnesia, or automatic canon change.
+
+**Next one-question interview prompt:** What finally makes Elizabeth realize the man in the car isn't Pathwell?
