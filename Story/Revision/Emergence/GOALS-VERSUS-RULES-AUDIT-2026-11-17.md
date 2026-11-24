@@ -1,5 +1,7 @@
 # What Pathwell's rules serve — and what they may have started to govern
 
+**Navigation note (2026-11-24):** This is an evidence/audit record, not the latest interview dashboard. For current scene dispositions, author suggestions versus selections, and unfinished choices, start with the [November scene/decision index](../../Interview/2026-11-REVIEW-INDEX.md) and the [crash-to-diner brief](../../Interview/2026-11-CRASH-TO-DINER-BRIEF.md). Earlier analysis is retained for provenance, not silently replaced by a new ruling.
+
 **2026-11-17 | Author-goals / authority audit | REVIEW ONLY — NO CANON OR PROSE CHANGES**
 
 ## Purpose and boundary
