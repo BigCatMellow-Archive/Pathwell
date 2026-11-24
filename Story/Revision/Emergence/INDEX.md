@@ -6,10 +6,14 @@ Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54)
 
 ## November author-led interview and scene review — current navigation (2026-11-24)
 
-- [**Scene-by-scene decision index**](../../Interview/2026-11-REVIEW-INDEX.md) — current ten-scene status, topic locator, all 39 interview entries and source links, live open questions and cross-scene dependencies.
+- [**Scene-by-scene decision index**](../../Interview/2026-11-REVIEW-INDEX.md) — current ten-scene status, topic locator, the current interview entries and source links, live open questions and cross-scene dependencies.
 - [**Crash-to-diner working brief**](../../Interview/2026-11-CRASH-TO-DINER-BRIEF.md) — versions of the midpoint accident, protection, Shade departure, and transition to diner recognition; still *unapplied*.
 - [**Full author-led interview**](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) — begun November 19–20 and continued through November 23; chronological quotes, corrections, candidates and choices preserved under original filename.
 - [**Exploratory guardrails**](EXPLORATORY-GUARDRAILS-2026-11-20.md) — one question at a time, no overliteralization or unauthorized chapter/rule changes. Its initial pause on Scene #1 was historical; current resume is the Scene #5 identity question.
+
+## Shade's reader-recognition structural trial (2026-11-24)
+
+- [**Source-grounded Shade sympathy restructuring proposal**](SHADE-SYMPATHY-STRUCTURAL-TRIAL-2026-11-24.md) — reads the current diner-to-Camp chapters against the newly selected R73 death and the author's request that readers recognize themselves in Shade. Recommends testing one ordinary social misstep, its consequence, and Shade's return before the catastrophe; weighs minimum-time versus one-overnight structural alternatives. Includes deletion tests, the causal delay problem, source excerpts and author-choice boundaries. **Proposed architecture only; no manuscript changes or new scene selected.** [Author interview §47](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#47-reader-recognition-in-shade--author-authorizes-structural-exploration).
 
 ## Author's creative-recovery conversation (2026-11-17)
 
