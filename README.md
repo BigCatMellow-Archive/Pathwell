@@ -9,6 +9,7 @@ A literary urban fantasy novel. This repository keeps the **manuscript**, **expe
 | **Read the current book** | [Story/Chapters/](Story/Chapters/) — the 18-chapter canonical manuscript |
 | **Return to the early creative work** | [Original and working-draft sources](Story/Archive/Manuscript/README.md) — including a read-only snapshot of the author's *Pathwell Working* Google Doc |
 | **Revisit the author's creative reflections** | [Conversation record](Story/Revision/Emergence/AUTHOR-CONVERSATION-2026-11-17.md) and [creative retrospective](Story/Revision/Emergence/CREATIVE-RETROSPECTIVE-2026-11-17.md) — evidence and unresolved ideas, not new rulings |
+| **Find the author-led scene review and unresolved choices** | [November scene/decision index](Story/Interview/2026-11-REVIEW-INDEX.md) and [crash-to-diner brief](Story/Interview/2026-11-CRASH-TO-DINER-BRIEF.md) — reference only; not manuscript changes |
 | **Review which story rules still fit** | [Goals-versus-rules audit](Story/Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) — source-checked classifications for discussion, not authorized canon changes |
 | **Compare alternate versions** | [Experiments index](Story/Revision/Experiments/README.md) — Garden, Wild Garden, Composite, and earlier tone tests |
 | **See the Composite** | [Composite edition](Story/Revision/Experiments/Composite/README.md) — an experiment, **not** the canonical book |
