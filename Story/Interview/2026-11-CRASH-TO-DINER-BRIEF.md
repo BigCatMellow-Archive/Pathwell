@@ -48,4 +48,6 @@
 
 ## Resume interview here
 
-**Only one question at a time:** What finally makes Elizabeth realize the driver isn't Pathwell? She already senses something is wrong because Stansbury is missing; the precise moment and proof are not established. Record the answer in the [chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update [the status index](2026-11-REVIEW-INDEX.md), then revisit this brief. **No prose edits without separate author selection.**
+**New author-directed priority (2026-11-24):** [Interview §31](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#31-scene-5--author-redirects-from-reveal-mechanics-to-human-stakes-2026-11-24) asks us to look *beneath* the recognition mechanism: what the accident, Pathwell's rescue, Shade's ride, and the diner ask of the characters and reader. The moment she identifies Shade is still open, but **not the next question**.
+
+**Next one-question prompt:** What did Elizabeth feel she was gaining from this adventure before Shade tells her she was never the target? This is exploratory, not a demand that she was secretly seeking importance. Keep [the chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) and [the status index](2026-11-REVIEW-INDEX.md) aligned. **No prose edits without separate author selection.**
