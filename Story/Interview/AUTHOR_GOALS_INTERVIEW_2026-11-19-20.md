@@ -609,3 +609,17 @@ Asked what makes a genuinely enjoyable moment feel false or hollow to Shade once
 **Distinctions to preserve:** This is about **Shade's experience of meaning**, not a claim that ordinary moments are objectively meaningless, that Camp's friendships are fake, or that magic imposes a mood-rebound mechanism. The author has not chosen a guaranteed change in Shade before death or reversed the established ending. The speculative identity-ambiguous absorption ending remains unselected.
 
 **Next one-question interview prompt:** Knowing he will feel empty afterward, does Shade still choose to return when Milo asks him to play cards again?
+
+## 39. Interview method correction — stop answering the questions the novel should inhabit (2026-11-24)
+
+After sustained probing of Shade's emotional life, the author interrupted the process:
+
+> It feels like we are geting back into the habit of trying answer questions we arent intended to live in
+
+**Author's correction to the METHOD, not a new character or plot decision:** The review has begun demanding definite answers to the very questions the novel is meant to inhabit. Stop converting every unresolved emotional contradiction into another diagnostic interview prompt or moral conclusion. In particular, do not require Shade's temporary enjoyment, later hollowness, or unsatisfiable demand for accountability to be fully explained to the author's or reader's satisfaction.
+
+**Operating distinction:** Resolve **practical writing problems** where necessary for coherent scenes (who does what, what they know, causal continuity, physical danger, credible reaction). Let **human ambiguities** remain alive in behavior, consequence, wonder, humor, and contradiction (what happiness means, whether accountability is enough, whether a person is irreparably shaped by their origin). Neither domain requires a mandatory philosophical takeaway.
+
+**Action for the interview:** **Pause the escalating Shade psychology follow-ups**. The previous §38 next prompt about whether he accepts Milo's invitation is **withdrawn as unnecessary at this time**, not an open requirement to close. Resume broader scene-level review through what the characters and reader actually experience; ask a precise question only if a concrete story problem warrants one. Do not invent a new fixed arc or a definitive reading of Shade.
+
+**Authority and files:** This documentation updates interview practice only. No canon, chapter, character bible, ending, magic rule, or formal scene lock is changed.
