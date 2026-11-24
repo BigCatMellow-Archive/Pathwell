@@ -46,8 +46,12 @@
 | **Offered but not chosen** | A blob appears from road/woods/ditch and directly causes the crash; exact physical injuries and severity; mistaken identity until diner. |
 | **Historical current-book staging, not altered** | Deliberate ditch crash and conscious roadside Shade reveal/ride. |
 
+## What Scene #5 now needs to protect (author's 2026-11-24 clarification)
+
+In [interview §32](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#32-scene-5--elizabeths-wonder-and-the-adventure-she-did-not-know-she-needed-2026-11-24), the author describes Elizabeth's delight in the **discovery of an enormous, hidden world**: an adventure she didn't know she needed, full of excitement, relief, possibility and purpose. He compares it to a child witnessing a magician for the first time and wanting to know more.
+
+This **does not establish** that she needed to be the blob's target, a chosen figure, or the center of the magical problem to value the adventure. An editorial possibility—not an author verdict—is that the diner threatens her **trust in Pathwell's reasons for bringing her** rather than invalidating the strange world itself. Preserve its wonder and pleasures, not only the suspense and danger. Nor should this explanation prescribe Elizabeth's response; ask her author rather than write a thesis into the chapter.
+
 ## Resume interview here
 
-**New author-directed priority (2026-11-24):** [Interview §31](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#31-scene-5--author-redirects-from-reveal-mechanics-to-human-stakes-2026-11-24) asks us to look *beneath* the recognition mechanism: what the accident, Pathwell's rescue, Shade's ride, and the diner ask of the characters and reader. The moment she identifies Shade is still open, but **not the next question**.
-
-**Next one-question prompt:** What did Elizabeth feel she was gaining from this adventure before Shade tells her she was never the target? This is exploratory, not a demand that she was secretly seeking importance. Keep [the chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) and [the status index](2026-11-REVIEW-INDEX.md) aligned. **No prose edits without separate author selection.**
+**Next one-question prompt:** When Elizabeth learns she was never the danger's target, does that change her desire to keep exploring the strange world, or mainly how she feels about Pathwell? The timing of her recognition of Shade is still open and **not** the next issue to settle. Keep [the chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) and [the scene index](2026-11-REVIEW-INDEX.md) aligned. **No prose edits without separate author selection.**
