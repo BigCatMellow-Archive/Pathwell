@@ -1,7 +1,8 @@
 # Pathwell author interview — thesis and pruning, 2026-11-19–20
 
 **Status:** Author-led discovery interview; **conversation record**, not a new outline, chapter, world-bible revision, or blanket withdrawal of existing author rulings.
-**Coverage:** From the review of the controlling thesis through the first of ten "non-negotiable" scenes (early pruning), and the request to pause and preserve the discussion.
+**Coverage (updated through 2026-11-23):** Review of the thesis, pruning, bar rescue, Nana's cookbook, midpoint crash, protective spell possibilities, and Shade's departure toward the diner. The earlier pause entries below are historical, not the latest resume point.
+**Find and resume (2026-11-24):** [Scene and decision index](2026-11-REVIEW-INDEX.md) (all 29 entries, statuses and open choices); [Scene #4 → #5 crash/diner brief](2026-11-CRASH-TO-DINER-BRIEF.md). Filename retained for existing links.
 **Recording method:** This is a **faithful, story-focused conversation reconstruction**, **not a word-for-word export of every assistant and author message**. Direct quotations below preserve the author's wording where quoted. Assistant propositions are labeled as interpretations, not author decisions. The repository is public; personal material offered as a comparison is summarized where it would unnecessarily expose sensitive autobiography. This is not an assertion that such personal material is now fictional canon.
 **Companion records:** [Earlier author conversation](../Revision/Emergence/AUTHOR-CONVERSATION-2026-11-17.md), [goals-versus-rules audit](../Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md), [exploratory review guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md), [revision decisions](../Revision/Decisions.md).
 
