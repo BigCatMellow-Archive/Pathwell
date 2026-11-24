@@ -727,3 +727,22 @@ The author pushed back against treating Elizabeth's final invitation or the audi
 **Elizabeth and ending:** The author does not require readers to find Elizabeth's eventual invitation **morally comfortable, redemptive, sympathetic or equivalent to forgiveness**. Preserve Elizabeth's independent will and the uneasy coexistence of affection, friendship/adventure, and knowledge of what Pathwell did. Avoid retroactively making Pathwell's prior warmth fake or simplifying him into a merely villainous figure. Let the reader carry both sides; do not answer the novel's larger human question for them.
 
 **Caution / status:** The author has clarified the **desired emotional and moral effect** of the speculative **direct-absorption version**. This clarification is strong, but **the physical alternative to the currently locked blob death has still not been explicitly adopted as a manuscript rewrite**. Do not change Chapters 14–18, locked scene targets, confession text, canon or magic mechanics without the author's further choice. Expansion review remains paused.
+
+## 46. Author selects Shade's death in Pathwell's forced working (2026-11-24)
+
+After the direct-absorption proposal (§43), the author's late confession wording (§44), and the clarification that the choice is **not forgivable or sympathetic** and readers must live with liking Pathwell alongside knowing what he did (§45), the author said:
+
+> lets do it
+
+**AUTHOR SELECTION / authorization:** Implement the direct-absorption death in the current manuscript, with coherent changes to the surrounding fire, Milo rescue, aftermath, and private confession. This supersedes the October 2026 blob-death version for the current Chapters 14–18. Recorded formally as **R73** in [Decisions](../Revision/Decisions.md#the-authors-rulings-for-this-revision). The exact line supplied by the author remains central: “I could tell something was wrong, I could have stopped it at any time if I wanted to. But I didnt want to.”
+
+**Implemented (P121):**
+- [Ch14](../Chapters/Chapter_14.txt): Shade refuses, Pathwell commits the payment, the working visibly starts unraveling Shade, and Pathwell can still **cease sustaining the working** though the payment is already spent; he does not. A pin breaks the archive lantern while this is occurring, and Milo calls from the fire.
+- [Ch15](../Chapters/Chapter_15.txt): Shade struggles, pleads, is held by a Camp woman, looks at Elizabeth and tells her to go save Milo but does not accept death. Elizabeth goes to physically free Milo. Shade is consumed **by Pathwell's continuing working**; the cleanup creature later clears loose spillage but never touches him. Elizabeth passes the diary and cookbook; both burn.
+- [Ch16](../Chapters/Chapter_16.txt): Camp names Shade and the aftermath remains, but the former immediate explicit confession about withholding help is removed so the private motive comes later.
+- [Ch17](../Chapters/Chapter_17.txt): Elizabeth's museum statement reflects Shade being drawn into the working, not slipping.
+- [Ch18](../Chapters/Chapter_18.txt): the author-proposed “I could have stopped…” confession replaces the blob/omission account. Elizabeth relates leaving Shade to rescue Milo; Pathwell rejects the equivalence. The hour of browsing, independent invitation, and exact “Are you ready?” / “No.” / “Perfect.” ending remain.
+
+**Do not turn this into absolution or an explanatory thesis:** Shade does not seek death. Pathwell is both someone the reader may love and someone who knowingly did something unforgivable. Neither his restitution nor Elizabeth's invitation excuses it; readers can inhabit the unresolved moral experience.
+
+**Craft/verification status:** This is a source-grounded first implemented manuscript pass, **not** a finished independent voice/cold-reader signoff. The story's larger expansion discussion remains paused. The right next step is inspect the edited climax as prose, not resume open-ended character psychology.
