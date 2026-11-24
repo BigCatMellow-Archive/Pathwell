@@ -12,7 +12,7 @@
 | **What fuels the working** | Old Shade mechanism belongs to an abandoned conception | Not applicable | Pathwell's own appropriate reserve page **or** Elizabeth's precious retained Nana recipe; author **deferred** choice |
 | **Elizabeth's state** | Shocked and confused; Shade uses magic and force to take her | Composed enough to question Shade and consciously enter his sedan | Disoriented and perhaps concussed; gets in without being in a position for clearly informed consent |
 | **Pathwell and Stansbury** | See Shade take her | Meet Shade and watch her choose to leave | Temporarily out of action; recover, find her missing, pursue |
-| **Shade's identity** | Original draft names him on the roadside | He introduces himself as Shade on roadside; later diner scene assumes she knows | **Unresolved:** her confusion may permit a delayed recognition at diner, matching an older August target |
+| **Shade's identity** | Original draft names him on the roadside | He introduces himself as Shade on roadside; later diner scene assumes she knows | Elizabeth notices **Stansbury is missing**, but has no reason to infer a clone or duplicate; precise moment she knows he isn't Pathwell is **still open** |
 
 **Source-of-truth links:** [Earliest draft](../Archive/Manuscript/Author_First_Draft_pathwell-work_plaintext_2026-10-26.txt), [current Chapter 7](../Chapters/Chapter_07.txt), [current Chapter 8](../Chapters/Chapter_08.txt), [current Chapter 9](../Chapters/Chapter_09.txt), [Non-Negotiable Scenes #4–5](../../Non-Negotiable-Scenes.md), [Decisions R11, R55 and W16](../Revision/Decisions.md).
 
@@ -24,6 +24,8 @@
 - [§24–26](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#24-scene-4--an-imperfect-protective-spell-at-the-crash): Immediate reaction “Ow” rather than a speech. Pathwell might improvise a protective “magical airbag” in the few seconds before impact. The charged page source remains **open by author request** until the meaning of Elizabeth's awakening is clearer.
 - [§27](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#27-scene-4--elizabeth-taking-the-wheel-as-autonomy-and-a-demand-to-be-heard): The wheel itself matters: she is **taking autonomy and demanding to be heard**. Her act of asserting herself can be meaningful while her means are reckless and the outcome a mistake; do not preach either that agency is bad or that the crash is a triumph.
 - [§28–29](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#28-scene-4-aftermath--shade-takes-elizabeth-to-diner): The author's third departure version is **neither overt force** from the original nor the **fully informed voluntary departure** in current Ch8–9. She enters Shade's car in an impaired state while both brothers are out of commission. When they recover and find her missing, they go after her. Why Shade chooses to take her and whether she knows who he is remain **unanswered**.
+
+- [§30](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#30-scene-5--missing-stansbury-is-wrong-not-evidence-of-a-double-2026-11-24): The missing Stansbury is immediately suspicious to Elizabeth, even in her disorientation. The author explicitly rejects an implausible leap to “this must be a clone of Pathwell.” The exact recognition trigger remains unset; the August diner-recognition mechanism is historical evidence, **not automatically restored**.
 
 ## Practical dependencies — do not solve silently
 
@@ -46,4 +48,4 @@
 
 ## Resume interview here
 
-**Only one question at a time:** Does a disoriented Elizabeth initially take Shade to be Pathwell, then discover the difference at the diner, or sense something wrong earlier? The answer is not established. Record the answer in the [chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update [the status index](2026-11-REVIEW-INDEX.md), then revisit this brief. **No prose edits without separate author selection.**
+**Only one question at a time:** What finally makes Elizabeth realize the driver isn't Pathwell? She already senses something is wrong because Stansbury is missing; the precise moment and proof are not established. Record the answer in the [chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update [the status index](2026-11-REVIEW-INDEX.md), then revisit this brief. **No prose edits without separate author selection.**
