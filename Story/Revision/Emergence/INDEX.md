@@ -4,10 +4,12 @@ Status: Local discovery registry; NOT a MAP-system global registry
 Framework: [MAP Emergence](https://github.com/BigCatMellow/MAPS_Lean/tree/main/legacy/MAP-System/MAP_System/emergence)
 Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54); extended to **all 18 chapters** in the 2026-10-16 sweep
 
-## Thesis/pruning interview checkpoint (2026-11-19–20)
+## November author-led interview and scene review — current navigation (2026-11-24)
 
-- [**Author-led thesis and pruning interview**](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) — story-focused conversation record: what the author was exploring through Elizabeth, decision to let the story live in questions (R71), pruning's narrator-awareness origin, why Shade's narrator interaction changed, the feeling of fate's pull, and the explicit warning against overliteral interpretation. Personal examples are summarized rather than copied in unnecessary detail because the repository is public.
-- [**Exploratory review guardrails**](EXPLORATORY-GUARDRAILS-2026-11-20.md) — compact author-facing continuation rules, clear status distinctions (author decisions versus working interpretations versus open mechanics), one question at a time, and no unapproved canon/manuscript changes. **Paused on non-negotiable scene #1**, not a new outline or rewrite.
+- [**Scene-by-scene decision index**](../../Interview/2026-11-REVIEW-INDEX.md) — current ten-scene status, topic locator, all 29 interview entries and source links, live open questions and cross-scene dependencies.
+- [**Crash-to-diner working brief**](../../Interview/2026-11-CRASH-TO-DINER-BRIEF.md) — versions of the midpoint accident, protection, Shade departure, and transition to diner recognition; still *unapplied*.
+- [**Full author-led interview**](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) — begun November 19–20 and continued through November 23; chronological quotes, corrections, candidates and choices preserved under original filename.
+- [**Exploratory guardrails**](EXPLORATORY-GUARDRAILS-2026-11-20.md) — one question at a time, no overliteralization or unauthorized chapter/rule changes. Its initial pause on Scene #1 was historical; current resume is the Scene #5 identity question.
 
 ## Author's creative-recovery conversation (2026-11-17)
 
