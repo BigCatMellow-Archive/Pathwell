@@ -1,6 +1,6 @@
 # Pathwell — November 2026 author-led review index
 
-**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 30 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
+**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 31 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
 
 **Read the source:** [full chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) (quotes/corrections preserved), [Scene #4 → #5 crash/diner brief](2026-11-CRASH-TO-DINER-BRIEF.md) (side-by-side version and dependency map), [November author-goals audit](../Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) (editorial assessment), and [interview guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md).
 
@@ -44,7 +44,7 @@
 3. **Magic / crash:** Protective text must be an authentic charged original, physically available and consumed when used, per the [world bible](../Story_Files/world_bible.md). A rushed working and possible concussion need credible physical/narrative consequences.
 4. **Authorship:** Original draft facts, past author locks, AI-assisted revisions, current author wishes and assistant opinions are different categories. Do not infer an approved rewrite from the presence of an attractive option.
 
-## All 30 interview entries — direct links
+## All 31 interview entries — direct links
 
 The chronological file remains intact, with its existing section headings/anchors; this table is the **findable source trail**, not a duplicate account.
 
@@ -81,8 +81,10 @@ The chronological file remains intact, with its existing section headings/anchor
 | 29 | Scene #4 → #5 | [Crash aftermath — disoriented Elizabeth leaves with Shade while brothers are incapacitated (2026-11-23)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#29-crash-aftermath--disoriented-elizabeth-leaves-with-shade-while-brothers-are-incapacitated-2026-11-23) |
 | 30 | Scene #5 | [Scene #5 — missing Stansbury is wrong, not evidence of a double (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#30-scene-5--missing-stansbury-is-wrong-not-evidence-of-a-double-2026-11-24) |
 
+| 31 | Scene #5 / reader stakes | [Scene #5 — author redirects from reveal mechanics to human stakes (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#31-scene-5--author-redirects-from-reveal-mechanics-to-human-stakes-2026-11-24) |
+
 ## Current resume point and maintenance
 
-**Next one-question interview prompt:** What finally makes Elizabeth realize the man in the car isn't Pathwell? The author has clarified that Stansbury's absence is immediately wrong, without implying Elizabeth jumps to a supernatural double.
+**Current interview direction:** Explore what the crash, protective choice, Shade's intervention and diner ask emotionally of Elizabeth, Shade and Pathwell—and what the reader is invited to question—before choosing recognition choreography. **Next one-question prompt:** What did Elizabeth feel she was gaining from this adventure before Shade tells her she was never the target?
 
 For each new author answer, append a dated entry to the chronological [interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update this dashboard and any affected scene brief, and distinguish fact/candidate/decision. No chapter or canon edits from indexing alone.
