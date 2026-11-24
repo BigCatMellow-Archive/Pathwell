@@ -79,7 +79,6 @@ The chronological file remains intact, with its existing section headings/anchor
 | 27 | Scene #4 | [Scene #4 — Elizabeth taking the wheel as autonomy and a demand to be heard (2026-11-23)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#27-scene-4--elizabeth-taking-the-wheel-as-autonomy-and-a-demand-to-be-heard-2026-11-23) |
 | 28 | Scene #4 → #5 | [Scene #4 aftermath — Shade takes Elizabeth to diner (2026-11-23)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#28-scene-4-aftermath--shade-takes-elizabeth-to-diner-2026-11-23) |
 | 29 | Scene #4 → #5 | [Crash aftermath — disoriented Elizabeth leaves with Shade while brothers are incapacitated (2026-11-23)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#29-crash-aftermath--disoriented-elizabeth-leaves-with-shade-while-brothers-are-incapacitated-2026-11-23) |
-
 | 30 | Scene #5 | [Scene #5 — missing Stansbury is wrong, not evidence of a double (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#30-scene-5--missing-stansbury-is-wrong-not-evidence-of-a-double-2026-11-24) |
 
 ## Current resume point and maintenance
