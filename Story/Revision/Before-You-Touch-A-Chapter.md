@@ -20,9 +20,9 @@ These are the ones a pass is most likely to undo without the records. Several ha
 | Resolve the missed meeting or her work life | Her ordinary-life logistics stay open | R35(2); Q136 |
 | Re-answer why Pathwell was at the party or reading the diary | Answered by design: the notebook cue in Ch1, her "pricing it" in Ch3 | R48, R53 |
 | Name who asked Pathwell for help | Stays open unless the story needs it | lock 08-22 §4 |
-| Change the climax's shape | Shade is captured; Pathwell chooses not to call for help; Elizabeth saves Milo and leaves the books | R45, R46 |
-| Add a pardon speech or reflection to the Ch18 confession | Version C: the hour of browsing follows, then she invites him | R47 |
-| Let anyone at Camp learn the confession | It stays with Elizabeth, on purpose; he "could have called someone" | R54 |
+| Restore the old blob-death staging | Under R73, Shade dies during Pathwell's forced working; Pathwell can stop sustaining it but knowingly refuses, while Elizabeth saves Milo and leaves the books | R73 (supersedes R45–R47 climax death staging) |
+| Add pardon, justification, or sympathetic framing to the Ch18 confession | R73: Pathwell admits he could have stopped taking Shade apart and did not want to. The following hour and invitation do not absolve him | R73; Version C order |
+| Give Camp the private admission, or restore the Ch16 explicit confession | Under R73, Camp sees the harm, but only Elizabeth later hears that Pathwell deliberately chose not to stop | R54, R73 |
 | Let anyone but Pathwell say "Leo" | Glossary | [glossary](../Story_Files/glossary.md) |
 | Let Elizabeth do magic, or buy the diary back | Hard constraints | [locks](Decisions.md#the-bible-interview-locks-the-manuscript-follows) |
 | Add scenes to reach a length | Length isn't a target | R42 |
