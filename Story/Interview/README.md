@@ -16,9 +16,11 @@ To find a lock: search this folder for the question number (`Q112`) or a heading
 
 ## November 2026 author-led goals interview
 
-- [**2026-11-19–20: Thesis and pruning interview**](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) — **story-focused, non-verbatim conversation record**. Author's direct creative statements, corrections of the assistant, first decisions, and open questions. Because the repository is public, sensitive autobiographical comparisons are paraphrased instead of republished verbatim.
-- [**Exploratory review guardrails**](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md) — the current review method, anti-overliteralization safeguards, statuses, and resume point.
-- This **does not replace or retroactively rewrite** the August locked interview. Existing 18-chapter commitments remain intact unless the author separately reopens them.
+- [**Start here: scene and decision index**](2026-11-REVIEW-INDEX.md) — all ten scene targets, links to all 29 interview entries, source-based statuses, open decisions, dependencies and next question.
+- [**Crash → diner working brief**](2026-11-CRASH-TO-DINER-BRIEF.md) — original draft versus current manuscript versus newly discussed staging, with continuity and magic constraints.
+- [**Complete chronological interview (started 2026-11-19–20, updated through 2026-11-23)**](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) — story-focused **non-verbatim conversation record** with the author's quoted corrections and the assistant's clearly labeled interpretations. Filename retained for stable links. Sensitive autobiographical comparisons are paraphrased, because this repository is public.
+- [**Exploratory review guardrails**](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md) — ongoing method and authority boundary; use the scene index for the *current* resume point.
+- These exploratory notes **do not replace** the August locked interview, existing Decisions, or the canonical chapters. No alternative scene becomes canon merely because it appears in an index.
 
 ## After the interview
 
