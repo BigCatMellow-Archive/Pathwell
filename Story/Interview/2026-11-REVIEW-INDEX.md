@@ -1,6 +1,6 @@
 # Pathwell — November 2026 author-led review index
 
-**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 46 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
+**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 47 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
 
 **Read the source:** [full chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) (quotes/corrections preserved), [Scene #4 → #5 crash/diner brief](2026-11-CRASH-TO-DINER-BRIEF.md) (side-by-side version and dependency map), [November author-goals audit](../Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) (editorial assessment), and [interview guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md).
 
@@ -44,7 +44,7 @@
 3. **Magic / crash:** Protective text must be an authentic charged original, physically available and consumed when used, per the [world bible](../Story_Files/world_bible.md). A rushed working and possible concussion need credible physical/narrative consequences.
 4. **Authorship:** Original draft facts, past author locks, AI-assisted revisions, current author wishes and assistant opinions are different categories. Do not infer an approved rewrite from the presence of an attractive option.
 
-## All 46 interview entries — direct links
+## All 47 interview entries — direct links
 
 The chronological file remains intact, with its existing section headings/anchors; this table is the **findable source trail**, not a duplicate account.
 
@@ -106,8 +106,10 @@ The chronological file remains intact, with its existing section headings/anchor
 
 | 46 | Author-selected death mechanism / P121 | [Author selects Shade's death in Pathwell's forced working (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#46-author-selects-shades-death-in-pathwells-forced-working-2026-11-24) |
 
+| 47 | Shade / readers recognize themselves; restructuring trial | [Reader recognition in Shade — author authorizes structural exploration (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#47-reader-recognition-in-shade--author-authorizes-structural-exploration) |
+
 ## Current resume point and maintenance
 
-**Current working direction:** The author has now **selected and authorized** Shade dying during Pathwell's forced reintegration. P121 changed Chapters 14–18: Shade fights and is consumed by the **working**, not the cleanup creature; Pathwell can stop sustaining it but chooses not to; the fire, Milo's rescue, book losses, nonmagical choice, later private confession and independent invitation remain. The author's explicit aim is that the act be **unforgivable**, yet readers may still like Pathwell and live with the knowledge. [Selection and implementation: §46](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#46-author-selects-shades-death-in-pathwells-forced-working-2026-11-24); formal [R73](../Revision/Decisions.md#the-authors-rulings-for-this-revision). **Expansion review remains paused**. Next gate is a full-context voice/reader review, not a new psychology interview.
+**Current working direction:** R73's Shade death in Pathwell's actively sustained forced working remains implemented in Chapters 14–18. The author subsequently clarified that readers need **sympathy, not necessarily liking**, and should recognize something of themselves in Shade. He authorized a **focused structural investigation** of the diner-to-Camp stretch before adding prose. The [informed structural trial](../Revision/Emergence/SHADE-SYMPATHY-STRUCTURAL-TRIAL-2026-11-24.md) maps existing Ch8–14, recommends a fallible social interaction followed by Shade's voluntary return, and evaluates an overnight interval against the pursuit clock. **No new scene, overnight passage or manuscript rewrite has been selected or applied.** Preserve §39's anti-psychoanalysis and R73's unforgivable death; the next bounded task is a noncanonical scene trial, after which the author can choose what actually belongs ([interview §47](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#47-reader-recognition-in-shade--author-authorizes-structural-exploration)).
 
 For each new author answer, append a dated entry to the chronological [interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update this dashboard and any affected scene brief, and distinguish fact/candidate/decision. No chapter or canon edits from indexing alone.
