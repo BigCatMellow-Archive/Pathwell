@@ -70,4 +70,4 @@ The current [Ch14](../Chapters/Chapter_14.txt) relies on Shade's explicit refusa
 
 ## Resume interview here
 
-**Next one-question prompt:** Does “nothing can satisfy Shade” mean nothing **Pathwell** can do for him, or does Shade believe there is literally nothing in his own life worth living for? Do not decide the alternate ending before understanding this distinction. [Full interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), [scene index](2026-11-REVIEW-INDEX.md). **No prose edits without separate author selection.**
+**Next one-question prompt:** When Shade experiences an ordinary moment at Camp that he genuinely enjoys, how does he make sense of it afterward? The author tentatively answered **both** to whether Pathwell cannot satisfy him and whether Shade cannot imagine a happy life ([interview §36](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#36-shade--nothing-pathwell-can-do-and-no-imagined-happy-life-2026-11-24)). That is not proof that Shade can never enjoy life. [Full interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), [scene index](2026-11-REVIEW-INDEX.md). **No prose edits without separate author selection.**
