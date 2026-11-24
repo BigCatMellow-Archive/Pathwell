@@ -643,3 +643,17 @@ After redirecting the interview away from over-answering the book's human questi
 **Authority:** The current 18 chapter files and [Non-Negotiable Scenes](../../Non-Negotiable-Scenes.md) remain the approved manuscript and existing targets; this is **exploratory scope reflection** and does not silently unlock, reorder or overwrite them. If later expansion requires departing from prior locks, the author chooses that explicitly. Preserve the author-led, gardener-like approach in [review guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md).
 
 **Next productive move (not another compulsory philosophical interview):** Inspect the *book's shape as a whole* for compressed experience/relationships/aftermath and any naturally inviting expansions. Propose where the coat may pinch before drafting new scenes or choosing an arbitrary length. The book should be allowed to grow where its life demands, not because it needs to be longer.
+
+## 41. Expansion must add something that would be missed (2026-11-24)
+
+Following his concern that the existing novel may be wearing a “coat too small,” the author clarified:
+
+> Yeah my main concern there is that we would be adding things to the story that dont add anything to the story and could just as easily be removed or never been included.
+
+**Author's limiting condition:** More narrative room is **not** a wish for length, padding, detachable encounters, or obligatory worldbuilding. Any proposed addition should justify its continued presence in the reader's experience; otherwise the story might be better without it. The author has **not** selected a longer chapter count or approved new scenes.
+
+**Useful editorial test (assistant, not a new binding formula):** Before proposing extra material, identify the felt gap in existing pages and ask what is materially lost without the proposed addition: a relationship that makes a later loss hurt, a meaningful decision, a changed expectation, a new facet of the world, accumulated affection, curiosity, atmosphere, humor or the sense of an actual lived life. Not every quiet or whimsical moment must cause a plot event; an entire pattern of small moments can matter cumulatively, even when any one could technically be cut. Conversely, an elaborate magical detour that doesn't affect the reading experience should not be inserted merely because it's imaginable.
+
+**Practical next step:** First assess the current novel's pacing and reader investment. Propose expansion only where the existing book **actually feels compressed**; include an alternative such as changing pacing, deepening an existing scene, or leaving the text alone. Avoid treating the current eighteen chapters as either a sacred maximum or a target to exceed.
+
+**Status:** A refinement of the book-level exploratory review method, not a structural rewrite or authorization to modify the manuscript, scene targets, or canon. No compulsory new psychological or philosophical question.
