@@ -89,6 +89,6 @@ The chronological file remains intact, with its existing section headings/anchor
 
 ## Current resume point and maintenance
 
-**Current interview direction:** The author doubts *anything* can satisfy Shade, and floated—but has **not selected**—a final Pathwell/Shade tussle where one absorbs the other and the survivor's identity stays uncertain. Source-check: this cannot leave the rest of the current ending unchanged; Ch14–18 and the confession depend on Shade's refusal, blob death and identifiable Pathwell. **Next question:** What, if anything, does Shade find worth living for that isn't about Pathwell?
+**Current interview direction:** The author doubts *anything* can satisfy Shade, and floated—but has **not selected**—a final Pathwell/Shade tussle where one absorbs the other and the survivor's identity stays uncertain. Source-check: this cannot leave the rest of the current ending unchanged; Ch14–18 and the confession depend on Shade's refusal, blob death and identifiable Pathwell. **Next question:** Does ‘nothing can satisfy Shade’ mean nothing **Pathwell can do for him**, or that Shade finds nothing worthwhile in life itself?
 
 For each new author answer, append a dated entry to the chronological [interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update this dashboard and any affected scene brief, and distinguish fact/candidate/decision. No chapter or canon edits from indexing alone.
