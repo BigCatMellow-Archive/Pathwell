@@ -58,6 +58,10 @@ In [interview §33](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#33-scene-5--fear-of-
 
 This deepens the diner encounter without prescribing what Elizabeth must decide or causing her wonder to collapse. Her fear of exclusion is not the same as a desire to be magically chosen.
 
+## Shade's deeper motive is under review (2026-11-24)
+
+In [interview §34](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#34-scene-5--shade--author-challenges-his-accountability-motivation-2026-11-24), the author questions whether the established demand for Pathwell's accountability is **strong enough as Shade's personal objective**. Shade's existence and his painful pull are direct consequences of Pathwell's choices, not merely arguments about irresponsible magic. Existing Chapter 9 gives him the personal wish to stop Pathwell defining him, and Camp shows him forming an independent life. Candidate deeper needs include relief from suffering, independent personhood and acknowledgment. These are **not new author selections**; the current [character bible](../Story_Files/character_bible.md#shade) and earlier locks remain unchanged.
+
 ## Resume interview here
 
-**Next one-question prompt:** What does Shade believe he's doing for Elizabeth when he raises the possibility Pathwell will leave her behind? The exact recognition line, his sincerity and his strategy are still open. [Full interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), [scene index](2026-11-REVIEW-INDEX.md). **No prose edits without separate author selection.**
+**Next one-question prompt:** If Pathwell sincerely admitted responsibility, but Shade still lived with the painful draw and uncertain future, would Shade feel he'd gotten what he wanted? This tests the current motivation's personal stakes without assuming an apology ends the draw. [Full interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), [scene index](2026-11-REVIEW-INDEX.md). **No prose edits without separate author selection.**
