@@ -1,6 +1,6 @@
 # Pathwell — November 2026 author-led review index
 
-**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 31 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
+**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 32 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
 
 **Read the source:** [full chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) (quotes/corrections preserved), [Scene #4 → #5 crash/diner brief](2026-11-CRASH-TO-DINER-BRIEF.md) (side-by-side version and dependency map), [November author-goals audit](../Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) (editorial assessment), and [interview guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md).
 
@@ -44,7 +44,7 @@
 3. **Magic / crash:** Protective text must be an authentic charged original, physically available and consumed when used, per the [world bible](../Story_Files/world_bible.md). A rushed working and possible concussion need credible physical/narrative consequences.
 4. **Authorship:** Original draft facts, past author locks, AI-assisted revisions, current author wishes and assistant opinions are different categories. Do not infer an approved rewrite from the presence of an attractive option.
 
-## All 31 interview entries — direct links
+## All 32 interview entries — direct links
 
 The chronological file remains intact, with its existing section headings/anchors; this table is the **findable source trail**, not a duplicate account.
 
@@ -83,8 +83,10 @@ The chronological file remains intact, with its existing section headings/anchor
 
 | 31 | Scene #5 / reader stakes | [Scene #5 — author redirects from reveal mechanics to human stakes (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#31-scene-5--author-redirects-from-reveal-mechanics-to-human-stakes-2026-11-24) |
 
+| 32 | Scene #5 / wonder and purpose | [Scene #5 — Elizabeth's wonder and the adventure she did not know she needed (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#32-scene-5--elizabeths-wonder-and-the-adventure-she-did-not-know-she-needed-2026-11-24) |
+
 ## Current resume point and maintenance
 
-**Current interview direction:** Explore what the crash, protective choice, Shade's intervention and diner ask emotionally of Elizabeth, Shade and Pathwell—and what the reader is invited to question—before choosing recognition choreography. **Next one-question prompt:** What did Elizabeth feel she was gaining from this adventure before Shade tells her she was never the target?
+**Current interview direction:** The author says the adventure offers wonder, excitement, relief, renewed possibility and purpose—like a child first watching a magician. **Next one-question prompt:** When Elizabeth discovers she was never the danger's target, does that change her desire to explore or mainly how she feels about Pathwell?
 
 For each new author answer, append a dated entry to the chronological [interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update this dashboard and any affected scene brief, and distinguish fact/candidate/decision. No chapter or canon edits from indexing alone.
