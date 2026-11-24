@@ -1,6 +1,6 @@
 # Pathwell — November 2026 author-led review index
 
-**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 41 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
+**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 42 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
 
 **Read the source:** [full chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) (quotes/corrections preserved), [Scene #4 → #5 crash/diner brief](2026-11-CRASH-TO-DINER-BRIEF.md) (side-by-side version and dependency map), [November author-goals audit](../Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) (editorial assessment), and [interview guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md).
 
@@ -44,7 +44,7 @@
 3. **Magic / crash:** Protective text must be an authentic charged original, physically available and consumed when used, per the [world bible](../Story_Files/world_bible.md). A rushed working and possible concussion need credible physical/narrative consequences.
 4. **Authorship:** Original draft facts, past author locks, AI-assisted revisions, current author wishes and assistant opinions are different categories. Do not infer an approved rewrite from the presence of an attractive option.
 
-## All 41 interview entries — direct links
+## All 42 interview entries — direct links
 
 The chronological file remains intact, with its existing section headings/anchors; this table is the **findable source trail**, not a duplicate account.
 
@@ -96,8 +96,10 @@ The chronological file remains intact, with its existing section headings/anchor
 
 | 41 | Whole-book scope / growth without padding | [Expansion must add something that would be missed (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#41-expansion-must-add-something-that-would-be-missed-2026-11-24) |
 
+| 42 | Reader attachment / earned expansion | [Earn reader attachment before the losses — whole-book pressure-point review (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#42-earn-reader-attachment-before-the-losses--whole-book-pressure-point-review-2026-11-24) |
+
 ## Current resume point and maintenance
 
-**Current interview direction:** The author may want to let the 18-chapter story grow, **but explicitly rejects detachable or unnecessary additions**. Assess real compression in the existing reader experience before proposing expansion. A new passage should meaningfully affect attachment, world, expectation, consequence, contrast, humor or cumulative texture—even when it need not advance the plot. Compare growth against deepening an existing scene or leaving the material alone. No predetermined chapter count, invented detours, or manuscript edits ([§40](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#40-book-level-scope--a-coat-with-room-to-grow), [§41](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#41-expansion-must-add-something-that-would-be-missed)).
+**Current review direction:** First prioritize **reader attachment before the losses**, not more psychology or detachable adventures. A direct 18-chapter assessment finds the strongest pinch in Shade and Milo's brief ordinary life at Camp: Ch13 grants one morning of developing personhood and companionship before Ch14–15's catastrophe; Ch16–17 already handle mourning and restitution with care. Secondary checks: whether Elizabeth's *positive wonder* is sufficiently lived, and whether Camp's loss feels like losing a place rather than documents. Ch4, Ch11 and the aftermath contain material that already earns its place. Chronology and Shade's accelerating draw constrain any additional time; **no expansion authorized**. [Evidence and tradeoffs in §42](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#42-earn-reader-attachment-before-the-losses--whole-book-pressure-point-review-2026-11-24).
 
 For each new author answer, append a dated entry to the chronological [interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update this dashboard and any affected scene brief, and distinguish fact/candidate/decision. No chapter or canon edits from indexing alone.
