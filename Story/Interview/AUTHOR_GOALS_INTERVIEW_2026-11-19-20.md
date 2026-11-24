@@ -579,3 +579,19 @@ Asked whether “nothing can satisfy Shade” meant **nothing Pathwell could do*
 **Creative risk:** If Shade can experience nothing but resentment and literally no future could hold value, his behavior may flatten into a fixed thesis and Camp's ordinary pleasures stop carrying weight. Do not declare an author-selected redemption, prescribe recovery, or insist the story solve his suffering. The proposed identity-ambiguous absorption ending [§35](#35-shades-unsatisfiable-want-and-the-speculative-ambiguous-absorption-ending-2026-11-24) remains **unselected**, and the chosen Ch14–18 climax/confession remains unchanged.
 
 **Next interview question (one at a time):** When Shade has an ordinary moment at Camp that he genuinely enjoys, how does he interpret that feeling afterward?
+
+## 37. Shade — genuine happiness, then retrospective hollowness (2026-11-24)
+
+Asked how Shade interprets genuinely enjoyable moments at Camp once they're over, the author said:
+
+> I think you can be happy in the moment, and lose all that soon after. He would remember that it was all temporary, and hollow to him. Maybe he even thinks the moments are fake or disingenuous?
+
+**Author's emerging emotional picture:** Shade **can be genuinely happy while an experience is happening**, but afterward the happiness recedes. In retrospect he reads it as **temporary and hollow**. He **might** go further and suspect the experience was false or the kindness disingenuous; the author's “maybe” is an open possibility, **not** a conclusion that Camp actually deceives him.
+
+**Important distinction (assistant interpretation, not selected character fact):** The immediate joy need not have been fraudulent just because Shade later mistrusts its meaning. A memory of a good afternoon can turn sour through dread of impermanence, fear of pity or dismissal, disconnection from his own identity, or pain associated with Pathwell's draw; these are **hypotheses**. Avoid asserting that Camp's relationships are in fact insincere or that the pull automatically triggers emotional crashes. Also avoid diagnosing Shade or turning every pleasant exchange into a lesson about his despair. The ordinary pleasures retain narrative validity even if he never trusts them to last.
+
+**Reader/character possibility:** Elizabeth fears **losing** an extraordinary life she has only just discovered; Shade finds a measure of ordinary belonging and afterward struggles to believe it can count. Their positions can reflect and complicate each other without making them exact allegorical opposites or scripting a cure for Shade.
+
+**Current decision status:** Author-described pattern of enjoyment followed by hollowness; **suspicion of fakery is tentative**. Existing chapters, character bible, and the October chosen climax remain unchanged; the ambiguous absorption ending is still only a speculative candidate.
+
+**Next one-question interview prompt:** What makes a genuinely happy moment begin to feel fake to Shade once it's over?
