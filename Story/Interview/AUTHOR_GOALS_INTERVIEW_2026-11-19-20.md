@@ -746,3 +746,27 @@ After the direct-absorption proposal (§43), the author's late confession wordin
 **Do not turn this into absolution or an explanatory thesis:** Shade does not seek death. Pathwell is both someone the reader may love and someone who knowingly did something unforgivable. Neither his restitution nor Elizabeth's invitation excuses it; readers can inhabit the unresolved moral experience.
 
 **Craft/verification status:** This is a source-grounded first implemented manuscript pass, **not** a finished independent voice/cold-reader signoff. The story's larger expansion discussion remains paused. The right next step is inspect the edited climax as prose, not resume open-ended character psychology.
+
+## 47. Reader recognition in Shade — author authorizes structural exploration (2026-11-24)
+
+After concluding that Shade's short time in the book does not earn missing him, the author clarified:
+
+> I guess it doesnt even have to be like him, but feel sympathetic toward him
+
+Then:
+
+> So the reader needs to see themselves in Shade
+
+In response to the proposed focused restructuring of Shade's journey **from the diner through Camp before writing additional chapters**, the author said:
+
+> lets go for it
+
+**Author's intended reader experience:** Readers need not find Shade likable, flawless, or a charming sidekick. They should experience recognizable human difficulties through him and feel sympathy with his unfinished attempt at living—without equating his circumstances literally to every reader's life. This is about genuine emotional recognition, **not** turning him into an exemplary protagonist, pity object, symbol of Pathwell's sin, or a scripted answer to the novel's identity questions.
+
+**Scope of authorization:** Examine/restructure the middle **as a candidate proposal first**, identifying what to deepen, move, leave alone, and what a genuine time extension would cost. This is *not yet* an author choice of a specific added scene, new overnight at Camp, or changed chapter words. R73's direct absorption death and later unapologetic admission remain the fixed working ending for this exploration.
+
+**Completed source-grounded first proposal:** [Shade sympathy structural trial, 2026-11-24](../Revision/Emergence/SHADE-SYMPATHY-STRUCTURAL-TRIAL-2026-11-24.md) compares actual current Chapters 8–14 and proposes a **second contact** at Camp: an ordinary obligation and fallible reaction, a social consequence, an unceremonious return to the same relationship, and a quiet aftermath in which a genuine good time doesn't solve Shade's larger predicament. The editor recommends putting a small relational cycle before Wren's hand injury/Pathwell's arrival, potentially requiring one credible overnight interval. **This is the editor's lean, not a selected fact.** A same-day intensification is a lower-disruption control, possibly insufficient for the author's concern. Keep the diner mostly intact and do not create unrelated adventure padding.
+
+**Human ambiguity remains protected:** The author's §§37–39 still govern: Shade may enjoy something and later regard it as hollow because it didn't change him; don't force a self-diagnosis, neat redemption, psychological origin story, or “lesson.” His death is not willing or worthwhile in compensation for Pathwell's guilt.
+
+**Status:** Structural diagnosis/proposal completed and saved; canon unchanged by this pass. Next eligible writing work is a **bounded experimental scene candidate**, not wholesale production rewrite. A truly independent reader verdict remains pending.
