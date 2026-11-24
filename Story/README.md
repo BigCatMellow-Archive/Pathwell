@@ -14,7 +14,7 @@
 | [Revision/Experiments/](Revision/Experiments/README.md) | Separate Garden, Wild Garden, Composite, and smaller alternate versions | **experiments; not the manuscript** |
 | [Archive/Manuscript/](Archive/Manuscript/README.md) | The author's earlier exploratory writing and working drafts, including the Google Doc snapshot | **historical source; not canon** |
 | [Revision/Emergence/](Revision/Emergence/INDEX.md) | The author's Nov 17 reflections on the original, canon and Composite; pruning/ Shade questions; longer-term gardener/10Kings direction | **discussion and analysis; no new rulings** |
-| [Interview/](Interview/README.md) | Locked answers about the story and world | **author authority** |
+| [Interview/](Interview/README.md) | August locked story/world rulings, plus the [November author-led scene review](Interview/2026-11-REVIEW-INDEX.md) | **historical authority + separately labeled exploratory notes** |
 | [Revision/](Revision/README.md) | Decisions, plan, pass log, status evidence, promise ledger, and voice benchmarks | **working records** |
 | [Story_Files/](Story_Files/README.md) | World and character material, canon, voice, and chapter contracts | **current references** |
 | [Sunday-Morning/](Sunday-Morning/README.md) | Writing and review method, adapted for this book; its tone has also been selectively adopted per later author rulings | **method** |
