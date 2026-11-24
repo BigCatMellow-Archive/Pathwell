@@ -6,7 +6,7 @@ Original scope: Shade / Pathwell / Elizabeth at the Camp climax (Rung Q28–Q54)
 
 ## November author-led interview and scene review — current navigation (2026-11-24)
 
-- [**Scene-by-scene decision index**](../../Interview/2026-11-REVIEW-INDEX.md) — current ten-scene status, topic locator, all 30 interview entries and source links, live open questions and cross-scene dependencies.
+- [**Scene-by-scene decision index**](../../Interview/2026-11-REVIEW-INDEX.md) — current ten-scene status, topic locator, all 31 interview entries and source links, live open questions and cross-scene dependencies.
 - [**Crash-to-diner working brief**](../../Interview/2026-11-CRASH-TO-DINER-BRIEF.md) — versions of the midpoint accident, protection, Shade departure, and transition to diner recognition; still *unapplied*.
 - [**Full author-led interview**](../../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) — begun November 19–20 and continued through November 23; chronological quotes, corrections, candidates and choices preserved under original filename.
 - [**Exploratory guardrails**](EXPLORATORY-GUARDRAILS-2026-11-20.md) — one question at a time, no overliteralization or unauthorized chapter/rule changes. Its initial pause on Scene #1 was historical; current resume is the Scene #5 identity question.
