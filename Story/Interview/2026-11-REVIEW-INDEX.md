@@ -1,6 +1,6 @@
 # Pathwell — November 2026 author-led review index
 
-**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 34 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
+**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 35 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
 
 **Read the source:** [full chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) (quotes/corrections preserved), [Scene #4 → #5 crash/diner brief](2026-11-CRASH-TO-DINER-BRIEF.md) (side-by-side version and dependency map), [November author-goals audit](../Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) (editorial assessment), and [interview guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md).
 
@@ -20,7 +20,7 @@
 | **6. The Ask / museum** | **Not yet reviewed in this interview pass.** Existing decisions still stand. | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
 | **7. Forced reintegration** | **Not yet reviewed in this pass.** | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
 | **8. Milo / archive fire** | **Not yet reviewed in this pass.** Physical cookbook-page retention has possible continuity implications. | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
-| **9. Shade's death / Pathwell's inaction** | **Not yet reviewed in this pass.** Earlier explicit author decisions still stand. | [Decisions R45–R47](../Revision/Decisions.md#the-authors-rulings-for-this-revision) |
+| **9. Shade's death / Pathwell's inaction** | **Under exploratory challenge:** the author floated an unresolved-survivor absorption ending, **not approved**. Existing selected climax and Pathwell's knowing inaction remain unchanged. | [Decisions R45–R47](../Revision/Decisions.md#the-authors-rulings-for-this-revision) |
 | **10. Confession / next adventure** | **Not yet reviewed in this pass.** | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
 
 ## Find a topic or choice
@@ -44,7 +44,7 @@
 3. **Magic / crash:** Protective text must be an authentic charged original, physically available and consumed when used, per the [world bible](../Story_Files/world_bible.md). A rushed working and possible concussion need credible physical/narrative consequences.
 4. **Authorship:** Original draft facts, past author locks, AI-assisted revisions, current author wishes and assistant opinions are different categories. Do not infer an approved rewrite from the presence of an attractive option.
 
-## All 34 interview entries — direct links
+## All 35 interview entries — direct links
 
 The chronological file remains intact, with its existing section headings/anchors; this table is the **findable source trail**, not a duplicate account.
 
@@ -85,8 +85,10 @@ The chronological file remains intact, with its existing section headings/anchor
 | 33 | Scene #5 / fear of exclusion | [Scene #5 — fear of losing the newly discovered world (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#33-scene-5--fear-of-losing-the-newly-discovered-world-2026-11-24) |
 | 34 | Scene #5 / Shade's motivation | [Scene #5 / Shade — author challenges his accountability motivation (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#34-scene-5--shade--author-challenges-his-accountability-motivation-2026-11-24) |
 
+| 35 | Shade / unsatisfiable want and ending alternative | [Shade's unsatisfiable want and the speculative ambiguous-absorption ending (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#35-shades-unsatisfiable-want-and-the-speculative-ambiguous-absorption-ending-2026-11-24) |
+
 ## Current resume point and maintenance
 
-**Current interview direction:** The author doubts whether Shade's accountability mission is personally strong enough; his own existence and painful pull are consequences of Pathwell's choices. Examine what Shade actually needs beyond forcing a lesson. **Next one-question prompt:** If Pathwell sincerely admitted responsibility but Shade's painful draw continued, would Shade feel he'd gotten what he wanted?
+**Current interview direction:** The author doubts *anything* can satisfy Shade, and floated—but has **not selected**—a final Pathwell/Shade tussle where one absorbs the other and the survivor's identity stays uncertain. Source-check: this cannot leave the rest of the current ending unchanged; Ch14–18 and the confession depend on Shade's refusal, blob death and identifiable Pathwell. **Next question:** What, if anything, does Shade find worth living for that isn't about Pathwell?
 
 For each new author answer, append a dated entry to the chronological [interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update this dashboard and any affected scene brief, and distinguish fact/candidate/decision. No chapter or canon edits from indexing alone.
