@@ -1,6 +1,6 @@
 # Pathwell — November 2026 author-led review index
 
-**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 44 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
+**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 45 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
 
 **Read the source:** [full chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) (quotes/corrections preserved), [Scene #4 → #5 crash/diner brief](2026-11-CRASH-TO-DINER-BRIEF.md) (side-by-side version and dependency map), [November author-goals audit](../Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) (editorial assessment), and [interview guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md).
 
@@ -44,7 +44,7 @@
 3. **Magic / crash:** Protective text must be an authentic charged original, physically available and consumed when used, per the [world bible](../Story_Files/world_bible.md). A rushed working and possible concussion need credible physical/narrative consequences.
 4. **Authorship:** Original draft facts, past author locks, AI-assisted revisions, current author wishes and assistant opinions are different categories. Do not infer an approved rewrite from the presence of an attractive option.
 
-## All 44 interview entries — direct links
+## All 45 interview entries — direct links
 
 The chronological file remains intact, with its existing section headings/anchors; this table is the **findable source trail**, not a duplicate account.
 
@@ -102,8 +102,10 @@ The chronological file remains intact, with its existing section headings/anchor
 
 | 44 | Shade / conscious failure to stop absorption | [Direct-absorption death — Pathwell knew and chose not to stop (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#44-direct-absorption-death--pathwell-knew-and-chose-not-to-stop-2026-11-24) |
 
+| 45 | Shade / uncompromised reader judgment | [Shade's death exposes Pathwell — no forgiveness required (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#45-shades-death-exposes-pathwell--no-forgiveness-required-2026-11-24) |
+
 ## Current resume point and maintenance
 
-**Current review direction:** Expansion review remains paused. The author is exploring **Shade dying directly during Pathwell's forced reintegration**, with a late confession in which Pathwell admits he knew something was wrong, **could have stopped, but did not want to**. This preserves deliberate culpability yet increases the ethical weight of Elizabeth's later invitation. **Current Ch14 mechanics do not yet support literally “stopping at any time” after payment release**; the alternative must reconcile stopability, archive fire, Milo rescue, loss of simultaneous Shade/Milo cries, and later accountability. Neither the death nor the exact confession line is adopted into canon or manuscript ([§43](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#43-climax-alternative--shade-dies-in-pathwells-absorption-attempt-2026-11-24), [§44](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#44-direct-absorption-death--pathwell-knew-and-chose-not-to-stop-2026-11-24)).
+**Current review direction:** Expansion review remains paused. The author is exploring direct Shade destruction in Pathwell's attempted reintegration with a late confession that Pathwell **could have stopped but did not want to**. **The author explicitly rejects making the choice sympathetic or forgivable.** Shade's last moments should expose Pathwell's true capacity for harm; readers may still like him but must live with what he did. Elizabeth's later invitation must **not** be framed as absolution or demand readers' moral comfort. Preserve Shade's will to live, avoid converting his death into a purposeful sacrifice, and let the moral question remain open ([§45](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#45-shades-death-exposes-pathwell--no-forgiveness-required-2026-11-24)). The physical death mechanism remains an **unselected candidate**; no new magic mechanism or manuscript edit is authorized.
 
 For each new author answer, append a dated entry to the chronological [interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update this dashboard and any affected scene brief, and distinguish fact/candidate/decision. No chapter or canon edits from indexing alone.
