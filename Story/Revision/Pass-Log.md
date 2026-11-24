@@ -3666,3 +3666,26 @@ Findings are in the [Composite README](Experiments/Composite/README.md#tone-pass
 **Targeted static reread:** Fourteen direct assertions passed across Chapters 14–18 and the primary world/decision records: refusal, stopping despite spent payment, deliberate continuation, lantern fire, Milo rescue, both books lost, blob not Shade's killer, no same-day explicit confession, corrected museum account, exact late confession, unchanged final exchange, pruning irreversibility, world-bible/canon agreement, and R73 authority. This is a continuity sanity check, **not** an independent reader verdict.
 
 **STATUS:** Implemented to canonical chapters on the default branch, **L3 provisional**, awaiting the author/independent voice and whole-context reader passes for L4. No extra expansion, new chapter count, or future-arc conclusion selected.
+
+
+## P122, 2026-11-24: Shade's reader-recognition structural diagnosis
+
+**AUTHORITY:** After the author observed that readers do not yet have enough time with Shade to care when he dies, he clarified that they need **sympathy rather than mandatory liking**, and “the reader needs to see themselves in Shade.” In response to a proposed focused restructuring of Shade's journey **from the diner to Camp before new chapters are written**, he said **“lets go for it.”** This authorizes source-grounded structural exploration, not automatic replacement of particular scenes. [Author interview §47](../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#47-reader-recognition-in-shade--author-authorizes-structural-exploration).
+
+**DO — documentation and structural analysis only:** Read the actual Chapters 8–14, R73, the author interview §§37–39 and 41–47, core writing principles, promise ledger, and editorial method. Created [Shade sympathy structural trial](Emergence/SHADE-SYMPATHY-STRUCTURAL-TRIAL-2026-11-24.md), indexed it in [Emergence](Emergence/INDEX.md), and updated the [author interview](../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) and [review index](../Interview/2026-11-REVIEW-INDEX.md). It identifies the missing story experience as **a second contact with consequences**, not more exposition about Shade or a compulsory happy day. Primary candidate: Shade has one ordinary responsibility, makes an embarrassing/unfair social mistake, meets a nonpunitive but real response, returns voluntarily to the same people, and experiences a genuinely good moment whose ending still leaves his larger struggle unresolved. The already-established knitted-cap Hearts player could become a recognizable person to Shade before she tries to hold him together in Ch15.
+
+**Chronology / alternative evaluated:** Ch11 ends near daylight and Ch12–13 run into the same first morning when Pathwell arrives. Option A (same-day intensification) avoids timing changes but may still feel rushed. Option B (editorial lean) earns a repeat encounter across one plausible overnight interval, **only if** Ch11's documented museum accountability and Pathwell's actual injuries can credibly delay Pathwell and Stansbury. This is an unresolved structural tradeoff, not an introduced rule or selected day count. Earlier Shade POV, new magic, and detachable adventures are disfavored.
+
+**Checks / after-every-pass routine:**
+1. **Book targets and rulings — done:** no conflict with R73, Shade's refusal, Elizabeth's agency, the saved records' fate or the intact final exchange; §39 deliberate ambiguity remains open.
+2. **Chapter-shape review — done as diagnosis:** mapped Ch8–14 and the new proposal against the current first-encounter cadence. Registry unchanged because canonical chapter shapes did not change.
+3. **Checker — not applicable:** no chapter text was changed or generated.
+4. **Scene diagnostic — done at plan level:** every proposed relationship beat has a social change, consequence, deletion test and a reason to recur.
+5. **Independent fresh check — pending:** no helper or blind reader evaluated this proposal; the reviser cannot award its own L4 verdict.
+6. **Replacement tic — checked as plan risk:** no stacking of card games, onion gags, empty-table symbolism or explanatory psychology speeches.
+7. **Deliberate ambiguities — preserved:** whether a good moment “counts” for Shade and why he remains dissatisfied are not given final explanations.
+8. **Evidence and records — done:** live chapter text and author's own statements are cited in the proposal and interview; scope is marked candidate rather than canon. Revision Status updated separately.
+9. **Change notes — done:** this entry reports actual created/updated records only; no claims about prose edits.
+10. **Reporting — done:** trial, status and risks distinguished. **Independent tenth seat — pending/not required for a noncanonical plan**; strongest objection is that a delay engineered to extend Shade's life could undermine Pathwell's urgency and become exactly the padding the author fears. **Light Sunday touch — not applicable:** no story prose drafted.
+
+**STATUS:** Structural proposal saved, canonical Chapters 8–18 unchanged by P122. Next eligible unit is one bounded **experimental Camp relationship cycle** with source/control comparisons and timing test, subject to author selection before application.
