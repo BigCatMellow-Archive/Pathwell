@@ -1,6 +1,6 @@
 # Pathwell — November 2026 author-led review index
 
-**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 33 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
+**Last verified: 2026-11-24.** This is the **entry point** for the author-led review, currently 34 chronological entries, covering Scenes #1–4 and the threshold of Scene #5. **Index, not new story authority:** no chapter, non-negotiable scene, magic rule, or earlier author lock is changed by this page.
 
 **Read the source:** [full chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) (quotes/corrections preserved), [Scene #4 → #5 crash/diner brief](2026-11-CRASH-TO-DINER-BRIEF.md) (side-by-side version and dependency map), [November author-goals audit](../Revision/Emergence/GOALS-VERSUS-RULES-AUDIT-2026-11-17.md) (editorial assessment), and [interview guardrails](../Revision/Emergence/EXPLORATORY-GUARDRAILS-2026-11-20.md).
 
@@ -16,7 +16,7 @@
 | **2. Bar blob rescue** | **Positive author support** for Elizabeth instinctively saving Pathwell, surprising herself; old bar atmosphere need not return. Revision provenance noted. | [§8](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#8-non-negotiable-2--the-author-corrects-the-origin-of-the-bar-rescue)–[§12](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#12-scene-2--original-bar-atmosphere-not-required-2026-11-20) |
 | **3. Nana's cookbook** | **OPEN on timing and full-book surrender.** Candidate: Elizabeth saves one/two cherished pages **of her own accord**. Exact recipes and the archive fire's effect undecided. | [§13](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#13-non-negotiable-3--nanas-cookbook-and-whether-the-sacrifice-is-earned-2026-11-20)–[§17](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#17-scene-3--recipes-need-not-be-overjustified-2026-11-23) |
 | **4. Midpoint crash** | **Major exploratory reconstruction**: threat and bluff followed by unintended impact, not a planned wreck. Takes wheel to demand respect/hearing; Pathwell's hurried protection possible, source deferred; disoriented Shade departure. | [§18](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#18-non-negotiable-4--the-midpoint-crashs-changing-plot-motive-and-invariant-echo-2026-11-23)–[§29](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#29-crash-aftermath--disoriented-elizabeth-leaves-with-shade-while-brothers-are-incapacitated-2026-11-23); [detailed brief](2026-11-CRASH-TO-DINER-BRIEF.md) |
-| **5. Diner / Shade recognition** | **ACTIVE / OPEN.** Elizabeth notices Stansbury is missing, not that he has been replaced by a clone. Diner's deeper stake is her fear that **the adventure may be taken away** when Pathwell moves on; precise Shade recognition and motives open. | [§28](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#28-scene-4-aftermath--shade-takes-elizabeth-to-diner-2026-11-23), [§29](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#29-crash-aftermath--disoriented-elizabeth-leaves-with-shade-while-brothers-are-incapacitated-2026-11-23); [W16 and R55](../Revision/Decisions.md#working-decisions) |
+| **5. Diner / Shade recognition** | **ACTIVE / OPEN.** Elizabeth fears the adventure may be taken away. The author now questions whether Shade's mission to expose Pathwell is sufficiently personal; Shade's painful pull and desire to define his own life matter. Reveal mechanism, Shade's deeper goal and tactics remain open. | [§28](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#28-scene-4-aftermath--shade-takes-elizabeth-to-diner-2026-11-23), [§29](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#29-crash-aftermath--disoriented-elizabeth-leaves-with-shade-while-brothers-are-incapacitated-2026-11-23); [W16 and R55](../Revision/Decisions.md#working-decisions) |
 | **6. The Ask / museum** | **Not yet reviewed in this interview pass.** Existing decisions still stand. | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
 | **7. Forced reintegration** | **Not yet reviewed in this pass.** | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
 | **8. Milo / archive fire** | **Not yet reviewed in this pass.** Physical cookbook-page retention has possible continuity implications. | [Ten-scene targets](../../Non-Negotiable-Scenes.md) |
@@ -44,7 +44,7 @@
 3. **Magic / crash:** Protective text must be an authentic charged original, physically available and consumed when used, per the [world bible](../Story_Files/world_bible.md). A rushed working and possible concussion need credible physical/narrative consequences.
 4. **Authorship:** Original draft facts, past author locks, AI-assisted revisions, current author wishes and assistant opinions are different categories. Do not infer an approved rewrite from the presence of an attractive option.
 
-## All 33 interview entries — direct links
+## All 34 interview entries — direct links
 
 The chronological file remains intact, with its existing section headings/anchors; this table is the **findable source trail**, not a duplicate account.
 
@@ -83,9 +83,10 @@ The chronological file remains intact, with its existing section headings/anchor
 | 31 | Scene #5 / reader stakes | [Scene #5 — author redirects from reveal mechanics to human stakes (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#31-scene-5--author-redirects-from-reveal-mechanics-to-human-stakes-2026-11-24) |
 | 32 | Scene #5 / wonder and purpose | [Scene #5 — Elizabeth's wonder and the adventure she did not know she needed (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#32-scene-5--elizabeths-wonder-and-the-adventure-she-did-not-know-she-needed-2026-11-24) |
 | 33 | Scene #5 / fear of exclusion | [Scene #5 — fear of losing the newly discovered world (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#33-scene-5--fear-of-losing-the-newly-discovered-world-2026-11-24) |
+| 34 | Scene #5 / Shade's motivation | [Scene #5 / Shade — author challenges his accountability motivation (2026-11-24)](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#34-scene-5--shade--author-challenges-his-accountability-motivation-2026-11-24) |
 
 ## Current resume point and maintenance
 
-**Current interview direction:** She does not lose the desire to explore; she fears **being left behind** once Pathwell realizes the blobs weren't targeting her. His habit of moving on can make the threat plausible without malice. **Next one-question prompt:** What does Shade believe he's doing for Elizabeth when he raises the possibility that Pathwell may leave her behind?
+**Current interview direction:** The author doubts whether Shade's accountability mission is personally strong enough; his own existence and painful pull are consequences of Pathwell's choices. Examine what Shade actually needs beyond forcing a lesson. **Next one-question prompt:** If Pathwell sincerely admitted responsibility but Shade's painful draw continued, would Shade feel he'd gotten what he wanted?
 
 For each new author answer, append a dated entry to the chronological [interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), update this dashboard and any affected scene brief, and distinguish fact/candidate/decision. No chapter or canon edits from indexing alone.
