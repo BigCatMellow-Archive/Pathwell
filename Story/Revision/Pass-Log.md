@@ -3637,3 +3637,32 @@ Findings are in the [Composite README](Experiments/Composite/README.md#tone-pass
 - Ch1 rebuilt into his first draft's order (R70). The first thud now comes at 87 words, against 221.
 - Ch4 and Ch6–12 got a merge-only rhythm pass, with words unchanged.
 - A fresh check flagged ten merges that hurt timing and some new wording in Ch1. All of it was fixed.
+
+
+## P121, 2026-11-24: Shade consumed by forced reintegration
+
+**AUTHORITY:** The author proposed that Shade die in Pathwell's absorption/rejoining attempt rather than in the later cleanup blob. He supplied the late confession's key wording: “I could tell something was wrong, I could have stopped it at any time if I wanted to. But I didnt want to.” He expressly rejected making Pathwell's decision forgivable or sympathetic: Shade's death must expose what Pathwell chose, while readers may still like him and have to live with the knowledge. The author then said **“lets do it”**. Recorded as **R73**, superseding the October R45–R47 *death mechanism and confession staging*, not the whole rest of the book. The November literary exploration remains free to live in its questions.
+
+**DO — changed canonical files, verified by GitHub reread:**
+- **Ch14:** Shade still refuses. The already released pruning payment is irreversible, but the current working can be stopped if Pathwell releases the loop. He witnesses Shade begin unraveling and **keeps his hands on it** while Mama Baga, Elizabeth and Shade tell him to stop. A torn pin, rather than the loop, breaks the lit archive lantern; the fire starts before the working is finished. Milo calls from inside, Shade struggles, and Elizabeth goes.
+- **Ch15:** Shade is still resisting when the working destroys him; a Camp card player attempts to hold him, and he explicitly asks for help. **No blob captures him.** A later cleanup creature crosses toward unclaimed fresh waste, gathers the waste and withdraws. Elizabeth still physically rescues Milo, passes her diary and Nana's cookbook, and both are lost in ordinary fire. The cracked foam dagger remains unused.
+- **Ch16:** Milo's questions about how Shade died now fit the working. The **same-day explicit admission of motive** was removed: the harm and apology are public, but the deliberate “did not want to stop” confession remains for Chapter 18 and Elizabeth alone.
+- **Ch17:** Elizabeth's museum witness statement no longer says Shade “slipped”; he was drawn into Pathwell's working.
+- **Ch18:** Replaced the old not-calling-for-help account with the author's “I could have stopped it at any time…” confession. Elizabeth says she left Shade while rescuing Milo; Pathwell rejects equivalence. The silent refusal to buy a replacement cookbook, the hour of browsing after the confession, the self-directed invitation and the exact last exchange remain.
+- **Owners reconciled:** [Decisions R73](Decisions.md#the-authors-rulings-for-this-revision), [Non-Negotiable Scenes](../../Non-Negotiable-Scenes.md), [canon](../Story_Files/canon.md), [world bible](../Story_Files/world_bible.md), [character bible](../Story_Files/character_bible.md), [before-you-touch brief](Before-You-Touch-A-Chapter.md), [promise ledger](Promise-Ledger.md), [chapter-shape registry](Registry.md), [revision status](../../Revision-Status.md) and [author interview §46](../Interview/AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#46-author-selects-shades-death-in-pathwells-forced-working).
+
+**CHECKS / routine (honest states):**
+1. **Tone guardrails — done provisionally:** retained ordinary fire, absence of a farewell/speech, Camp's practical reactions, prior gentle humor outside the fatal beat, and no narration that grants pardon.
+2. **Shapes before sentences — done:** Ch14–18 endings and engines rechecked; [Registry](Registry.md#chapter-shapes) updated.
+3. **Repository checker — skipped:** the connected GitHub editing environment did not run the repo-local Python checker; do not claim a passing run.
+4. **Scene diagnostic — done by reviser:** staged Pathwell's continuing physical grip, Shade's refusal and fear, the pin/lantern, Milo trapped, Elizabeth's physical rescue, and the later private confession. No new global magic law or refunded pruning.
+5. **Fresh independent comparison — pending:** no separate text reviewer was available in this pass; the reviser cannot sign off on its own prose.
+6. **Blind reader protocol — pending:** new Chapters 14–18 need a true full-context reader who did not draft them, particularly for perceived forgiveness and whether the visible stop option feels earned.
+7. **Replacement tics — limited manual review:** cut two over-explanatory new lines in Ch15. A dedicated whole-chapter voice pass remains pending.
+8. **Deliberate ambiguity — preserved:** readers can like Pathwell while knowing his unforgivable act; no guaranteed redemption, no Shade martyrdom, no claim about what happiness means.
+9. **Change notes — done:** actual five-chapter changes and downstream records are stated above, with historical blob-death version preserved in Git history.
+10. **Reporting — done:** all stages named with their actual status. **Tenth-seat independent challenge — pending**; strongest known risk is that making Pathwell's refusal visible and irreversible may cause some readers to reject Elizabeth's later invitation. Do not solve it with absolution. **Light Sunday touch — not applicable** as a separate pass, though tone guardrails were checked provisionally.
+
+**Targeted static reread:** Fourteen direct assertions passed across Chapters 14–18 and the primary world/decision records: refusal, stopping despite spent payment, deliberate continuation, lantern fire, Milo rescue, both books lost, blob not Shade's killer, no same-day explicit confession, corrected museum account, exact late confession, unchanged final exchange, pruning irreversibility, world-bible/canon agreement, and R73 authority. This is a continuity sanity check, **not** an independent reader verdict.
+
+**STATUS:** Implemented to canonical chapters on the default branch, **L3 provisional**, awaiting the author/independent voice and whole-context reader passes for L4. No extra expansion, new chapter count, or future-arc conclusion selected.
