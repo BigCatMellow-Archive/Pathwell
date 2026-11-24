@@ -52,6 +52,12 @@ In [interview §32](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#32-scene-5--elizabet
 
 This **does not establish** that she needed to be the blob's target, a chosen figure, or the center of the magical problem to value the adventure. An editorial possibility—not an author verdict—is that the diner threatens her **trust in Pathwell's reasons for bringing her** rather than invalidating the strange world itself. Preserve its wonder and pleasures, not only the suspense and danger. Nor should this explanation prescribe Elizabeth's response; ask her author rather than write a thesis into the chapter.
 
+## Diner's emerging stake: loss of belonging, not loss of wonder (author's 2026-11-24 clarification)
+
+In [interview §33](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md#33-scene-5--fear-of-losing-the-newly-discovered-world-2026-11-24), the author says Elizabeth still wants the adventure: Shade's revelation instead raises the possibility that **Pathwell will leave her behind once she is no longer involved in the danger**. Her fear is that the enormous, exciting world she has just discovered may be taken away from her. Pathwell may never intend to hurt her, yet his habit of moving on without thinking makes that danger credible. Shade could persuade her, but **neither his motive nor the prediction's truth has been chosen**.
+
+This deepens the diner encounter without prescribing what Elizabeth must decide or causing her wonder to collapse. Her fear of exclusion is not the same as a desire to be magically chosen.
+
 ## Resume interview here
 
-**Next one-question prompt:** When Elizabeth learns she was never the danger's target, does that change her desire to keep exploring the strange world, or mainly how she feels about Pathwell? The timing of her recognition of Shade is still open and **not** the next issue to settle. Keep [the chronological interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md) and [the scene index](2026-11-REVIEW-INDEX.md) aligned. **No prose edits without separate author selection.**
+**Next one-question prompt:** What does Shade believe he's doing for Elizabeth when he raises the possibility Pathwell will leave her behind? The exact recognition line, his sincerity and his strategy are still open. [Full interview](AUTHOR_GOALS_INTERVIEW_2026-11-19-20.md), [scene index](2026-11-REVIEW-INDEX.md). **No prose edits without separate author selection.**
